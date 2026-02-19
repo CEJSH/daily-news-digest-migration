@@ -1,0 +1,562 @@
+{
+  "date": "2026-02-18",
+  "selectionCriteria": "① 내일도 영향이 남는 이슈 ② 과도한 감정 소모 제외 ③ 어제와 중복되는 뉴스 제외",
+  "editorNote": "이 뉴스는 클릭 수가 아니라 오늘 이후에도 남는 정보만 기준으로 편집했습니다.",
+  "question": "정보를 덜 보는 것이 오히려 더 똑똑한 소비일까?",
+  "lastUpdatedAt": "2026-02-18T09:39:05.912+09:00",
+  "items": [
+    {
+      "id": "2026-02-18_1",
+      "date": "2026-02-18",
+      "category": "정책",
+      "title": "정부, '취약점 제보제' 시범 도입... '화이트해커' 합법화 기반 마련",
+      "summary": [
+        "정부가 '취약점 제보제'를 시범 도입하여 '화이트해커' 합법화의 기반을 마련합니다."
+      ],
+      "whyImportant": "취약점 제보제 시범 도입은 사이버 보안 강화 및 화이트해커 양성에 기여할 수 있습니다.",
+      "importanceRationale": "근거: 정부가 취약점 제보제를 통해 보안 취약점을 사전에 발견하고 대응함으로써 사이버 공격 위험을 줄이고, 화이트해커들의 활동을 장려하여 사이버 보안 인력 양성에 긍정적인 영향을 미칠 수 있습니다.",
+      "impactSignals": [
+        {
+          "label": "security",
+          "evidence": "취약점 제보를 통해 사이버 공격에 대한 보안 강화가 기대됩니다."
+        }
+      ],
+      "dedupeKey": "취약점 제보제 시범 도입",
+      "clusterKey": "기반",
+      "matchedTo": null,
+      "sourceName": "M이코노미뉴스",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1RcTBpUzVmTXZjN2VoTlRjcUhkT1JseHI0OFhzU21LeVp4UkZsMnRPRjk3WUJfUkt3QXIySlZXcTNPZVBPdFF4bGgyVzR4X0pkNmpMTEc1d18yeElISGJieUItUWJIYjQ?oc=5",
+      "publishedAt": "2026-02-18T05:10:35.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 4,
+      "importanceRaw": 75,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 내용이 일치하며, 정보가 명확하게 전달됩니다.",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-02-18_2",
+      "date": "2026-02-18",
+      "category": "정책",
+      "title": "연방 법안, 데이터 센터에 자체 전력 생산 요구할 수도",
+      "summary": [
+        "미국에서 데이터 센터에 자체 전력 생산을 요구하는 연방 법안이 논의될 수 있습니다.",
+        "이는 데이터 센터의 에너지 소비 문제를 해결하기 위한 정책적 움직임으로 보입니다."
+      ],
+      "whyImportant": "데이터 센터의 에너지 자립을 강화하고 전력망 부담을 줄일 수 있는 정책적 변화 가능성을 보여줍니다.",
+      "importanceRationale": "근거: 데이터 센터의 전력 소비량 증가에 대한 우려가 커지는 가운데, 자체 전력 생산 의무화는 에너지 정책에 중요한 영향을 미칠 수 있습니다.",
+      "impactSignals": [
+        {
+          "label": "policy",
+          "evidence": "데이터 센터 자체 전력 생산 의무화 법안 논의"
+        }
+      ],
+      "dedupeKey": "federal_bill_data_center_power",
+      "clusterKey": "에너지/bill",
+      "matchedTo": null,
+      "sourceName": "Propmodo",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNR3dKQlB1cEVnZG5XLXpTXzZoYkx3elFITElhdjhkc3dKdW1GVTJyeGtUVE5LclAyTGpnd0pMQk5sTnlFdDdhNFRHRThTTThpaEVfRGp2anhSczh3bHBWSjVyN2RXQmhYbFdiWTh0cUw2ZHlWdmxkNk1SdFNCMFI4VzhjdW9MTHU2VGZ5cE1DcGdlRXM?oc=5",
+      "publishedAt": "2026-02-18T05:50:45.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 3.5,
+      "importanceRaw": 63,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 본문이 일치하며, 정보가 간결하게 제공됨.",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-02-18_3",
+      "date": "2026-02-18",
+      "category": "국제",
+      "title": "미국-이란 군사적 긴장 속 협상 진행, 이란은 트럼프의 레드라인을 인정하지 않아",
+      "summary": [
+        "미국과 이란 간 군사적 긴장 속에서 협상이 진행 중이다.",
+        "이란은 트럼프 전 미국 대통령이 설정한 레드라인을 인정하지 않고 있다."
+      ],
+      "whyImportant": "미국과 이란 간의 협상 상황과 이란의 입장을 보여준다.",
+      "importanceRationale": "근거: 미국과 이란 간의 군사적 긴장이 지속되는 상황에서 협상이 진행 중이라는 점, 그리고 이란이 트럼프 전 대통령의 레드라인을 인정하지 않는다는 점은 향후 양국 관계에 중요한 영향을 미칠 수 있다.",
+      "impactSignals": [],
+      "dedupeKey": "미국-이란 군사긴장속 협상… “이란, 트럼프의 레드라인 인정안해”",
+      "clusterKey": "군사긴장속",
+      "matchedTo": null,
+      "sourceName": "미주한국일보",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA5cE1sQ1A2bmlydF94SElUZVVVcTdDNnFvMGxSaENyOUczck1xMlZVeXNJdEpYeXJ2akZMVW1CZ1dHUGdYSVNrbkdZeU9YWW9oN3FHNFlxNWIzSXZRel8w?oc=5",
+      "publishedAt": "2026-02-17T02:09:46.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 63,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되어 있다. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-02-18_4",
+      "date": "2026-02-18",
+      "category": "국제",
+      "title": "TSMC, 미국 투자 145조 원 추가? 대만 내 미국과의 무역 합의 논란",
+      "summary": [
+        "TSMC의 대미 투자 145조 원 추가 가능성이 제기됨.",
+        "대만 내에서는 미국과의 무역 합의에 대한 논란이 일고 있음."
+      ],
+      "whyImportant": "TSMC의 대규모 투자는 반도체 산업에 큰 영향을 미치며, 무역 합의 논란은 경제적 및 정치적 파장을 야기할 수 있음.",
+      "importanceRationale": "근거: TSMC의 투자 규모가 막대하며, 이는 반도체 공급망 및 국제 관계에 중요한 변화를 가져올 수 있기 때문임.",
+      "impactSignals": [],
+      "dedupeKey": "TSMC_US_Investment_Trade_Agreement_Controversy",
+      "clusterKey": "반도체/145조원",
+      "matchedTo": null,
+      "sourceName": "연합뉴스 한민족센터",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9jWGMyQkphbzlnd1Rra2swTkVocHQwb2F1alAxTk9DUjhPSmFXYi1DellLOHhBTE1uTl80NDNlWTZRTnV6NVJxY0RRTUd6X0l3VVBhb0x0bnh6R3pmdnNPSTRqbFAyZ3VBTHJTbmdCT1dIbV9o?oc=5",
+      "publishedAt": "2026-02-18T06:51:13.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 75,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 본문이 일치하며, 내용이 간결하고 명확함. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-02-18_5",
+      "date": "2026-02-18",
+      "category": "정책",
+      "title": "정부, 체코 신정부와 두코바니 원전 협력 강화…장관급 협의체 가동",
+      "summary": [
+        "정부가 체코 신정부와 두코바니 원전 협력을 강화한다.",
+        "이를 위해 장관급 협의체를 가동할 예정이다."
+      ],
+      "whyImportant": "체코 원전 수주 가능성 확대 및 에너지 협력 강화.",
+      "importanceRationale": "근거: 정부가 체코 신정부와 두코바니 원전 협력을 강화하기 위해 장관급 협의체를 가동하는 것은 정책적 의지를 보여주는 중요한 신호이다.",
+      "impactSignals": [],
+      "dedupeKey": "체코원전협력강화",
+      "clusterKey": "에너지/강화",
+      "matchedTo": null,
+      "sourceName": "서울경제TV",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5fY1hVRnJkYUlSTDI5WGUxQ3RMdDFmRVpIeUZlcnBPb3VacmtmbWZOd3ZvZjdVV1M2cS15Nk9CUW00YnBqbWQ0bVhLNDIyNDN0WDNJZHBPcDdsWmtZMFd5bFhNVHA?oc=5",
+      "publishedAt": "2026-02-18T06:08:30.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 75,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약됨. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-02-18_6",
+      "date": "2026-02-18",
+      "category": "경제",
+      "title": "팔로알토, 매출 급증에도 EPS 예상치 하회로 하락",
+      "summary": [
+        "팔로알토는 매출 급증에도 불구하고 주당 순이익(EPS)이 예상치를 밑돌면서 주가가 하락했다.",
+        "회사의 가이던스 발표 이후 주가가 하락세를 보였다.",
+        "매출은 증가했지만, EPS가 기대에 미치지 못했다."
+      ],
+      "whyImportant": "매출 증가에도 불구하고 EPS가 예상치를 하회했다는 점은 투자자들에게 중요한 신호로 작용할 수 있다.",
+      "importanceRationale": "근거: 매출 증가는 긍정적이지만, EPS 하회는 기업의 수익성에 대한 우려를 불러일으킬 수 있기 때문이다.",
+      "impactSignals": [],
+      "dedupeKey": "PaloAlto_EPS_Guidance_Decline",
+      "clusterKey": "after",
+      "matchedTo": null,
+      "sourceName": "Seeking Alpha",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdEVBSWRxX2g2bjJUcnlZemdrRm44X3ZaUlc4UnZrMmJFYWg3SThrQTFTZGdPM09aRzRESTlRM09rU1lwU2ZibV9CNFd6VzBLbjhuTUhORE1XMml1dGs4WDd0STdtbzJzOWdPRFB1RlFHVVIySE5PT0J6SkhKX2F3eGxCSUFtWVpHT183SERUcmlnYW1pdnBBZmZRendnUXRPcmlRYzgyR3Fta0xKWG5sb0dJTDNla1E1ZkI3b25R?oc=5",
+      "publishedAt": "2026-02-17T21:26:01.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 63,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 본문이 일치하며, 정보가 간결하게 요약되어 있음. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-02-18_7",
+      "date": "2026-02-18",
+      "category": "경제",
+      "title": "워싱턴 주 의원들, 추가 예산 확보 전망",
+      "summary": [
+        "워싱턴 주 의원들이 활용할 수 있는 예산이 증가할 것으로 예상됩니다.",
+        "이는 긍정적인 세수 전망에 따른 것입니다."
+      ],
+      "whyImportant": "워싱턴 주 정책 결정에 영향을 미칩니다.",
+      "importanceRationale": "근거: 세수 전망은 워싱턴 주 의회가 예산을 어떻게 배분할지에 직접적인 영향을 미치므로 중요합니다.",
+      "impactSignals": [],
+      "dedupeKey": "WA_lawmakers_more_money",
+      "clusterKey": "forecast",
+      "matchedTo": null,
+      "sourceName": "KIRO 7 News Seattle",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOTWpDRWtBTDNINGk3dTZmR01ab1lyeVQ0RnBxbkxjSG1TU08tYUh4SFRTZHc1NzIwQXBWUmYxSm1ZdXpxY0UxTEIyV1RRSU51YXJ6al9yeHIyRFJTbldHUU1WSXhhX2syamRsSHU4WnBnZVpxSFFuSnhoUWpZY0dRY1BwTlBQdG1GYnRkbm9NNFFkZ1VfYS1XQWR2ZVJnb1czdUxtWk1mQ2dkYUxla1lnWVRMOTZla3ZRNVVMUEJZOTdjODB1a3fSAdoBQVVfeXFMTVoxT29rLU9GcTZvWDA0bnRhRTQ4cWl6Y0J6VGZtTHN2TzZLOUZBaHpGVW05eGZqYnFwdkQ1RnhpNC0yY2ViT191cGppSmx4UUlmUU1KdWhOc0tqdXBxMlZKbHZ0NldKeXI2QUU2T0V1QXBpX19raUh3OEVWdWMxb1RRUmFEWU9NTUJtRUlYYzVYZjdGR1JTWkVTMGdUV1BuSWVuLW5mNkIzdjFKNUFvVVdfRTJxdF9mUklLSUZIS2x1bDBmb2psaWZnZzZkem9uaDAxLXNaNGJsVnc?oc=5",
+      "publishedAt": "2026-02-17T11:29:59.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 63,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었습니다. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-02-18_8",
+      "date": "2026-02-18",
+      "category": "국제",
+      "title": "현대판 포함외교…美, 이란 700㎞ 앞 항모 진치고 협상",
+      "summary": [
+        "미국이 이란에서 700km 떨어진 해역에 항공모함을 배치하고 협상을 진행하고 있다.",
+        "이는 현대판 포함외교의 일환으로 해석된다."
+      ],
+      "whyImportant": "미국이 이란과의 협상에서 우위를 점하기 위한 전략적 움직임이다.",
+      "importanceRationale": "근거: 미국이 이란 근처에 항모를 배치하여 협상력을 높이려는 시도는, 해당 지역의 지정학적 긴장을 고조시키고 국제 관계에 중요한 영향을 미칠 수 있기 때문이다.",
+      "impactSignals": [],
+      "dedupeKey": "현대판 포함외교…美, 이란 700㎞ 앞 항모 진치고 협상",
+      "clusterKey": "연합뉴스",
+      "matchedTo": null,
+      "sourceName": "연합뉴스 한민족센터",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1raW5qNFhoc1VDTzhNNnFweURXaDY5Z2piZW91Q2VmVU9DWENZSURuSGttWS0xMkpPNG9laGtQdVJYYWxBaEs3THV2UWZwSkY1b2FPTnR2ZTRnbHhyMEpULTVlZnRyb1ZjdmVvTTlnZl85U3lK?oc=5",
+      "publishedAt": "2026-02-17T06:51:24.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 75,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되어 있다. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-02-18_9",
+      "date": "2026-02-18",
+      "category": "에너지",
+      "title": "‘매년 2%씩 증가’하는 전력 수요 전망… 타당한가",
+      "summary": [
+        "전력 수요가 매년 2%씩 증가한다는 전망이 제기되었습니다.",
+        "해당 전망의 타당성에 대한 의문이 제기되고 있습니다."
+      ],
+      "whyImportant": "전력 수요 예측의 정확성은 에너지 정책 결정에 중요한 영향을 미칩니다.",
+      "importanceRationale": "근거: 정확한 전력 수요 예측은 에너지 정책 및 투자 결정에 필수적이며, 부정확한 예측은 자원 낭비 및 에너지 부족을 초래할 수 있습니다.",
+      "impactSignals": [
+        {
+          "label": "market-demand",
+          "evidence": "전력 수요 증가 전망에 대한 논의가 시장 수요에 대한 관심도를 반영합니다."
+        }
+      ],
+      "dedupeKey": "전력수요전망타당성",
+      "clusterKey": "에너지/는다",
+      "matchedTo": null,
+      "sourceName": "한겨레",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBZNDNSSHQ1ZE9McVFDc0xSZmRPTHJzVFlnTXpKNXlxM09LdXNwMWVYcFBYaWpFalJIcnphUFlhbjZPWkl5UG9wd0pNdVluSTlKOTFUX1JScWRzQ2RGNThiUFdPNmc3Y2RYNlhJTg?oc=5",
+      "publishedAt": "2026-02-18T08:09:00.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 3.5,
+      "importanceRaw": 63,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 본문이 일치하며, 핵심 내용을 요약했습니다.",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-02-18_10",
+      "date": "2026-02-18",
+      "category": "에너지",
+      "title": "에너지 태스크포스, 데이터 센터 수요를 주의해야 할 주요 문제로 지적",
+      "summary": [
+        "에너지 태스크포스는 데이터 센터 수요가 주의해야 할 주요 문제라고 언급했습니다.",
+        "Business North Carolina에서 보도했습니다."
+      ],
+      "whyImportant": "데이터 센터 수요 증가에 따른 에너지 문제 심각성",
+      "importanceRationale": "근거: 데이터 센터 수요가 에너지 문제의 핵심으로 부상하고 있다는 점을 지적하고 있습니다.",
+      "impactSignals": [
+        {
+          "label": "capex",
+          "evidence": "데이터 센터 건설 및 운영 관련 자본 지출 증가 예상"
+        },
+        {
+          "label": "market-demand",
+          "evidence": "데이터 센터에 대한 시장 수요 증가가 에너지 문제 야기"
+        }
+      ],
+      "dedupeKey": "energy-task-force-data-center-demand",
+      "clusterKey": "에너지/center",
+      "matchedTo": null,
+      "sourceName": "Business North Carolina",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPT1dLMDZhYlBKQ2pRekZXeTlyZ0RJMUFtZ2d5Rkc1UWpCQUdsemE3U2xqMUxyUE9ZRThDMkFkc28zZDhSdU9oeUdfb0ZwcDZPcXhmdEJnOHl4TU42UUk1d2ZIQTZ3WU5DZkYwelktcHUwOE9VZENucGpwQ0tDaUZ0SFFTVV9MRTRYX0NiS2JwWU5oVDRnSV9z?oc=5",
+      "publishedAt": "2026-02-16T22:55:48.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 3.5,
+      "importanceRaw": 63,
+      "qualityLabel": "ok",
+      "qualityReason": "기사 제목과 내용이 일치하며, 정보가 명확합니다.",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-02-18_11",
+      "date": "2026-02-18",
+      "category": "경제",
+      "title": "Cadence, 강력한 AI 관련 수요에 힘입어 분기별 이익 및 매출 추정치 상회",
+      "summary": [
+        "Cadence가 강력한 AI 관련 수요에 힘입어 분기별 이익 및 매출 추정치를 상회했습니다."
+      ],
+      "whyImportant": "Cadence의 실적은 AI 기술 수요 증가의 중요한 지표입니다.",
+      "importanceRationale": "근거: Cadence의 실적은 AI 기술에 대한 시장 수요를 반영하며, 이는 기술 산업 전반에 걸쳐 중요한 영향을 미칠 수 있습니다.",
+      "impactSignals": [],
+      "dedupeKey": "cadence_beats_ai_demand_2024",
+      "clusterKey": "beats",
+      "matchedTo": null,
+      "sourceName": "Yahoo Finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZGtCdktrdlRjOE1LN0hiTHEwdkFkZl9nbk1vYjVXM2U3SU0wb2pZbm9rNFZGSGxmanZrOC1MT3NtM3BZVzFGZkp1a05Ra2R3czM5V1NTTGpKdkhOeVZuVXVUam1rbWdyRTRqX0xlMHFlZVlEdDBwOGhoeFdPTzJQOGVtbG9wVEotVkJPSw?oc=5",
+      "publishedAt": "2026-02-17T22:46:10.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 75,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 본문이 일치하며, 정보가 명확합니다. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-02-18_12",
+      "date": "2026-02-18",
+      "category": "기술",
+      "title": "팔로알토 네트웍스, AI SOC 및 침해 대응 보장을 포함한 MSIAM 2.0 출시",
+      "summary": [
+        "팔로알토 네트웍스가 AI SOC 및 침해 대응 보장을 특징으로 하는 MSIAM 2.0을 출시했습니다.",
+        "MSIAM 2.0은 보안 운영을 강화하고 침해 사고 발생 시 신속한 대응을 지원합니다."
+      ],
+      "whyImportant": "보안 솔루션의 발전은 기업의 사이버 보안 강화에 기여합니다.",
+      "importanceRationale": "근거: 팔로알토 네트웍스의 MSIAM 2.0 출시로 기업들은 AI 기반의 보안 운영과 침해 대응 능력을 향상시킬 수 있습니다.",
+      "impactSignals": [
+        {
+          "label": "security",
+          "evidence": "MSIAM 2.0 with AI SOC & Breach Response Guarantee"
+        }
+      ],
+      "dedupeKey": "PaloAltoNetworks_MSIAM2.0_Launch",
+      "clusterKey": "alto",
+      "matchedTo": null,
+      "sourceName": "The Fast Mode",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxORnJGRnFaaUxldGhmTHl5M29oYkRCcFRXajRSTDlRZ0ZrdFZxbjQyd0VDVFZMUWxrV1FQT01NeHRuWnhIRDNuWk9Jc3AtN0l4dGMtNjAtN2h2dzVxVGstMFRSQVBaeVpZbG9qWkJQLXVHeVlyM09zSEZfVk5rZnI4NXhCb2Fzd25TcHFWOGF2OEJqaXA4MHljUTd5T3c5S2pEdnJVa3pTV0k3WENXX0lMTGJmV1VlaTJBRnZpbVZmQ1JVbnJTdEttTUtn?oc=5",
+      "publishedAt": "2026-02-18T00:08:05.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 3.5,
+      "importanceRaw": 63,
+      "qualityLabel": "ok",
+      "qualityReason": "The article provides a clear and concise announcement of a product launch.",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-02-18_13",
+      "date": "2026-02-18",
+      "category": "경제",
+      "title": "트럼프, 일본과의 계약으로 대규모 천연 가스 공장이 오하이오에 들어설 것이라고 발표",
+      "summary": [
+        "트럼프 대통령은 일본과의 계약을 통해 대규모 천연 가스 공장이 오하이오에 건설될 것이라고 밝혔습니다.",
+        "이 발표는 Columbus Dispatch를 통해 보도되었습니다."
+      ],
+      "whyImportant": "오하이오에 건설될 대규모 천연 가스 공장은 지역 경제에 상당한 영향을 미칠 수 있습니다.",
+      "importanceRationale": "근거: 트럼프 대통령의 발표와 Columbus Dispatch의 보도를 통해 확인된 사실이며, 대규모 천연 가스 공장 건설은 상당한 자본 지출(capex)을 수반하므로 경제적 중요성이 높습니다.",
+      "impactSignals": [
+        {
+          "label": "capex",
+          "evidence": "대규모 천연 가스 공장 건설은 상당한 자본 지출을 의미합니다."
+        }
+      ],
+      "dedupeKey": "trump-ohio-natural-gas-japan",
+      "clusterKey": "coming",
+      "matchedTo": null,
+      "sourceName": "The Columbus Dispatch",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPdkx0QUpPX0ZJR2l5N2x0MnJMNDM0Nms0cWNMWUlVR0VrZXpQSlNhUTFBTVI0TUxKa0t5N2t5bFNpTFhqRngwRmlUZUQ4MUVjN01naWw5bG5rUksxWHltYWRLZThWUEhtOC04OXpfWFQ4OGFZZHBabUd3bGhyR2pJS0ZSeERZSFN3TVlEYXNhb0NVXzl4YlVvMC1GOFZWcDJHeG1LZUpXOW9LWS04YXBEeWQySHBJVnU4QkUxbmo2YmZTX2F6S0ZjZWw2TmxGbTZLdk9JWWl5T0Q0YWctZUZ3?oc=5",
+      "publishedAt": "2026-02-17T22:29:00.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 3.5,
+      "importanceRaw": 63,
+      "qualityLabel": "ok",
+      "qualityReason": "기사의 내용이 명확하고 사실에 기반하고 있습니다.",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-02-18_14",
+      "date": "2026-02-18",
+      "category": "기술",
+      "title": "EU 의회, 미국 데이터 유출 우려로 AI 도구 사용 금지",
+      "summary": [
+        "EU 의회가 미국 데이터 유출 우려로 인해 AI 도구 사용을 금지했습니다.",
+        "이번 조치는 의회 내 정보 보안을 강화하기 위한 것입니다."
+      ],
+      "whyImportant": "EU 의회의 AI 도구 사용 금지는 데이터 보안에 대한 우려를 보여줍니다.",
+      "importanceRationale": "근거: EU 의회가 미국 데이터 유출 우려로 AI 도구 사용을 금지한 것은 데이터 보안의 중요성을 강조하며, 유사한 우려가 있는 다른 기관에도 영향을 줄 수 있습니다.",
+      "impactSignals": [],
+      "dedupeKey": "EU_Parliament_AI_Ban_US_Data_Leakage",
+      "clusterKey": "data",
+      "matchedTo": null,
+      "sourceName": "The Tech Buzz",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYnpKNEFCMDR6amxKbFlYcnhvNHpPdHFrTUs3ZVM0dk9Kcm5rWnVyUHI2WEFhUzVLVnd3dzBwWEtWcTBVRy0xRFFrNzJKYW95NmNLMEpmanVYQnk2enZkOVVYNmdTczl4aEw0YVRlOTNhUm56NXJkSURFYWJ4SE5WRUZldkh4dFFwOWliM09HWlVOc0hOWlFR?oc=5",
+      "publishedAt": "2026-02-17T16:45:00.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 63,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 내용이 일치하며, 핵심 내용을 잘 요약했습니다. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-02-18_15",
+      "date": "2026-02-18",
+      "category": "경제",
+      "title": "액셀리스 실적 발표 예정: 합병 임박, 반도체 장비 수요 둔화",
+      "summary": [
+        "액셀리스의 실적 발표가 예정되어 있습니다.",
+        "합병이 임박한 가운데 반도체 장비 수요는 주춤한 상황입니다."
+      ],
+      "whyImportant": "액셀리스의 실적 발표는 반도체 장비 산업의 현재 상황을 파악하는 데 중요한 지표가 될 수 있습니다.",
+      "importanceRationale": "근거: 액셀리스의 실적은 반도체 장비 수요를 반영하며, 합병 진행 상황과 함께 투자자들에게 중요한 정보를 제공합니다.",
+      "impactSignals": [],
+      "dedupeKey": "액셀리스_실적_발표_예정_합병_임박_반도체_장비_수요_주춤",
+      "clusterKey": "반도체/반도체",
+      "matchedTo": null,
+      "sourceName": "Investing.com 한국어",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5jRVROc3lHMWp6VktyZmdHb0VEZ1lRNjZ6TjNlalJ1SXlRR1NHQ1k1bmhQT1BFdmcyUEJ4eXBwUlQ1SjVhWmZKeUZhdHM3OWlVMG8yX2l0djZsWGJ1cmczVXE5Vk45eHhJZjVV?oc=5",
+      "publishedAt": "2026-02-17T17:04:00.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 63,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 본문이 일치하며, 간결하게 요약되었습니다. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-02-18_16",
+      "date": "2026-02-18",
+      "category": "정책",
+      "title": "500명 영아 살린 김미애, “소상공인·장애우 봉사서 입법 아이디어 얻어”",
+      "summary": [
+        "김미애 의원은 소상공인과 장애우 봉사활동을 통해 입법 아이디어를 얻었다고 밝혔다.",
+        "그녀는 500명의 영아를 살리는 데 기여했다.",
+        "봉사활동이 입법 활동에 중요한 영감을 제공했다고 언급했다."
+      ],
+      "whyImportant": "김미애 의원의 입법 활동 배경을 보여주는 기사",
+      "importanceRationale": "근거: 김미애 의원의 입법 아이디어가 소상공인과 장애우 봉사에서 비롯되었다는 점을 강조하며, 그녀의 사회적 기여를 부각한다.",
+      "impactSignals": [
+        {
+          "label": "infra",
+          "evidence": "소상공인과 장애우 봉사활동을 통해 입법 아이디어를 얻었다는 내용에서 사회 기반 시설 및 지원에 대한 관심사를 엿볼 수 있다."
+        }
+      ],
+      "dedupeKey": "500명 영아 살린 김미애, “소상공인·장애우 봉사서 입법 아이디어 얻어”",
+      "clusterKey": "500명",
+      "matchedTo": null,
+      "sourceName": "한국경제",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9VZDMxajBwN18zSU1NUmtZTktZYTcxamhhRUJGcjlNSGZYY1U4d3RHMDhqcFhPZDEwN1g4SHJILUpaczlYdmgtRHk5YU5SaHNiSGcxRG1IT2pDd9IBVEFVX3lxTE1wT2Jrckh6X1dCdjJrSk5WRm53YVg2YVpDa0ZkZExoT3FoU1NDUDFQWEF1ZlNnb1N6dTlBRmtMdlZmdS1VRmViZWRnRTZjRnMxT19BZw?oc=5",
+      "publishedAt": "2026-02-18T05:55:38.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 3,
+      "importanceRaw": 50,
+      "qualityLabel": "ok",
+      "qualityReason": "기사 내용이 명확하고 간결하게 전달됨",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-02-18_17",
+      "date": "2026-02-18",
+      "category": "정책",
+      "title": "AI 전쟁의 승패는 코딩이 아닌 전기: 김용범 실장, 전력망 안보 인프라 격상 촉구",
+      "summary": [
+        "김용범 실장은 AI 전쟁의 승패가 코딩이 아닌 전기에 달려있다고 주장했다.",
+        "그는 전력망을 안보 인프라로 격상해야 한다고 촉구했다."
+      ],
+      "whyImportant": "전력망의 중요성을 강조하고, AI 기술 경쟁 시대에 전력 인프라의 안보적 가치를 부각합니다.",
+      "importanceRationale": "근거: AI 기술 경쟁 심화 속에서 안정적인 전력 공급이 국가 안보에 미치는 영향력이 커지고 있다는 점을 시사합니다.",
+      "impactSignals": [],
+      "dedupeKey": "AI전쟁-전기-전력망안보",
+      "clusterKey": "에너지/김용범",
+      "matchedTo": null,
+      "sourceName": "ER 이코노믹리뷰",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1jQkp3a213WHFuLW5NUWlEWm5LMWxNMC10c1FlZkhIejU4ZmVSUFkxLWs1OXNTa0NabzhLZk52OVd6VXpXdF81YVNSRFdVRllfV2NhU3d0VzhhcnhkMDB0R2VHLVFfX1pHRUZQVw?oc=5",
+      "publishedAt": "2026-02-18T08:14:41.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 75,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 내용이 일치하며, 핵심 내용을 잘 요약했습니다. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-02-18_18",
+      "date": "2026-02-18",
+      "category": "국제",
+      "title": "메드트로닉의 변동 없는 연간 전망, 긍정적인 분기별 실적에 그림자 드리워",
+      "summary": [
+        "메드트로닉의 연간 전망이 변동 없이 유지되면서 긍정적인 분기별 실적에도 불구하고 불확실성이 커지고 있다.",
+        "로이터 통신에 따르면, 메드트로닉의 연간 전망은 투자자들의 기대에 미치지 못하고 있다.",
+        "이번 분기 실적 발표는 긍정적이었으나, 연간 전망의 불확실성이 투자 심리를 위축시키고 있다."
+      ],
+      "whyImportant": "메드트로닉의 연간 전망이 변동 없이 유지되는 것은 회사의 미래 성장 가능성에 대한 중요한 지표이기 때문이다.",
+      "importanceRationale": "근거: 메드트로닉의 연간 전망은 투자자와 시장 분석가들에게 중요한 정보이며, 이는 주가 및 투자 결정에 영향을 미칠 수 있다.",
+      "impactSignals": [],
+      "dedupeKey": "medtronic_unchanged_outlook_q3_2024",
+      "clusterKey": "annual",
+      "matchedTo": null,
+      "sourceName": "Reuters",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxORFZTN3lmSVRZcnVITTJ2VzEwQm1oZHhTSENTbVJlUGd0aEhxeV9RbXFrNTJFMTYwVnRBa21SQko5aVJ0RGc2azBrRkJ4RWl5SXRJN1VMbDB5VUF3MXhVdzFtaDQyc3BnU2Z6eG5tQV82QkhZTGwxaERWdFlEZkkwdU5ZSmxhZ0lZUVBybEVKMkU3WDc5X2JQSU1lMklsOWp6V1FmNTk0TGVRQUNScVlCY3RaMXg5WDNyZVU2d3lzY1U3M294VndsNXZqZ2c2UVRWWHllMy0tR0gzdw?oc=5",
+      "publishedAt": "2026-02-17T11:48:54.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 63,
+      "qualityLabel": "ok",
+      "qualityReason": "The article provides a concise summary of Medtronic's financial performance and outlook. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-02-18_19",
+      "date": "2026-02-18",
+      "category": "국제",
+      "title": "데이터 유출이 급증함에 따라 랜섬웨어 피해자들이 몸값을 지불하지 않기로 하다",
+      "summary": [
+        "랜섬웨어 피해자들이 데이터 유출이 급증함에 따라 몸값 지불을 거부하고 있다.",
+        "IT Brief UK에 따르면, 이러한 추세는 사이버 보안 전략에 변화를 가져올 수 있다."
+      ],
+      "whyImportant": "랜섬웨어 공격에 대한 대응 방식 변화를 보여준다.",
+      "importanceRationale": "근거: 랜섬웨어 공격의 증가와 함께 피해자들이 몸값 지불을 거부하는 경향이 나타나고 있으며, 이는 사이버 보안 전략에 중요한 변화를 의미한다.",
+      "impactSignals": [],
+      "dedupeKey": "ransomware_victims_refuse_to_pay_as_data_extortion_soars",
+      "clusterKey": "brief",
+      "matchedTo": null,
+      "sourceName": "IT Brief UK",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbXlpNkxpWm5GcWczWWI1QnAzeWtzUEo0Ynlnck5xQlh0S2RjZ3JsS09wMWt1eWNHMG5BUXF3TlJCRUx3WDhLRW41Mnd6NzJuWWs0amtiMWVhSWp6N283Wmhab3NjTTRnVEN2OTZQbkpkSkRKQU5xRmd2NkM4YzUwV1Y0dC1TdnRqOUZYWg?oc=5",
+      "publishedAt": "2026-02-18T08:00:00.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 63,
+      "qualityLabel": "ok",
+      "qualityReason": "기사 제목과 내용이 일치하며, 요약이 간결하고 명확하다. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    }
+  ]
+}
