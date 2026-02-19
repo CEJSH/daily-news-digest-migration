@@ -3,7 +3,7 @@
   "selectionCriteria": "① 내일도 영향이 남는 이슈 ② 과도한 감정 소모 제외 ③ 어제와 중복되는 뉴스 제외",
   "editorNote": "이 뉴스는 클릭 수가 아니라 오늘 이후에도 남는 정보만 기준으로 편집했습니다.",
   "question": "정보를 덜 보는 것이 오히려 더 똑똑한 소비일까?",
-  "lastUpdatedAt": "2026-02-20T07:28:23.879+09:00",
+  "lastUpdatedAt": "2026-02-20T08:27:44.609+09:00",
   "items": [
     {
       "id": "2026-02-20_1",
@@ -34,18 +34,45 @@
     {
       "id": "2026-02-20_2",
       "date": "2026-02-20",
+      "category": "국제",
+      "title": "일본 주요 반도체 공급업체, 랜섬웨어 공격에 대응",
+      "summary": [
+        "일본의 주요 반도체 공급업체가 랜섬웨어 공격을 받은 후 대응하고 있습니다.",
+        "이번 공격은 Recorded Future News에서 보도되었습니다."
+      ],
+      "whyImportant": "주요 반도체 공급망에 대한 사이버 공격은 생산 차질 및 공급망 불안정을 야기할 수 있습니다.",
+      "importanceRationale": "근거: 랜섬웨어 공격은 기업의 운영을 중단시키고, 데이터 유출을 초래하여 심각한 피해를 줄 수 있습니다. 특히 반도체 산업은 글로벌 공급망에서 중요한 역할을 담당하므로, 이번 공격은 산업 전반에 걸쳐 파급 효과를 가져올 수 있습니다.",
+      "impactSignals": [],
+      "dedupeKey": "ransomware_semiconductor_japan",
+      "clusterKey": "attack",
+      "matchedTo": null,
+      "sourceName": "The Record from Recorded Future News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBvR09GSHdHcG42ay1EdG1jYk9IcEs5M2NUZGl3YXJwQUpoT09iM0plMWtKOVlRN0ZYOHhnOG5TakhEU1o3X2xJRTloTEdmUnpxSWVFTWFubzRQUlY2eU9pS04wUkx4SWtZQmJFQkxYRTFuWHBKTnNvNUVxbm1PbUE?oc=5",
+      "publishedAt": "2026-02-19T23:21:57.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 75,
+      "qualityLabel": "ok",
+      "qualityReason": "기사 제목과 내용이 일치하며, 간결하게 요약되었습니다. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-02-20_3",
+      "date": "2026-02-20",
       "category": "경제",
-      "title": "Casella Waste Systems (NASDAQ:CWST) 2025년 4분기 실적 발표: 예상에 부합하는 매출",
+      "title": "Casella Waste Systems (NASDAQ:CWST) 2025년 4분기 실적 발표: 예상에 부합하는 수익",
       "summary": [
         "Casella Waste Systems의 2025년 4분기 실적 발표가 있었습니다.",
-        "매출은 예상치에 부합했습니다."
+        "수익은 예상에 부합했습니다."
       ],
-      "whyImportant": "기업의 실적 발표는 투자자와 시장 분석가에게 중요한 정보입니다.",
-      "importanceRationale": "근거: 기업의 매출이 예상치에 부합했다는 정보는 기업의 현재 재정 상태와 미래 성장 가능성을 평가하는 데 중요한 지표가 됩니다.",
+      "whyImportant": "기업의 실적 발표는 투자자와 시장에 중요한 정보입니다.",
+      "importanceRationale": "근거: 기업의 수익은 기업의 건전성과 성장 잠재력을 나타내는 지표이기 때문입니다.",
       "impactSignals": [
         {
           "label": "earnings",
-          "evidence": "Casella Waste Systems의 2025년 4분기 실적"
+          "evidence": "Casella Waste Systems의 2025년 4분기 실적 발표"
         }
       ],
       "dedupeKey": "CWST_Q4_2025_Earnings",
@@ -59,28 +86,23 @@
       "importance": 3.5,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 정보가 간결하게 제공됨.",
+      "qualityReason": "제목과 본문이 일치하며, 정보가 명확합니다.",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-02-20_3",
+      "id": "2026-02-20_4",
       "date": "2026-02-20",
       "category": "정책",
       "title": "장애 친화 산부인과 평가, '진료 실적'에서 '만족도' 중심으로",
       "summary": [
-        "장애 친화 산부인과 평가 기준이 진료 실적에서 만족도 중심으로 변경될 예정입니다.",
-        "이는 장애인 환자의 의료 서비스 질 향상을 목표로 합니다."
+        "장애 친화 산부인과 평가 기준이 진료 실적에서 환자 만족도 중심으로 변경됩니다.",
+        "이는 환자 중심의 의료 서비스 제공을 강조하기 위함입니다."
       ],
-      "whyImportant": "장애인 의료 서비스 접근성 및 만족도 개선에 중요한 지표가 될 수 있습니다.",
-      "importanceRationale": "근거: 장애 친화 산부인과 평가는 의료 서비스 질 개선을 유도하며, 특히 취약 계층인 장애인의 만족도를 중심으로 평가 기준이 변화함.",
-      "impactSignals": [
-        {
-          "label": "infra",
-          "evidence": "장애 친화 산부인과 평가는 관련 의료 인프라 개선을 유도할 수 있음"
-        }
-      ],
-      "dedupeKey": "disability-friendly-obstetrics-gynecology-evaluation-shift",
+      "whyImportant": "장애인들이 보다 만족스러운 산부인과 진료를 받을 수 있도록 정책 방향이 전환되었음을 보여줍니다.",
+      "importanceRationale": "근거: 장애 친화 산부인과 평가 기준 변경은 의료 서비스의 질적 향상과 접근성 개선에 중요한 영향을 미칩니다.",
+      "impactSignals": [],
+      "dedupeKey": "disability-friendly-obstetrics-gynecology-evaluation-shift-to-satisfaction",
       "clusterKey": "만족도",
       "matchedTo": null,
       "sourceName": "의학신문",
@@ -88,23 +110,23 @@
       "publishedAt": "2026-02-19T21:00:00.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 3.5,
+      "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 핵심 내용을 잘 반영하고 있습니다.",
+      "qualityReason": "제목과 내용이 일치하며, 핵심 내용을 잘 요약했습니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-02-20_4",
+      "id": "2026-02-20_5",
       "date": "2026-02-20",
       "category": "경제",
-      "title": "월마트 실적: 디지털 성장, 소비 둔화 속 마진 개선",
+      "title": "월마트 실적: 소비자들의 소비 감소 속 디지털 성장으로 마진 개선",
       "summary": [
-        "월마트의 실적 발표에 따르면 디지털 부문의 성장이 소비 둔화 속에서도 마진을 개선하는 데 기여했습니다."
+        "월마트의 실적 발표에 따르면 디지털 부문의 성장이 소비자들의 소비 감소에도 불구하고 마진을 개선시키는 데 기여했습니다."
       ],
-      "whyImportant": "월마트의 디지털 부문 성장과 마진 개선은 소비 트렌드 변화에 대한 중요한 지표를 제공합니다.",
-      "importanceRationale": "근거: 월마트의 실적은 거시 경제 상황 및 소비 심리를 반영하며, 특히 디지털 부문의 성장은 향후 유통 산업의 방향성을 예측하는 데 중요한 자료가 됩니다.",
+      "whyImportant": "월마트의 디지털 부문 성장과 마진 개선은 주목할 만한 경제 지표입니다.",
+      "importanceRationale": "근거: 월마트는 미국 최대의 소매 기업 중 하나이며, 그 실적은 소비자 행동 및 경제 동향을 파악하는 데 중요한 지표가 됩니다. 특히 디지털 부문의 성장은 온라인 쇼핑 트렌드의 지속적인 확대를 시사합니다.",
       "impactSignals": [],
       "dedupeKey": "walmart-earnings-digital-growth",
       "clusterKey": "amid",
@@ -117,12 +139,43 @@
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 텍스트이 일치하며, 정보가 명확합니다. / 근거부족",
+      "qualityReason": "The article provides a concise summary of Walmart's earnings and its implications. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-02-20_5",
+      "id": "2026-02-20_6",
+      "date": "2026-02-20",
+      "category": "국제",
+      "title": "랜섬웨어 공격으로 피해를 입은 3개의 의료 서비스 제공업체",
+      "summary": [
+        "HIPAA 저널에 따르면 3개의 의료 서비스 제공업체가 랜섬웨어 공격의 영향을 받았습니다."
+      ],
+      "whyImportant": "의료 기관의 사이버 보안 취약성을 보여줍니다.",
+      "importanceRationale": "근거: 랜섬웨어 공격은 의료 서비스 제공에 심각한 차질을 초래하고 환자 데이터 유출 위험을 증가시키므로 중요합니다.",
+      "impactSignals": [
+        {
+          "label": "security",
+          "evidence": "3개의 의료 서비스 제공업체가 랜섬웨어 공격을 받음"
+        }
+      ],
+      "dedupeKey": "ransomware_healthcare_providers",
+      "clusterKey": "affected",
+      "matchedTo": null,
+      "sourceName": "The HIPAA Journal",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUGlqMExRZUlQb1p4R1pEdklnWTZvTzFhQ2tUd3JpWFpIV3QtUk54Z19MdjJnaUxWWFRYUmg4Q09XbTBpdHppQnZTM2M2eGdZcUxVNDA4aHljNHk4TU5yWEZsQm5XZ2pkTTllUjFfNTRTU0NpVXpiMlFqUEJ6QjR3VQ?oc=5",
+      "publishedAt": "2026-02-19T11:08:28.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 4,
+      "importanceRaw": 75,
+      "qualityLabel": "ok",
+      "qualityReason": "기사에 정보가 명확하게 제시되어 있습니다.",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-02-20_7",
       "date": "2026-02-20",
       "category": "정책",
       "title": "농어촌 서비스 기준, 생활 체감 중심으로... 시행령 개정안 입법 예고",
@@ -130,7 +183,7 @@
         "농어촌 서비스 기준이 생활 체감 중심으로 바뀔 예정입니다.",
         "시행령 개정안이 입법 예고되었습니다."
       ],
-      "whyImportant": "농어촌 주민들의 생활 편의 증진에 기여할 수 있는 정책 변경입니다.",
+      "whyImportant": "농어촌 주민들의 생활 편의 증진에 기여할 수 있습니다.",
       "importanceRationale": "근거: 농어촌 서비스 기준이 생활 체감 중심으로 변경되는 시행령 개정안이 입법 예고되었기 때문입니다.",
       "impactSignals": [],
       "dedupeKey": "농어촌서비스기준_생활체감_중심으로_시행령_개정안_입법예고",
@@ -149,35 +202,124 @@
       "isBreaking": false
     },
     {
-      "id": "2026-02-20_6",
+      "id": "2026-02-20_8",
       "date": "2026-02-20",
-      "category": "기술",
-      "title": "OpenAI, 인도에 100MW AI 데이터 센터 용량 확보, 1GW 목표",
+      "category": "국제",
+      "title": "ECB 리더십 변화, 유로존 안정성에 대한 중요한 정책 불확실성 야기",
       "summary": [
-        "OpenAI가 인도에서 100MW 규모의 AI 데이터 센터 용량을 확보하기 위해 Tata와 협력합니다.",
-        "OpenAI는 향후 1GW까지 확장하는 것을 목표로 하고 있습니다.",
-        "이번 투자는 OpenAI의 AI 기술 개발 및 확장에 중요한 역할을 할 것으로 예상됩니다."
+        "ECB 리더십 변화는 유로존 안정성에 중요한 정책 불확실성을 야기합니다.",
+        "새로운 리더십은 통화 정책 방향에 영향을 미칠 수 있습니다.",
+        "이는 유로존 경제에 광범위한 영향을 줄 수 있습니다."
       ],
-      "whyImportant": "OpenAI의 인도 데이터 센터 용량 확보는 AI 인프라 확장 전략의 중요한 부분입니다.",
-      "importanceRationale": "근거: OpenAI가 인도에 대규모 데이터 센터 투자를 통해 AI 기술 개발 및 시장 확장에 박차를 가할 것으로 예상됩니다.",
+      "whyImportant": "ECB 리더십 변화는 유로존 경제의 미래에 중요한 영향을 미칠 수 있습니다.",
+      "importanceRationale": "근거: ECB의 정책은 유로존 전체의 경제 안정과 성장에 직접적인 영향을 미치기 때문입니다.",
       "impactSignals": [],
-      "dedupeKey": "openai_tata_india_datacenter_100MW",
-      "clusterKey": "100mw",
+      "dedupeKey": "ECB리더십변화-유로존안정성",
+      "clusterKey": "critical",
       "matchedTo": null,
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNY3lQMUZPSG1lWG5tVUJKZVp4Y1NTcnZfVDdvZHp4b3o1UEhqdjdUSmdVSXUxYU56YVJ3bzhNUTRpZ3dsanowUlI2VEo0M0RtTmxOYldPaGhMNUhyeF83ZDdiMVVoaVNIWF92TWpxV3VmdzVRaC1kYXMzSGF5RzltY2hzWVZzTHBnSnFReDhseDRmQ2VZRUdtYVVidGFFUW9hTVBBemRR?oc=5",
-      "publishedAt": "2026-02-19T05:34:25.000Z",
+      "sourceName": "Bitcoin world",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1JZ0M4V1dNNGFnOVpIaXhGSFhZbVJtLUlLRjZpOEREUndjenQ0WlZsaXR1YnZCY01kaGtMWl9IWmVsMVZnMm1CQS1BNTVGX2ZjV1BLSUpkeVkycjNZYXJNX0dCSGw5bEV6OUhjUGY4VHpZUU5VYVEzeV9MZ3M?oc=5",
+      "publishedAt": "2026-02-19T13:30:12.000Z",
       "readTimeSec": 10,
       "status": "kept",
       "importance": 2,
-      "importanceRaw": 75,
+      "importanceRaw": 88,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 정보가 명확합니다. / 근거부족",
+      "qualityReason": "기사에 명확한 정보가 포함되어 있습니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-02-20_7",
+      "id": "2026-02-20_9",
+      "date": "2026-02-20",
+      "category": "정책",
+      "title": "“국회 활동 저지·마비” 내란 우두머리 윤석열 1심 무기징역",
+      "summary": [
+        "윤석열이 국회 활동을 저지하고 마비시킨 내란의 우두머리로서 1심에서 무기징역을 선고받았습니다."
+      ],
+      "whyImportant": "국회 활동을 저지한 내란 혐의에 대한 법원의 판단은 정치적 중요성을 가집니다.",
+      "importanceRationale": "근거: 국회 활동 저지라는 행위가 내란으로 인정되어 무기징역이 선고된 것은 민주주의 정치 시스템에 대한 중대한 사안입니다.",
+      "impactSignals": [],
+      "dedupeKey": "내란_우두머리_윤석열_무기징역",
+      "clusterKey": "1심",
+      "matchedTo": null,
+      "sourceName": "더스쿠프",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMibkFVX3lxTE01VzZ6ZEY5Nm5UWG1KbkI1cThGTnZtd3N4YUN3UzdEeFg2SDY0WGw2UE9IcjVUVnJlZmU0STB0MVE4SUo5WDdFUHRTekI3a3dNVTE1TDhJUi1UbUY5LUFwczlHWFA5MS1lVXpwcEZR?oc=5",
+      "publishedAt": "2026-02-19T07:14:52.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 88,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었습니다. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-02-20_10",
+      "date": "2026-02-20",
+      "category": "국제",
+      "title": "아마존, 월마트 제치고 '세계 매출 왕좌' 등극",
+      "summary": [
+        "아마존이 월마트를 제치고 세계 매출 1위 자리에 올랐습니다."
+      ],
+      "whyImportant": "아마존의 매출 1위 등극은 전자상거래 시장의 지배력 변화를 보여줍니다.",
+      "importanceRationale": "근거: 아마존이 월마트를 꺾고 세계 매출 1위가 되었다는 사실은 시장 경쟁 구도에 중요한 변화가 있음을 의미합니다.",
+      "impactSignals": [
+        {
+          "label": "earnings",
+          "evidence": "아마존이 월마트를 제치고 세계 매출 1위가 됨"
+        }
+      ],
+      "dedupeKey": "amazon_tops_walmart_in_sales",
+      "clusterKey": "꺾고",
+      "matchedTo": null,
+      "sourceName": "한국경제",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9HS2RoZUcwNF9mMVRDeVRjaXE2QnlXajFsZEFWQUVKbmFXMDJhVWlQZjdEemhYaGlqekNtZkpsMklFSzhVNUROcEo5Q0gwaXdyR3NMUXJvSHVkUdIBVEFVX3lxTFA0Y2pGTWZnMGl4UEpFOFNTOEdiVWFDamdVNVlrc0lWYzFucmh3OVQzYVhlb2tJUXVBMGZ3dkhlWXRMT0p4M01zYUx1bEFNckN0cDNYWA?oc=5",
+      "publishedAt": "2026-02-19T23:21:38.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 4,
+      "importanceRaw": 75,
+      "qualityLabel": "ok",
+      "qualityReason": "The article is a concise report of a significant business event.",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-02-20_11",
+      "date": "2026-02-20",
+      "category": "경제",
+      "title": "우진, 2034년까지 매출 상승세 지속…'계측기 교체 수요'가 실적 뒷받침",
+      "summary": [
+        "우진은 2034년까지 매출이 지속적으로 증가할 것으로 예상됨.",
+        "계측기 교체 수요가 실적을 뒷받침할 것으로 전망됨."
+      ],
+      "whyImportant": "우진의 장기적인 매출 상승 전망은 투자자들에게 중요한 정보입니다.",
+      "importanceRationale": "근거: 계측기 교체 수요 증가가 우진의 실적을 견인할 것이라는 분석에 기반함.",
+      "impactSignals": [
+        {
+          "label": "market-demand",
+          "evidence": "2034년까지 지속적인 계측기 교체 수요 발생"
+        }
+      ],
+      "dedupeKey": "woojin_sales_growth_2034",
+      "clusterKey": "2034년까지",
+      "matchedTo": null,
+      "sourceName": "금융경제플러스",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4yVXZjSGFjVFA0MG0wRE5HMDVWSVNibnBqbmU3UnNkMWJuMUJhenhRRDFJT1lNM05hOUlNMTRuUjJSVTVMNDhIdFlqOERBa0lVQXB4MkprdENtdnh2QkJsb25iMkMxYVI0QkxSYw?oc=5",
+      "publishedAt": "2026-02-19T22:30:00.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 3.5,
+      "importanceRaw": 63,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 본문이 일치하며, 정보가 간결하게 제공됨.",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-02-20_12",
       "date": "2026-02-20",
       "category": "에너지",
       "title": "소프트뱅크, 미국에 대규모 가스 발전소 건설 위해 330억 달러 투자",
@@ -186,11 +328,11 @@
         "이번 투자는 소프트뱅크의 미국 내 에너지 인프라 확장에 중요한 발걸음이 될 것으로 보인다."
       ],
       "whyImportant": "소프트뱅크의 대규모 투자는 미국 에너지 시장에 상당한 영향을 미칠 수 있다.",
-      "importanceRationale": "근거: 소프트뱅크가 미국 가스 발전소 건설에 330억 달러를 투자하는 것은 상당한 규모의 자본 지출(capex)이며, 이는 에너지 시장의 변화를 가속화할 수 있다.",
+      "importanceRationale": "근거: 소프트뱅크가 미국 가스 발전소 건설에 330억 달러를 투자하는 것은 상당한 자본 지출(capex)이며, 이는 에너지 시장의 변화를 가속화할 수 있다.",
       "impactSignals": [
         {
           "label": "capex",
-          "evidence": "소프트뱅크가 미국 가스 발전소 건설에 330억 달러 투자"
+          "evidence": "소프트뱅크가 미국 가스 발전소 건설에 330억 달러를 투자한다."
         }
       ],
       "dedupeKey": "softbank_gas_plant_us_33b",
@@ -204,28 +346,28 @@
       "importance": 3.5,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "The article provides a clear and concise overview of SoftBank's investment plans.",
+      "qualityReason": "기사 제목과 내용이 일치하며, 사실에 기반한 정보를 제공한다.",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-02-20_8",
+      "id": "2026-02-20_13",
       "date": "2026-02-20",
       "category": "정책",
       "title": "AI 상용화 시대, 규제 벌금 리스크 감소를 위한 감사 준비형 거버넌스 체계",
       "summary": [
-        "AI 상용화가 가속화됨에 따라 규제 및 벌금 리스크를 줄이기 위한 감사 준비형 거버넌스 체계가 중요해지고 있습니다.",
-        "지티티코리아는 이러한 체계 구축의 필요성을 강조합니다."
+        "AI 상용화가 가속화됨에 따라 규제 및 벌금 리스크를 줄이기 위한 감사 준비형 거버넌스 체계가 중요해지고 있다.",
+        "지티티코리아는 이러한 체계 구축의 필요성을 강조했다."
       ],
-      "whyImportant": "AI 상용화 시대에 기업이 규제 준수 및 리스크 관리를 위해 감사 준비형 거버넌스 체계를 구축해야 합니다.",
-      "importanceRationale": "근거: AI 상용화가 가속화되면서 규제 준수 및 벌금 리스크 관리가 기업의 중요한 과제가 되었기 때문입니다.",
+      "whyImportant": "AI 상용화에 따른 규제 준수 및 리스크 관리가 중요해지고 있기 때문",
+      "importanceRationale": "근거: AI 상용화가 빠르게 진행되면서 기업들이 규제 위반으로 인한 벌금 리스크에 노출될 가능성이 커지고 있으며, 감사 준비형 거버넌스 체계 구축을 통해 이러한 리스크를 효과적으로 관리할 수 있다.",
       "impactSignals": [
         {
           "label": "policy",
-          "evidence": "AI 상용화에 따른 규제 및 벌금 리스크"
+          "evidence": "AI 상용화에 따른 규제 및 벌금 리스크 언급"
         }
       ],
-      "dedupeKey": "AI 상용화 시대, 규제 벌금 리스크 감소를 위한 감사 준비형 거버넌스 체계",
+      "dedupeKey": "AI상용화규제거버넌스",
       "clusterKey": "가속",
       "matchedTo": null,
       "sourceName": "지티티코리아",
@@ -236,12 +378,12 @@
       "importance": 4,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 텍스트가 일치하며 정보가 명확합니다.",
+      "qualityReason": "기사 제목과 내용이 일치하며, 핵심 내용을 잘 요약했습니다.",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-02-20_9",
+      "id": "2026-02-20_14",
       "date": "2026-02-20",
       "category": "경제",
       "title": "인기 ‘VS Code’, 확장 프로그램 취약점 ‘경보’",
@@ -267,229 +409,83 @@
       "isBreaking": false
     },
     {
-      "id": "2026-02-20_10",
-      "date": "2026-02-20",
-      "category": "국제",
-      "title": "ECB 리더십 변화, 유로존 안정성에 대한 중요한 정책 불확실성 야기",
-      "summary": [
-        "ECB 리더십 변화는 유로존 안정성에 중요한 정책 불확실성을 야기합니다.",
-        "새로운 리더십은 통화 정책 방향에 영향을 미칠 수 있습니다.",
-        "이는 유로존 경제에 상당한 영향을 줄 수 있습니다."
-      ],
-      "whyImportant": "ECB 리더십 변화는 유로존 경제의 미래에 중요한 영향을 미칠 수 있기 때문입니다.",
-      "importanceRationale": "근거: ECB의 정책은 유로존 전체의 경제 안정과 성장에 직접적인 영향을 미치며, 리더십 변화는 이러한 정책 방향에 변화를 가져올 수 있습니다.",
-      "impactSignals": [],
-      "dedupeKey": "ECBLeadershipTransitionEurozoneStability",
-      "clusterKey": "critical",
-      "matchedTo": null,
-      "sourceName": "Bitcoin world",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1JZ0M4V1dNNGFnOVpIaXhGSFhZbVJtLUlLRjZpOEREUndjenQ0WlZsaXR1YnZCY01kaGtMWl9IWmVsMVZnMm1CQS1BNTVGX2ZjV1BLSUpkeVkycjNZYXJNX0dCSGw5bEV6OUhjUGY4VHpZUU5VYVEzeV9MZ3M?oc=5",
-      "publishedAt": "2026-02-19T13:30:12.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 75,
-      "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 내용이 일치하며, 핵심 내용을 잘 요약했습니다. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-02-20_11",
-      "date": "2026-02-20",
-      "category": "국제",
-      "title": "텍사스 법무장관, Conduent Business Services 데이터 침해 조사 착수",
-      "summary": [
-        "텍사스 법무장관이 Conduent Business Services의 데이터 침해에 대한 조사에 착수했습니다.",
-        "이번 조사는 HIPAA 저널에 의해 보도되었습니다."
-      ],
-      "whyImportant": "데이터 침해는 개인 정보 보호 및 보안에 심각한 영향을 미칠 수 있습니다.",
-      "importanceRationale": "근거: 텍사스 법무장관의 조사는 데이터 침해의 심각성을 나타내며, Conduent Business Services와 관련된 잠재적 책임 및 규제 준수 문제를 강조합니다.",
-      "impactSignals": [
-        {
-          "label": "security",
-          "evidence": "데이터 침해로 인해 개인 정보가 유출될 가능성이 있습니다."
-        }
-      ],
-      "dedupeKey": "texas_attorney_general_conduent_data_breach",
-      "clusterKey": "attorney",
-      "matchedTo": null,
-      "sourceName": "The HIPAA Journal",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5YWmhFRk5uQk5fMThleDFMS2VkY1dEdDhVTzdyTm5VT3dsQmJGMWpXMFppZjRuSnFncXlZcjVXazlWRzNDLVRwbmxkMGVhSTl1MGpscnlzNTJyRHlvSGRjeERmem9FMUZPZlh2LUZhZXNmajI0QW12RA?oc=5",
-      "publishedAt": "2026-02-13T08:00:00.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 3.5,
-      "importanceRaw": 63,
-      "qualityLabel": "ok",
-      "qualityReason": "기사에 제목과 주요 사실이 명확하게 제시되어 있습니다.",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-02-20_12",
-      "date": "2026-02-20",
-      "category": "정책",
-      "title": "“국회 활동 저지·마비” 내란 우두머리 윤석열 1심 무기징역",
-      "summary": [
-        "윤석열이 국회 활동을 저지하고 마비시킨 내란의 우두머리로서 1심에서 무기징역을 선고받았습니다."
-      ],
-      "whyImportant": "국회 활동 저지 관련 내란 혐의에 대한 법원 판결은 정치적 중요성을 가집니다.",
-      "importanceRationale": "근거: 국회 활동을 저지하고 마비시킨 행위에 대한 법원의 판단은 향후 유사 사례에 대한 중요한 선례가 될 수 있으며, 정치적 파장 또한 클 수 있습니다.",
-      "impactSignals": [],
-      "dedupeKey": "국회 활동 저지·마비 내란 우두머리 윤석열 1심 무기징역",
-      "clusterKey": "1심",
-      "matchedTo": null,
-      "sourceName": "더스쿠프",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMibkFVX3lxTE01VzZ6ZEY5Nm5UWG1KbkI1cThGTnZtd3N4YUN3UzdEeFg2SDY0WGw2UE9IcjVUVnJlZmU0STB0MVE4SUo5WDdFUHRTekI3a3dNVTE1TDhJUi1UbUY5LUFwczlHWFA5MS1lVXpwcEZR?oc=5",
-      "publishedAt": "2026-02-19T07:14:52.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 75,
-      "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었습니다. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-02-20_13",
-      "date": "2026-02-20",
-      "category": "정책",
-      "title": "'지역필수의료법' 국회 본회의 통과… 지역 완결적 의료체계 구축 박차",
-      "summary": [
-        "국회 본회의에서 '지역필수의료법'이 통과되었습니다.",
-        "이 법안은 지역 완결적 의료체계 구축에 박차를 가할 것으로 예상됩니다."
-      ],
-      "whyImportant": "이 법안은 지역 의료 서비스 개선에 중요한 영향을 미칠 수 있습니다.",
-      "importanceRationale": "근거: '지역필수의료법'의 국회 본회의 통과는 지역 의료 시스템 강화에 대한 정책적 의지를 보여줍니다.",
-      "impactSignals": [],
-      "dedupeKey": "지역필수의료법_국회_본회의_통과",
-      "clusterKey": "구축",
-      "matchedTo": null,
-      "sourceName": "복지타임즈",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1UeHRQdktfVDVKX1pydUtfMzdBWTNmUE4xeFBQM01kZ0JHWldNM0wtTDBmOC1hTDlOXzYxUWRjZjA1U2UwMFdMVXFJdGF0UmF0NGduYTJIZ2ptLWM0VVpPZGNVbzFjdGRRRXJNcA?oc=5",
-      "publishedAt": "2026-02-19T06:20:32.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 75,
-      "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었습니다. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-02-20_14",
-      "date": "2026-02-20",
-      "category": "국제",
-      "title": "인도네시아, 트럼프에 관세 인하 요청",
-      "summary": [
-        "인도네시아가 트럼프 대통령에게 관세 인하를 요청했다.",
-        "인도네시아는 18% 이하의 관세율을 희망하고 있다."
-      ],
-      "whyImportant": "인도네시아의 대미 수출에 영향을 미칠 수 있는 정책 변화 가능성.",
-      "importanceRationale": "근거: 인도네시아가 미국의 관세 정책 변화를 직접적으로 요청함. 이는 양국 간의 무역 관계에 중요한 영향을 미칠 수 있다.",
-      "impactSignals": [],
-      "dedupeKey": "indonesia-tariff-request-to-trump",
-      "clusterKey": "biz",
-      "matchedTo": null,
-      "sourceName": "SBS Biz",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE80ampEQ0hRdDNlMUUzTlBQb1RuUC1RWHVob3gzMk15WG13SHJnM1ZHLTNiLW1XTGNFbHhnZkc0VjFLTnhqRzNpdnNtQjI2UmlIVWJr?oc=5",
-      "publishedAt": "2026-02-19T04:09:00.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 63,
-      "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 간결하게 요약됨. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
       "id": "2026-02-20_15",
       "date": "2026-02-20",
-      "category": "경제",
-      "title": "'19만 전자' 기록, 증권가의 놀라운 전망",
+      "category": "정책",
+      "title": "지귀연 판사 “尹, 주요 인사 체포해 국회 마비시키려는 목적”",
       "summary": [
-        "주가가 파죽지세로 상승하며 '19만 전자'를 기록했습니다.",
-        "증권가에서는 놀라운 전망을 내놓고 있습니다."
+        "지귀연 판사는 윤석열 대통령이 주요 인사를 체포하여 국회를 마비시키려 한다고 주장했습니다.",
+        "미디어오늘에 해당 내용이 보도되었습니다."
       ],
-      "whyImportant": "주가 상승과 증권가의 전망에 대한 정보입니다.",
-      "importanceRationale": "근거: 주가 상승과 증권가 전망에 대한 언급은 투자자와 시장 참여자에게 중요한 정보입니다.",
+      "whyImportant": "정치적 파장이 예상되는 법조계 인사의 발언입니다.",
+      "importanceRationale": "근거: 판사가 현 대통령의 의도를 직접적으로 언급하며 정치적 목적을 주장했기 때문입니다.",
       "impactSignals": [],
-      "dedupeKey": "19만전자_증권가전망",
-      "clusterKey": "19만전자",
+      "dedupeKey": "지귀연 판사, 윤석열 대통령 국회 마비 시도 주장",
+      "clusterKey": "국회",
       "matchedTo": null,
-      "sourceName": "한국경제",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1JN2F6djZkQm5TQXU1N08wenNzOHlpWHBxZ3J0YlZscEROZzNfVFlQbm9raVIwQjVBLVUxMjJBVndudXNmdnpMQmtuR1c2M3llQ2tCN0NZVExZd9IBVEFVX3lxTFB6Z19RQzZ5N2ZzRVNOQVhEeTFXd0dvbzNxMHFiS1kwX0pzN0hsZU1sTHBpYlZmaTJHdHVFN19UVDhrY2NFSFdnU0kyWmp5bnZ4UE56Zw?oc=5",
-      "publishedAt": "2026-02-19T08:29:54.000Z",
+      "sourceName": "미디어오늘",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBlbnAxMGtxNk80cWVieGsyQlR5UEg5aEljTnVXSW9ibXNtRHlSTi1wa3lDam1fcXFfZDhlMEh3LU5PenhOZGd4LU04RnlpbGFlQl9FejQzQzE0d1BvMTdtaU5RR05vTVNzZ3Bnbm5jZV8?oc=5",
+      "publishedAt": "2026-02-19T06:32:11.000Z",
       "readTimeSec": 10,
       "status": "kept",
       "importance": 2,
-      "importanceRaw": 63,
+      "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되어 있습니다. / 근거부족",
+      "qualityReason": "기사의 내용이 명확하고 주장을 뒷받침하는 정보가 제시되어 있습니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-02-20_16",
       "date": "2026-02-20",
-      "category": "국제",
-      "title": "AI 주권에 대한 하이브리드 접근 방식이 EU 디지털 정책을 형성하는 방법",
+      "category": "경제",
+      "title": "학생 상장 수여 시 공무원 규정 적용 문제점… 교사 업무 부담 경감 기대",
       "summary": [
-        "AI 주권에 대한 하이브리드 접근 방식이 EU 디지털 정책을 형성하고 있습니다.",
-        "이는 유럽의 기술적 자율성을 강화하고 있습니다.",
-        "EU는 데이터 보호와 혁신 사이의 균형을 추구하고 있습니다."
+        "학생 상장 수여에 성인 공무원 규정을 적용하는 문제점이 지적됨.",
+        "이는 교사들의 불필요한 업무 부담을 가중시킨다는 비판이 있음.",
+        "이번 개선을 통해 교사들의 업무 부담이 줄어들지 주목됨."
       ],
-      "whyImportant": "EU의 디지털 정책 방향을 제시합니다.",
-      "importanceRationale": "근거: AI 주권에 대한 접근 방식이 EU 디지털 정책의 핵심 방향을 결정짓기 때문입니다.",
+      "whyImportant": "교사들이 학생 상장 수여 과정에서 겪는 불필요한 행정 부담을 줄여 교육 본질에 집중할 수 있도록 한다.",
+      "importanceRationale": "근거: 학생 상장 수여 절차 간소화는 교사의 행정 업무 부담을 줄이고, 교육의 질을 향상시키는 데 기여할 수 있기 때문임.",
       "impactSignals": [],
-      "dedupeKey": "AI_sovereignty_EU_digital_policy",
-      "clusterKey": "approach",
+      "dedupeKey": "student_award_regulation_improvement",
+      "clusterKey": "가짜",
       "matchedTo": null,
-      "sourceName": "IAPP",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQYXhuZVVyeFRib0NIWENUbm5hRjVDRzZrdXlHNFYweVNPN2FVdEhReWNONXg1VGl5WUlDcE9IRUk4TlZERE4yQ3ZqSVZ5ZHZHazVuQVpHN3pmblBRNWdVRjhMWUNnTmFESWQwcDQ2M1dMRzhaVFNmRU5pSEtZS2RIUGhMekpSRGVzdTk2Tnh0QXVuNDBrb04w?oc=5",
-      "publishedAt": "2026-02-18T17:12:10.000Z",
+      "sourceName": "더스쿠프",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1uVGNWcTlTcG9hNk1ZS3RDeV9MdW95TzZvQ2UyYmp2TGVaaDJ3ejFrZTU5TmwtUzJveGJvcTFVSXFPMVJBWkxyMmkzaEVGSkdoSTBUQkZJdENmZnBiblRHMUllY05MUVBiZGVmNVlB?oc=5",
+      "publishedAt": "2026-02-19T22:38:19.000Z",
       "readTimeSec": 10,
       "status": "kept",
       "importance": 2,
-      "importanceRaw": 75,
+      "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 내용이 일치하며, 요약이 명확합니다. / 근거부족",
+      "qualityReason": "기사 내용이 명확하고 간결하며, 핵심 내용을 잘 요약함. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-02-20_17",
       "date": "2026-02-20",
-      "category": "경제",
-      "title": "CXMT, IPO로 자금 조달… 한국 반도체 장비사 주목",
+      "category": "에너지",
+      "title": "'현대건설 파트너' 페르미, 미국 원전 사업 속도 낸다",
       "summary": [
-        "중국 CXMT가 기업공개(IPO)를 통해 자금을 조달하고 있다.",
-        "설비 투자 조짐에 한국 반도체 장비사들이 촉각을 곤두세우고 있다."
+        "현대건설의 파트너사인 페르미가 미국 원전 사업에 속도를 내고 있습니다."
       ],
-      "whyImportant": "CXMT의 설비 투자는 한국 반도체 장비 기업에 새로운 시장 기회를 제공할 수 있기 때문이다.",
-      "importanceRationale": "근거: CXMT의 투자 결정은 관련 장비 수요를 증가시켜 한국 기업의 실적에 직접적인 영향을 미칠 수 있다.",
-      "impactSignals": [
-        {
-          "label": "capex",
-          "evidence": "CXMT의 IPO를 통한 자금 조달 및 설비 투자 조짐"
-        }
-      ],
-      "dedupeKey": "CXMT_IPO_설비투자",
-      "clusterKey": "반도체/cxmt",
+      "whyImportant": "페르미의 미국 원전 사업 진전은 현대건설의 해외 사업에도 영향을 미칠 수 있습니다.",
+      "importanceRationale": "근거: 현대건설의 파트너사인 페르미의 미국 원전 사업 추진은 관련 기업들의 투자 및 사업 확장에 대한 기대감을 높일 수 있기 때문입니다.",
+      "impactSignals": [],
+      "dedupeKey": "fermi-nuclear-us-2024",
+      "clusterKey": "낸다",
       "matchedTo": null,
-      "sourceName": "Chosunbiz",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPSTMxSk4xZTZsRVlGOVJRbk9xbVFISngtVTdoODlfd3R0MTFHVWNGclktMnh4VEpvVFJLblkwdXlmT21UbXlYNjFUSWJvMnpYekoydXJ0N0dmUTFfUnVYdEg2VHFrSHZfWF9lUXJXNFdfOTdrSmxmcjlDdjAwVkxMaUVR0gGWAUFVX3lxTE5uZ1JEdjJOUTVJeEFKNDdSQThOSUdjNlpneU00OVdnREZuZE1KdHdFZjNnczc5bGh3SFQzbVFWZ1lJMzFBTDdlTzdLay1OWDlIWDZVRTBCTS1XdzFjbFluUXBNRHJJWHFXaC03LUVxd25jbktmNi1pRWpGVjljb2Rad1RjTkdiZWg1UHNqbVZ6V0hHaW9jUQ?oc=5",
-      "publishedAt": "2026-02-19T06:26:00.000Z",
+      "sourceName": "더트래커",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9mTUJaaEIwbV9IN2NhbkNjclVleTNyNjVheWlleUw5eXhHeDRDeE5aekxHc0FTUk1NMmZWU0ZvR1NqWmtGSnpEczhfdF81cU1sbGZWYnBuQUE?oc=5",
+      "publishedAt": "2026-02-19T22:47:24.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 3.5,
-      "importanceRaw": 63,
+      "importance": 2,
+      "importanceRaw": 50,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 간결하게 요약됨.",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었습니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -497,40 +493,13 @@
       "id": "2026-02-20_18",
       "date": "2026-02-20",
       "category": "에너지",
-      "title": "눈에 띄는 전기 요금 청구서의 원인은 무엇일까요? 지역별로 분석했습니다.",
-      "summary": [
-        "최근 전기 요금 급등의 원인을 지역별로 분석했습니다.",
-        "자세한 내용은 grist.org에서 확인할 수 있습니다."
-      ],
-      "whyImportant": "전기 요금 인상의 원인을 이해하는 데 도움이 됩니다.",
-      "importanceRationale": "근거: 전기 요금 인상은 가계 경제에 직접적인 영향을 미치므로, 원인 분석은 소비자에게 중요한 정보입니다.",
-      "impactSignals": [],
-      "dedupeKey": "eye-popping-power-bill-region-by-region",
-      "clusterKey": "에너지/behind",
-      "matchedTo": null,
-      "sourceName": "grist.org",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBiU2NVNGJnYndTa2dsaUl3MzA3NTZxLVBzQlVpQzNLTGFHazU3VFJ3YURKakUyQkd1aUlpVnVPS1BuOGRUTHFwOW5tZ1ZBRjUxd2xUNlhVdlZFeVRCR1NBdWZtSUIyZkNJQmxlZVpjMmJiRHRCZDg3VEUyUQ?oc=5",
-      "publishedAt": "2026-02-18T09:45:32.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 63,
-      "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었습니다. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-02-20_19",
-      "date": "2026-02-20",
-      "category": "에너지",
       "title": "Shapiro, 민주당의 데이터 센터 전략 시험",
       "summary": [
         "Shapiro가 민주당의 데이터 센터 전략을 시험하고 있습니다.",
-        "이 소식은 E&E News by POLITICO에서 보도되었습니다."
+        "이 시험은 E&E 뉴스를 통해 POLITICO에서 보도되었습니다."
       ],
       "whyImportant": "데이터 센터 전략의 변화를 시사합니다.",
-      "importanceRationale": "근거: Shapiro의 데이터 센터 전략 시험은 향후 민주당의 정책 방향에 영향을 줄 수 있기 때문입니다.",
+      "importanceRationale": "근거: Shapiro의 시험이 민주당 데이터 센터 전략에 대한 중요한 평가 기준이 될 수 있습니다.",
       "impactSignals": [],
       "dedupeKey": "Shapiro_data_center_strategy",
       "clusterKey": "center",
@@ -543,35 +512,60 @@
       "importance": 2,
       "importanceRaw": 50,
       "qualityLabel": "ok",
-      "qualityReason": "기사의 내용이 명확하고 간결합니다. / 근거부족",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었습니다. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-02-20_19",
+      "date": "2026-02-20",
+      "category": "국제",
+      "title": "엔비디아, 2월 25일 실적 발표에서 압도적인 성적을 거둘 3가지 이유",
+      "summary": [
+        "24/7 Wall St.에 따르면 엔비디아는 2월 25일 실적 발표에서 압도적인 성적을 거둘 것으로 예상됩니다."
+      ],
+      "whyImportant": "엔비디아의 실적 발표는 기술 산업 전반에 걸쳐 중요한 지표가 될 수 있습니다.",
+      "importanceRationale": "근거: 엔비디아의 실적은 반도체 산업의 건전성을 나타내는 지표로, 투자자와 시장 분석가들에게 중요한 정보입니다.",
+      "impactSignals": [],
+      "dedupeKey": "nvidia_earnings_feb_25",
+      "clusterKey": "25th",
+      "matchedTo": null,
+      "sourceName": "24/7 Wall St.",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxORFdtaDI3eWF4N0NHZ1FNRmVST3dtTmN3RlV1b3ZQSlFxUENpOWJUUkpYdnFGSWV0YlhQU2tQWU5ZZFdWOS1JYnFSZ21vMFdRd3dlWDZONjV5MFNfVUlLMXVsUFhVcGpzZ0NURVZJVzhYMVg3S3FLeXppeHUxVjVRdEpjM0tFRjRJRFJDRnlhUHlJbFVkdm5IMzJHWUxaZw?oc=5",
+      "publishedAt": "2026-02-19T22:12:23.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 63,
+      "qualityLabel": "ok",
+      "qualityReason": "The article directly states the title and provides a single sentence of content, which is sufficient for a brief summary. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-02-20_20",
       "date": "2026-02-20",
-      "category": "국제",
-      "title": "아마존닷컴, 연매출 1위 달성에도 불구하고 인공지능 투자 우려로 주가 약보합세",
+      "category": "기술",
+      "title": "아마존, 직원 AI 사용 현황 추적…인사평가에도 반영",
       "summary": [
-        "아마존닷컴이 연매출 1위를 달성했다.",
-        "그럼에도 불구하고 인공지능 투자에 대한 우려가 제기되고 있다.",
-        "이로 인해 아마존닷컴의 주가는 약보합세를 보이고 있다."
+        "아마존이 직원들의 인공지능(AI) 사용 현황을 추적하고 있습니다.",
+        "이러한 추적은 직원 인사 평가에도 반영될 예정입니다."
       ],
-      "whyImportant": "아마존닷컴의 재무 성과와 미래 투자 방향에 대한 시장의 반응을 보여준다.",
-      "importanceRationale": "근거: 아마존닷컴의 연매출 1위 달성은 긍정적인 소식이지만, 인공지능 투자에 대한 우려가 주가에 부정적인 영향을 미치고 있다는 점을 강조한다.",
+      "whyImportant": "아마존의 AI 사용 추적 정책은 직원 평가에 직접적인 영향을 미치므로 중요합니다.",
+      "importanceRationale": "근거: 아마존이 직원들의 AI 사용을 추적하고 이를 인사 평가에 반영한다는 것은 기업의 기술 활용 방식과 직원 평가 시스템에 대한 중요한 변화를 의미합니다.",
       "impactSignals": [],
-      "dedupeKey": "amazondotcom_ai_investment_concerns",
-      "clusterKey": "ai/달성에도",
+      "dedupeKey": "amazon-ai-tracking-hr",
+      "clusterKey": "반영",
       "matchedTo": null,
-      "sourceName": "마켓인",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5zNTdqaVd1TTdRdWhSLTR4ek9yS1UwUjlPLU1leXJrZ3g0QkU0RVh5cEFCNkp2UzBrTFBiSTcyWm9ZUkFzZkFMSlhseHVZdEg5TlBmcmdUOFRfb0FiRUdqRlRBWFAwZTg4RHF6TE80RTEzWFk?oc=5",
-      "publishedAt": "2026-02-19T20:42:50.000Z",
+      "sourceName": "연합뉴스 한민족센터",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9DeTVLeUM3QUNrX1E5MnMwMVdoMHI3bE5aUjY5dHJrdTJVeGgzTVRLWU40NFNLREFTTzNUY2RSbWJQa3V1bTFrU0U5V3dkekRlOXhDMldLbVhBNG9CSEg5TWUtQnhGOGdxTzBzMHF0ZGtDRXlv?oc=5",
+      "publishedAt": "2026-02-19T20:24:44.000Z",
       "readTimeSec": 10,
       "status": "kept",
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 정보가 간결하게 요약되어 있음. / 근거부족",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었습니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     }
