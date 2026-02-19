@@ -2,47 +2,48 @@
   "type": "metrics_summary",
   "date": "2026-02-20",
   "totalIn": 285,
-  "totalOut": 18,
-  "dropped": 267,
+  "totalOut": 19,
+  "dropped": 266,
   "dropReasons": {
-    "carry_over_duplicate": 40,
-    "outdated": 109,
-    "hard_excluded_keyword": 5,
-    "duplicate_dedupe_key": 5,
-    "duplicate_title": 4,
-    "excluded_keyword": 1,
-    "not_selected": 103,
-    "validation_dropped": 2
+    "carry_over_duplicate": 38,
+    "outdated": 106,
+    "hard_excluded_keyword": 6,
+    "duplicate_dedupe_key": 3,
+    "duplicate_title": 3,
+    "excluded_keyword": 2,
+    "not_selected": 108,
+    "validation_dropped": 1
   },
   "impactLabels": {
     "capex": 2,
-    "policy": 1,
+    "security": 1,
     "market-demand": 1
   },
   "sources": {
-    "ABC7 New York": 1,
-    "CNBC": 1,
+    "Investing.com 한국어": 2,
     "연합뉴스 한민족센터": 1,
-    "한국경제": 1,
+    "CNBC": 1,
+    "TechCrunch": 1,
     "애플경제": 1,
     "Bitcoin world": 1,
+    "더스쿠프": 1,
+    "미디어오늘": 1,
     "복지타임즈": 1,
     "SBS Biz": 1,
-    "Reuters": 2,
-    "전자신문": 1,
+    "The HIPAA Journal": 1,
+    "한국경제": 1,
+    "IAPP": 1,
+    "Reuters": 1,
     "Cisco Blogs": 1,
     "Finimize": 1,
-    "농민신문": 1,
-    "프레시안": 1,
     "E&E News by POLITICO": 1,
-    "Supply & Demand Chain Executive": 1,
-    "Healthcare Digital": 1
+    "Supply & Demand Chain Executive": 1
   },
   "topicStats": {
     "IT": {
       "in": 24,
-      "out": 0,
-      "dropped": 24
+      "out": 1,
+      "dropped": 23
     },
     "경제": {
       "in": 30,
@@ -51,18 +52,18 @@
     },
     "글로벌_정세": {
       "in": 24,
-      "out": 4,
-      "dropped": 20
+      "out": 2,
+      "dropped": 22
     },
     "글로벌_빅테크": {
       "in": 18,
-      "out": 2,
-      "dropped": 16
+      "out": 1,
+      "dropped": 17
     },
     "실적_가이던스": {
       "in": 24,
-      "out": 3,
-      "dropped": 21
+      "out": 5,
+      "dropped": 19
     },
     "반도체_공급망": {
       "in": 24,
@@ -76,13 +77,13 @@
     },
     "AI_저작권_데이터권리": {
       "in": 20,
-      "out": 1,
-      "dropped": 19
+      "out": 0,
+      "dropped": 20
     },
     "보안_취약점_패치": {
       "in": 20,
-      "out": 1,
-      "dropped": 19
+      "out": 2,
+      "dropped": 18
     },
     "투자_MA_IPO": {
       "in": 20,
@@ -91,8 +92,8 @@
     },
     "국내_정책_규제": {
       "in": 15,
-      "out": 3,
-      "dropped": 12
+      "out": 4,
+      "dropped": 11
     },
     "국내_산업_공급망": {
       "in": 15,
@@ -134,7 +135,7 @@
       "outdated": 2
     },
     "전자신문": {
-      "outdated": 2
+      "outdated": 1
     },
     "연합뉴스 한민족센터": {
       "outdated": 2,
@@ -148,18 +149,12 @@
     "매일경제": {
       "outdated": 2
     },
-    "아주경제": {
-      "outdated": 1
-    },
     "TRENDS Research & Advisory": {
       "outdated": 1
     },
     "DatacenterDynamics": {
       "outdated": 1,
       "not_selected": 1
-    },
-    "TechCrunch": {
-      "carry_over_duplicate": 1
     },
     "Bipartisan Policy Center": {
       "outdated": 1
@@ -204,9 +199,8 @@
     },
     "한국경제": {
       "outdated": 5,
-      "duplicate_dedupe_key": 1,
-      "carry_over_duplicate": 2,
-      "not_selected": 2
+      "carry_over_duplicate": 1,
+      "not_selected": 3
     },
     "포인트데일리": {
       "outdated": 1
@@ -260,10 +254,10 @@
     "ABN AMRO": {
       "outdated": 1
     },
-    "European Central Bank": {
+    "Freeman Spogli Institute for International Studies | FSI": {
       "outdated": 1
     },
-    "Freeman Spogli Institute for International Studies | FSI": {
+    "Boston University": {
       "outdated": 1
     },
     "매일일보": {
@@ -281,17 +275,20 @@
     "더팩트": {
       "carry_over_duplicate": 1
     },
-    "Modern Diplomacy": {
-      "carry_over_duplicate": 1
-    },
     "Thomson Reuters tax": {
       "outdated": 1
+    },
+    "Modern Diplomacy": {
+      "carry_over_duplicate": 1
     },
     "NVIDIA Newsroom": {
       "carry_over_duplicate": 1
     },
     "Morningstar Canada": {
       "carry_over_duplicate": 1
+    },
+    "Consumers Union": {
+      "hard_excluded_keyword": 1
     },
     "약사공론": {
       "carry_over_duplicate": 1
@@ -300,19 +297,16 @@
       "carry_over_duplicate": 1,
       "not_selected": 2
     },
-    "FinancialContent": {
-      "duplicate_dedupe_key": 1
-    },
     "Chosunbiz": {
-      "carry_over_duplicate": 1
-    },
-    "인사이트코리아": {
       "carry_over_duplicate": 1
     },
     "연합인포맥스": {
       "outdated": 5,
       "duplicate_dedupe_key": 1,
       "not_selected": 4
+    },
+    "인사이트코리아": {
+      "carry_over_duplicate": 1
     },
     "프라임경제": {
       "carry_over_duplicate": 1,
@@ -372,12 +366,12 @@
     "강원도민일보": {
       "carry_over_duplicate": 1
     },
+    "KBS 뉴스": {
+      "excluded_keyword": 1
+    },
     "농민신문": {
       "outdated": 1,
-      "not_selected": 3
-    },
-    "뉴닉": {
-      "outdated": 1
+      "not_selected": 4
     },
     "HPCwire": {
       "carry_over_duplicate": 1
@@ -397,6 +391,9 @@
     "Tech Xplore": {
       "outdated": 1
     },
+    "Tech Policy Press": {
+      "outdated": 1
+    },
     "사이언스타임즈": {
       "carry_over_duplicate": 1
     },
@@ -406,36 +403,33 @@
     "SOC Prime": {
       "carry_over_duplicate": 1
     },
-    "서울경제TV": {
-      "duplicate_title": 1,
-      "not_selected": 2
-    },
     "The Fast Mode": {
       "carry_over_duplicate": 1
     },
     "Halcyon": {
       "outdated": 1
     },
-    "Crowell & Moring LLP": {
+    "CyberScoop": {
       "outdated": 1
     },
-    "CyberScoop": {
+    "Crowell & Moring LLP": {
       "outdated": 1
     },
     "Bitsight": {
       "outdated": 1
     },
-    "acc.af.mil": {
+    "Industrial Cyber": {
       "outdated": 1
     },
     "Palo Alto Networks": {
       "outdated": 1
     },
-    "Industrial Cyber": {
+    "acc.af.mil": {
       "outdated": 1
     },
     "Yahoo Finance": {
-      "carry_over_duplicate": 1
+      "carry_over_duplicate": 1,
+      "not_selected": 2
     },
     "qz.com": {
       "carry_over_duplicate": 1
@@ -467,7 +461,7 @@
     },
     "마켓인": {
       "outdated": 4,
-      "not_selected": 4
+      "not_selected": 5
     },
     "스트레이트뉴스": {
       "outdated": 1,
@@ -503,7 +497,7 @@
     "매일경제TV": {
       "outdated": 1
     },
-    "IAPP": {
+    "AI Magazine": {
       "not_selected": 1
     },
     "ERP Today": {
@@ -517,6 +511,9 @@
     },
     "Heatmap News": {
       "not_selected": 1
+    },
+    "IndexBox": {
+      "not_selected": 2
     },
     "FedEx newsroom": {
       "not_selected": 1
@@ -533,19 +530,16 @@
     "Benzinga": {
       "not_selected": 2
     },
+    "Investing.com 한국어": {
+      "not_selected": 3
+    },
     "knn.co.kr": {
-      "not_selected": 2
-    },
-    "에너지경제신문 모바일": {
-      "not_selected": 2
-    },
-    "ESG경제": {
-      "not_selected": 1
-    },
-    "IndexBox": {
       "not_selected": 1
     },
     "Forbes": {
+      "not_selected": 1
+    },
+    "Inside Global Tech": {
       "not_selected": 1
     },
     "Financier Worldwide": {
@@ -563,11 +557,8 @@
     "직썰": {
       "validation_dropped": 1
     },
-    "The HIPAA Journal": {
-      "validation_dropped": 1
-    },
     "__others__": {
-      "not_selected": 53
+      "not_selected": 54
     }
   },
   "breakingSelection": {
@@ -577,19 +568,19 @@
     "selectedShare": 0
   },
   "categories": {
-    "정책": 4,
     "경제": 5,
-    "국제": 4,
-    "기술": 4,
-    "에너지": 1
+    "정책": 4,
+    "에너지": 3,
+    "국제": 5,
+    "기술": 2
   },
   "importanceDistribution": {
-    "2": 14,
-    "3": 1,
+    "2": 15,
+    "4": 1,
     "3.5": 3
   },
   "topDiversity": {
-    "uniqueSources": 17,
+    "uniqueSources": 18,
     "uniqueCategories": 5,
     "maxPerSource": 2
   }
