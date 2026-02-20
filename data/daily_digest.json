@@ -3,7 +3,7 @@
   "selectionCriteria": "① 내일도 영향이 남는 이슈 ② 과도한 감정 소모 제외 ③ 어제와 중복되는 뉴스 제외",
   "editorNote": "이 뉴스는 클릭 수가 아니라 오늘 이후에도 남는 정보만 기준으로 편집했습니다.",
   "question": "정보를 덜 보는 것이 오히려 더 똑똑한 소비일까?",
-  "lastUpdatedAt": "2026-02-20T10:52:19.302+09:00",
+  "lastUpdatedAt": "2026-02-20T13:13:55.879+09:00",
   "items": [
     {
       "id": "2026-02-20_1",
@@ -12,17 +12,17 @@
       "title": "클라인 사용자 대상 공급망 공격으로 OpenClaw 몰래 설치",
       "summary": [
         "클라인 사용자를 대상으로 한 공급망 공격이 발생했습니다.",
-        "이번 공격으로 OpenClaw가 몰래 설치되었습니다."
+        "이 공격으로 인해 OpenClaw가 몰래 설치되었습니다."
       ],
-      "whyImportant": "공급망 공격은 소프트웨어 개발 및 배포 과정에서 보안 취약점을 악용하여 광범위한 피해를 초래할 수 있습니다.",
-      "importanceRationale": "근거: 공급망 공격은 보안에 심각한 위협이 되며, OpenClaw 설치는 사용자에게 직접적인 영향을 미칩니다.",
+      "whyImportant": "공급망 공격은 소프트웨어 개발 및 배포 프로세스를 표적으로 삼아 광범위한 피해를 초래할 수 있습니다.",
+      "importanceRationale": "근거: 공급망 공격은 보안에 심각한 위협이 되며, 사용자에게 직접적인 영향을 미치기 때문에 중요합니다.",
       "impactSignals": [
         {
           "label": "security",
-          "evidence": "OpenClaw 설치는 사용자 보안에 직접적인 위협을 가합니다."
+          "evidence": "OpenClaw가 몰래 설치되어 보안 위협을 야기합니다."
         }
       ],
-      "dedupeKey": "supply_chain_attack_openclaw",
+      "dedupeKey": "supply_chain_attack_openclaw_cline",
       "clusterKey": "attack",
       "matchedTo": null,
       "sourceName": "Dark Reading",
@@ -45,10 +45,10 @@
       "summary": [
         "지티티코리아는 섀도 AI와 데이터 유출을 통제하는 글로벌 AI 규제 대응 거버넌스 체계를 구축했다."
       ],
-      "whyImportant": "AI 규제 준수 및 데이터 보안 강화",
-      "importanceRationale": "근거: 섀도 AI와 데이터 유출 통제는 기업의 규제 준수 및 보안에 중요한 영향을 미친다.",
+      "whyImportant": "AI 규제 준수를 위한 거버넌스 체계 확립의 중요성을 강조합니다.",
+      "importanceRationale": "근거: 섀도 AI 및 데이터 유출 통제는 기업의 보안 및 규제 준수에 필수적입니다.",
       "impactSignals": [],
-      "dedupeKey": "shadow-ai-data-governance",
+      "dedupeKey": "shadow-ai-data-leak-governance",
       "clusterKey": "거버넌스",
       "matchedTo": null,
       "sourceName": "지티티코리아",
@@ -57,9 +57,9 @@
       "readTimeSec": 10,
       "status": "kept",
       "importance": 2,
-      "importanceRaw": 75,
+      "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 정보가 명확함 / 근거부족",
+      "qualityReason": "기사 내용이 명확하고 간결합니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -67,20 +67,69 @@
       "id": "2026-02-20_3",
       "date": "2026-02-20",
       "category": "국제",
+      "title": "아마존, 월마트 제치고 세계 최대 매출 기업 등극",
+      "summary": [
+        "아마존이 창업 32년 만에 월마트를 제치고 세계 최대 매출 기업으로 등극했다.",
+        "한국무역협회에 따르면 아마존이 새로운 기록을 세웠다."
+      ],
+      "whyImportant": "아마존의 매출 증가는 글로벌 경제 지형 변화를 시사한다.",
+      "importanceRationale": "근거: 아마존이 월마트를 제치고 세계 최대 매출 기업이 된 것은 전자상거래 시장의 성장과 소비자 행동 변화를 반영한다.",
+      "impactSignals": [],
+      "dedupeKey": "amazon-largest-revenue-company",
+      "clusterKey": "기업",
+      "matchedTo": null,
+      "sourceName": "한국무역협회-KITA.NET",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPc1RsQkNXX2dlN0JRcTgwX2thWWNfaXEzWnBOMVR3bERza1ZHQXF5X3FlNE9tcmhpTkhtUDE3Nk5UeThzczF2d1M5eEI0OEl3blptSHN0QU9NSk9wdDI4b2VXMXdDU1hkWG1raHB4VWs0bm1fTUVvdmxZak00MV9LczVHNzJkbjI5cFUtT2ZQUmNFZjlMYmZsbFVDM3p2enRpeTFLbGRDYllRMTh1aldFT2RYNHlsanRwZndfSm5nOEJET3ItTEtUQXFJdmpTNDNQdFdqeQ?oc=5",
+      "publishedAt": "2026-02-20T01:14:36.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 75,
+      "qualityLabel": "ok",
+      "qualityReason": "기사에 오류나 과장된 내용이 없습니다. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-02-20_4",
+      "date": "2026-02-20",
+      "category": "경제",
+      "title": "콴타 서비스, AI 데이터 센터 수요 증가로 2026년 예상 이익 상회 전망",
+      "summary": [
+        "콴타 서비스는 AI 데이터 센터 수요 증가에 힘입어 2026년 예상 이익이 추정치를 상회할 것으로 전망했다.",
+        "이는 강력한 AI 데이터 센터 수요에 따른 결과이다."
+      ],
+      "whyImportant": "AI 데이터 센터 수요 증가가 특정 기업의 이익 전망에 미치는 영향을 보여준다.",
+      "importanceRationale": "근거: 콴타 서비스의 2026년 이익 전망 상향은 AI 데이터 센터 시장의 성장과 직접적인 연관이 있다.",
+      "impactSignals": [],
+      "dedupeKey": "Quanta Services forecasts 2026 profit above estimates on strong AI data center-led demand",
+      "clusterKey": "above",
+      "matchedTo": null,
+      "sourceName": "WHTC",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSkp6WjlFM0ozZ1ZaVUpBWXFaYUR3bmlybllzR19WVDdnazh6ZUlFUEE0RmJOUjhVRDVHSWUxQmtXSEwxVkppWlVPWWpzNnFIX0dua3lqTEVMcEVKQU9DcW1DVHJXdmI1NllkR08tX3ExZE9ubnhVX29wWGhvM1R4WXEySmNlVF9sTDZJanBiRVl6c01TV1ZvMGc2VTNOOXI2d2FjSlU4endYZ0pfcnJEOUJLSUdhYmgxc1E?oc=5",
+      "publishedAt": "2026-02-20T02:03:53.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 63,
+      "qualityLabel": "ok",
+      "qualityReason": "The article is a factual report of a company's forecast. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-02-20_5",
+      "date": "2026-02-20",
+      "category": "국제",
       "title": "일본 주요 반도체 공급업체, 랜섬웨어 공격에 대응",
       "summary": [
-        "일본의 주요 반도체 공급업체가 랜섬웨어 공격을 받은 후 대응하고 있습니다.",
-        "이번 공격은 Recorded Future News에서 보도되었습니다."
+        "일본의 주요 반도체 공급업체가 랜섬웨어 공격을 받았습니다.",
+        "현재 공격에 대한 대응이 진행 중입니다."
       ],
-      "whyImportant": "주요 반도체 공급망에 대한 사이버 공격은 생산 차질 및 공급망 불안정을 야기할 수 있습니다.",
-      "importanceRationale": "근거: 반도체 산업은 글로벌 경제에 매우 중요하며, 공급망 문제는 광범위한 영향을 미칠 수 있습니다.",
-      "impactSignals": [
-        {
-          "label": "security",
-          "evidence": "랜섬웨어 공격으로 인해 주요 반도체 공급업체가 영향을 받음"
-        }
-      ],
-      "dedupeKey": "ransomware_semiconductor_japan_2024",
+      "whyImportant": "이번 공격은 반도체 공급망에 차질을 초래할 수 있습니다.",
+      "importanceRationale": "근거: 주요 반도체 공급업체에 대한 랜섬웨어 공격은 생산 중단 및 데이터 유출을 야기하여, 관련 산업 전반에 걸쳐 상당한 파급 효과를 가져올 수 있기 때문입니다.",
+      "impactSignals": [],
+      "dedupeKey": "ransomware_attack_japanese_semiconductor_supplier",
       "clusterKey": "attack",
       "matchedTo": null,
       "sourceName": "The Record from Recorded Future News",
@@ -88,31 +137,58 @@
       "publishedAt": "2026-02-19T23:21:57.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 4,
+      "importance": 2,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "기사에 제목과 본문이 모두 포함되어 있습니다.",
+      "qualityReason": "기사 내용이 명확하고 간결함 / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-02-20_4",
+      "id": "2026-02-20_6",
+      "date": "2026-02-20",
+      "category": "경제",
+      "title": "Casella Waste Systems (NASDAQ:CWST) 2025년 4분기 실적 발표: 예상에 부합하는 매출",
+      "summary": [
+        "Casella Waste Systems의 2025년 4분기 실적 발표가 있었습니다.",
+        "매출은 예상치에 부합했습니다."
+      ],
+      "whyImportant": "기업의 실적 발표는 투자자와 시장 분석가에게 중요한 정보입니다.",
+      "importanceRationale": "근거: 기업의 매출이 예상치에 부합했다는 정보는 기업의 현재 재정 상태와 미래 성장 가능성에 대한 중요한 지표를 제공합니다.",
+      "impactSignals": [],
+      "dedupeKey": "CWST_Q4_2025_Earnings",
+      "clusterKey": "casella",
+      "matchedTo": null,
+      "sourceName": "Yahoo Finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVEJZeWdHR0JVMkdqMlB2ZkNqWVdzTkVFb2UzVjV3N0dKbzhlelVHY3JlRy16M1JNYkFXY2JrcjFuUm9wNUJRMElyZ05odG5yMV9mUFNFQnNvRHpkdEE3UVVrMWVzS0dYd1dVeHk2Ukh0V2NUZXFWVldWcUV2dnd5bEVVbl8tUQ?oc=5",
+      "publishedAt": "2026-02-19T21:37:21.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 63,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 본문이 일치하며, 정보가 간결하고 명확합니다. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-02-20_7",
       "date": "2026-02-20",
       "category": "정책",
       "title": "장애 친화 산부인과 평가, '진료 실적'에서 '만족도' 중심으로",
       "summary": [
-        "장애 친화 산부인과 평가 기준이 진료 실적에서 환자 만족도 중심으로 변경될 예정입니다.",
-        "이는 의료 서비스 질 향상에 기여할 것으로 기대됩니다."
+        "장애 친화 산부인과 평가 기준이 진료 실적에서 만족도 중심으로 변경될 예정입니다.",
+        "이는 장애인 환자의 의료 서비스 질 향상을 목표로 합니다."
       ],
-      "whyImportant": "장애인 환자 중심의 의료 서비스 평가 변화",
-      "importanceRationale": "근거: 장애 친화 산부인과 평가 기준이 진료 실적 중심에서 환자 만족도 중심으로 전환되어, 의료 서비스의 질적 향상을 도모하고 환자 중심의 의료 환경을 조성하는 데 중요한 변화를 의미합니다.",
+      "whyImportant": "장애인 의료 서비스 접근성 및 만족도 개선에 중요한 지표가 될 수 있습니다.",
+      "importanceRationale": "근거: 장애 친화 산부인과 평가는 장애인 환자에게 필요한 의료 서비스를 제공하는 데 중요한 역할을 합니다. 평가 기준 변경은 서비스 질 개선을 유도할 수 있습니다.",
       "impactSignals": [
         {
           "label": "infra",
-          "evidence": "장애 친화 산부인과 평가 기준 변경은 의료 인프라 개선의 간접적 지표가 될 수 있음"
+          "evidence": "장애 친화 산부인과 평가는 관련 의료 인프라 개선에 영향을 미칩니다."
         }
       ],
-      "dedupeKey": "disability-friendly-obstetrics-gynecology-evaluation-focus-on-satisfaction",
+      "dedupeKey": "장애친화산부인과평가만족도중심",
       "clusterKey": "만족도",
       "matchedTo": null,
       "sourceName": "의학신문",
@@ -128,16 +204,48 @@
       "isBreaking": false
     },
     {
-      "id": "2026-02-20_5",
+      "id": "2026-02-20_8",
+      "date": "2026-02-20",
+      "category": "정책",
+      "title": "로블록스, 계엄 왜곡 게임 '그날의 국회' 삭제…'규정 위반'",
+      "summary": [
+        "로블록스가 계엄을 왜곡한 게임 '그날의 국회'를 삭제했다.",
+        "삭제 이유는 로블록스의 규정 위반이다."
+      ],
+      "whyImportant": "로블록스 플랫폼 내 부적절한 콘텐츠 규제 정책의 중요성을 보여준다.",
+      "importanceRationale": "근거: 로블록스가 자체 규정을 위반한 게임을 삭제함으로써, 플랫폼 내 콘텐츠 관리에 적극적으로 대응하고 있음을 시사한다.",
+      "impactSignals": [],
+      "dedupeKey": "roblox-game-removal-korea",
+      "clusterKey": "게임",
+      "matchedTo": null,
+      "sourceName": "연합뉴스 한민족센터",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9tdVZZT1BCNGZ5bUlmbnZqV3RLWUp6alVVOUM1SFgtN0psOFFXN2FobjVoN0p6WUs0RmNLeVAxeTFFLVdnaWZnTEZlbjhLS1U5Z1NZem1kMkxEcVpPRVJLMnl5em03Mm5qMkpNWmY4MmR2dUFC?oc=5",
+      "publishedAt": "2026-02-20T01:42:59.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 63,
+      "qualityLabel": "ok",
+      "qualityReason": "기사 내용이 명확하고 간결함. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-02-20_9",
       "date": "2026-02-20",
       "category": "국제",
       "title": "랜섬웨어 공격으로 피해를 입은 3개의 의료 서비스 제공업체",
       "summary": [
-        "HIPAA 저널에 따르면 3개의 의료 서비스 제공업체가 랜섬웨어 공격의 영향을 받았습니다."
+        "HIPAA 저널에 따르면 3개의 의료 서비스 제공업체가 랜섬웨어 공격으로 인해 피해를 입었습니다."
       ],
-      "whyImportant": "의료 기관의 사이버 보안 취약성 강조",
-      "importanceRationale": "근거: 의료 기관을 대상으로 한 랜섬웨어 공격은 환자 데이터 유출 및 의료 서비스 중단으로 이어질 수 있어 사회적 파장이 큽니다.",
-      "impactSignals": [],
+      "whyImportant": "의료 기관에 대한 사이버 공격은 환자 정보 유출 및 의료 서비스 중단으로 이어질 수 있습니다.",
+      "importanceRationale": "근거: 의료 기관은 민감한 개인 정보를 다루기 때문에 사이버 공격의 주요 대상이 되며, 랜섬웨어 공격은 이러한 기관의 운영에 심각한 차질을 초래할 수 있습니다.",
+      "impactSignals": [
+        {
+          "label": "security",
+          "evidence": "랜섬웨어 공격으로 인해 의료 서비스 제공에 차질이 발생할 수 있음"
+        }
+      ],
       "dedupeKey": "ransomware_healthcare_providers",
       "clusterKey": "affected",
       "matchedTo": null,
@@ -146,120 +254,28 @@
       "publishedAt": "2026-02-19T11:08:28.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 2,
-      "importanceRaw": 75,
-      "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었습니다. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-02-20_6",
-      "date": "2026-02-20",
-      "category": "국제",
-      "title": "'트럼프 관세' 첫해 무역 적자 변화 없어…작년 미국 수입 사상 최대",
-      "summary": [
-        "미국이 '트럼프 관세'를 부과한 첫 해에도 무역 적자는 변동이 없었습니다.",
-        "작년 미국의 수입은 사상 최대치를 기록했습니다."
-      ],
-      "whyImportant": "미국의 무역 정책 변화에도 불구하고 무역 수지 개선이 이루어지지 않고 있음을 보여줍니다.",
-      "importanceRationale": "근거: '트럼프 관세' 정책의 효과에 대한 의문을 제기하며, 미국의 무역 정책 방향에 대한 논의를 촉발할 수 있습니다.",
-      "impactSignals": [
-        {
-          "label": "policy",
-          "evidence": "트럼프 관세 정책 시행에도 무역 적자 변화 없음"
-        }
-      ],
-      "dedupeKey": "trump-tariff-trade-deficit-unchanged",
-      "clusterKey": "그대로",
-      "matchedTo": null,
-      "sourceName": "서울경제TV",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1ZUzJURVVkdUNpN2lweEZ1YnE4N2ZadnBMbGg1M2lBYkdXOHpBN1JNaUQ4Z0I5c3lFTzRlbVh1MlU0MEZZVUppVUgyZXg2RFU1M0Q5ZVVfYXlXSjJ2VkhJM0plOGw?oc=5",
-      "publishedAt": "2026-02-20T01:20:08.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
       "importance": 3.5,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었습니다.",
+      "qualityReason": "기사 제목과 내용이 일치하며, 간결하게 요약되었습니다.",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-02-20_7",
-      "date": "2026-02-20",
-      "category": "정책",
-      "title": "농어촌 서비스 기준, 생활 체감 중심으로... 시행령 개정안 입법 예고",
-      "summary": [
-        "농어촌 서비스 기준이 생활 체감 중심으로 개정될 예정입니다.",
-        "시행령 개정안이 입법 예고되었습니다."
-      ],
-      "whyImportant": "농어촌 주민들의 생활 편의 증진에 기여할 수 있는 정책 변경입니다.",
-      "importanceRationale": "근거: 농어촌 서비스 기준이 생활 체감 중심으로 변경되는 시행령 개정안이 입법 예고되었기 때문입니다.",
-      "impactSignals": [],
-      "dedupeKey": "농어촌서비스기준생활체감중심으로시행령개정안입법예고",
-      "clusterKey": "개정안",
-      "matchedTo": null,
-      "sourceName": "연합뉴스 한민족센터",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1PeEdVS0ZRTy12aFpKV3RMeTdHVU5LcG9lQnlvV3I3YzktR2lNMUdXWGlsWndCYlh0VEI0c1ZReUx0c2lVNUhhZDVpSVpfeFhpS1c4Z0g0YmRwRlFxU21uTnZ1V3ctVFh4OXFxb3FlUmlGU0d1?oc=5",
-      "publishedAt": "2026-02-19T21:00:05.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 63,
-      "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었습니다. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-02-20_8",
-      "date": "2026-02-20",
-      "category": "경제",
-      "title": "Casella Waste Systems (NASDAQ:CWST) 2025년 4분기 실적 발표: 매출액 예상치 부합",
-      "summary": [
-        "Casella Waste Systems의 2025년 4분기 실적 발표가 있었습니다.",
-        "매출액은 예상치에 부합했습니다."
-      ],
-      "whyImportant": "투자자와 시장 참여자들은 회사의 재무적 건전성과 미래 성장 전망을 파악하기 위해 실적 발표를 주시합니다.",
-      "importanceRationale": "근거: 매출액이 예상치에 부합했다는 정보는 회사의 현재 사업 운영 상황을 나타내는 중요한 지표입니다.",
-      "impactSignals": [
-        {
-          "label": "capex",
-          "evidence": "실적 발표에 따른 자본 지출(CAPEX) 관련 정보"
-        }
-      ],
-      "dedupeKey": "CWST_Q4_2025_Earnings",
-      "clusterKey": "casella",
-      "matchedTo": null,
-      "sourceName": "Yahoo Finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVEJZeWdHR0JVMkdqMlB2ZkNqWVdzTkVFb2UzVjV3N0dKbzhlelVHY3JlRy16M1JNYkFXY2JrcjFuUm9wNUJRMElyZ05odG5yMV9mUFNFQnNvRHpkdEE3UVVrMWVzS0dYd1dVeHk2Ukh0V2NUZXFWVldWcUV2dnd5bEVVbl8tUQ?oc=5",
-      "publishedAt": "2026-02-19T21:37:21.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 3,
-      "importanceRaw": 50,
-      "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 정보가 간결하게 제공됨.",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-02-20_9",
+      "id": "2026-02-20_10",
       "date": "2026-02-20",
       "category": "경제",
       "title": "“로봇이 곧 공장 경쟁력”…전통 제조 중소·중견 기업, ‘피지컬 AI’에 투자",
       "summary": [
-        "전통 제조업의 중소·중견 기업들이 공장 경쟁력 강화를 위해 로봇, 즉 '피지컬 AI'에 투자하고 있다.",
-        "이는 생산성 향상과 효율성 증대를 목표로 한다.",
-        "자동화 설비 도입을 통해 경쟁력을 확보하려는 움직임으로 해석된다."
+        "전통 제조업의 중소·중견 기업들이 공장 경쟁력 강화를 위해 '피지컬 AI'에 투자하고 있다.",
+        "이는 로봇 기술이 공장의 생산성을 향상시키는 데 중요한 역할을 하기 때문이다."
       ],
-      "whyImportant": "제조업의 경쟁력 강화를 위한 투자 동향을 보여주는 지표",
-      "importanceRationale": "근거: 전통 제조업의 중소·중견 기업들이 자동화 설비 투자를 통해 경쟁력을 강화하려는 움직임을 나타내므로 중요하다고 판단됨.",
+      "whyImportant": "전통 제조업의 경쟁력 강화에 로봇 기술이 미치는 영향력을 보여주는 사례이다.",
+      "importanceRationale": "근거: 중소·중견 기업들이 공장 경쟁력 확보를 위해 로봇 기술 투자를 확대하고 있다는 점을 강조한다.",
       "impactSignals": [
         {
           "label": "capex",
-          "evidence": "전통 제조 중소·중견 기업이 '피지컬 AI'에 투자하는 것은 자본 지출의 증가를 의미한다."
+          "evidence": "전통 제조 중소·중견 기업이 '피지컬 AI'에 투자"
         }
       ],
       "dedupeKey": "robot-factory-competitiveness-physical-ai",
@@ -273,28 +289,23 @@
       "importance": 3.5,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하고 명확하게 요약되어 있음.",
+      "qualityReason": "제목과 내용이 일치하며, 핵심 내용을 잘 요약했습니다.",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-02-20_10",
+      "id": "2026-02-20_11",
       "date": "2026-02-20",
       "category": "기술",
       "title": "OpenAI, 인도에 100MW AI 데이터 센터 용량 확보, 1GW 목표",
       "summary": [
-        "OpenAI는 인도의 Tata와 협력하여 100MW 규모의 AI 데이터 센터 용량을 확보할 예정입니다.",
+        "OpenAI가 인도에서 100MW 규모의 AI 데이터 센터 용량을 확보하기 위해 Tata와 협력합니다.",
         "OpenAI는 향후 1GW까지 확장하는 것을 목표로 하고 있습니다.",
-        "이번 투자는 OpenAI의 AI 연구 및 개발 역량을 강화하기 위한 것입니다."
+        "이번 투자는 OpenAI의 AI 기술 개발 및 확장에 중요한 역할을 할 것으로 예상됩니다."
       ],
-      "whyImportant": "OpenAI의 인도 데이터 센터 투자는 AI 인프라 확장과 관련하여 중요한 의미를 가집니다.",
-      "importanceRationale": "근거: OpenAI가 인도에 대규모 데이터 센터 투자를 결정한 것은 AI 기술 경쟁 심화 속에서 데이터 처리 능력 확보가 중요하다는 것을 보여줍니다. 특히 1GW까지 확장 목표를 설정한 것은 장기적인 투자 계획을 시사합니다.",
-      "impactSignals": [
-        {
-          "label": "capex",
-          "evidence": "OpenAI가 인도에 데이터 센터를 건설하고 확장하는 데 상당한 자본 지출이 예상됩니다."
-        }
-      ],
+      "whyImportant": "OpenAI의 인도 데이터 센터 용량 확보는 AI 인프라 확장 전략의 중요한 부분입니다.",
+      "importanceRationale": "근거: OpenAI가 인도에 대규모 데이터 센터 투자를 통해 AI 기술 개발 및 시장 확장에 박차를 가할 것으로 예상됩니다.",
+      "impactSignals": [],
       "dedupeKey": "openai_tata_india_datacenter_100MW",
       "clusterKey": "100mw",
       "matchedTo": null,
@@ -303,15 +314,15 @@
       "publishedAt": "2026-02-19T05:34:25.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 4,
+      "importance": 2,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 정보가 명확합니다.",
+      "qualityReason": "제목과 본문이 일치하며, 정보가 명확합니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-02-20_11",
+      "id": "2026-02-20_12",
       "date": "2026-02-20",
       "category": "국제",
       "title": "아마존, 연간 매출에서 처음으로 월마트 추월, AI 기반 성장 추구",
@@ -319,9 +330,14 @@
         "아마존이 연간 매출에서 처음으로 월마트를 넘어섰습니다.",
         "두 회사 모두 인공지능을 활용한 성장을 추구하고 있습니다."
       ],
-      "whyImportant": "아마존이 월마트를 제치고 매출 1위를 달성한 것은 전자상거래 시장의 변화를 보여주는 중요한 지표입니다.",
-      "importanceRationale": "근거: 아마존의 매출 증가는 온라인 쇼핑의 증가와 AI 기술 투자의 결과로 해석될 수 있으며, 이는 유통 업계의 경쟁 구도에 영향을 미칠 수 있습니다.",
-      "impactSignals": [],
+      "whyImportant": "아마존과 월마트의 경쟁 구도 변화를 보여주는 중요한 지표입니다.",
+      "importanceRationale": "근거: 아마존이 처음으로 월마트의 연간 매출을 넘어섰다는 사실은 전자상거래 시장의 판도 변화를 시사하며, 두 회사가 AI를 통해 성장을 모색하는 전략적 방향성을 보여줍니다.",
+      "impactSignals": [
+        {
+          "label": "earnings",
+          "evidence": "아마존이 월마트를 제치고 연간 매출 1위를 달성함."
+        }
+      ],
       "dedupeKey": "amazon_surpasses_walmart_revenue_2024",
       "clusterKey": "amazon",
       "matchedTo": null,
@@ -330,15 +346,74 @@
       "publishedAt": "2026-02-19T18:59:39.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 2,
+      "importance": 4,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "The article provides a clear and concise report of Amazon surpassing Walmart in annual revenue. / 근거부족",
+      "qualityReason": "기사의 내용이 명확하고 사실에 기반하고 있습니다.",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-02-20_12",
+      "id": "2026-02-20_13",
+      "date": "2026-02-20",
+      "category": "에너지",
+      "title": "정부, '차세대 분산형 전력망' 구축 본격화... 국비 3210억원 투입",
+      "summary": [
+        "정부가 '차세대 분산형 전력망' 구축을 본격화한다.",
+        "이를 위해 국비 3210억원이 투입될 예정이다."
+      ],
+      "whyImportant": "차세대 분산형 전력망 구축은 에너지 정책의 중요한 변화를 의미합니다.",
+      "importanceRationale": "근거: 정부가 직접 국비를 투입하여 차세대 전력망 구축을 추진하는 것은 정책적 의지를 보여주는 중요한 신호입니다.",
+      "impactSignals": [
+        {
+          "label": "policy",
+          "evidence": "정부의 차세대 분산형 전력망 구축 정책 발표 및 국비 3210억원 투입 결정"
+        }
+      ],
+      "dedupeKey": "차세대 분산형 전력망 구축 본격화",
+      "clusterKey": "에너지/3210억원",
+      "matchedTo": null,
+      "sourceName": "더버터",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1oWE8xdkNYYU95ZGNXSGZjUmVKLWt5OTZMejZsSEM5WkJDeDR6dGJka1VMZEVlRVJ6WXlnbjZia3ZsMFE0dnpGU2UzY1RPUU84MDZCU3RnYV9sbEJUTDBNaG1uMmc0VEF3bFE?oc=5",
+      "publishedAt": "2026-02-20T03:04:50.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 4,
+      "importanceRaw": 75,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 핵심 내용을 전달합니다.",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-02-20_14",
+      "date": "2026-02-20",
+      "category": "정책",
+      "title": "AI 제작 콘텐츠 급증에 따른 저작권 분쟁 관련 입법 토론회 국회 개최",
+      "summary": [
+        "AI 제작 콘텐츠의 급증으로 인해 저작권 분쟁이 늘어남.",
+        "이에 대한 입법 토론회가 국회에서 열림."
+      ],
+      "whyImportant": "AI가 만든 콘텐츠의 저작권 관련 분쟁을 다루는 법을 만들기 위한 논의가 시작되었다는 것을 보여준다.",
+      "importanceRationale": "근거: AI 콘텐츠 저작권 분쟁에 대한 입법 토론회가 국회에서 개최된 것은 정책적으로 중요한 변화를 예고한다.",
+      "impactSignals": [],
+      "dedupeKey": "AI저작권분쟁입법토론회",
+      "clusterKey": "국회서",
+      "matchedTo": null,
+      "sourceName": "한겨레",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5feGF0eUlJQkpUNHFKVzVMX19zdlI0SFlPZEc4TW5yUkFlZ05fdW9WOTk3MG5UNGhaNHl5TWFWT1dMQjRSaFV6ek5WRFQ0NEZIUHBQdnNPRjN5RUF5RTZxQUl6Z2o?oc=5",
+      "publishedAt": "2026-02-20T02:56:00.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 63,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약됨 / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-02-20_15",
       "date": "2026-02-20",
       "category": "정책",
       "title": "AI 상용화 시대, 규제 벌금 리스크 감소를 위한 감사 준비형 거버넌스 체계",
@@ -351,10 +426,10 @@
       "impactSignals": [
         {
           "label": "policy",
-          "evidence": "AI 상용화에 따른 규제 및 벌금 리스크 관리의 필요성 증대"
+          "evidence": "AI 상용화에 따른 규제 및 벌금 리스크 언급"
         }
       ],
-      "dedupeKey": "AI상용화_규제벌금_거버넌스",
+      "dedupeKey": "AI상용화규제거버넌스",
       "clusterKey": "가속",
       "matchedTo": null,
       "sourceName": "지티티코리아",
@@ -365,92 +440,38 @@
       "importance": 4,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 내용이 일치하며, 핵심 내용을 잘 요약했습니다.",
+      "qualityReason": "제목과 내용이 일치하며, 핵심 내용을 잘 요약했습니다.",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-02-20_13",
+      "id": "2026-02-20_16",
       "date": "2026-02-20",
       "category": "경제",
-      "title": "인기 ‘VS Code’, 확장 프로그램 취약점 ‘경보’",
+      "title": "오늘의 Pick : \"삼성전기, AI발 영업이익 급증 예상보다 빠를 것\"",
       "summary": [
-        "인기 있는 ‘VS Code’에서 확장 프로그램의 취약점이 발견되어 경보가 발령되었습니다."
+        "한국경제에 따르면 삼성전기의 AI 관련 영업이익 급증이 예상보다 빠르게 나타날 것으로 전망됩니다."
       ],
-      "whyImportant": "VS Code 사용자들은 확장 프로그램 사용에 주의해야 합니다.",
-      "importanceRationale": "근거: VS Code는 개발자들에게 널리 사용되는 도구이므로, 취약점은 광범위한 영향을 미칠 수 있습니다.",
+      "whyImportant": "삼성전기의 AI 관련 사업 성장에 대한 기대감을 나타내는 지표입니다.",
+      "importanceRationale": "근거: 삼성전기의 AI 관련 영업이익 증가 속도에 대한 시장의 긍정적 전망을 반영합니다.",
       "impactSignals": [],
-      "dedupeKey": "VSCode_security_warning",
-      "clusterKey": "code",
+      "dedupeKey": "samsung-electric-ai-profit-increase",
+      "clusterKey": "ai발",
       "matchedTo": null,
-      "sourceName": "애플경제",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMib0FVX3lxTE55RndLZ3k4RWItVzVFSEhuNzMwb3lra1NsX0lmSTNwWEdyLVBnY21NTUJFMUJGUlJ2ZEJQTzh5V3hUTUZGY2ZoRy1iTFlyREp1cVFUSnpqNmJDUXJ4d1BDZngxaDFmak45cl9xbFZVSQ?oc=5",
-      "publishedAt": "2026-02-19T14:49:42.000Z",
+      "sourceName": "한국경제",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB3ZWY1Y2VjWjREdS1iLWFRaXlOdkMyRDFtcGJUSURLZTg5eXZDNUZjc3FVbUp4Rml2LXVBTUhtdkhxdFBBUVpGTUc4REFTdzc1ZXJNMkxYWGhXZ9IBVEFVX3lxTE1MX2FRTFRHX2ZFMVdUdFppMkE1WEltRWc0cENaUXg2VGhBSEU1T3ZoSlY5NDRoRnNTYTJCLW8taHZwQ3ROc2JlN1oxdUdWb1lkVWd4bQ?oc=5",
+      "publishedAt": "2026-02-19T23:40:02.000Z",
       "readTimeSec": 10,
       "status": "kept",
       "importance": 2,
-      "importanceRaw": 75,
+      "importanceRaw": 63,
       "qualityLabel": "ok",
       "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었습니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-02-20_14",
-      "date": "2026-02-20",
-      "category": "경제",
-      "title": "코스피 7250 전망: 엔비디아 실적 발표가 분수령",
-      "summary": [
-        "매일경제TV에 따르면, 코스피가 7250까지 상승할 수 있다는 전망이 나왔다.",
-        "엔비디아의 실적 발표가 이러한 전망의 중요한 변수가 될 것으로 보인다."
-      ],
-      "whyImportant": "엔비디아의 실적 발표가 코스피 상승에 미치는 잠재적 영향 분석.",
-      "importanceRationale": "근거: 엔비디아의 실적은 기술주 전반에 영향을 미치며, 이는 코스피 지수에도 중요한 영향을 줄 수 있기 때문.",
-      "impactSignals": [],
-      "dedupeKey": "kospi-nvidia-earnings-2024",
-      "clusterKey": "간다",
-      "matchedTo": null,
-      "sourceName": "매일경제TV",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1lQk9KMXdaU3ZpeTZrZDRZN1JzSjdaSnphalhsUFFJU3d4YTQ0UWxoRURqbjJmal9iTnpQWXN2TkVCdmNUS1EyclVZbFI0SllSa203Rjk4SGhQSnp3SF9McHd3OWdXTHV3?oc=5",
-      "publishedAt": "2026-02-19T23:43:00.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 63,
-      "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 핵심 내용을 요약함. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-02-20_15",
-      "date": "2026-02-20",
-      "category": "정책",
-      "title": "'지역필수의료법' 국회 본회의 통과… 지역 완결적 의료체계 구축 박차",
-      "summary": [
-        "국회 본회의에서 '지역필수의료법'이 통과되었습니다.",
-        "이 법안은 지역 완결적 의료체계 구축에 박차를 가할 것으로 예상됩니다."
-      ],
-      "whyImportant": "이 법안은 지역 의료 서비스 개선에 중요한 영향을 미칠 수 있습니다.",
-      "importanceRationale": "근거: '지역필수의료법'의 국회 본회의 통과는 지역 의료 시스템 강화에 대한 정책적 의지를 보여줍니다.",
-      "impactSignals": [],
-      "dedupeKey": "지역필수의료법_국회_본회의_통과",
-      "clusterKey": "구축",
-      "matchedTo": null,
-      "sourceName": "복지타임즈",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1UeHRQdktfVDVKX1pydUtfMzdBWTNmUE4xeFBQM01kZ0JHWldNM0wtTDBmOC1hTDlOXzYxUWRjZjA1U2UwMFdMVXFJdGF0UmF0NGduYTJIZ2ptLWM0VVpPZGNVbzFjdGRRRXJNcA?oc=5",
-      "publishedAt": "2026-02-19T06:20:32.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 75,
-      "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 핵심 내용을 전달합니다. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-02-20_16",
+      "id": "2026-02-20_17",
       "date": "2026-02-20",
       "category": "경제",
       "title": "두산에너빌리티, 체코 원전 설비 공급 계약 체결로 52주 신고가 경신",
@@ -477,18 +498,17 @@
       "isBreaking": false
     },
     {
-      "id": "2026-02-20_17",
+      "id": "2026-02-20_18",
       "date": "2026-02-20",
       "category": "정책",
       "title": "이장우 대전시장, 24일 국회 방문해 통합법에 항의할 예정",
       "summary": [
-        "이장우 대전시장이 24일 국회를 찾아 통합법에 항의할 예정이다.",
-        "이 시장은 통합법에 대한 반대 입장을 표명할 것으로 예상된다."
+        "이장우 대전시장이 24일 국회를 찾아 통합법에 항의할 예정입니다."
       ],
-      "whyImportant": "이장우 대전시장의 국회 항의 방문은 통합법에 대한 논쟁을 심화시킬 수 있다.",
-      "importanceRationale": "근거: 이장우 대전시장이 직접 국회를 방문하여 항의를 예고한 것은 해당 법안에 대한 강한 반대 의사를 나타내는 것이며, 이는 정책 결정 과정에 영향을 미칠 수 있는 중요한 사건이다.",
+      "whyImportant": "이장우 대전시장의 국회 항의 방문은 통합법에 대한 반대 입장을 표명하는 중요한 행보입니다.",
+      "importanceRationale": "근거: 이장우 대전시장이 직접 국회를 방문하여 통합법에 항의할 예정이라는 사실은 해당 법안에 대한 강한 반대 의사를 나타내며, 정책 결정 과정에 영향을 미칠 수 있습니다.",
       "impactSignals": [],
-      "dedupeKey": "lee-jangwoo-protest-2024",
+      "dedupeKey": "20240703_이장우 대전시장, 24일 국회 찾아 통합법 항의 예고",
       "clusterKey": "24일",
       "matchedTo": null,
       "sourceName": "프레시안",
@@ -499,12 +519,12 @@
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 내용이 일치하며, 간결하게 요약되어 있다. / 근거부족",
+      "qualityReason": "기사에 정보가 명확하게 드러나 있습니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-02-20_18",
+      "id": "2026-02-20_19",
       "date": "2026-02-20",
       "category": "기술",
       "title": "화학 물질 관련 자살 사건에 대한 아마존 상대 소송, 법원 재판 진행 결정",
@@ -512,10 +532,10 @@
         "화학 물질과 관련된 자살 사건으로 아마존을 상대로 제기된 소송이 법원에서 재판을 받을 수 있게 되었습니다.",
         "CBS 뉴스에 따르면 법원은 이 소송을 재판에 회부하기로 결정했습니다."
       ],
-      "whyImportant": "이번 판결은 아마존과 같은 온라인 플랫폼의 책임 범위에 대한 중요한 선례를 만들 수 있습니다.",
-      "importanceRationale": "근거: 법원의 결정으로 아마존의 화학 물질 판매와 관련된 책임 문제가 법정에서 다루어질 수 있게 되었으며, 이는 유사한 사례에 대한 정책적 영향을 미칠 수 있습니다.",
+      "whyImportant": "아마존의 책임 범위에 대한 법적 논쟁을 촉발할 수 있습니다.",
+      "importanceRationale": "근거: 아마존에서 판매되는 특정 화학 물질과 관련된 자살 사건에 대한 소송이 재판에 회부됨으로써, 향후 유사한 사건에 대한 법적 선례를 만들 수 있고 아마존의 책임 범위에 대한 논쟁을 야기할 수 있기 때문입니다.",
       "impactSignals": [],
-      "dedupeKey": "amazon-lawsuit-suicides-chemical-trial",
+      "dedupeKey": "Lawsuit against Amazon over suicides linked to chemical can go to trial, court rules",
       "clusterKey": "against",
       "matchedTo": null,
       "sourceName": "CBS News",
@@ -526,23 +546,23 @@
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "기사의 내용이 명확하고 간결하며, 핵심 정보를 잘 전달하고 있습니다. / 근거부족",
+      "qualityReason": "제목과 본문이 일치하며, 간결하게 요약되었습니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-02-20_19",
+      "id": "2026-02-20_20",
       "date": "2026-02-20",
       "category": "에너지",
-      "title": "눈에 띄는 전기 요금 청구서의 원인은 무엇일까요? 지역별로 분석했습니다.",
+      "title": "눈에 띄는 전기 요금의 원인은 무엇일까요? 지역별로 분석했습니다.",
       "summary": [
-        "최근 전기 요금 급등의 원인을 지역별로 분석했습니다.",
+        "최근 전기 요금이 급등한 원인을 지역별로 분석했습니다.",
         "자세한 내용은 grist.org에서 확인할 수 있습니다."
       ],
-      "whyImportant": "전기 요금 인상의 원인을 이해하는 데 중요합니다.",
-      "importanceRationale": "근거: 전기 요금은 가계 경제에 큰 영향을 미치므로, 인상 원인 분석은 소비자에게 유용한 정보를 제공합니다.",
+      "whyImportant": "전기 요금 인상의 원인을 이해하고, 향후 에너지 정책 결정에 참고할 수 있습니다.",
+      "importanceRationale": "근거: 전기 요금은 가계 경제에 직접적인 영향을 미치며, 에너지 정책에 대한 관심이 높아지고 있기 때문입니다.",
       "impactSignals": [],
-      "dedupeKey": "power_bill_analysis_region_by_region",
+      "dedupeKey": "eye-popping-power-bill-region-by-region",
       "clusterKey": "에너지/behind",
       "matchedTo": null,
       "sourceName": "grist.org",
@@ -553,33 +573,7 @@
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었습니다. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-02-20_20",
-      "date": "2026-02-20",
-      "category": "에너지",
-      "title": "'현대건설 파트너' 페르미, 미국 원전 사업 속도 낸다",
-      "summary": [
-        "현대건설의 파트너사인 페르미가 미국 원전 사업에 속도를 내고 있다."
-      ],
-      "whyImportant": "페르미의 미국 원전 사업 가속화",
-      "importanceRationale": "근거: 현대건설의 파트너사인 페르미가 미국 원전 사업을 추진하고 있다는 사실은 국내 기업의 해외 원전 시장 진출 가능성을 시사한다.",
-      "impactSignals": [],
-      "dedupeKey": "현대건설 파트너 페르미, 美 원전사업 속도 낸다",
-      "clusterKey": "낸다",
-      "matchedTo": null,
-      "sourceName": "더트래커",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9mTUJaaEIwbV9IN2NhbkNjclVleTNyNjVheWlleUw5eXhHeDRDeE5aekxHc0FTUk1NMmZWU0ZvR1NqWmtGSnpEczhfdF81cU1sbGZWYnBuQUE?oc=5",
-      "publishedAt": "2026-02-19T22:47:24.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 50,
-      "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되어 있음. / 근거부족",
+      "qualityReason": "기사 제목과 내용이 일치하며, 정보가 간결하게 요약되어 있습니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     }
