@@ -5,37 +5,38 @@
   "totalOut": 20,
   "dropped": 265,
   "dropReasons": {
-    "carry_over_duplicate": 39,
-    "outdated": 99,
-    "hard_excluded_keyword": 8,
+    "carry_over_duplicate": 37,
+    "outdated": 102,
+    "hard_excluded_keyword": 9,
     "duplicate_dedupe_key": 5,
     "duplicate_title": 4,
     "excluded_keyword": 1,
     "semantic_duplicate": 1,
-    "not_selected": 108
+    "not_selected": 106
   },
   "impactLabels": {
-    "policy": 3,
-    "earnings": 1
+    "policy": 1,
+    "capex": 2
   },
   "sources": {
-    "CNBC": 1,
     "AlphaStreet News": 1,
     "한국경제": 2,
-    "The National Law Review": 1,
-    "돼지와사람": 1,
-    "SOC Prime": 1,
-    "한겨레": 1,
     "연합뉴스 한민족센터": 2,
     "지티티코리아": 1,
     "내외뉴스통신": 1,
-    "knongnews.com": 1,
-    "cnynews.com": 1,
-    "마켓인": 2,
-    "Representative Sharice Davids | (.gov)": 1,
+    "돼지와사람": 1,
+    "SOC Prime": 1,
+    "한겨레": 1,
+    "qz.com": 1,
+    "Logistics Viewpoints -": 1,
+    "마켓인": 1,
+    "미디어오늘": 1,
+    "프리미엄콘텐츠": 1,
+    "WQAD": 1,
     "Investing.com 한국어": 1,
-    "Investor's Business Daily": 1,
-    "MarketBeat": 1
+    "Yahoo Finance": 1,
+    "ekn.kr": 1,
+    "The Verge": 1
   },
   "topicStats": {
     "IT": {
@@ -50,8 +51,8 @@
     },
     "글로벌_정세": {
       "in": 24,
-      "out": 4,
-      "dropped": 20
+      "out": 3,
+      "dropped": 21
     },
     "글로벌_빅테크": {
       "in": 18,
@@ -60,8 +61,8 @@
     },
     "실적_가이던스": {
       "in": 24,
-      "out": 6,
-      "dropped": 18
+      "out": 5,
+      "dropped": 19
     },
     "반도체_공급망": {
       "in": 24,
@@ -70,8 +71,8 @@
     },
     "전력_인프라": {
       "in": 24,
-      "out": 3,
-      "dropped": 21
+      "out": 5,
+      "dropped": 19
     },
     "AI_저작권_데이터권리": {
       "in": 20,
@@ -134,8 +135,9 @@
     },
     "연합뉴스 한민족센터": {
       "outdated": 2,
-      "carry_over_duplicate": 2,
-      "duplicate_dedupe_key": 1
+      "duplicate_dedupe_key": 1,
+      "carry_over_duplicate": 1,
+      "not_selected": 2
     },
     "knn.co.kr": {
       "outdated": 1
@@ -177,14 +179,14 @@
       "outdated": 1
     },
     "ebn.co.kr": {
-      "outdated": 2
+      "outdated": 3
     },
     "프리미엄콘텐츠": {
       "outdated": 1,
       "excluded_keyword": 1
     },
     "한스경제": {
-      "outdated": 2
+      "outdated": 1
     },
     "더바이오": {
       "outdated": 1
@@ -269,6 +271,9 @@
     "한국무역협회": {
       "outdated": 4
     },
+    "SBS Biz": {
+      "carry_over_duplicate": 1
+    },
     "FreightWaves": {
       "duplicate_dedupe_key": 1
     },
@@ -278,13 +283,16 @@
     "Thomson Reuters tax": {
       "outdated": 1
     },
+    "CNBC": {
+      "carry_over_duplicate": 1
+    },
     "NVIDIA Newsroom": {
       "carry_over_duplicate": 1
     },
     "마켓인": {
       "carry_over_duplicate": 1,
       "outdated": 3,
-      "not_selected": 4
+      "not_selected": 5
     },
     "Morningstar Canada": {
       "carry_over_duplicate": 1
@@ -292,13 +300,13 @@
     "Barron's": {
       "carry_over_duplicate": 1
     },
-    "Upstream Online": {
-      "carry_over_duplicate": 1
+    "Quiver Quantitative": {
+      "hard_excluded_keyword": 1
     },
     "Deloitte": {
       "outdated": 1
     },
-    "Information Technology and Innovation Foundation": {
+    "Information Technology and Innovation Foundation (ITIF)": {
       "outdated": 2
     },
     "CSIS | Center for Strategic and International Studies": {
@@ -311,6 +319,9 @@
       "outdated": 1
     },
     "Congressman Michael McCaul (.gov)": {
+      "outdated": 1
+    },
+    "cnas.org": {
       "outdated": 1
     },
     "The Foundation for American Innovation": {
@@ -334,16 +345,13 @@
     "New Orleans CityBusiness": {
       "carry_over_duplicate": 1
     },
-    "BeBeez International": {
-      "carry_over_duplicate": 1
-    },
     "ABC30 Fresno": {
       "carry_over_duplicate": 1
     },
-    "ABC7 New York": {
+    "BeBeez International": {
       "carry_over_duplicate": 1
     },
-    "Houston Public Media": {
+    "ABC7 New York": {
       "carry_over_duplicate": 1
     },
     "법률신문": {
@@ -361,10 +369,13 @@
     "promarket.org": {
       "outdated": 1
     },
-    "JD Supra": {
+    "Tech Xplore": {
       "outdated": 1
     },
-    "Tech Xplore": {
+    "OECD": {
+      "outdated": 1
+    },
+    "Tech Policy Press": {
       "outdated": 1
     },
     "Microsoft": {
@@ -413,10 +424,7 @@
     "beSUCCESS": {
       "carry_over_duplicate": 1
     },
-    "더스쿠프": {
-      "carry_over_duplicate": 1
-    },
-    "Bloomberg.com": {
+    "Bloomberg": {
       "carry_over_duplicate": 1
     },
     "Sherwood News": {
@@ -424,7 +432,7 @@
     },
     "Yahoo Finance": {
       "carry_over_duplicate": 1,
-      "not_selected": 3
+      "not_selected": 2
     },
     "데일리대구경북뉴스": {
       "carry_over_duplicate": 1
@@ -439,9 +447,6 @@
       "outdated": 1
     },
     "에너지플랫폼뉴스": {
-      "outdated": 1
-    },
-    "포인트경제": {
       "outdated": 1
     },
     "연합인포맥스": {
@@ -471,13 +476,19 @@
     "이로운넷": {
       "outdated": 1
     },
-    "NBN미디어": {
+    "데이터투자": {
       "outdated": 1
     },
     "생글생글": {
       "outdated": 1
     },
+    "NBN미디어": {
+      "outdated": 1
+    },
     "세무사신문": {
+      "outdated": 1
+    },
+    "토스": {
       "outdated": 1
     },
     "프라임경제": {
@@ -498,9 +509,8 @@
     "itworld.co.kr": {
       "outdated": 1
     },
-    "Vietnam.vn": {
-      "semantic_duplicate": 1,
-      "not_selected": 2
+    "미주한국일보": {
+      "semantic_duplicate": 1
     },
     "FinancialContent": {
       "not_selected": 2
@@ -511,37 +521,37 @@
     "AI Magazine": {
       "not_selected": 1
     },
+    "Vietnam.vn": {
+      "not_selected": 2
+    },
     "해사신문": {
       "not_selected": 2
     },
     "Industrial Cyber": {
       "not_selected": 1
     },
+    "Inbound Logistics": {
+      "not_selected": 1
+    },
     "constellationenergy.com": {
       "not_selected": 2
     },
-    "Economist Impact": {
+    "Impact Economist": {
       "not_selected": 1
     },
     "American Farm Bureau Federation": {
       "not_selected": 1
     },
-    "Benedict Evans": {
-      "not_selected": 1
-    },
     "Investor's Business Daily": {
+      "not_selected": 2
+    },
+    "Benedict Evans": {
       "not_selected": 1
     },
     "blog.google": {
       "not_selected": 2
     },
-    "Electrek": {
-      "not_selected": 1
-    },
     "Chosunbiz": {
-      "not_selected": 2
-    },
-    "뉴스토마토": {
       "not_selected": 2
     },
     "뉴스1": {
@@ -556,12 +566,6 @@
     "한국방송뉴스": {
       "not_selected": 2
     },
-    "ekn.kr": {
-      "not_selected": 1
-    },
-    "Financier Worldwide": {
-      "not_selected": 1
-    },
     "G1방송": {
       "not_selected": 1
     },
@@ -571,8 +575,14 @@
     "EU-Startups": {
       "not_selected": 1
     },
+    "Egyptian Gazette": {
+      "not_selected": 1
+    },
+    "knongnews.com": {
+      "not_selected": 1
+    },
     "__others__": {
-      "not_selected": 57
+      "not_selected": 54
     }
   },
   "breakingSelection": {
@@ -582,19 +592,21 @@
     "selectedShare": 0
   },
   "categories": {
-    "기술": 5,
     "경제": 5,
     "국제": 5,
-    "정책": 5
+    "기술": 3,
+    "정책": 5,
+    "에너지": 2
   },
   "importanceDistribution": {
-    "2": 16,
+    "2": 17,
+    "3": 1,
     "4": 1,
-    "3.5": 3
+    "3.5": 1
   },
   "topDiversity": {
-    "uniqueSources": 17,
-    "uniqueCategories": 4,
+    "uniqueSources": 18,
+    "uniqueCategories": 5,
     "maxPerSource": 2
   }
 }
