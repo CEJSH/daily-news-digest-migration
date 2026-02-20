@@ -3,19 +3,19 @@
   "selectionCriteria": "① 내일도 영향이 남는 이슈 ② 과도한 감정 소모 제외 ③ 어제와 중복되는 뉴스 제외",
   "editorNote": "이 뉴스는 클릭 수가 아니라 오늘 이후에도 남는 정보만 기준으로 편집했습니다.",
   "question": "정보를 덜 보는 것이 오히려 더 똑똑한 소비일까?",
-  "lastUpdatedAt": "2026-02-21T00:35:39.193+09:00",
+  "lastUpdatedAt": "2026-02-21T01:35:35.039+09:00",
   "items": [
     {
       "id": "2026-02-21_1",
       "date": "2026-02-21",
       "category": "에너지",
-      "title": "유권자들의 분노와 미국의 에너지 '역설': 높은 공공요금, 기록적인 석유 및 가스 생산, 그리고 세계 데이터 센터의 45%",
+      "title": "유권자들의 분노와 미국 에너지의 '역설': 높은 공공요금, 기록적인 석유 및 가스 생산, 그리고 세계 데이터 센터의 45%",
       "summary": [
         "미국은 높은 공공요금과 기록적인 석유 및 가스 생산량에도 불구하고 세계 데이터 센터의 45%를 차지하고 있습니다.",
-        "이는 유권자들의 분노를 일으키는 에너지 역설로 이어지고 있습니다."
+        "이는 유권자들의 분노를 일으키는 에너지 정책의 역설적인 상황을 보여줍니다."
       ],
-      "whyImportant": "미국의 에너지 정책과 데이터 센터 집중 현황을 보여주는 지표입니다.",
-      "importanceRationale": "근거: 높은 공공요금과 기록적인 에너지 생산량에도 불구하고 데이터 센터가 집중되어 있다는 점은 에너지 정책의 방향성과 관련된 논의를 촉발할 수 있습니다.",
+      "whyImportant": "미국의 에너지 정책과 데이터 센터 집중 현황을 동시에 보여주는 지표입니다.",
+      "importanceRationale": "근거: 높은 공공요금, 기록적인 에너지 생산, 데이터 센터 집중이라는 세 가지 요소가 결합되어 에너지 정책의 복잡성을 드러냅니다.",
       "impactSignals": [],
       "dedupeKey": "voters_fury_energy_paradox_data_centers",
       "clusterKey": "에너지/american",
@@ -28,12 +28,200 @@
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 요약이 핵심 내용을 잘 반영함. / 근거부족",
+      "qualityReason": "제목과 본문이 일치하며, 정보가 명확합니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-02-21_2",
+      "date": "2026-02-21",
+      "category": "국제",
+      "title": "미국 대법원, 트럼프의 관세 부과 권한 제한…2026년 무역 전망 재편",
+      "summary": [
+        "미국 대법원이 트럼프 전 대통령의 관세 부과 권한을 제한했습니다.",
+        "이는 2026년 무역 전망에 영향을 미칠 것으로 예상됩니다."
+      ],
+      "whyImportant": "대법원의 결정으로 향후 미국의 무역 정책에 변화가 예상됩니다.",
+      "importanceRationale": "근거: 트럼프 전 대통령의 관세 부과 권한 제한은 미국의 무역 정책 방향에 중요한 변화를 가져올 수 있으며, 이는 기업의 수익 및 시장 수요에 직접적인 영향을 미칠 수 있습니다.",
+      "impactSignals": [],
+      "dedupeKey": "SupremeCourt-TariffPowers-2026Trade",
+      "clusterKey": "court",
+      "matchedTo": null,
+      "sourceName": "FreightWaves",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZm0zS18zcmNaREZ4UWlvM2lvQXN5VnhhQi1sUkFOYmtELTF3bkJOTWdCYWw0U0w2WUJnSHV4ZjRnd2N2X1VwdnF3SjhBMXVUM3Z3NHdBaXAwazlTaVBFOTlhYjAwMHNYX3I1YnlMWktKZFM1VWJDVWtZMlB5ZkNZTVBEbHNQR1NVVnBtQ3dVMGJKUjdabE9QQklZR3h5dlpnWEZ0M1Z3?oc=5",
+      "publishedAt": "2026-02-20T15:37:07.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 75,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 내용이 일치하며, 정보가 간결하고 명확합니다. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-02-21_3",
+      "date": "2026-02-21",
+      "category": "경제",
+      "title": "RE/MAX 홀딩스, 글로벌 에이전트 성장 속 4분기 매출 및 수익 감소 보고",
+      "summary": [
+        "RE/MAX 홀딩스는 4분기 매출과 수익이 감소했다고 발표했습니다.",
+        "글로벌 에이전트 성장에도 불구하고 실적 하락을 겪었습니다."
+      ],
+      "whyImportant": "부동산 시장의 변화와 RE/MAX의 전략적 방향을 파악하는데 중요합니다.",
+      "importanceRationale": "근거: RE/MAX의 실적은 부동산 시장의 전반적인 추세를 반영하며, 에이전트 성장에도 불구하고 수익이 감소한 것은 투자 및 사업 전략에 대한 중요한 시사점을 제공합니다.",
+      "impactSignals": [],
+      "dedupeKey": "REMAX_Q4_2024",
+      "clusterKey": "decline",
+      "matchedTo": null,
+      "sourceName": "AlphaStreet News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxOd25Hb2g2SVI2aVBaVjJZV2VKclBxSVBZRldSNllGWWNxX25oZUxsQnhJVEV2RUNPb0cxbnRSaVd2dHc3c2JRSTdQWGlCbjhybmh5UEFGUnBubDlDZXg2aVVOVEp1TUJnNnhjLWkzTWZvT3hFRkRmTFp6al94SUZtMUFvdGRRRWVYX1VYblROTnZmQlllOXBnMVotdzF1QmQ1aGtUaVN5bnZPb0hEdjNiOTFtdWRBa2dFZjZlRHJvUVJFOTFXWFFSYUwxc3NUdDZtMmdPSXpXZDdLZm5BeVQ0dnJDZHVCRzFVbHFPMEI5SnF5WlJrMzJQdnEyQVYzOGVuNlFuNFBzaEY0cFFDZTA0QnFKMjdsT0UwT2MxVklDZkNtemphckxfRzQ3VGxDc1V5YXpYZVlpZzVoWmFfUHllZGtuMXhNLWYyckdadnlGaW8za2FsRUN0b0g3ODU3alRDTndLUVRzVG5BOFN0aHdrVFFqV3BQQWV3Q2h0T9IBggNBVV95cUxNMm9Pb0MzUHZXVjZ2U3o2US1INzlhWWVYWktQeU91RENpWTFJZEtlX0ZydEdreE1DTF9wSFUzZGNQaFhMckVlNng3aXJldWwxV3JMTXBmSnozWXhxc3QyQjYtR3JCNktIaVJDWlFGMVk0eWgzUTN6REdQY1dqVWp3U0RtVlVWYVYtQUF2cm9NaThCMjN1QTB2dHBmd2VXeXVCMVF1WXdsbzhnangzLTVEajdxTUxuUUd4ZFYxa1M0dGs0LXE1TmVrY0Rtcm5JMWpSWkt6Ujk0d3plSjRBWGpVVmFVU2dZV2NrSXQxRDVUZ3ItUkZHRUtfcTVRcW5hSDlKM1dqZzMyMzJQWTY1eW96b3d0dkNKN2R5U2MxbDhKN3RqbHEyN1hPeURGQ0w1Ql9fQTlfU2g3STF6bjJfandDZ0dKNmdYbzNaNXFVYU83NmRmdnZISmhoekVJOTNPZXZzZm9YcE9Cand3SThJVVJlZ3NScG5NczROSVZVU0k2NUFaUQ?oc=5",
+      "publishedAt": "2026-02-20T16:14:09.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 63,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 본문이 일치하며, 정보가 명확합니다. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-02-21_4",
+      "date": "2026-02-21",
+      "category": "국제",
+      "title": "미국 관세 위법 판결에 대한 청와대의 후속 조치 검토",
+      "summary": [
+        "청와대는 미국의 관세 부과에 대한 위법 판결 이후 트럼프 정부의 후속 조치 등을 종합적으로 검토하고 있다.",
+        "이번 검토는 미국의 관세 정책 변화에 대한 한국 정부의 대응 방안을 모색하기 위한 것이다."
+      ],
+      "whyImportant": "미국의 관세 정책 변화에 대한 한국 정부의 대응 방향을 결정하는 데 중요한 영향을 미칠 수 있다.",
+      "importanceRationale": "근거: 미국의 관세 부과에 대한 위법 판결 이후 청와대가 후속 조치를 검토하고 있다는 사실은 향후 한미 무역 관계에 중요한 영향을 미칠 수 있기 때문이다.",
+      "impactSignals": [],
+      "dedupeKey": "미국 관세 위법 판결에 대한 청와대의 후속 조치 검토",
+      "clusterKey": "위법",
+      "matchedTo": null,
+      "sourceName": "한국경제",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1XVHFrSmxCTU54WnJjQXVDcDR0ZV9US2d3aWdHdVBVdlNNTU9VamM1V0hZcFRhdTZLRHNyUG0yNEFKX1FwOUw4ek9YWTF6aEJUV1VBZk1WN0VQd9IBVEFVX3lxTE1VMGdkMnR0Y2VUZUs3VXNaV1BsTXhKd0hPNlJPenRudUlMQXVqOVlqaTJHdFc5bjZnbjhqaXcwTl9nWlhRNVJ6WFJ0LTBPUFlYZTZTYQ?oc=5",
+      "publishedAt": "2026-02-20T16:05:12.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 75,
+      "qualityLabel": "ok",
+      "qualityReason": "기사 제목과 내용이 일치하며, 간결하게 요약되어 있음. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-02-21_5",
+      "date": "2026-02-21",
+      "category": "기술",
+      "title": "Samsara, G2 2026 최고의 소프트웨어 상에서 1위 공급망 및 물류 소프트웨어로 선정",
+      "summary": [
+        "Samsara가 G2 2026 최고의 소프트웨어 상에서 1위 공급망 및 물류 소프트웨어로 선정되었습니다.",
+        "National Law Review에서 발표했습니다."
+      ],
+      "whyImportant": "공급망 관리 소프트웨어 시장에서 Samsara의 입지를 강화합니다.",
+      "importanceRationale": "근거: G2의 수상은 해당 소프트웨어의 시장 인지도 및 신뢰도를 높이는 데 기여하며, 이는 기업의 정책 결정에 영향을 미칠 수 있습니다.",
+      "impactSignals": [],
+      "dedupeKey": "samsara_g2_2026_supply_chain_logistics_software",
+      "clusterKey": "공급망/awards",
+      "matchedTo": null,
+      "sourceName": "The National Law Review",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQa0d1MVJTVEpvbE95UzdBY19LUG1NaFpBc0dlTThqSEtfdW5CU25nYkF4bWtiVk5iNlZyaFNxbWQ3aTBqSUNYd2g1OEx3UmNqM3YxM0wxR1FLeWN6R0FuRWtQMmZoS0pBc29kS2pQVDJfQTJCTmlIRm14dWxBdHBTZW55OEc1dTJCRlA4bU1KUVNKM1lYSllxdjJ5LWRCSHVGN3hsYkFDY3IwWmZHZUVZSXNB?oc=5",
+      "publishedAt": "2026-02-20T16:27:13.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 63,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 본문이 일치하며, 정보가 명확합니다. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-02-21_6",
+      "date": "2026-02-21",
+      "category": "국제",
+      "title": "'상호관세 위법' 판결에도 500조 대미 투자 재협상 어려울 듯",
+      "summary": [
+        "상호 관세 위법 판결에도 불구하고 500조 원 규모의 대미 투자 재협상이 어려울 것으로 예상됩니다.",
+        "이는 연합뉴스 한민족센터의 보도 내용입니다."
+      ],
+      "whyImportant": "미국과의 투자 관계에 대한 중요한 전환점이 될 수 있습니다.",
+      "importanceRationale": "근거: 500조 원 규모의 대미 투자 재협상 가능성이 낮다는 것은 양국 경제 관계에 상당한 영향을 미칠 수 있기 때문입니다.",
+      "impactSignals": [],
+      "dedupeKey": "상호관세 위법 판결에도…500조 대미 투자 재협상 어려울 듯",
+      "clusterKey": "500조",
+      "matchedTo": null,
+      "sourceName": "연합뉴스 한민족센터",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5qUTNoTnlJR1pDeFgxejI5Z3U0UExfS2VnelVQVDJuTkZ4aFdZaUd3RFJkQklyUjZzNDBRRURnM3l5YjV4S3RpWjFmd3drTllUVWdlZjU0ajY3YUpWQXRwM1FXaGVCTEcwNTZpY2hzTV96NTlR?oc=5",
+      "publishedAt": "2026-02-20T15:30:05.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 63,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 내용이 일치하며 간결하게 요약되었습니다. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-02-21_7",
+      "date": "2026-02-21",
+      "category": "정책",
+      "title": "AI 제작 콘텐츠 급증에 따른 저작권 분쟁 관련 입법 토론회 국회 개최",
+      "summary": [
+        "AI 제작 콘텐츠의 급증으로 인해 저작권 분쟁이 늘어남.",
+        "이에 대한 입법 토론회가 국회에서 열림."
+      ],
+      "whyImportant": "AI가 만든 콘텐츠의 저작권 관련 분쟁을 해결하기 위한 법률 제정 논의가 시작되었다는 점에서 중요합니다.",
+      "importanceRationale": "근거: AI 제작 콘텐츠의 저작권 문제는 새로운 기술 환경에서 중요한 법적 쟁점이며, 이번 토론회는 관련 법률 제정의 첫걸음이 될 수 있습니다.",
+      "impactSignals": [],
+      "dedupeKey": "AI저작권분쟁입법토론회국회",
+      "clusterKey": "국회서",
+      "matchedTo": null,
+      "sourceName": "한겨레",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5feGF0eUlJQkpUNHFKVzVMX19zdlI0SFlPZEc4TW5yUkFlZ05fdW9WOTk3MG5UNGhaNHl5TWFWT1dMQjRSaFV6ek5WRFQ0NEZIUHBQdnNPRjN5RUF5RTZxQUl6Z2o?oc=5",
+      "publishedAt": "2026-02-20T02:56:00.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 75,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었습니다. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-02-21_8",
+      "date": "2026-02-21",
+      "category": "경제",
+      "title": "RYI: 합병 통합 및 수요 개선으로 2026년 마진 및 수익 성장 준비",
+      "summary": [
+        "RYI는 합병 통합과 수요 개선을 통해 2026년 마진 및 수익 성장을 위한 발판을 마련하고 있습니다."
+      ],
+      "whyImportant": "RYI의 미래 수익 전망을 제시합니다.",
+      "importanceRationale": "근거: 합병 통합과 수요 개선이라는 두 가지 요인이 RYI의 마진 및 수익 성장을 견인할 것으로 예상됩니다.",
+      "impactSignals": [],
+      "dedupeKey": "RYI_2026_EARNINGS_GROWTH",
+      "clusterKey": "demand",
+      "matchedTo": null,
+      "sourceName": "TradingView",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOLWxpMDg0OXlybjJ1QnZURkxrT0tlUHVJUEJibGF5ZXVDQUFSUERsTzd3SDNub1pZVGZwcmlNWmwzVExiX0hlUGpQT2JWUE1Gc1p1UmdTbzUzNXJUeHlBbE5OZVBLb3lnekV6VW1ON25rSzJyVlk5dWNFYzBST2JOZEV1MWU2amxyZkVqbV9VdkRFbW0xczFrZ3dQNVB0TXRidUxXOG5VOXVHTElTdnFoSXVycG0tZkZSNW1aT05vclBmbk5vblByampVRzBHYVE2b2RfVGFIMWU1ZHZ3T2M5NHI2VldXRWhlbFZmekFZTE52NjJZUFRmM0tBdU1GeXlCRFViUkd0dVRUcFU?oc=5",
+      "publishedAt": "2026-02-20T16:12:20.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 63,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 텍스트가 일치하며, 정보가 명확합니다. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-02-21_9",
       "date": "2026-02-21",
       "category": "기술",
       "title": "“로봇이 곧 공장 경쟁력”…전통 제조 중소·중견 기업, ‘피지컬 AI’에 투자",
@@ -42,11 +230,11 @@
         "이는 로봇 기술이 공장 자동화 및 생산성 향상에 기여할 수 있다는 판단에 따른 것이다."
       ],
       "whyImportant": "제조업 경쟁력 강화에 로봇 기술 투자가 중요한 역할을 할 수 있음을 시사한다.",
-      "importanceRationale": "근거: 전통 제조 중소·중견 기업들이 로봇 기술에 투자하는 것은 생산성 향상과 경쟁력 강화에 대한 기대를 반영한다.",
+      "importanceRationale": "근거: 제목에서 로봇이 공장 경쟁력의 핵심 요소로 강조되었으며, 전통 제조 기업들이 '피지컬 AI'에 투자하는 이유를 설명한다.",
       "impactSignals": [
         {
           "label": "capex",
-          "evidence": "전통 제조 중소·중견 기업들이 '피지컬 AI'에 투자"
+          "evidence": "전통 제조 중소·중견 기업이 '피지컬 AI'에 투자하는 행위 자체가 자본 지출(CAPEX)과 관련됨"
         }
       ],
       "dedupeKey": "robot-factory-competitiveness-physical-ai",
@@ -60,52 +248,47 @@
       "importance": 3.5,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 핵심 내용을 잘 반영하고 있다.",
+      "qualityReason": "제목과 본문이 일치하며, 내용이 간결하고 명확함.",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-02-21_3",
+      "id": "2026-02-21_10",
       "date": "2026-02-21",
-      "category": "정책",
-      "title": "AI 기본법 시행 후, 콘텐츠 산업 저작권 책임 기준, 국회서 해법 모색",
+      "category": "기술",
+      "title": "AI 코딩 어시스턴트 스킬 자동 실행 취약점 탐지로 자격 증명 탈취 및 원격 코드 실행 차단",
       "summary": [
-        "AI 기본법 시행 이후 콘텐츠 산업의 저작권 책임 기준에 대한 해법을 국회에서 모색한다.",
-        "이는 AI 시대에 콘텐츠 산업의 건전한 발전을 위한 중요한 논의가 될 것으로 보인다."
+        "AI 코딩 어시스턴트의 자동 실행 취약점 탐지를 통해 자격 증명 탈취 및 원격 코드 실행을 차단합니다.",
+        "지티티코리아에서 해당 취약점을 발견했습니다."
       ],
-      "whyImportant": "AI 기본법 시행에 따른 콘텐츠 산업의 저작권 책임 기준을 명확히 함으로써 산업 발전을 도모.",
-      "importanceRationale": "근거: AI 기본법 시행으로 인해 발생하는 콘텐츠 산업의 저작권 관련 불확실성을 해소하고, 국회 차원에서 해결책을 모색한다는 점에서 중요성이 높다.",
-      "impactSignals": [
-        {
-          "label": "policy",
-          "evidence": "AI 기본법 시행에 따른 저작권 책임 기준 논의"
-        }
-      ],
-      "dedupeKey": "AI기본법_콘텐츠저작권_국회해법",
-      "clusterKey": "기본법",
+      "whyImportant": "AI 코딩 어시스턴트의 보안 취약점은 개발 환경에 심각한 위협을 초래할 수 있습니다.",
+      "importanceRationale": "근거: AI 코딩 어시스턴트의 취약점을 통해 자격 증명 탈취 및 원격 코드 실행이 가능하다는 것은 시스템 보안에 직접적인 위험을 의미합니다.",
+      "impactSignals": [],
+      "dedupeKey": "AI코딩어시스턴트취약점",
+      "clusterKey": "스킬",
       "matchedTo": null,
-      "sourceName": "내외뉴스통신",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9rYmV6TEdqUklWNVJpWXlSSU15UVJNdGxwV1pOT253MmtOMzVoNnJXUkxLQ3BEWkpxMGZIN3hGdEh2VU5FRDdEemluVnJjMXdzMDM0VXFVRFhIak0zS2d0aTRNaTJkYi1HRDZsMdIBcEFVX3lxTE1LRUhZY2V0eUgzbG84ZEU0QVN3UkNhOFo2NVB3dVY0NUVwc3QyOTJtRGZxVnFhbHZkNVBobnJTX1ppWlZqSHprSUlTcnZTb0JUeEtfbE1veTEwLWllM2FRVEFzUDNoVDZDcHAyVWRHLUw?oc=5",
-      "publishedAt": "2026-02-20T08:15:42.000Z",
+      "sourceName": "지티티코리아",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB4S25WWUJPemJ3LVVFNmp5dGpLbGxYZFJSTGwxQURvQ3R5WWVaai1XUUZXa01rTDN3d1dpWHhHXzR6ZG83WnRZaFVrcklXcEIwMHZFbVN3ZWxrbjJMbzRBNlhMb29JRWZpWkE?oc=5",
+      "publishedAt": "2026-02-20T15:40:00.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 4,
+      "importance": 2,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약됨.",
+      "qualityReason": "기사 제목과 내용이 일치하며, 정보가 명확합니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-02-21_4",
+      "id": "2026-02-21_11",
       "date": "2026-02-21",
       "category": "정책",
       "title": "정부, ASF 돼지 혈액 사료 공급망 유입 추정… 사용 중지 권고",
       "summary": [
-        "정부는 아프리카돼지열병(ASF)이 돼지 혈액 사료 공급망을 통해 유입된 것으로 추정하고 사용 중지를 권고했습니다."
+        "정부가 아프리카돼지열병(ASF)이 돼지 혈액 사료 공급망을 통해 유입된 것으로 추정하고 사용 중지를 권고했습니다."
       ],
       "whyImportant": "ASF 확산 방지를 위한 정부의 긴급 조치입니다.",
-      "importanceRationale": "근거: ASF가 사료 공급망을 통해 확산될 수 있다는 정부의 판단에 따른 정책적 결정이므로 중요합니다.",
+      "importanceRationale": "근거: ASF가 사료 공급망을 통해 확산될 수 있다는 우려에 따라 정부가 즉각적인 사용 중지 권고를 내렸기 때문입니다.",
       "impactSignals": [],
       "dedupeKey": "ASF 사료 공급망 유입 추정",
       "clusterKey": "asf",
@@ -123,7 +306,7 @@
       "isBreaking": false
     },
     {
-      "id": "2026-02-21_5",
+      "id": "2026-02-21_12",
       "date": "2026-02-21",
       "category": "국제",
       "title": "CVE-2026-2441: 구글, 실제 공격에 사용된 크롬 제로데이 취약점 패치",
@@ -132,11 +315,11 @@
         "이번 패치는 크롬 브라우저의 보안을 강화하는 데 중요한 역할을 합니다."
       ],
       "whyImportant": "크롬 브라우저 사용자들은 즉시 업데이트하여 보안 위험을 줄여야 합니다.",
-      "importanceRationale": "근거: 실제 공격에 사용된 제로데이 취약점이므로, 사용자 보안에 직접적인 영향을 미칩니다.",
+      "importanceRationale": "근거: 실제 공격에 악용된 제로데이 취약점에 대한 패치이므로, 사용자 보안에 직접적인 영향을 미칩니다.",
       "impactSignals": [
         {
           "label": "security",
-          "evidence": "실제 공격에 악용된 크롬 제로데이 취약점"
+          "evidence": "실제 공격에 악용된 크롬 제로데이 취약점 패치"
         }
       ],
       "dedupeKey": "CVE-2026-2441: 구글, 실전에서 악용된 크롬 제로데이 패치",
@@ -150,50 +333,22 @@
       "importance": 4.5,
       "importanceRaw": 88,
       "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 내용이 일치하며, 정보가 명확합니다.",
+      "qualityReason": "제목과 내용이 일치하며, 정보가 명확합니다.",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-02-21_6",
-      "date": "2026-02-21",
-      "category": "정책",
-      "title": "AI 제작 콘텐츠 급증에 따른 저작권 분쟁 관련 입법 토론회 국회 개최",
-      "summary": [
-        "AI 제작 콘텐츠의 급증으로 인해 저작권 분쟁이 늘어남.",
-        "이에 대한 입법 토론회가 국회에서 열림."
-      ],
-      "whyImportant": "AI가 만든 콘텐츠의 저작권 관련 분쟁을 해결하기 위한 법률 제정 논의가 시작되었다는 점에서 중요합니다.",
-      "importanceRationale": "근거: AI 제작 콘텐츠의 저작권 문제는 새로운 기술 환경에서 중요한 법적 쟁점이며, 이번 토론회는 관련 법률 제정의 첫걸음이 될 수 있습니다.",
-      "impactSignals": [],
-      "dedupeKey": "AI저작권분쟁입법토론회",
-      "clusterKey": "국회서",
-      "matchedTo": null,
-      "sourceName": "한겨레",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5feGF0eUlJQkpUNHFKVzVMX19zdlI0SFlPZEc4TW5yUkFlZ05fdW9WOTk3MG5UNGhaNHl5TWFWT1dMQjRSaFV6ek5WRFQ0NEZIUHBQdnNPRjN5RUF5RTZxQUl6Z2o?oc=5",
-      "publishedAt": "2026-02-20T02:56:00.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 63,
-      "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 내용이 일치하며, 핵심 내용을 잘 요약했습니다. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-02-21_7",
+      "id": "2026-02-21_13",
       "date": "2026-02-21",
       "category": "국제",
-      "title": "달바글로벌, 작년 영업이익 1천억원 돌파하며 최대 실적 기록",
+      "title": "달바글로벌, 작년 영업이익 1천억원 넘어 '최대'",
       "summary": [
-        "달바글로벌이 작년 영업이익 1천억원을 넘어서며 최대 실적을 달성했다.",
-        "이는 연합뉴스 한민족센터에서 보도되었다."
+        "달바글로벌은 작년 영업이익이 1천억원을 넘어 최대치를 기록했다."
       ],
-      "whyImportant": "달바글로벌의 최대 영업이익 달성은 기업의 성장과 수익성 개선을 보여주는 중요한 지표이다.",
-      "importanceRationale": "근거: 달바글로벌의 영업이익 증가는 기업 가치 상승 및 투자 유치에 긍정적인 영향을 미칠 수 있다.",
+      "whyImportant": "달바글로벌의 영업이익 증가는 기업의 성장세를 나타내는 중요한 지표입니다.",
+      "importanceRationale": "근거: 달바글로벌의 영업이익이 1천억원을 넘었다는 것은 기업의 수익성이 크게 개선되었음을 의미합니다.",
       "impactSignals": [],
-      "dedupeKey": "dalba_2023_earnings",
+      "dedupeKey": "dalbaglobal-2023-earnings",
       "clusterKey": "1천억원",
       "matchedTo": null,
       "sourceName": "연합뉴스 한민족센터",
@@ -204,67 +359,12 @@
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "The article provides a clear and concise report of 달바글로벌's earnings. / 근거부족",
+      "qualityReason": "The article provides a clear and concise statement of fact. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-02-21_8",
-      "date": "2026-02-21",
-      "category": "국제",
-      "title": "K원전 미국 진출 가능성에 원전주 강세",
-      "summary": [
-        "한국 원자력 발전소의 미국 진출 가능성이 제기됨.",
-        "이에 따라 원전 관련 주식이 강세를 보임."
-      ],
-      "whyImportant": "원전 산업의 해외 진출 가능성을 보여주는 신호탄이다.",
-      "importanceRationale": "근거: 원전주의 강세는 시장의 긍정적인 반응을 반영하며, 이는 향후 K원전의 해외 진출 가능성에 대한 기대를 나타낸다.",
-      "impactSignals": [],
-      "dedupeKey": "K원전 미국 진출 가능성에 원전주 강세",
-      "clusterKey": "에너지/k원전",
-      "matchedTo": null,
-      "sourceName": "한국경제",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5peHBHYU1FLXJLdlNMVTQ1V2NrRmhzS0htaC1kaXJaSnN4eUF1aGZ3QjhyXzY5SVlFUUxOM05TNWlMQzYwMHF2Yi1TMlNockg1d0dCbDljS3pMQdIBVEFVX3lxTE1OM2FwLURQX1pMNER4bTZzYU5yd0kzaTlGSVFkYUljVDBOWUhidHBIM3N2V2k4R1RWZW5tSmQ1cUJrYXpudVdGSnZ6OFU0UXRFMk5EWA?oc=5",
-      "publishedAt": "2026-02-19T23:49:15.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 63,
-      "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약됨. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-02-21_9",
-      "date": "2026-02-21",
-      "category": "경제",
-      "title": "텍사스가 데이터 센터 수도로서 북부 버지니아를 능가할 수 있을까?",
-      "summary": [
-        "텍사스가 데이터 센터의 중심지로 부상하며 북부 버지니아를 넘어설 가능성이 제기되고 있다.",
-        "데이터 센터 지식에 따르면, 텍사스의 데이터 센터 투자가 증가하고 있다.",
-        "이는 데이터 센터 산업의 지각 변동을 예고하는 신호로 해석될 수 있다."
-      ],
-      "whyImportant": "텍사스가 데이터 센터의 주요 거점으로 부상할 가능성을 시사한다.",
-      "importanceRationale": "근거: 텍사스의 데이터 센터 투자 증가 추세는 관련 산업의 성장과 지역 경제에 상당한 영향을 미칠 수 있다.",
-      "impactSignals": [],
-      "dedupeKey": "texas-datacenter-20240126",
-      "clusterKey": "금융/capital",
-      "matchedTo": null,
-      "sourceName": "Data Center Knowledge",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNXQwNkJFRk9Nb2M0UHg1U1VhaVhEYURfNkd2VktWazhkTWVUZ0wwOHkxR3pVUVhRMjBmUWRlc3lPNkJlZXpFSTR2NmtReHdOeDVjNUdIbk9SOW1fQ3RnaDFCMnJnakg2ZUNEcG5lcTNLVFdScGxfQVFYN0RmLWxXeE1SdUFpWV9DVWwzZEhJblRlNkpiQlVUWElMSmpKbWFrQWNUV3AwVkEyNEs3dEZDOERCbV94dw?oc=5",
-      "publishedAt": "2026-02-20T15:02:37.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 63,
-      "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 내용이 일치하며, 핵심 내용을 잘 요약했습니다. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-02-21_10",
+      "id": "2026-02-21_14",
       "date": "2026-02-21",
       "category": "정책",
       "title": "「농어업인 삶의 질 향상 및 농어촌지역 개발촉진에 관한 특별법 시행령 일부개정령안」 입법예고",
@@ -272,15 +372,15 @@
         "농어업인 삶의 질 향상 및 농어촌지역 개발촉진에 관한 특별법 시행령 일부개정령안이 입법 예고되었습니다.",
         "자세한 내용은 knongnews.com에서 확인할 수 있습니다."
       ],
-      "whyImportant": "농어업인 삶의 질에 영향을 미치는 정책 변경 사항입니다.",
+      "whyImportant": "농어업인 삶의 질에 영향을 미치는 정책 변경에 대한 예고입니다.",
       "importanceRationale": "근거: 농어업 관련 법령의 변경은 해당 분야에 직접적인 영향을 미치므로 중요합니다.",
       "impactSignals": [
         {
           "label": "policy",
-          "evidence": "농어업인 삶의 질 향상 및 농어촌지역 개발촉진 특별법 시행령 개정"
+          "evidence": "농어업인 삶의 질 향상 및 농어촌지역 개발촉진에 관한 특별법 시행령 일부개정령안 입법예고"
         }
       ],
-      "dedupeKey": "농어업인 삶의 질 향상 특별법 시행령 개정",
+      "dedupeKey": "농어업인 삶의 질 향상 특별법 시행령 일부개정령안 입법예고",
       "clusterKey": "개발촉진에",
       "matchedTo": null,
       "sourceName": "knongnews.com",
@@ -291,81 +391,22 @@
       "importance": 3.5,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 내용이 명확합니다.",
+      "qualityReason": "제목과 본문이 일치하며, 내용이 간결하고 명확합니다.",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-02-21_11",
-      "date": "2026-02-21",
-      "category": "국제",
-      "title": "AI 주권에 대한 하이브리드 접근 방식이 EU 디지털 정책을 형성하는 방법",
-      "summary": [
-        "AI 주권에 대한 하이브리드 접근 방식이 EU 디지털 정책을 형성하고 있습니다.",
-        "이는 유럽의 디지털 미래에 중요한 영향을 미칩니다."
-      ],
-      "whyImportant": "EU의 디지털 정책 방향을 제시합니다.",
-      "importanceRationale": "근거: AI 주권에 대한 접근 방식은 EU의 기술 전략 및 규제 프레임워크에 영향을 미치므로 중요합니다.",
-      "impactSignals": [],
-      "dedupeKey": "AI_sovereignty_EU_digital_policy",
-      "clusterKey": "approach",
-      "matchedTo": null,
-      "sourceName": "IAPP",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQYXhuZVVyeFRib0NIWENUbm5hRjVDRzZrdXlHNFYweVNPN2FVdEhReWNONXg1VGl5WUlDcE9IRUk4TlZERE4yQ3ZqSVZ5ZHZHazVuQVpHN3pmblBRNWdVRjhMWUNnTmFESWQwcDQ2M1dMRzhaVFNmRU5pSEtZS2RIUGhMekpSRGVzdTk2Tnh0QXVuNDBrb04w?oc=5",
-      "publishedAt": "2026-02-18T17:12:10.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 75,
-      "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 정보가 명확합니다. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-02-21_12",
-      "date": "2026-02-21",
-      "category": "국제",
-      "title": "상호 무역 협상 촉진 및 베트남-미국 협력 강화",
-      "summary": [
-        "베트남과 미국 간의 상호 무역 협상이 촉진될 예정입니다.",
-        "이는 양국 간의 협력 강화를 목표로 합니다."
-      ],
-      "whyImportant": "베트남과 미국 간의 무역 관계 및 협력 강화는 양국 모두에게 중요한 의미를 가집니다.",
-      "importanceRationale": "근거: 기사 제목에서 상호 무역 협상 촉진과 협력 강화를 명시적으로 언급하고 있습니다.",
-      "impactSignals": [],
-      "dedupeKey": "상호 무역 협상 촉진 및 베트남-미국 협력 강화",
-      "clusterKey": "강화합니다",
-      "matchedTo": null,
-      "sourceName": "Vietnam.vn",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxOczVVd0p3c0RjR0NqV1JORHc2WkN2REVFWXl4T2ZzamIzSnhBTnptdlRkbU1rcEszLVR2RS1hWW91Q0dLR3BwZ19GTU5VQk15ZENaNWVKdkZGNkpjNjh5MERxWDN0MUpZWUxDV3k5dWlDVjF4RzhEel90SGt1LVc2QTBvTVlaa1ZCVnJxRW5JcnBhUmZtbVNzMWp6aGRBZw?oc=5",
-      "publishedAt": "2026-02-20T09:31:49.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 63,
-      "qualityLabel": "ok",
-      "qualityReason": "제목과 짧은 텍스트 기반으로 정보가 간결하게 제공됨 / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-02-21_13",
+      "id": "2026-02-21_15",
       "date": "2026-02-21",
       "category": "정책",
-      "title": "한전 독점 해소해야 전기 요금 논쟁 종식… 독립 규제 기관 필요",
+      "title": "한전 독점 해소해야 전기 요금 논쟁 종식…독립 규제 기관 필요",
       "summary": [
         "한국전력의 독점 구조를 해소하고 독립적인 규제 기관을 설립해야 전기 요금 관련 논쟁을 끝낼 수 있다는 주장이 제기됨."
       ],
-      "whyImportant": "전기 요금 결정 과정의 투명성과 공정성을 확보하는 데 중요한 영향을 미칠 수 있음.",
-      "importanceRationale": "근거: 한전의 독점 구조와 요금 결정 과정에 대한 불신이 지속적인 논쟁의 원인이므로, 독립 규제 기관 설립을 통해 이러한 문제를 해결하고자 함.",
-      "impactSignals": [
-        {
-          "label": "policy",
-          "evidence": "전력 산업 구조 개편 및 규제 기관 설립 관련 정책 변화 가능성"
-        }
-      ],
-      "dedupeKey": "hanjeon-monopoly-regulation",
+      "whyImportant": "전기 요금 결정 과정의 투명성과 공정성을 확보하는 데 중요한 시사점을 제공합니다.",
+      "importanceRationale": "근거: 한전의 독점적 지위가 전기 요금 결정의 불투명성을 야기한다는 문제 의식에서 출발하여, 독립 규제 기관 설립을 통해 요금 결정 과정의 공정성을 확보해야 한다는 주장을 담고 있습니다.",
+      "impactSignals": [],
+      "dedupeKey": "한전 독점 해소, 전기 요금 논쟁 종식, 독립 규제 기관 필요",
       "clusterKey": "끊어야",
       "matchedTo": null,
       "sourceName": "마켓인",
@@ -373,101 +414,42 @@
       "publishedAt": "2026-02-20T08:24:01.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 3.5,
-      "importanceRaw": 63,
-      "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 내용이 간결하고 명확함.",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-02-21_14",
-      "date": "2026-02-21",
-      "category": "기술",
-      "title": "Sharice Davids 하원의원, 오타와 협동조합 방문하여 지역 농업 공급망 및 식료품 비용 절감 강조",
-      "summary": [
-        "Sharice Davids 하원의원이 오타와 협동조합을 방문하여 지역 농업 공급망을 강조했습니다.",
-        "이번 방문은 다가오는 농업 법안에 앞서 식료품 비용 절감을 논의하기 위해 이루어졌습니다."
-      ],
-      "whyImportant": "지역 농업 공급망 강화 및 식료품 비용 절감 노력의 중요성을 보여줍니다.",
-      "importanceRationale": "근거: Davids 하원의원의 오타와 협동조합 방문은 지역 농업 공급망과 식료품 비용 문제에 대한 정책적 관심을 나타냅니다.",
-      "impactSignals": [
-        {
-          "label": "policy",
-          "evidence": "농업 법안 관련 논의 및 지역 농업 공급망 강조"
-        }
-      ],
-      "dedupeKey": "davids-ottawa-co-op-ag-supply-chain",
-      "clusterKey": "chain",
-      "matchedTo": null,
-      "sourceName": "Representative Sharice Davids | (.gov)",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTFVfeDktdGdNeFhYdmdSbnRNbGFwY1F0RVJGS2dlTHVuRWtFTmdUR1VjUUNsYmtmT19NZkx0LUlGLTMwbnJncWpqUEdBZ3lEblVkOFRfMzlrRkgyWGplZFVkZmN1Z2ZlOENzeEtXTXpOekdmUlBDQXFzbUU3MkhudUZaTlpzeFdSZzdLQU83eFBKYy00ek96QkFzT1NGNlI5NTdWRDlnNE5DVHRoUUozMkxsaDU5UWZiMkQwQUxHNXI?oc=5",
-      "publishedAt": "2026-02-19T19:44:06.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 3.5,
-      "importanceRaw": 63,
-      "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 정보가 명확합니다.",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-02-21_15",
-      "date": "2026-02-21",
-      "category": "기술",
-      "title": "화이트해커 합법화의 길 열리다…취약점 신고제 시범 도입",
-      "summary": [
-        "화이트해커 합법화의 길이 열린다.",
-        "취약점 신고제가 시범적으로 도입될 예정이다."
-      ],
-      "whyImportant": "보안 전문가의 활동 영역 확대 및 사이버 보안 강화에 기여할 수 있습니다.",
-      "importanceRationale": "근거: 취약점 신고제 도입은 화이트해커들이 합법적으로 보안 취약점을 발견하고 신고할 수 있도록 하여 사이버 보안을 강화하는 데 중요한 역할을 할 수 있기 때문입니다.",
-      "impactSignals": [],
-      "dedupeKey": "화이트해커 합법화, 취약점 제보제 시범 도입",
-      "clusterKey": "도입",
-      "matchedTo": null,
-      "sourceName": "사이언스타임즈",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNN18yWnFZUkc0NDQ3QWY3ZUV6ekJBdXM0M2pYR01vWk4wMGswNDcxVGlJUF9jNU9ZNzNIcklocTZiVFB5OTFWcnUxb2ZKc3BuZGFfNTlOUGRSa0dveDJ3bjUxN1RQSjR1c1FnZG81UkVGR2syTEdiQmttdmQ4LUlsVWJ3MmU0Njh4RGVrUG9waw?oc=5",
-      "publishedAt": "2026-02-18T22:03:37.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "기사 내용이 간결하고 명확하게 전달됨 / 근거부족",
+      "qualityReason": "기사 제목과 내용이 일치하며, 주장의 핵심이 명확하게 드러나 있습니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-02-21_16",
       "date": "2026-02-21",
-      "category": "경제",
-      "title": "일부 뉴욕 주민들, 전기 요금 급등 체감... 이유는?",
+      "category": "정책",
+      "title": "AI 기본법 시행 후, 콘텐츠 산업 저작권 책임 기준, 국회서 해법 모색",
       "summary": [
-        "일부 뉴욕 주민들이 전기 요금의 급격한 인상을 체감하고 있다고 보도되었습니다.",
-        "정확한 원인은 기사에 명시되어 있지 않습니다."
+        "AI 기본법 시행 이후 콘텐츠 산업의 저작권 책임 기준에 대한 해법을 국회에서 모색한다.",
+        "이는 AI 시대에 콘텐츠 산업의 건전한 발전을 위한 중요한 논의로 보인다."
       ],
-      "whyImportant": "뉴욕 주민들의 생활에 직접적인 영향을 미치는 전기 요금 인상에 대한 정보를 제공합니다.",
-      "importanceRationale": "근거: 뉴욕 주민들의 전기 요금 인상에 대한 직접적인 언급은 해당 정보가 지역 사회에 미치는 중요성을 시사합니다.",
+      "whyImportant": "AI 기본법 시행에 따른 콘텐츠 산업의 저작권 책임 기준 논의는 산업 발전에 중요한 영향을 미친다.",
+      "importanceRationale": "근거: AI 기본법 시행으로 인해 발생하는 콘텐츠 산업의 저작권 관련 문제 해결에 대한 국회의 노력이 시작되었음을 나타낸다.",
       "impactSignals": [
         {
           "label": "policy",
-          "evidence": "전기 요금 인상은 정책 변화 또는 규제와 관련될 수 있습니다."
+          "evidence": "AI 기본법 시행에 따른 저작권 책임 기준 논의"
         }
       ],
-      "dedupeKey": "newyork-electric-bills-higher",
-      "clusterKey": "bills",
+      "dedupeKey": "AI기본법_콘텐츠저작권_국회해법",
+      "clusterKey": "기본법",
       "matchedTo": null,
-      "sourceName": "cnynews.com",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMickFVX3lxTE12c1BURkxsR3B2Y3dOYk9VbHE5QkdyY09UYXlSZi1ZSU9SLU9FZkFLZHhPTzcteVl4N2pta19ELTAweW9jMjE5RWxZMUFIUWVQY1lhYUZhcVh3VHdfTUMwODFlNmxTZm9YaGp5MnlXVHFNdw?oc=5",
-      "publishedAt": "2026-02-20T09:30:41.000Z",
+      "sourceName": "내외뉴스통신",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9rYmV6TEdqUklWNVJpWXlSSU15UVJNdGxwV1pOT253MmtOMzVoNnJXUkxLQ3BEWkpxMGZIN3hGdEh2VU5FRDdEemluVnJjMXdzMDM0VXFVRFhIak0zS2d0aTRNaTJkYi1HRDZsMdIBcEFVX3lxTE1LRUhZY2V0eUgzbG84ZEU0QVN3UkNhOFo2NVB3dVY0NUVwc3QyOTJtRGZxVnFhbHZkNVBobnJTX1ppWlZqSHprSUlTcnZTb0JUeEtfbE1veTEwLWllM2FRVEFzUDNoVDZDcHAyVWRHLUw?oc=5",
+      "publishedAt": "2026-02-20T08:15:42.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 3,
-      "importanceRaw": 50,
+      "importance": 3.5,
+      "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 짧은 기사 내용이 일치하며, 정보가 직접적입니다.",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약됨.",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -475,15 +457,20 @@
       "id": "2026-02-21_17",
       "date": "2026-02-21",
       "category": "경제",
-      "title": "테슬라와 엔비디아를 넘어선 2개의 간과된 로봇 관련 주식, 예상을 뛰어넘는 실적 발표",
+      "title": "테슬라와 엔비디아를 넘어선 2개의 간과된 로봇 관련 주식, 어닝 서프라이즈 기록",
       "summary": [
-        "테슬라와 엔비디아 외에 간과되었던 2개의 로봇 관련 주식이 예상을 뛰어넘는 실적을 발표했다.",
+        "테슬라와 엔비디아 외에 간과되었던 2개의 로봇 관련 주식이 어닝 서프라이즈를 기록했다.",
         "24/7 Wall St. 보도 내용이다."
       ],
-      "whyImportant": "예상을 뛰어넘는 실적은 투자자들의 관심을 끌 수 있다.",
-      "importanceRationale": "근거: 로봇 관련 주식의 실적 발표는 해당 산업의 성장 가능성을 시사하며, 투자 결정에 영향을 미칠 수 있다.",
-      "impactSignals": [],
-      "dedupeKey": "robotics_stocks_earnings",
+      "whyImportant": "로봇 관련 주식 시장의 새로운 가능성을 제시합니다.",
+      "importanceRationale": "근거: 테슬라와 엔비디아 외의 다른 로봇 관련 주식의 실적 개선은 투자자들에게 새로운 투자 기회를 제공할 수 있기 때문입니다.",
+      "impactSignals": [
+        {
+          "label": "earnings",
+          "evidence": "2 Overlooked Robotics Stocks Just Blew Out Earnings"
+        }
+      ],
+      "dedupeKey": "robotics_stocks_earnings_surprise",
       "clusterKey": "beyond",
       "matchedTo": null,
       "sourceName": "24/7 Wall St.",
@@ -491,10 +478,10 @@
       "publishedAt": "2026-02-20T13:44:42.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 2,
+      "importance": 3.5,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 내용이 일치하며, 간결하게 요약되어 있습니다. / 근거부족",
+      "qualityReason": "제목과 본문이 일치하며, 간결하게 요약되었습니다.",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -502,52 +489,15 @@
       "id": "2026-02-21_18",
       "date": "2026-02-21",
       "category": "경제",
-      "title": "First Solar, 4분기 실적 발표 예정: 주식 전망은?",
-      "summary": [
-        "First Solar가 4분기 실적을 발표할 예정이다.",
-        "실적 발표가 주가에 미칠 영향에 대한 관심이 집중되고 있다."
-      ],
-      "whyImportant": "First Solar의 실적 발표는 태양광 산업 전반의 건전성을 나타내는 지표가 될 수 있다.",
-      "importanceRationale": "근거: First Solar는 태양광 산업의 주요 기업 중 하나이며, 실적은 투자자와 시장 참여자들에게 중요한 정보이다.",
-      "impactSignals": [
-        {
-          "label": "earnings",
-          "evidence": "First Solar의 4분기 실적 발표 예정"
-        }
-      ],
-      "dedupeKey": "FirstSolar_Q4Earnings_2024",
-      "clusterKey": "first",
-      "matchedTo": null,
-      "sourceName": "TradingView",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOHU3anZoRzNHU0wxTVVVSUhEc21GVnluSUcyVlZJQXZvNElRdTJoajYwdXd2QU0wWTFnUHVOZUI1XzZqT3pPSzl2dEszcmxSVmVaYmY4SGRXWk5BcE5jX0lRck1EMVY2UTFiODdsbU96eWZIRzNDU0NmbXFOYjZoT2ZxR2RReG1uQlFFSGw0a1ZLaGY3M2ZSckttWU9CZnpiSk9QdjVBNXVId1dEOTB1Um5rYWg5WXptdDg5VQ?oc=5",
-      "publishedAt": "2026-02-20T13:21:00.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 3.5,
-      "importanceRaw": 63,
-      "qualityLabel": "ok",
-      "qualityReason": "The article directly relates to the title and provides basic information.",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-02-21_19",
-      "date": "2026-02-21",
-      "category": "경제",
       "title": "라마 애드버타이징, 4분기 실적 컨센서스 하회에도 매출 모멘텀 및 2026년 전망 강조",
       "summary": [
-        "라마 애드버타이징이 Investing.com에 의해 4분기 실적 컨센서스를 하회했다고 보도되었습니다.",
-        "그럼에도 불구하고 매출 모멘텀과 2026년 전망을 강조했습니다."
+        "라마 애드버타이징이 Investing.com을 통해 4분기 실적이 컨센서스를 하회했다고 발표했습니다.",
+        "그러나 매출 모멘텀은 유지하고 있으며 2026년 전망을 강조했습니다."
       ],
-      "whyImportant": "라마 애드버타이징의 실적 발표와 향후 전망은 투자자들에게 중요한 정보입니다.",
-      "importanceRationale": "근거: 기업의 실적은 투자 결정에 직접적인 영향을 미치며, 미래 전망은 기업의 성장 가능성을 평가하는 데 중요한 지표가 됩니다.",
-      "impactSignals": [
-        {
-          "label": "earnings",
-          "evidence": "라마 애드버타이징의 4분기 실적 컨센서스 하회"
-        }
-      ],
-      "dedupeKey": "라마애드버타이징_4분기실적_2026년전망",
+      "whyImportant": "라마 애드버타이징의 실적 발표는 광고 업계의 전반적인 추세를 파악하는 데 중요한 지표가 될 수 있습니다.",
+      "importanceRationale": "근거: 기업의 실적은 투자 결정에 영향을 미치며, 특히 매출 모멘텀과 미래 전망은 기업 가치 평가에 중요한 요소입니다.",
+      "impactSignals": [],
+      "dedupeKey": "라마애드버타이징_4분기실적_2024",
       "clusterKey": "4분기",
       "matchedTo": null,
       "sourceName": "Investing.com 한국어",
@@ -555,10 +505,36 @@
       "publishedAt": "2026-02-20T12:41:00.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 3.5,
+      "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 내용이 간결하고 명확합니다.",
+      "qualityReason": "제목과 본문이 일치하며, 내용이 간결하고 명확합니다. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-02-21_19",
+      "date": "2026-02-21",
+      "category": "경제",
+      "title": "[다음주 전략] \"엔비디아 가이던스 주목...이익 바탕 코스피 6,500선 상승 지속\"",
+      "summary": [
+        "다음 주 전략은 엔비디아 가이던스에 주목하며, 이익을 바탕으로 코스피 6,500선 상승이 지속될 것으로 전망됩니다."
+      ],
+      "whyImportant": "엔비디아의 가이던스는 코스피 상승에 중요한 영향을 미칠 수 있습니다.",
+      "importanceRationale": "근거: 엔비디아의 실적 전망이 국내 증시에 미치는 영향력을 고려할 때, 투자 전략 수립에 중요한 지표가 될 수 있습니다.",
+      "impactSignals": [],
+      "dedupeKey": "[다음주 전략] \"엔비디아 가이던스 주목...이익 바탕 코스피 6,500선 상승 지속\"",
+      "clusterKey": "가이던스",
+      "matchedTo": null,
+      "sourceName": "프리미엄콘텐츠",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE42cDRKeWZLMHZPa0lNMWFmSV8zczJzdzQ2UmFvWjlMQmdQVkRMX3B1ZV9GbFBEMW1Mbmp0WXp0TVhFa2cxSU9VZjNycm9wNjJWckU3TFgwb2Z6QTZGUVhXQzdjZ0Q3VUdEajB0TEFQd29WTUM3N0hiYlpuR1hOS0k?oc=5",
+      "publishedAt": "2026-02-20T10:12:00.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 63,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 텍스트가 일치하며, 정보가 명확합니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     }
