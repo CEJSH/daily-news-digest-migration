@@ -5,40 +5,37 @@
   "totalOut": 20,
   "dropped": 265,
   "dropReasons": {
-    "carry_over_duplicate": 27,
-    "outdated": 100,
-    "hard_excluded_keyword": 6,
-    "duplicate_dedupe_key": 7,
-    "duplicate_title": 5,
+    "carry_over_duplicate": 28,
+    "outdated": 98,
+    "hard_excluded_keyword": 7,
+    "duplicate_dedupe_key": 6,
+    "duplicate_title": 4,
     "excluded_keyword": 1,
-    "not_selected": 119
+    "not_selected": 121
   },
   "impactLabels": {
     "security": 1,
-    "policy": 3,
-    "capex": 1,
-    "earnings": 1
+    "capex": 1
   },
   "sources": {
-    "Dark Reading": 1,
+    "Dark Reading | Security": 1,
     "지티티코리아": 1,
     "한국무역협회": 1,
+    "한국경제": 1,
     "연합뉴스 한민족센터": 2,
     "복지타임즈": 1,
     "WHTC": 1,
     "The Record from Recorded Future News": 1,
     "Yahoo Finance": 1,
-    "한겨레": 1,
     "The HIPAA Journal": 1,
-    "내외뉴스통신": 1,
-    "유스연합": 1,
+    "TechCrunch": 2,
+    "돼지와사람": 1,
     "CryptoRank": 1,
-    "TechCrunch": 1,
+    "SBS Biz": 1,
     "비즈니스포스트": 1,
-    "Global Trade Magazine": 1,
-    "grist.org": 1,
-    "Crypto Briefing": 1,
-    "톱데일리": 1
+    "Engineering News-Record": 1,
+    "IAPP": 1,
+    "grist.org": 1
   },
   "topicStats": {
     "IT": {
@@ -63,8 +60,8 @@
     },
     "실적_가이던스": {
       "in": 24,
-      "out": 3,
-      "dropped": 21
+      "out": 2,
+      "dropped": 22
     },
     "반도체_공급망": {
       "in": 24,
@@ -73,18 +70,18 @@
     },
     "전력_인프라": {
       "in": 24,
-      "out": 3,
-      "dropped": 21
+      "out": 4,
+      "dropped": 20
     },
     "AI_저작권_데이터권리": {
       "in": 20,
-      "out": 2,
-      "dropped": 18
+      "out": 0,
+      "dropped": 20
     },
     "보안_취약점_패치": {
       "in": 20,
-      "out": 2,
-      "dropped": 18
+      "out": 3,
+      "dropped": 17
     },
     "투자_MA_IPO": {
       "in": 20,
@@ -93,8 +90,8 @@
     },
     "국내_정책_규제": {
       "in": 15,
-      "out": 3,
-      "dropped": 12
+      "out": 4,
+      "dropped": 11
     },
     "국내_산업_공급망": {
       "in": 15,
@@ -128,14 +125,17 @@
     "매일경제": {
       "outdated": 2
     },
+    "인공지능신문": {
+      "outdated": 1
+    },
+    "연합뉴스 한민족센터": {
+      "outdated": 2,
+      "carry_over_duplicate": 1,
+      "duplicate_dedupe_key": 1,
+      "not_selected": 2
+    },
     "knn.co.kr": {
       "outdated": 1
-    },
-    "쿠키뉴스": {
-      "outdated": 1
-    },
-    "부산일보사": {
-      "outdated": 2
     },
     "TRENDS Research & Advisory": {
       "outdated": 1
@@ -158,16 +158,12 @@
     "Davis Wright Tremaine": {
       "outdated": 1
     },
-    "E&E News by POLITICO": {
-      "outdated": 1
-    },
-    "Mayer Brown": {
-      "outdated": 1
-    },
     "뉴스1": {
       "outdated": 1,
-      "duplicate_dedupe_key": 1,
       "not_selected": 2
+    },
+    "부산일보사": {
+      "outdated": 1
     },
     "청년일보": {
       "outdated": 1
@@ -252,12 +248,6 @@
     "IEEFA | Institute for Energy Economics and Financial Analysis": {
       "outdated": 1
     },
-    "연합뉴스 한민족센터": {
-      "carry_over_duplicate": 1,
-      "duplicate_dedupe_key": 1,
-      "outdated": 1,
-      "not_selected": 2
-    },
     "매일일보": {
       "duplicate_dedupe_key": 1,
       "duplicate_title": 1
@@ -288,10 +278,7 @@
       "carry_over_duplicate": 1
     },
     "Barron's": {
-      "carry_over_duplicate": 1
-    },
-    "Quiver Quantitative": {
-      "duplicate_dedupe_key": 1
+      "carry_over_duplicate": 2
     },
     "Chosunbiz": {
       "carry_over_duplicate": 1,
@@ -343,11 +330,14 @@
     "지티티코리아": {
       "duplicate_title": 1
     },
-    "파퓰러사이언스": {
+    "전남일보": {
       "carry_over_duplicate": 1
     },
     "드림저널": {
       "duplicate_dedupe_key": 1
+    },
+    "강원도민일보": {
+      "carry_over_duplicate": 1
     },
     "Inside Global Tech": {
       "outdated": 1
@@ -373,9 +363,6 @@
     "OECD": {
       "outdated": 1
     },
-    "아이티비즈": {
-      "duplicate_title": 1
-    },
     "바이오스펙테이터": {
       "duplicate_dedupe_key": 1
     },
@@ -387,6 +374,9 @@
     },
     "Korea IT Times": {
       "duplicate_title": 1
+    },
+    "한국식품의약신문": {
+      "duplicate_dedupe_key": 1
     },
     "Palo Alto Networks": {
       "hard_excluded_keyword": 1
@@ -403,14 +393,15 @@
     "CyberScoop": {
       "outdated": 1
     },
+    "Baker Donelson": {
+      "hard_excluded_keyword": 1
+    },
     "Bitsight": {
       "outdated": 1
     },
-    "IT Brief UK": {
-      "carry_over_duplicate": 1
-    },
     "Yahoo Finance": {
-      "carry_over_duplicate": 1
+      "carry_over_duplicate": 1,
+      "not_selected": 2
     },
     "qz.com": {
       "carry_over_duplicate": 1
@@ -439,8 +430,8 @@
       "outdated": 1
     },
     "마켓인": {
-      "outdated": 4,
-      "not_selected": 3
+      "outdated": 3,
+      "not_selected": 4
     },
     "스트레이트뉴스": {
       "outdated": 1,
@@ -473,16 +464,16 @@
     "매일경제TV": {
       "outdated": 1
     },
-    "IAPP": {
-      "not_selected": 1
+    "itworld.co.kr": {
+      "outdated": 1
     },
     "AI Magazine": {
       "not_selected": 1
     },
-    "Vietnam.vn": {
-      "not_selected": 2
+    "Crypto Briefing": {
+      "not_selected": 1
     },
-    "SBS Biz": {
+    "Vietnam.vn": {
       "not_selected": 2
     },
     "constellationenergy.com": {
@@ -492,6 +483,9 @@
       "not_selected": 1
     },
     "Heatmap News": {
+      "not_selected": 1
+    },
+    "Global Trade Magazine": {
       "not_selected": 1
     },
     "blog.google": {
@@ -515,16 +509,13 @@
     "서울파이낸스": {
       "not_selected": 3
     },
-    "테크월드뉴스": {
-      "not_selected": 2
-    },
     "에너지경제신문 모바일": {
-      "not_selected": 2
+      "not_selected": 3
     },
-    "Fredericksburg Free Press": {
+    "Finviz": {
       "not_selected": 1
     },
-    "Engineering News-Record": {
+    "Fredericksburg Free Press": {
       "not_selected": 1
     },
     "Financier Worldwide": {
@@ -543,7 +534,7 @@
       "not_selected": 1
     },
     "__others__": {
-      "not_selected": 67
+      "not_selected": 68
     }
   },
   "breakingSelection": {
@@ -554,18 +545,18 @@
   },
   "categories": {
     "기술": 2,
-    "국제": 5,
-    "경제": 7,
+    "국제": 6,
+    "경제": 6,
     "정책": 5,
     "에너지": 1
   },
   "importanceDistribution": {
-    "2": 14,
-    "4": 3,
-    "3.5": 3
+    "2": 18,
+    "4": 1,
+    "3.5": 1
   },
   "topDiversity": {
-    "uniqueSources": 19,
+    "uniqueSources": 18,
     "uniqueCategories": 5,
     "maxPerSource": 2
   }
