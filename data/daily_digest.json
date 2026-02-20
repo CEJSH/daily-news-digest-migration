@@ -3,7 +3,7 @@
   "selectionCriteria": "① 내일도 영향이 남는 이슈 ② 과도한 감정 소모 제외 ③ 어제와 중복되는 뉴스 제외",
   "editorNote": "이 뉴스는 클릭 수가 아니라 오늘 이후에도 남는 정보만 기준으로 편집했습니다.",
   "question": "정보를 덜 보는 것이 오히려 더 똑똑한 소비일까?",
-  "lastUpdatedAt": "2026-02-20T21:53:32.792+09:00",
+  "lastUpdatedAt": "2026-02-20T22:59:47.562+09:00",
   "items": [
     {
       "id": "2026-02-20_1",
@@ -11,19 +11,15 @@
       "category": "기술",
       "title": "클라인 사용자 대상 공급망 공격으로 OpenClaw 몰래 설치 - Dark Reading",
       "summary": [
-        "Dark Reading에 따르면, 공급망 공격을 통해 클라인 사용자들에게 OpenClaw가 몰래 설치되었다.",
-        "이번 공격은 보안 업계에 중요한 경각심을 불러일으키고 있다."
+        "Dark Reading에 따르면, 공급망 공격을 통해 클라인 사용자를 대상으로 OpenClaw가 몰래 설치되었습니다.",
+        "이번 공격은 보안 업계에 중요한 경각심을 불러일으키고 있습니다."
       ],
-      "whyImportant": "공급망 공격은 소프트웨어 개발 및 배포 과정에서 발생하여, 최종 사용자에게 광범위한 영향을 미칠 수 있기 때문에 중요하다.",
-      "importanceRationale": "근거: 공급망 공격은 탐지 및 방어가 어렵고, 한번 성공하면 많은 시스템에 침투할 수 있어 심각한 보안 위협이 된다. 특히 클라인 사용자를 대상으로 했다는 점에서 파급력이 클 수 있다.",
+      "whyImportant": "공급망 공격을 통한 악성코드 배포는 기업 보안에 심각한 위협이 됩니다.",
+      "importanceRationale": "근거: 공급망 공격은 소프트웨어 공급망의 취약점을 이용하여 다수의 사용자에게 악성코드를 배포할 수 있어 파급력이 큽니다.",
       "impactSignals": [
         {
           "label": "security",
-          "evidence": "공급망 공격을 통해 악성코드가 유포되어 사용자 시스템의 보안이 침해됨."
-        },
-        {
-          "label": "policy",
-          "evidence": "보안 정책 강화의 필요성을 제기하며, 공급망 보안에 대한 새로운 규제 도입 가능성을 시사함."
+          "evidence": "OpenClaw 설치는 사용자 보안에 직접적인 위협을 가합니다."
         }
       ],
       "dedupeKey": "supply_chain_attack_openclaw_cline",
@@ -37,7 +33,7 @@
       "importance": 4,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 정보가 명확하게 전달됨.",
+      "qualityReason": "제목과 본문이 일치하며, 내용이 간결하고 명확합니다.",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -47,13 +43,17 @@
       "category": "국제",
       "title": "섀도 AI·데이터 유출 통제하는 글로벌 AI 규제 대응 거버넌스 체계",
       "summary": [
-        "글로벌 AI 규제에 대응하는 거버넌스 체계가 필요하다.",
-        "섀도 AI와 데이터 유출 통제가 주요 과제이다."
+        "지티티코리아는 섀도 AI와 데이터 유출을 통제하는 글로벌 AI 규제 대응 거버넌스 체계를 구축했다."
       ],
       "whyImportant": "AI 규제 준수 및 데이터 보안 강화",
-      "importanceRationale": "근거: 글로벌 AI 규제에 대한 대응과 섀도 AI 및 데이터 유출 통제의 중요성을 강조하고 있다.",
-      "impactSignals": [],
-      "dedupeKey": "AI규제거버넌스",
+      "importanceRationale": "근거: 섀도 AI와 데이터 유출 통제는 기업의 규제 준수 및 데이터 보안에 중요한 영향을 미치기 때문이다.",
+      "impactSignals": [
+        {
+          "label": "policy",
+          "evidence": "글로벌 AI 규제 대응 거버넌스 체계 구축"
+        }
+      ],
+      "dedupeKey": "shadow-ai-data-governance",
       "clusterKey": "거버넌스",
       "matchedTo": null,
       "sourceName": "지티티코리아",
@@ -61,10 +61,10 @@
       "publishedAt": "2026-02-19T22:00:00.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 2,
+      "importance": 4,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 핵심 내용을 잘 요약했습니다. / 근거부족",
+      "qualityReason": "기사 내용이 명확하고 간결함",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -74,13 +74,14 @@
       "category": "에너지",
       "title": "정부, 배전망에 ESS 85개 연결…분산형 전력망 본격 구축",
       "summary": [
-        "정부가 배전망에 에너지 저장 시스템(ESS) 85개를 연결하여 분산형 전력망을 본격적으로 구축합니다.",
-        "이는 전력 효율성을 높이고 안정적인 에너지 공급을 가능하게 할 것입니다."
+        "정부가 배전망에 에너지 저장 시스템(ESS) 85개를 연결하여 분산형 전력망 구축을 본격화한다.",
+        "이는 전력 효율성을 높이고 안정적인 에너지 공급을 가능하게 할 것으로 기대된다.",
+        "이번 투자는 에너지 산업에 긍정적인 영향을 미칠 것으로 예상된다."
       ],
-      "whyImportant": "분산형 전력망 구축을 통해 에너지 효율성 향상 및 안정적인 에너지 공급이 가능해집니다.",
-      "importanceRationale": "근거: 정부 정책에 따라 배전망에 ESS를 연결하여 분산형 전력망을 구축하는 것은 에너지 산업에 중요한 변화를 가져올 수 있습니다.",
+      "whyImportant": "분산형 전력망 구축을 통해 에너지 효율성을 높이고 안정적인 에너지 공급을 확보할 수 있기 때문입니다.",
+      "importanceRationale": "근거: 정부 정책에 따른 배전망 ESS 연결 확대는 에너지 산업의 중요한 변화를 의미하며, 관련 기업의 수익 증대 및 시장 수요 증가를 가져올 수 있습니다.",
       "impactSignals": [],
-      "dedupeKey": "gov-ess-dist-grid-2024",
+      "dedupeKey": "gov-ess-dist-network-2024",
       "clusterKey": "에너지/85개",
       "matchedTo": null,
       "sourceName": "매일일보",
@@ -91,7 +92,7 @@
       "importance": 2,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "기사 내용이 명확하고 정책적 중요성을 담고 있음 / 근거부족",
+      "qualityReason": "기사 내용이 명확하고 정책적 중요성을 잘 드러내고 있습니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -102,10 +103,11 @@
       "title": "뉴저지 주의원들, AI 및 데이터 센터 급증으로 인한 물, 전기 비용 증가 우려",
       "summary": [
         "뉴저지 주의원들이 인공지능과 데이터 센터의 급증이 물과 전기 비용을 증가시킬 수 있다는 우려를 표명했습니다.",
-        "이는 관련 정책 및 자본 지출에 영향을 미칠 수 있습니다."
+        "데이터 센터의 높은 에너지 소비와 냉각 시스템에 필요한 물 사용량이 문제로 지적되고 있습니다.",
+        "이에 대한 정책적 대응이 필요하다는 의견이 제시되고 있습니다."
       ],
-      "whyImportant": "데이터 센터와 AI 산업 성장에 따른 잠재적 비용 증가에 대한 정책적 논의를 촉발할 수 있습니다.",
-      "importanceRationale": "근거: 뉴저지 주의원들이 직접적으로 우려를 표명했으며, 이는 향후 관련 정책 결정 및 자본 투자에 영향을 줄 수 있기 때문입니다.",
+      "whyImportant": "AI와 데이터 센터의 급증이 에너지 및 물 소비에 미치는 잠재적 영향에 대한 정책적 논의를 촉발했다는 점에서 중요합니다.",
+      "importanceRationale": "근거: 뉴저지 주의원들이 AI 및 데이터 센터 증가로 인한 물과 전기 비용 상승을 우려하고 있으며, 이는 관련 정책 변화의 필요성을 시사합니다.",
       "impactSignals": [],
       "dedupeKey": "NJ_AI_datacenter_water_electricity_costs",
       "clusterKey": "centers",
@@ -118,7 +120,7 @@
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 핵심 내용을 전달합니다. / 근거부족",
+      "qualityReason": "기사의 내용이 명확하고 간결하게 요약되어 있습니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -131,8 +133,8 @@
         "국회 법제사법위원회가 '자사주 소각 의무화' 법안을 통과시켰습니다.",
         "이는 기업이 보유한 자사주를 일정 기간 내에 소각하도록 의무화하는 내용입니다."
       ],
-      "whyImportant": "자사주 소각 의무화는 주주가치 제고에 기여할 수 있습니다.",
-      "importanceRationale": "근거: 자사주 소각은 유통 주식 수를 줄여 주당 가치를 높이고, 기업의 자본 효율성을 개선할 수 있습니다.",
+      "whyImportant": "자사주 소각 의무화는 주주가치 제고에 중요한 영향을 미칩니다.",
+      "importanceRationale": "근거: 자사주 소각은 주식 수를 줄여 주당 가치를 상승시키고, 기업의 자본 효율성을 높이는 효과가 있습니다. 정책 변화는 시장에 직접적인 영향을 줄 수 있습니다.",
       "impactSignals": [],
       "dedupeKey": "자사주 소각 의무화 법안 국회 통과",
       "clusterKey": "국회",
@@ -145,7 +147,7 @@
       "importance": 2,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었습니다. / 근거부족",
+      "qualityReason": "제목과 내용이 일치하며, 핵심 내용을 간결하게 전달합니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -155,13 +157,13 @@
       "category": "정책",
       "title": "일본 외무상, 국회 외교 연설에서 13년째 '독도는 일본 땅' 망언",
       "summary": [
-        "일본 외무상이 국회 외교 연설에서 13년째 '독도는 일본 땅'이라는 망언을 되풀이했습니다.",
-        "이는 한일 관계에 부정적인 영향을 미칠 수 있는 발언입니다."
+        "일본 외무상이 국회 외교 연설에서 또다시 '독도는 일본 땅'이라는 망언을 했습니다.",
+        "이는 13년째 이어지는 발언입니다."
       ],
-      "whyImportant": "일본 외무상의 지속적인 독도 관련 망언은 한일 관계에 부정적인 영향을 미치며, 외교적 갈등을 심화시킬 수 있습니다.",
-      "importanceRationale": "근거: 일본 외무상이 13년째 국회 외교 연설에서 동일한 주장을 반복하고 있다는 사실은 해당 문제가 일본 정부의 일관된 입장임을 시사하며, 이는 한일 관계에 지속적인 긴장을 유발할 수 있습니다.",
+      "whyImportant": "일본 외무상의 지속적인 독도 영유권 주장은 한일 관계에 부정적인 영향을 미칩니다.",
+      "importanceRationale": "근거: 일본 외무상이 13년째 국회 외교 연설에서 동일한 주장을 반복하고 있다는 사실은 해당 문제가 일본 정부의 일관된 입장임을 시사하며, 이는 외교적 갈등의 잠재적 원인이 될 수 있습니다.",
       "impactSignals": [],
-      "dedupeKey": "jp-foreign-minister-dokdo-2024",
+      "dedupeKey": "jp-foreign-minister-dokdo-claim-13years",
       "clusterKey": "13년째",
       "matchedTo": null,
       "sourceName": "연합뉴스 한민족센터",
@@ -172,7 +174,7 @@
       "importance": 2,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하고 명확하게 요약되었습니다. / 근거부족",
+      "qualityReason": "기사 제목과 내용이 일치하며, 사실에 기반하여 작성되었습니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -209,17 +211,17 @@
       "category": "국제",
       "title": "랜섬웨어 공격으로 피해를 입은 3개의 의료 서비스 제공업체",
       "summary": [
-        "HIPAA 저널에 따르면 3개의 의료 서비스 제공업체가 랜섬웨어 공격으로 인해 피해를 입었습니다."
+        "HIPAA 저널에 따르면 3개의 의료 서비스 제공업체가 랜섬웨어 공격의 영향을 받았습니다."
       ],
-      "whyImportant": "의료 기관에 대한 사이버 공격은 환자 데이터 보안 및 의료 서비스 제공에 심각한 위협이 됩니다.",
-      "importanceRationale": "근거: 랜섬웨어 공격은 의료 기관의 운영을 중단시키고 민감한 환자 정보를 유출할 수 있기 때문입니다.",
+      "whyImportant": "의료 기관의 사이버 보안 취약성 강조",
+      "importanceRationale": "근거: 의료 기관을 대상으로 한 랜섬웨어 공격은 환자 데이터 유출 및 의료 서비스 중단으로 이어질 수 있어 사회적 중요성이 높습니다.",
       "impactSignals": [
         {
           "label": "security",
-          "evidence": "3개의 의료 서비스 제공업체가 랜섬웨어 공격을 받음"
+          "evidence": "랜섬웨어 공격으로 인해 의료 서비스 제공에 차질이 발생할 수 있습니다."
         }
       ],
-      "dedupeKey": "ransomware_healthcare_providers",
+      "dedupeKey": "ransomware_healthcare_providers_2024",
       "clusterKey": "affected",
       "matchedTo": null,
       "sourceName": "The HIPAA Journal",
@@ -230,26 +232,51 @@
       "importance": 4,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "기사에 명확한 정보가 포함되어 있습니다.",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었습니다.",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-02-20_9",
       "date": "2026-02-20",
+      "category": "정책",
+      "title": "정부, ASF 돼지 혈액 사료 공급망 유입 추정… 사용 중지 권고",
+      "summary": [
+        "정부는 아프리카돼지열병(ASF)이 돼지 혈액 사료 공급망을 통해 유입된 것으로 추정하고 사용 중지를 권고했습니다."
+      ],
+      "whyImportant": "ASF 확산 방지를 위한 정부의 긴급 조치입니다.",
+      "importanceRationale": "근거: ASF의 확산 경로를 차단하고 추가 감염을 예방하기 위한 정부의 정책적 결정입니다.",
+      "impactSignals": [],
+      "dedupeKey": "ASF 돼지 혈액 사료 공급망 유입 추정",
+      "clusterKey": "asf",
+      "matchedTo": null,
+      "sourceName": "돼지와사람",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1XX1gzaU5hNm5oLV9DS3BNbUMwU0JfeVd1QkdZaEdqajZGR1FCQ1pDaW1rWS1DMXhGUDlUWllSa09QbllHdDZLelhHOVpscHpRVlF4WUxWVk9jUHM1bmJ3VDNn?oc=5",
+      "publishedAt": "2026-02-20T09:10:29.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 88,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 내용이 일치하며, 핵심 정보를 포함하고 있습니다. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-02-20_10",
+      "date": "2026-02-20",
       "category": "경제",
       "title": "“로봇이 곧 공장 경쟁력”…전통 제조 중소·중견 기업, ‘피지컬 AI’에 투자",
       "summary": [
         "전통 제조업의 중소·중견 기업들이 공장 경쟁력 강화를 위해 '피지컬 AI' 즉, 로봇 기술에 투자하고 있다.",
-        "이는 생산성 향상과 비용 절감을 목표로 한다.",
-        "자동화된 공정 시스템 구축에 대한 기대감이 높아지고 있다."
+        "이는 로봇 기술이 공장 자동화 및 생산성 향상에 기여할 수 있다는 판단에 따른 것이다."
       ],
-      "whyImportant": "제조업 경쟁력 강화에 로봇 기술 투자가 미치는 영향",
-      "importanceRationale": "근거: 전통 제조업의 중소·중견 기업들이 생산성 향상과 비용 절감을 위해 로봇 기술에 투자하는 것은 제조업 경쟁력 강화에 중요한 영향을 미친다.",
+      "whyImportant": "제조업의 경쟁력 강화에 로봇 기술 투자가 중요한 역할을 할 수 있음을 시사한다.",
+      "importanceRationale": "근거: 전통 제조 중소·중견 기업들이 로봇 기술에 투자하는 이유는 공장 경쟁력 강화에 로봇이 중요한 역할을 한다고 판단했기 때문이다.",
       "impactSignals": [
         {
           "label": "capex",
-          "evidence": "전통 제조 중소·중견 기업이 '피지컬 AI'에 투자"
+          "evidence": "전통 제조 중소·중견 기업들이 '피지컬 AI'에 투자"
         }
       ],
       "dedupeKey": "robot-factory-competitiveness-physical-ai",
@@ -260,37 +287,10 @@
       "publishedAt": "2026-02-19T01:30:37.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 4,
-      "importanceRaw": 75,
-      "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 핵심 내용을 잘 요약했습니다.",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-02-20_10",
-      "date": "2026-02-20",
-      "category": "정책",
-      "title": "'햄버거 회동' 노상원·'국회 봉쇄' 조지호, 1심 판결에 불복하여 항소",
-      "summary": [
-        "'햄버거 회동'으로 알려진 노상원과 '국회 봉쇄' 사건의 조지호가 1심 판결에 불복하여 항소했다.",
-        "두 사건 모두 사회적으로 큰 관심을 받았으며, 이번 항소로 인해 법정 공방이 이어질 것으로 예상된다."
-      ],
-      "whyImportant": "이번 항소는 관련 사건의 진행에 중요한 영향을 미칠 수 있다.",
-      "importanceRationale": "근거: 두 사건 모두 사회적 관심도가 높고, 법적 판단에 대한 논쟁이 지속될 수 있기 때문이다.",
-      "impactSignals": [],
-      "dedupeKey": "노상원_조지호_항소",
-      "clusterKey": "1심",
-      "matchedTo": null,
-      "sourceName": "연합뉴스 한민족센터",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5KWkhsLVdoTkFtTHVnWXg5eTNvSjJZRE56dTRRWlo5cFkxRUZzNzdnRTBpemJFSHlSbnZKNEx1MEJ5dmE1VTllMnpJTnJQZS1GOVZULWJXUDVWUVhVVGJVNnA0V3hST2NwNUN3Y3pYeUZlNGh6?oc=5",
-      "publishedAt": "2026-02-20T07:34:04.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
+      "importance": 3.5,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 정보가 명확하게 전달됨. / 근거부족",
+      "qualityReason": "제목과 본문이 일치하며, 간결하게 요약됨.",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -304,8 +304,8 @@
         "OpenAI는 향후 1GW까지 확장하는 것을 목표로 하고 있습니다.",
         "이번 투자는 OpenAI의 AI 기술 개발 및 확장에 중요한 역할을 할 것으로 예상됩니다."
       ],
-      "whyImportant": "OpenAI의 인도 데이터 센터 투자는 AI 인프라 확장 전략의 중요한 부분입니다.",
-      "importanceRationale": "근거: OpenAI가 인도에 대규모 데이터 센터 투자를 결정한 것은 AI 기술 경쟁 심화와 인도 시장의 성장 가능성을 고려한 전략적 결정으로 판단됩니다.",
+      "whyImportant": "OpenAI의 인도 데이터 센터 투자는 AI 인프라 확장의 중요한 단계입니다.",
+      "importanceRationale": "근거: OpenAI가 인도에 대규모 AI 데이터 센터 용량을 확보함으로써 AI 기술 개발 및 서비스 제공 능력을 강화하고 있습니다. 이는 AI 시장 경쟁 심화와 기술 혁신 가속화에 기여할 수 있습니다.",
       "impactSignals": [],
       "dedupeKey": "openai_tata_india_datacenter_100MW",
       "clusterKey": "100mw",
@@ -318,7 +318,7 @@
       "importance": 2,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "기사에 명확한 정보가 포함되어 있습니다. / 근거부족",
+      "qualityReason": "기사 내용이 명확하고 사실에 기반하고 있습니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -326,58 +326,58 @@
       "id": "2026-02-20_12",
       "date": "2026-02-20",
       "category": "정책",
-      "title": "자사주 소각 의무화 상법개정안 국회 법사위 소위 통과",
+      "title": "'햄버거 회동' 노상원·'국회 봉쇄' 조지호, 1심 판결에 불복해 항소",
       "summary": [
-        "자사주 소각 의무화를 골자로 하는 상법개정안이 국회 법사위 소위를 통과했다.",
-        "이르면 24일 본회의에 상정될 예정이다."
+        "'햄버거 회동'으로 알려진 노상원과 '국회 봉쇄' 사건의 조지호가 1심 판결에 불복하여 항소했습니다.",
+        "두 사건 모두 사회적으로 큰 관심을 받았던 사건입니다."
       ],
-      "whyImportant": "자사주 소각 의무화는 주주가치에 큰 영향을 미치는 정책 변경이다.",
-      "importanceRationale": "근거: 자사주 소각 의무화는 기업의 자본 정책에 대한 중요한 변화를 의미하며, 주식 시장 및 투자자 심리에 상당한 영향을 줄 수 있다.",
+      "whyImportant": "이번 항소는 향후 법적 공방에 영향을 미칠 수 있습니다.",
+      "importanceRationale": "근거: 사회적 관심이 큰 사건의 당사자들이 1심 판결에 불복하고 항소했기 때문입니다.",
       "impactSignals": [],
-      "dedupeKey": "자사주 소각 의무화 상법개정안 국회 법사위 소위 통과",
-      "clusterKey": "3차",
+      "dedupeKey": "햄버거회동_국회봉쇄_항소",
+      "clusterKey": "1심",
       "matchedTo": null,
-      "sourceName": "비즈니스포스트",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1ZTEVDZm1CUEUzMGRFc0xCR0gzb2tteXEtUGlRRDZ6SDFEYmJ4Vnl1UzRwRkdQNUxVM0c5eU8zT0xPaU9OQVVneDdDT05lSW92ZVVLbDQ5bE8wT0ZOeWpDYmlXWUVXT0dYcnBXV05qZlBLV1E?oc=5",
-      "publishedAt": "2026-02-20T10:03:00.000Z",
+      "sourceName": "연합뉴스 한민족센터",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5KWkhsLVdoTkFtTHVnWXg5eTNvSjJZRE56dTRRWlo5cFkxRUZzNzdnRTBpemJFSHlSbnZKNEx1MEJ5dmE1VTllMnpJTnJQZS1GOVZULWJXUDVWUVhVVGJVNnA0V3hST2NwNUN3Y3pYeUZlNGh6?oc=5",
+      "publishedAt": "2026-02-20T07:34:04.000Z",
       "readTimeSec": 10,
       "status": "kept",
       "importance": 2,
-      "importanceRaw": 75,
+      "importanceRaw": 50,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 핵심 내용을 전달한다. / 근거부족",
+      "qualityReason": "제목과 본문이 일치하며, 요약이 간결하고 명확합니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-02-20_13",
       "date": "2026-02-20",
-      "category": "에너지",
-      "title": "정부, '차세대 분산형 전력망' 구축 본격화... 국비 3210억원 투입",
+      "category": "국제",
+      "title": "AI 패권 전쟁 본격화: 한국은 규제, 미국은 시장, 유럽은 기준으로 경쟁",
       "summary": [
-        "정부가 '차세대 분산형 전력망' 구축을 본격화한다.",
-        "이를 위해 국비 3210억원이 투입될 예정이다."
+        "AI 패권 경쟁이 본격화되고 있다.",
+        "한국은 규제를 통해, 미국은 시장을 통해, 유럽은 기준을 통해 경쟁하고 있다."
       ],
-      "whyImportant": "차세대 분산형 전력망 구축은 에너지 정책의 중요한 변화를 의미합니다.",
-      "importanceRationale": "근거: 정부가 직접 국비를 투입하여 차세대 전력망 구축을 추진하는 것은 정책적 의지를 보여주는 중요한 신호입니다.",
+      "whyImportant": "각국의 AI 전략 차이를 보여주는 중요한 사례이다.",
+      "importanceRationale": "근거: AI 패권 경쟁에서 각 국가가 접근하는 방식의 차이를 명확히 보여주며, 이는 향후 AI 기술 발전과 산업 지형에 중요한 영향을 미칠 수 있다.",
       "impactSignals": [
         {
           "label": "policy",
-          "evidence": "정부의 차세대 분산형 전력망 구축 정책 발표 및 국비 투입 결정"
+          "evidence": "한국의 규제 중심 AI 정책, 미국의 시장 중심 AI 정책, 유럽의 기준 중심 AI 정책"
         }
       ],
-      "dedupeKey": "차세대 분산형 전력망 구축 본격화",
-      "clusterKey": "에너지/3210억원",
+      "dedupeKey": "AI패권경쟁_한국규제_미국시장_유럽기준",
+      "clusterKey": "규제로",
       "matchedTo": null,
-      "sourceName": "더버터",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1oWE8xdkNYYU95ZGNXSGZjUmVKLWt5OTZMejZsSEM5WkJDeDR6dGJka1VMZEVlRVJ6WXlnbjZia3ZsMFE0dnpGU2UzY1RPUU84MDZCU3RnYV9sbEJUTDBNaG1uMmc0VEF3bFE?oc=5",
-      "publishedAt": "2026-02-20T03:04:50.000Z",
+      "sourceName": "유스연합",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAtR1ozNlp6WWFoQTdXajdseGxCWGtaa3NMNWNrdzFuRGRGWTF5c09GOTlLMlhfTUpSeTF2Y3NyZHI0dUlMWXczWTExWUY1bWFEWnc?oc=5",
+      "publishedAt": "2026-02-20T07:54:21.000Z",
       "readTimeSec": 10,
       "status": "kept",
       "importance": 4,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었습니다.",
+      "qualityReason": "제목과 내용이 일치하며, 핵심 내용을 잘 요약했습니다.",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -387,11 +387,11 @@
       "category": "국제",
       "title": "ECB 리더십 변화, 유로존 안정성에 대한 중요한 정책 불확실성 야기",
       "summary": [
-        "유럽중앙은행(ECB) 리더십 변화가 유로존 안정성에 중요한 정책 불확실성을 야기하고 있습니다.",
-        "새로운 리더십 하에서 ECB의 통화 정책 방향에 대한 우려가 제기되고 있습니다."
+        "ECB 리더십 변화는 유로존 안정성에 중요한 정책 불확실성을 야기합니다.",
+        "새로운 리더십 하에서 통화 정책 방향이 어떻게 변화할지 주목됩니다."
       ],
-      "whyImportant": "ECB 리더십 변화는 유로존 경제에 큰 영향을 미칠 수 있습니다.",
-      "importanceRationale": "근거: ECB의 정책은 유로존 전체의 경제 안정과 성장에 직접적인 영향을 미치기 때문입니다.",
+      "whyImportant": "ECB의 정책 변화는 유로존 경제 전체에 큰 영향을 미치므로 중요합니다.",
+      "importanceRationale": "근거: ECB 리더십 변화가 유로존 안정성에 미치는 잠재적 영향력 때문입니다.",
       "impactSignals": [],
       "dedupeKey": "ECB_Leadership_Transition_Eurozone_Stability",
       "clusterKey": "critical",
@@ -404,34 +404,35 @@
       "importance": 2,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 내용이 일치하며, 핵심 내용을 잘 요약했습니다. / 근거부족",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었습니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-02-20_15",
       "date": "2026-02-20",
-      "category": "국제",
-      "title": "인도네시아, 트럼프에 관세 인하 요청",
+      "category": "경제",
+      "title": "SK에코플랜트, IPO 전략 전환 및 장동현 재무적 투자자와 협상 가능성",
       "summary": [
-        "인도네시아가 트럼프 대통령에게 관세 인하를 요청했다.",
-        "인도네시아는 18% 이하의 관세율을 희망하고 있다."
+        "SK에코플랜트가 IPO 전략을 전환할 가능성이 제기됨.",
+        "장동현 재무적 투자자와의 협상에 무게가 실리고 있다는 보도.",
+        "자세한 내용은 아직 알려지지 않음."
       ],
-      "whyImportant": "인도네시아의 대미 수출에 영향을 미칠 수 있는 정책 변화 가능성.",
-      "importanceRationale": "근거: 인도네시아가 미국의 관세 인하를 요청함에 따라, 향후 양국 간 무역 정책 변화 가능성이 존재하며 이는 인도네시아 경제에 중요한 영향을 미칠 수 있음.",
+      "whyImportant": "SK에코플랜트의 IPO 전략 변화는 투자 및 기업 가치에 영향을 줄 수 있음.",
+      "importanceRationale": "근거: SK에코플랜트의 IPO 전략 전환 가능성과 재무적 투자자와의 협상에 대한 보도 내용.",
       "impactSignals": [],
-      "dedupeKey": "indonesia-tariff-request-trump",
-      "clusterKey": "biz",
+      "dedupeKey": "SK에코플랜트 IPO 전략 전환 및 장동현 재무적 투자자 협상",
+      "clusterKey": "sk에코플랜트",
       "matchedTo": null,
-      "sourceName": "SBS Biz",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE80ampEQ0hRdDNlMUUzTlBQb1RuUC1RWHVob3gzMk15WG13SHJnM1ZHLTNiLW1XTGNFbHhnZkc0VjFLTnhqRzNpdnNtQjI2UmlIVWJr?oc=5",
-      "publishedAt": "2026-02-19T04:09:00.000Z",
+      "sourceName": "비즈니스포스트",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9kcEloNFBJUWNxMWFHNklIazBzYXkwRkF5WlRIVzJkaW1TQmJmRTJxV2lsUzY0Wlp3WG5QMTlXMHlKVlJBd054ZG9ueHBYWktWUUk0OEtGLVg3WlNyOGFHekNWRWxnYm90ZWZEZFlqUU9WMWc?oc=5",
+      "publishedAt": "2026-02-20T07:15:04.000Z",
       "readTimeSec": 10,
       "status": "kept",
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약됨. / 근거부족",
+      "qualityReason": "제목과 본문이 일치하며, 정보가 간결하게 요약되어 있음. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -443,12 +444,12 @@
       "summary": [
         "학생 상장 수여 시 성인 공무원 규정을 적용하는 문제점이 지적됨.",
         "이는 교사들의 불필요한 업무 부담을 가중시킨다는 비판이 있음.",
-        "이번 개선을 통해 교사들의 업무 부담이 경감될 수 있을지 주목됨."
+        "이번 개선을 통해 교사들의 업무 부담이 줄어들 것으로 기대됨."
       ],
-      "whyImportant": "학생 상장 수여 절차 간소화는 교사들의 불필요한 행정 업무 부담을 줄여 교육 본질에 집중할 수 있도록 돕는 정책적 변화입니다.",
-      "importanceRationale": "근거: 교사들이 학생 상장 수여 과정에서 불필요한 공무원 규정 준수로 인해 과도한 업무 부담을 느끼고 있다는 문제 제기가 있었으며, 이는 교육 현장의 효율성을 저해하는 요소로 작용할 수 있기 때문입니다.",
+      "whyImportant": "학생 상장 수여 절차 간소화는 교사들의 불필요한 행정 업무를 줄여 교육 본질에 집중할 수 있도록 돕습니다.",
+      "importanceRationale": "근거: 학생 상장 수여에 불필요한 공무원 규정 적용으로 인한 교사들의 업무 부담 가중 문제 해결.",
       "impactSignals": [],
-      "dedupeKey": "student_award_regulation_improvement",
+      "dedupeKey": "student_award_regulation_simplification",
       "clusterKey": "가짜",
       "matchedTo": null,
       "sourceName": "더스쿠프",
@@ -459,66 +460,61 @@
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 내용이 일치하며, 핵심 내용을 잘 요약했습니다. / 근거부족",
+      "qualityReason": "기사 내용이 명확하고 간결하게 작성됨. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-02-20_17",
       "date": "2026-02-20",
-      "category": "기술",
-      "title": "Sharice Davids 하원의원, 오타와 협동조합 방문하여 지역 농업 공급망 및 식료품 비용 절감 강조",
+      "category": "에너지",
+      "title": "NRG 에너지, 해리스 카운티 북동부 발전소 단지 확장 예정",
       "summary": [
-        "Sharice Davids 하원의원이 오타와 협동조합을 방문하여 지역 농업 공급망을 강조했습니다.",
-        "이번 방문은 다가오는 농업 법안에 앞서 식료품 비용 절감을 논의하기 위해 이루어졌습니다."
+        "NRG 에너지가 해리스 카운티 북동부에 위치한 발전소 단지를 확장할 계획이다.",
+        "이번 확장은 NRG 에너지의 전력 공급 능력 강화에 기여할 것으로 예상된다."
       ],
-      "whyImportant": "지역 농업 공급망 강화 및 식료품 비용 절감 정책 방향을 시사합니다.",
-      "importanceRationale": "근거: Davids 하원의원의 방문은 지역 농업 공급망에 대한 관심과 농업 법안을 통한 식료품 비용 절감 노력의 일환으로 해석될 수 있습니다.",
-      "impactSignals": [
-        {
-          "label": "policy",
-          "evidence": "농업 법안 관련 논의 및 지역 농업 공급망 강조"
-        }
-      ],
-      "dedupeKey": "davids-ottawa-co-op-local-ag",
-      "clusterKey": "chain",
+      "whyImportant": "발전소 단지 확장은 지역 경제 및 에너지 공급에 중요한 영향을 미칠 수 있다.",
+      "importanceRationale": "근거: NRG 에너지의 발전소 단지 확장은 상당한 자본 지출(CAPEX)을 수반하며, 이는 지역 경제 활성화와 전력 공급 안정성에 기여할 수 있기 때문이다.",
+      "impactSignals": [],
+      "dedupeKey": "NRG_Energy_expands_power_plant_complex_in_northeast_Harris_County",
+      "clusterKey": "에너지/complex",
       "matchedTo": null,
-      "sourceName": "Representative Sharice Davids | (.gov)",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTFVfeDktdGdNeFhYdmdSbnRNbGFwY1F0RVJGS2dlTHVuRWtFTmdUR1VjUUNsYmtmT19NZkx0LUlGLTMwbnJncWpqUEdBZ3lEblVkOFRfMzlrRkgyWGplZFVkZmN1Z2ZlOENzeEtXTXpOekdmUlBDQXFzbUU3MkhudUZaTlpzeFdSZzdLQU83eFBKYy00ek96QkFzT1NGNlI5NTdWRDlnNE5DVHRoUUozMkxsaDU5UWZiMkQwQUxHNXI?oc=5",
-      "publishedAt": "2026-02-19T19:44:06.000Z",
+      "sourceName": "Houston Public Media",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNakJXYnhDekNjbHlKSU51R1lvYjl5U3JXb0RHN0VFbGtMeFpfU3JhSlFMS0VCd1g3bTdiWGdSa1lMRWhBeF83MHllOU5WS0RDaHlzVWJaTDc0QzJiYlV4UGJNZWtqVWdvVndGSG9naUU4RWxPS05NUlhvb3R0d1N4SWVPS1FjMUhmNU5sOV9ib0pfWTdLNm5MZ0VRbjNZWm9nOVNLb2dTeS1jLWtKOW52NnhhWlRkYWhoaXk5OEZNLUtlb1NERmlYWGpGMzlZM2dYY0t0UElxeXNWXzhZLWxOXzZOUzVhQ3F0dkHSAfIBQVVfeXFMTWJ5SEVBMm5kSjM2a1ZpRjNQODJYUXFjYm0zUUhTV205cUxRdnZxYmlFNnFCdlpQd25WNEVlZDREYUtFeVpCYnlScjdNMVFscTZkNzNaUkIwS21iUGZFWFNQVXozUVU4c1lkbGV1UUNPeFlQUWZ6YWd0MnlJLVNWMFRHLTd2SnZDbU1PaWxOblpDMUQ4WDBmcW9IOXU0NTdrUnQxWk41eTdiYlBmZldDbEloUTJzUmNwVTFPRGNvbTR0MHk0R0Z3V1A4RjV3Y3pYMFg3OEhoUVljWmZ0QXkxQ1dnTFB3d3F0eXZ6MXBUWFgtTGc?oc=5",
+      "publishedAt": "2026-02-18T20:31:23.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 3,
-      "importanceRaw": 50,
+      "importance": 2,
+      "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 정보가 명확합니다.",
+      "qualityReason": "기사 제목과 내용이 일치하며, 정보가 명확하게 전달됨. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-02-20_18",
       "date": "2026-02-20",
-      "category": "경제",
-      "title": "라마 애드버타이징, 4분기 실적 컨센서스 하회에도 매출 모멘텀과 2026년 전망 강조",
+      "category": "에너지",
+      "title": "눈에 띄는 전기 요금 청구서의 원인은 무엇일까요? 지역별로 분석했습니다.",
       "summary": [
-        "라마 애드버타이징이 Investing.com을 통해 4분기 실적이 컨센서스를 하회했다고 발표했습니다.",
-        "그러나 매출 모멘텀과 2026년 전망을 강조했습니다."
+        "최근 전기 요금 급등의 원인을 지역별로 분석했습니다.",
+        "자세한 내용은 grist.org에서 확인할 수 있습니다."
       ],
-      "whyImportant": "라마 애드버타이징의 실적 발표는 광고 산업의 현재 상황과 미래 전망을 파악하는 데 중요한 지표가 됩니다.",
-      "importanceRationale": "근거: 기업의 실적은 투자 결정에 영향을 미치며, 특히 매출 모멘텀과 미래 전망은 기업의 성장 가능성을 평가하는 데 중요한 요소입니다.",
+      "whyImportant": "전기 요금 인상의 원인을 이해하는 데 도움이 됩니다.",
+      "importanceRationale": "근거: 전기 요금 인상은 가계 경제에 직접적인 영향을 미치므로, 그 원인을 파악하는 것은 중요합니다.",
       "impactSignals": [],
-      "dedupeKey": "라마 애드버타이징, 4분기 실적 컨센서스 하회",
-      "clusterKey": "4분기",
+      "dedupeKey": "eye-popping-power-bill-region-by-region",
+      "clusterKey": "에너지/behind",
       "matchedTo": null,
-      "sourceName": "Investing.com 한국어",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB5ampTUmZSdGpMb1hvUWpKMktHYjUzNFd2c216aTBzbUJOT2kzQmtUY3hwTHBUSUhJb1lJalR2eTVSLU12ajBYU2ZLWjlDVVNVSmRydEctdXd4Q0JPcTJfZTFkM2s?oc=5",
-      "publishedAt": "2026-02-20T12:41:00.000Z",
+      "sourceName": "grist.org",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBiU2NVNGJnYndTa2dsaUl3MzA3NTZxLVBzQlVpQzNLTGFHazU3VFJ3YURKakUyQkd1aUlpVnVPS1BuOGRUTHFwOW5tZ1ZBRjUxd2xUNlhVdlZFeVRCR1NBdWZtSUIyZkNJQmxlZVpjMmJiRHRCZDg3VEUyUQ?oc=5",
+      "publishedAt": "2026-02-18T09:45:32.000Z",
       "readTimeSec": 10,
       "status": "kept",
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 핵심 내용을 요약했습니다. / 근거부족",
+      "qualityReason": "제목과 내용이 일치하며, 정보의 가치가 있습니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -526,14 +522,46 @@
       "id": "2026-02-20_19",
       "date": "2026-02-20",
       "category": "경제",
+      "title": "라마 애드버타이징, 4분기 실적 컨센서스 하회에도 매출 모멘텀 및 2026년 전망 강조",
+      "summary": [
+        "라마 애드버타이징이 Investing.com에 의해 4분기 실적 컨센서스를 하회했다고 보도되었습니다.",
+        "그럼에도 불구하고 매출 모멘텀과 2026년 전망을 강조했습니다."
+      ],
+      "whyImportant": "라마 애드버타이징의 실적 발표와 향후 전망은 투자자들에게 중요한 정보입니다.",
+      "importanceRationale": "근거: 기업의 실적은 투자 결정에 직접적인 영향을 미치며, 미래 전망은 기업의 성장 가능성을 평가하는 데 중요한 지표가 됩니다.",
+      "impactSignals": [
+        {
+          "label": "earnings",
+          "evidence": "라마 애드버타이징의 4분기 실적 컨센서스 하회"
+        }
+      ],
+      "dedupeKey": "라마애드버타이징_4분기실적_2026년전망",
+      "clusterKey": "4분기",
+      "matchedTo": null,
+      "sourceName": "Investing.com 한국어",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB5ampTUmZSdGpMb1hvUWpKMktHYjUzNFd2c216aTBzbUJOT2kzQmtUY3hwTHBUSUhJb1lJalR2eTVSLU12ajBYU2ZLWjlDVVNVSmRydEctdXd4Q0JPcTJfZTFkM2s?oc=5",
+      "publishedAt": "2026-02-20T12:41:00.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 3.5,
+      "importanceRaw": 63,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 본문이 일치하며, 내용이 간결하고 명확합니다.",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-02-20_20",
+      "date": "2026-02-20",
+      "category": "경제",
       "title": "PPL Corporation, 2025년 실적 발표 및 2029년까지의 사업 계획 업데이트 발표, EPS 성장 목표 연장",
       "summary": [
-        "PPL Corporation은 2025년 실적을 발표했습니다.",
+        "PPL Corporation이 2025년 실적을 발표했습니다.",
         "또한 2029년까지의 사업 계획 업데이트를 제공했습니다.",
-        "EPS 성장 목표를 연장했습니다."
+        "주당 순이익(EPS) 성장 목표를 연장했습니다."
       ],
-      "whyImportant": "PPL Corporation의 실적 및 사업 계획 업데이트는 투자자와 시장에 중요한 정보를 제공합니다.",
-      "importanceRationale": "근거: 기업의 실적 발표는 투자 결정에 영향을 미치며, 사업 계획 업데이트는 회사의 미래 성장 전망을 제시합니다. EPS 성장 목표 연장은 투자자 신뢰도를 높일 수 있습니다.",
+      "whyImportant": "PPL Corporation의 실적 및 사업 계획 업데이트는 투자자와 시장 참여자에게 중요한 정보입니다.",
+      "importanceRationale": "근거: 기업의 실적 발표는 기업의 재무 건전성과 성장 전망을 파악하는 데 필수적이며, 사업 계획 업데이트는 미래 전략 및 목표를 이해하는 데 도움이 됩니다. EPS 성장 목표 연장은 투자자 신뢰도에 영향을 미칠 수 있습니다.",
       "impactSignals": [
         {
           "label": "earnings",
@@ -551,34 +579,7 @@
       "importance": 3.5,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "The article provides factual information about the company's earnings and business plan.",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-02-20_20",
-      "date": "2026-02-20",
-      "category": "경제",
-      "title": "오픈도어 테크놀로지스, 예상치를 웃도는 실적 발표 후 주가 상승",
-      "summary": [
-        "오픈도어 테크놀로지스가 예상치를 상회하는 실적을 발표했습니다.",
-        "이에 따라 오픈도어 테크놀로지스의 주가가 상승했습니다."
-      ],
-      "whyImportant": "오픈도어 테크놀로지스의 실적 발표와 주가 변동은 투자자들에게 중요한 정보입니다.",
-      "importanceRationale": "근거: 기업의 실적은 투자 결정에 중요한 영향을 미치며, 주가 변동은 시장의 반응을 나타냅니다.",
-      "impactSignals": [],
-      "dedupeKey": "opendoor-q1-2024",
-      "clusterKey": "마켓인",
-      "matchedTo": null,
-      "sourceName": "마켓인",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB2MWExU0JBcnRuVE82SzUzMlRrTjJXY2ZPRDFpbG5fdHkwODc3LXJma2hFUF9zNXVHYWtiaWZQSGRZckQ1QjJDejlmNzVLY0J2YzdzZXNLRllOUHZScGpGUkVoVGV1ODNqVVdVZkRwZWx2T0k?oc=5",
-      "publishedAt": "2026-02-20T11:39:21.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 63,
-      "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 간결하게 핵심 내용을 전달합니다. / 근거부족",
+      "qualityReason": "The article provides factual information about the company's earnings and business plan update.",
       "isBriefing": false,
       "isBreaking": false
     }
