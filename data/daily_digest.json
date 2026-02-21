@@ -3,33 +3,32 @@
   "selectionCriteria": "① 내일도 영향이 남는 이슈 ② 과도한 감정 소모 제외 ③ 어제와 중복되는 뉴스 제외",
   "editorNote": "이 뉴스는 클릭 수가 아니라 오늘 이후에도 남는 정보만 기준으로 편집했습니다.",
   "question": "정보를 덜 보는 것이 오히려 더 똑똑한 소비일까?",
-  "lastUpdatedAt": "2026-02-21T20:20:32.771+09:00",
+  "lastUpdatedAt": "2026-02-21T21:40:57.237+09:00",
   "items": [
     {
       "id": "2026-02-21_1",
       "date": "2026-02-21",
-      "category": "에너지",
-      "title": "유권자 분노와 미국 에너지 '역설': 높은 공공요금, 기록적인 석유 및 가스 생산, 그리고 세계 데이터 센터의 45%",
+      "category": "경제",
+      "title": "OpenAI, AI 비용 증가로 현금 소진 전망 1,110억 달러 추가",
       "summary": [
-        "미국은 높은 공공요금과 기록적인 석유 및 가스 생산량에도 불구하고 유권자들의 분노를 사고 있다.",
-        "미국은 세계 데이터 센터의 45%를 차지하고 있어 에너지 소비가 높다.",
-        "에너지 정책과 관련된 유권자들의 불만이 고조되고 있다."
+        "OpenAI는 AI 비용이 예상보다 빠르게 증가함에 따라 현금 소진 전망을 1,110억 달러 늘렸습니다.",
+        "이는 AI 개발 및 운영 비용이 급증하고 있음을 시사합니다."
       ],
-      "whyImportant": "미국 에너지 정책의 복잡성과 유권자 불만을 보여준다.",
-      "importanceRationale": "근거: 기사 제목과 내용에서 미국 에너지 정책의 모순과 그로 인한 유권자들의 불만을 명확히 제시하고 있다. 높은 공공요금과 기록적인 에너지 생산량, 그리고 데이터 센터 집중이 복합적으로 작용하여 에너지 정책에 대한 불만을 야기하고 있음을 알 수 있다.",
+      "whyImportant": "AI 기술 개발 경쟁 심화와 관련된 재정적 부담을 보여주는 지표입니다.",
+      "importanceRationale": "근거: OpenAI의 현금 소진 전망 증가는 AI 기술 개발 경쟁이 치열해짐에 따라 기업들이 감수해야 할 재정적 부담이 커지고 있음을 나타냅니다.",
       "impactSignals": [],
-      "dedupeKey": "voter_fury_energy_paradox",
-      "clusterKey": "에너지/american",
+      "dedupeKey": "openai_cash_burn_111b",
+      "clusterKey": "adds",
       "matchedTo": null,
-      "sourceName": "Fortune",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQURZRGx6X1JISXEyZVN6d1hmeUhIa1ZZN2hVU0w5MlpiS1VHZ1lGWEZ5NU95QUQ0Sll3eWJKRHE5N2ZXV2pxbE9mRl9RRFdERXBiNEkzc3FObXV4UkV2TkUzYWNVWWxpaTB1cEJFMHJmby1LeDlTUk1DdDMzU0dpcFlIWm9jMHhDWUl6bUN1Zk45QQ?oc=5",
-      "publishedAt": "2026-02-20T12:29:00.000Z",
+      "sourceName": "the-decoder.com",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQS1UMUlmdmdhZTgyRXZ3SnNFYVMtTjZZaWQxYVRPMm9icHh5MzFNLUcyZlEzTWFBTkFsMlIydFJTbGF6eHN0OTAxUGExb04xNlJQd3RtdHBTRXBrUWk3OEFOa2J3WHdIdGdXbTlnRXlRd04wYk5KVEZvYTJ6d0dHUUZZMl83VlRqVGVmQnpoczZEc2VqM1kzMjZDZWZld2VwcjN0SlRIREI0Mk1fTHFUUXBR?oc=5",
+      "publishedAt": "2026-02-21T12:17:25.000Z",
       "readTimeSec": 10,
       "status": "kept",
       "importance": 2,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 요약이 핵심 내용을 잘 반영하고 있다. / 근거부족",
+      "qualityReason": "제목과 본문이 일치하며, 정보가 간결하게 제공됨. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -74,7 +73,7 @@
       "impactSignals": [
         {
           "label": "policy",
-          "evidence": "전력난과 환경 규제가 데이터 센터 운영에 제약으로 작용"
+          "evidence": "전력난과 환경 규제가 데이터 센터에 미치는 영향"
         }
       ],
       "dedupeKey": "전력난과 환경 규제에 직면한 데이터 센터, '우주'로 향하다",
@@ -88,7 +87,7 @@
       "importance": 3.5,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 내용이 일치하며, 핵심 내용을 잘 반영하고 있다.",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되어 있음.",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -101,8 +100,8 @@
         "미국 대법원이 국제긴급경제권한법(IEEPA) 관세 관련 판결을 내렸습니다.",
         "다음 단계, 잠재적 환불 및 기업을 위한 지침이 제시되었습니다."
       ],
-      "whyImportant": "이번 판결은 기업의 관세 관련 전략에 영향을 미칠 수 있습니다.",
-      "importanceRationale": "근거: 대법원 판결은 기업의 수익과 정책 결정에 중요한 영향을 미치기 때문입니다.",
+      "whyImportant": "대법원 판결이 기업의 관세 관련 전략에 영향을 미칠 수 있습니다.",
+      "importanceRationale": "근거: IEEPA 관세에 대한 대법원 판결은 기업의 수익과 정책 준수에 중요한 영향을 미치므로.",
       "impactSignals": [],
       "dedupeKey": "IEEPA Tariff Ruling",
       "clusterKey": "court",
@@ -115,7 +114,7 @@
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 텍스트가 일치하며, 정보가 명확합니다. / 근거부족",
+      "qualityReason": "제목과 텍스트가 일치하며, 정보가 명확하게 제시되어 있습니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -125,12 +124,17 @@
       "category": "기술",
       "title": "OpenAI, 2030년까지 컴퓨팅 비용으로 약 6천억 달러 지출 예상",
       "summary": [
-        "OpenAI는 2030년까지 컴퓨팅 비용으로 약 6천억 달러를 지출할 것으로 예상된다고 로이터 통신이 보도했다.",
-        "이는 인공지능 모델 개발 및 운영에 막대한 투자가 필요함을 시사한다."
+        "OpenAI는 2030년까지 컴퓨팅 비용으로 약 6천억 달러를 지출할 것으로 예상된다고 소식통이 밝혔습니다.",
+        "이는 인공지능 모델 개발 및 운영에 막대한 투자가 필요함을 시사합니다."
       ],
-      "whyImportant": "OpenAI의 막대한 컴퓨팅 비용 지출은 AI 기술 개발 경쟁 심화를 의미합니다.",
-      "importanceRationale": "근거: OpenAI의 대규모 컴퓨팅 투자 계획은 AI 기술 개발의 중요성과 경쟁 심화를 보여주는 지표로 해석될 수 있다.",
-      "impactSignals": [],
+      "whyImportant": "OpenAI의 막대한 컴퓨팅 투자 계획은 AI 기술 개발 경쟁 심화를 보여줍니다.",
+      "importanceRationale": "근거: OpenAI의 대규모 컴퓨팅 투자 계획은 AI 기술 개발의 중요한 지표이며, 정책 및 산업 전반에 걸쳐 상당한 영향을 미칠 수 있습니다.",
+      "impactSignals": [
+        {
+          "label": "policy",
+          "evidence": "OpenAI의 대규모 투자는 AI 관련 정책 및 규제에 영향을 미칠 수 있음"
+        }
+      ],
       "dedupeKey": "openai_600b_compute_2030",
       "clusterKey": "around",
       "matchedTo": null,
@@ -139,10 +143,10 @@
       "publishedAt": "2026-02-20T22:39:57.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 2,
+      "importance": 4,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "기사 내용이 간결하고 명확하며, 출처가 로이터 통신이다. / 근거부족",
+      "qualityReason": "기사 내용이 간결하고 명확하며, 출처가 Reuters로 신뢰할 만함.",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -152,12 +156,13 @@
       "category": "국제",
       "title": "미국 상호관세 위법 판결…김 총리 \"상황 지혜롭게 지켜볼 것\"",
       "summary": [
-        "미국 상호관세 위법 판결에 대해 김 총리는 상황을 지혜롭게 지켜볼 것이라고 밝혔다."
+        "미국 상호관세에 대한 위법 판결이 나왔다.",
+        "김 총리는 이 상황을 지혜롭게 지켜볼 것이라고 밝혔다."
       ],
-      "whyImportant": "미국의 관세 정책 변화 가능성 시사",
-      "importanceRationale": "근거: 미국의 상호 관세에 대한 위법 판결은 향후 미국의 무역 정책에 변화를 가져올 수 있으며, 이는 국제 무역 환경에 영향을 미칠 수 있기 때문이다.",
+      "whyImportant": "미국의 관세 정책 변화 가능성을 시사하며, 국제 무역 관계에 영향을 줄 수 있다.",
+      "importanceRationale": "근거: 미국의 상호관세 위법 판결은 향후 미국의 무역 정책 방향에 변화를 가져올 수 있으며, 이는 관련된 국가들의 경제에 직간접적인 영향을 미칠 수 있기 때문이다.",
       "impactSignals": [],
-      "dedupeKey": "미국 상호관세 위법 판결…김 총리 상황 지혜롭게 지켜볼 것",
+      "dedupeKey": "미국 상호관세 위법 판결에 대한 한국 총리 입장 표명",
       "clusterKey": "상호관세",
       "matchedTo": null,
       "sourceName": "한국경제",
@@ -168,7 +173,7 @@
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며 간결하게 요약됨. / 근거부족",
+      "qualityReason": "제목과 본문이 일치하며, 간결하게 요약되어 있음. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -182,7 +187,7 @@
         "이번 판결로 인해 관세 리스크가 연장될 가능성에 대한 우려가 제기되고 있다."
       ],
       "whyImportant": "미국의 관세 정책 변화 가능성에 대한 재계의 우려를 보여주는 사건이다.",
-      "importanceRationale": "근거: 미국의 관세 위법 판결로 인해 기업들이 불확실성에 직면하고 있으며, 이는 경영 전략 및 투자 결정에 영향을 미칠 수 있다.",
+      "importanceRationale": "근거: 미국의 관세 위법 판결에 대한 재계의 반응은 향후 무역 환경에 대한 불확실성을 반영하며, 기업의 경영 전략에 영향을 미칠 수 있다.",
       "impactSignals": [],
       "dedupeKey": "[미국 관세 위법 판결] 재계, 긴장 속 사태 예의주시… \"관세 리스크 연장되나\"",
       "clusterKey": "긴장",
@@ -195,7 +200,7 @@
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 뉴스 기사의 핵심 내용을 요약하고 있다. / 근거부족",
+      "qualityReason": "제목과 본문이 일치하며, 내용이 간결하고 명확하다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -205,12 +210,13 @@
       "category": "정책",
       "title": "법원, \"윤 대통령, 12월 1일 계엄 결심\" 국회 진입 지시",
       "summary": [
-        "법원은 윤 대통령이 12월 1일에 계엄을 결심하고 국회 진입을 지시했다고 밝혔습니다."
+        "법원은 윤 대통령이 12월 1일에 계엄을 결심하고 국회 진입을 지시했다고 밝혔습니다.",
+        "남도일보에 따르면 법원의 결정이 있었습니다."
       ],
-      "whyImportant": "계엄령 선포 및 국회 진입 시도는 민주주의 질서를 훼손할 수 있는 심각한 사안입니다.",
-      "importanceRationale": "근거: 법원의 발표 내용은 대통령의 권한 남용 및 헌법 위반 논란을 야기할 수 있으며, 정치적 불안정을 초래할 수 있습니다.",
+      "whyImportant": "계엄령 선포 및 국회 진입 시도는 국가 정치 및 사회에 큰 영향을 미칠 수 있습니다.",
+      "importanceRationale": "근거: 법원의 발표는 대통령의 결정과 관련된 중대한 사안을 다루고 있으며, 이는 국가의 안정과 민주주의에 직접적인 영향을 줄 수 있습니다.",
       "impactSignals": [],
-      "dedupeKey": "20240618-법원-윤-계엄-결심-12월1일-국회진입-지시",
+      "dedupeKey": "20240118-법원-윤-계엄-결심-12월1일-국회진입-지시",
       "clusterKey": "12월1일",
       "matchedTo": null,
       "sourceName": "남도일보",
@@ -221,22 +227,49 @@
       "importance": 2,
       "importanceRaw": 88,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 내용이 간결하고 명확합니다. / 근거부족",
+      "qualityReason": "제목과 본문이 일치하며, 간결하게 핵심 내용을 전달합니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-02-21_9",
       "date": "2026-02-21",
-      "category": "경제",
-      "title": "BHP: 구리 관련 양호한 분기별 실적, 그러나 수요는 실망스러울 수 있음 (등급 하향)",
+      "category": "산업",
+      "title": "트럼프, 백악관에서 럼과 회동…미국, 수출 통제 명단 제외 지시",
       "summary": [
-        "BHP의 분기별 실적은 구리 수요에 힘입어 양호한 것으로 나타났습니다.",
-        "그러나 전반적인 수요는 기대에 미치지 못할 수 있다는 전망이 제시되었습니다.",
+        "트럼프 대통령이 백악관에서 럼과 회동했다.",
+        "미국은 수출 통제 명단에서 제외하도록 지시할 예정이다."
+      ],
+      "whyImportant": "미국이 수출 통제 명단에서 제외를 지시함.",
+      "importanceRationale": "근거: 미국이 수출 통제 명단에서 제외를 지시함에 따라 관련 기업에 미치는 영향이 중요.",
+      "impactSignals": [],
+      "dedupeKey": "trump-meets-rum-export-control",
+      "clusterKey": "명단",
+      "matchedTo": null,
+      "sourceName": "아세안데일리 뉴스",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMickFVX3lxTE9Cbjd3em1sb0F5RU1ERXdweWItLXYwczdOX0p6Y3FvMk9SMnFKLW13eDlSQzUyWThJZ1RrdUIwN080a3RCc1FOZWxiNEZBLXg2WlZUZVNPVF8tVl8xVUNaUnRxMnpVZUEtYkZyRC0xN3U4UQ?oc=5",
+      "publishedAt": "2026-02-21T02:03:35.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 75,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 내용이 일치하며 간결하게 요약됨. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": true
+    },
+    {
+      "id": "2026-02-21_10",
+      "date": "2026-02-21",
+      "category": "경제",
+      "title": "BHP: 구리 관련 괜찮은 분기별 실적, 그러나 수요는 실망스러울 수 있음 (등급 하향)",
+      "summary": [
+        "BHP의 분기별 실적은 구리 수요에 힘입어 괜찮은 수준을 유지했습니다.",
+        "하지만 향후 수요는 기대에 미치지 못할 수 있다는 전망이 나왔습니다.",
         "이에 따라 BHP의 투자 등급이 하향 조정되었습니다."
       ],
-      "whyImportant": "BHP의 실적 및 전망 변화는 광업 부문 투자에 영향을 미칠 수 있습니다.",
-      "importanceRationale": "근거: BHP는 주요 광산 기업이며, 실적 변화는 관련 산업 전반의 투자 심리에 영향을 줄 수 있습니다. 특히 수요 전망에 대한 평가는 시장의 변동성을 야기할 수 있습니다.",
+      "whyImportant": "BHP의 실적 및 전망에 대한 투자 등급 변경은 시장에 중요한 신호가 될 수 있습니다.",
+      "importanceRationale": "근거: BHP는 주요 광산업체이며, 실적과 전망은 관련 산업 및 시장 전반에 영향을 미칠 수 있습니다. 투자 등급 하향은 투자 심리에 부정적인 영향을 줄 수 있습니다.",
       "impactSignals": [],
       "dedupeKey": "BHP_Quarterly_Results_Downgrade",
       "clusterKey": "bhp",
@@ -249,12 +282,12 @@
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 내용을 충실히 반영함 / 근거부족",
+      "qualityReason": "제목과 텍스트가 일치하며, 정보가 간결하게 요약되어 있습니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-02-21_10",
+      "id": "2026-02-21_11",
       "date": "2026-02-21",
       "category": "정책",
       "title": "AI 제작 콘텐츠 급증에 따른 저작권 분쟁 관련 입법 토론회 국회 개최",
@@ -262,10 +295,10 @@
         "AI 제작 콘텐츠의 급증으로 인해 저작권 분쟁이 늘어남.",
         "이에 대한 입법 토론회가 국회에서 열림."
       ],
-      "whyImportant": "AI가 만든 콘텐츠의 저작권 관련 분쟁을 해결하기 위한 법률 제정 논의가 시작되었다는 점에서 중요합니다.",
-      "importanceRationale": "근거: AI 제작 콘텐츠의 저작권 문제는 새로운 기술 환경에서 중요한 법적 쟁점이며, 이번 토론회는 관련 법률 제정의 첫걸음이 될 수 있습니다.",
+      "whyImportant": "AI가 제작한 콘텐츠의 저작권 분쟁에 대한 법적 논의가 필요하며, 이는 향후 관련 법규 제정에 영향을 미칠 수 있음.",
+      "importanceRationale": "근거: AI 제작 콘텐츠의 저작권 문제는 새로운 법적 쟁점을 야기하며, 이에 대한 사회적 논의와 입법적 해결이 시급함. 국회에서 관련 토론회가 개최된 것은 정책 결정에 중요한 영향을 미칠 수 있음을 시사함.",
       "impactSignals": [],
-      "dedupeKey": "AI저작권분쟁입법토론회국회",
+      "dedupeKey": "AI 저작권 분쟁 입법 토론회 국회 개최",
       "clusterKey": "국회서",
       "matchedTo": null,
       "sourceName": "한겨레",
@@ -276,23 +309,56 @@
       "importance": 2,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 내용이 일치하며, 핵심 내용을 잘 요약했습니다. / 근거부족",
+      "qualityReason": "기사 제목과 내용이 일치하며, 핵심 내용을 잘 요약함. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-02-21_11",
+      "id": "2026-02-21_12",
+      "date": "2026-02-21",
+      "category": "경제",
+      "title": "실적 속보: Opendoor, 주택 판매 증가로 급등, Live Nation, 더 많은 팬들이 공연장으로 향하며 급등",
+      "summary": [
+        "Opendoor는 주택 판매 증가로 주가가 급등했다.",
+        "Live Nation은 더 많은 팬들이 공연장을 찾으면서 주가가 상승했다."
+      ],
+      "whyImportant": "Opendoor와 Live Nation의 주가 변동은 각각 주택 시장과 엔터테인먼트 산업의 현재 추세를 반영한다.",
+      "importanceRationale": "근거: Opendoor의 주가 급등은 주택 시장의 회복세를, Live Nation의 주가 상승은 엔터테인먼트 수요 증가를 시사한다.",
+      "impactSignals": [
+        {
+          "label": "market-demand",
+          "evidence": "home sales upswing, more fans head to shows"
+        }
+      ],
+      "dedupeKey": "earnings-20240129-0001",
+      "clusterKey": "home",
+      "matchedTo": null,
+      "sourceName": "Yahoo Finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQU3dMdzdYMWsxT3I5RlJNcHJqQVhZMlo5c092a0JlZnIyQzkwb3ZRUEl0b1dkak9FQkNGMy00T211QlJaYlBBdFNrRnRZTFc0aEphUndVUVZLZnFLbnRpeTZ3RzNzNjZSdmU0Z0NFVW5oZHVBc1RwWERHTDE4UVNDdVNZS2M2dm5xOTZVS2NNNEh0bWRqTXJwOFRDamhhSmF6UUFqUVcwT05pbGJZV3NuTkRPVGp5OXRZNTJUYmR5dERiVnZBS0RrZ2VkTXpDMGN6X3Jlc01R?oc=5",
+      "publishedAt": "2026-02-20T14:43:59.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 3.5,
+      "importanceRaw": 63,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 텍스트이 일치하며, 정보가 명확하게 제시됨.",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-02-21_13",
       "date": "2026-02-21",
       "category": "기술",
       "title": "인공지능: 기자가 챗GPT와 구글 제미나이를 20분 만에 해킹했다고 밝혀",
       "summary": [
-        "BBC 기자가 챗GPT와 구글 제미나이를 20분 만에 해킹했다고 보도했습니다.",
-        "기자는 직접 AI 해킹을 시도했습니다."
+        "BBC 기자가 챗GPT와 구글 제미나이를 20분 만에 해킹했다고 보도했다.",
+        "기자는 직접 AI 해킹을 시도했다.",
+        "해킹 성공 여부에 대한 자세한 내용은 기사에 담겨있다."
       ],
-      "whyImportant": "AI 모델의 보안 취약점을 보여주는 사례입니다.",
-      "importanceRationale": "근거: BBC 기자가 직접 챗GPT와 구글 제미나이를 해킹하는 데 성공했다는 사실은 AI 시스템의 보안 문제에 대한 우려를 제기합니다.",
+      "whyImportant": "AI 시스템의 보안 취약점을 보여주는 사례입니다.",
+      "importanceRationale": "근거: BBC 기자가 직접 챗GPT와 구글 제미나이를 해킹하는 데 성공했다는 내용은 AI 시스템의 보안 문제에 대한 우려를 제기하며, 잠재적인 위험성을 시사합니다.",
       "impactSignals": [],
-      "dedupeKey": "ai_hacking_bbc_20240129",
+      "dedupeKey": "ai_hacking_bbc_20240126",
       "clusterKey": "ai/20분",
       "matchedTo": null,
       "sourceName": "BBC",
@@ -303,114 +369,108 @@
       "importance": 2,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "기사의 내용이 명확하고 간결하게 작성되었습니다. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-02-21_12",
-      "date": "2026-02-21",
-      "category": "산업",
-      "title": "트럼프, 백악관에서 럼과 회동…미국, 수출 통제 명단 제외 지시",
-      "summary": [
-        "트럼프 대통령이 백악관에서 럼과 회동했다.",
-        "미국은 수출 통제 명단에서 제외하도록 지시할 예정이다."
-      ],
-      "whyImportant": "미국이 수출 통제 명단에서 제외를 지시함으로써, 해당 국가와의 무역 관계에 긍정적인 영향을 미칠 수 있다.",
-      "importanceRationale": "근거: 미국이 특정 국가를 수출 통제 명단에서 제외하겠다는 것은 양국 관계 개선의 신호로 해석될 수 있으며, 경제 및 정치적 의미를 내포한다.",
-      "impactSignals": [],
-      "dedupeKey": "trump-meeting-export-control",
-      "clusterKey": "명단",
-      "matchedTo": null,
-      "sourceName": "아세안데일리 뉴스",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMickFVX3lxTE9Cbjd3em1sb0F5RU1ERXdweWItLXYwczdOX0p6Y3FvMk9SMnFKLW13eDlSQzUyWThJZ1RrdUIwN080a3RCc1FOZWxiNEZBLXg2WlZUZVNPVF8tVl8xVUNaUnRxMnpVZUEtYkZyRC0xN3U4UQ?oc=5",
-      "publishedAt": "2026-02-21T02:03:35.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 63,
-      "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 간결하게 요약되어 있음. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": true
-    },
-    {
-      "id": "2026-02-21_13",
-      "date": "2026-02-21",
-      "category": "국제",
-      "title": "[테크] 엔비디아, 오픈AI에 300억 달러 투자 협상 중…작년 1,000억 달러 딜 대신",
-      "summary": [
-        "엔비디아가 오픈AI에 300억 달러를 투자하는 협상을 진행 중입니다.",
-        "이는 작년에 논의되었던 1,000억 달러 규모의 거래를 대체하는 것입니다."
-      ],
-      "whyImportant": "엔비디아의 오픈AI 투자는 AI 기술 개발 및 시장 경쟁에 중요한 영향을 미칠 수 있습니다.",
-      "importanceRationale": "근거: 엔비디아의 대규모 투자는 오픈AI의 기술 개발 속도를 가속화하고, AI 시장에서의 경쟁 우위를 확보하는 데 기여할 수 있기 때문입니다.",
-      "impactSignals": [
-        {
-          "label": "policy",
-          "evidence": "엔비디아의 투자는 AI 기술 개발 정책 및 규제 환경에 영향을 줄 수 있습니다."
-        }
-      ],
-      "dedupeKey": "nvidia-openai-30b-deal",
-      "clusterKey": "300억",
-      "matchedTo": null,
-      "sourceName": "굿모닝베트남미디어",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9fUFN2NnZmYklDMng3ZERRVEF1ZEN6ZEpFcVhRaEhVZ0VfZy1vUFM0Z2kzR2F0TmdmMmpJN1VqU2dGZkluZ1AtVHlXZHhaOXhsUnAtNmN6U3JuUUF0eEI1NXV6Rml1VVhOUm9QbDVYcy0?oc=5",
-      "publishedAt": "2026-02-21T01:46:40.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 4,
-      "importanceRaw": 75,
-      "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 내용이 일치하며, 간결하게 요약되어 있습니다.",
+      "qualityReason": "BBC 뉴스 기사로서 정보의 신뢰성이 높다고 판단됨. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-02-21_14",
       "date": "2026-02-21",
-      "category": "기술",
-      "title": "FT \"아마존, AI 오류로 클라우드 장애 발생\"…아마존 \"직원 실수\"",
+      "category": "국제",
+      "title": "어드반테스트, 사이버 보안 사고 확인 및 랜섬웨어 배포 가능성 조사",
       "summary": [
-        "파이낸셜 타임즈(FT)는 아마존의 인공지능(AI) 오류로 인해 클라우드 장애가 발생했다고 보도했습니다.",
-        "아마존 측은 이에 대해 \"직원의 실수\"라고 해명했습니다."
+        "어드반테스트가 사이버 보안 사고를 확인하고 랜섬웨어 배포 가능성을 조사 중이다.",
+        "SC 미디어에 따르면 이번 사건은 어드반테스트의 보안 시스템에 대한 심각한 위협으로 간주된다."
       ],
-      "whyImportant": "아마존 클라우드 서비스의 안정성에 대한 우려를 제기합니다.",
-      "importanceRationale": "근거: 아마존의 클라우드 서비스는 전 세계적으로 널리 사용되고 있으며, 장애 발생 시 광범위한 영향이 발생할 수 있습니다.",
-      "impactSignals": [
-        {
-          "label": "infra",
-          "evidence": "클라우드 장애는 아마존의 IT 인프라에 직접적인 영향을 미칩니다."
-        }
-      ],
-      "dedupeKey": "amazon-ai-cloud-error",
-      "clusterKey": "클라우드/kbs",
+      "whyImportant": "어드반테스트의 사이버 보안 사고는 반도체 산업 전반에 영향을 미칠 수 있는 중요한 사안이다.",
+      "importanceRationale": "근거: 어드반테스트는 주요 반도체 테스트 장비 공급업체이며, 보안 침해는 고객 정보 유출 및 사업 운영 중단으로 이어질 수 있다.",
+      "impactSignals": [],
+      "dedupeKey": "advantest-cybersecurity-20240123",
+      "clusterKey": "advantest",
       "matchedTo": null,
-      "sourceName": "KBS 뉴스",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAzekNlSzM4TnkzSE16dXJ3a25YMDdrLUFJVkw3TzFjdUppbVppLW5RTTdHVG5mamMyMDZEWFAxRDJhczVTRmFYR0xZN3UxemhRUFJOazJBelJ0VTg?oc=5",
-      "publishedAt": "2026-02-20T23:48:00.000Z",
+      "sourceName": "SC Media",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQS09udGE0S2NreXJmLVZhSXFqUFZWZ3BLWFI2VzEzREtPZ3RQREtNOFk0eUJ3Sk5GcmJiVlZJaVQ1ZENhdWVlLXZSOXd1dG5uMGQ3Ylk1TldOQUdBQ2IwenN1RlVoTUFiYzY1YUg2ZHRmdEhGWkhZUlBQYkJuTkhhMnA5NTJGMjNNNFAzLXBwM3lWMjd3NVR6NmVtS1FfcHlCdnFfZ2R3NGozTkZLOHhqV1Y1OERFNHM?oc=5",
+      "publishedAt": "2026-02-20T20:09:13.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 3.5,
-      "importanceRaw": 63,
+      "importance": 2,
+      "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 내용이 간결하고 명확합니다.",
+      "qualityReason": "기사 내용이 명확하고 간결하며, 핵심 정보를 잘 전달하고 있다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-02-21_15",
       "date": "2026-02-21",
-      "category": "정책",
-      "title": "정부, ASF 돼지 혈액 사료 공급망 유입 추정 및 사용 중지 권고",
+      "category": "기술",
+      "title": "AI 코딩 어시스턴트 스킬 자동 실행 취약점 탐지로 자격 증명 탈취 및 원격 코드 실행 차단",
       "summary": [
-        "정부는 아프리카돼지열병(ASF)이 돼지 혈액 사료 공급망을 통해 유입된 것으로 추정하고 있습니다.",
-        "이에 따라 정부는 해당 사료의 사용 중지를 권고했습니다."
+        "AI 코딩 어시스턴트 스킬의 자동 실행 취약점을 탐지하여 자격 증명 탈취 및 원격 코드 실행을 차단합니다.",
+        "지티티코리아에서 해당 취약점을 발견했습니다."
+      ],
+      "whyImportant": "AI 코딩 어시스턴트의 보안 취약점은 개발 환경에 심각한 위협을 초래할 수 있습니다.",
+      "importanceRationale": "근거: AI 코딩 어시스턴트의 취약점을 통해 자격 증명 탈취 및 원격 코드 실행이 가능하다는 것은 시스템 보안에 직접적인 위험을 의미합니다.",
+      "impactSignals": [],
+      "dedupeKey": "AI_코딩_어시스턴트_취약점_보안",
+      "clusterKey": "스킬",
+      "matchedTo": null,
+      "sourceName": "지티티코리아",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB4S25WWUJPemJ3LVVFNmp5dGpLbGxYZFJSTGwxQURvQ3R5WWVaai1XUUZXa01rTDN3d1dpWHhHXzR6ZG83WnRZaFVrcklXcEIwMHZFbVN3ZWxrbjJMbzRBNlhMb29JRWZpWkE?oc=5",
+      "publishedAt": "2026-02-20T15:40:00.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 75,
+      "qualityLabel": "ok",
+      "qualityReason": "기사 제목과 내용이 일치하며, 요약이 명확합니다. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-02-21_16",
+      "date": "2026-02-21",
+      "category": "정책",
+      "title": "AI 기본법 시행 후, 콘텐츠 산업 저작권 책임 기준, 국회서 해법 모색",
+      "summary": [
+        "AI 기본법 시행 이후 콘텐츠 산업의 저작권 책임 기준에 대한 해법을 국회에서 모색한다.",
+        "이는 AI 시대에 콘텐츠 산업의 저작권 보호에 대한 중요한 논의를 시사한다."
+      ],
+      "whyImportant": "AI 기본법 시행에 따른 콘텐츠 산업의 저작권 책임 기준 논의는 산업 발전과 권리 보호의 균형점을 찾는 데 중요합니다.",
+      "importanceRationale": "근거: AI 기본법 시행으로 인해 발생하는 콘텐츠 산업의 저작권 관련 문제 해결을 위한 국회의 노력이 필요하며, 이는 관련 산업에 직접적인 영향을 미칠 수 있습니다.",
+      "impactSignals": [
+        {
+          "label": "policy",
+          "evidence": "AI 기본법 시행에 따른 저작권 책임 기준 논의"
+        }
+      ],
+      "dedupeKey": "AI기본법_콘텐츠저작권_국회해법",
+      "clusterKey": "기본법",
+      "matchedTo": null,
+      "sourceName": "내외뉴스통신",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9rYmV6TEdqUklWNVJpWXlSSU15UVJNdGxwV1pOT253MmtOMzVoNnJXUkxLQ3BEWkpxMGZIN3hGdEh2VU5FRDdEemluVnJjMXdzMDM0VXFVRFhIak0zS2d0aTRNaTJkYi1HRDZsMdIBcEFVX3lxTE1LRUhZY2V0eUgzbG84ZEU0QVN3UkNhOFo2NVB3dVY0NUVwc3QyOTJtRGZxVnFhbHZkNVBobnJTX1ppWlZqSHprSUlTcnZTb0JUeEtfbE1veTEwLWllM2FRVEFzUDNoVDZDcHAyVWRHLUw?oc=5",
+      "publishedAt": "2026-02-20T08:15:42.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 4,
+      "importanceRaw": 75,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 핵심 내용을 전달합니다.",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-02-21_17",
+      "date": "2026-02-21",
+      "category": "정책",
+      "title": "정부, ASF 돼지 혈액 사료 공급망 유입 추정… 사용 중지 권고",
+      "summary": [
+        "정부가 아프리카돼지열병(ASF)이 돼지 혈액 사료 공급망을 통해 유입된 것으로 추정하고 사용 중지를 권고했습니다."
       ],
       "whyImportant": "ASF 확산 방지를 위한 정부의 긴급 조치입니다.",
-      "importanceRationale": "근거: ASF가 사료 공급망을 통해 확산될 수 있다는 판단 하에 정부가 선제적으로 사용 중지 권고를 내렸기 때문입니다.",
+      "importanceRationale": "근거: ASF가 사료 공급망을 통해 확산될 수 있다는 우려에 따라 정부가 즉각적인 사용 중지 권고를 내렸기 때문입니다.",
       "impactSignals": [],
-      "dedupeKey": "ASF_feed_ban",
+      "dedupeKey": "ASF 사료 공급망 유입 추정",
       "clusterKey": "asf",
       "matchedTo": null,
       "sourceName": "돼지와사람",
@@ -421,12 +481,12 @@
       "importance": 2,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 내용이 간결하고 명확합니다. / 근거부족",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 핵심 내용을 전달합니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-02-21_16",
+      "id": "2026-02-21_18",
       "date": "2026-02-21",
       "category": "국제",
       "title": "오라클 클라우드 침해: 알아야 할 사항",
@@ -435,9 +495,9 @@
         "자세한 내용은 thedetroitbureau.com에서 확인할 수 있습니다."
       ],
       "whyImportant": "오라클 클라우드 보안 침해에 대한 정보",
-      "importanceRationale": "근거: 오라클 클라우드에서 보안 침해가 발생했다는 사실은 사용자 데이터 보안에 대한 우려를 야기하며, 기업 및 개인에게 중요한 영향을 미칠 수 있습니다.",
+      "importanceRationale": "근거: 오라클 클라우드에서 보안 침해가 발생했다는 사실은 사용자 데이터 보안에 대한 우려를 야기하며, 기업의 신뢰도에 영향을 미칠 수 있기 때문입니다.",
       "impactSignals": [],
-      "dedupeKey": "oracle_cloud_breach_20240110",
+      "dedupeKey": "oracle_cloud_breach_20240130",
       "clusterKey": "클라우드/breach",
       "matchedTo": null,
       "sourceName": "thedetroitbureau.com",
@@ -453,7 +513,7 @@
       "isBreaking": false
     },
     {
-      "id": "2026-02-21_17",
+      "id": "2026-02-21_19",
       "date": "2026-02-21",
       "category": "정책",
       "title": "사할린 동포 지원 특별법 개정안 국회 통과",
@@ -479,88 +539,29 @@
       "isBreaking": false
     },
     {
-      "id": "2026-02-21_18",
-      "date": "2026-02-21",
-      "category": "경제",
-      "title": "일리노이주 데이터 센터를 둘러싼 논쟁: 소비자 비용 대 주 경쟁력",
-      "summary": [
-        "일리노이주에서 데이터 센터를 둘러싸고 소비자 비용과 주 경쟁력 간의 논쟁이 벌어지고 있다.",
-        "데이터 센터 건설 및 운영에 대한 세금 혜택이 소비자에게 미치는 영향에 대한 우려가 제기되고 있다.",
-        "한편, 데이터 센터 유치를 통한 주 경쟁력 강화의 필요성 또한 강조되고 있다."
-      ],
-      "whyImportant": "데이터 센터 관련 정책 결정에 중요한 영향을 미칠 수 있다.",
-      "importanceRationale": "근거: 데이터 센터의 경제적 효과와 소비자 부담 간의 균형점을 찾는 것은 정책 결정에 중요한 고려 사항이다.",
-      "impactSignals": [],
-      "dedupeKey": "battle-over-data-centers-in-illinois-pits-consumer-costs-vs-state-competitiveness",
-      "clusterKey": "battle",
-      "matchedTo": null,
-      "sourceName": "Capitol City Now",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPczNZZEJNZ3VoMFJETmN1ZnJrVWE4U28xZTMxUHlVb2V3ZFJibzZCcE4xU1FzWnNwb2dFX3F6cWdtY2xPQnpObEMwQnJidE9SbThqVTE3clo4SEhCYWVxRVM2aGxDUDllQjdnaTFxNWhDWnNGUFBQdEZaSGF6STFET2d1OHJOWU1QeERmT2E4cnRtdG1jT2ZZVVJOSXlkQ2FoSmYzb1RQMHFLS1lGeWhtT0tMT2ZxMXFWNi1ZbndB?oc=5",
-      "publishedAt": "2026-02-20T19:02:11.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 63,
-      "qualityLabel": "ok",
-      "qualityReason": "기사 내용이 명확하고 간결하게 요약되어 있음. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-02-21_19",
-      "date": "2026-02-21",
-      "category": "경제",
-      "title": "'19만 전자' 기록, 증권가의 놀라운 전망",
-      "summary": [
-        "주가가 파죽지세로 상승하며 '19만 전자'를 기록했다.",
-        "증권가에서 놀라운 전망이 나오고 있다."
-      ],
-      "whyImportant": "주가 상승과 증권가의 전망은 투자자들에게 중요한 정보이다.",
-      "importanceRationale": "근거: 주가 변동은 투자 결정에 직접적인 영향을 미치며, 증권가의 전망은 시장의 흐름을 예측하는 데 참고 자료가 된다.",
-      "impactSignals": [],
-      "dedupeKey": "'19만 전자' 기록, 증권가의 놀라운 전망",
-      "clusterKey": "19만전자",
-      "matchedTo": null,
-      "sourceName": "한국경제",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1JN2F6djZkQm5TQXU1N08wenNzOHlpWHBxZ3J0YlZscEROZzNfVFlQbm9raVIwQjVBLVUxMjJBVndudXNmdnpMQmtuR1c2M3llQ2tCN0NZVExZd9IBVEFVX3lxTFB6Z19RQzZ5N2ZzRVNOQVhEeTFXd0dvbzNxMHFiS1kwX0pzN0hsZU1sTHBpYlZmaTJHdHVFN19UVDhrY2NFSFdnU0kyWmp5bnZ4UE56Zw?oc=5",
-      "publishedAt": "2026-02-19T08:29:54.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 63,
-      "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었다. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
       "id": "2026-02-21_20",
       "date": "2026-02-21",
-      "category": "경제",
-      "title": "텍사스, 2030년까지 세계 데이터 센터 수도가 될 수 있어",
+      "category": "기술",
+      "title": "[기술] 엔비디아, 오픈AI에 300억 달러 투자 협상 중…작년 1,000억 달러 규모의 거래 대신",
       "summary": [
-        "텍사스가 2030년까지 세계 데이터 센터의 중심지가 될 가능성이 있다고 보도되었습니다."
+        "엔비디아가 오픈AI에 300억 달러를 투자하는 협상을 진행 중입니다.",
+        "이는 작년에 논의되었던 1,000억 달러 규모의 거래를 대체하는 것입니다."
       ],
-      "whyImportant": "텍사스가 데이터 센터의 주요 허브로 부상할 가능성이 있습니다.",
-      "importanceRationale": "근거: 텍사스가 2030년까지 세계 데이터 센터 수도가 될 수 있다는 점을 언급했습니다.",
-      "impactSignals": [
-        {
-          "label": "capex",
-          "evidence": "데이터 센터 건설 및 확장은 상당한 자본 지출을 필요로 합니다."
-        }
-      ],
-      "dedupeKey": "texas-data-center-2030",
-      "clusterKey": "금융/capital",
+      "whyImportant": "엔비디아의 투자는 오픈AI의 기술 개발 및 시장 확장에 중요한 영향을 미칠 수 있습니다.",
+      "importanceRationale": "근거: 엔비디아의 대규모 투자는 오픈AI의 자금 확보를 용이하게 하고, AI 기술 경쟁에서 우위를 점하는 데 기여할 수 있기 때문입니다.",
+      "impactSignals": [],
+      "dedupeKey": "nvidia-openai-30b-deal",
+      "clusterKey": "300억",
       "matchedTo": null,
-      "sourceName": "qz.com",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE51LXJhbU1PaDNndWlrMEdvY0hNX3BzenNkejZSdmJmUUoyMmZuSTVlTEY2RkxKQm5OY2NlNzVmVXE5MloyOXkzVnVpNV9lMHB4UFZ6ZS1SY24wek9XdG9NemUtY0Rac29VT1hVYWQ5ZDhBa1k?oc=5",
-      "publishedAt": "2026-02-20T18:13:06.000Z",
+      "sourceName": "굿모닝베트남미디어",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9fUFN2NnZmYklDMng3ZERRVEF1ZEN6ZEpFcVhRaEhVZ0VfZy1vUFM0Z2kzR2F0TmdmMmpJN1VqU2dGZkluZ1AtVHlXZHhaOXhsUnAtNmN6U3JuUUF0eEI1NXV6Rml1VVhOUm9QbDVYcy0?oc=5",
+      "publishedAt": "2026-02-21T01:46:40.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 3,
-      "importanceRaw": 50,
+      "importance": 2,
+      "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "The article is short but makes a clear statement.",
+      "qualityReason": "기사 제목과 내용이 일치하며, 핵심 정보를 간결하게 전달합니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     }
