@@ -5,35 +5,35 @@
   "totalOut": 20,
   "dropped": 265,
   "dropReasons": {
-    "carry_over_duplicate": 29,
-    "outdated": 98,
-    "hard_excluded_keyword": 8,
-    "duplicate_dedupe_key": 4,
+    "carry_over_duplicate": 28,
+    "outdated": 101,
+    "hard_excluded_keyword": 6,
+    "duplicate_dedupe_key": 5,
     "duplicate_title": 1,
     "excluded_keyword": 1,
-    "not_selected": 124
+    "not_selected": 123
   },
   "impactLabels": {
     "policy": 2,
     "capex": 3
   },
   "sources": {
-    "Data Center Dynamics": 1,
-    "YTN": 1,
-    "매일일보": 1,
     "더퍼블릭": 1,
+    "YTN": 1,
+    "Data Center Dynamics": 1,
     "Flexport": 1,
     "한국경제": 2,
     "연합뉴스 한민족센터": 2,
     "아세안데일리 뉴스": 1,
+    "돼지와사람": 1,
     "Seeking Alpha": 1,
     "BBC": 1,
     "세계한인신문": 1,
-    "굿모닝베트남미디어": 1,
-    "Lawfare": 1,
+    "KBS 뉴스": 1,
+    "지티티코리아": 1,
     "내외뉴스통신": 1,
-    "돼지와사람": 1,
     "한겨레": 1,
+    "Heatmap News": 1,
     "Capitol City Now": 1,
     "qz.com": 1
   },
@@ -50,8 +50,8 @@
     },
     "글로벌_정세": {
       "in": 24,
-      "out": 5,
-      "dropped": 19
+      "out": 4,
+      "dropped": 20
     },
     "글로벌_빅테크": {
       "in": 18,
@@ -80,8 +80,8 @@
     },
     "보안_취약점_패치": {
       "in": 20,
-      "out": 1,
-      "dropped": 19
+      "out": 2,
+      "dropped": 18
     },
     "투자_MA_IPO": {
       "in": 20,
@@ -111,8 +111,7 @@
   },
   "sourceDropReasons": {
     "지티티코리아": {
-      "carry_over_duplicate": 2,
-      "not_selected": 2
+      "carry_over_duplicate": 2
     },
     "mstoday.co.kr": {
       "carry_over_duplicate": 1
@@ -161,25 +160,21 @@
     "Cornell Chronicle": {
       "outdated": 1
     },
-    "Davis Wright Tremaine": {
+    "E&E News by POLITICO": {
       "outdated": 1
     },
-    "E&E News by POLITICO": {
+    "Davis Wright Tremaine": {
       "outdated": 1
     },
     "청년일보": {
       "outdated": 1
     },
     "ebn.co.kr": {
-      "outdated": 3
+      "outdated": 2
     },
     "프리미엄콘텐츠": {
       "outdated": 1,
       "excluded_keyword": 1
-    },
-    "Investing.com 한국어": {
-      "hard_excluded_keyword": 1,
-      "not_selected": 3
     },
     "한스경제": {
       "outdated": 1
@@ -197,6 +192,9 @@
     "포인트데일리": {
       "outdated": 1
     },
+    "edaily.co.kr": {
+      "outdated": 1
+    },
     "브런치": {
       "outdated": 1
     },
@@ -206,20 +204,28 @@
     "CEO스코어데일리": {
       "outdated": 1
     },
-    "마켓인": {
-      "outdated": 4,
-      "not_selected": 6
+    "청년의사": {
+      "outdated": 1
+    },
+    "한겨레": {
+      "outdated": 1
     },
     "CryptoRank": {
       "carry_over_duplicate": 1
     },
+    "Federal Reserve Bank of Dallas": {
+      "outdated": 1
+    },
     "WWF EU": {
-      "outdated": 2
+      "outdated": 1
     },
     "Reuters": {
-      "outdated": 3,
+      "outdated": 2,
       "carry_over_duplicate": 1,
       "not_selected": 2
+    },
+    "Boston University": {
+      "outdated": 1
     },
     "MSCI": {
       "outdated": 1
@@ -227,18 +233,11 @@
     "Institute for Energy Economics and Financial Analysis (IEEFA)": {
       "outdated": 1
     },
-    "FinancialContent": {
-      "hard_excluded_keyword": 1,
-      "not_selected": 1
-    },
     "ASEAN Centre for Energy (ACE)": {
       "outdated": 1
     },
     "The World Economic Forum": {
       "hard_excluded_keyword": 1
-    },
-    "RMI": {
-      "outdated": 1
     },
     "Discovery Alert": {
       "outdated": 1
@@ -246,18 +245,26 @@
     "Bank for International Settlements": {
       "outdated": 1
     },
-    "Federal Reserve Bank of Dallas": {
-      "outdated": 1
-    },
     "ABN AMRO": {
       "outdated": 1
     },
-    "매일일보": {
-      "duplicate_dedupe_key": 1,
+    "European Central Bank": {
       "outdated": 1
+    },
+    "Freeman Spogli Institute for International Studies | FSI": {
+      "outdated": 1
+    },
+    "kansascityfed.org": {
+      "outdated": 1
+    },
+    "매일일보": {
+      "duplicate_dedupe_key": 1
     },
     "KPMG": {
       "outdated": 1
+    },
+    "한국무역협회-KITA.NET": {
+      "outdated": 4
     },
     "SBS Biz": {
       "carry_over_duplicate": 1
@@ -278,9 +285,6 @@
       "carry_over_duplicate": 1,
       "not_selected": 1
     },
-    "Morningstar": {
-      "carry_over_duplicate": 1
-    },
     "연합인포맥스": {
       "outdated": 5,
       "duplicate_dedupe_key": 1,
@@ -298,16 +302,13 @@
     "Council on Foreign Relations": {
       "outdated": 1
     },
-    "House.gov": {
-      "outdated": 1
-    },
     "War on the Rocks": {
       "outdated": 1
     },
-    "Center for a New American Security": {
+    "Congressman Michael McCaul (.gov)": {
       "outdated": 1
     },
-    "The Foundation for American Innovation": {
+    "Center for a New American Security": {
       "outdated": 1
     },
     "globaltradeandsanctionslaw.com": {
@@ -317,11 +318,14 @@
       "outdated": 1,
       "not_selected": 1
     },
+    "Morgan Lewis": {
+      "outdated": 1
+    },
     "더버터": {
       "duplicate_title": 1
     },
-    "인베스트조선": {
-      "outdated": 1
+    "중소기업신문": {
+      "duplicate_dedupe_key": 1
     },
     "The Washington Post": {
       "carry_over_duplicate": 1
@@ -333,9 +337,6 @@
       "carry_over_duplicate": 1
     },
     "ABC30 Fresno": {
-      "carry_over_duplicate": 1
-    },
-    "ABC7 New York": {
       "carry_over_duplicate": 1
     },
     "아주경제": {
@@ -350,11 +351,14 @@
     "Investing News Network": {
       "carry_over_duplicate": 1
     },
+    "HPCwire": {
+      "carry_over_duplicate": 1
+    },
     "promarket.org": {
       "outdated": 1
     },
-    "HPCwire": {
-      "carry_over_duplicate": 1
+    "JD Supra": {
+      "outdated": 1
     },
     "Tech Xplore": {
       "outdated": 1
@@ -365,7 +369,7 @@
     "Tech Policy Press": {
       "outdated": 1
     },
-    "U.S. Senate (.gov)": {
+    "SOC Prime": {
       "outdated": 1
     },
     "톱데일리": {
@@ -395,6 +399,9 @@
     "Baker Donelson": {
       "hard_excluded_keyword": 1
     },
+    "beSUCCESS": {
+      "carry_over_duplicate": 1
+    },
     "Yahoo Finance": {
       "carry_over_duplicate": 1
     },
@@ -416,9 +423,6 @@
     "포인트경제": {
       "outdated": 1
     },
-    "한국무역협회-KITA.NET": {
-      "outdated": 3
-    },
     "철강금속신문": {
       "outdated": 1,
       "hard_excluded_keyword": 1
@@ -429,13 +433,21 @@
     "토요경제": {
       "outdated": 1
     },
-    "AD Shofar": {
-      "outdated": 1
+    "마켓인": {
+      "outdated": 3,
+      "not_selected": 6
     },
     "스트레이트뉴스": {
       "outdated": 1
     },
     "매거진한경": {
+      "outdated": 1
+    },
+    "이로운넷": {
+      "outdated": 1,
+      "not_selected": 3
+    },
+    "시사매거진": {
       "outdated": 1
     },
     "이코노믹데일리": {
@@ -465,6 +477,9 @@
     "itworld.co.kr": {
       "outdated": 1
     },
+    "FinancialContent": {
+      "not_selected": 1
+    },
     "AI Magazine": {
       "not_selected": 1
     },
@@ -472,13 +487,10 @@
       "not_selected": 2
     },
     "Vietnam.vn": {
-      "not_selected": 4
+      "not_selected": 3
     },
     "constellationenergy.com": {
       "not_selected": 2
-    },
-    "Associated Press News": {
-      "not_selected": 1
     },
     "Benedict Evans": {
       "not_selected": 1
@@ -486,13 +498,19 @@
     "blog.google": {
       "not_selected": 1
     },
+    "Associated Press News": {
+      "not_selected": 1
+    },
+    "굿모닝베트남미디어": {
+      "not_selected": 2
+    },
     "뉴스1": {
       "not_selected": 3
     },
     "약업신문": {
       "not_selected": 2
     },
-    "이로운넷": {
+    "Investing.com 한국어": {
       "not_selected": 3
     },
     "MarketBeat": {
@@ -504,7 +522,7 @@
     "한국방송뉴스": {
       "not_selected": 2
     },
-    "Heatmap News": {
+    "Alabama Reflector": {
       "not_selected": 1
     },
     "SC Media": {
@@ -536,22 +554,20 @@
     "selectedShare": 0.05
   },
   "categories": {
-    "에너지": 2,
+    "기술": 5,
     "경제": 5,
-    "기술": 3,
-    "국제": 5,
-    "산업": 1,
-    "정책": 4
+    "정책": 5,
+    "국제": 5
   },
   "importanceDistribution": {
     "2": 15,
-    "3": 1,
-    "4": 1,
-    "3.5": 3
+    "3": 2,
+    "4": 2,
+    "3.5": 1
   },
   "topDiversity": {
     "uniqueSources": 18,
-    "uniqueCategories": 6,
+    "uniqueCategories": 4,
     "maxPerSource": 2
   }
 }
