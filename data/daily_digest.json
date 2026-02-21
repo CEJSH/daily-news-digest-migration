@@ -3,7 +3,7 @@
   "selectionCriteria": "① 내일도 영향이 남는 이슈 ② 과도한 감정 소모 제외 ③ 어제와 중복되는 뉴스 제외",
   "editorNote": "이 뉴스는 클릭 수가 아니라 오늘 이후에도 남는 정보만 기준으로 편집했습니다.",
   "question": "정보를 덜 보는 것이 오히려 더 똑똑한 소비일까?",
-  "lastUpdatedAt": "2026-02-22T04:22:46.832+09:00",
+  "lastUpdatedAt": "2026-02-22T05:21:48.924+09:00",
   "items": [
     {
       "id": "2026-02-22_1",
@@ -15,9 +15,14 @@
         "미국은 세계 데이터 센터의 45%를 차지하고 있어 에너지 소비가 높다.",
         "에너지 정책과 관련된 유권자들의 불만이 고조되고 있다."
       ],
-      "whyImportant": "미국의 에너지 정책과 관련된 유권자들의 불만을 보여주는 기사입니다.",
-      "importanceRationale": "근거: 높은 공공요금과 기록적인 에너지 생산량에도 불구하고 유권자들의 불만이 존재하며, 이는 에너지 정책에 대한 불만을 시사합니다. 또한 미국이 세계 데이터 센터의 상당 부분을 차지하고 있다는 점은 에너지 소비와 관련된 중요한 맥락을 제공합니다.",
-      "impactSignals": [],
+      "whyImportant": "미국의 에너지 정책 및 데이터 센터 집중 현황에 대한 이해를 제공합니다.",
+      "importanceRationale": "근거: 기사는 미국의 에너지 정책의 복잡성과 유권자들의 불만을 동시에 다루고 있으며, 데이터 센터의 높은 에너지 소비가 중요한 요소임을 지적한다.",
+      "impactSignals": [
+        {
+          "label": "capex",
+          "evidence": "세계 데이터 센터의 45%가 미국에 위치하여 에너지 인프라 투자와 관련이 있다."
+        }
+      ],
       "dedupeKey": "voter_fury_energy_paradox_data_centers",
       "clusterKey": "에너지/american",
       "matchedTo": null,
@@ -26,37 +31,38 @@
       "publishedAt": "2026-02-20T12:29:00.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 2,
+      "importance": 3.5,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "기사는 명확하고 간결하게 정보를 제공합니다. / 근거부족",
+      "qualityReason": "기사는 명확한 제목과 요약 정보를 제공하며, 에너지 정책과 관련된 중요한 이슈를 다룬다.",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-02-22_2",
       "date": "2026-02-22",
-      "category": "정책",
-      "title": "정부, 배전망에 ESS 85개 연결…분산형 전력망 본격 구축",
+      "category": "국제",
+      "title": "미국 관세 위법 판결에 대한 청와대의 트럼프 후속 조치 예의주시",
       "summary": [
-        "정부가 배전망에 에너지 저장 시스템(ESS) 85개를 연결하여 분산형 전력망 구축을 본격화한다.",
-        "이는 전력 공급의 안정성을 높이고 효율적인 에너지 관리를 가능하게 할 것으로 기대된다."
+        "청와대는 미국의 관세 부과에 대한 위법 판결 이후 트럼프 정부의 후속 조치를 예의주시하고 있다.",
+        "이번 판결은 국제 무역 질서에 중요한 영향을 미칠 수 있다.",
+        "한국 정부는 미국의 정책 변화에 따른 경제적 영향을 면밀히 분석할 예정이다."
       ],
-      "whyImportant": "분산형 전력망 구축을 통해 에너지 효율성을 높이고 전력 공급 안정성을 강화할 수 있기 때문입니다.",
-      "importanceRationale": "근거: 정부의 정책적 결정으로, 에너지 저장 시스템(ESS) 연결을 통해 분산형 전력망 구축이 본격화됨.",
+      "whyImportant": "미국의 관세 정책 변화는 한국 경제에 직접적인 영향을 미칠 수 있으므로 중요합니다.",
+      "importanceRationale": "근거: 미국의 관세 정책은 한국의 수출 및 경제 성장에 중요한 변수이며, 정책 변화는 기업의 투자 및 생산 전략에 영향을 미칠 수 있습니다.",
       "impactSignals": [],
-      "dedupeKey": "gov-ess-dist-grid-2024",
-      "clusterKey": "에너지/85개",
+      "dedupeKey": "미국 관세 위법 판결에 대한 청와대의 트럼프 후속 조치 예의주시",
+      "clusterKey": "예의주시",
       "matchedTo": null,
-      "sourceName": "매일일보",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Gd2YxWl9rLVctZnoxMkZPUFhmZE00NEk0ZlRmRGZFU2RISGhkX0w2S2E5SldzRXZELW13X2RzSm5weTF1OGkyTXhlUmp1RUh5UXM1Vk1ZWUtmcFJQZDFPYUtiMVo?oc=5",
-      "publishedAt": "2026-02-20T07:37:09.000Z",
+      "sourceName": "한국경제",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1XVHFrSmxCTU54WnJjQXVDcDR0ZV9US2d3aWdHdVBVdlNNTU9VamM1V0hZcFRhdTZLRHNyUG0yNEFKX1FwOUw4ek9YWTF6aEJUV1VBZk1WN0VQd9IBVEFVX3lxTE1VMGdkMnR0Y2VUZUs3VXNaV1BsTXhKd0hPNlJPenRudUlMQXVqOVlqaTJHdFc5bjZnbjhqaXcwTl9nWlhRNVJ6WFJ0LTBPUFlYZTZTYQ?oc=5",
+      "publishedAt": "2026-02-20T16:05:12.000Z",
       "readTimeSec": 10,
       "status": "kept",
       "importance": 2,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "기사 내용이 명확하고 정책적 중요성을 잘 설명함. / 근거부족",
+      "qualityReason": "제목과 내용이 일치하며, 핵심 내용을 잘 요약했습니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -66,13 +72,13 @@
       "category": "국제",
       "title": "'상호관세 위법' 판결에도 500조 대미 투자 재협상 어려울 듯",
       "summary": [
-        "미국에 대한 500조 규모의 투자 재협상이 어려울 것으로 예상됩니다.",
-        "최근 '상호관세 위법' 판결이 나왔음에도 불구하고 재협상 가능성은 낮게 점쳐지고 있습니다."
+        "상호 관세 위법 판결에도 불구하고 500조 원 규모의 대미 투자 재협상이 어려울 것으로 예상됩니다.",
+        "이는 연합뉴스 한민족센터의 보도 내용입니다."
       ],
-      "whyImportant": "미국 투자 조건 변경 가능성에 대한 전망을 제공합니다.",
-      "importanceRationale": "근거: 기사는 '상호관세 위법' 판결에도 불구하고 대규모 대미 투자 재협상이 어려울 것으로 예상되는 상황을 보도하고 있습니다. 이는 투자 및 무역 관계에 중요한 영향을 미칠 수 있습니다.",
+      "whyImportant": "미국과의 투자 관계에 대한 중요한 전환점이 될 수 있습니다.",
+      "importanceRationale": "근거: 500조 원 규모의 대미 투자 재협상 가능성이 낮다는 것은 양국 경제 관계에 상당한 영향을 미칠 수 있기 때문입니다.",
       "impactSignals": [],
-      "dedupeKey": "'상호관세 위법' 판결에도 500조 대미 투자 재협상 어려울 듯",
+      "dedupeKey": "상호관세 위법 판결에도 500조 대미 투자 재협상 어려울 듯",
       "clusterKey": "500조",
       "matchedTo": null,
       "sourceName": "연합뉴스 한민족센터",
@@ -83,61 +89,29 @@
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "기사는 명확한 제목과 요약 정보를 제공합니다. / 근거부족",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었습니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-02-22_4",
       "date": "2026-02-22",
-      "category": "국제",
-      "title": "CVE-2026-2441: 구글, 실제 공격에 사용된 크롬 제로데이 취약점 패치",
-      "summary": [
-        "구글이 실제 공격에 악용된 크롬 브라우저의 제로데이 취약점 CVE-2026-2441에 대한 패치를 발표했습니다.",
-        "이 취약점은 이미 실제 환경에서 악용되고 있었습니다."
-      ],
-      "whyImportant": "크롬 사용자들은 즉시 업데이트해야 합니다.",
-      "importanceRationale": "근거: 제로데이 취약점이 실제 공격에 사용되었으므로, 사용자 보안에 직접적인 위협이 됩니다.",
-      "impactSignals": [
-        {
-          "label": "security",
-          "evidence": "실제 공격에 악용된 크롬 제로데이 취약점"
-        }
-      ],
-      "dedupeKey": "CVE-2026-2441: 구글, 실제 공격에 사용된 크롬 제로데이 취약점 패치",
-      "clusterKey": "cve",
-      "matchedTo": null,
-      "sourceName": "SOC Prime",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9ud0Y4akUwNHdua09veTJ6emduOXRhbE44TUdJdl9waHJ2RnZzY0M0eU1mNU8wRWx3Y2RIa3V4dFhWTEVkWnBsMlpEZERNa1FMYl9wX3I5dFNOUVl1SFoxa2d6TWczTTVkaWZ4akl5R0U4eEw5NmJpbmtLVFE?oc=5",
-      "publishedAt": "2026-02-18T08:00:00.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 5,
-      "importanceRaw": 100,
-      "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 정보가 명확합니다.",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-02-22_5",
-      "date": "2026-02-22",
       "category": "경제",
-      "title": "실적 속보: Opendoor, 주택 판매 증가로 급등, Live Nation, 더 많은 팬들이 공연장으로 향하며 급등",
+      "title": "실적 속보: Opendoor, 주택 판매 증가로 급등, Live Nation, 더 많은 팬들이 쇼를 보러 가면서 급등",
       "summary": [
-        "Opendoor는 주택 판매 증가로 주가가 급등했다.",
-        "Live Nation은 더 많은 팬들이 공연장을 찾으면서 주가가 상승했다.",
-        "이는 실적 발표에 따른 시장 반응이다."
+        "Opendoor는 주택 판매 증가로 급등했다.",
+        "Live Nation은 더 많은 팬들이 쇼를 보러 가면서 상승했다.",
+        "이는 최근 실적 발표에 따른 시장 반응이다."
       ],
-      "whyImportant": "Opendoor와 Live Nation의 주가 변동은 해당 기업의 실적과 시장 수요를 반영하므로 투자자들에게 중요합니다.",
-      "importanceRationale": "근거: Opendoor의 주택 판매 증가와 Live Nation의 팬 증가가 주가 상승으로 이어졌다는 직접적인 정보가 제공되었기 때문입니다.",
+      "whyImportant": "Opendoor와 Live Nation의 주가 변동은 해당 기업의 실적과 시장 수요를 반영한다.",
+      "importanceRationale": "근거: Opendoor의 주택 판매 증가와 Live Nation의 팬 증가가 주가 상승으로 이어졌다는 직접적인 언급이 있다.",
       "impactSignals": [
         {
           "label": "market-demand",
           "evidence": "home sales upswing, more fans head to shows"
         }
       ],
-      "dedupeKey": "earnings-live-opendoor-livenation-07242024",
+      "dedupeKey": "earnings-20240130-001",
       "clusterKey": "home",
       "matchedTo": null,
       "sourceName": "Yahoo Finance",
@@ -148,7 +122,34 @@
       "importance": 3.5,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 텍스트가 일치하며, 정보가 명확합니다.",
+      "qualityReason": "The article directly reflects the title and provides basic information.",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-02-22_5",
+      "date": "2026-02-22",
+      "category": "기술",
+      "title": "아마존 AI 도구로 인해 13시간 AWS 중단 발생",
+      "summary": [
+        "아마존의 AI 도구로 인해 13시간 동안 AWS 서비스 중단이 발생했다는 보고가 나왔습니다.",
+        "이번 중단은 AWS 인프라에 영향을 미쳤습니다."
+      ],
+      "whyImportant": "AWS 서비스 중단은 광범위한 인터넷 서비스에 영향을 미칠 수 있습니다.",
+      "importanceRationale": "근거: AWS는 많은 기업과 서비스의 기반 인프라를 제공하므로, AWS 중단은 직접적인 서비스 중단으로 이어질 수 있습니다.",
+      "impactSignals": [],
+      "dedupeKey": "aws_outage_ai_tools",
+      "clusterKey": "클라우드/amazon",
+      "matchedTo": null,
+      "sourceName": "Engadget",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNa2MxcDZTa25vOEthT1JRaGFzVWVKclpBNmxZY2E3ZVkwQWdBVWQ1MlBYbFBtZWRxUzl5ZXZXM0ZDWk9ndjY2MDlWb3RySlJ2VndPZ1Jha19DcFhqOUMzTjlQZ2xPcVJDTnBfa3llTlk2ZUFHenZtS2xZOHNMTDBNZE1aWHlxclBZSkprN21FNzlxdENVeDlGY0xKSm1LVHpkbGIwZGhR?oc=5",
+      "publishedAt": "2026-02-21T16:58:50.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 75,
+      "qualityLabel": "ok",
+      "qualityReason": "기사 제목과 내용이 일치하며, 간결하게 요약되었습니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -158,18 +159,18 @@
       "category": "경제",
       "title": "“로봇이 곧 공장 경쟁력”…전통 제조 중소·중견 기업, ‘피지컬 AI’에 투자",
       "summary": [
-        "전통적인 제조 중소·중견 기업들이 공장 경쟁력 강화를 위해 '피지컬 AI'에 투자하고 있다.",
-        "이는 로봇 기술이 공장의 생산성을 향상시키는 데 중요한 역할을 하기 때문이다."
+        "전통 제조업의 중소·중견 기업들이 공장 경쟁력 강화를 위해 '피지컬 AI'에 투자하고 있다.",
+        "이는 로봇 기술이 공장의 생산성을 향상시키는 데 중요한 역할을 한다고 판단했기 때문이다."
       ],
-      "whyImportant": "제조업의 경쟁력 강화에 로봇 기술 투자가 미치는 영향력을 보여준다.",
-      "importanceRationale": "근거: 로봇 기술 투자가 제조업 경쟁력의 핵심 요소로 부상하고 있음을 시사한다.",
+      "whyImportant": "제조업의 경쟁력 강화에 로봇 기술 투자가 미치는 영향.",
+      "importanceRationale": "근거: 전통 제조업의 중소·중견 기업들이 생산성 향상을 위해 로봇 기술 투자를 확대하고 있다는 점은 제조업 경쟁력 강화에 중요한 시사점을 제공한다.",
       "impactSignals": [
         {
           "label": "capex",
-          "evidence": "전통 제조 중소·중견 기업이 '피지컬 AI'에 투자"
+          "evidence": "전통 제조 중소·중견 기업이 '피지컬 AI'에 투자하는 것은 자본 지출과 관련됨"
         }
       ],
-      "dedupeKey": "robot-factory-competitiveness-physical-ai",
+      "dedupeKey": "로봇,공장경쟁력,피지컬AI",
       "clusterKey": "경쟁력",
       "matchedTo": null,
       "sourceName": "한국경제",
@@ -191,17 +192,17 @@
       "title": "팔로알토 네트웍스, AI SOC 및 침해 대응 보장을 포함한 MSIAM 2.0 출시",
       "summary": [
         "팔로알토 네트웍스가 AI SOC(보안 운영 센터)와 침해 대응 보증을 특징으로 하는 MSIAM 2.0을 출시했습니다.",
-        "MSIAM 2.0은 보안 서비스 제공을 향상시키는 것을 목표로 합니다."
+        "MSIAM 2.0은 향상된 보안 기능을 제공합니다."
       ],
-      "whyImportant": "보안 서비스 제공업체와 기업이 사이버 위협에 보다 효과적으로 대응할 수 있도록 지원합니다.",
-      "importanceRationale": "근거: 팔로알토 네트웍스의 MSIAM 2.0 출시를 통해 AI 기반 보안 운영 및 침해 대응 능력이 강화되어, 기업의 사이버 보안 태세 개선에 기여할 수 있기 때문입니다.",
+      "whyImportant": "보안 솔루션의 발전은 기업 및 개인의 디지털 자산 보호에 기여합니다.",
+      "importanceRationale": "근거: 팔로알토 네트웍스의 MSIAM 2.0 출시로 AI 기반 보안 운영 및 침해 대응 능력이 강화되어 전반적인 사이버 보안 수준 향상에 기여할 수 있습니다.",
       "impactSignals": [
         {
           "label": "security",
-          "evidence": "AI SOC 및 침해 대응 보장 기능이 포함된 MSIAM 2.0 출시"
+          "evidence": "MSIAM 2.0 with AI SOC & Breach Response Guarantee"
         }
       ],
-      "dedupeKey": "paloaltonetworkslauchmsiam2.0",
+      "dedupeKey": "PaloAltoNetworks_MSIAM2.0_Launch",
       "clusterKey": "alto",
       "matchedTo": null,
       "sourceName": "The Fast Mode",
@@ -212,33 +213,35 @@
       "importance": 3.5,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 내용이 일치하며, 정보가 명확합니다.",
+      "qualityReason": "제목과 본문이 일치하며, 정보가 간결하게 제공됨.",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-02-22_8",
       "date": "2026-02-22",
-      "category": "기술",
-      "title": "아마존 자체 AI 도구로 인해 13시간 AWS 중단 발생",
+      "category": "경제",
+      "title": "‘두쫀쿠 창시자’ 김나리, 해군 부사관 출신으로 월 매출 25억 달성",
       "summary": [
-        "아마존 웹 서비스(AWS)가 자체 AI 도구로 인해 13시간 동안 중단된 것으로 보도되었습니다."
+        "김나리는 해군 부사관 출신이다.",
+        "그녀는 ‘두쫀쿠’를 창시했다.",
+        "현재 월 매출 25억을 달성했다."
       ],
-      "whyImportant": "AWS 서비스 중단 원인 분석",
-      "importanceRationale": "근거: 아마존의 주요 클라우드 서비스인 AWS의 장시간 중단은 사용자에게 큰 영향을 미치므로 원인 분석이 중요합니다.",
+      "whyImportant": "김나리의 성공 스토리는 많은 사람들에게 영감을 줄 수 있습니다.",
+      "importanceRationale": "근거: 해군 부사관 출신으로 월 매출 25억을 달성한 김나리의 성공은 이례적이며, 그녀의 이야기가 대중에게 미치는 영향력을 고려함.",
       "impactSignals": [],
-      "dedupeKey": "aws_ai_outage",
-      "clusterKey": "클라우드/amazon",
+      "dedupeKey": "김나리_월매출25억",
+      "clusterKey": "25억",
       "matchedTo": null,
-      "sourceName": "Engadget",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNa2MxcDZTa25vOEthT1JRaGFzVWVKclpBNmxZY2E3ZVkwQWdBVWQ1MlBYbFBtZWRxUzl5ZXZXM0ZDWk9ndjY2MDlWb3RySlJ2VndPZ1Jha19DcFhqOUMzTjlQZ2xPcVJDTnBfa3llTlk2ZUFHenZtS2xZOHNMTDBNZE1aWHlxclBZSkprN21FNzlxdENVeDlGY0xKSm1LVHpkbGIwZGhR?oc=5",
-      "publishedAt": "2026-02-21T16:58:50.000Z",
+      "sourceName": "매일경제",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9uMXBtMFZyQmdDN3dqOEYzeGJfM0dYNGd5cVB0Q1BSVW5xQ3dhXzJmWVBLaVpBZnN5ZjgxNmE2Y3MtZGkyNW1XMVBmZkVrWEpPMkZvSWFKZGN5RVpsbV92ZHRySkRfQQ?oc=5",
+      "publishedAt": "2026-02-21T15:18:04.000Z",
       "readTimeSec": 10,
       "status": "kept",
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "The article provides a clear and concise report on the AWS outage. / 근거부족",
+      "qualityReason": "기사 내용이 간결하고 명확하며, 핵심 정보를 잘 전달하고 있습니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -246,100 +249,21 @@
       "id": "2026-02-22_9",
       "date": "2026-02-22",
       "category": "국제",
-      "title": "광주진보연대, \"상호관세 위법\" 주장하며 대미 협상 재검토 촉구",
+      "title": "대미 투자, 자동차·반도체 분야 영향 및 관세 무효화",
       "summary": [
-        "광주진보연대는 상호관세가 위법이라며 대미 협상의 재검토를 촉구했다.",
-        "남도일보에 따르면, 이번 주장은 광주진보연대의 공식 입장이다."
+        "미국 투자가 자동차 및 반도체 분야에 미치는 영향에 대한 분석.",
+        "관세 무효화가 한국에 미치는 영향 분석.",
+        "조선일보 보도 내용 요약."
       ],
-      "whyImportant": "광주진보연대가 한미 상호관세에 대해 위법성을 제기하며 협상 재검토를 요구하고 있어 향후 정책 변화에 영향을 줄 수 있다.",
-      "importanceRationale": "근거: 광주진보연대의 주장은 향후 대미 정책 결정에 영향을 미칠 수 있으며, 특히 관세와 관련된 협상에 대한 재검토 요구는 정책 변화의 가능성을 시사한다.",
+      "whyImportant": "미국 투자 및 관세 변화가 한국 경제에 미치는 영향을 파악하는 것이 중요합니다.",
+      "importanceRationale": "근거: 미국 투자는 한국의 주요 산업인 자동차 및 반도체에 직접적인 영향을 미치며, 관세 무효화는 무역 환경 변화를 야기하여 경제 전반에 영향을 줄 수 있기 때문입니다.",
       "impactSignals": [],
-      "dedupeKey": "광주진보연대_대미협상_재검토_촉구",
-      "clusterKey": "광주진보연대",
+      "dedupeKey": "daemitooja-chaban-bandoche-gwansemuhohwa-hangugeunghyangeun",
+      "clusterKey": "대미투자는",
       "matchedTo": null,
-      "sourceName": "남도일보",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMibEFVX3lxTE04UHRMeDAxRjNBdDcwWDhXTU9ObUdvVEwtQUlQanY0Z3E4RW1EZl8wQTRqMW1LalN3NVFuZ3plQkVHdVJQc0wwbjlJdm9MWVJic2IzZ1I2cWw3UXhuOEVpS2F0VzlySlFiZUxUN9IBcEFVX3lxTE5uSXJSRzFqdnNNZVJyQWlzenpZUXlnNDc2Vm9vYWNaN2Nlb1hTUzVwcV9JUlJySzRDN2lldncwT2xFS0RyNDB1MEUyYzViUUxXeE0wR0EzcVpqOGk3a3pFUTdPOHExc0thUDk4QTBrNjA?oc=5",
-      "publishedAt": "2026-02-21T07:17:00.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 63,
-      "qualityLabel": "ok",
-      "qualityReason": "기사에 факты가 명확히 제시되어 있음. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-02-22_10",
-      "date": "2026-02-22",
-      "category": "국제",
-      "title": "일본, '상호 관세 위법'에도 신중한 기조 유지… 대미 투자 이행할 듯",
-      "summary": [
-        "일본은 상호 관세가 위법임에도 불구하고 신중한 기조를 유지하고 있다.",
-        "미국에 대한 투자를 이행할 것으로 보인다."
-      ],
-      "whyImportant": "일본의 대미 투자 결정은 국제 무역 관계와 경제 정책에 중요한 영향을 미칠 수 있다.",
-      "importanceRationale": "근거: 일본이 상호 관세의 위법성에도 불구하고 대미 투자를 이행하기로 결정한 것은, 미일 관계 및 국제 경제 질서에 대한 일본의 전략적 판단을 반영한다.",
-      "impactSignals": [],
-      "dedupeKey": "japan-us-trade-001",
-      "clusterKey": "기조",
-      "matchedTo": null,
-      "sourceName": "마켓인",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMickFVX3lxTE1SVGpBN0RORVZ1RF9DQ003bFh0cE8wODcyNW9UckJZMzhsMWZhMFpjYm5VamhrZlRTYlBSZ3RwOFB2RUpoS3U3bnVhR1ktNFQtTmRzZ0Q5SWRTcEtjanlGdmVhTzVjeG5ycDdmTGs2cVhOUQ?oc=5",
-      "publishedAt": "2026-02-21T06:52:32.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 63,
-      "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었다. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-02-22_11",
-      "date": "2026-02-22",
-      "category": "국제",
-      "title": "K원전 미국 진출 가능성에 원전주 강세",
-      "summary": [
-        "한국 원자력 발전소의 미국 진출 가능성이 제기됨.",
-        "이 소식에 원전 관련 주식이 강세를 보임."
-      ],
-      "whyImportant": "원전 산업의 해외 진출 가능성을 보여주는 신호탄이다.",
-      "importanceRationale": "근거: 원전주의 강세는 시장의 긍정적인 반응을 나타내며, 이는 향후 K원전의 해외 진출에 대한 기대감을 반영한다.",
-      "impactSignals": [],
-      "dedupeKey": "K원전 미국 진출 가능성에 원전주 강세",
-      "clusterKey": "에너지/k원전",
-      "matchedTo": null,
-      "sourceName": "한국경제",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5peHBHYU1FLXJLdlNMVTQ1V2NrRmhzS0htaC1kaXJaSnN4eUF1aGZ3QjhyXzY5SVlFUUxOM05TNWlMQzYwMHF2Yi1TMlNockg1d0dCbDljS3pMQdIBVEFVX3lxTE1OM2FwLURQX1pMNER4bTZzYU5yd0kzaTlGSVFkYUljVDBOWUhidHBIM3N2V2k4R1RWZW5tSmQ1cUJrYXpudVdGSnZ6OFU0UXRFMk5EWA?oc=5",
-      "publishedAt": "2026-02-19T23:49:15.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 63,
-      "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약됨. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-02-22_12",
-      "date": "2026-02-22",
-      "category": "정책",
-      "title": "사할린 동포 지원 특별법 개정안 국회 통과",
-      "summary": [
-        "사할린 동포 지원에 관한 특별법 일부 개정 법률안이 국회 본회의를 통과했습니다."
-      ],
-      "whyImportant": "사할린 동포 지원 정책의 변화를 의미합니다.",
-      "importanceRationale": "근거: 사할린 동포 지원 특별법 개정안이 국회를 통과했다는 사실은 관련 정책에 중요한 변화가 있을 수 있음을 시사합니다.",
-      "impactSignals": [],
-      "dedupeKey": "사할린동포지원특별법개정안국회통과",
-      "clusterKey": "관한",
-      "matchedTo": null,
-      "sourceName": "세계한인신문",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTE80a01QSlU0WTZrem9xTERvUkN5ay1lMnBIM0F0N0hLM18tYlV6QkYtYjllaDZSdjA1S3NzNGplNm9IRFh1a29KNVptaUNMT3FqT2hWcy1qOHR3RVRxVHJ1bDZneTBwMng4WGs4?oc=5",
-      "publishedAt": "2026-02-21T02:20:55.000Z",
+      "sourceName": "조선일보",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOeGdSSGc2enljVURfb0d4OVhYeHZOOUNCTURiNmhlQWlfdmFHZ0Nfbm41U0pNZy12bllkc0FCLXVxZ2FOWEdWRzAtLUNuUDRSNl9HOG1FVEpGTHVIY0RYbzNib1FzSFZwNmctY1VNNmtEcDQ4cG4yR0tEYUdxVHVZQ0NuQzFXd1R3Y3Y2MkxmY9IBowFBVV95cUxOYUp6TFdSMUxpVVlEekNsNkJKb1hLUzg5WklyNWJPaDdkWFNlaGVPWVFHd1BXVXdYOElacEFyU3djcm14UEtmeXhFM3RFVVJWOGRjeTd5R21uZU84d0R5WXo3R2JnSWVuWXJCdjhiWW1Ed1Q2UVc1ZXJkUGVWa3dqNzc3NXZERFB6N3prMmhZS1YtQTJrbkJlQTliYUtyTDl4WTJz?oc=5",
+      "publishedAt": "2026-02-20T21:07:20.000Z",
       "readTimeSec": 10,
       "status": "kept",
       "importance": 2,
@@ -350,78 +274,99 @@
       "isBreaking": false
     },
     {
+      "id": "2026-02-22_10",
+      "date": "2026-02-22",
+      "category": "국제",
+      "title": "CVE-2026-2441: 구글, 실제 공격에 사용된 크롬 제로데이 취약점 패치",
+      "summary": [
+        "구글이 실제 공격에 악용된 크롬 제로데이 취약점 CVE-2026-2441을 수정하는 패치를 발표했습니다.",
+        "SOC Prime에서 해당 내용을 발표했습니다."
+      ],
+      "whyImportant": "크롬 사용자들은 즉시 업데이트해야 합니다.",
+      "importanceRationale": "근거: 실제 공격에 악용된 제로데이 취약점이므로, 사용자 보안에 직접적인 영향을 미칩니다.",
+      "impactSignals": [
+        {
+          "label": "security",
+          "evidence": "실제 공격에 악용된 크롬 제로데이 취약점"
+        }
+      ],
+      "dedupeKey": "CVE-2026-2441_google_chrome_zero-day_patch",
+      "clusterKey": "cve",
+      "matchedTo": null,
+      "sourceName": "SOC Prime",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9ud0Y4akUwNHdua09veTJ6emduOXRhbE44TUdJdl9waHJ2RnZzY0M0eU1mNU8wRWx3Y2RIa3V4dFhWTEVkWnBsMlpEZERNa1FMYl9wX3I5dFNOUVl1SFoxa2d6TWczTTVkaWZ4akl5R0U4eEw5NmJpbmtLVFE?oc=5",
+      "publishedAt": "2026-02-18T08:00:00.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 4.5,
+      "importanceRaw": 88,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 내용이 일치하며, 중요한 보안 업데이트 정보를 제공합니다.",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-02-22_11",
+      "date": "2026-02-22",
+      "category": "국제",
+      "title": "마이크로소프트 CEO, 빌 게이츠가 OpenAI 투자에 반대했다고 밝혀: '10억 달러를 날릴 것이다'",
+      "summary": [
+        "마이크로소프트 CEO는 빌 게이츠가 자신의 OpenAI 투자에 반대했다고 밝혔습니다.",
+        "게이츠는 투자가 실패할 것이라고 우려했습니다."
+      ],
+      "whyImportant": "OpenAI 투자를 둘러싼 마이크로소프트 내부의 이견을 보여주는 사례입니다.",
+      "importanceRationale": "근거: 마이크로소프트 CEO가 직접 빌 게이츠의 반대 의견을 언급하며, 이는 회사 내부의 중요한 의사 결정 과정과 관련된 정보이기 때문입니다.",
+      "impactSignals": [],
+      "dedupeKey": "microsoft-openai-gates-opposition",
+      "clusterKey": "bill",
+      "matchedTo": null,
+      "sourceName": "Fortune",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNcjdseUFIbmNCa3o4OWZxSWtGZXFZTUlhRW5xZU05S1N3NHVoVkpvODhPVGpUOGNWNHpYcEozVlhNaVZ2SVpBZ3BMWU51VWlTSHNFcFdoT3NPQ0hQenl5R1FTTUVtNHFVSGZPOUI5UF9Ed2xocWVNNEFxYlNMSjNsOE9GQ3VmOWVrNVVvdnE4MjZ1TnpnbDA4cDF3bUxyVThfdWxlZ2J5Qk95ZDZLSElQSVV4Z2ZPX2dNVUljUW9iT184VVJUYWpIZXNLbWZaa0NF?oc=5",
+      "publishedAt": "2026-02-21T16:05:00.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 63,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 본문이 일치하며, 사실적인 정보를 제공합니다. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-02-22_12",
+      "date": "2026-02-22",
+      "category": "정책",
+      "title": "사할린 동포 지원 특별법 개정안 국회 본회의 통과",
+      "summary": [
+        "사할린 동포 지원에 관한 특별법 일부 개정 법률안이 국회 본회의를 통과했습니다."
+      ],
+      "whyImportant": "사할린 동포 지원 정책 개선에 기여합니다.",
+      "importanceRationale": "근거: 사할린 동포 지원 특별법 개정안이 국회 본회의를 통과했다는 사실은 관련 정책에 직접적인 영향을 미치므로 중요합니다.",
+      "impactSignals": [],
+      "dedupeKey": "사할린동포지원특별법개정안국회본회의통과",
+      "clusterKey": "관한",
+      "matchedTo": null,
+      "sourceName": "세계한인신문",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTE80a01QSlU0WTZrem9xTERvUkN5ay1lMnBIM0F0N0hLM18tYlV6QkYtYjllaDZSdjA1S3NzNGplNm9IRFh1a29KNVptaUNMT3FqT2hWcy1qOHR3RVRxVHJ1bDZneTBwMng4WGs4?oc=5",
+      "publishedAt": "2026-02-21T02:20:55.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 63,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 내용이 일치하며 간결하게 요약되었습니다. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
       "id": "2026-02-22_13",
-      "date": "2026-02-22",
-      "category": "기술",
-      "title": "식품 공급망, 농지 소유권 및 반독점 조사 관련 법률 및 정책의 최근 동향",
-      "summary": [
-        "Wiley Rein에서 식품 공급망, 농지 소유권 및 반독점 조사와 관련된 법률 및 정책의 최근 동향을 발표했습니다.",
-        "이 보고서는 해당 분야의 최신 법률 및 정책 개발에 대한 정보를 제공합니다."
-      ],
-      "whyImportant": "식품 산업에 영향을 미치는 법적 및 정책적 변화를 이해하는 데 중요합니다.",
-      "importanceRationale": "근거: 식품 공급망, 농지 소유권 및 반독점 조사에 대한 법률 및 정책 변경은 식품 산업 운영 방식에 큰 영향을 미칠 수 있습니다.",
-      "impactSignals": [
-        {
-          "label": "policy",
-          "evidence": "식품 공급망, 농지 소유권 및 반독점 조사 관련 법률 및 정책의 최근 동향"
-        }
-      ],
-      "dedupeKey": "food_law_policy_updates",
-      "clusterKey": "chain",
-      "matchedTo": null,
-      "sourceName": "Wiley Rein",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPdEFrRDZLeHZlSUpLLUdKUnNYeFZRMWVvUjBVbmprU3B3YUNOVVBCS2NzYThiYzUtdXg1RFNIdXBOaVc1dDMxUW1JYXg0RGZ4S09XWENUd3NKbWZFUHJWZlJIUG1VcDhyWTFvWWk3cURaeDV5d0cwd05pcHdFY1dWOFpJRmdYNkQ2UXVWNDcxS2VmQ29tODJhVk5qVkotdl83bjBLaTJ6eVpoSFNBbHVuTmRJeXhiOWxTbXhLXzluWHVrX2RZeWNpZ1dXUDV0dEZPSXl3aWZGS2J0YmtBb0U4UUdlelg5anZFMmc?oc=5",
-      "publishedAt": "2026-02-20T16:55:44.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 3.5,
-      "importanceRaw": 63,
-      "qualityLabel": "ok",
-      "qualityReason": "제목과 텍스트가 일치하며, 요약이 간결하고 명확합니다.",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-02-22_14",
-      "date": "2026-02-22",
-      "category": "기술",
-      "title": "Sharice Davids 하원의원, 오타와 협동조합 방문하여 지역 농업 공급망 및 식료품 비용 절감 강조",
-      "summary": [
-        "Sharice Davids 하원의원이 오타와 협동조합을 방문하여 지역 농업 공급망을 강조했습니다.",
-        "이번 방문은 다가오는 농업 법안에 앞서 식료품 비용 절감을 논의하기 위해 이루어졌습니다."
-      ],
-      "whyImportant": "지역 농업 공급망 강화 및 식료품 비용 절감 노력의 일환입니다.",
-      "importanceRationale": "근거: Davids 하원의원의 오타와 협동조합 방문은 지역 농업 공급망의 중요성을 부각하고, 다가오는 농업 법안을 통해 식료품 비용을 절감하려는 정책적 노력을 보여줍니다.",
-      "impactSignals": [
-        {
-          "label": "policy",
-          "evidence": "농업 법안 관련 논의 및 지역 농업 공급망 강화 정책"
-        }
-      ],
-      "dedupeKey": "davids-ottawa-co-op-farm-bill",
-      "clusterKey": "chain",
-      "matchedTo": null,
-      "sourceName": "Representative Sharice Davids | (.gov)",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTFVfeDktdGdNeFhYdmdSbnRNbGFwY1F0RVJGS2dlTHVuRWtFTmdUR1VjUUNsYmtmT19NZkx0LUlGLTMwbnJncWpqUEdBZ3lEblVkOFRfMzlrRkgyWGplZFVkZmN1Z2ZlOENzeEtXTXpOekdmUlBDQXFzbUU3MkhudUZaTlpzeFdSZzdLQU83eFBKYy00ek96QkFzT1NGNlI5NTdWRDlnNE5DVHRoUUozMkxsaDU5UWZiMkQwQUxHNXI?oc=5",
-      "publishedAt": "2026-02-19T19:44:06.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 3.5,
-      "importanceRaw": 63,
-      "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 핵심 내용을 잘 반영하고 있습니다.",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-02-22_15",
       "date": "2026-02-22",
       "category": "정책",
       "title": "[총회=인천] \"정부는 눈치 보지 말고 입법 통해 한약사 문제 해결하라\"",
       "summary": [
         "정부는 입법을 통해 한약사 문제를 해결해야 한다는 주장이 제기됨."
       ],
-      "whyImportant": "정부의 정책 방향에 대한 요구를 나타내는 기사입니다.",
+      "whyImportant": "정부의 정책 방향에 대한 요구를 나타내는 기사.",
       "importanceRationale": "근거: 정부의 한약사 문제 해결 방식에 대한 직접적인 요구를 담고 있어 정책적 중요성을 가짐.",
       "impactSignals": [],
       "dedupeKey": "[총회=인천] \"정부는 눈치 보지 말고 입법 통해 한약사 문제 해결하라\"",
@@ -435,22 +380,22 @@
       "importance": 2,
       "importanceRaw": 50,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며 간결하게 핵심 내용을 전달함. / 근거부족",
+      "qualityReason": "제목과 내용이 일치하며 간결하게 핵심 내용 전달. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-02-22_16",
+      "id": "2026-02-22_14",
       "date": "2026-02-22",
       "category": "정책",
       "title": "전현희, 24일 국회에서 '우아한 칼' 출판 기념회 개최",
       "summary": [
-        "전현희는 24일 국회에서 '우아한 칼' 출판 기념회를 개최한다."
+        "전현희의 '우아한 칼' 출판 기념회가 24일 국회에서 열린다."
       ],
-      "whyImportant": "전현희의 정치적 행보를 보여주는 행사이다.",
-      "importanceRationale": "근거: 전현희의 출판 기념회 개최는 그의 정치적 영향력과 향후 활동 방향을 가늠할 수 있는 중요한 지표가 될 수 있다.",
+      "whyImportant": "전현희의 저서 출판 기념회는 정치적 행보와 관련된 정책적 논의를 촉발할 수 있다.",
+      "importanceRationale": "근거: 전현희의 출판 기념회 개최는 그의 정치적 영향력을 보여주며, 향후 정책 결정에 영향을 미칠 수 있는 잠재력을 시사한다.",
       "impactSignals": [],
-      "dedupeKey": "전현희_우아한칼_출판기념회",
+      "dedupeKey": "전현희_우아한칼_출판기념회_2024",
       "clusterKey": "24일",
       "matchedTo": null,
       "sourceName": "뉴스토마토",
@@ -461,39 +406,64 @@
       "importance": 2,
       "importanceRaw": 50,
       "qualityLabel": "ok",
-      "qualityReason": "기사의 내용이 간결하고 명확하며, 핵심 정보를 잘 전달하고 있다. / 근거부족",
+      "qualityReason": "기사의 내용이 간결하고 명확하며, 핵심 정보를 제공한다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-02-22_17",
+      "id": "2026-02-22_15",
+      "date": "2026-02-22",
+      "category": "정책",
+      "title": "진보당, “정부·국회는 대미투자특별법 즉각 멈춰야”",
+      "summary": [
+        "진보당은 정부와 국회에 대미투자특별법을 즉각 중단할 것을 촉구했다."
+      ],
+      "whyImportant": "진보당의 정책 반대 입장을 보여주는 기사입니다.",
+      "importanceRationale": "근거: 진보당이 대미투자특별법에 대한 반대 입장을 표명한 사실을 직접적으로 보도하고 있습니다.",
+      "impactSignals": [],
+      "dedupeKey": "진보당, “정부·국회는 대미투자특별법 즉각 멈춰야”",
+      "clusterKey": "국회는",
+      "matchedTo": null,
+      "sourceName": "통일뉴스",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5OZjN1bExlU3h2c1c0azRkT045VnBVNV9Sdk1zbmZ1RG1FMGdrV3BJRFdsSGxOTFBXS1RpYWk0dVBMYzM3UGg1YUl6OHU3Z25ERWdnRjQ0UlAtV3RLUzJLandHUmlXdW5LbmZXRVhB?oc=5",
+      "publishedAt": "2026-02-21T05:59:40.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 50,
+      "qualityLabel": "ok",
+      "qualityReason": "기사의 내용이 간결하고 명확합니다. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-02-22_16",
       "date": "2026-02-22",
       "category": "경제",
-      "title": "최근 실적 발표 주간, S&P 500 기업 52개 중 33개사 EPS 성장 기록",
+      "title": "ASML, 사상 최대 분기 예약 발표. 분석가들은 이렇게 말합니다",
       "summary": [
-        "최근 실적 발표 주간에 S&P 500 기업 52개사 중 33개사가 주당 순이익(EPS) 성장을 기록했습니다.",
-        "이는 실적 스코어카드에 따른 결과입니다."
+        "ASML은 사상 최대의 분기 예약 실적을 발표했습니다."
       ],
-      "whyImportant": "기업 실적은 시장 건전성의 중요한 지표입니다.",
-      "importanceRationale": "근거: S&P 500 기업의 EPS 성장률은 투자 심리 및 시장 동향에 직접적인 영향을 미치므로 중요합니다.",
+      "whyImportant": "ASML의 기록적인 예약 실적은 반도체 산업의 강력한 수요를 시사합니다.",
+      "importanceRationale": "근거: ASML의 예약 실적 증가는 반도체 장비 시장의 건전성을 나타내는 지표로 해석될 수 있습니다.",
       "impactSignals": [],
-      "dedupeKey": "SP500_EPS_Growth_Earnings_Scorecard",
-      "clusterKey": "companies",
+      "dedupeKey": "ASML_Strongest_Booking_Quarter",
+      "clusterKey": "asml",
       "matchedTo": null,
-      "sourceName": "Seeking Alpha",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUFBOUlc1NHRIcWNjeE5VbWNuMDRXQ0JWZlU2MUFUTV9HdV9meWxVbDVOQUJzcGtncDhyUk5Mc3dlbDlUX25qUFJfS2NWLXRzYXlvQ1UzNTNrREhvLV8tbEM2RHdDdjNMbUhkV3c5MDRZT0o5d3c4VVhlVDdJSWxmN2xrc1dwUEpqLTBZcnJxeGlGZzhXTE9NRnllQ3VvMFdRUVVPY3RJeHAtZk10SVB4SzdlUDFiNmJxQ25PNzNCMA?oc=5",
-      "publishedAt": "2026-02-21T17:30:27.000Z",
+      "sourceName": "TIKR.com",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSXFSd1RBX2JYcms0b0xvbVdWUTYwNzdnMDBid24tMG9NRUN5TTVfUUVrdnJLYmw3R0tFVUlXVUEtZFJYX1JoTmdBSWh4RXQySGg0ZjJ0akl0LWtQUUJ1ODlGSWVNTEtsN3MtSVZUWmQxWWViSnhJZnU3Zmk2YmUxMzNhdUpDdDlfVXBOTnozZWdheHdhZEhhQW1ibjNpMG9pUXc?oc=5",
+      "publishedAt": "2026-02-21T19:32:28.000Z",
       "readTimeSec": 10,
       "status": "kept",
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "기사 내용이 명확하고 간결하며, 핵심 정보를 잘 전달합니다. / 근거부족",
+      "qualityReason": "The article directly states a key fact. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-02-22_18",
+      "id": "2026-02-22_17",
       "date": "2026-02-22",
       "category": "경제",
       "title": "Alliant Energy (LNT), 4분기 실적 및 매출액 초과 달성",
@@ -524,43 +494,43 @@
       "isBreaking": false
     },
     {
-      "id": "2026-02-22_19",
+      "id": "2026-02-22_18",
       "date": "2026-02-22",
-      "category": "경제",
-      "title": "Sprott (NYSE:SII) 실적 발표, 예상치를 주당 0.58달러 상회",
+      "category": "에너지",
+      "title": "Shapiro, 데이터 센터 에너지 비용 문제에 대한 입장 고수",
       "summary": [
-        "Sprott (NYSE:SII)가 실적을 발표했습니다.",
-        "주당 순이익이 예상치를 0.58달러 상회했습니다."
+        "Shapiro는 데이터 센터 에너지 비용에 대한 책임을 강조했습니다.",
+        "Politico에 따르면 데이터 센터의 에너지 비용 문제가 심화되고 있습니다."
       ],
-      "whyImportant": "기업의 실적 발표는 투자자와 시장에 중요한 정보입니다.",
-      "importanceRationale": "근거: 기업의 실적은 투자 결정에 영향을 미치며, 예상치를 상회하는 실적은 주가 상승의 요인이 될 수 있습니다.",
+      "whyImportant": "데이터 센터 에너지 비용 부담에 대한 논쟁 심화",
+      "importanceRationale": "근거: 데이터 센터 에너지 비용에 대한 책임 소재가 불분명하여 논쟁이 발생하고 있으며, 이는 관련 산업의 투자 및 운영 비용에 영향을 미칠 수 있음",
       "impactSignals": [],
-      "dedupeKey": "Sprott_earnings_beat",
-      "clusterKey": "beats",
+      "dedupeKey": "Shapiro_data_center_energy_costs",
+      "clusterKey": "에너지/center",
       "matchedTo": null,
-      "sourceName": "MarketBeat",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNaHdQV0NNUkNnc25teVhyUzhEVmkyQ3d1Z0JBLThGWmtzN0UtZ05aV1kwT3E2N1diOEJ3VWNpQTRKVkk1bE0wdTdwWWtwYV9CSjM3Z0FoYkNEV3hJSElRWFdVWXo2Mi00aFl0NDlCbkdCTWNhVmJES281dVB1WTFseU0yV0dWV0FSWGtjdl9OeTBfT212eXhmSGpPWWRmZ29wRzNGV3FYcm9SZXU5eW1LOVJ0UHloa2FOWFNR?oc=5",
-      "publishedAt": "2026-02-21T14:55:37.000Z",
+      "sourceName": "Politico",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQLVc1QlpJUjJuQV9rR1NJWVhkejBmY2NWbGtfTVREdmNiZlh0YXg5cXdsV2hhbWZxdWxRelppX0I3emVPZko5MnE3VDB0aGFpMmZCb2hRODRiLThfUVV2SDFJTHpEQ05oZmhRUTZURUJBdGJWU3VqQ3drdmRnOG1NMzRCZUJKcldqb0drMWRqR2tScV9qUWVQV2hn?oc=5",
+      "publishedAt": "2026-02-19T17:00:00.000Z",
       "readTimeSec": 10,
       "status": "kept",
       "importance": 2,
-      "importanceRaw": 63,
+      "importanceRaw": 50,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 정보가 명확합니다. / 근거부족",
+      "qualityReason": "제목과 내용이 일치하며, 핵심 내용을 요약했습니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-02-22_20",
+      "id": "2026-02-22_19",
       "date": "2026-02-22",
       "category": "정책",
       "title": "속보: 靑, '대미투자특별법' 추진 상황 점검…입법 절차 순조롭게 진행",
       "summary": [
-        "청와대는 '대미투자특별법' 추진 상황을 점검했다고 밝혔습니다.",
-        "현재 입법 절차가 차질 없이 진행 중이라고 덧붙였습니다."
+        "청와대는 '대미투자특별법' 추진 상황을 점검했다.",
+        "현재 입법 절차가 차질 없이 진행 중이라고 밝혔다."
       ],
       "whyImportant": "대미 투자 관련 법안의 진행 상황을 파악하는 것은 중요합니다.",
-      "importanceRationale": "근거: 해당 법안은 미국 투자에 영향을 미치며, 경제 관계에 중요한 변화를 가져올 수 있기 때문입니다.",
+      "importanceRationale": "근거: 청와대가 직접 대미투자특별법 추진 상황을 점검하고 입법 절차가 순조롭게 진행되고 있음을 밝혔기 때문입니다.",
       "impactSignals": [],
       "dedupeKey": "대미투자특별법_추진상황_점검",
       "clusterKey": "대미투자특별법",
@@ -573,9 +543,35 @@
       "importance": 2,
       "importanceRaw": 50,
       "qualityLabel": "ok",
-      "qualityReason": "기사 내용이 간결하고 명확하게 전달됨. / 근거부족",
+      "qualityReason": "기사 내용이 간결하고 명확하며, 정보 출처가 분명합니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": true
+    },
+    {
+      "id": "2026-02-22_20",
+      "date": "2026-02-22",
+      "category": "국제",
+      "title": "예측: 5년 후 엔비디아 주가",
+      "summary": [
+        "The Motley Fool의 엔비디아 주가 5년 후 예측 관련 기사입니다."
+      ],
+      "whyImportant": "엔비디아의 미래 주가에 대한 예측을 제공합니다.",
+      "importanceRationale": "근거: 투자자들은 엔비디아의 성장 잠재력에 대한 정보를 얻을 수 있습니다.",
+      "impactSignals": [],
+      "dedupeKey": "NvidiaStockPricePrediction5Years",
+      "clusterKey": "motley",
+      "matchedTo": null,
+      "sourceName": "The Motley Fool",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVDRNbmhQbi1XbVFtWlVxNklqX1p2Z201dXBKMk8xSG1YSWQwRUFBYVdsYTlOS1FITHctRW1vWlVYWFBXMG9SNXZmcHlYQUVWWGdVQ3l4MDVaMVhySkE3X1pkQVRzT2x2eGpSNXZmUG9qUlhoN05XazJuM0ZPbEJQQzdtUENpUmg3OXhBOFRQLWNBRklRR1FLag?oc=5",
+      "publishedAt": "2026-02-21T16:21:00.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2.5,
+      "importanceRaw": 38,
+      "qualityLabel": "ok",
+      "qualityReason": "기사의 내용이 간략하지만 제목과 일치합니다.",
+      "isBriefing": false,
+      "isBreaking": false
     }
   ]
 }
