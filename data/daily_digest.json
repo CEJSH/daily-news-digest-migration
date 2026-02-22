@@ -3,7 +3,7 @@
   "selectionCriteria": "① 내일도 영향이 남는 이슈 ② 과도한 감정 소모 제외 ③ 어제와 중복되는 뉴스 제외",
   "editorNote": "이 뉴스는 클릭 수가 아니라 오늘 이후에도 남는 정보만 기준으로 편집했습니다.",
   "question": "정보를 덜 보는 것이 오히려 더 똑똑한 소비일까?",
-  "lastUpdatedAt": "2026-02-22T16:34:38.659+09:00",
+  "lastUpdatedAt": "2026-02-22T17:28:52.763+09:00",
   "items": [
     {
       "id": "2026-02-22_1",
@@ -11,13 +11,13 @@
       "category": "국제",
       "title": "미국 대법원, '상호 관세' 제동…한미 '통상-안보 패키지' 협상에 영향?",
       "summary": [
-        "미국 대법원이 '상호 관세'에 제동을 걸면서 한미 간 '통상-안보 패키지' 협상에 영향을 미칠 가능성이 제기되고 있다.",
+        "미국 대법원이 '상호 관세'에 제동을 걸면서 한미 간 '통상-안보 패키지' 협상이 흔들릴 가능성이 제기되고 있다.",
         "이번 결정은 양국 간의 무역 협상에 새로운 변수로 작용할 수 있다."
       ],
       "whyImportant": "미국 대법원의 결정이 한미 통상 및 안보 협상에 미치는 잠재적 영향.",
       "importanceRationale": "근거: 미국 대법원의 상호 관세 제동은 한미 간 통상-안보 패키지 협상에 직접적인 영향을 줄 수 있는 정책 변화이기 때문이다.",
       "impactSignals": [],
-      "dedupeKey": "2024-01-26-미국 대법원, '상호 관세' 제동…한미 '통상-안보 패키지' 협상에 영향?",
+      "dedupeKey": "20240103-미국 대법원, '상호 관세' 제동…한미 '통상-안보 패키지' 협상에 영향?",
       "clusterKey": "대법원",
       "matchedTo": null,
       "sourceName": "더퍼블릭",
@@ -35,27 +35,32 @@
     {
       "id": "2026-02-22_2",
       "date": "2026-02-22",
-      "category": "경제",
-      "title": "한은, 올해 성장률 전망 상향 조정하나…미국 관세 주의 깊게 살펴",
+      "category": "기술",
+      "title": "전력난과 환경 규제에 직면한 데이터 센터, '우주'로 향하다",
       "summary": [
-        "한국은행이 올해 성장률 전망치를 상향 조정할 가능성이 제기됨.",
-        "미국의 관세 정책 변화를 예의주시하고 있는 것으로 나타남."
+        "전력난과 환경 규제로 인해 데이터 센터가 어려움을 겪고 있다.",
+        "이러한 문제를 해결하기 위해 데이터 센터가 '우주'로 향하고 있다."
       ],
-      "whyImportant": "한국은행의 성장률 전망 변화는 경제 정책 방향에 중요한 영향을 미침.",
-      "importanceRationale": "근거: 한국은행의 전망은 시장에 큰 영향을 미치며, 미국의 관세 정책은 한국 경제에 직접적인 영향을 줄 수 있기 때문.",
-      "impactSignals": [],
-      "dedupeKey": "한은성장률전망_미국관세",
-      "clusterKey": "높이나",
+      "whyImportant": "데이터 센터의 새로운 해결책 모색은 산업의 지속 가능성에 중요한 영향을 미친다.",
+      "importanceRationale": "근거: 전력난과 환경 규제라는 현실적인 문제에 대한 데이터 센터의 혁신적인 대응 방안을 제시하고 있기 때문이다.",
+      "impactSignals": [
+        {
+          "label": "policy",
+          "evidence": "전력난과 환경 규제가 데이터 센터 운영에 영향을 미침"
+        }
+      ],
+      "dedupeKey": "전력난과 환경 규제에 직면한 데이터 센터, '우주'로 향하다",
+      "clusterKey": "클라우드/간다",
       "matchedTo": null,
-      "sourceName": "스트레이트뉴스",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5rMmJkd09TY3VhRl8xM2hTb0poemxyMlFkc0lFZ2tFNllVTkFTX0dlSnJSV1RRa0VpMXJhVmJiaXl6S0pzaWtFS1Vaa1ZjLWxrYXpJaXM3RGtUR3hvbjRPQ2RHU3MwWWJFYnlJNXFrdDdqcmvSAXdBVV95cUxPQldGWkoxOTVzc0w5MVltRVNRekpwVFE3cVFwWmZLU0hYU1JmUHVsZXRvVGxvMGdObjdQQzJFdjF2NnozNVRyZ0JlWklVRmhnWTRvSzV2czFvUExjR1BVQzlmelEyMGJHTnlmR1hjclhUOW1oT0RGYw?oc=5",
-      "publishedAt": "2026-02-22T01:18:58.000Z",
+      "sourceName": "더퍼블릭",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5CWEc3UEFRdU5lQ3o5S016eDROOEEtRTFMdWJEQjRZTGJqMDlPc3FRd2hoR3BmT2lUbTR2UEdWWGZaVG1lMmc4emtxTTJ4TC1fTkZqNVR5R0t1VkwtNHFEZVRPSGl0R3YxQXBZ0gFvQVVfeXFMTjZUN0ZwTEx3NkF5bGxLY0lZNWdRQXhZWm1SS2FzX3c5RGxwSFNxZ0hFSHFMUWVKcEVrSll5MW5Xa2RvbklYRFdjSlVILUptM2FuUks5UkVfeFAxU0tLNl9uLTRudTk2WTZoa3dhVEhr?oc=5",
+      "publishedAt": "2026-02-15T09:38:24.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 2,
+      "importance": 4,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약됨. / 근거부족",
+      "qualityReason": "제목과 내용이 일치하며, 핵심 내용을 잘 요약했습니다.",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -66,11 +71,11 @@
       "title": "유권자 분노와 미국 에너지 '역설': 높은 공공요금, 기록적인 석유 및 가스 생산, 그리고 세계 데이터 센터의 45%",
       "summary": [
         "미국은 높은 공공요금과 기록적인 석유 및 가스 생산량에도 불구하고 유권자들의 분노를 사고 있다.",
-        "미국은 세계 데이터 센터의 45%를 차지하고 있다.",
+        "미국은 세계 데이터 센터의 45%를 차지하고 있어 에너지 소비가 높다.",
         "에너지 정책과 관련된 유권자들의 불만이 고조되고 있다."
       ],
       "whyImportant": "미국 에너지 정책의 복잡성과 유권자 불만을 보여준다.",
-      "importanceRationale": "근거: 기사 제목과 요약 내용에서 미국 에너지 정책의 역설적인 상황과 그로 인한 유권자들의 불만을 강조하고 있다. 또한, 미국이 세계 데이터 센터의 상당 부분을 차지하고 있다는 사실은 에너지 소비와 관련된 정책적 중요성을 시사한다.",
+      "importanceRationale": "근거: 기사 제목에서 유권자 분노, 높은 공공요금, 기록적인 에너지 생산, 데이터 센터 집중 등의 키워드를 통해 에너지 정책의 복잡성과 그에 따른 유권자 불만을 직접적으로 나타낸다.",
       "impactSignals": [
         {
           "label": "policy",
@@ -92,7 +97,7 @@
       "importance": 3.5,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 요약이 명확하다.",
+      "qualityReason": "제목과 요약이 기사의 핵심 내용을 잘 반영하고 있다.",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -105,14 +110,9 @@
         "한국무역협회에 따르면 철강 '빅4'의 작년 매출이 모두 감소했다.",
         "불황 속에서 수익성 양극화가 심화되고 있다."
       ],
-      "whyImportant": "철강 산업의 전반적인 침체와 기업 간 수익성 격차 심화는 산업 구조조정 및 경쟁력 강화의 필요성을 시사한다.",
-      "importanceRationale": "근거: 철강 '빅4'의 매출 감소는 산업 전반의 어려움을 나타내며, 수익성 양극화는 기업별 생존 전략 및 정부 정책 방향 설정에 중요한 지표가 된다.",
-      "impactSignals": [
-        {
-          "label": "earnings",
-          "evidence": "철강 '빅4' 매출 감소 및 수익성 양극화"
-        }
-      ],
+      "whyImportant": "철강 산업의 전반적인 침체와 기업 간 수익성 격차 심화는 산업 구조조정 및 경쟁력 약화로 이어질 수 있다.",
+      "importanceRationale": "근거: 철강 '빅4'의 매출 감소는 산업 전반의 불황을 나타내며, 수익성 양극화는 기업 생존에 중요한 영향을 미친다.",
+      "impactSignals": [],
       "dedupeKey": "steel_sales_decline_2023",
       "clusterKey": "감소",
       "matchedTo": null,
@@ -121,10 +121,10 @@
       "publishedAt": "2026-02-22T06:52:22.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 3.5,
+      "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 내용을 충실히 반영함",
+      "qualityReason": "제목과 본문이 일치하며, 간결하게 핵심 내용을 전달한다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -158,43 +158,15 @@
     {
       "id": "2026-02-22_6",
       "date": "2026-02-22",
-      "category": "정책",
-      "title": "국회의장, 개헌 대비 위한 국민투표법 개정 촉구",
-      "summary": [
-        "국회의장은 개헌을 위한 최소한의 대비로 국민투표법 개정을 촉구했습니다.",
-        "이는 향후 개헌 논의 및 국민투표 가능성에 대비하기 위한 조치로 풀이됩니다."
-      ],
-      "whyImportant": "국회의장의 발언은 개헌 논의의 시작을 알리는 신호탄이 될 수 있습니다.",
-      "importanceRationale": "근거: 국회의장의 개헌 관련 발언은 정책 결정에 영향을 미치며, 향후 정치적 논의를 촉발할 가능성이 높습니다.",
-      "impactSignals": [],
-      "dedupeKey": "국회의장, 개헌 대비 국민투표법 개정 촉구",
-      "clusterKey": "개정해야",
-      "matchedTo": null,
-      "sourceName": "한국경제",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0tMzdYZDc3TmVsczhlc2hJUGY0dHhHWUdNNTNOQlFQWktQbENDSF95anlQb0xUUHJuQmZ5d3JHX1pScFoxSjYtNklrLVB3R2toMjdQZTJFb042d9IBVEFVX3lxTE1TT3NKTVE5cmFwdm5vdlNBWmdZb1hKZ2RXWjViQTRBdHpxU3NjVkpMbHVGN2JfOGtEQWQyTGJ5cUN5RjZJMXJZdUlGOUdoaE5pd21UWQ?oc=5",
-      "publishedAt": "2026-02-22T05:57:05.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 75,
-      "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었습니다. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-02-22_7",
-      "date": "2026-02-22",
       "category": "국제",
       "title": "‘6000선 목전’ 코스피, 엔비디아 실적·美 관세 정책 등 변수[주간증시전망]",
       "summary": [
-        "코스피가 6000선에 바짝 다가섰다.",
-        "이번 주에는 엔비디아 실적과 미국의 관세 정책 등이 변수로 작용할 전망이다."
+        "코스피가 6000선 돌파를 앞두고 엔비디아 실적과 미국 관세 정책 등 여러 변수에 직면해 있습니다."
       ],
-      "whyImportant": "코스피 향방에 영향을 미칠 주요 변수들을 제시합니다.",
-      "importanceRationale": "근거: 코스피의 단기 전망에 영향을 줄 수 있는 엔비디아 실적 발표와 미국의 관세 정책 변화 가능성을 강조하고 있기 때문입니다.",
+      "whyImportant": "코스피 지수에 영향을 미치는 주요 변수를 파악하는 것이 중요합니다.",
+      "importanceRationale": "근거: 코스피 지수가 중요한 심리적, 경제적 지표이기 때문입니다.",
       "impactSignals": [],
-      "dedupeKey": "‘6000선 목전’ 코스피, 엔비디아 실적·美 관세 정책 등 변수[주간증시전망]",
+      "dedupeKey": "kospi-nvidia-tariff-2024",
       "clusterKey": "6000선",
       "matchedTo": null,
       "sourceName": "edaily.co.kr",
@@ -205,21 +177,75 @@
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되어 있습니다. / 근거부족",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었습니다. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-02-22_7",
+      "date": "2026-02-22",
+      "category": "경제",
+      "title": "한국은행, 올해 성장률 전망 상향 조정 가능성…미국 관세 주시",
+      "summary": [
+        "한국은행이 올해 성장률 전망치를 상향 조정할 가능성이 제기됨.",
+        "미국의 관세 정책 변화를 주시하고 있는 것으로 알려짐."
+      ],
+      "whyImportant": "한국은행의 성장률 전망은 경제 정책 결정에 중요한 영향을 미침.",
+      "importanceRationale": "근거: 한국은행의 성장률 전망 변경은 시장에 즉각적인 영향을 줄 수 있으며, 특히 미국의 관세 정책과 관련된 불확실성이 경제에 미치는 영향을 파악하는 데 중요.",
+      "impactSignals": [],
+      "dedupeKey": "20240612-한은 성장률 전망",
+      "clusterKey": "높이나",
+      "matchedTo": null,
+      "sourceName": "스트레이트뉴스",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5rMmJkd09TY3VhRl8xM2hTb0poemxyMlFkc0lFZ2tFNllVTkFTX0dlSnJSV1RRa0VpMXJhVmJiaXl6S0pzaWtFS1Vaa1ZjLWxrYXpJaXM3RGtUR3hvbjRPQ2RHU3MwWWJFYnlJNXFrdDdqcmvSAXdBVV95cUxPQldGWkoxOTVzc0w5MVltRVNRekpwVFE3cVFwWmZLU0hYU1JmUHVsZXRvVGxvMGdObjdQQzJFdjF2NnozNVRyZ0JlWklVRmhnWTRvSzV2czFvUExjR1BVQzlmelEyMGJHTnlmR1hjclhUOW1oT0RGYw?oc=5",
+      "publishedAt": "2026-02-22T01:18:58.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 63,
+      "qualityLabel": "ok",
+      "qualityReason": "기사 내용이 간결하고 명확하며, 핵심 내용을 잘 전달함. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-02-22_8",
       "date": "2026-02-22",
+      "category": "경제",
+      "title": "최태원 SK 회장, \"AI 데이터센터와 발전소 동시 보유해야 생존\"",
+      "summary": [
+        "최태원 SK 회장이 AI 데이터센터와 발전소를 함께 갖춰야 생존할 수 있다고 강조했습니다.",
+        "이는 AI 시대에 데이터센터의 중요성을 강조한 발언으로 풀이됩니다."
+      ],
+      "whyImportant": "최태원 SK 회장의 AI 데이터센터 관련 발언",
+      "importanceRationale": "근거: 최태원 회장이 직접 AI 데이터센터와 발전소의 동시 보유 필요성을 언급했기 때문입니다.",
+      "impactSignals": [],
+      "dedupeKey": "choi-tai-won-ai-datacenter-powerplant",
+      "clusterKey": "클라우드/갖춰야",
+      "matchedTo": null,
+      "sourceName": "한국경제",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBzRDFvZ0tVYmJmT3FGdUZIejdhZHFnMlZRRjJXOVNCdXdzbW5icW80WXI1czlxZDRHNGhzWndyeC1LMEJFbExaaTlrWkFsX25VdmF1NkwtbjVJZ9IBVEFVX3lxTE1iZWpKaS1mQXF6UWRRenpnMThqdHh2MTNQZG5hMk9sM0tqUkctelMxWl82NlFmWjRxcU9wUWVUbEkyeEdRaEZ5VDAzb3J0ZGQ0SW1aYQ?oc=5",
+      "publishedAt": "2026-02-22T08:02:46.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 63,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었습니다. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-02-22_9",
+      "date": "2026-02-22",
       "category": "정책",
       "title": "국회: 국민 77.5%, 비상계엄에 대한 국회 통제 강화 필요성에 공감",
       "summary": [
-        "국회는 국민의 77.5%가 비상계엄에 대한 국회 통제 강화의 필요성에 공감한다고 밝혔습니다.",
-        "해당 결과는 한국경제의 여론조사에서 나타났습니다."
+        "국회는 국민의 77.5%가 비상계엄에 대한 국회 통제 강화의 필요성에 공감한다고 발표했습니다.",
+        "이번 발표는 한국경제의 보도를 인용했습니다."
       ],
-      "whyImportant": "비상계엄에 대한 국회 통제 강화 필요성에 대한 높은 국민적 공감대는 관련 정책 변화를 촉진할 수 있습니다.",
-      "importanceRationale": "근거: 국민 대다수가 비상계엄에 대한 국회 통제 강화에 동의함에 따라, 정책 결정에 중요한 영향을 미칠 수 있습니다.",
+      "whyImportant": "비상계엄에 대한 국회 통제 강화 필요성에 대한 높은 국민적 공감대는 향후 관련 정책 결정에 중요한 영향을 미칠 수 있습니다.",
+      "importanceRationale": "근거: 국민 대다수가 비상계엄에 대한 국회 통제 강화에 동의한다는 사실은 정책 결정에 있어 민주적 정당성을 확보하는 데 중요한 고려 사항입니다.",
       "impactSignals": [],
       "dedupeKey": "국회_비상계엄_국회통제_강화_공감",
       "clusterKey": "강화",
@@ -232,23 +258,23 @@
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 간결하게 핵심 내용을 전달합니다. / 근거부족",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 핵심 내용을 전달합니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-02-22_9",
+      "id": "2026-02-22_10",
       "date": "2026-02-22",
       "category": "경제",
       "title": "최태원, AI '괴물칩' HBM 대폭 증산…데이터센터에 원전급 전력 필요",
       "summary": [
         "최태원 회장이 AI '괴물칩' HBM의 대폭 증산을 추진한다.",
-        "데이터센터에는 원전급 전력이 필요할 것으로 예상된다."
+        "데이터센터 운영에는 원전급 전력이 필요할 것으로 예상된다."
       ],
       "whyImportant": "AI 반도체 시장 경쟁 심화 및 데이터센터 전력 수요 증가 전망.",
-      "importanceRationale": "근거: AI 반도체 HBM 시장에서의 경쟁 우위 확보와 데이터센터의 안정적인 전력 공급 중요성 부각.",
+      "importanceRationale": "근거: AI 반도체 HBM 시장의 경쟁 심화 속에서, 최태원 회장의 HBM 증산 결정은 SK하이닉스의 시장 점유율 확대에 중요한 영향을 미칠 수 있다. 또한 데이터센터의 전력 수요 증가는 에너지 인프라 투자 및 정책 결정에 영향을 줄 수 있다.",
       "impactSignals": [],
-      "dedupeKey": "choi-taewon-hbm-production-increase",
+      "dedupeKey": "choi-tai-won-ai-chip-hbm-production-increase",
       "clusterKey": "에너지/hbm",
       "matchedTo": null,
       "sourceName": "SBS Biz",
@@ -259,21 +285,22 @@
       "importance": 2,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 정보가 명확함. / 근거부족",
+      "qualityReason": "제목과 내용이 일치하며, 간결하고 명확하게 요약됨. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-02-22_10",
+      "id": "2026-02-22_11",
       "date": "2026-02-22",
       "category": "국제",
-      "title": "구글 지도 데이터 반출, 정부 결정의 중요 기로에 서다",
+      "title": "구글 지도 데이터 반출 결정 임박: 정부의 선택은?",
       "summary": [
-        "구글 지도 데이터의 해외 반출에 대한 정부 결정이 중요한 기로에 섰습니다.",
-        "정부의 판단에 따라 구글 지도 서비스의 국내 제공 방식에 큰 변화가 예상됩니다."
+        "구글의 지도 데이터 해외 반출에 대한 정부 결정이 임박했다.",
+        "이번 결정은 국내 지도 서비스 시장에 큰 영향을 미칠 것으로 예상된다.",
+        "정부는 안보와 산업 발전을 고려하여 신중하게 판단할 것으로 보인다."
       ],
-      "whyImportant": "정부의 결정에 따라 국내 지도 서비스 시장과 구글의 사업 전략에 영향을 미칠 수 있습니다.",
-      "importanceRationale": "근거: 정부의 정책 결정은 관련 산업 전반에 걸쳐 파급 효과를 가져올 수 있으며, 특히 구글과 같이 글로벌 기업의 사업 전략에 중요한 영향을 미치기 때문입니다.",
+      "whyImportant": "구글의 지도 데이터 반출 여부는 국내 지도 서비스 시장의 경쟁 환경과 국가 안보에 중요한 영향을 미치기 때문입니다.",
+      "importanceRationale": "근거: 구글 지도 데이터 반출 결정은 정책적으로 중요한 사안이며, 국내 기업과 사용자 모두에게 광범위한 영향을 미칠 수 있습니다.",
       "impactSignals": [],
       "dedupeKey": "google_maps_export_decision",
       "clusterKey": "구글",
@@ -286,22 +313,23 @@
       "importance": 2,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 내용이 일치하며, 핵심 내용을 잘 요약했습니다. / 근거부족",
+      "qualityReason": "제목과 본문이 일치하며, 핵심 내용을 요약했습니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-02-22_11",
+      "id": "2026-02-22_12",
       "date": "2026-02-22",
       "category": "국제",
       "title": "'상호관세 위법' 판결에도 500조 대미 투자 재협상 어려울 듯",
       "summary": [
-        "상호관세 위법 판결에도 불구하고 500조 원 규모의 대미 투자 재협상이 어려울 것으로 예상됩니다."
+        "상호 관세 위법 판결에도 불구하고 500조 원 규모의 대미 투자 재협상이 어려울 것으로 예상됩니다.",
+        "이는 연합뉴스 한민족센터의 보도 내용입니다."
       ],
-      "whyImportant": "미국과의 무역 관계 및 투자에 대한 중요한 변화 가능성을 시사합니다.",
-      "importanceRationale": "근거: 대규모 대미 투자 재협상 가능성이 낮다는 점은 경제적, 정치적 측면에서 중요한 의미를 가집니다.",
+      "whyImportant": "미국과의 투자 관계에 대한 중요한 전환점이 될 수 있습니다.",
+      "importanceRationale": "근거: 500조 원 규모의 대미 투자 재협상 가능성이 낮다는 것은 양국 경제 관계에 상당한 영향을 미칠 수 있기 때문입니다.",
       "impactSignals": [],
-      "dedupeKey": "상호관세 위법 판결에도…500조 대미 투자 재협상 어려울 듯",
+      "dedupeKey": "상호관세 위법 판결에도 500조 대미 투자 재협상 어려울 듯",
       "clusterKey": "500조",
       "matchedTo": null,
       "sourceName": "연합뉴스 한민족센터",
@@ -312,12 +340,45 @@
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 간결하게 요약되었습니다. / 근거부족",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었습니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-02-22_12",
+      "id": "2026-02-22_13",
+      "date": "2026-02-22",
+      "category": "경제",
+      "title": "실적 속보: Opendoor, 주택 판매 증가로 급등, Live Nation, 더 많은 팬들이 쇼를 보러 가면서 급등",
+      "summary": [
+        "Opendoor는 주택 판매 증가로 급등했다.",
+        "Live Nation은 더 많은 팬들이 쇼를 보러 가면서 상승했다.",
+        "이는 실적 발표에 따른 시장 반응이다."
+      ],
+      "whyImportant": "Opendoor와 Live Nation의 주가 변동은 해당 기업의 실적과 시장 수요를 반영한다.",
+      "importanceRationale": "근거: Opendoor의 주택 판매 증가와 Live Nation의 팬 증가가 주가 상승으로 이어졌다는 직접적인 정보가 제공되었기 때문이다.",
+      "impactSignals": [
+        {
+          "label": "market-demand",
+          "evidence": "home sales upswing, more fans head to shows"
+        }
+      ],
+      "dedupeKey": "earnings-20240130-001",
+      "clusterKey": "home",
+      "matchedTo": null,
+      "sourceName": "Yahoo Finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQU3dMdzdYMWsxT3I5RlJNcHJqQVhZMlo5c092a0JlZnIyQzkwb3ZRUEl0b1dkak9FQkNGMy00T211QlJaYlBBdFNrRnRZTFc0aEphUndVUVZLZnFLbnRpeTZ3RzNzNjZSdmU0Z0NFVW5oZHVBc1RwWERHTDE4UVNDdVNZS2M2dm5xOTZVS2NNNEh0bWRqTXJwOFRDamhhSmF6UUFqUVcwT05pbGJZV3NuTkRPVGp5OXRZNTJUYmR5dERiVnZBS0RrZ2VkTXpDMGN6X3Jlc01R?oc=5",
+      "publishedAt": "2026-02-20T14:43:59.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 3.5,
+      "importanceRaw": 63,
+      "qualityLabel": "ok",
+      "qualityReason": "The article provides direct information about earnings and market reactions.",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-02-22_14",
       "date": "2026-02-22",
       "category": "기술",
       "title": "팔로알토 네트웍스, AI SOC 및 침해 대응 보장을 포함한 MSIAM 2.0 출시",
@@ -325,8 +386,8 @@
         "팔로알토 네트웍스가 AI SOC 및 침해 대응 보장을 특징으로 하는 MSIAM 2.0을 출시했습니다.",
         "MSIAM 2.0은 보안 운영을 강화하고 침해 사고 발생 시 신속한 대응을 지원합니다."
       ],
-      "whyImportant": "보안 솔루션의 발전은 기업의 사이버 보안 역량을 강화하는 데 중요한 역할을 합니다.",
-      "importanceRationale": "근거: 팔로알토 네트웍스의 MSIAM 2.0 출시가 AI 기반 보안 운영 및 침해 대응 보장을 통해 기업 보안을 향상시킬 수 있기 때문입니다.",
+      "whyImportant": "보안 솔루션의 발전은 기업의 사이버 보안 태세를 강화하는 데 중요한 역할을 합니다.",
+      "importanceRationale": "근거: 팔로알토 네트웍스의 MSIAM 2.0 출시가 AI 기반 보안 운영 및 침해 대응 능력 향상을 통해 기업 보안에 기여할 수 있기 때문입니다.",
       "impactSignals": [
         {
           "label": "security",
@@ -344,47 +405,74 @@
       "importance": 3.5,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "The article provides a concise overview of a product launch.",
+      "qualityReason": "The article provides a concise overview of a new product launch.",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-02-22_13",
+      "id": "2026-02-22_15",
       "date": "2026-02-22",
       "category": "국제",
-      "title": "LG전자, '글로벌 사우스' 전략으로 2030년까지 매출 2배 목표",
+      "title": "김 총리, 한미 관세 협상 조건 변경 논의 가능성 시사",
       "summary": [
-        "LG전자가 '글로벌 사우스' 시장 공략을 통해 2030년까지 매출을 2배로 늘리겠다는 목표를 제시했습니다.",
-        "이는 LG전자의 새로운 성장 동력 확보 전략으로 풀이됩니다."
+        "김 총리는 한미 관세 협상에서 조건 변경 가능성을 논의할 것이라고 밝혔습니다.",
+        "구체적인 내용은 언급되지 않았습니다."
       ],
-      "whyImportant": "LG전자가 글로벌 사우스 시장에 집중하여 매출 성장을 도모하는 전략적 변화를 보여줍니다.",
-      "importanceRationale": "근거: LG전자가 2030년까지 매출 2배 증가를 목표로 '글로벌 사우스' 시장 공략을 발표했습니다.",
+      "whyImportant": "이번 발언은 향후 한미 무역 관계에 중요한 영향을 미칠 수 있습니다.",
+      "importanceRationale": "근거: 총리의 발언은 정부의 정책 변화 가능성을 시사하며, 이는 관련 산업 및 경제 전반에 파급 효과를 가져올 수 있기 때문입니다.",
       "impactSignals": [],
-      "dedupeKey": "LG전자가 '글로벌 사우스' 전략으로 2030년까지 매출 2배 목표",
-      "clusterKey": "2030년",
+      "dedupeKey": "kim-prime-minister-tariff-negotiation",
+      "clusterKey": "뭔가",
       "matchedTo": null,
-      "sourceName": "서울경제TV",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5OV1dOdWtHeWdmZWFhUk8wU3A4RUwyZFpYSE5ubmhNb3huUVpIay1aNVh3TTRYdy1HMlVwOHJWbUZDMGxCOFN5MmJRR2VQcFpZZ3JyRklsclN3blF3Z1ZDYVF5SEw?oc=5",
-      "publishedAt": "2026-02-22T01:15:30.000Z",
+      "sourceName": "조선일보",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSlJQOE90VTk4V2NEWG9jekhDcGk2cW5ucHpLM0lRWGZLN013N0NaSFBfMGVXUnI3cHpCaXI2NmpEaWhkUG9fNVprVkh0ejVNSGZ4QWRaM2g3MkMwS0dFN1piX191OWpvTkgwd3g5YUFkcTFqbzllT29OcVdkLTBvWHNud185LTjSAZsBQVVfeXFMT0dxWDIyMWlkZGNKWTVMNk9ZalQ2MUN1S0N4WkNwbGR0M0pEZy1KOWdjQjlWMVdPZDRLUEFfSURvWGRoN2NXOE9hTG1sUkJsOEloem9ydFZDWXJlUnpCdklVazNfWWZsZHVZX2t6RUx6Wk1nLWZJNzNlbTFZVEg1RmVhbEF4cU5BaFJqZGVaZXJ5TTdTclZURlRWb0U?oc=5",
+      "publishedAt": "2026-02-21T10:19:00.000Z",
       "readTimeSec": 10,
       "status": "kept",
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 내용이 일치하며, 핵심 내용을 잘 반영하고 있습니다. / 근거부족",
+      "qualityReason": "기사의 내용이 명확하고 간결하며, 정보의 출처가 분명합니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-02-22_14",
+      "id": "2026-02-22_16",
+      "date": "2026-02-22",
+      "category": "정책",
+      "title": "국회 여론조사: 68.3% 개헌 찬성, 77.5% 계엄 시 국회 통제 강화 필요",
+      "summary": [
+        "국회 여론조사 결과, 응답자의 68.3%가 개헌에 찬성했다.",
+        "또한 77.5%는 계엄 상황 발생 시 국회의 통제 권한을 강화해야 한다고 응답했다."
+      ],
+      "whyImportant": "개헌에 대한 국민적 지지와 계엄 시 국회 역할에 대한 여론을 보여주는 지표입니다.",
+      "importanceRationale": "근거: 높은 비율의 응답자들이 개헌에 찬성하고 계엄 시 국회 통제 강화에 동의하는 것은 정책 결정에 중요한 참고 자료가 될 수 있습니다.",
+      "impactSignals": [],
+      "dedupeKey": "20240116-국회 여론조사-개헌 찬성-계엄 국회 통제 강화",
+      "clusterKey": "강화해야",
+      "matchedTo": null,
+      "sourceName": "미디어오늘",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8tLWk1NTAyZXRfY181elhjTUZmNkRFTk0xUEZRRXpzc21lUDBYckVoSC1ZY2M0MmFPLXFINHZaWnB3SHBkYmtXel9Jc3JiMHlyc1pzSDZJVUFkYVBnc1RLa3JJSnRFb25sX2YyeTB3TmM?oc=5",
+      "publishedAt": "2026-02-22T07:21:49.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 63,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 본문이 일치하며, 간결하게 요약되었습니다. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-02-22_17",
       "date": "2026-02-22",
       "category": "정책",
       "title": "대전·충남 행정통합 특별법, 국힘 반발 속 24일 국회 본회의 처리 주목",
       "summary": [
         "대전과 충남의 행정통합 특별법이 국민의힘의 반발 속에 24일 국회 본회의에서 처리될지 주목된다."
       ],
-      "whyImportant": "대전과 충남의 행정통합에 대한 정책적 결정이 임박했음을 나타낸다.",
-      "importanceRationale": "근거: 행정통합 특별법의 국회 본회의 처리가 예정되어 있어 정책 결정의 중요한 단계에 진입했음을 시사한다.",
+      "whyImportant": "대전과 충남의 행정통합에 관한 법률 제정 가능성을 보여주는 중요한 지표입니다.",
+      "importanceRationale": "근거: 행정통합 특별법의 국회 본회의 처리는 지역 행정 체계에 큰 변화를 가져올 수 있는 정책 결정의 중요한 단계이기 때문입니다.",
       "impactSignals": [],
       "dedupeKey": "대전·충남 행정통합 특별법, 국힘 반발 속 24일 국회 본회의 처리 주목",
       "clusterKey": "24일",
@@ -397,120 +485,34 @@
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되어 있음. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-02-22_15",
-      "date": "2026-02-22",
-      "category": "정책",
-      "title": "이강덕, \"대구·경북 행정통합, 주민투표로 결론내야\"…국회 본회의 상정 중단 촉구",
-      "summary": [
-        "이강덕 시장은 대구·경북 행정통합에 대해 주민투표로 결론을 내야 한다고 주장했다.",
-        "그는 국회 본회의 상정 중단을 촉구했다."
-      ],
-      "whyImportant": "대구·경북 행정통합에 대한 논의 방향을 제시하고, 주민 의사를 반영해야 한다는 주장이 제기됨.",
-      "importanceRationale": "근거: 이강덕 시장이 대구·경북 행정통합에 대한 결정 방식으로 주민투표를 제안하고 국회 본회의 상정 중단을 촉구함으로써, 정책 결정 과정에서의 주민 참여 중요성을 강조하고 있다.",
-      "impactSignals": [],
-      "dedupeKey": "20240116_대구경북행정통합주민투표",
-      "clusterKey": "결론내야",
-      "matchedTo": null,
-      "sourceName": "프레시안",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5XblRPUFBjUTJ4d08weGhKY1lXRGwtdzNteXdSOVFKNXo0SU84RnV2V0hiZ094al9QRWpUTzVKdFpZdnVfOUtkWEIyZW1QMlZEN2U1OWpCck0tLXhET2V0MUh6OUNVNXdydzZB?oc=5",
-      "publishedAt": "2026-02-22T02:06:21.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 63,
-      "qualityLabel": "ok",
-      "qualityReason": "기사 내용이 간결하고 명확하며, 주장을 뒷받침하는 근거가 제시됨. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-02-22_16",
-      "date": "2026-02-22",
-      "category": "경제",
-      "title": "상법 개정 및 저PBR 정상화 기대감에 '증권 ETF' 주간 수익률 급등",
-      "summary": [
-        "상법 개정 기대감과 저PBR(주가순자산비율) 정상화에 대한 기대 심리가 증권 ETF의 주간 수익률을 끌어올렸습니다.",
-        "이는 투자자들의 긍정적인 전망을 반영한 결과로 해석됩니다."
-      ],
-      "whyImportant": "상법 개정 논의와 저PBR 기업 가치 개선 기대감이 증권 ETF에 미치는 영향을 보여주는 사례입니다.",
-      "importanceRationale": "근거: 상법 개정 및 저PBR 정상화 기대감이 증권 ETF의 주간 수익률 상승을 주도했다는 직접적인 정보가 제공되었습니다.",
-      "impactSignals": [
-        {
-          "label": "policy",
-          "evidence": "상법 개정 기대감이 증권 ETF 수익률에 영향을 미침"
-        }
-      ],
-      "dedupeKey": "상법개정_저PBR_증권ETF_수익률",
-      "clusterKey": "금융/etf",
-      "matchedTo": null,
-      "sourceName": "마켓인",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBVSFpsT3ZnVmxQYk9FTjVEY3BDZXNjR09WaWZuWGMxNkNIRUxuWUJ2aXNxYkhjUlZ0Nk8yZF9aWFEtbmxZQXZFeWxJQzR6dzhtbklZZW9kdVB1dXVOeWEwejdhSnlWSU9IV0JZZldQeGVCZkU?oc=5",
-      "publishedAt": "2026-02-22T00:34:55.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 3.5,
-      "importanceRaw": 63,
-      "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하고 명확하게 작성되었습니다.",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-02-22_17",
-      "date": "2026-02-22",
-      "category": "경제",
-      "title": "Enphase Energy 이사, 강력한 실적 발표 후 1100주 매각",
-      "summary": [
-        "Enphase Energy의 이사가 강력한 실적 발표 이후 1100주를 매각했습니다.",
-        "이번 주식 매각은 Motley Fool에 의해 보도되었습니다."
-      ],
-      "whyImportant": "Enphase Energy 이사의 주식 매각은 투자자 심리에 영향을 줄 수 있습니다.",
-      "importanceRationale": "근거: 이사의 주식 매각은 회사 내부 상황에 대한 신호로 해석될 수 있으며, 이는 투자 결정에 영향을 미칠 수 있습니다.",
-      "impactSignals": [],
-      "dedupeKey": "EnphaseEnergyDirectorSellsShares",
-      "clusterKey": "에너지/after",
-      "matchedTo": null,
-      "sourceName": "The Motley Fool",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcEd6dDQ2alJXelM2OFR2eHBOdFJxcHVlRWNERzh4bGNSMExBSGYwUmpUb1ptSjhvdkQ4VGhrUTYtMGxtdXMtQ1RkdDY2bmZDenZHQV9PV3lIVVh0YlpIMk45UGxxaEdZWlRDR2hrV2Qyb2RuNUhOUGNxRjhhYkdMQ0VIdUpCMkdkM3Mxc0VzemVyM0ZrWmoxUlZ2aUV2clFMSG9LRXlGUmg2cDVpRGJvNFBBTQ?oc=5",
-      "publishedAt": "2026-02-22T05:41:00.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 50,
-      "qualityLabel": "ok",
-      "qualityReason": "The article is short and factual. / 근거부족",
+      "qualityReason": "제목과 내용이 일치하며 간결하게 요약되었습니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-02-22_18",
       "date": "2026-02-22",
-      "category": "기술",
-      "title": "오라클 클라우드 침해: 알아야 할 사항",
+      "category": "정책",
+      "title": "제16대 국회 의원 및 각급 인민의회 의원 선거 철저 준비",
       "summary": [
-        "오라클 클라우드에서 보안 침해가 발생했습니다.",
-        "자세한 내용은 thedetroitbureau.com에서 확인할 수 있습니다."
+        "제16대 국회 의원 및 각급 인민의회 의원 선거를 철저히 준비해야 합니다.",
+        "Vietnam.vn에서 보도되었습니다."
       ],
-      "whyImportant": "오라클 클라우드 보안 침해에 대한 정보",
-      "importanceRationale": "근거: 오라클 클라우드에서 보안 침해가 발생했다는 사실은 사용자 데이터 및 시스템 보안에 대한 우려를 야기하므로 중요합니다.",
+      "whyImportant": "다가오는 베트남 국회 의원 및 인민의회 의원 선거 준비의 중요성을 강조합니다.",
+      "importanceRationale": "근거: 선거 준비는 국가의 정치적 안정과 발전에 중요한 영향을 미치기 때문입니다.",
       "impactSignals": [],
-      "dedupeKey": "oracle_cloud_breach_20240130",
-      "clusterKey": "클라우드/breach",
+      "dedupeKey": "16th-vietnam-parliament-election-prep",
+      "clusterKey": "각급",
       "matchedTo": null,
-      "sourceName": "thedetroitbureau.com",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUWNTSXF3dmg3QldseHRvVDI1QWY0dXRrTHlZX2dFS0dqVWlpWDl1allXUnZoek15eExRbUNiWTJzZGs0R3ItamEzZDZhSmVqdU51bVRURnh4NGd4clZTaElYRHNzSmZPMHJCa1RuZm41SUVnUVZLQk54M2hDVUxKTVRBSUxvbDdBRHQ4Rm9fQWIyUmVxV0t4MXNHTzRmbjg?oc=5",
-      "publishedAt": "2026-02-21T04:23:56.000Z",
+      "sourceName": "Vietnam.vn",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNREZYZUNTcURiMXBmTzJpem9vSXE0WUw0b0xvTDZKYlVlYWZKTElwaTR0VG0wZlZoNmwycl9NNDFWdXlac2Y1b0d1c05LTnBBX3V5SnBQQmRMS1JlajQ0dldUSjZPZkUyZjVQVkVoSEVIZHJkVlJZTVc1cGdxUENOYWFwTkhuN2Z2TGJUYVU2TWtmaW1qdGwtLVRPb3ZMMHFzSVNNZmZhYWJSZTdsUHZJaQ?oc=5",
+      "publishedAt": "2026-02-22T06:36:23.000Z",
       "readTimeSec": 10,
       "status": "kept",
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "The article provides a clear and concise summary of the Oracle Cloud breach. / 근거부족",
+      "qualityReason": "기사 내용이 간결하고 명확합니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -518,57 +520,57 @@
       "id": "2026-02-22_19",
       "date": "2026-02-22",
       "category": "기술",
-      "title": "식품 공급망, 농지 소유권 및 반독점 조사 관련 법률 및 정책의 최근 동향",
+      "title": "SKT, MWC26에서 AI 데이터센터 플랫폼 '풀스택 AI' 솔루션 공개",
       "summary": [
-        "Wiley Rein에서 식품 공급망, 농지 소유권 및 반독점 조사와 관련된 법률 및 정책의 최근 동향을 발표했습니다.",
-        "이 보고서는 해당 분야의 최신 법률 및 정책 개발에 대한 정보를 제공합니다."
+        "SKT가 MWC26에서 AI 데이터센터 플랫폼 '풀스택 AI' 솔루션을 공개했다."
       ],
-      "whyImportant": "식품 산업에 영향을 미치는 법적 및 정책적 변화를 이해하는 데 중요합니다.",
-      "importanceRationale": "근거: 식품 공급망, 농지 소유권 및 반독점 조사에 대한 법률 및 정책 변경은 식품 산업 운영 방식에 상당한 영향을 미칠 수 있습니다.",
-      "impactSignals": [
-        {
-          "label": "policy",
-          "evidence": "식품 공급망, 농지 소유권 및 반독점 조사 관련 법률 및 정책의 최근 동향."
-        }
-      ],
-      "dedupeKey": "food_supply_chain_law_policy_wiley_rein",
-      "clusterKey": "chain",
+      "whyImportant": "SKT의 AI 데이터센터 플랫폼 솔루션 공개는 AI 인프라 시장에서의 경쟁력 강화에 중요한 역할을 할 수 있다.",
+      "importanceRationale": "근거: SKT가 MWC26에서 '풀스택 AI' 솔루션을 공개한 것은 AI 데이터센터 기술 혁신을 보여주는 사례이며, 이는 관련 시장에 상당한 영향을 미칠 수 있다.",
+      "impactSignals": [],
+      "dedupeKey": "SKT_MWC26_풀스택AI",
+      "clusterKey": "클라우드/mwc26서",
       "matchedTo": null,
-      "sourceName": "Wiley Rein",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPdEFrRDZLeHZlSUpLLUdKUnNYeFZRMWVvUjBVbmprU3B3YUNOVVBCS2NzYThiYzUtdXg1RFNIdXBOaVc1dDMxUW1JYXg0RGZ4S09XWENUd3NKbWZFUHJWZlJIUG1VcDhyWTFvWWk3cURaeDV5d0cwd05pcHdFY1dWOFpJRmdYNkQ2UXVWNDcxS2VmQ29tODJhVk5qVkotdl83bjBLaTJ6eVpoSFNBbHVuTmRJeXhiOWxTbXhLXzluWHVrX2RZeWNpZ1dXUDV0dEZPSXl3aWZGS2J0YmtBb0U4UUdlelg5anZFMmc?oc=5",
-      "publishedAt": "2026-02-20T16:55:44.000Z",
+      "sourceName": "스페셜경제",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBHRktEdUducDd6Z29lSmZTMnhVWUtybE8zUDBQWmhkMWoyQWxfMG9MVDQtSzE1eF9OSUMwQ2VmNldLclFscHp5X1ZuWXFoVEMxV2ZtOElCSVM0ekFzY0h1TFNJS3RhNXNTTlRaSA?oc=5",
+      "publishedAt": "2026-02-22T05:35:00.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 3.5,
+      "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 텍스트가 일치하며, 정보가 명확하게 제시되어 있습니다.",
+      "qualityReason": "기사 내용이 간결하고 명확하며, 정보의 출처가 분명하다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-02-22_20",
       "date": "2026-02-22",
-      "category": "에너지",
-      "title": "국가 에너지 안보 확보에 기여",
+      "category": "기술",
+      "title": "Microsoft CEO, 빌 게이츠의 OpenAI 투자 반대 발언 인용: '10억 달러를 태워버릴 것'",
       "summary": [
-        "베트남이 국가 에너지 안보 확보에 기여하고 있습니다."
+        "Microsoft CEO는 빌 게이츠가 OpenAI에 대한 투자를 반대했다고 밝혔습니다.",
+        "게이츠는 초기 투자에 대해 '10억 달러를 낭비할 것'이라고 우려했습니다."
       ],
-      "whyImportant": "베트남의 에너지 안보 기여는 지역 안정과 경제 발전에 중요한 역할을 합니다.",
-      "importanceRationale": "근거: 기사는 베트남이 국가 에너지 안보 확보에 기여한다고 명시하고 있습니다.",
-      "impactSignals": [],
-      "dedupeKey": "국가 에너지 안보 확보에 기여합니다. Vietnam.vn",
-      "clusterKey": "에너지/vietnam",
+      "whyImportant": "Microsoft의 OpenAI 투자는 AI 기술 발전과 시장 경쟁에 중요한 영향을 미칩니다.",
+      "importanceRationale": "근거: Microsoft CEO가 직접 언급한 빌 게이츠의 반대 발언은 초기 투자 결정의 어려움과 중요성을 강조합니다.",
+      "impactSignals": [
+        {
+          "label": "policy",
+          "evidence": "Microsoft의 OpenAI 투자는 AI 기술 정책 및 규제에 영향을 미칠 수 있습니다."
+        }
+      ],
+      "dedupeKey": "microsoft-openai-gates-opposition",
+      "clusterKey": "bill",
       "matchedTo": null,
-      "sourceName": "Vietnam.vn",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA4d1lpdnFzXy1uNk5mZV9xMUEtOEIxXzFMSFF3TnBjNDFaVk5ad1lNemdaRmpGOWNCUTRwbkU1aFBIemJCZnhVcmxjX18wQ2VnaEllRnZfdFg1eThQLWMybzJmcnE2S1JVTFl0c2hQS0pZZ3VoYlNSY2Zn?oc=5",
-      "publishedAt": "2026-02-22T03:17:29.000Z",
+      "sourceName": "Fortune",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNcjdseUFIbmNCa3o4OWZxSWtGZXFZTUlhRW5xZU05S1N3NHVoVkpvODhPVGpUOGNWNHpYcEozVlhNaVZ2SVpBZ3BMWU51VWlTSHNFcFdoT3NPQ0hQenl5R1FTTUVtNHFVSGZPOUI5UF9Ed2xocWVNNEFxYlNMSjNsOE9GQ3VmOWVrNVVvdnE4MjZ1TnpnbDA4cDF3bUxyVThfdWxlZ2J5Qk95ZDZLSElQSVV4Z2ZPX2dNVUljUW9iT184VVJUYWpIZXNLbWZaa0NF?oc=5",
+      "publishedAt": "2026-02-21T16:05:00.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 2,
-      "importanceRaw": 50,
+      "importance": 3.5,
+      "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "기사의 내용이 명확하고 간결합니다. / 근거부족",
+      "qualityReason": "제목과 내용이 일치하며, 요약이 명확합니다.",
       "isBriefing": false,
       "isBreaking": false
     }
