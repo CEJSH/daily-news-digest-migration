@@ -3,64 +3,58 @@
   "selectionCriteria": "① 내일도 영향이 남는 이슈 ② 과도한 감정 소모 제외 ③ 어제와 중복되는 뉴스 제외",
   "editorNote": "이 뉴스는 클릭 수가 아니라 오늘 이후에도 남는 정보만 기준으로 편집했습니다.",
   "question": "정보를 덜 보는 것이 오히려 더 똑똑한 소비일까?",
-  "lastUpdatedAt": "2026-02-23T02:23:29.157+09:00",
+  "lastUpdatedAt": "2026-02-23T03:32:08.018+09:00",
   "items": [
     {
       "id": "2026-02-23_1",
       "date": "2026-02-23",
       "category": "경제",
-      "title": "이번 주 Home Depot, TJX 등 소매업체 실적 발표에서 관세 비용 및 환불이 주목을 받다",
+      "title": "이번 주 Home Depot, TJX 등 소매업체 실적 발표에서 관세 비용 및 환불이 주목을 받음",
       "summary": [
-        "Home Depot, TJX 등 소매업체들의 실적 발표가 이번 주에 예정되어 있다.",
-        "관세 비용과 환불 문제가 주요 관심사로 떠오르고 있다."
+        "Home Depot, TJX 등 소매업체들의 실적 발표에서 관세 비용과 환불 문제가 주요 관심사로 떠오르고 있습니다.",
+        "이번 주 실적 발표에서 이와 관련된 논의가 활발할 것으로 예상됩니다."
       ],
-      "whyImportant": "소매업체들의 실적에 영향을 미치는 관세 및 환불 정책의 변화를 파악하는 데 중요.",
-      "importanceRationale": "근거: 소매업체 실적 발표에서 관세 비용과 환불 문제가 주요하게 다뤄질 것으로 예상되므로, 관련 정책 변화가 기업 실적에 미치는 영향을 파악하는 데 중요함.",
+      "whyImportant": "소매업체의 수익성에 영향을 미치는 관세 및 환불 정책의 중요성을 강조합니다.",
+      "importanceRationale": "근거: 관세 비용과 환불 정책이 소매업체의 수익성에 직접적인 영향을 미치기 때문입니다.",
       "impactSignals": [],
       "dedupeKey": "tariffs_refunds_retailers_earnings_this_week",
       "clusterKey": "costs",
       "matchedTo": null,
       "sourceName": "MarketWatch",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi6wNBVV95cUxPaTktSlo2VkIzSnNiZzNabk5oVlpkbHNfOVlqQ2xGUkxsSlFjMzhsYlA4Z1BLSTR1MzVOa18taXMwU3pZaEN2bjlFVWM4Y3M1ZzZvS3JaeVRqYy1TSEEwTjFKNEE3MGw4bTIwc1NjQkQ1T2I5TDN2N085bjVBM1N3WDhMRm4xME5veGp4SVlkbm44SzhYcUl5OHdwNWtnY3lweTdmWTJ1VllaLUJhSnBfSTBTRW1naVB0TEs0Tzg2ZUcwV0pxRmNrQks4b3VuRWxrUTd1cXk0Qmt4cnFfVGpKR3laWFV2ampQRzdwcTdWZTI2ZEp3ZDQ5UVVLRlNreFNWZHN6ckxnWDNuOVE1OHc2UEoyazR4b3dNWG13SW5IOTVYeFBGaENaVnBwejl6OS13dDFUcTVUT2tEYzVZTFRuZXhnRkRWMFBKSGJuZEI1STVIa0UwTllXZWtFcDYtN0ZSX0EwMUNwWGhSWVpHV2wwM2J2cXdlSkg2djhRd1d4Y2wxLWhRR09hamNLRFNJV0N5M2hNQmFfTmFnN2c3ck0tcXZtWFI2RzI4aVBxTlZweGd4NURkLU9haFdFbU5UQTE2Wm9namZNU3pMTUNhRktjdWs0SDFSbVhjQ2JzcDZyVlJ0cktua1dYRGVTTQ?oc=5",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi6wNBVV95cUxQa25ydDY0WkdoUzZmeWRaVUZEYi1CNkI2SkRLa25kelZDajZOd21IU24xbDg4QXRINjZXZWRzOFFtS2ZPTUkwbk0tekRjVl9Za3BtN28wZU9teGhKVFVjR01OVmdJY1BNQ0RuODlQOUc0S1dmeXFZcnR0aHFMNmNoRW5mQkNuRFkyVXhIcUhmY2YtUFltTk14YzhVWmpWRmxZNXNCcElOT3Jvc2xnNzNyS3hxNEpncVM3LThUbnBGYXJpMG1xbFpqMTk4RGthc3VsTkFORjFrSXl3OE9XRC03SHNXY0RqUmZKTlhtSVRLWm54YTdvVE0zcWtTOWcyZ1loR3JnUWE1WkxMR251VjBicHhjVDA5azNEWjVwT1JTeU1wM1U0NXhPSnlzcDBFbzdtY1F1cDZDV196alh2d3gtWFVBMnR2eVIzU1JyYmRuV292cWtlUzVJRzg4LXFWMC1PSU9RRDdxRUpWNXkwN1JyVEhUTm1RNkF1SS1ldjJ2V0J3YU5uUVZiSENIODJtZXdfZmtJMFc5M1dmX2ZHN09relRnLV9WbTZzY01JMVZJcFg1TjdIT1VnR1cxcHQ2ZHJGTEFNbzNkRWp2eml0ZW9ib1NaLVJZVnRXLXRlbW4tcld4a3R0M1lPbUViQQ?oc=5",
       "publishedAt": "2026-02-22T15:00:00.000Z",
       "readTimeSec": 10,
       "status": "kept",
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 정보가 명확함. / 근거부족",
+      "qualityReason": "제목과 본문이 일치하며, 정보가 명확합니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-02-23_2",
       "date": "2026-02-23",
-      "category": "정책",
-      "title": "빠른 임상 허가 및 상장 규제 개선…'바이오 선진화' 주도한 중국 정부",
+      "category": "국제",
+      "title": "‘6000선 목전’ 코스피, 엔비디아 실적·美 관세 정책 등 변수[주간증시전망]",
       "summary": [
-        "중국 정부가 빠른 임상 허가와 상장 규제 개선을 통해 '바이오 선진화'를 주도하고 있다.",
-        "이는 한국경제에서 보도된 내용이다."
+        "코스피가 6000선에 근접했으며, 엔비디아 실적과 미국 관세 정책 등이 변수로 작용할 전망이다."
       ],
-      "whyImportant": "중국 정부의 바이오 산업 육성 정책 방향을 파악할 수 있다.",
-      "importanceRationale": "근거: 중국 정부의 정책 변화는 관련 산업에 미치는 영향이 크기 때문이다.",
-      "impactSignals": [
-        {
-          "label": "policy",
-          "evidence": "임상 허가 및 상장 규제 개선을 통해 바이오 산업을 육성하는 정책을 추진 중임"
-        }
-      ],
-      "dedupeKey": "빠른 임상 허가 및 상장 규제 개선…'바이오 선진화' 주도한 중국 정부",
-      "clusterKey": "개선",
+      "whyImportant": "코스피 향방에 영향을 줄 수 있는 주요 변수들을 제시합니다.",
+      "importanceRationale": "근거: 엔비디아 실적 발표와 미국 관세 정책이 코스피에 미치는 잠재적 영향을 강조하고 있기 때문입니다.",
+      "impactSignals": [],
+      "dedupeKey": "kospi-nvidia-tariff-2024",
+      "clusterKey": "6000선",
       "matchedTo": null,
-      "sourceName": "한국경제",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBRbVI5VTdxdXBtZFVoNF9oczBGWVBoMS1MM3lZQmo3QlRGdUNZRDhocWVwSnNLS0Z2OHRxZGtkaWo4NUdvbnlqTlk5b1ZWVWhsbHloNzFhN0lDUdIBVEFVX3lxTE9RSDRBd0ZjYVFNaU1KdjJvampZYlhINlpDWjNpYzc2bFp4bmw5RHNkTjR6TV92M0c4RElrLXl0b0VRNUJWcXlGWnNEVnF6VnZjLXdYZA?oc=5",
-      "publishedAt": "2026-02-22T08:33:44.000Z",
+      "sourceName": "edaily.co.kr",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPYWFSS2N0WnZ3bldjTkt0aDFra1JELXdrZ0JjUUs5blc0cW9vVmIwNzQ5Uzd0ZG12UW95Z1lGaUFiX2ZGdDNlTlRVY0pSbXJuZmw1MDFZT3ZiWUdhN0FIbXl5M2dka0N1VVBmQUsxb2ZrMXpEQWxWbFppOTRFTms2cw?oc=5",
+      "publishedAt": "2026-02-22T05:56:15.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 3.5,
+      "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 간결하게 요약됨.",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되어 있습니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -68,15 +62,42 @@
       "id": "2026-02-23_3",
       "date": "2026-02-23",
       "category": "정책",
+      "title": "중국 정부, 신속한 임상 허가 및 상장 규제 개선으로 '바이오 선진화' 주도",
+      "summary": [
+        "중국 정부가 신속한 임상 허가와 상장 규제 개선을 통해 '바이오 선진화'를 주도하고 있다.",
+        "이는 중국 바이오 산업의 발전을 가속화하는 데 기여하고 있다."
+      ],
+      "whyImportant": "중국 정부의 바이오 산업 육성 정책 방향을 보여주는 사례입니다.",
+      "importanceRationale": "근거: 중국 정부가 임상 허가와 상장 규제 개선을 통해 바이오 산업을 적극적으로 지원하고 있다는 점을 강조하고 있습니다.",
+      "impactSignals": [],
+      "dedupeKey": "중국 바이오 선진화 정책",
+      "clusterKey": "개선",
+      "matchedTo": null,
+      "sourceName": "한국경제",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBRbVI5VTdxdXBtZFVoNF9oczBGWVBoMS1MM3lZQmo3QlRGdUNZRDhocWVwSnNLS0Z2OHRxZGtkaWo4NUdvbnlqTlk5b1ZWVWhsbHloNzFhN0lDUdIBVEFVX3lxTE9RSDRBd0ZjYVFNaU1KdjJvampZYlhINlpDWjNpYzc2bFp4bmw5RHNkTjR6TV92M0c4RElrLXl0b0VRNUJWcXlGWnNEVnF6VnZjLXdYZA?oc=5",
+      "publishedAt": "2026-02-22T08:33:44.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 63,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 내용이 일치하며, 핵심 내용을 잘 요약했습니다. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-02-23_4",
+      "date": "2026-02-23",
+      "category": "정책",
       "title": "국회: 국민 77.5%, 비상계엄에 대한 국회 통제 강화 필요성에 공감",
       "summary": [
         "국회는 국민의 77.5%가 비상계엄에 대한 국회 통제 강화의 필요성에 공감한다고 밝혔습니다.",
         "해당 결과는 한국경제의 여론조사를 바탕으로 합니다."
       ],
-      "whyImportant": "국민 대다수가 비상계엄에 대한 국회 통제 강화에 동의하는 것은 정책 결정에 중요한 영향을 미칠 수 있습니다.",
-      "importanceRationale": "근거: 국민의 높은 지지율은 국회가 관련 법안을 추진하거나 정책을 변경할 때 강력한 근거가 됩니다.",
+      "whyImportant": "비상계엄에 대한 국회 통제 강화 필요성에 대한 높은 국민적 공감대는 관련 정책 변화를 촉진할 수 있습니다.",
+      "importanceRationale": "근거: 국민 대다수가 비상계엄에 대한 국회 통제 강화에 동의하며, 이는 정책 결정에 중요한 영향을 미칠 수 있는 여론의 지지를 나타냅니다.",
       "impactSignals": [],
-      "dedupeKey": "국회_비상계엄_통제_강화_공감",
+      "dedupeKey": "국회_비상계엄_국회통제_강화_공감",
       "clusterKey": "강화",
       "matchedTo": null,
       "sourceName": "한국경제",
@@ -87,50 +108,83 @@
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었습니다. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-02-23_4",
-      "date": "2026-02-23",
-      "category": "경제",
-      "title": "클라르나, 분기별 수익 10억 달러 돌파. 주가가 폭락한 이유는?",
-      "summary": [
-        "클라르나의 분기별 수익이 10억 달러를 넘어섰다.",
-        "그럼에도 불구하고 주가는 급락했다."
-      ],
-      "whyImportant": "클라르나의 수익 증가에도 불구하고 주가 하락의 원인을 파악하는 것이 중요합니다.",
-      "importanceRationale": "근거: 클라르나의 재정적 성과와 시장 반응 간의 불일치는 투자자와 시장 분석가에게 중요한 시사점을 제공할 수 있습니다.",
-      "impactSignals": [],
-      "dedupeKey": "klarna_revenue_stock_drop",
-      "clusterKey": "billion",
-      "matchedTo": null,
-      "sourceName": "Barron's",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxOMzY5OTljZ3Z6dWpVdHR5OUVCbjJVUFBudkEzYVpJMlVSZFJKYWlBR2VxRW1SZnoyenE2clV3NG45dXM3ZWc5cVYxeHV0RExDZUQtN1RQSi0yclZ4QldwSW02R0NkQWk4ZHhMUElWbTJuYV9tNjRjbVNIa1BUU2tLeTNZVk8yTWNPWVV5VnVqNkRCc2UyTmx5ckNtOGVkWUt0MDBscWZFOEZrTEtPREFya0tRSWRHdW8tV2V0clloWUZkNkVQZ3J0MVVwZThqdzNiUjM3ZGZMcGNwWW9VXzVoZ1Qxb1ZCeEhrQ3E1VEVOMlJWaXFKVjZpQkFLNzlLRC1CUThtc1ZQUGVid3U3dENIM0NkRFNfeDhqekUxT3JLVEh0SnZ1eUtvSG14T0hkRjFJcGZkSzRYSXNPbGNOWU1BVFFTZ3RiY3hydDlneVNKcTdkTWRPZVJwRzFYYjByRU95Q0ZCTzJxaGRJSktGV0RLOER5ZllTWDVoSzZTNDRB?oc=5",
-      "publishedAt": "2026-02-19T19:52:00.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 63,
-      "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 핵심 내용을 요약했습니다. / 근거부족",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 핵심 내용을 전달합니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-02-23_5",
       "date": "2026-02-23",
+      "category": "경제",
+      "title": "클라르나, 분기별 수익 10억 달러 돌파. 주가가 폭락한 이유는?",
+      "summary": [
+        "클라르나의 분기별 수익이 10억 달러를 넘어섰습니다.",
+        "그럼에도 불구하고 주가는 하락세를 보이고 있습니다."
+      ],
+      "whyImportant": "클라르나의 수익 증가에도 불구하고 주가 하락의 원인을 분석하는 것이 중요합니다.",
+      "importanceRationale": "근거: 수익과 주가 간의 괴리는 투자자 심리 및 시장 상황에 대한 중요한 정보를 제공할 수 있습니다.",
+      "impactSignals": [],
+      "dedupeKey": "klarna-revenue-stock-drop",
+      "clusterKey": "billion",
+      "matchedTo": null,
+      "sourceName": "Barron's",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxPaG95aF83d24zbHdic3dpR0diZGRsMkJQMlo2UVpjZm9SbEZsbmkxd2ZJMV9IeUQ4Q2lUWGtQZDhYSl9pWkp4SFB3VWVyYWRTeG11X2N0MkM4UUdKbFkwazdkdmFlSkpONXdfQjRxUnNYRGxEWVZQV3FwYWFHYU5zVjNESHdlMFl4WUktZkk0MXBpSVhkODJseXJIMktlTWEtVWdBVUYySHEzRExCdVJUcUZObW1WcmgtcFUxQTRBSXZHYXRZNWpVX2N0Q0JJUHB4UEZ4azYxaUtjVEVSUlNaaW5GaUhDYW9UQWlpQUI5Zk5BTkViQ3UtUnNrRFE0T1prR1NUMEVQbUpGTFd6RXBqYTlxemdJRnFGNjJ2OWZRcHNubEZjRVRtT3ZVM1EwSkxVX0pCblZfMUU3U2pwdUxWbm93ZTVpVzdGQU5tLU5TR3ZVWF9aQnhvaVRkS0xQSVpZNVl6NnpsTDZuZnNjQTluTHg0VWFlZ25GZjJhZy1B?oc=5",
+      "publishedAt": "2026-02-19T19:52:00.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 63,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 본문이 일치하며, 정보가 간결하게 제공됩니다. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-02-23_6",
+      "date": "2026-02-23",
+      "category": "기술",
+      "title": "어드반테스트, 랜섬웨어 공격으로 내부 IT 시스템 및 공급망 보안에 영향",
+      "summary": [
+        "어드반테스트가 2026년에 발생한 사이버 공격으로 랜섬웨어 공격을 받았습니다.",
+        "이번 공격은 내부 IT 시스템과 공급망 보안에 영향을 미쳤습니다."
+      ],
+      "whyImportant": "공급망 보안에 대한 잠재적 영향 강조",
+      "importanceRationale": "근거: 어드반테스트는 반도체 테스트 장비의 주요 공급업체이며, 이들의 시스템 침해는 광범위한 산업에 영향을 미칠 수 있습니다.",
+      "impactSignals": [
+        {
+          "label": "security",
+          "evidence": "랜섬웨어 공격으로 내부 IT 시스템 및 공급망 보안에 영향"
+        }
+      ],
+      "dedupeKey": "advantest_ransomware_2026",
+      "clusterKey": "advantest",
+      "matchedTo": null,
+      "sourceName": "Rescana",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPN1ladE9mZER6SWhFTERMX1pqbmpSeTVaNkdRdXBqVVZOWnRaRFFyQUpUazNtOHdCRzR5RUtXRlVBTFpNUFV0cjZGUld6b3JUVnhkLUdaMklTY3Q1SXdoaHUwY2xyZFpYUW5PYWxVLV9SYnlHQXRMWDNYaGxsMy1qTmtaX1A0dV9nSlFfWmZrZWNUbi1qNGZTMXh2aTN2Rk9nd3VLVmZQa0NwMmJJM3RHc1ZaVk85dWdsTDVuM3QxZHRMYU13TXU0?oc=5",
+      "publishedAt": "2026-02-22T14:01:38.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 4,
+      "importanceRaw": 75,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 본문이 일치하며 정보가 명확합니다.",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-02-23_7",
+      "date": "2026-02-23",
       "category": "기술",
       "title": "해커, 새로운 NPM 공급망 공격에서 PNG 이미지 내부에 Pulsar RAT 숨김",
       "summary": [
-        "해커들이 NPM(Node Package Manager) 공급망 공격을 통해 PNG 이미지 파일 내부에 Pulsar RAT(Remote Access Trojan)를 숨기는 수법을 사용하고 있습니다.",
-        "이러한 공격은 소프트웨어 개발 및 배포 과정에서 보안 취약점을 악용하는 사례로, 개발자들의 주의가 요구됩니다."
+        "해커들이 NPM(Node Package Manager) 공급망을 공격하여 PNG 이미지 파일 내부에 Pulsar RAT(Remote Access Trojan)를 숨겼습니다.",
+        "이 악성 코드는 이미지 파일로 위장하여 시스템에 침투한 후 원격 제어를 가능하게 합니다.",
+        "이번 공격은 소프트웨어 공급망 보안의 취약성을 드러내며, 개발자들의 주의가 필요합니다."
       ],
-      "whyImportant": "소프트웨어 공급망 공격의 새로운 형태를 보여주며, 보안 위협이 더욱 교묘해지고 있음을 시사합니다.",
-      "importanceRationale": "근거: NPM 공급망 공격은 소프트웨어 개발 생태계 전반에 영향을 미칠 수 있으며, PNG 이미지에 악성 코드를 숨기는 방식은 탐지하기 어려워 보안 위협을 증폭시킵니다.",
+      "whyImportant": "소프트웨어 공급망 공격의 새로운 사례이며, 개발자들이 사용하는 패키지 관리 시스템의 보안 취약점을 악용한 공격입니다.",
+      "importanceRationale": "근거: NPM 공급망을 통한 악성코드 유포는 광범위한 시스템에 영향을 미칠 수 있으며, 이미지 파일 내부에 악성코드를 숨기는 방식은 탐지하기 어렵게 만듭니다.",
       "impactSignals": [],
-      "dedupeKey": "Pulsar_RAT_PNG_NPM_Attack",
+      "dedupeKey": "pulsar_rat_png_npm_attack",
       "clusterKey": "hackers",
       "matchedTo": null,
       "sourceName": "Hackread",
@@ -141,23 +195,28 @@
       "importance": 2,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 내용이 일치하며, 핵심 내용을 잘 요약했습니다. / 근거부족",
+      "qualityReason": "제목과 본문이 일치하며, 정보가 명확합니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-02-23_6",
+      "id": "2026-02-23_8",
       "date": "2026-02-23",
       "category": "기술",
       "title": "실리콘 밸리의 AI 야망을 지원하기 위해 자체 발전소를 갖춘 데이터 센터를 건설하는 기술 회사들, 텍사스에서 웨스트 버지니아까지 경종을 울리다",
       "summary": [
         "기술 회사들이 실리콘 밸리의 AI 개발을 지원하기 위해 자체 발전소를 갖춘 데이터 센터를 건설하고 있습니다.",
         "이러한 움직임은 텍사스에서 웨스트 버지니아에 이르기까지 지역 주민들의 우려를 낳고 있습니다.",
-        "주민들은 대도시를 가동할 수 있을 정도의 대규모 발전소가 인근에 건설될 것이라는 사실에 불만을 표하고 있습니다."
+        "주민들은 주요 도시에 전력을 공급할 수 있을 정도의 대규모 발전소가 인근에 들어설 것이라는 사실에 불만을 표하고 있습니다."
       ],
-      "whyImportant": "데이터 센터 건설과 자체 발전소 구축은 기술 기업의 AI 개발 투자를 보여주는 중요한 지표입니다.",
-      "importanceRationale": "근거: 기술 기업들이 AI 개발을 위해 데이터 센터와 자체 발전소 건설에 대규모 투자를 진행하고 있으며, 이는 관련 산업에 미치는 영향이 크다고 판단됩니다.",
-      "impactSignals": [],
+      "whyImportant": "데이터 센터 건설과 자체 발전소 구축은 기술 기업의 투자 동향을 보여주는 중요한 지표입니다.",
+      "importanceRationale": "근거: 기술 기업들이 AI 개발 경쟁에서 우위를 점하기 위해 데이터 센터 인프라에 대규모 투자를 하고 있으며, 이는 관련 산업 및 지역 경제에 상당한 영향을 미칠 수 있습니다.",
+      "impactSignals": [
+        {
+          "label": "capex",
+          "evidence": "Tech companies are building data centers with their own power plants"
+        }
+      ],
       "dedupeKey": "tech_data_center_power_plants",
       "clusterKey": "에너지/building",
       "matchedTo": null,
@@ -166,29 +225,29 @@
       "publishedAt": "2026-02-22T13:00:21.000Z",
       "readTimeSec": 12,
       "status": "kept",
-      "importance": 2,
+      "importance": 4,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "기사 내용이 명확하고 간결하며, 핵심 정보를 잘 전달하고 있습니다. / 근거부족",
+      "qualityReason": "The article is a straightforward report of a specific trend.",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-02-23_7",
+      "id": "2026-02-23_9",
       "date": "2026-02-23",
       "category": "에너지",
       "title": "데이터 센터 개발업체, 전력망 부담 회피 위해 자체 천연 가스 '섀도우 그리드' 발전소 건설",
       "summary": [
         "데이터 센터 개발업체들이 전력망 부담을 피하기 위해 자체 천연 가스 발전소를 건설하고 있습니다.",
-        "텍사스의 GW 랜치 프로젝트는 시카고만큼의 전력을 사용할 것으로 예상됩니다.",
-        "이러한 발전소는 '섀도우 그리드'로 불립니다."
+        "텍사스의 GW Ranch 프로젝트는 시카고만큼의 전력을 사용할 것으로 예상됩니다.",
+        "이는 전력망의 부담을 줄이기 위한 오프 그리드 전략의 일환입니다."
       ],
-      "whyImportant": "데이터 센터의 전력 수요 증가와 그에 따른 에너지 인프라 변화를 보여주는 사례입니다.",
-      "importanceRationale": "근거: 데이터 센터의 자체 발전소 건설은 전력 시장과 에너지 정책에 중요한 영향을 미칠 수 있으며, 특히 텍사스 GW 랜치 프로젝트의 규모는 상당합니다.",
+      "whyImportant": "데이터 센터의 에너지 소비 증가와 그에 따른 전력망 부담 문제를 보여주는 사례입니다.",
+      "importanceRationale": "근거: 데이터 센터 개발업체들이 전력망의 부담을 회피하기 위해 자체 발전소를 건설하고 있으며, 이는 데이터 센터의 에너지 소비량이 상당함을 시사합니다. 특히 텍사스의 GW Ranch 프로젝트는 시카고만큼의 전력을 소비할 것으로 예상되어, 데이터 센터의 에너지 소비 문제가 심각함을 보여줍니다.",
       "impactSignals": [
         {
           "label": "capex",
-          "evidence": "데이터 센터 개발업체의 자체 천연 가스 발전소 건설은 상당한 자본 지출을 의미합니다."
+          "evidence": "데이터 센터 개발업체들이 자체 천연 가스 발전소 건설에 투자하고 있습니다."
         }
       ],
       "dedupeKey": "data_center_shadow_grid_texas",
@@ -202,50 +261,23 @@
       "importance": 4,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 내용이 명확합니다.",
+      "qualityReason": "기사 제목과 내용이 일치하며, 요약이 명확합니다.",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-02-23_8",
-      "date": "2026-02-23",
-      "category": "국제",
-      "title": "김 총리, 한미 관세 협상 조건 변경 논의 가능성 시사",
-      "summary": [
-        "김 총리는 한미 관세 협상에서 조건 변경 가능성을 논의할 것이라고 밝혔습니다.",
-        "구체적인 변경 조건에 대한 언급은 없었습니다."
-      ],
-      "whyImportant": "이번 발언은 향후 한미 무역 관계에 중요한 영향을 미칠 수 있습니다.",
-      "importanceRationale": "근거: 김 총리의 직접적인 발언은 정부의 정책 변화 가능성을 시사하며, 이는 관련 산업 및 경제 전반에 파급 효과를 가져올 수 있습니다.",
-      "impactSignals": [],
-      "dedupeKey": "kim-prime-minister-tariff-negotiation",
-      "clusterKey": "뭔가",
-      "matchedTo": null,
-      "sourceName": "조선일보",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSlJQOE90VTk4V2NEWG9jekhDcGk2cW5ucHpLM0lRWGZLN013N0NaSFBfMGVXUnI3cHpCaXI2NmpEaWhkUG9fNVprVkh0ejVNSGZ4QWRaM2g3MkMwS0dFN1piX191OWpvTkgwd3g5YUFkcTFqbzllT29OcVdkLTBvWHNud185LTjSAZsBQVVfeXFMT0dxWDIyMWlkZGNKWTVMNk9ZalQ2MUN1S0N4WkNwbGR0M0pEZy1KOWdjQjlWMVdPZDRLUEFfSURvWGRoN2NXOE9hTG1sUkJsOEloem9ydFZDWXJlUnpCdklVazNfWWZsZHVZX2t6RUx6Wk1nLWZJNzNlbTFZVEg1RmVhbEF4cU5BaFJqZGVaZXJ5TTdTclZURlRWb0U?oc=5",
-      "publishedAt": "2026-02-21T10:19:00.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 63,
-      "qualityLabel": "ok",
-      "qualityReason": "기사의 내용이 명확하고 간결하며, 사실에 기반하고 있습니다. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-02-23_9",
+      "id": "2026-02-23_10",
       "date": "2026-02-23",
       "category": "정책",
-      "title": "국회도 챗GPT 사용…국회사무처, 의원실 AI 이용료 지원",
+      "title": "국회, 챗GPT 도입…의원실 AI 이용료 지원",
       "summary": [
-        "국회사무처가 국회의원실의 챗GPT 등 인공지능 이용료를 지원한다.",
-        "이는 국회도 AI를 활용하여 업무 효율성을 높이기 위한 조치로 풀이된다."
+        "국회사무처가 의원실의 챗GPT 등 인공지능 이용료를 지원한다.",
+        "이는 국회 차원에서 AI 기술 활용을 장려하기 위한 조치로 풀이된다."
       ],
-      "whyImportant": "국회가 AI 기술을 도입하여 정책 결정 및 의정 활동에 활용할 가능성을 보여준다.",
+      "whyImportant": "국회가 AI 기술을 도입하여 업무 효율성을 높이고 정책 결정에 활용할 가능성이 커졌다.",
       "importanceRationale": "근거: 국회사무처가 의원실의 AI 이용료를 지원함으로써 국회 차원에서 AI 활용을 장려하고 있기 때문이다.",
       "impactSignals": [],
-      "dedupeKey": "국회도 챗GPT 쓴다…국회사무처, 의원실 AI 이용료 지원",
+      "dedupeKey": "국회챗GPT도입",
       "clusterKey": "국회도",
       "matchedTo": null,
       "sourceName": "더팩트",
@@ -256,23 +288,22 @@
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "기사 내용이 명확하고 간결하게 전달됨. / 근거부족",
+      "qualityReason": "기사 내용이 명확하고 사실에 기반하고 있다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-02-23_10",
+      "id": "2026-02-23_11",
       "date": "2026-02-23",
       "category": "국제",
-      "title": "조현 외교장관 후보자, 다음 달 1일까지 관세 협상 가능성 언급",
+      "title": "조현 외교부 장관 후보자, \"다음 달 1일까지 관세 협상 가능할 것\"",
       "summary": [
-        "조현 외교장관 후보자가 다음 달 1일까지 관세 협상이 가능할 것이라고 밝혔습니다.",
-        "이번 발언은 정치적 맥락에서 나온 것으로 보입니다."
+        "조현 외교부 장관 후보자는 다음 달 1일까지 관세 협상이 가능할 것이라고 밝혔습니다."
       ],
-      "whyImportant": "조현 외교장관 후보자의 발언은 향후 관세 협상에 대한 기대감을 높입니다.",
-      "importanceRationale": "근거: 조현 외교장관 후보자가 직접 관세 협상 가능성을 언급했기 때문입니다.",
+      "whyImportant": "조현 외교부 장관 후보자의 발언은 향후 관세 협상에 대한 전망을 제시합니다.",
+      "importanceRationale": "근거: 조현 외교부 장관 후보자가 직접 관세 협상 가능 시점을 언급했기 때문입니다.",
       "impactSignals": [],
-      "dedupeKey": "20240614-조현외교장관후보자관세협상",
+      "dedupeKey": "johyun-tariff-negotiation-0724",
       "clusterKey": "1일까지",
       "matchedTo": null,
       "sourceName": "한국일보",
@@ -283,33 +314,7 @@
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "기사 내용이 간결하고 명확합니다. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-02-23_11",
-      "date": "2026-02-23",
-      "category": "기술",
-      "title": "SKT, MWC26에서 AI 데이터센터 플랫폼 '풀스택 AI' 솔루션 공개",
-      "summary": [
-        "SKT가 MWC26에서 AI 데이터센터 플랫폼 '풀스택 AI' 솔루션을 공개한다."
-      ],
-      "whyImportant": "SKT의 AI 데이터센터 플랫폼 솔루션 공개는 AI 인프라 투자와 관련되어 중요합니다.",
-      "importanceRationale": "근거: SKT가 MWC26에서 AI 데이터센터 플랫폼 '풀스택 AI' 솔루션을 공개하는 것은 AI 데이터센터 구축 및 투자와 관련된 중요한 움직임으로 해석될 수 있습니다.",
-      "impactSignals": [],
-      "dedupeKey": "SKT_MWC26_AI_데이터센터_플랫폼_풀스택_AI_솔루션_공개",
-      "clusterKey": "클라우드/mwc26서",
-      "matchedTo": null,
-      "sourceName": "스페셜경제",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBHRktEdUducDd6Z29lSmZTMnhVWUtybE8zUDBQWmhkMWoyQWxfMG9MVDQtSzE1eF9OSUMwQ2VmNldLclFscHp5X1ZuWXFoVEMxV2ZtOElCSVM0ekFzY0h1TFNJS3RhNXNTTlRaSA?oc=5",
-      "publishedAt": "2026-02-22T05:35:00.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 63,
-      "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 정보가 간결하게 제공됨. / 근거부족",
+      "qualityReason": "기사 내용이 간결하고 명확하며, 핵심 정보를 제공합니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -320,14 +325,14 @@
       "title": "OpenAI, 1,350억 달러 규모의 자금 조달 마무리 단계에 있다고 알려져",
       "summary": [
         "OpenAI가 1,000억 달러 규모의 자금 조달을 마무리하고 있다고 야후 파이낸스가 보도했습니다.",
-        "이번 자금 조달은 OpenAI의 추가적인 AI 개발 및 연구에 사용될 것으로 예상됩니다."
+        "이번 자금 조달은 OpenAI의 성장과 기술 개발에 중요한 역할을 할 것으로 예상됩니다."
       ],
-      "whyImportant": "OpenAI의 대규모 자금 조달은 AI 기술 개발 경쟁 심화를 의미합니다.",
-      "importanceRationale": "근거: OpenAI의 대규모 자금 조달은 AI 분야에 대한 투자 증가와 기술 경쟁 심화를 나타내는 중요한 지표입니다.",
+      "whyImportant": "OpenAI의 대규모 자금 조달은 AI 기술 개발 경쟁 심화와 시장 확대를 의미합니다.",
+      "importanceRationale": "근거: OpenAI의 대규모 자금 조달은 AI 산업 전반에 걸쳐 상당한 영향을 미칠 수 있으며, 기술 개발 및 시장 경쟁에 중요한 변수로 작용할 수 있습니다.",
       "impactSignals": [
         {
           "label": "policy",
-          "evidence": "대규모 자금 조달은 AI 기술 개발 및 규제 정책에 영향을 미칠 수 있습니다."
+          "evidence": "대규모 자금 조달은 AI 기술 개발 및 규제 정책에 영향을 미칠 수 있음"
         }
       ],
       "dedupeKey": "openai_100b_funding",
@@ -341,33 +346,34 @@
       "importance": 4,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 정보가 명확합니다.",
+      "qualityReason": "제목과 본문이 일치하며, 정보가 간결하게 요약되어 있습니다.",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-02-23_13",
       "date": "2026-02-23",
-      "category": "정책",
-      "title": "[총회=인천] \"정부는 눈치 보지 말고 입법 통해 한약사 문제 해결하라\"",
+      "category": "국제",
+      "title": "광주진보연대, \"상호관세 위법\" 주장하며 대미 협상 재검토 촉구",
       "summary": [
-        "정부는 입법을 통해 한약사 문제를 해결해야 한다는 주장이 제기됨."
+        "광주진보연대는 상호관세가 위법이라며 대미 협상의 재검토를 촉구했다.",
+        "남도일보에 따르면, 이들은 현재의 협상 방식에 대해 강하게 비판하고 있다."
       ],
-      "whyImportant": "정부의 정책 방향에 대한 요구를 나타내는 기사입니다.",
-      "importanceRationale": "근거: 정부의 한약사 문제 해결 방식에 대한 직접적인 요구를 담고 있어 정책적 중요성을 지닙니다.",
+      "whyImportant": "미국과의 통상 관계에 대한 국내 시민단체의 반발은 향후 협상 전략에 영향을 줄 수 있다.",
+      "importanceRationale": "근거: 광주진보연대의 주장은 정책 결정에 대한 시민 사회의 의견을 반영하고, 무역 정책의 방향성에 대한 논의를 촉발할 수 있기 때문이다.",
       "impactSignals": [],
-      "dedupeKey": "[총회=인천] \"정부는 눈치 보지 말고 입법 통해 한약사 문제 해결하라\"",
-      "clusterKey": "눈치",
+      "dedupeKey": "광주진보연대_대미협상_재검토_촉구",
+      "clusterKey": "광주진보연대",
       "matchedTo": null,
-      "sourceName": "약사공론",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB1MFNCTUxmc0pzNmJxeTZPamlrZ2pJOHMtTThLTXg2RUQ1R1d3WG14WHc2LVhHbWtHNWtpaFV5NGNzWUdMX2NPSXhiVHZfeHJjOXhZQUFOSVBFZVVlUWhyNjFYR1Ata1NoZ0ROdQ?oc=5",
-      "publishedAt": "2026-02-21T11:35:02.000Z",
+      "sourceName": "남도일보",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMibEFVX3lxTE04UHRMeDAxRjNBdDcwWDhXTU9ObUdvVEwtQUlQanY0Z3E4RW1EZl8wQTRqMW1LalN3NVFuZ3plQkVHdVJQc0wwbjlJdm9MWVJic2IzZ1I2cWw3UXhuOEVpS2F0VzlySlFiZUxUN9IBcEFVX3lxTE5uSXJSRzFqdnNNZVJyQWlzenpZUXlnNDc2Vm9vYWNaN2Nlb1hTUzVwcV9JUlJySzRDN2lldncwT2xFS0RyNDB1MEUyYzViUUxXeE0wR0EzcVpqOGk3a3pFUTdPOHExc0thUDk4QTBrNjA?oc=5",
+      "publishedAt": "2026-02-21T07:17:00.000Z",
       "readTimeSec": 10,
       "status": "kept",
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 핵심 내용을 전달합니다. / 근거부족",
+      "qualityReason": "기사 제목과 내용이 일치하며, 간결하게 요약되어 있음. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -380,8 +386,8 @@
         "이번 주 시장은 엔비디아, 홈디포, 은행, 버크셔의 실적 발표에 주목할 것으로 예상됩니다.",
         "또한 트럼프의 연설도 시장에 영향을 미칠 수 있습니다."
       ],
-      "whyImportant": "기업 실적 발표 및 주요 인사의 연설이 시장 변동성에 영향을 줄 수 있습니다.",
-      "importanceRationale": "근거: 엔비디아, 홈디포 등 주요 기업의 실적 발표는 투자 심리에 직접적인 영향을 미치며, 트럼프 전 대통령의 연설 내용에 따라 시장의 방향성이 결정될 수 있기 때문입니다.",
+      "whyImportant": "기업 실적 발표 및 주요 인사의 연설이 시장 변동성을 야기할 수 있습니다.",
+      "importanceRationale": "근거: 엔비디아, 홈디포 등 주요 기업의 실적 발표는 투자 심리에 직접적인 영향을 미치며, 트럼프 전 대통령의 연설 내용 또한 시장에 중요한 시그널을 제공할 수 있기 때문입니다.",
       "impactSignals": [],
       "dedupeKey": "earnings_trump_speech_2024",
       "clusterKey": "expect",
@@ -408,9 +414,9 @@
         "자세한 내용은 thedetroitbureau.com에서 확인할 수 있습니다."
       ],
       "whyImportant": "오라클 클라우드 보안 침해에 대한 정보",
-      "importanceRationale": "근거: 오라클 클라우드에서 보안 침해가 발생했다는 사실은 사용자 데이터 및 시스템 보안에 대한 우려를 야기하므로 중요합니다.",
+      "importanceRationale": "근거: 오라클 클라우드에서 보안 침해가 발생했다는 정보는 클라우드 서비스를 사용하는 기업 및 개인에게 중요한 영향을 미칠 수 있습니다.",
       "impactSignals": [],
-      "dedupeKey": "oracle_cloud_breach_20240130",
+      "dedupeKey": "oracle-cloud-breach-2024",
       "clusterKey": "클라우드/breach",
       "matchedTo": null,
       "sourceName": "thedetroitbureau.com",
@@ -431,15 +437,15 @@
       "category": "경제",
       "title": "최태원 회장, \"AI 칩 HBM 생산량 증대 필요\", SK하이닉스 영업이익 1천억 달러 가능성 언급",
       "summary": [
-        "최태원 SK그룹 회장이 AI 칩에 사용되는 HBM 생산량 증대를 강조했습니다.",
+        "최태원 SK그룹 회장이 AI 반도체 HBM 생산량 증대를 강조했습니다.",
         "최 회장은 SK하이닉스의 영업이익이 1천억 달러를 넘어설 수 있다고 언급했습니다."
       ],
       "whyImportant": "최태원 회장의 발언은 SK하이닉스의 미래 성장 전략과 목표를 보여줍니다.",
-      "importanceRationale": "근거: 최태원 회장이 직접 SK하이닉스의 HBM 생산량 증대 필요성을 언급하고, 영업이익 목표치를 제시했기 때문입니다.",
+      "importanceRationale": "근거: 최태원 회장이 직접 SK하이닉스의 AI 반도체 사업 확장 의지를 밝히고, 구체적인 영업이익 목표를 제시했기 때문입니다.",
       "impactSignals": [
         {
           "label": "earnings",
-          "evidence": "SK하이닉스 영업이익 1천억 달러 가능성 언급"
+          "evidence": "최태원 회장이 SK하이닉스의 영업이익 1천억 달러 가능성을 언급함"
         }
       ],
       "dedupeKey": "choi-tai-won-hbm-production-increase",
@@ -453,56 +459,24 @@
       "importance": 4,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 핵심 내용을 전달합니다.",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었습니다.",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-02-23_17",
       "date": "2026-02-23",
-      "category": "기술",
-      "title": "팔로알토 네트웍스, AI 시대 맞아 통합 플랫폼 보안으로 전환 강조",
-      "summary": [
-        "팔로알토 네트웍스는 AI 시대에 경계가 무너졌다고 진단하며 통합 플랫폼 보안으로의 전환을 강조했습니다.",
-        "AI와 공격 표면의 복잡성이 전체 침해 사고의 핵심 요인이라고 분석했습니다."
-      ],
-      "whyImportant": "AI 시대의 보안 위협에 대한 팔로알토 네트웍스의 대응 전략을 제시합니다.",
-      "importanceRationale": "근거: 팔로알토 네트웍스가 AI 시대의 보안 문제에 대한 해결책으로 통합 플랫폼 보안을 제시하고 있으며, 이는 기업의 보안 전략에 중요한 시사점을 제공합니다.",
-      "impactSignals": [
-        {
-          "label": "security",
-          "evidence": "AI와 공격 표면 복잡성이 침해 사고의 핵심 요인으로 지목됨"
-        }
-      ],
-      "dedupeKey": "paloalto-networks-ai-security-platform",
-      "clusterKey": "경계는",
-      "matchedTo": null,
-      "sourceName": "인공지능신문",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1taElyWGxrWWVPcVVmOVFCTVNNNEpjckdmQ094OUdLSnMwXzdpb19yNDNTWEtyeWFyc2NRODN1YTUwbHlUTkJ4aV9IZG02Y2tPR1VyT0VTWERiQlJ4MFFLbndjM1pxWnc?oc=5",
-      "publishedAt": "2026-02-18T09:37:24.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 3.5,
-      "importanceRaw": 63,
-      "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 내용이 일치하며, 핵심 내용을 잘 요약했습니다.",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-02-23_18",
-      "date": "2026-02-23",
       "category": "경제",
       "title": "2026년 봄 미세먼지 전망 및 미세먼지에 좋은 음식 추천",
       "summary": [
-        "2026년 봄 미세먼지 전망에 대한 정보입니다.",
-        "나들이 후 섭취하면 좋은 미세먼지에 좋은 음식을 추천합니다.",
+        "2026년 봄 미세먼지 전망을 제공합니다.",
+        "나들이 후 섭취하면 좋은 미세먼지 제거 음식도 추천합니다.",
         "고향사랑기부제 위기브 관련 내용도 포함되어 있습니다."
       ],
       "whyImportant": "미세먼지로부터 건강을 지키는 데 도움이 되는 정보입니다.",
-      "importanceRationale": "근거: 미세먼지 노출에 대한 우려가 커지는 상황에서, 예방 및 관리 정보를 제공하여 건강한 생활을 지원합니다.",
+      "importanceRationale": "근거: 미세먼지 전망과 섭취하면 좋은 음식을 제공하여 건강 관리에 대한 유용한 정보를 제공하므로.",
       "impactSignals": [],
-      "dedupeKey": "2026미세먼지전망및음식추천",
+      "dedupeKey": "2026년 봄 미세먼지 전망 및 음식 추천",
       "clusterKey": "2026년",
       "matchedTo": null,
       "sourceName": "고향사랑기부제 위기브",
@@ -513,35 +487,67 @@
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 정보가 간결하게 요약되어 있습니다. / 근거부족",
+      "qualityReason": "정보가 명확하고 간결하게 제시됨. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-02-23_18",
+      "date": "2026-02-23",
+      "category": "정책",
+      "title": "[총회=인천] \"정부는 눈치 보지 말고 입법 통해 한약사 문제 해결하라\"",
+      "summary": [
+        "정부는 입법을 통해 한약사 문제를 해결해야 한다는 주장이 제기됨."
+      ],
+      "whyImportant": "정부의 정책 방향에 대한 요구를 나타내는 기사입니다.",
+      "importanceRationale": "근거: 정부의 한약사 문제 해결 방식에 대한 직접적인 요구를 담고 있어 정책적 중요성을 가짐.",
+      "impactSignals": [],
+      "dedupeKey": "[총회=인천] \"정부는 눈치 보지 말고 입법 통해 한약사 문제 해결하라\"",
+      "clusterKey": "눈치",
+      "matchedTo": null,
+      "sourceName": "약사공론",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB1MFNCTUxmc0pzNmJxeTZPamlrZ2pJOHMtTThLTXg2RUQ1R1d3WG14WHc2LVhHbWtHNWtpaFV5NGNzWUdMX2NPSXhiVHZfeHJjOXhZQUFOSVBFZVVlUWhyNjFYR1Ata1NoZ0ROdQ?oc=5",
+      "publishedAt": "2026-02-21T11:35:02.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 50,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 핵심 내용을 전달함. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-02-23_19",
       "date": "2026-02-23",
-      "category": "정책",
-      "title": "전현희, 24일 국회에서 '우아한 칼' 출판 기념회 개최",
+      "category": "국제",
+      "title": "짐 크레이머, 메타(META)가 자체 클라우드 사업을 개발 중이라고 믿고 있다",
       "summary": [
-        "전현희는 24일 국회에서 '우아한 칼' 출판 기념회를 개최한다."
+        "짐 크레이머는 메타가 자체 클라우드 사업을 개발 중이라고 밝혔다.",
+        "이는 메타가 클라우드 컴퓨팅 분야로 사업을 확장하려는 움직임으로 해석된다."
       ],
-      "whyImportant": "전현희의 정치적 행보를 보여주는 행사이다.",
-      "importanceRationale": "근거: 전현희의 출판 기념회는 그의 정치적 영향력과 향후 활동 방향을 가늠할 수 있는 지표가 될 수 있다.",
-      "impactSignals": [],
-      "dedupeKey": "전현희_우아한칼_출판기념회",
-      "clusterKey": "24일",
+      "whyImportant": "메타의 클라우드 사업 진출 가능성은 기술 산업에 큰 영향을 미칠 수 있다.",
+      "importanceRationale": "근거: 짐 크레이머의 발언은 메타의 사업 전략 변화에 대한 중요한 단서를 제공하며, 이는 시장 경쟁 구도에 영향을 줄 수 있다.",
+      "impactSignals": [
+        {
+          "label": "market-demand",
+          "evidence": "메타의 클라우드 사업 개발은 시장 수요에 대한 대응으로 볼 수 있다."
+        }
+      ],
+      "dedupeKey": "meta-cloud-business-cramer",
+      "clusterKey": "클라우드/believes",
       "matchedTo": null,
-      "sourceName": "뉴스토마토",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9idzA5LWtVZl9rMm9lYlZzekJFdVNEaTFyQXVXSlhyMl9KOGVyOVFsSjVxRHgzU2IxWTNIY05fQXFWeGFLZG1EaEpTVzdFOEpxM1hEb3A2bE5CZVpEUzhBNg?oc=5",
-      "publishedAt": "2026-02-21T08:14:14.000Z",
+      "sourceName": "Yahoo Finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPU3J1bk9CNHZJN2VCd3RQVGQwcDBjYi1oRkhiUkZGYUN5MGs3SG9uOERTRHFZVjhPRk1XUk5LUTZyOWx5dTRPTVBlMXRjRDhncVd0YUR0c0F6UWRPV25pQnR6UF9NQ09KWnhta2thZEE4eTBKanpBX25DRFpzdUgwMQ?oc=5",
+      "publishedAt": "2026-02-22T17:06:10.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 2,
-      "importanceRaw": 50,
+      "importance": 3.5,
+      "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며 간결하게 요약됨. / 근거부족",
+      "qualityReason": "The article is a brief report from a credible source.",
       "isBriefing": false,
-      "isBreaking": false
+      "isBreaking": true
     }
   ]
 }
