@@ -3,7 +3,7 @@
   "selectionCriteria": "① 내일도 영향이 남는 이슈 ② 과도한 감정 소모 제외 ③ 어제와 중복되는 뉴스 제외",
   "editorNote": "이 뉴스는 클릭 수가 아니라 오늘 이후에도 남는 정보만 기준으로 편집했습니다.",
   "question": "정보를 덜 보는 것이 오히려 더 똑똑한 소비일까?",
-  "lastUpdatedAt": "2026-02-22T21:43:12.918+09:00",
+  "lastUpdatedAt": "2026-02-22T22:41:50.411+09:00",
   "items": [
     {
       "id": "2026-02-22_1",
@@ -11,13 +11,13 @@
       "category": "국제",
       "title": "미국 대법원, '상호 관세' 제동…한미 '통상-안보 패키지' 협상에 영향?",
       "summary": [
-        "미국 대법원이 '상호 관세'에 제동을 걸면서 한미 간의 '통상-안보 패키지' 협상이 흔들릴 가능성이 제기되고 있다.",
+        "미국 대법원이 '상호 관세'에 제동을 걸면서 한미 간 '통상-안보 패키지' 협상이 흔들릴 가능성이 제기되고 있다.",
         "이번 결정은 양국 간의 무역 협상에 새로운 변수로 작용할 수 있다."
       ],
       "whyImportant": "미국 대법원의 결정이 한미 통상 및 안보 협상에 미치는 잠재적 영향.",
       "importanceRationale": "근거: 미국 대법원의 상호 관세 제동은 한미 간 통상-안보 패키지 협상에 직접적인 영향을 줄 수 있는 정책 변화이기 때문이다.",
       "impactSignals": [],
-      "dedupeKey": "20240116-미국 대법원, '상호 관세' 제동…한미 '통상-안보 패키지' 협상에 영향?",
+      "dedupeKey": "20240118-미국 대법원, '상호 관세' 제동…한미 '통상-안보 패키지' 협상에 영향?",
       "clusterKey": "대법원",
       "matchedTo": null,
       "sourceName": "더퍼블릭",
@@ -28,55 +28,23 @@
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약됨. / 근거부족",
+      "qualityReason": "기사 제목과 내용이 일치하며, 핵심 내용을 요약적으로 잘 전달하고 있다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-02-22_2",
       "date": "2026-02-22",
-      "category": "경제",
-      "title": "한국은행, 올해 성장률 전망 상향 조정 가능성…미국 관세 주시",
-      "summary": [
-        "한국은행이 올해 성장률 전망치를 상향 조정할 가능성이 제기됨.",
-        "미국의 관세 정책 변화를 주시하고 있는 것으로 알려짐."
-      ],
-      "whyImportant": "한국은행의 성장률 전망은 경제 정책 결정에 중요한 영향을 미침.",
-      "importanceRationale": "근거: 한국은행의 성장률 전망 변경은 시장에 즉각적인 영향을 미치며, 정부 정책 방향 설정의 주요 지표로 활용됨.",
-      "impactSignals": [],
-      "dedupeKey": "한은성장률전망_2024",
-      "clusterKey": "높이나",
-      "matchedTo": null,
-      "sourceName": "스트레이트뉴스",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5rMmJkd09TY3VhRl8xM2hTb0poemxyMlFkc0lFZ2tFNllVTkFTX0dlSnJSV1RRa0VpMXJhVmJiaXl6S0pzaWtFS1Vaa1ZjLWxrYXpJaXM3RGtUR3hvbjRPQ2RHU3MwWWJFYnlJNXFrdDdqcmvSAXdBVV95cUxPQldGWkoxOTVzc0w5MVltRVNRekpwVFE3cVFwWmZLU0hYU1JmUHVsZXRvVGxvMGdObjdQQzJFdjF2NnozNVRyZ0JlWklVRmhnWTRvSzV2czFvUExjR1BVQzlmelEyMGJHTnlmR1hjclhUOW1oT0RGYw?oc=5",
-      "publishedAt": "2026-02-22T01:18:58.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 75,
-      "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 간결하게 핵심 내용을 요약했습니다. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-02-22_3",
-      "date": "2026-02-22",
       "category": "에너지",
       "title": "유권자 분노와 미국 에너지 '역설': 높은 공공요금, 기록적인 석유 및 가스 생산, 그리고 세계 데이터 센터의 45%",
       "summary": [
         "미국은 높은 공공요금과 기록적인 석유 및 가스 생산량에도 불구하고 유권자들의 분노를 사고 있다.",
         "미국은 세계 데이터 센터의 45%를 차지하고 있어 에너지 소비가 높다.",
-        "에너지 정책과 관련된 유권자들의 불만이 고조되고 있다."
+        "이러한 에너지 소비와 생산의 불균형이 유권자들의 불만을 야기하는 요인으로 작용하고 있다."
       ],
-      "whyImportant": "미국의 에너지 정책과 관련된 유권자들의 불만을 보여주는 기사입니다.",
-      "importanceRationale": "근거: 높은 공공요금과 기록적인 에너지 생산량에도 불구하고 유권자들의 불만이 존재하며, 이는 에너지 정책에 대한 불만을 시사합니다. 또한, 데이터 센터의 높은 비중은 에너지 소비 문제를 부각합니다.",
-      "impactSignals": [
-        {
-          "label": "capex",
-          "evidence": "세계 데이터 센터의 45%를 차지하는 것은 에너지 인프라 투자와 관련이 있다."
-        }
-      ],
+      "whyImportant": "미국의 에너지 정책과 데이터 센터 집중 현황이 유권자들의 불만을 야기하고 있음을 보여준다.",
+      "importanceRationale": "근거: 높은 공공요금과 기록적인 에너지 생산량의 역설, 그리고 세계 데이터 센터의 상당 부분을 차지하는 미국의 상황은 에너지 정책에 대한 유권자들의 불만을 야기할 수 있다.",
+      "impactSignals": [],
       "dedupeKey": "voter_fury_energy_paradox",
       "clusterKey": "에너지/american",
       "matchedTo": null,
@@ -85,24 +53,24 @@
       "publishedAt": "2026-02-20T12:29:00.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 3.5,
+      "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 요약이 명확합니다.",
+      "qualityReason": "기사 제목과 내용이 일치하며, 요약이 명확하게 작성되었다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-02-22_4",
+      "id": "2026-02-22_3",
       "date": "2026-02-22",
       "category": "정책",
       "title": "여당, 재입법 예고 앞둔 중수청·공소청법 정부안 당론 채택",
       "summary": [
         "여당은 재입법 예고를 앞둔 중수청·공소청법 정부안을 당론으로 채택했다.",
-        "이는 법안 통과를 위한 당내 결속을 다지기 위한 것으로 보인다."
+        "이는 법안 통과를 위한 당내 지지를 확보하려는 움직임으로 보인다."
       ],
-      "whyImportant": "중수청 및 공소청법의 제정은 검찰의 수사 권한을 분산시키고, 새로운 수사 및 기소 기관을 설립하는 중요한 정책 변화를 의미한다.",
-      "importanceRationale": "근거: 법안의 내용이 검찰 권력 구조에 미치는 영향이 크고, 향후 수사 및 기소 시스템에 변화를 가져올 수 있기 때문",
+      "whyImportant": "중수청 및 공소청법의 제정은 검찰의 수사 권한을 분산시키고, 새로운 수사 및 기소 체계를 확립하는 데 중요한 영향을 미칠 수 있다.",
+      "importanceRationale": "근거: 법안의 내용과 통과 여부에 따라 검찰, 경찰, 법원의 권력 관계에 상당한 변화가 예상되며, 향후 형사 사법 시스템 운영에 큰 영향을 미칠 수 있기 때문이다.",
       "impactSignals": [],
       "dedupeKey": "중수청·공소청법 정부안 당론 채택",
       "clusterKey": "공소청법",
@@ -115,12 +83,12 @@
       "importance": 2,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약됨. / 근거부족",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되어 있음. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-02-22_5",
+      "id": "2026-02-22_4",
       "date": "2026-02-22",
       "category": "경제",
       "title": "철강 '빅4' 작년 매출 모두 감소…불황 속 '수익성 양극화'",
@@ -128,8 +96,8 @@
         "한국무역협회에 따르면 철강 '빅4'의 작년 매출이 모두 감소했다.",
         "불황 속에서 수익성 양극화가 심화되고 있다."
       ],
-      "whyImportant": "철강 산업의 전반적인 매출 감소와 수익성 양극화 심화는 산업 구조 변화 및 경쟁 심화를 의미합니다.",
-      "importanceRationale": "근거: 철강 '빅4'의 매출 감소는 산업 전반의 침체를 나타내며, 수익성 양극화는 기업 간 경쟁 심화 및 생존 전략 변화 필요성을 시사합니다.",
+      "whyImportant": "철강 산업의 전반적인 침체와 기업 간 수익성 격차 심화를 보여주는 지표입니다.",
+      "importanceRationale": "근거: 철강 '빅4' 기업의 매출 감소는 산업 전반의 불황을 나타내며, 수익성 양극화는 기업 경쟁력에 중요한 영향을 미치기 때문입니다.",
       "impactSignals": [
         {
           "label": "earnings",
@@ -147,51 +115,51 @@
       "importance": 3.5,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 핵심 내용을 잘 반영하고 있습니다.",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 핵심 내용을 전달합니다.",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-02-22_5",
+      "date": "2026-02-22",
+      "category": "경제",
+      "title": "한국은행, 올해 성장률 전망 상향 조정 가능성…미국 관세 주시",
+      "summary": [
+        "한국은행이 올해 성장률 전망치를 상향 조정할 가능성이 제기됨.",
+        "미국의 관세 정책 변화를 주시하고 있는 것으로 알려짐."
+      ],
+      "whyImportant": "한국은행의 성장률 전망 변경은 경제 정책 방향에 영향을 미칠 수 있으며, 미국의 관세 정책은 한국 경제에 직접적인 영향을 줄 수 있기 때문입니다.",
+      "importanceRationale": "근거: 한국은행의 전망 변경은 시장에 중요한 신호로 작용하며, 미국의 관세 정책은 수출 의존도가 높은 한국 경제에 큰 영향을 미칩니다.",
+      "impactSignals": [],
+      "dedupeKey": "20240614-한은 성장률 전망 및 미국 관세",
+      "clusterKey": "높이나",
+      "matchedTo": null,
+      "sourceName": "스트레이트뉴스",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5rMmJkd09TY3VhRl8xM2hTb0poemxyMlFkc0lFZ2tFNllVTkFTX0dlSnJSV1RRa0VpMXJhVmJiaXl6S0pzaWtFS1Vaa1ZjLWxrYXpJaXM3RGtUR3hvbjRPQ2RHU3MwWWJFYnlJNXFrdDdqcmvSAXdBVV95cUxPQldGWkoxOTVzc0w5MVltRVNRekpwVFE3cVFwWmZLU0hYU1JmUHVsZXRvVGxvMGdObjdQQzJFdjF2NnozNVRyZ0JlWklVRmhnWTRvSzV2czFvUExjR1BVQzlmelEyMGJHTnlmR1hjclhUOW1oT0RGYw?oc=5",
+      "publishedAt": "2026-02-22T01:18:58.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 63,
+      "qualityLabel": "ok",
+      "qualityReason": "기사의 내용이 간결하고 명확하며, 핵심 내용을 잘 전달하고 있습니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-02-22_6",
       "date": "2026-02-22",
-      "category": "정책",
-      "title": "국회, '국민 10명 중 8명, 국회의 계엄 통제 강화 필요' 의견 제시",
-      "summary": [
-        "국회는 국민 10명 중 8명이 국회의 계엄 통제 강화가 필요하다는 의견을 제시했다고 밝혔습니다.",
-        "이는 국회 한민족센터의 조사 결과에 따른 것입니다."
-      ],
-      "whyImportant": "국민 대다수가 국회의 계엄 통제 강화에 동의하는 것은 향후 관련 정책 변화에 영향을 미칠 수 있습니다.",
-      "importanceRationale": "근거: 국민의 높은 지지율은 국회가 계엄 관련 법률 개정 또는 정책 수립 시 중요한 근거로 작용할 수 있으며, 이는 국가 안보 및 국민의 기본권 보호에 직접적인 영향을 미칩니다.",
-      "impactSignals": [],
-      "dedupeKey": "국회_계엄통제강화_2024",
-      "clusterKey": "10명",
-      "matchedTo": null,
-      "sourceName": "연합뉴스 한민족센터",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9sWVJFVDhnQ2d6RjNwcmpKTEpnVjBoODFZV2tYZGNyWVhkQlBDZHRlcUhhaXVscHh1bU1fRzh1aGhtRV9ETmsxNmQ5ZkhSQUwyM1NSd1U1Qm1SalBGRmxZSTFZZ3VZc0RvSmJzNFFKeHdQNWpt?oc=5",
-      "publishedAt": "2026-02-22T06:27:38.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 75,
-      "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 간결하게 핵심 내용을 전달합니다. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-02-22_7",
-      "date": "2026-02-22",
       "category": "경제",
       "title": "B2Gold, 2025년 4분기 및 전체 실적 발표, 2026년 전망 제시",
       "summary": [
-        "B2Gold는 2025년 금 생산량 및 비용 목표를 달성했다고 발표했습니다.",
+        "B2Gold는 2025년에 금 생산 및 비용 목표를 달성했다고 발표했습니다.",
         "2025년 연간 수익은 30억 달러를 넘어섰습니다.",
         "2026년 금 생산량은 82만 온스에서 97만 온스 사이로 예상됩니다."
       ],
-      "whyImportant": "B2Gold의 실적 발표는 금 시장의 건전성과 회사의 성장 전망을 보여줍니다.",
-      "importanceRationale": "근거: B2Gold의 2025년 실적은 금 생산량 목표 달성 및 기록적인 수익을 보여주며, 2026년 전망은 회사의 지속적인 성장 가능성을 시사합니다.",
+      "whyImportant": "B2Gold의 실적 발표는 금 시장의 동향을 파악하는 데 중요한 지표가 됩니다.",
+      "importanceRationale": "근거: B2Gold의 생산량 및 수익 정보는 금 가격 변동 및 투자 전략에 영향을 미칠 수 있습니다.",
       "impactSignals": [],
-      "dedupeKey": "B2Gold_2025Q4_Results_2026Guidance",
+      "dedupeKey": "B2Gold_2025Q4Results_2026Guidance",
       "clusterKey": "achieved",
       "matchedTo": null,
       "sourceName": "Yahoo Finance",
@@ -207,30 +175,61 @@
       "isBreaking": false
     },
     {
-      "id": "2026-02-22_8",
+      "id": "2026-02-22_7",
       "date": "2026-02-22",
-      "category": "국제",
-      "title": "미국 관세 위법 판결에 대한 청와대의 후속 조치 예의주시",
+      "category": "정책",
+      "title": "[미국 관세 위법 판결] 당정청 \"대미 투자법 조속 입법 최선…다음 달 9일까지 처리\"",
       "summary": [
-        "청와대는 미국의 관세 부과에 대한 위법 판결 이후 트럼프 정부의 후속 조치에 대해 예의주시하고 있다고 한국경제가 보도했다.",
-        "미국 관세와 관련된 이번 판결은 국제 무역 질서에 영향을 미칠 수 있다.",
-        "청와대는 관련 상황을 면밀히 검토하며 필요한 대응 방안을 모색할 것으로 예상된다."
+        "당정청은 미국 관세 위법 판결에 따라 대미 투자법의 조속한 입법을 위해 최선을 다할 것이라고 밝혔습니다.",
+        "다음 달 9일까지 관련 법안 처리를 목표로 하고 있습니다."
       ],
-      "whyImportant": "미국의 관세 부과에 대한 위법 판결은 국제 무역 관계에 중요한 영향을 미칠 수 있으며, 특히 한국 경제에 미치는 영향에 대한 관심이 필요하다.",
-      "importanceRationale": "근거: 미국의 관세 부과에 대한 위법 판결은 향후 무역 정책 변화를 야기할 수 있으며, 이는 한국 경제에 직접적인 영향을 줄 수 있기 때문이다.",
+      "whyImportant": "미국 관세 위법 판결에 대한 정부의 대응 방향을 제시합니다.",
+      "importanceRationale": "근거: 정부가 미국 관세 위법 판결에 대한 후속 조치로 대미 투자 관련 법안을 신속하게 처리하겠다는 의지를 표명했기 때문입니다.",
       "impactSignals": [],
-      "dedupeKey": "20240130-미국 관세 위법 판결에 대한 청와대의 후속 조치 예의주시",
-      "clusterKey": "예의주시",
+      "dedupeKey": "[미국 관세 위법 판결] 당정청 \"대미 투자법 조속 입법 최선…다음 달 9일까지 처리\"",
+      "clusterKey": "9일까지",
       "matchedTo": null,
-      "sourceName": "한국경제",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1XVHFrSmxCTU54WnJjQXVDcDR0ZV9US2d3aWdHdVBVdlNNTU9VamM1V0hZcFRhdTZLRHNyUG0yNEFKX1FwOUw4ek9YWTF6aEJUV1VBZk1WN0VQd9IBVEFVX3lxTE1VMGdkMnR0Y2VUZUs3VXNaV1BsTXhKd0hPNlJPenRudUlMQXVqOVlqaTJHdFc5bjZnbjhqaXcwTl9nWlhRNVJ6WFJ0LTBPUFlYZTZTYQ?oc=5",
-      "publishedAt": "2026-02-20T16:05:12.000Z",
+      "sourceName": "연합뉴스 한민족센터",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMidEFVX3lxTE44Mi1MMjduemlUUXBRQVg1RWYwclBpUXZQN182OU5TLS1kSE5aR0tXcWFkb0xxcWNzWVJXU3BmY3p3UmZ5X2F3cTAzRVRZRDl6dTFGcVAwbkR5T3VGdmNJX0hlbmotZTNhMUJqZjB1ZTQ0M1FW?oc=5",
+      "publishedAt": "2026-02-22T13:07:38.000Z",
       "readTimeSec": 10,
       "status": "kept",
       "importance": 2,
-      "importanceRaw": 75,
+      "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 내용이 일치하며, 간결하게 요약되어 있음. / 근거부족",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었습니다. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-02-22_8",
+      "date": "2026-02-22",
+      "category": "정책",
+      "title": "빠른 임상 허가 및 상장 규제 개선…'바이오 선진화' 주도한 중국 정부",
+      "summary": [
+        "중국 정부가 빠른 임상 허가와 상장 규제 개선을 통해 '바이오 선진화'를 주도하고 있습니다.",
+        "이는 중국 바이오 산업의 발전을 가속화하는 데 기여하고 있습니다."
+      ],
+      "whyImportant": "중국 정부의 바이오 산업 육성 정책 방향을 보여주는 사례입니다.",
+      "importanceRationale": "근거: 중국 정부가 임상 허가와 상장 규제 개선을 통해 바이오 산업을 적극적으로 지원하고 있다는 점을 강조하고 있습니다.",
+      "impactSignals": [
+        {
+          "label": "policy",
+          "evidence": "임상 허가 및 상장 규제 개선을 통해 바이오 산업을 육성하는 정책"
+        }
+      ],
+      "dedupeKey": "빠른 임상 허가·상장규제 개선…'바이오 선진화' 주도한 中정부",
+      "clusterKey": "개선",
+      "matchedTo": null,
+      "sourceName": "한국경제",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBRbVI5VTdxdXBtZFVoNF9oczBGWVBoMS1MM3lZQmo3QlRGdUNZRDhocWVwSnNLS0Z2OHRxZGtkaWo4NUdvbnlqTlk5b1ZWVWhsbHloNzFhN0lDUdIBVEFVX3lxTE9RSDRBd0ZjYVFNaU1KdjJvampZYlhINlpDWjNpYzc2bFp4bmw5RHNkTjR6TV92M0c4RElrLXl0b0VRNUJWcXlGWnNEVnF6VnZjLXdYZA?oc=5",
+      "publishedAt": "2026-02-22T08:33:44.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 3.5,
+      "importanceRaw": 63,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 내용이 일치하며, 핵심 내용을 잘 요약했습니다.",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -238,15 +237,15 @@
       "id": "2026-02-22_9",
       "date": "2026-02-22",
       "category": "국제",
-      "title": "'상호관세 위법' 판결에도…500조 대미 투자 재협상 어려울 듯",
+      "title": "'상호관세 위법' 판결에도 500조 대미 투자 재협상 어려울 듯",
       "summary": [
-        "미국에 대한 500조 규모의 투자 재협상이 어려울 것으로 보입니다.",
-        "최근 '상호관세 위법' 판결이 나왔음에도 불구하고 재협상 가능성은 낮습니다."
+        "상호 관세 위법 판결에도 불구하고 500조 원 규모의 대미 투자 재협상이 어려울 것으로 예상됩니다.",
+        "이는 연합뉴스 한민족센터의 보도 내용입니다."
       ],
-      "whyImportant": "미국 투자 환경에 대한 중요한 변화 가능성을 시사합니다.",
-      "importanceRationale": "근거: 대규모 투자와 관련된 정책 변화 가능성은 경제적 영향을 미칠 수 있기 때문입니다.",
+      "whyImportant": "미국과의 투자 관계에 대한 중요한 변화 가능성을 시사합니다.",
+      "importanceRationale": "근거: 500조 원 규모의 대미 투자 재협상 가능성이 낮다는 것은 양국 경제 관계에 중대한 영향을 미칠 수 있기 때문입니다.",
       "impactSignals": [],
-      "dedupeKey": "500조대미투자재협상어려울듯",
+      "dedupeKey": "상호관세 위법 판결에도 500조 대미 투자 재협상 어려울 듯",
       "clusterKey": "500조",
       "matchedTo": null,
       "sourceName": "연합뉴스 한민족센터",
@@ -257,28 +256,55 @@
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며 간결하게 요약되었습니다. / 근거부족",
+      "qualityReason": "제목과 내용이 일치하며 간결하게 요약되어 있습니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-02-22_10",
       "date": "2026-02-22",
+      "category": "국제",
+      "title": "트럼프, 중국 방문 앞두고 관세 전략 수정 가능성…무역 협상 변수로 작용",
+      "summary": [
+        "트럼프 대통령이 중국 방문을 앞두고 관세 지렛대 전략을 수정할 가능성이 제기됨.",
+        "이는 미중 무역 협상에 변수로 작용할 수 있다는 분석이 나옴."
+      ],
+      "whyImportant": "미국 대통령의 정책 변화 가능성은 국제 무역 관계에 중요한 영향을 미치기 때문",
+      "importanceRationale": "근거: 트럼프 대통령의 관세 전략 수정 가능성은 미중 무역 협상의 방향을 바꿀 수 있으며, 이는 글로벌 경제에 파급 효과를 가져올 수 있음.",
+      "impactSignals": [],
+      "dedupeKey": "trump-china-trade-tariff-2024",
+      "clusterKey": "무역협상",
+      "matchedTo": null,
+      "sourceName": "마켓인",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBPcTVtM3JxNDB5V1JWOEJrVE1DYlRVakpqdDhJNXljclhkeHh3YkVJX1Z3UWxQWHVSSkR0dEFZR1F3R01nVXdLcFdSWGNwM0dzQ2FOQVQ3aXNWQnpiM0hDOVozVWhmY2Jaei04S0ZrNXhXb2s?oc=5",
+      "publishedAt": "2026-02-22T07:23:31.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 75,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 내용이 일치하며, 핵심 내용을 요약함. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-02-22_11",
+      "date": "2026-02-22",
       "category": "기술",
       "title": "팔로알토 네트웍스, AI SOC 및 침해 대응 보장을 포함한 MSIAM 2.0 출시",
       "summary": [
         "팔로알토 네트웍스가 AI SOC(보안 운영 센터)와 침해 대응 보증을 특징으로 하는 MSIAM 2.0을 출시했습니다.",
-        "MSIAM 2.0은 보안 서비스 제공을 향상시키는 것을 목표로 합니다."
+        "MSIAM 2.0은 향상된 보안 기능을 제공합니다."
       ],
-      "whyImportant": "보안 서비스 제공업체와 기업이 사이버 위협에 보다 효과적으로 대응할 수 있도록 지원합니다.",
-      "importanceRationale": "근거: 팔로알토 네트웍스의 MSIAM 2.0 출시로 AI 기반 보안 운영 및 침해 대응 능력이 강화되어 기업의 사이버 보안 태세 개선에 기여할 수 있기 때문입니다.",
+      "whyImportant": "보안 솔루션의 발전은 기업 및 개인의 디지털 자산 보호에 기여합니다.",
+      "importanceRationale": "근거: 팔로알토 네트웍스의 MSIAM 2.0 출시로 AI 기반 보안 운영 및 침해 대응 능력이 강화되어 전반적인 사이버 보안 수준 향상에 기여할 수 있습니다.",
       "impactSignals": [
         {
           "label": "security",
-          "evidence": "AI SOC 및 침해 대응 보장 기능이 포함된 MSIAM 2.0 출시"
+          "evidence": "MSIAM 2.0 with AI SOC & Breach Response Guarantee"
         }
       ],
-      "dedupeKey": "PaloAltoNetworksMSIAM2.0",
+      "dedupeKey": "PaloAltoNetworks_MSIAM2.0_Launch",
       "clusterKey": "alto",
       "matchedTo": null,
       "sourceName": "The Fast Mode",
@@ -289,12 +315,12 @@
       "importance": 3.5,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "The article provides a concise overview of the new product launch.",
+      "qualityReason": "제목과 본문이 일치하며, 정보가 간결하게 제공됨.",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-02-22_11",
+      "id": "2026-02-22_12",
       "date": "2026-02-22",
       "category": "경제",
       "title": "\"주가 대비 실적 우수\"… 한국 저평가 주식, 상승 준비",
@@ -303,7 +329,7 @@
         "매일경제TV에서 보도했습니다."
       ],
       "whyImportant": "저평가된 한국 주식 시장에 대한 투자자들의 관심이 높아질 수 있습니다.",
-      "importanceRationale": "근거: 기사는 주가 대비 실적이 좋은 저평가 주식의 상승 가능성을 제시하고 있으며, 이는 투자 결정에 중요한 영향을 미칠 수 있습니다.",
+      "importanceRationale": "근거: 기사는 주가 대비 실적이 좋은 저평가 주식의 상승 가능성을 제시하며, 이는 투자 결정에 중요한 영향을 미칠 수 있습니다.",
       "impactSignals": [],
       "dedupeKey": "\"주가 대비 실적 우수\"… 한국 저평가 주식, 상승 준비",
       "clusterKey": "k저평가",
@@ -316,21 +342,53 @@
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "기사의 내용이 간결하고 명확하며, 핵심 내용을 잘 전달하고 있습니다. / 근거부족",
+      "qualityReason": "제목과 내용이 일치하며 간결하게 요약되어 있습니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-02-22_12",
+      "id": "2026-02-22_13",
       "date": "2026-02-22",
       "category": "국제",
-      "title": "김 총리, 한미 관세 협상 조건 변경 논의 가능성 언급",
+      "title": "CVE-2026-2441: 구글, 실제 공격에 사용된 크롬 제로데이 패치",
+      "summary": [
+        "구글이 실제 공격에 악용된 크롬 제로데이 취약점 CVE-2026-2441에 대한 패치를 발표했습니다.",
+        "이번 패치는 크롬 브라우저의 보안을 강화하는 데 중요한 역할을 합니다."
+      ],
+      "whyImportant": "크롬 브라우저 사용자들은 즉시 업데이트하여 보안 위협을 예방해야 합니다.",
+      "importanceRationale": "근거: 실제 공격에 악용된 제로데이 취약점에 대한 패치이므로, 사용자 보안에 직접적인 영향을 미칩니다.",
+      "impactSignals": [
+        {
+          "label": "security",
+          "evidence": "실제 공격에 악용된 제로데이 취약점 패치"
+        }
+      ],
+      "dedupeKey": "CVE-2026-2441: 구글, 실전에서 악용된 크롬 제로데이 패치",
+      "clusterKey": "cve",
+      "matchedTo": null,
+      "sourceName": "SOC Prime",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9ud0Y4akUwNHdua09veTJ6emduOXRhbE44TUdJdl9waHJ2RnZzY0M0eU1mNU8wRWx3Y2RIa3V4dFhWTEVkWnBsMlpEZERNa1FMYl9wX3I5dFNOUVl1SFoxa2d6TWczTTVkaWZ4akl5R0U4eEw5NmJpbmtLVFE?oc=5",
+      "publishedAt": "2026-02-18T08:00:00.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 4.5,
+      "importanceRaw": 88,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 내용이 일치하며, 핵심 정보를 포함하고 있습니다.",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-02-22_14",
+      "date": "2026-02-22",
+      "category": "국제",
+      "title": "김 총리, 한미 관세 협상 조건 변경 논의 가능성 시사",
       "summary": [
         "김 총리는 한미 관세 협상에서 조건 변경 가능성을 논의할 것이라고 밝혔습니다.",
-        "구체적인 변경 조건에 대한 언급은 없었습니다."
+        "구체적인 내용은 언급되지 않았습니다."
       ],
-      "whyImportant": "이번 발언은 한미 간의 무역 관계에 잠재적인 변화를 시사합니다.",
-      "importanceRationale": "근거: 김 총리의 직접적인 발언은 정부가 기존의 관세 협상 조건에 대한 재검토를 고려하고 있음을 나타냅니다.",
+      "whyImportant": "이번 발언은 한미 간의 무역 관계에 대한 정부의 입장을 보여주는 중요한 지표입니다.",
+      "importanceRationale": "근거: 김 총리의 직접적인 발언은 정부의 정책 방향을 시사하며, 이는 한미 무역 관계에 영향을 미칠 수 있습니다.",
       "impactSignals": [],
       "dedupeKey": "kim-prime-minister-tariff-negotiation",
       "clusterKey": "뭔가",
@@ -348,17 +406,18 @@
       "isBreaking": false
     },
     {
-      "id": "2026-02-22_13",
+      "id": "2026-02-22_15",
       "date": "2026-02-22",
       "category": "정책",
       "title": "2010년대생 여성 후보 7명, 제16대 국회 의석 경쟁",
       "summary": [
-        "2010년대에 태어난 여성 후보 7명이 제16대 국회 의석을 놓고 경쟁하고 있습니다."
+        "2010년대에 태어난 여성 후보 7명이 제16대 국회 의석을 놓고 경쟁하고 있습니다.",
+        "이들은 베트남 국회 의석을 놓고 경쟁합니다."
       ],
-      "whyImportant": "젊은 여성의 정치 참여 확대를 보여주는 사례입니다.",
-      "importanceRationale": "근거: 2010년대생 여성 후보들이 국회 의석을 놓고 경쟁하는 것은 젊은 세대의 정치 참여를 촉진하고, 다양한 계층의 목소리를 대변할 수 있는 가능성을 높입니다.",
+      "whyImportant": "젊은 여성의 정치 참여 증진",
+      "importanceRationale": "근거: 2010년대생 여성 후보들의 국회 의석 경쟁은 젊은 세대의 정치 참여를 보여주는 중요한 사례이며, 정책 결정 과정에 다양한 시각을 반영할 수 있는 가능성을 제시합니다.",
       "impactSignals": [],
-      "dedupeKey": "2010년대생 여성 후보 7명, 제16대 국회 의석 경쟁",
+      "dedupeKey": "2010s_women_candidates_vietnam_parliament",
       "clusterKey": "2010년대생",
       "matchedTo": null,
       "sourceName": "Vietnam.vn",
@@ -369,45 +428,12 @@
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "기사 내용이 명확하고 간결합니다. / 근거부족",
+      "qualityReason": "기사 내용이 간결하고 명확하며, 핵심 정보를 잘 전달하고 있습니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-02-22_14",
-      "date": "2026-02-22",
-      "category": "국제",
-      "title": "일본의 칩 테스트 회사 어드반테스트, 랜섬웨어 사건 조사",
-      "summary": [
-        "일본의 칩 테스트 회사인 어드반테스트가 랜섬웨어 사건을 조사 중이다.",
-        "이번 사건은 사이버 공격으로 인해 발생했다.",
-        "자세한 내용은 아직 알려지지 않았다."
-      ],
-      "whyImportant": "칩 테스트 회사의 랜섬웨어 공격은 반도체 산업 전반에 영향을 미칠 수 있다.",
-      "importanceRationale": "근거: 어드반테스트는 주요 칩 테스트 회사이며, 공격으로 인해 데이터 유출 및 운영 중단이 발생할 수 있다.",
-      "impactSignals": [
-        {
-          "label": "security",
-          "evidence": "랜섬웨어 공격으로 인해 시스템 보안에 대한 우려가 증가하고 있다."
-        }
-      ],
-      "dedupeKey": "advantest-ransomware-20240126",
-      "clusterKey": "반도체/advantest",
-      "matchedTo": null,
-      "sourceName": "Cybernews",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQS3RuV1FlbFlFZ0pMTVFjS0JYQlh6N1doUWM2T3NTSTBrclRoTGhoR21MeFJTdF9zY3B0bWRJU19uZHJQUldNNFZncVRza2VNdjg5UHBwd3N3X2duVl9jclhucG1jOEdyblF3aGV6MEJ3c1BqaWM3c25FRW1UaUJZQm5QRWI4dENtQnZJS0tfb0NZb1RnU1FTd1p3UFhzUjh1MFVLbFh3?oc=5",
-      "publishedAt": "2026-02-22T08:53:40.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 3.5,
-      "importanceRaw": 63,
-      "qualityLabel": "ok",
-      "qualityReason": "The article is a brief report of a ransomware attack.",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-02-22_15",
+      "id": "2026-02-22_16",
       "date": "2026-02-22",
       "category": "정책",
       "title": "국회 여론조사: 68.3% 개헌 찬성, 77.5% 국회 승인 없는 계엄 무효",
@@ -416,7 +442,7 @@
         "또한, 77.5%는 국회 승인을 받지 못한 계엄은 무효라고 응답했습니다."
       ],
       "whyImportant": "이번 여론조사는 개헌과 계엄에 대한 국민들의 의견을 보여주는 중요한 지표입니다.",
-      "importanceRationale": "근거: 개헌 찬성 여론과 국회 승인 없는 계엄에 대한 반대 여론이 높은 것을 확인시켜 줍니다.",
+      "importanceRationale": "근거: 국회에서 실시한 여론조사 결과는 향후 정책 결정에 영향을 미칠 수 있으며, 특히 개헌 논의와 계엄 관련 법률 검토에 중요한 자료로 활용될 수 있습니다.",
       "impactSignals": [],
       "dedupeKey": "20240116-국회 여론조사-개헌-계엄",
       "clusterKey": "개헌",
@@ -429,33 +455,7 @@
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 간결하게 핵심 내용을 전달합니다. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-02-22_16",
-      "date": "2026-02-22",
-      "category": "정책",
-      "title": "대전·충남 행정통합 특별법, 국힘 반발 속 24일 국회 본회의 처리 주목",
-      "summary": [
-        "대전과 충남의 행정통합 특별법이 국민의힘의 반발 속에 24일 국회 본회의에서 처리될지 주목된다."
-      ],
-      "whyImportant": "대전과 충남의 행정통합에 대한 정책적 결정이 임박했음을 나타낸다.",
-      "importanceRationale": "근거: 대전·충남 행정통합 특별법의 국회 본회의 처리가 예정되어 있어 정책 변화 가능성을 시사한다.",
-      "impactSignals": [],
-      "dedupeKey": "대전·충남 행정통합 특별법, 국힘 반발 속 24일 국회 본회의 처리 주목",
-      "clusterKey": "24일",
-      "matchedTo": null,
-      "sourceName": "충남일보",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMickFVX3lxTE9xRmhPV244enVvQTRuZmt4YmhpVFVXcHZvcHN5dV9OY2R0NVBLOEQ1WmFLQzl6aG5qczZVTURCYlBMV0Nqd2JQRXhabUlfUzRTRHVaUjIxcUdGcW0xSTFUWnVMdE0yX1h2dXJaalVJUDZVUQ?oc=5",
-      "publishedAt": "2026-02-22T07:15:48.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 63,
-      "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며 간결하게 요약됨. / 근거부족",
+      "qualityReason": "제목과 본문이 일치하며, 사실에 기반하여 작성되었습니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -465,13 +465,13 @@
       "category": "경제",
       "title": "한국무역협회: 기준금리 동결 예상, 반도체 중심 경기 회복으로 인하 명분 부족",
       "summary": [
-        "한국무역협회는 반도체 주도 경기 회복으로 기준금리 인하 명분이 없다고 분석했습니다.",
-        "따라서, 다음 금리 결정 회의에서 기준금리가 동결될 것으로 예상됩니다."
+        "한국무역협회는 반도체 중심의 경기 회복으로 인해 기준금리가 동결될 것으로 예상했다.",
+        "금리 인하의 필요성이 낮다는 분석이다."
       ],
-      "whyImportant": "기준금리 결정에 영향을 미치는 경제 상황에 대한 한국무역협회의 시각을 보여줍니다.",
-      "importanceRationale": "근거: 한국무역협회가 반도체 중심의 경기 회복을 근거로 금리 인하의 필요성이 낮다고 판단했기 때문입니다.",
+      "whyImportant": "기준금리 결정에 영향을 미치는 경제 상황에 대한 분석.",
+      "importanceRationale": "근거: 한국무역협회의 분석은 시장의 금리 예측에 중요한 지표로 작용할 수 있다.",
       "impactSignals": [],
-      "dedupeKey": "20240614_기준금리동결",
+      "dedupeKey": "20240612_기준금리동결",
       "clusterKey": "반도체/경기회복에",
       "matchedTo": null,
       "sourceName": "한국무역협회-KITA.NET",
@@ -482,34 +482,35 @@
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었습니다. / 근거부족",
+      "qualityReason": "제목과 내용이 일치하며, 경제 관련 정보를 제공한다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-02-22_18",
       "date": "2026-02-22",
-      "category": "에너지",
-      "title": "국가 에너지 안보 확보에 기여",
+      "category": "기술",
+      "title": "Microsoft CEO, 빌 게이츠가 OpenAI 투자에 반대했다고 밝혀: '10억 달러를 날릴 것이다'",
       "summary": [
-        "국가 에너지 안보 확보에 기여합니다.",
-        "Vietnam.vn"
+        "Microsoft CEO는 빌 게이츠가 OpenAI에 대한 투자를 반대했다고 밝혔습니다.",
+        "게이츠는 초기 투자에 대해 회의적인 입장을 보였습니다.",
+        "그는 10억 달러를 낭비할 것이라고 우려했습니다."
       ],
-      "whyImportant": "국가 에너지 안보에 대한 기여를 강조합니다.",
-      "importanceRationale": "근거: 국가 에너지 안보 확보에 대한 직접적인 언급이 있습니다.",
+      "whyImportant": "Microsoft의 OpenAI 투자는 인공지능 분야에서 중요한 정책적 결정입니다.",
+      "importanceRationale": "근거: Microsoft CEO가 직접 밝힌 내용으로, 거액의 투자에 대한 내부 반대 의견이 있었음을 시사합니다.",
       "impactSignals": [],
-      "dedupeKey": "국가 에너지 안보 확보에 기여합니다. Vietnam.vn",
-      "clusterKey": "에너지/vietnam",
+      "dedupeKey": "microsoft-openai-gates-opposition",
+      "clusterKey": "bill",
       "matchedTo": null,
-      "sourceName": "Vietnam.vn",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA4d1lpdnFzXy1uNk5mZV9xMUEtOEIxXzFMSFF3TnBjNDFaVk5ad1lNemdaRmpGOWNCUTRwbkU1aFBIemJCZnhVcmxjX18wQ2VnaEllRnZfdFg1eThQLWMybzJmcnE2S1JVTFl0c2hQS0pZZ3VoYlNSY2Zn?oc=5",
-      "publishedAt": "2026-02-22T03:17:29.000Z",
+      "sourceName": "Fortune",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNcjdseUFIbmNCa3o4OWZxSWtGZXFZTUlhRW5xZU05S1N3NHVoVkpvODhPVGpUOGNWNHpYcEozVlhNaVZ2SVpBZ3BMWU51VWlTSHNFcFdoT3NPQ0hQenl5R1FTTUVtNHFVSGZPOUI5UF9Ed2xocWVNNEFxYlNMSjNsOE9GQ3VmOWVrNVVvdnE4MjZ1TnpnbDA4cDF3bUxyVThfdWxlZ2J5Qk95ZDZLSElQSVV4Z2ZPX2dNVUljUW9iT184VVJUYWpIZXNLbWZaa0NF?oc=5",
+      "publishedAt": "2026-02-21T16:05:00.000Z",
       "readTimeSec": 10,
       "status": "kept",
       "importance": 2,
-      "importanceRaw": 50,
+      "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었습니다. / 근거부족",
+      "qualityReason": "제목과 내용이 일치하며, 사실에 기반한 정보를 제공합니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -522,15 +523,15 @@
         "Sharice Davids 하원의원이 오타와 협동조합을 방문하여 지역 농업 공급망을 강조했습니다.",
         "이번 방문은 다가오는 농업 법안에 앞서 식료품 비용 절감을 논의하기 위해 이루어졌습니다."
       ],
-      "whyImportant": "지역 농업 공급망 강화 및 식료품 비용 절감 노력의 일환입니다.",
-      "importanceRationale": "근거: Davids 하원의원의 오타와 협동조합 방문은 지역 농업 공급망의 중요성을 강조하고 다가오는 농업 법안과 관련된 식료품 비용 절감에 대한 논의를 촉진합니다.",
+      "whyImportant": "지역 농업 공급망 강화 및 식료품 비용 절감 정책 방향을 시사합니다.",
+      "importanceRationale": "근거: Davids 하원의원의 오타와 협동조합 방문은 지역 농업 공급망과 식료품 비용 문제에 대한 정책적 관심을 보여줍니다.",
       "impactSignals": [
         {
           "label": "policy",
-          "evidence": "농업 법안 관련 논의 및 지역 농업 공급망 강화 정책"
+          "evidence": "농업 법안 관련 논의 및 지역 농업 공급망 강조"
         }
       ],
-      "dedupeKey": "davids-ottawa-co-op-local-ag-supply-chain",
+      "dedupeKey": "davids-ottawa-co-op-farm-bill",
       "clusterKey": "chain",
       "matchedTo": null,
       "sourceName": "Representative Sharice Davids | (.gov)",
@@ -541,7 +542,7 @@
       "importance": 3.5,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 내용이 일치하며, 핵심 정보를 포함하고 있습니다.",
+      "qualityReason": "제목과 본문이 일치하며, 내용이 간결하고 명확합니다.",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -552,12 +553,12 @@
       "title": "코스피 6000 시대, 엔비디아 실적과 이란 변수에 달려",
       "summary": [
         "코스피가 6000 시대를 앞두고 있다.",
-        "엔비디아 실적 발표와 이란 관련 지정학적 리스크가 주요 변수로 작용할 전망이다."
+        "향후 주가 향방은 엔비디아 실적과 이란 관련 변수에 따라 결정될 전망이다."
       ],
-      "whyImportant": "코스피 향방에 영향을 미치는 요인을 파악하는 데 중요",
-      "importanceRationale": "근거: 코스피 지수가 중요한 시점에 있으며, 투자자와 시장 참여자들은 엔비디아 실적과 이란 관련 지정학적 리스크가 코스피에 미칠 영향에 주목할 필요가 있다.",
+      "whyImportant": "코스피 향방에 대한 투자자들의 관심이 높다.",
+      "importanceRationale": "근거: 코스피 지수가 중요한 시점에 있으며, 투자자들이 엔비디아 실적과 이란 관련 이슈에 주목하고 있기 때문이다.",
       "impactSignals": [],
-      "dedupeKey": "코스피, 엔비디아 실적, 이란 변수",
+      "dedupeKey": "kospi-nvidia-iran-2024",
       "clusterKey": "달렸다",
       "matchedTo": null,
       "sourceName": "뉴스1",
@@ -568,7 +569,7 @@
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 핵심 내용을 잘 요약했습니다. / 근거부족",
+      "qualityReason": "제목과 내용이 일치하며 간결하게 요약됨 / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     }

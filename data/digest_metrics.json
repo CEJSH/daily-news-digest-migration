@@ -5,35 +5,34 @@
   "totalOut": 20,
   "dropped": 265,
   "dropReasons": {
-    "carry_over_duplicate": 20,
-    "outdated": 117,
+    "carry_over_duplicate": 21,
+    "outdated": 114,
     "hard_excluded_keyword": 7,
     "duplicate_dedupe_key": 4,
     "duplicate_title": 7,
     "excluded_keyword": 1,
-    "not_selected": 109
+    "not_selected": 111
   },
   "impactLabels": {
-    "capex": 1,
     "earnings": 1,
-    "security": 2,
-    "policy": 1
+    "policy": 2,
+    "security": 2
   },
   "sources": {
     "더퍼블릭": 1,
-    "스트레이트뉴스": 1,
-    "Fortune": 1,
+    "Fortune": 2,
     "한국경제": 2,
     "한국무역협회-KITA.NET": 2,
-    "연합뉴스 한민족센터": 2,
+    "스트레이트뉴스": 1,
     "Yahoo Finance": 1,
+    "연합뉴스 한민족센터": 2,
+    "마켓인": 1,
     "The Fast Mode": 1,
     "매일경제TV": 1,
+    "SOC Prime": 1,
     "조선일보": 1,
-    "Vietnam.vn": 2,
-    "Cybernews": 1,
+    "Vietnam.vn": 1,
     "미디어오늘": 1,
-    "충남일보": 1,
     "Representative Sharice Davids | (.gov)": 1,
     "뉴스1": 1
   },
@@ -55,8 +54,8 @@
     },
     "글로벌_빅테크": {
       "in": 18,
-      "out": 1,
-      "dropped": 17
+      "out": 2,
+      "dropped": 16
     },
     "실적_가이던스": {
       "in": 24,
@@ -70,8 +69,8 @@
     },
     "전력_인프라": {
       "in": 24,
-      "out": 2,
-      "dropped": 22
+      "out": 1,
+      "dropped": 23
     },
     "AI_저작권_데이터권리": {
       "in": 20,
@@ -85,13 +84,13 @@
     },
     "투자_MA_IPO": {
       "in": 20,
-      "out": 0,
-      "dropped": 20
+      "out": 1,
+      "dropped": 19
     },
     "국내_정책_규제": {
       "in": 15,
-      "out": 5,
-      "dropped": 10
+      "out": 4,
+      "dropped": 11
     },
     "국내_산업_공급망": {
       "in": 15,
@@ -117,7 +116,7 @@
       "outdated": 1
     },
     "전자신문": {
-      "outdated": 2
+      "outdated": 1
     },
     "매일경제": {
       "outdated": 2
@@ -129,9 +128,6 @@
     "비즈니스포스트": {
       "outdated": 2
     },
-    "연합뉴스 한민족센터": {
-      "outdated": 2
-    },
     "knn.co.kr": {
       "outdated": 1
     },
@@ -139,6 +135,9 @@
       "outdated": 1
     },
     "부산일보사": {
+      "outdated": 1
+    },
+    "뉴시스": {
       "outdated": 1
     },
     "TRENDS Research & Advisory": {
@@ -185,7 +184,7 @@
       "outdated": 1
     },
     "ebn.co.kr": {
-      "outdated": 2,
+      "outdated": 3,
       "not_selected": 3
     },
     "한국경제": {
@@ -199,11 +198,12 @@
     "포인트데일리": {
       "outdated": 1
     },
-    "인포스탁데일리": {
-      "outdated": 1
-    },
     "브런치": {
       "outdated": 2
+    },
+    "약사공론": {
+      "outdated": 1,
+      "not_selected": 2
     },
     "히트뉴스": {
       "outdated": 1
@@ -212,14 +212,10 @@
       "outdated": 1
     },
     "마켓인": {
-      "outdated": 6,
-      "not_selected": 2
+      "outdated": 6
     },
     "CryptoRank": {
       "carry_over_duplicate": 1
-    },
-    "Federal Reserve Bank of Dallas": {
-      "outdated": 1
     },
     "Reuters": {
       "outdated": 2,
@@ -242,6 +238,9 @@
       "hard_excluded_keyword": 1
     },
     "Bank for International Settlements": {
+      "outdated": 1
+    },
+    "Federal Reserve Bank of Dallas": {
       "outdated": 1
     },
     "Discovery Alert": {
@@ -301,11 +300,11 @@
     "KBS 뉴스": {
       "duplicate_title": 1
     },
-    "OBS경인TV": {
-      "duplicate_title": 1
-    },
     "서울파이낸스": {
       "outdated": 1
+    },
+    "OBS경인TV": {
+      "duplicate_title": 1
     },
     "Information Technology and Innovation Foundation (ITIF)": {
       "outdated": 2
@@ -322,9 +321,6 @@
     "Congressman Michael McCaul (.gov)": {
       "outdated": 1
     },
-    "Center for a New American Security": {
-      "outdated": 1
-    },
     "The Foundation for American Innovation": {
       "outdated": 1
     },
@@ -332,6 +328,9 @@
       "outdated": 1
     },
     "American Compass": {
+      "outdated": 1
+    },
+    "CNBC": {
       "outdated": 1
     },
     "해사신문": {
@@ -342,6 +341,9 @@
     },
     "인베스트조선": {
       "outdated": 1
+    },
+    "facebook.com": {
+      "carry_over_duplicate": 1
     },
     "grist.org": {
       "carry_over_duplicate": 1
@@ -361,10 +363,7 @@
     "mstoday.co.kr": {
       "outdated": 1
     },
-    "뉴닉": {
-      "outdated": 1
-    },
-    "Inside Global Tech": {
+    "디일렉": {
       "outdated": 1
     },
     "promarket.org": {
@@ -392,7 +391,7 @@
     "WilmerHale": {
       "outdated": 1
     },
-    "SOC Prime": {
+    "Stanford HAI": {
       "outdated": 1
     },
     "돼지와사람": {
@@ -424,9 +423,6 @@
     },
     "프라임경제": {
       "duplicate_title": 1,
-      "outdated": 1
-    },
-    "청년의사": {
       "outdated": 1
     },
     "의학신문": {
@@ -493,7 +489,7 @@
     "Vietnam.vn": {
       "outdated": 1
     },
-    "생글생글": {
+    "연합뉴스 한민족센터": {
       "outdated": 1
     },
     "포춘코리아": {
@@ -511,13 +507,16 @@
     "itworld.co.kr": {
       "outdated": 1
     },
-    "IAPP": {
-      "not_selected": 1
-    },
     "AI Magazine": {
       "not_selected": 1
     },
+    "한국일보": {
+      "not_selected": 2
+    },
     "프레시안": {
+      "not_selected": 2
+    },
+    "constellationenergy.com": {
       "not_selected": 2
     },
     "American Farm Bureau Federation": {
@@ -526,13 +525,13 @@
     "Benedict Evans": {
       "not_selected": 1
     },
-    "Fortune": {
-      "not_selected": 2
-    },
     "Business Insider": {
       "not_selected": 1
     },
-    "The Motley Fool": {
+    "9to5Toys": {
+      "not_selected": 1
+    },
+    "뉴스1": {
       "not_selected": 2
     },
     "TradingView": {
@@ -544,17 +543,11 @@
     "에너지경제신문": {
       "not_selected": 3
     },
-    "constellationenergy.com": {
-      "not_selected": 1
-    },
-    "Forbes": {
-      "not_selected": 1
-    },
     "Alabama Reflector": {
       "not_selected": 1
     },
-    "약사공론": {
-      "not_selected": 2
+    "Cybernews": {
+      "not_selected": 1
     },
     "thedetroitbureau.com": {
       "not_selected": 2
@@ -568,8 +561,11 @@
     "Business Wire": {
       "not_selected": 1
     },
+    "뉴스토마토": {
+      "not_selected": 2
+    },
     "__others__": {
-      "not_selected": 55
+      "not_selected": 56
     }
   },
   "breakingSelection": {
@@ -580,14 +576,15 @@
   },
   "categories": {
     "국제": 6,
-    "경제": 5,
-    "에너지": 2,
+    "에너지": 1,
     "정책": 5,
-    "기술": 2
+    "경제": 5,
+    "기술": 3
   },
   "importanceDistribution": {
     "2": 15,
-    "3.5": 5
+    "3.5": 4,
+    "4.5": 1
   },
   "topDiversity": {
     "uniqueSources": 16,
