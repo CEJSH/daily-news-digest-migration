@@ -3,21 +3,21 @@
   "selectionCriteria": "① 내일도 영향이 남는 이슈 ② 과도한 감정 소모 제외 ③ 어제와 중복되는 뉴스 제외",
   "editorNote": "이 뉴스는 클릭 수가 아니라 오늘 이후에도 남는 정보만 기준으로 편집했습니다.",
   "question": "정보를 덜 보는 것이 오히려 더 똑똑한 소비일까?",
-  "lastUpdatedAt": "2026-02-23T08:23:21.914+09:00",
+  "lastUpdatedAt": "2026-02-23T10:56:51.502+09:00",
   "items": [
     {
       "id": "2026-02-23_1",
       "date": "2026-02-23",
       "category": "국제",
-      "title": "엔비디아 실적 발표 앞둔 뉴욕 증시, AI 불안과 트럼프 관세 우려",
+      "title": "엔비디아 실적 발표 앞둔 뉴욕 증시, AI 불안과 트럼프 관세 우려로 혼란",
       "summary": [
         "뉴욕 증시는 엔비디아의 실적 발표를 앞두고 불안정한 모습을 보이고 있다.",
-        "AI 기술에 대한 불안감과 트럼프 전 대통령의 관세 부활 가능성이 투자 심리를 위축시키고 있다."
+        "인공지능(AI)에 대한 불안감과 트럼프 전 대통령의 관세 부과 가능성이 투자 심리를 위축시키고 있다."
       ],
-      "whyImportant": "엔비디아 실적 발표가 향후 시장 방향성을 결정할 수 있기 때문",
-      "importanceRationale": "근거: 엔비디아의 실적은 AI 산업 전반에 대한 투자 심리를 반영하며, 트럼프 전 대통령의 관세 정책은 글로벌 무역 환경에 큰 영향을 미칠 수 있다.",
+      "whyImportant": "엔비디아 실적 발표가 향후 주식 시장에 미칠 영향 분석",
+      "importanceRationale": "근거: 엔비디아의 실적은 AI 산업 전반의 성장세를 가늠할 수 있는 중요한 지표이며, 트럼프 전 대통령의 관세 정책은 글로벌 무역 환경에 큰 변동성을 가져올 수 있기 때문이다.",
       "impactSignals": [],
-      "dedupeKey": "엔비디아 실적 앞둔 뉴욕 증시…AI 불안에 트럼프 관세까지 겹쳐",
+      "dedupeKey": "엔비디아 실적 발표 앞둔 뉴욕 증시…AI 불안에 트럼프 관세까지 겹쳐",
       "clusterKey": "관세까지",
       "matchedTo": null,
       "sourceName": "뉴스1",
@@ -28,81 +28,114 @@
       "importance": 2,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 핵심 내용을 간결하게 요약했습니다. / 근거부족",
+      "qualityReason": "제목과 본문이 일치하며, 간결하게 요약되어 있음. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-02-23_2",
       "date": "2026-02-23",
-      "category": "경제",
-      "title": "이번 주 Home Depot, TJX 등 소매업체 실적 발표에서 관세 비용 및 환불이 주목을 받음",
+      "category": "기술",
+      "title": "인공지능(AI) 기반 의료의 편향, 개인 정보 보호, 보안 및 환자 자율성 문제 해결: 현재 지침 검토",
       "summary": [
-        "Home Depot, TJX 등 소매업체들의 실적 발표에서 관세 비용과 환불 문제가 주요 관심사로 떠오르고 있습니다.",
-        "이번 주 실적 발표에서 이와 관련된 논의가 활발할 것으로 예상됩니다."
+        "인공지능 기반 의료에서 편향, 개인 정보 보호, 보안 및 환자 자율성 문제를 다루기 위한 현재 지침을 검토합니다.",
+        "이 연구는 Cureus 저널에 게재되었습니다."
       ],
-      "whyImportant": "관세 비용과 환불 문제는 소매업체들의 수익성에 직접적인 영향을 미치기 때문입니다.",
-      "importanceRationale": "근거: 관세는 수입 비용을 증가시키고, 환불은 매출 감소로 이어질 수 있어 기업의 재무 건전성에 중요한 영향을 미칩니다.",
-      "impactSignals": [],
-      "dedupeKey": "tariffs_refunds_retailers_earnings_this_week",
-      "clusterKey": "costs",
+      "whyImportant": "인공지능 의료 시스템의 윤리적이고 안전한 사용을 위한 지침의 중요성을 강조합니다.",
+      "importanceRationale": "근거: 인공지능 의료 기술의 발전과 함께 편향, 개인 정보 보호, 보안 및 환자 자율성과 같은 윤리적 문제에 대한 지침의 필요성이 커지고 있기 때문입니다.",
+      "impactSignals": [
+        {
+          "label": "policy",
+          "evidence": "인공지능 의료 시스템의 사용에 대한 지침 검토"
+        }
+      ],
+      "dedupeKey": "AI_Healthcare_Guidelines_Review",
+      "clusterKey": "addressing",
       "matchedTo": null,
-      "sourceName": "MarketWatch",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi6wNBVV95cUxQWEhmcUp1eWEzU29Vc3RjN3VjNW5VX0dVUVhYWVppaGVaUE9hTURKblRqUDhhY29rWlpvR0hJLVVQUXBKRWl4NXZFZjhsYWpyMXgtZ19jWndqZGE3WDI5YjhoSU9lQ1pYcnVXVzNJTjI1M2xkblhmRDh6dDFGOWg2TmxRdE1pckpjSHhEU2lUeUJTTzFHN3k2VlRmUU04aklTOU1TbWpPYl9lREMzTHBxS2l2S2RqdncwcURlM1ZqMWZPTHFucjk4QWJrLXJrVDhxZWNQWVBKT2ZNaUVpVzRTS29uZW1jOFRGMkVkTmtZc192OVpyVlpfWktuS3ZWeFhYNGROdWlLME9fRGNUbjVUSHFrenR1UWJwdTI5SkhWS1pRckpsRTZmWlZpXzlYWGpGb3F4amNqdW9taXM5dW1nR1NnTzIyZWZiQ2hNS1lWUnJXd3dfalFyQ2FGVkI3X0NWRTktd3lfV0dSTk43Xy1yYWdiaUFUaFZxclN0UzF1aWpBTExidUQxQkJRVjk2WkdERFFuY045QlBLejNoeUpVY1h5eDBZTWFoTDhHbE82U1B4ZFlzbWdEMzltT1dfQVZKai05VFpEc01wcFdiQVZuUFFiTEpXX3dkbUFwTDhuRFBhWFZHeHd4TWh4OA?oc=5",
-      "publishedAt": "2026-02-22T15:00:00.000Z",
+      "sourceName": "Cureus",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQa3dadE1CeFMxX0hidGZDX3dOSlFPcFptQW5UWUVOQUNTVlNHZW9lREw1ak54WGlublFxZFIzd0RnT2dMQWRSejRjWGo4a1pkdHE2TXJ5aWJxM0hfdURTRWVZaWw3UGk2TUtlN2ZsRjlYVW0zbXdjWkx2ZHVtZ1V3ZUhZV3libVJiaFdDRGJ4c2ctb2ZtVG81QmlOTy16ZmttSkNaQXRXODJ0UkU1UE1lS3ctMjBwMU5lNTlFODFZdzA5bVgzTDVPamoyY0gySW5WZ1ZzcFFzNHBfOTFSYXdxWmhfWUZZQmJreW90TC1QTV83TW83M21haHFsVm1uZW55?oc=5",
+      "publishedAt": "2026-02-21T02:27:53.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 2,
+      "importance": 3.5,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 핵심 내용을 잘 반영하고 있습니다. / 근거부족",
+      "qualityReason": "제목과 텍스트가 일치하며, 내용이 명확합니다.",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-02-23_3",
       "date": "2026-02-23",
-      "category": "정책",
-      "title": "빠른 임상 허가 및 상장 규제 개선…'바이오 선진화' 주도한 중국 정부",
+      "category": "국제",
+      "title": "이번 주 주목할 점: 엔비디아 실적, 대법원 관세 영향, 지정학적 긴장 고조",
       "summary": [
-        "중국 정부가 빠른 임상 허가와 상장 규제 개선을 통해 '바이오 선진화'를 주도하고 있다.",
-        "이는 한국경제에서 보도된 내용이다."
+        "이번 주에는 엔비디아의 실적 발표가 예정되어 있습니다.",
+        "미국 대법원의 관세 관련 결정에 따른 영향도 주목해야 합니다.",
+        "지정학적 긴장 역시 주요 관심사입니다."
       ],
-      "whyImportant": "중국 정부의 바이오 산업 육성 정책 방향을 파악할 수 있다.",
-      "importanceRationale": "근거: 중국 정부의 정책 변화는 관련 산업에 큰 영향을 미치므로, 투자 및 사업 전략 수립에 중요한 정보가 될 수 있다.",
-      "impactSignals": [
-        {
-          "label": "policy",
-          "evidence": "중국 정부의 임상 허가 및 상장 규제 개선"
-        }
-      ],
-      "dedupeKey": "빠른 임상 허가·상장규제 개선…'바이오 선진화' 주도한 中정부",
-      "clusterKey": "개선",
+      "whyImportant": "이번 주 경제 및 지정학적 주요 이슈들을 다루고 있습니다.",
+      "importanceRationale": "근거: 엔비디아 실적 발표, 대법원 관세 결정, 지정학적 긴장이라는 세 가지 주요 사건을 포괄적으로 다루고 있기 때문입니다.",
+      "impactSignals": [],
+      "dedupeKey": "Nvidia_earnings_SCOTUS_tariff_geopolitical_tensions",
+      "clusterKey": "fallout",
       "matchedTo": null,
-      "sourceName": "한국경제",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBRbVI5VTdxdXBtZFVoNF9oczBGWVBoMS1MM3lZQmo3QlRGdUNZRDhocWVwSnNLS0Z2OHRxZGtkaWo4NUdvbnlqTlk5b1ZWVWhsbHloNzFhN0lDUdIBVEFVX3lxTE9RSDRBd0ZjYVFNaU1KdjJvampZYlhINlpDWjNpYzc2bFp4bmw5RHNkTjR6TV92M0c4RElrLXl0b0VRNUJWcXlGWnNEVnF6VnZjLXdYZA?oc=5",
-      "publishedAt": "2026-02-22T08:33:44.000Z",
+      "sourceName": "Yahoo Finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNNkx0QUlCZ1p4a0s0V2l6OW9QSzBybElMalZlZmJtMG4wb3FBX0ZOREt1SXZYSUQya2FVLVd0alFjMHJaT3Y5T0VNQ1M0TFVEQkp2UDE3dmZPZmwzWjFaRDA5V00yaXpUQUo2dmh4aFp0Tm1MMHMzbWo3UlNjR2xWaTZ1eEt2YTNQSEFwTVQ4dmEwQ2xTUTVyU2V0eEpudjF6MDdyNVd0cFlIeXhKV0tKc1ZpVVljQ0JnZDJxalBpdF9PbWJ0M1JBQ2tsdlEwZzQ?oc=5",
+      "publishedAt": "2026-02-22T20:41:53.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 3.5,
+      "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 간결하게 요약됨.",
+      "qualityReason": "제목과 텍스트가 일치하며, 정보가 명확합니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-02-23_4",
       "date": "2026-02-23",
+      "category": "경제",
+      "title": "이번 주 Home Depot, TJX 등 소매업체 실적 발표에서 관세 비용 및 환불이 주목을 받다",
+      "summary": [
+        "Home Depot, TJX 등 소매업체들의 실적 발표가 이번 주에 예정되어 있다.",
+        "관세 비용과 환불 문제가 주요 관심사로 떠오르고 있다."
+      ],
+      "whyImportant": "소매업체들의 실적에 영향을 미치는 관세 및 환불 정책의 변화를 파악하는 데 중요.",
+      "importanceRationale": "근거: 소매업체 실적 발표에서 관세 비용과 환불 문제가 주요하게 다뤄질 것으로 예상되므로, 관련 정책 변화가 기업 실적에 미치는 영향을 파악하는 데 중요.",
+      "impactSignals": [],
+      "dedupeKey": "tariffs_refunds_retailers_earnings_this_week",
+      "clusterKey": "costs",
+      "matchedTo": null,
+      "sourceName": "MarketWatch",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi6wNBVV95cUxNZDc1enRmcEg5XzJrTzhSQVBVMUZHR3RiNmtOTjBSajVtZEpxUzJ6cEhOTnQxY01OaWNvN3BzejJnSVg4aXNrOUdiY1dqNmxCM2xMWElaTTBUcjJyTWw5ZjNsR2NXdGRXV2ZHdFBmY09rTDRoQnRMTXptVFJjOEhTZEtxajh4cFg3cVNWVHdVUEs5Z1k2bFJxWWJCQVlFNVNqZHgtTTNXUi1TUHd0Vm1rOHFMRHdJbGRqdl9IUXFndGU3TGpIaDBUQ1c1ejJ3SWF6clA2ZjAtdmhmNWw5NXdnWlN3SUNaX2lCUWZpZ3VpQi1qV2J5V2lqWWRpaUdaYjJpNXlHbG1nTXN1blZMZTZ0aDVRMFFDZUpsSGtWaGM3NnUtSF8xTmdkSUtPQmptd3lQcHR5UGRhWXF4OGdSNHduazVRTHNzTmNVSzJGSUk4LUFxU3NVS0xMNGZIeDF1MVdmLXhsTFd4MzQweVZpZTVyQzZVNnlJT3hveUZQZmFOZHNzNWoyd28wbFhtOFhXcEN5TG9Uc3daa0NuQkdCaXlKTnROTko2VG5jaGNrX3llMWNiYWw5a3ZKNmFjV0dEMXZUUEcwNlgwRm1YRElmU09nRUtuT0RxcG55Q3lQbnhWWXNxNUoyWTN4ckF0MA?oc=5",
+      "publishedAt": "2026-02-22T15:00:00.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 63,
+      "qualityLabel": "ok",
+      "qualityReason": "기사 제목과 내용이 일치하며, 핵심 내용을 잘 반영하고 있다. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-02-23_5",
+      "date": "2026-02-23",
       "category": "국제",
-      "title": "엔비디아, OpenAI의 대규모 자금 조달 라운드에 300억 달러 투자 근접 (출처: 로이터)",
+      "title": "엔비디아, OpenAI의 대규모 자금 조달 라운드에 300억 달러 투자 근접 (소식통)",
       "summary": [
         "엔비디아가 OpenAI의 대규모 자금 조달 라운드에 300억 달러를 투자할 가능성이 있다고 소식통이 밝혔습니다.",
-        "이번 투자는 엔비디아의 AI 분야에서의 영향력을 더욱 확대할 것으로 예상됩니다."
+        "이번 투자는 엔비디아의 AI 기술 리더십 강화에 기여할 것으로 예상됩니다."
       ],
-      "whyImportant": "엔비디아의 OpenAI 투자는 AI 기술 개발 경쟁 심화와 시장 판도 변화를 예고합니다.",
-      "importanceRationale": "근거: 엔비디아의 대규모 투자는 OpenAI의 기술 개발 속도를 가속화하고, 이는 AI 시장 전반에 걸쳐 경쟁을 촉진할 수 있습니다. 또한, 엔비디아의 투자 결정은 AI 분야에 대한 투자자들의 관심을 높이는 계기가 될 수 있습니다.",
-      "impactSignals": [],
+      "whyImportant": "OpenAI에 대한 대규모 투자는 AI 기술 경쟁 심화와 시장 판도 변화에 중요한 영향을 미칠 수 있습니다.",
+      "importanceRationale": "근거: 엔비디아의 OpenAI 투자는 AI 산업의 성장과 기술 발전에 대한 강력한 지지를 의미하며, 이는 관련 시장과 정책 결정에 상당한 영향을 줄 수 있습니다.",
+      "impactSignals": [
+        {
+          "label": "policy",
+          "evidence": "엔비디아의 투자는 AI 기술 개발 및 규제 정책에 영향을 미칠 수 있음"
+        }
+      ],
       "dedupeKey": "nvidia-openai-30b-investment",
       "clusterKey": "billion",
       "matchedTo": null,
@@ -111,77 +144,199 @@
       "publishedAt": "2026-02-20T08:57:43.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 2,
-      "importanceRaw": 75,
+      "importance": 4.5,
+      "importanceRaw": 88,
       "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 내용이 일치하며, 정보가 간결하고 명확합니다. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-02-23_5",
-      "date": "2026-02-23",
-      "category": "경제",
-      "title": "클라르나, 분기별 수익 10억 달러 돌파. 주가가 폭락한 이유는?",
-      "summary": [
-        "클라르나의 분기별 수익이 10억 달러를 넘어섰습니다.",
-        "그럼에도 불구하고 주가는 하락세를 보이고 있습니다."
-      ],
-      "whyImportant": "클라르나의 수익 증가에도 불구하고 주가 하락의 원인을 파악하는 것이 중요합니다.",
-      "importanceRationale": "근거: 수익과 주가 간의 괴리는 투자자 심리 및 시장 상황에 대한 중요한 정보를 제공할 수 있습니다.",
-      "impactSignals": [],
-      "dedupeKey": "Klarna_Q3_2024",
-      "clusterKey": "billion",
-      "matchedTo": null,
-      "sourceName": "Barron's",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxOaDJ4Z0tPakRiaXJSZUxHMnZkcEJaemx0Y3dWMm8xbG9fU1hsV0RiazJic21GcFhqSm1iQ0VHM2NmenJCSVV3QWdxdWV3cjZHWk92c3U2YmpiUEtlQjJPUldYTnhodEZLbnpwa1FKM28td1J4SUJXM1pIc2VheHNlN0RhcWdYTkg4Y3dkRllILWFLc3N5NTNiUWJtSXU0dHc0Ni0tSG5WaVgxTlhUZjBqbjdlQzNnbU1NY1dJRVcxUXdUakpzUUgxWkYwd0Qydks1NHo5ZTVYdGlxM0VVRFVTdXR5UzNOV28zX21ESXdzd2Q4TVlYbm9vUTZNOVFwSUFsVzBUN0M1VnBUd2ZDLVd5a3JReFBMbnNWS0hENWYyM1pJZzRzd1I3b2oxY2tnYXk5T0FreVhwWi1GQ1llMkQ1cTFNREZ6SlNtcUVEaXVjdFVkY1dSbVpIUlhyTjhvMExhVDUzdVBFQ2lrT1RrMTF5Z2sya2VHWTdOb1ZsVHdR?oc=5",
-      "publishedAt": "2026-02-19T19:52:00.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 63,
-      "qualityLabel": "ok",
-      "qualityReason": "기사의 제목과 내용이 일치하며, 핵심 정보를 간결하게 전달합니다. / 근거부족",
+      "qualityReason": "기사 제목과 내용이 일치하며, 정보의 출처가 명시되어 있습니다.",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-02-23_6",
       "date": "2026-02-23",
-      "category": "국제",
-      "title": "뉴욕·상하이 증시, 엔비디아 4분기 실적 발표에 집중",
+      "category": "경제",
+      "title": "KB증권, \"현대건설, 한미 원전 협력 수혜 기대…목표가↑\"",
       "summary": [
-        "뉴욕과 상하이 증시가 엔비디아의 4분기 실적 발표에 주목하고 있다.",
-        "엔비디아 실적에 따라 시장 변동성이 커질 수 있다는 전망이 나온다."
+        "KB증권은 현대건설이 한미 원전 협력의 수혜를 받을 것으로 기대하며 목표가를 상향 조정했다.",
+        "현대건설은 원전 관련 투자 확대로 인한 수혜를 예상받고 있다."
       ],
-      "whyImportant": "엔비디아의 실적 발표는 글로벌 증시에 중요한 영향을 미칠 수 있기 때문",
-      "importanceRationale": "근거: 엔비디아는 반도체 산업의 핵심 기업이며, 실적은 기술주 전반의 투자 심리에 영향을 줄 수 있다.",
-      "impactSignals": [],
-      "dedupeKey": "뉴욕·상하이증시,엔비디아4분기실적발표집중",
-      "clusterKey": "4분기",
+      "whyImportant": "현대건설의 주가에 영향을 미칠 수 있는 KB증권의 분석 결과이다.",
+      "importanceRationale": "근거: KB증권이 현대건설의 목표가를 상향 조정한 것은 투자자들에게 중요한 신호로 작용할 수 있다.",
+      "impactSignals": [
+        {
+          "label": "capex",
+          "evidence": "한미 원전 협력으로 인한 현대건설의 투자 확대 예상"
+        }
+      ],
+      "dedupeKey": "KB증권, 현대건설, 한미 원전협력 수혜 기대…목표가↑",
+      "clusterKey": "kb증권",
       "matchedTo": null,
-      "sourceName": "한국경제",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE52U1JSN294QVV5bll0RjdqMnpIak9VVkJqWS1HaDREM0JrOW5SWkRHWTBQc05KTVJGcFdKV19fZzhCNTJ6RWk5SERzSWdxLUlpdTdEWGg4RjAxd9IBVEFVX3lxTE55WU9MczZ6SUIzeGlvdzY5QkVXVzBGSzZrNnRtM3pRN3kzUmpNbGJpVG1TNHMwYjh0MVRRNnNrU25iLWNud1k2WkljUmV3d0xTeHpSRg?oc=5",
-      "publishedAt": "2026-02-22T08:42:44.000Z",
+      "sourceName": "서울경제TV",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBvb2daeHpkZWNUUHlVSmlsVkZLNVBLUm9WdjRYNEM4XzJVVFpxenpGTUFlTUhYNmFtdEFrVG5WSmNFc25qeUZ3SndSLTF5UG1Hb1BsRzVveV9hQXdhYzVQcmxYWS0?oc=5",
+      "publishedAt": "2026-02-23T00:05:55.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 2,
-      "importanceRaw": 75,
+      "importance": 3.5,
+      "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약됨. / 근거부족",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 핵심 내용을 전달한다.",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-02-23_7",
       "date": "2026-02-23",
+      "category": "에너지",
+      "title": "영국 컨소시엄, 미국 군용 부유식 원자력 발전소 제안",
+      "summary": [
+        "영국 컨소시엄이 미국 군대를 위한 부유식 원자력 발전소를 제안했다.",
+        "이 프로젝트는 해상에서 전력을 공급하는 것을 목표로 한다."
+      ],
+      "whyImportant": "미국 군사 시설에 대한 전력 공급 방식에 잠재적인 변화를 가져올 수 있다.",
+      "importanceRationale": "근거: 영국 컨소시엄이 미국 군대에 부유식 원자력 발전소를 제안한 것은 군사 시설 에너지 공급에 대한 새로운 접근 방식을 모색하는 중요한 움직임이다.",
+      "impactSignals": [
+        {
+          "label": "capex",
+          "evidence": "부유식 원자력 발전소 건설에는 상당한 자본 지출이 필요하다."
+        }
+      ],
+      "dedupeKey": "UK_Consortium_Floating_Nuclear_Plant_US_Military",
+      "clusterKey": "consortium",
+      "matchedTo": null,
+      "sourceName": "The Maritime Executive",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRDByWExhZnZRM3lxWmg1VjFvbFdNc2hCWUV1YkxsbHBaRWFadzYySjlwcFVIOElFZ2ZGTjItb2NyeEpkSE9nU2ZsamdmUk1hMnVyWDJBWk9ocHY0XzZxVDhuRmdqdHhsVnNEOWo5bkxDd095OHRqOFhPVGlFQmJ3REFtWlBUeGpXcUd5SW9lMFdmcE9FRE1RR05feHoyTFczMlB3?oc=5",
+      "publishedAt": "2026-02-22T23:49:00.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 3.5,
+      "importanceRaw": 63,
+      "qualityLabel": "ok",
+      "qualityReason": "The article provides a concise overview of the UK consortium's proposal.",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-02-23_8",
+      "date": "2026-02-23",
+      "category": "국제",
+      "title": "주이란대사관, 미국의 공격 가능성에 \"항공편 있을 때 출국 권고\"",
+      "summary": [
+        "주이란대사관은 미국의 공격 가능성에 대비해 항공편이 있을 때 출국을 권고했습니다."
+      ],
+      "whyImportant": "이란 내 미국 공격 가능성에 대한 한국 대사관의 권고는 잠재적 위험을 시사합니다.",
+      "importanceRationale": "근거: 주이란대사관이 자국민에게 출국을 권고한 것은 이례적인 조치이며, 이는 이란 내의 안보 상황이 불안정함을 간접적으로 나타냅니다.",
+      "impactSignals": [],
+      "dedupeKey": "iran_embassy_warning_20240126",
+      "clusterKey": "가능성에",
+      "matchedTo": null,
+      "sourceName": "연합뉴스 한민족센터",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE11eDBKN1ZyOGFSQnlDcXpmeExLQWl3ajBUSzRnZ3B2djhNMDVWazlvU21sSzRUZEN1eVlCMzVlT1pZWXNlVTlKbXBZalMwbWR0c1pkelN2TVdnbjRuVmY0S2djc1JuT1k2R25FX1F2enVRc2c?oc=5",
+      "publishedAt": "2026-02-22T23:32:31.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 63,
+      "qualityLabel": "ok",
+      "qualityReason": "The article is a brief factual report from a credible news source. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-02-23_9",
+      "date": "2026-02-23",
       "category": "정책",
+      "title": "자사주 소각 의무화 상법 개정안, 법안1소위 통과",
+      "summary": [
+        "자사주 소각을 의무화하는 상법 개정안이 법안1소위를 통과했습니다."
+      ],
+      "whyImportant": "자사주 소각 의무화는 주주 가치에 큰 영향을 미칠 수 있습니다.",
+      "importanceRationale": "근거: 자사주 소각 의무화는 기업의 자본 정책에 변화를 가져오고, 이는 주가 및 투자 심리에 영향을 줄 수 있기 때문입니다.",
+      "impactSignals": [],
+      "dedupeKey": "자사주 소각 의무화 상법 개정안, 법안1소위 통과",
+      "clusterKey": "개정안",
+      "matchedTo": null,
+      "sourceName": "히트뉴스",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBaajI2eEcwVE9QMzgzX1FlTW9QNXItbHRyTElZUDJvZUdQbkFnTklHUUlkTTRRRWtjTThOU1RuRW1VaVotN1BsV1YtaDhXQUZ6ek1lci1NUmNNbm11bktheFdOOUxwdnhYVGNJ?oc=5",
+      "publishedAt": "2026-02-23T01:52:59.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 75,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었습니다. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-02-23_10",
+      "date": "2026-02-23",
+      "category": "국제",
+      "title": "한국, 미국 관세 정책 변화에 따른 협상 지속 및 대응책 모색",
+      "summary": [
+        "한국은 미국의 변화하는 관세 정책에 대응하여 미국과의 관세 협상을 지속하고 있습니다.",
+        "이번 협상을 통해 한국은 미국의 관세 정책 변화에 대한 효과적인 대응책을 모색할 것으로 예상됩니다."
+      ],
+      "whyImportant": "미국 관세 정책 변화에 대한 한국의 대응 전략 수립에 중요한 지표가 될 수 있습니다.",
+      "importanceRationale": "근거: 미국의 관세 정책 변화는 한국 경제에 직접적인 영향을 미칠 수 있으며, 이에 대한 한국의 협상 전략과 대응책은 경제적 안정과 성장에 중요한 요소입니다.",
+      "impactSignals": [],
+      "dedupeKey": "20240612-한국대미관세협상지속",
+      "clusterKey": "한미/관세정책",
+      "matchedTo": null,
+      "sourceName": "공감신문",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE15N3I0UGdsakpPZElDZ1AtWURuZFpjYUFZUTM2MEtJX2VzeGhpT3dmR2Z4WjREc3JtUzQtdjM3Wm9LVE5SVUI1dTBRNnc0VGxCM3BUdUtNc1BNQkJKR0NjM0R5NC0yalJ0?oc=5",
+      "publishedAt": "2026-02-23T01:27:36.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 75,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었습니다. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-02-23_11",
+      "date": "2026-02-23",
+      "category": "기술",
+      "title": "실리콘 밸리의 AI 야망을 지원하기 위해 자체 발전소를 갖춘 데이터 센터를 건설하는 기술 회사들, 텍사스에서 웨스트 버지니아까지 경종을 울리다",
+      "summary": [
+        "기술 회사들이 실리콘 밸리의 AI 개발을 지원하기 위해 자체 발전소를 갖춘 데이터 센터를 건설하고 있습니다.",
+        "이러한 움직임은 텍사스에서 웨스트 버지니아에 이르기까지 지역 주민들의 우려를 낳고 있습니다.",
+        "주민들은 주요 도시에 전력을 공급할 수 있는 규모의 발전소가 인근에 건설될 것이라는 사실에 불만을 표하고 있습니다."
+      ],
+      "whyImportant": "데이터 센터 건설과 자체 발전소 구축은 기술 산업의 에너지 소비 증가와 지역 사회에 미치는 잠재적 영향에 대한 우려를 야기합니다.",
+      "importanceRationale": "근거: 기술 기업들이 AI 개발을 위해 자체 발전소를 갖춘 데이터 센터를 건설하는 것은 상당한 자본 지출(capex)을 의미하며, 이는 에너지 시장과 지역 사회에 중요한 영향을 미칠 수 있습니다.",
+      "impactSignals": [
+        {
+          "label": "capex",
+          "evidence": "기술 기업들이 데이터 센터와 자체 발전소 건설에 투자하는 것은 상당한 자본 지출을 의미합니다."
+        }
+      ],
+      "dedupeKey": "tech_data_center_power_plants",
+      "clusterKey": "에너지/building",
+      "matchedTo": null,
+      "sourceName": "facebook.com",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPZE9DcHloRXZESHZsWGNoTXJFNFlBM0tRMWN4VDZxR2FxVmE3ZkhkcEVjZUo4eE5ESVhndExOeW9ZczBwNTRzSlY0WVNLaWtlSmYtQU9Tclo5YmtreElaNzk0RUpqcFBMUnhjSUJlenVyQm5TaklMMG4zc1d3eFl2enR5YmNqUnNRV253allZR1lZeFFYVmc3OUMyZHA1RU9tMDcxajhkaUpSeml0bHJFX0duYTIwdHNPa3BlcHRKN3RSeEZBekMwdnRCdG5mbW82Q2s4ejAxai1MYzhX?oc=5",
+      "publishedAt": "2026-02-23T00:43:52.000Z",
+      "readTimeSec": 12,
+      "status": "kept",
+      "importance": 4,
+      "importanceRaw": 75,
+      "qualityLabel": "ok",
+      "qualityReason": "기사 제목과 내용이 일치하며, 요약이 정확하게 정보를 전달합니다.",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-02-23_12",
+      "date": "2026-02-23",
+      "category": "에너지",
       "title": "에너지 자급자족을 위한 배터리 전력망 해결 방안 긴급 국회 토론회",
       "summary": [
         "에너지 자급자족을 위한 배터리 전력망 해결 방안을 모색하는 긴급 국회 토론회가 개최됨."
       ],
-      "whyImportant": "에너지 정책 방향에 영향을 줄 수 있는 토론회 개최",
-      "importanceRationale": "근거: 에너지 자립과 관련된 정책 논의가 국회에서 이루어지기 때문",
+      "whyImportant": "에너지 정책 방향에 영향을 줄 수 있는 토론회입니다.",
+      "importanceRationale": "근거: 국회 토론회는 정책 결정에 중요한 영향을 미칠 수 있기 때문입니다.",
       "impactSignals": [],
       "dedupeKey": "에너지 자급자족 배터리 전력망 국회 토론회",
       "clusterKey": "에너지/국회토론회",
@@ -194,23 +349,28 @@
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치함 / 근거부족",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었습니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": true
     },
     {
-      "id": "2026-02-23_8",
+      "id": "2026-02-23_13",
       "date": "2026-02-23",
       "category": "정책",
-      "title": "금융위, 오늘 5대 거래소와 '디지털자산기본법' 최종 조율…지분 규제 방향 주목",
+      "title": "금융위원회, 오늘 5대 거래소와 '디지털자산기본법' 최종 조율…지분 규제 방향 주목",
       "summary": [
-        "금융위원회가 오늘 국내 5대 암호화폐 거래소와 '디지털자산기본법' 관련 최종 조율에 나선다.",
-        "이번 조율에서는 거래소 지분 규제 방향이 주요하게 논의될 예정이다."
+        "금융위원회가 오늘 국내 5대 암호화폐 거래소와 '디지털자산기본법'에 대한 최종 조율에 나섭니다.",
+        "이번 조율에서는 특히 거래소 지분 규제 방향이 주요 쟁점이 될 것으로 보입니다."
       ],
       "whyImportant": "디지털자산기본법의 내용은 암호화폐 시장의 규제 환경에 큰 영향을 미치므로 중요합니다.",
-      "importanceRationale": "근거: 디지털자산기본법은 암호화폐 거래소 운영 및 투자자 보호에 대한 기준을 제시하여 시장의 안정성과 투명성을 높이는 데 기여할 수 있습니다.",
-      "impactSignals": [],
-      "dedupeKey": "20240118-디지털자산기본법-최종조율",
+      "importanceRationale": "근거: 디지털자산기본법의 세부 사항은 암호화폐 거래소 운영 및 투자자 보호에 직접적인 영향을 미치기 때문입니다.",
+      "impactSignals": [
+        {
+          "label": "policy",
+          "evidence": "디지털자산기본법의 내용이 암호화폐 시장의 규제 환경에 영향을 미침"
+        }
+      ],
+      "dedupeKey": "금융위, 오늘 5대 거래소와 '디지털자산기본법' 막판 조율…지분 규제 향방 주목",
       "clusterKey": "5대",
       "matchedTo": null,
       "sourceName": "블루밍비트",
@@ -218,26 +378,26 @@
       "publishedAt": "2026-02-22T22:04:38.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 2,
+      "importance": 4,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며 핵심 내용을 잘 요약했습니다. / 근거부족",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 핵심 내용을 전달합니다.",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-02-23_9",
+      "id": "2026-02-23_14",
       "date": "2026-02-23",
       "category": "정책",
-      "title": "국회, 챗GPT 활용…국회사무처, 의원실 AI 이용료 지원",
+      "title": "국회도 챗GPT 사용…국회사무처, 의원실 AI 이용료 지원",
       "summary": [
-        "국회사무처가 의원실의 챗GPT 등 인공지능 이용료를 지원한다.",
-        "이는 국회의원들의 AI 활용을 장려하기 위한 조치이다."
+        "국회사무처가 국회의원실의 챗GPT 등 인공지능 이용료를 지원한다.",
+        "이는 국회도 AI를 활용하여 업무 효율성을 높이려는 시도로 보인다."
       ],
-      "whyImportant": "국회가 AI 기술을 도입하여 의정 활동에 활용하는 것은 정책 결정 과정에 큰 영향을 미칠 수 있다.",
-      "importanceRationale": "근거: 국회사무처의 AI 이용료 지원은 국회의원들의 AI 활용을 촉진하며, 이는 정책 결정 과정의 효율성과 질을 향상시킬 수 있다.",
+      "whyImportant": "국회가 AI 기술을 도입하여 정책 결정 및 의정 활동에 활용할 가능성을 보여준다.",
+      "importanceRationale": "근거: 국회사무처가 의원실의 AI 이용료를 지원함으로써 국회 차원에서 AI 활용을 장려하고 있기 때문이다.",
       "impactSignals": [],
-      "dedupeKey": "국회, 챗GPT 활용…국회사무처, 의원실 AI 이용료 지원",
+      "dedupeKey": "국회챗GPT지원",
       "clusterKey": "국회도",
       "matchedTo": null,
       "sourceName": "더팩트",
@@ -248,21 +408,21 @@
       "importance": 2,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "기사 내용이 명확하고 간결하게 전달됨 / 근거부족",
+      "qualityReason": "기사 내용이 명확하고 사실에 기반하고 있다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-02-23_10",
+      "id": "2026-02-23_15",
       "date": "2026-02-23",
       "category": "기술",
-      "title": "어드반테스트, 랜섬웨어 공격으로 내부 IT 시스템 및 공급망 보안에 영향",
+      "title": "Advantest Corporation 랜섬웨어 공격: 내부 IT 시스템 및 공급망 보안에 영향을 미치는 2026년 사이버 사건",
       "summary": [
-        "어드반테스트가 2026년에 발생한 사이버 공격으로 랜섬웨어 공격을 받았습니다.",
-        "이번 공격은 내부 IT 시스템과 공급망 보안에 영향을 미쳤습니다."
+        "Advantest Corporation이 랜섬웨어 공격을 받아 내부 IT 시스템과 공급망 보안에 영향을 받았습니다.",
+        "이번 사이버 공격은 2026년에 발생했습니다."
       ],
-      "whyImportant": "공급망 보안에 대한 경각심을 높이는 사건입니다.",
-      "importanceRationale": "근거: 어드반테스트는 반도체 테스트 장비의 주요 공급업체이며, 이들의 시스템 침해는 광범위한 산업에 영향을 줄 수 있습니다.",
+      "whyImportant": "Advantest Corporation의 랜섬웨어 공격은 공급망 보안에 대한 중요한 취약점을 드러냅니다.",
+      "importanceRationale": "근거: Advantest Corporation은 반도체 테스트 장비 분야의 주요 기업으로, 이들의 시스템 침해는 광범위한 산업에 영향을 미칠 수 있습니다. 특히 공급망 보안에 직접적인 위협을 가하며, 유사한 공격의 가능성을 시사합니다.",
       "impactSignals": [
         {
           "label": "security",
@@ -280,185 +440,123 @@
       "importance": 4,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 정보가 명확합니다.",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-02-23_11",
-      "date": "2026-02-23",
-      "category": "기술",
-      "title": "실리콘 밸리의 AI 야망을 지원하기 위해 자체 발전소를 갖춘 데이터 센터를 건설하는 기술 회사들, 텍사스에서 웨스트 버지니아까지 경종을 울리다",
-      "summary": [
-        "기술 회사들이 실리콘 밸리의 AI 개발을 지원하기 위해 자체 발전소를 갖춘 데이터 센터를 건설하고 있습니다.",
-        "이러한 움직임은 텍사스에서 웨스트 버지니아에 이르기까지 지역 주민들의 우려를 낳고 있습니다.",
-        "주민들은 주요 도시를 가동할 수 있을 만큼 큰 발전소가 인근에 건설될 것이라는 사실에 불만을 표하고 있습니다."
-      ],
-      "whyImportant": "데이터 센터 건설과 자체 발전소 구축은 기술 산업의 에너지 소비 증가와 환경에 미치는 영향에 대한 우려를 제기합니다.",
-      "importanceRationale": "근거: 기술 기업들이 AI 개발을 위해 대규모 데이터 센터를 건설하고 있으며, 이를 위해 자체 발전소를 건설하는 것은 상당한 자본 지출(capex)을 의미합니다. 이는 에너지 시장과 지역 사회에 중요한 영향을 미칠 수 있습니다.",
-      "impactSignals": [
-        {
-          "label": "capex",
-          "evidence": "기술 기업들이 데이터 센터와 자체 발전소 건설에 투자하고 있습니다."
-        }
-      ],
-      "dedupeKey": "tech_data_centers_power_plants",
-      "clusterKey": "에너지/building",
-      "matchedTo": null,
-      "sourceName": "facebook.com",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPZE9DcHloRXZESHZsWGNoTXJFNFlBM0tRMWN4VDZxR2FxVmE3ZkhkcEVjZUo4eE5ESVhndExOeW9ZczBwNTRzSlY0WVNLaWtlSmYtQU9Tclo5YmtreElaNzk0RUpqcFBMUnhjSUJlenVyQm5TaklMMG4zc1d3eFl2enR5YmNqUnNRV253allZR1lZeFFYVmc3OUMyZHA1RU9tMDcxajhkaUpSeml0bHJFX0duYTIwdHNPa3BlcHRKN3RSeEZBekMwdnRCdG5mbW82Q2s4ejAxai1MYzhX?oc=5",
-      "publishedAt": "2026-02-22T13:00:21.000Z",
-      "readTimeSec": 12,
-      "status": "kept",
-      "importance": 4,
-      "importanceRaw": 75,
-      "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 내용이 일치하며, 핵심 정보를 잘 요약했습니다.",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-02-23_12",
-      "date": "2026-02-23",
-      "category": "국제",
-      "title": "2월 25일은 엔비디아에게 중요한 날: 다가오는 실적 발표에서 주목해야 할 3가지",
-      "summary": [
-        "엔비디아의 다가오는 실적 발표에서 주목해야 할 3가지 사항이 있습니다.",
-        "2월 25일은 엔비디아에게 매우 중요한 날이 될 것입니다."
-      ],
-      "whyImportant": "엔비디아의 실적 발표에 대한 시장의 관심이 높습니다.",
-      "importanceRationale": "근거: 엔비디아의 실적 발표는 주가에 큰 영향을 미칠 수 있으며, 기술 산업 전반에 대한 투자 심리를 가늠할 수 있는 지표가 될 수 있습니다.",
-      "impactSignals": [],
-      "dedupeKey": "nvidia_earnings_feb_2024",
-      "clusterKey": "day",
-      "matchedTo": null,
-      "sourceName": "The Motley Fool",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPenhPYVRDQ1pUVWwxdUxvNkhJTnAzS2VWM25OMjN3OTA3U3pmbUlndmhXNkdQUTNJVWFrbEZwT1pkOFdDYzJnUW5EV1QyVHRIbU5xQ2hRSV9vTFlrWm9VcHF2bHVPeUw4OFBUQjFMZkRUMWZub0FBR3I3ZW5IdHhCSWhIaFBVV2hBTzBSYjV1MTMxZw?oc=5",
-      "publishedAt": "2026-02-22T21:10:00.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 63,
-      "qualityLabel": "ok",
-      "qualityReason": "The article provides a clear and concise overview of an upcoming earnings report. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-02-23_13",
-      "date": "2026-02-23",
-      "category": "에너지",
-      "title": "데이터 센터 개발업체, 전력망 부담 회피 위해 자체 천연 가스 '섀도우 그리드' 발전소 건설",
-      "summary": [
-        "데이터 센터 개발업체들이 전력망 부담을 피하기 위해 자체 천연 가스 발전소를 건설하고 있습니다.",
-        "텍사스의 GW Ranch 프로젝트는 시카고만큼의 전력을 사용할 것으로 예상됩니다.",
-        "이는 전력망의 어려움을 우회하기 위한 시도로 보입니다."
-      ],
-      "whyImportant": "데이터 센터의 전력 수요 증가와 그에 따른 에너지 인프라 투자를 보여주는 사례입니다.",
-      "importanceRationale": "근거: 데이터 센터 개발업체들이 전력망의 부담을 회피하기 위해 자체 발전소를 건설하는 것은 에너지 인프라에 대한 투자가 증가하고 있음을 시사합니다. 특히 텍사스의 대규모 프로젝트는 데이터 센터의 전력 소비량이 상당함을 보여줍니다.",
-      "impactSignals": [
-        {
-          "label": "capex",
-          "evidence": "데이터 센터 개발업체들이 자체 천연 가스 발전소 건설에 투자하고 있습니다."
-        }
-      ],
-      "dedupeKey": "data_center_shadow_grid_texas",
-      "clusterKey": "에너지/building",
-      "matchedTo": null,
-      "sourceName": "Tom's Hardware",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxNdlN0MFBOV2NvbGEtR2p6eng1MmJkeWpQNWdSU1B2RVFYUFBVUFZuWVM4OGI2TlcxczNSNFYxSkFEbmM0WGRuU3JHZ28wQWRjem5nYzRTeXVla0FhZFo1ei0yTlYtTEppbWJxbmZ3eWNiaXg2amtqMEJMa3ZvWE9lYy1uSGpiZkRoR1lvTEFZY3dKUW1tdDJ2cFNzTHdVMEtWaFBpWEpELVJqVjJ0b2JSeEpzTVJBdXpBQmxabDE3OU0xMFBSdUpoamlsNHZFckdFOXJ2bFpoelJaLTVoUU01NnpoSXIzLUlPSlBUN1E1Z0p6MFl0NDZlMDBZOTE3WHNyWkRqUkdrM0FwY0JJbUZCalp3V1BGNEQ0ckVITUo3cTRBcW1iVmVBcUFkMA?oc=5",
-      "publishedAt": "2026-02-21T13:00:00.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 4,
-      "importanceRaw": 75,
-      "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 핵심 내용을 잘 요약했습니다.",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-02-23_14",
-      "date": "2026-02-23",
-      "category": "국제",
-      "title": "미국 관세 위법 판결에 호주 '모든 옵션 검토', 인도 협상 연기",
-      "summary": [
-        "미국 관세 위법 판결에 대해 호주는 모든 옵션을 검토 중이다.",
-        "인도는 관련 협상을 연기했다."
-      ],
-      "whyImportant": "미국의 관세 정책 변화에 대한 호주와 인도의 대응을 보여준다.",
-      "importanceRationale": "근거: 미국의 관세 위법 판결에 대한 호주의 강경한 입장과 인도의 협상 연기는 국제 무역 관계에 중요한 영향을 미칠 수 있다.",
-      "impactSignals": [],
-      "dedupeKey": "미국 관세 위법 판결에 대한 호주와 인도의 대응",
-      "clusterKey": "모든",
-      "matchedTo": null,
-      "sourceName": "마켓인",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9BajF4b1Q3RkdLYUtsaWNpNm9aWXpnNldGem5GQ29jOXhmWGFRdWgwNzF5X3ZFWkN3dGtmUTVIVTl1NkVmRlhEczhCNHdqcWNYVTFhOWdiWF9sejZ4WFNfc0gzdkNhUlczTzNORTZKU0dYUlU?oc=5",
-      "publishedAt": "2026-02-22T22:41:40.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 63,
-      "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 간결하게 요약됨. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-02-23_15",
-      "date": "2026-02-23",
-      "category": "기술",
-      "title": "대법원, 반도체 장비 제조사 도면 유출 '누설 무죄' 파기환송",
-      "summary": [
-        "대법원은 반도체 장비 제조사 도면 유출 사건에서 '누설 무죄' 판결을 파기하고 사건을 환송했습니다."
-      ],
-      "whyImportant": "반도체 기술 유출에 대한 법적 판단에 영향을 미칠 수 있습니다.",
-      "importanceRationale": "근거: 반도체 장비 도면 유출에 대한 법원의 판단은 향후 유사 사건에 대한 판례로 작용할 수 있으며, 기술 보안에 대한 기업들의 경각심을 높일 수 있습니다.",
-      "impactSignals": [],
-      "dedupeKey": "daebeobwon-bandoche-jangbi-jejosa-domyeon-yuchul-nuseol-mujoe-pagihwansong",
-      "clusterKey": "반도체/누설",
-      "matchedTo": null,
-      "sourceName": "뉴스핌",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1MalpWZjhtS2twemk3QXFxaldQeW9iOHdOZC1LWEhzVjkyUzdxb19QTEN6MWQ4WFB0UFM1ZU8xQnJsQkswek9tVzZlc1NXTTEwSVVZVU5YMTdObjJW?oc=5",
-      "publishedAt": "2026-02-22T20:30:00.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 63,
-      "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었습니다. / 근거부족",
+      "qualityReason": "기사 제목과 내용이 일치하며, 정보가 명확합니다.",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-02-23_16",
       "date": "2026-02-23",
-      "category": "기술",
-      "title": "AI 코딩 어시스턴트 스킬 자동 실행 취약점 탐지로 자격 증명 탈취 및 원격 코드 실행 차단",
+      "category": "경제",
+      "title": "쎌바이오텍, 작년 매출 533억원, 영업이익 79억원 기록",
       "summary": [
-        "AI 코딩 어시스턴트 스킬의 자동 실행 취약점을 탐지하여 자격 증명 탈취 및 원격 코드 실행을 차단합니다.",
-        "지티티코리아에서 해당 취약점을 발견했습니다."
+        "쎌바이오텍은 작년 매출액 533억원, 영업이익 79억원을 기록했다고 발표했다."
       ],
-      "whyImportant": "AI 코딩 어시스턴트의 보안 취약점은 개발 환경에 심각한 위협을 초래할 수 있습니다.",
-      "importanceRationale": "근거: AI 코딩 어시스턴트의 취약점을 통해 자격 증명 탈취 및 원격 코드 실행이 가능하다는 것은 시스템 보안에 직접적인 위험을 의미합니다.",
+      "whyImportant": "쎌바이오텍의 작년 실적 발표는 기업의 성장세를 보여주는 지표입니다.",
+      "importanceRationale": "근거: 매출액과 영업이익은 기업의 재무 건전성과 수익성을 평가하는 데 중요한 지표이며, 투자자와 시장 참여자들에게 중요한 정보입니다.",
       "impactSignals": [],
-      "dedupeKey": "AI_코딩_어시스턴트_취약점_보안",
-      "clusterKey": "스킬",
+      "dedupeKey": "셀바이오텍_2023년_매출_영업이익",
+      "clusterKey": "533억원",
       "matchedTo": null,
-      "sourceName": "지티티코리아",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB4S25WWUJPemJ3LVVFNmp5dGpLbGxYZFJSTGwxQURvQ3R5WWVaai1XUUZXa01rTDN3d1dpWHhHXzR6ZG83WnRZaFVrcklXcEIwMHZFbVN3ZWxrbjJMbzRBNlhMb29JRWZpWkE?oc=5",
-      "publishedAt": "2026-02-20T15:40:00.000Z",
+      "sourceName": "한국경제",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1wMW91TlU4OTJIOGV3OUV4ODBPenpHUUphbXVGMFBiOWU3YnNwTThkdjh3SXE2d1F5SmlLdENyN0RncmZzS0ZXOEtoR1Q1aUdTcW41RVVYMjFmUdIBVEFVX3lxTE9wVXd1YWRNaDdEckFWRC1Sd3U2NXFiNm5OVEdmYXR4NmFBYjlpYVc0S0prajVwMm5ibXAxb0tKdHFfUmhOM0FPTEtEUldSdjFkUjU2VQ?oc=5",
+      "publishedAt": "2026-02-22T23:46:08.000Z",
       "readTimeSec": 10,
       "status": "kept",
       "importance": 2,
-      "importanceRaw": 75,
+      "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 내용이 일치하며, 요약이 정확하게 정보를 전달합니다. / 근거부족",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 핵심 정보를 전달합니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-02-23_17",
+      "date": "2026-02-23",
+      "category": "정책",
+      "title": "국회, 먹거리 유통 탄소 배출 관련 첫 정책 논의… \"Scope 3 관리 없이는 탄소 중립 불가능\"",
+      "summary": [
+        "국회에서 먹거리 유통 과정에서의 탄소 배출 문제에 대한 첫 정책 논의가 진행되었다.",
+        "논의에서는 Scope 3 배출량 관리 없이는 탄소 중립 목표 달성이 불가능하다는 의견이 제시되었다."
+      ],
+      "whyImportant": "먹거리 유통 과정에서의 탄소 배출량 관리에 대한 정책적 논의가 시작되었다는 점에서 중요합니다.",
+      "importanceRationale": "근거: 먹거리 유통은 국민 생활과 밀접하며, Scope 3 배출량 관리는 탄소 중립 목표 달성의 핵심 요소이기 때문입니다.",
+      "impactSignals": [],
+      "dedupeKey": "food_carbon_policy_discussion",
+      "clusterKey": "scope",
+      "matchedTo": null,
+      "sourceName": "이로운넷",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9zalpGdFkwZTJneDZkRXBjN3dzU05GQml5OXJKSWl3QnliQkdsVkhLRXBJYzdoS1EtSkdGa2g0NmNEYkNMa0VIcHdpdUtHdFVVcUNMRWQwUWg5U0dMTWlKZEtIYThvZw?oc=5",
+      "publishedAt": "2026-02-23T01:38:53.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 63,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되어 있습니다. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-02-23_18",
+      "date": "2026-02-23",
+      "category": "경제",
+      "title": "[특징주] 현대건설, 원전 기대감에 8%대 강세…신고가",
+      "summary": [
+        "현대건설 주가가 원전 기대감으로 8%대 강세를 보이며 신고가를 기록했습니다."
+      ],
+      "whyImportant": "원전 관련 기대감이 현대건설 주가에 긍정적인 영향을 미치고 있습니다.",
+      "importanceRationale": "근거: 현대건설 주가가 원전 기대감으로 8%대 강세를 보이며 신고가를 기록했다는 직접적인 사실에 기반합니다.",
+      "impactSignals": [
+        {
+          "label": "capex",
+          "evidence": "원전 기대감에 따른 현대건설 주가 상승"
+        }
+      ],
+      "dedupeKey": "hyundai_e_and_c_nuclear_power_surge",
+      "clusterKey": "에너지/강세",
+      "matchedTo": null,
+      "sourceName": "아시아경제",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9pYjJsLVZuNTNaTFhMY1JtLXo5ZVpWcEp4cjRLVHBfNF9FMUowbTdPZU1YMFQxOVV2UGlsTUg2bkFfc2p1VEw3WGdXSEFtd2xOZlFicGI3NjZiS0dQNEFxUWFR?oc=5",
+      "publishedAt": "2026-02-23T00:30:00.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 3.5,
+      "importanceRaw": 63,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 핵심 정보를 전달합니다.",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-02-23_19",
+      "date": "2026-02-23",
+      "category": "경제",
+      "title": "한은 국회 업무보고 주시…3조원 규모 국고채 5년물 입찰",
+      "summary": [
+        "한국은행은 국회 업무보고를 주시하고 있다.",
+        "3조원 규모의 국고채 5년물 입찰이 진행될 예정이다."
+      ],
+      "whyImportant": "국고채 입찰에 대한 한국은행의 정책적 고려가 중요하다.",
+      "importanceRationale": "근거: 한국은행의 국회 업무보고와 3조원 규모의 국고채 5년물 입찰은 시장에 중요한 정책 신호로 작용할 수 있다.",
+      "impactSignals": [],
+      "dedupeKey": "20240118-한은 국회 업무보고 주시…3조원 규모 국고채 5년물 입찰",
+      "clusterKey": "3조원",
+      "matchedTo": null,
+      "sourceName": "마켓인",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1QTDBpY1hPaTRXajJQRXJtdnJGTGZrQ3hjbVI2a0s1RjJXUllGRWczWV9yLXUwYjhuV0lIajdOVWNmNHZEWDVqODhRdXhtenRvMG1Kb3BsN3FTVHFTQWRLWFNXZXJwQnEwMjNyU2VVOFF2Tms?oc=5",
+      "publishedAt": "2026-02-22T23:10:52.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 63,
+      "qualityLabel": "ok",
+      "qualityReason": "기사 제목과 내용이 일치하며, 간결하게 요약되어 있음. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-02-23_20",
       "date": "2026-02-23",
       "category": "정책",
       "title": "[판세] 구 국조법 시행령 제2조 제1항 제3호의 특수관계의 의미",
@@ -467,9 +565,14 @@
         "세정일보 기사입니다."
       ],
       "whyImportant": "이 판례는 특수관계의 의미를 명확히 합니다.",
-      "importanceRationale": "근거: 국조법 시행령 해석에 대한 중요한 판례 정보이므로.",
-      "impactSignals": [],
-      "dedupeKey": "판세-구-국조법-시행령-제2조-제1항-제3호의-특수관계의-의미",
+      "importanceRationale": "근거: 구 국조법 시행령의 해석에 대한 중요한 판례 분석을 제공하므로 정책 결정 및 법률 해석에 영향을 미칠 수 있습니다.",
+      "impactSignals": [
+        {
+          "label": "policy",
+          "evidence": "구 국조법 시행령 해석에 대한 판례 분석"
+        }
+      ],
+      "dedupeKey": "판세-구 국조법 시행령 제2조 제1항 제3호의 특수관계의 의미",
       "clusterKey": "국조법",
       "matchedTo": null,
       "sourceName": "세정일보",
@@ -477,93 +580,10 @@
       "publishedAt": "2026-02-22T22:49:22.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 2,
-      "importanceRaw": 50,
-      "qualityLabel": "ok",
-      "qualityReason": "기사 내용이 명확하고 간결합니다. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-02-23_18",
-      "date": "2026-02-23",
-      "category": "경제",
-      "title": "Claritev (CTEV), 4분기 실적 발표 예정",
-      "summary": [
-        "Claritev(CTEV)가 4분기 실적 발표를 준비 중입니다."
-      ],
-      "whyImportant": "투자자와 시장 참여자들은 회사의 재무적 건전성과 미래 전망을 파악하기 위해 실적 발표에 주목합니다.",
-      "importanceRationale": "근거: 기업의 실적 발표는 주가에 직접적인 영향을 미치며, 투자 결정의 중요한 지표로 활용됩니다.",
-      "impactSignals": [
-        {
-          "label": "earnings",
-          "evidence": "Claritev (CTEV)의 4분기 실적 발표 예정"
-        }
-      ],
-      "dedupeKey": "CTEV_Q4_Earnings_Announcement",
-      "clusterKey": "announce",
-      "matchedTo": null,
-      "sourceName": "GuruFocus",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPaldKYUk1bG14QlA0UGZTX3ZYMFYzYlRMaFFTcmltV0JoZFBhZGx3d0FZeFQ5c0x1cE5uejdHbm9tbzZHVmFJRXRFVzB5RlB5aE1EbDJybkE3S25fQ1VVX2RoMUZ5dllLejdsa0RaX3MwaWRpc3RRdXI1TWVCNkt4TU1TUFBuV2RUaFlKUHozTUhlQQ?oc=5",
-      "publishedAt": "2026-02-22T23:22:56.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
       "importance": 3.5,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "The article directly states the company's earnings announcement.",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-02-23_19",
-      "date": "2026-02-23",
-      "category": "경제",
-      "title": "레이언스, 9분기 만에 매출 성장 전환",
-      "summary": [
-        "레이언스가 9분기 만에 매출 성장으로 전환했습니다."
-      ],
-      "whyImportant": "레이언스의 매출 성장 전환은 기업 실적 개선의 신호탄이 될 수 있습니다.",
-      "importanceRationale": "근거: 레이언스의 매출 성장 전환은 9분기 만에 이루어진 것으로, 이는 기업의 장기적인 성장 가능성을 시사합니다.",
-      "impactSignals": [],
-      "dedupeKey": "rayence-sales-growth-q9",
-      "clusterKey": "9분기",
-      "matchedTo": null,
-      "sourceName": "ksdaily.co.kr",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1TVnBCRHhfcVRNU092bUdLM0UtU2xFNWtGbDlQclVtLXdCTWJ0cWx3OTBrUzIxQV84R1dvMzRSOUZHOW4xeGZ5SjZUUkV1Z0ZlQmpYaXhSTEw4SlJnallGY1RBdWg0S1Y2UE40?oc=5",
-      "publishedAt": "2026-02-22T23:11:09.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 63,
-      "qualityLabel": "ok",
-      "qualityReason": "The article provides a concise and factual report on Rayence's sales growth. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-02-23_20",
-      "date": "2026-02-23",
-      "category": "경제",
-      "title": "Fisher & Paykel, 2026 회계연도 수익 및 이익 지침 상향",
-      "summary": [
-        "Fisher & Paykel이 2026 회계연도 수익 및 이익 지침을 상향 조정했습니다."
-      ],
-      "whyImportant": "Fisher & Paykel의 재무 전망 개선은 투자자와 시장 분석가에게 중요한 지표입니다.",
-      "importanceRationale": "근거: Fisher & Paykel의 수익 및 이익 지침 상향은 회사의 성장 잠재력과 시장에서의 경쟁력에 대한 긍정적인 신호로 해석될 수 있습니다.",
-      "impactSignals": [],
-      "dedupeKey": "fisher_paykel_fy26_guidance_hike",
-      "clusterKey": "금융/capital",
-      "matchedTo": null,
-      "sourceName": "Capital Brief",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQN0ltSHdnT0JlTUNjWGItTzd6VXJIRkpSVW9EVkp4R2VaQTJVUmxTVEZ5RE1aeFRLeWZpMFRZaW16WnpZWnNxNWRUWXlBQVFUQW1yZUcxcTZqbkRzQXRCT1Q4el93MjEzZVpxb01TSWdtdnFxYjJXalpEUnhzWVRwX2paZzdvXzZrdEFiLS1kQkNKMVpUV2hmMEgyY0JBcU95WVpTYmVIT01BNEl1LWl4c1Q0M2xjZl9BcmRiVkZUd0xSalZkMTJMZXpn?oc=5",
-      "publishedAt": "2026-02-22T21:32:00.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 63,
-      "qualityLabel": "ok",
-      "qualityReason": "The article provides a clear and concise statement of fact. / 근거부족",
+      "qualityReason": "기사가 판례에 대한 정보를 제공하고 있습니다.",
       "isBriefing": false,
       "isBreaking": false
     }
