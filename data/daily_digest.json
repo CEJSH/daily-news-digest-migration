@@ -3,10 +3,38 @@
   "selectionCriteria": "① 내일도 영향이 남는 이슈 ② 과도한 감정 소모 제외 ③ 어제와 중복되는 뉴스 제외",
   "editorNote": "이 뉴스는 클릭 수가 아니라 오늘 이후에도 남는 정보만 기준으로 편집했습니다.",
   "question": "정보를 덜 보는 것이 오히려 더 똑똑한 소비일까?",
-  "lastUpdatedAt": "2026-02-23T17:46:07.728+09:00",
+  "lastUpdatedAt": "2026-02-23T18:52:38.080+09:00",
   "items": [
     {
       "id": "2026-02-23_1",
+      "date": "2026-02-23",
+      "category": "국제",
+      "title": "이번 주 주목해야 할 사항: 엔비디아 실적, 대법원 관세 영향, 지정학적 긴장 고조",
+      "summary": [
+        "이번 주에는 엔비디아의 실적 발표가 예정되어 있습니다.",
+        "미국 대법원의 관세 관련 결정에 따른 영향도 주목해야 합니다.",
+        "지정학적 긴장 역시 주요 관심사입니다."
+      ],
+      "whyImportant": "이번 주 경제 및 지정학적 주요 이슈들을 요약했습니다.",
+      "importanceRationale": "근거: 엔비디아 실적 발표, 대법원 관세 결정, 지정학적 긴장 고조는 시장에 큰 영향을 미칠 수 있는 주요 사안들입니다.",
+      "impactSignals": [],
+      "dedupeKey": "NvidiaEarningsSCOTUSTariffGeopoliticalTensions",
+      "clusterKey": "fallout",
+      "matchedTo": null,
+      "sourceName": "Yahoo Finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNNkx0QUlCZ1p4a0s0V2l6OW9QSzBybElMalZlZmJtMG4wb3FBX0ZOREt1SXZYSUQya2FVLVd0alFjMHJaT3Y5T0VNQ1M0TFVEQkp2UDE3dmZPZmwzWjFaRDA5V00yaXpUQUo2dmh4aFp0Tm1MMHMzbWo3UlNjR2xWaTZ1eEt2YTNQSEFwTVQ4dmEwQ2xTUTVyU2V0eEpudjF6MDdyNVd0cFlIeXhKV0tKc1ZpVVljQ0JnZDJxalBpdF9PbWJ0M1JBQ2tsdlEwZzQ?oc=5",
+      "publishedAt": "2026-02-22T20:41:53.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 75,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 본문이 일치하며, 제공된 정보에 기반하여 작성되었습니다. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-02-23_2",
       "date": "2026-02-23",
       "category": "기술",
       "title": "인공지능(AI) 기반 의료의 편향, 개인 정보 보호, 보안 및 환자 자율성 문제 해결: 현재 지침 검토",
@@ -14,8 +42,8 @@
         "인공지능 기반 의료에서 편향, 개인 정보 보호, 보안 및 환자 자율성 문제를 다루기 위한 현재 지침을 검토합니다.",
         "이 연구는 Cureus 저널에 게재되었습니다."
       ],
-      "whyImportant": "인공지능 의료 기술의 윤리적이고 안전한 사용을 위한 지침 검토",
-      "importanceRationale": "근거: 인공지능 의료 기술 도입이 증가함에 따라 편향, 개인 정보 보호, 보안 및 환자 자율성 문제를 해결하는 것이 중요하며, 이 연구는 관련 지침을 검토하여 정책 및 투자 방향 설정에 기여할 수 있습니다.",
+      "whyImportant": "인공지능 의료 기술 도입에 대한 정책적 고려 사항을 강조합니다.",
+      "importanceRationale": "근거: 인공지능 의료 기술의 윤리적, 법적 문제에 대한 정책적 논의 필요성을 제기하므로 중요합니다.",
       "impactSignals": [],
       "dedupeKey": "AI_Healthcare_Guidelines_Review",
       "clusterKey": "addressing",
@@ -33,7 +61,7 @@
       "isBreaking": false
     },
     {
-      "id": "2026-02-23_2",
+      "id": "2026-02-23_3",
       "date": "2026-02-23",
       "category": "정책",
       "title": "합성생물학 R&D·안전관리 체계 확립…시행령 입법 예고",
@@ -41,10 +69,15 @@
         "합성생물학 연구 개발 및 안전 관리에 대한 시행령이 입법 예고되었습니다.",
         "이는 합성생물학 분야의 연구 개발을 촉진하고 안전성을 확보하기 위한 조치입니다."
       ],
-      "whyImportant": "합성생물학 연구 개발 및 안전 관리에 대한 정부 정책 방향을 제시합니다.",
-      "importanceRationale": "근거: 합성생물학 R&D 및 안전 관리에 대한 시행령 입법 예고는 정부의 정책적 의지를 보여주는 중요한 지표입니다.",
-      "impactSignals": [],
-      "dedupeKey": "합성생물학R&D안전관리시행령입법예고",
+      "whyImportant": "합성생물학 연구 개발 및 안전 관리에 대한 정책적 틀이 마련되었습니다.",
+      "importanceRationale": "근거: 합성생물학 R&D 및 안전 관리에 대한 시행령 입법 예고를 통해 정책적 기반이 구축되었음을 알 수 있습니다.",
+      "impactSignals": [
+        {
+          "label": "policy",
+          "evidence": "합성생물학 R&D 및 안전관리 시행령 입법 예고"
+        }
+      ],
+      "dedupeKey": "합성생물학R&D·안전관리틀잡혔다…시행령입법예고",
       "clusterKey": "시행령",
       "matchedTo": null,
       "sourceName": "연합뉴스 한민족센터",
@@ -52,30 +85,30 @@
       "publishedAt": "2026-02-23T07:00:01.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 2,
+      "importance": 4,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "기사 내용이 명확하고 정책 발표 사실을 전달하고 있습니다. / 근거부족",
+      "qualityReason": "제목과 내용이 일치하며, 핵심 내용을 잘 요약했습니다.",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-02-23_3",
+      "id": "2026-02-23_4",
       "date": "2026-02-23",
       "category": "국제",
       "title": "미국-이란 핵 협상 및 트럼프 관세 불확실성으로 인한 유가 하락",
       "summary": [
         "Investing.com에 따르면 미국-이란 핵 협상과 트럼프 관세 불확실성으로 인해 유가가 하락했다."
       ],
-      "whyImportant": "미국과 이란의 핵 협상 재개 가능성과 트럼프 시대의 관세 정책 불확실성이 유가에 미치는 영향을 파악하는 것이 중요합니다.",
-      "importanceRationale": "근거: 핵 협상 재개는 이란의 원유 공급 증가를 의미하며, 이는 시장의 공급 과잉 우려를 낳아 유가 하락으로 이어질 수 있습니다. 또한, 트럼프 시대의 관세 정책 불확실성은 글로벌 무역에 영향을 미쳐 원유 수요 감소를 야기할 수 있습니다.",
+      "whyImportant": "핵 협상과 관세 정책은 국제 유가에 큰 영향을 미칠 수 있습니다.",
+      "importanceRationale": "근거: 미국과 이란의 핵 협상 재개 가능성과 트럼프 시대의 관세 정책 불확실성이 유가 하락의 주요 원인으로 작용하고 있기 때문입니다.",
       "impactSignals": [
         {
           "label": "market-demand",
-          "evidence": "트럼프 관세 불확실성으로 인한 원유 수요 감소 우려"
+          "evidence": "트럼프 관세 불확실성으로 인한 시장 수요 변동"
         }
       ],
-      "dedupeKey": "20240103-미국-이란 핵 협상-유가 하락",
+      "dedupeKey": "20240118-미국-이란 핵 협상과 트럼프 관세 불확실성에 유가 하락",
       "clusterKey": "미국",
       "matchedTo": null,
       "sourceName": "Investing.com 한국어",
@@ -86,34 +119,7 @@
       "importance": 3.5,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 내용을 충실히 반영함",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-02-23_4",
-      "date": "2026-02-23",
-      "category": "국제",
-      "title": "트럼프, 발전소 ‘수은·독성물질’ 규제 완화…AI 전력 수요 대응",
-      "summary": [
-        "트럼프 전 대통령이 발전소의 수은 및 독성 물질 규제를 완화했다.",
-        "이는 인공지능(AI) 전력 수요에 대응하기 위한 조치로 보인다."
-      ],
-      "whyImportant": "트럼프 전 대통령의 발전소 규제 완화는 환경 정책과 에너지 정책에 중요한 영향을 미칠 수 있다.",
-      "importanceRationale": "근거: 발전소의 수은 및 독성 물질 규제 완화는 환경 오염 가능성을 높일 수 있지만, 동시에 증가하는 AI 전력 수요에 대한 대응책이 될 수 있다.",
-      "impactSignals": [],
-      "dedupeKey": "trump-mercury-regulation-eased",
-      "clusterKey": "규제완화",
-      "matchedTo": null,
-      "sourceName": "ESG경제",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5nSkNfX3drRE5Xdk9xWUhVbDNFMGliUVFhX1BGNUY4SS1RRzFFNFZ2V05XdEp3WmVRNW5MQlhqSGVwc1M4WE1KSklJcWc5bURvMzhySkEzcmZNdjVSeC1yU3d2YnZXblJlbl9DOA?oc=5",
-      "publishedAt": "2026-02-23T00:41:15.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 63,
-      "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 텍스트가 일치하며, 간결하게 요약됨. / 근거부족",
+      "qualityReason": "제목과 본문이 일치하며, 간결하게 요약되었습니다.",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -121,27 +127,31 @@
       "id": "2026-02-23_5",
       "date": "2026-02-23",
       "category": "국제",
-      "title": "이번 주 주목해야 할 사항: 엔비디아 실적, 대법원 관세 영향, 지정학적 긴장 고조",
+      "title": "트럼프, 발전소 ‘수은·독성물질’ 규제 완화…AI 전력 수요 대응",
       "summary": [
-        "이번 주에는 엔비디아의 실적 발표가 예정되어 있습니다.",
-        "미국 대법원의 관세 관련 결정에 따른 영향도 주목해야 합니다.",
-        "지정학적 긴장 역시 주요 관심사입니다."
+        "트럼프 전 대통령이 발전소의 수은 및 독성 물질 규제를 완화했다.",
+        "이는 인공지능(AI) 전력 수요에 대응하기 위한 조치로 풀이된다."
       ],
-      "whyImportant": "이번 주 경제 및 지정학적 주요 이슈들을 다루고 있습니다.",
-      "importanceRationale": "근거: 엔비디아 실적 발표, 대법원 관세 결정, 지정학적 긴장 등 시장에 큰 영향을 미칠 수 있는 요인들을 포함하고 있습니다.",
-      "impactSignals": [],
-      "dedupeKey": "NvidiaEarningsSCOTUSTariffGeopoliticalTensions",
-      "clusterKey": "fallout",
+      "whyImportant": "트럼프 전 대통령의 발전소 규제 완화는 환경 정책과 에너지 정책에 중요한 영향을 미친다.",
+      "importanceRationale": "근거: 발전소의 수은 및 독성 물질 규제 완화는 환경 오염 가능성을 높이지만, 동시에 증가하는 AI 전력 수요에 대한 대응책이 될 수 있다.",
+      "impactSignals": [
+        {
+          "label": "policy",
+          "evidence": "발전소 수은 및 독성 물질 규제 완화 정책"
+        }
+      ],
+      "dedupeKey": "trump-mercury-regulation-easing",
+      "clusterKey": "규제완화",
       "matchedTo": null,
-      "sourceName": "Yahoo Finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNNkx0QUlCZ1p4a0s0V2l6OW9QSzBybElMalZlZmJtMG4wb3FBX0ZOREt1SXZYSUQya2FVLVd0alFjMHJaT3Y5T0VNQ1M0TFVEQkp2UDE3dmZPZmwzWjFaRDA5V00yaXpUQUo2dmh4aFp0Tm1MMHMzbWo3UlNjR2xWaTZ1eEt2YTNQSEFwTVQ4dmEwQ2xTUTVyU2V0eEpudjF6MDdyNVd0cFlIeXhKV0tKc1ZpVVljQ0JnZDJxalBpdF9PbWJ0M1JBQ2tsdlEwZzQ?oc=5",
-      "publishedAt": "2026-02-22T20:41:53.000Z",
+      "sourceName": "ESG경제",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5nSkNfX3drRE5Xdk9xWUhVbDNFMGliUVFhX1BGNUY4SS1RRzFFNFZ2V05XdEp3WmVRNW5MQlhqSGVwc1M4WE1KSklJcWc5bURvMzhySkEzcmZNdjVSeC1yU3d2YnZXblJlbl9DOA?oc=5",
+      "publishedAt": "2026-02-23T00:41:15.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 2,
+      "importance": 3.5,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 주요 경제 이슈를 간략하게 요약했습니다. / 근거부족",
+      "qualityReason": "기사 제목과 내용이 일치하며, 핵심 내용을 잘 요약했다.",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -149,20 +159,20 @@
       "id": "2026-02-23_6",
       "date": "2026-02-23",
       "category": "에너지",
-      "title": "2025년 84mtpa 규모 LNG 프로젝트 최종 투자 결정에 따라 약 150척의 LNG 운반선 수요 발생 전망",
+      "title": "2025년 84mtpa 규모 LNG 프로젝트 FID에 따른 LNG 운반선 약 150척 수요 발생 전망",
       "summary": [
-        "2025년 84mtpa 규모의 LNG 프로젝트의 최종 투자 결정(FID)에 따라 약 150척의 LNG 운반선 수요가 발생할 것으로 예상됩니다.",
-        "이는 쉬핑뉴스넷의 보도 내용입니다."
+        "2025년 84mtpa 규모의 LNG 프로젝트 최종 투자 결정(FID)에 따라 약 150척의 LNG 운반선 수요가 발생할 것으로 예상됩니다.",
+        "이는 쉬핑뉴스넷에서 보도된 내용입니다."
       ],
-      "whyImportant": "LNG 운반선 시장에 미치는 영향",
-      "importanceRationale": "근거: 대규모 LNG 프로젝트의 최종 투자 결정은 LNG 운반선 수요에 직접적인 영향을 미치므로 관련 시장에 중요한 변화를 가져올 수 있습니다.",
+      "whyImportant": "LNG 프로젝트 확장에 따른 LNG 운반선 시장의 성장 가능성을 보여주는 지표입니다.",
+      "importanceRationale": "근거: LNG 프로젝트 FID는 LNG 운반선 수요 증가의 직접적인 원인이 되며, 이는 관련 시장에 상당한 영향을 미칩니다.",
       "impactSignals": [
         {
           "label": "market-demand",
-          "evidence": "대규모 LNG 프로젝트는 LNG 운반선 시장의 수요를 크게 증가시킬 수 있습니다."
+          "evidence": "LNG 프로젝트 FID는 LNG 운반선 시장의 수요 증가를 의미합니다."
         }
       ],
-      "dedupeKey": "2025년 LNG 프로젝트, 150척 LNG운반선 수요",
+      "dedupeKey": "LNG_PROJECT_FID_2025",
       "clusterKey": "150척의",
       "matchedTo": null,
       "sourceName": "쉬핑뉴스넷",
@@ -173,12 +183,39 @@
       "importance": 4,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "정보가 간결하고 명확함",
+      "qualityReason": "제목과 본문이 일치하며, 간결하게 핵심 내용을 전달합니다.",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-02-23_7",
+      "date": "2026-02-23",
+      "category": "국제",
+      "title": "이, 남미와 무역협정 협상 재개…룰라, 희토류 투자 요청",
+      "summary": [
+        "이(이름 미상)는 남미 국가들과의 무역 협정 협상 재개를 발표했습니다.",
+        "룰라(이름 미상)는 한국에 희토류 투자를 요청했습니다."
+      ],
+      "whyImportant": "한국과 남미 간의 무역 관계 강화 및 희토류 투자 가능성을 보여주는 정책 발표입니다.",
+      "importanceRationale": "근거: 한국과 남미 간 무역 협정 재개 논의와 룰라 대통령의 희토류 투자 요청은 양 지역 간 경제 협력 강화 가능성을 시사합니다.",
+      "impactSignals": [],
+      "dedupeKey": "lee-lula-trade-agreement",
+      "clusterKey": "남미와",
+      "matchedTo": null,
+      "sourceName": "한국경제",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ydFZ3dDZkbFlNaDdCOWwwazlWbkI1MmFEbFVCX1pvUWFhMW9HTjlJOENzTVEyaENudDFGRHBZLUpxWHozWE9rUGdxSTZTMVEzWUx1Qy1oeDB1UdIBVEFVX3lxTE1uMXgwRGFELU5NZlo2OURKdk1YTW5tckZaXzBkdFAwckZhODNZUHc3MzlBUFd5RjREa2xxQlBmM2pyMHpPREtNTHpvWXZNNEtaNHEzcQ?oc=5",
+      "publishedAt": "2026-02-23T08:43:04.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 63,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었습니다. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-02-23_8",
       "date": "2026-02-23",
       "category": "경제",
       "title": "[생생한 주식쇼 생쇼] 정부 정책 수혜, 벤처캐피탈 섹터 집중 분석",
@@ -205,44 +242,22 @@
       "isBreaking": false
     },
     {
-      "id": "2026-02-23_8",
-      "date": "2026-02-23",
-      "category": "국제",
-      "title": "이 대통령, 한-남미 시장 무역협정 협상 재개 필요성 언급",
-      "summary": [
-        "이 대통령은 한-남미 시장 간 무역협정 협상 재개의 필요성을 언급했습니다.",
-        "룰라 대통령도 이에 공감했습니다."
-      ],
-      "whyImportant": "한국과 남미 시장 간의 무역 협상 재개 가능성을 보여주는 정책적 움직임입니다.",
-      "importanceRationale": "근거: 이 대통령의 발언은 향후 한국과 남미 시장 간의 경제 협력 강화로 이어질 수 있음을 시사합니다.",
-      "impactSignals": [],
-      "dedupeKey": "lee-south-america-trade-agreement",
-      "clusterKey": "공감",
-      "matchedTo": null,
-      "sourceName": "한국경제",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9idU94czlFb3VxYlJfMFZONUtiN240TUdfMWhKd3Zxa1NiUlpCNGV4T0RISGg4X05Ydi13Wk1kcGd5bUo0cVVpSW1LbXhrbWd0UjV1d2RxRjIxZ9IBVEFVX3lxTE1ubWJsb1ZpaXFkUWh6NjVOT0dmd3BkYndlYS1WLWNXc29fcUZaOTA3R2ZKdUtfZkF4RFRwMFZnbEJBaVh5ZEdESjJqam14T1plQ3JkVA?oc=5",
-      "publishedAt": "2026-02-23T04:36:02.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 63,
-      "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었습니다. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
       "id": "2026-02-23_9",
       "date": "2026-02-23",
       "category": "경제",
       "title": "KB증권, \"현대건설, 한미 원전 협력 수혜 기대…목표가↑\"",
       "summary": [
-        "KB증권은 현대건설이 한미 원전 협력의 수혜를 받을 것으로 기대했다.",
-        "이에 따라 목표가를 상향 조정했다."
+        "KB증권은 현대건설이 한미 원전 협력의 수혜를 볼 것으로 기대하며 목표가를 상향 조정했다.",
+        "현대건설은 원전 관련 투자 확대로 인한 수혜를 예상하고 있다."
       ],
-      "whyImportant": "현대건설의 향후 투자 및 사업 확장에 영향을 줄 수 있는 분석 결과이다.",
-      "importanceRationale": "근거: KB증권의 분석은 현대건설의 투자 결정에 중요한 지표가 될 수 있으며, 특히 한미 원전 협력이라는 구체적인 사업 연관성을 제시했다.",
-      "impactSignals": [],
+      "whyImportant": "현대건설의 주가에 영향을 미칠 수 있는 KB증권의 분석 결과이다.",
+      "importanceRationale": "근거: KB증권이 현대건설의 목표가를 상향 조정한 것은 투자자들의 관심과 투자 결정에 영향을 줄 수 있다.",
+      "impactSignals": [
+        {
+          "label": "capex",
+          "evidence": "한미 원전 협력으로 인한 현대건설의 투자 확대 예상"
+        }
+      ],
       "dedupeKey": "KB증권, 현대건설, 한미 원전협력 수혜 기대",
       "clusterKey": "kb증권",
       "matchedTo": null,
@@ -251,10 +266,10 @@
       "publishedAt": "2026-02-23T00:05:55.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 2,
+      "importance": 3.5,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되어 있음. / 근거부족",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되어 있습니다.",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -262,20 +277,21 @@
       "id": "2026-02-23_10",
       "date": "2026-02-23",
       "category": "에너지",
-      "title": "영국 컨소시엄, 미군용 부유식 원자력 발전소 제안",
+      "title": "영국 컨소시엄, 미국 군용 부유식 원자력 발전소 제안",
       "summary": [
-        "영국 컨소시엄이 미군을 위한 부유식 원자력 발전소를 제안했다.",
-        "이 프로젝트는 미군 기지에 전력을 공급하는 것을 목표로 한다."
+        "영국 컨소시엄이 미국 군대를 위한 부유식 원자력 발전소를 제안했다.",
+        "이 프로젝트는 해상에서 전력을 공급하는 것을 목표로 한다.",
+        "자세한 내용은 Maritime Executive에서 확인할 수 있다."
       ],
-      "whyImportant": "미군 기지에 대한 전력 공급 방식에 대한 새로운 접근 방식을 제시한다.",
-      "importanceRationale": "근거: 부유식 원자력 발전소는 기존의 육상 발전소와는 다른 방식으로 전력을 공급할 수 있으며, 이는 미군 기지의 에너지 안보에 중요한 영향을 미칠 수 있다.",
+      "whyImportant": "미국 군사 시설에 대한 새로운 전력 공급 방식의 가능성을 제시한다.",
+      "importanceRationale": "근거: 영국 컨소시엄이 미국 군대에 부유식 원자력 발전소를 제안한 것은 군사 시설 에너지 공급 방식에 대한 새로운 접근 방식을 나타낸다. 이는 해상에서의 전력 공급 가능성을 보여주며, 관련 시장에 영향을 줄 수 있다.",
       "impactSignals": [
         {
           "label": "capex",
           "evidence": "부유식 원자력 발전소 건설에는 상당한 자본 지출이 필요하다."
         }
       ],
-      "dedupeKey": "UKConsortiumFloatingNuclearPlantUSMilitary",
+      "dedupeKey": "UK_Consortium_Floating_Nuclear_Plant_US_Military",
       "clusterKey": "consortium",
       "matchedTo": null,
       "sourceName": "The Maritime Executive",
@@ -286,7 +302,7 @@
       "importance": 3.5,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되어 있다.",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었다.",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -294,20 +310,15 @@
       "id": "2026-02-23_11",
       "date": "2026-02-23",
       "category": "기술",
-      "title": "엔비디아, OpenAI의 대규모 자금 조달 라운드에 300억 달러 투자 근접 (출처: 로이터)",
+      "title": "엔비디아, OpenAI의 대규모 자금 조달 라운드에 300억 달러 투자 근접",
       "summary": [
         "엔비디아가 OpenAI의 대규모 자금 조달 라운드에 300억 달러를 투자할 가능성이 있다고 소식통이 밝혔습니다.",
-        "이번 투자는 엔비디아의 AI 기술 경쟁력 강화에 기여할 것으로 예상됩니다."
+        "이번 투자는 엔비디아의 AI 기술 리더십 강화에 기여할 것으로 예상됩니다."
       ],
-      "whyImportant": "OpenAI에 대한 대규모 투자는 AI 기술 개발 경쟁 심화를 의미합니다.",
-      "importanceRationale": "근거: 엔비디아의 OpenAI 투자는 AI 분야에서의 영향력을 확대하고, 기술 경쟁 우위를 확보하려는 전략적 움직임으로 해석될 수 있습니다.",
-      "impactSignals": [
-        {
-          "label": "policy",
-          "evidence": "Nvidia's potential $30 billion investment in OpenAI's funding round indicates a significant strategic move in the AI sector, potentially influencing future AI policy and development."
-        }
-      ],
-      "dedupeKey": "nvidia-openai-30b-investment",
+      "whyImportant": "OpenAI의 대규모 자금 조달은 AI 기술 개발 경쟁 심화를 의미합니다.",
+      "importanceRationale": "근거: 엔비디아의 투자는 OpenAI의 AI 연구 및 개발에 상당한 자금을 지원하여 기술 혁신을 가속화할 수 있습니다. 이는 AI 분야의 경쟁 구도에 중요한 영향을 미칠 수 있습니다.",
+      "impactSignals": [],
+      "dedupeKey": "nvidia-openai-30b-funding",
       "clusterKey": "billion",
       "matchedTo": null,
       "sourceName": "Reuters",
@@ -315,10 +326,10 @@
       "publishedAt": "2026-02-20T08:57:43.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 4,
+      "importance": 2,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "The information is sourced from Reuters, a reputable news agency.",
+      "qualityReason": "뉴스 기사의 내용이 명확하고 간결합니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -326,42 +337,68 @@
       "id": "2026-02-23_12",
       "date": "2026-02-23",
       "category": "경제",
-      "title": "[AI픽] 한컴, 작년 최대 실적 기록…AI 수익 모델 전환 효과",
+      "title": "Sylvamo (SLVM), 2025년 매출 및 수익 감소 후 가치 평가",
       "summary": [
-        "한컴이 작년에 최대 실적을 기록했습니다.",
-        "이는 AI 수익 모델로의 전환이 효과를 보인 결과입니다."
+        "Sylvamo(SLVM)의 2025년 매출 및 수익 결과가 약화되었습니다.",
+        "이는 Sylvamo의 가치 평가에 영향을 미칠 수 있습니다."
       ],
-      "whyImportant": "한컴의 AI 수익 모델 전환 성공은 동종 업계에 시사하는 바가 큽니다.",
-      "importanceRationale": "근거: 한컴이 AI 수익 모델 전환을 통해 최대 실적을 달성했다는 것은, AI 기술을 활용한 새로운 수익 창출 가능성을 보여주는 중요한 사례입니다.",
+      "whyImportant": "약화된 판매 및 수익 결과가 Sylvamo의 가치 평가에 미치는 영향을 분석합니다.",
+      "importanceRationale": "근거: Sylvamo의 2025년 판매 및 수익 감소는 투자자와 시장의 신뢰도에 영향을 미쳐 주가 및 기업 가치에 직접적인 영향을 줄 수 있습니다.",
       "impactSignals": [],
-      "dedupeKey": "hancom-ai-earnings-2023",
-      "clusterKey": "ai픽",
+      "dedupeKey": "SLVM_2025_Sales_Earnings",
+      "clusterKey": "after",
       "matchedTo": null,
-      "sourceName": "연합뉴스 한민족센터",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1oN3phUUlNOThOX3Z2bnIzZXJSTzRDQjlCMS1mRDlkUGh2dF9WQTBGVm9mUS1nUVpabXZONkotaHAxb1d3T1FTUi1QVkE0Y1lHSVJBTC1DWHJGRFNqUzJSa1RLc3B3STdRTEE1dE41T1h0MU5R?oc=5",
-      "publishedAt": "2026-02-23T06:58:33.000Z",
+      "sourceName": "simplywall.st",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPX2VIUmJnN3BCUnBIZWE4R1RrZEt0bTFkaW5fdUFhTUpjRTI5Q1doVlhoSjFFZ1N4QTAtdFJxeWFRcXFVWHpCTlNmcEpvT0tURUFsNFpkYW9fREVlMV9jZF9iUkNYVGVkZzdXOGJFLVc3NTliYjZfa3pUTW1sUms5Qlg4UzVYcTlZZnVDZzQzcVkwcVB2U0J5S3puYWUzOTlOZTcwWjJZSFlCYzRkOWxoVHNxNThIUXBSRzd1ZHgzWlNMQdIBxwFBVV95cUxOaUNBeXFzWVBBMmg3WHBiSFd4RHFUNVVSVThWZHNINERia3pWUEN4MTZGRlVhdjYtcEtGREd4SDZzblpQRVU5QlZEaEh4cmJ5QUU4MmxBZDU3UGlnbkNkZ1VXQU5yWGQ0MXRnLXNhMFlKejBITU9Oa0NwY0NKdTc2cl9ZcERKYm5LN19hU3kyOUpoZkw2VnRyOE52UWtYREZsSEFJQ1hFeGJGYTcwak5MQk5FUFNPRmozZUFNNW9NWXJmTE15b0Zv?oc=5",
+      "publishedAt": "2026-02-23T05:23:14.000Z",
       "readTimeSec": 10,
       "status": "kept",
       "importance": 2,
-      "importanceRaw": 75,
+      "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되어 있습니다. / 근거부족",
+      "qualityReason": "제목과 텍스트가 일치하며, 정보가 간결하게 제공됨. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-02-23_13",
       "date": "2026-02-23",
+      "category": "정책",
+      "title": "정부, 에너지 '자급자족' 강화…지산소형 전력망 구축",
+      "summary": [
+        "정부가 에너지 자급자족 강화를 위해 지산소형 전력망을 구축한다."
+      ],
+      "whyImportant": "에너지 자립률을 높이고 지역 에너지 시스템을 강화하는 정책이다.",
+      "importanceRationale": "근거: 정부가 에너지 자급자족 강화를 위해 지산소형 전력망 구축을 추진한다는 내용에 기반함.",
+      "impactSignals": [],
+      "dedupeKey": "energy_independence_grid",
+      "clusterKey": "에너지/강화",
+      "matchedTo": null,
+      "sourceName": "뉴스토마토",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAwQ1VGemlrcUZOWkNMX2sxakFnX05WMzBpSjIxY0pfX0RWdUNESGNCUHZYSVl6QmJ2bE1YUlJSOXg2SU9hYS0xYjRqVU5xOFIyVU5YODF2MjdsYWd0MlBxYg?oc=5",
+      "publishedAt": "2026-02-23T06:01:24.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 75,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 내용이 일치하며, 정보가 명확함. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-02-23_14",
+      "date": "2026-02-23",
       "category": "기술",
       "title": "앤트로픽, AI 기반 취약점 탐지 전면화...‘클로드 코드 시큐리티’ 공개",
       "summary": [
         "앤트로픽이 AI 기반 취약점 탐지 시스템인 '클로드 코드 시큐리티'를 공개했다.",
-        "이는 AI를 활용하여 코드의 취약점을 탐지하는 기술이다."
+        "이는 AI를 활용하여 소프트웨어의 보안 취약점을 식별하고 해결하는 데 중점을 둔다."
       ],
-      "whyImportant": "앤트로픽의 새로운 AI 기반 취약점 탐지 시스템은 소프트웨어 보안을 강화하고 잠재적인 사이버 공격을 예방하는 데 중요한 역할을 할 수 있다.",
-      "importanceRationale": "근거: 앤트로픽이 AI 기반 취약점 탐지 시스템을 공개함으로써 소프트웨어 개발 및 보안 분야에 상당한 영향을 미칠 수 있다. 이는 기업과 개발자가 코드의 취약점을 보다 효율적으로 식별하고 해결할 수 있도록 지원하여 전반적인 사이버 보안 수준을 향상시킬 수 있다.",
+      "whyImportant": "AI 기반 취약점 탐지 기술의 발전은 사이버 보안 환경을 강화하고 소프트웨어 개발의 안전성을 높이는 데 기여한다.",
+      "importanceRationale": "근거: 앤트로픽의 '클로드 코드 시큐리티' 공개는 AI 기술이 사이버 보안 분야에 미치는 영향력을 보여주는 중요한 사례이며, 소프트웨어 개발 및 보안 산업에 파급 효과가 클 것으로 예상된다.",
       "impactSignals": [],
-      "dedupeKey": "anthropic-claude-code-security",
+      "dedupeKey": "anthropic_claude_code_security",
       "clusterKey": "기반",
       "matchedTo": null,
       "sourceName": "인공지능신문",
@@ -372,12 +409,12 @@
       "importance": 2,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 정보가 명확하게 전달됨. / 근거부족",
+      "qualityReason": "제목과 본문이 일치하며, 정보가 간결하고 명확하게 전달됨. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-02-23_14",
+      "id": "2026-02-23_15",
       "date": "2026-02-23",
       "category": "정책",
       "title": "자사주 소각 의무화 상법 개정안, 법안1소위 통과",
@@ -403,82 +440,65 @@
       "isBreaking": false
     },
     {
-      "id": "2026-02-23_15",
-      "date": "2026-02-23",
-      "category": "정책",
-      "title": "미국 일리노이 주지사, 신규 원전 건설 가속화 행정명령 서명",
-      "summary": [
-        "미국 일리노이 주지사가 신규 원전 건설을 가속화하는 행정명령에 서명했습니다.",
-        "이번 행정명령은 원자력 발전소 건설을 촉진하기 위한 조치입니다."
-      ],
-      "whyImportant": "원자력 발전소 건설 가속화 정책은 에너지 시장과 관련 산업에 중요한 영향을 미칩니다.",
-      "importanceRationale": "근거: 일리노이 주의 원전 건설 가속화 행정명령은 에너지 정책 변화와 투자 확대를 의미하며, 관련 산업의 성장과 일자리 창출에 기여할 수 있습니다.",
-      "impactSignals": [],
-      "dedupeKey": "미국 일리노이 주지사, 신규 원전 건설 가속화 행정명령 서명",
-      "clusterKey": "에너지/가속화",
-      "matchedTo": null,
-      "sourceName": "더구루",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1SSy01T0RtRy02TVVwa0ZSODU1SmJzc20yRzIyeFRuVndaMjZkejVJV0tLTC0xSnhMVDRIZW1Kc1c4NjBGYXQtcTVhdFQtRWNWY3hxamIydUxadFBpQ05MbUt3?oc=5",
-      "publishedAt": "2026-02-23T01:23:31.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 75,
-      "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었습니다. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
       "id": "2026-02-23_16",
       "date": "2026-02-23",
       "category": "경제",
-      "title": "Sylvamo (SLVM): 2025년 판매 및 수익 감소 후의 가치 평가",
+      "title": "최태원 회장, \"HBM 몬스터 칩 추가 생산 필요…데이터센터마다 원전 연결해야\"",
       "summary": [
-        "Sylvamo(SLVM)의 2025년 판매 및 수익 결과가 약화되었습니다."
+        "최태원 SK그룹 회장이 HBM 몬스터 칩의 추가 생산 필요성을 강조했습니다.",
+        "데이터센터마다 원자력 발전소 하나를 연결해야 할 정도로 전력 수요가 높다고 언급했습니다."
       ],
-      "whyImportant": "Sylvamo의 가치 평가에 대한 정보입니다.",
-      "importanceRationale": "근거: Sylvamo의 2025년 판매 및 수익 감소에 따른 가치 평가 정보를 제공하므로 중요합니다.",
-      "impactSignals": [],
-      "dedupeKey": "SLVM_Valuation_After_Weaker_2025_Sales_And_Earnings_Results",
-      "clusterKey": "after",
+      "whyImportant": "최태원 회장의 발언은 HBM 시장의 성장과 그에 따른 전력 수요 증가를 시사합니다.",
+      "importanceRationale": "근거: 최태원 회장이 직접 HBM 칩 생산 확대 필요성을 언급하며, 데이터센터의 전력 소비 문제를 지적했기 때문입니다.",
+      "impactSignals": [
+        {
+          "label": "capex",
+          "evidence": "HBM 칩 생산 확대를 위한 투자가 예상됩니다."
+        }
+      ],
+      "dedupeKey": "choi-taewon-hbm-monster-chip-more",
+      "clusterKey": "에너지/hbm",
       "matchedTo": null,
-      "sourceName": "simplywall.st",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPX2VIUmJnN3BCUnBIZWE4R1RrZEt0bTFkaW5fdUFhTUpjRTI5Q1doVlhoSjFFZ1N4QTAtdFJxeWFRcXFVWHpCTlNmcEpvT0tURUFsNFpkYW9fREVlMV9jZF9iUkNYVGVkZzdXOGJFLVc3NTliYjZfa3pUTW1sUms5Qlg4UzVYcTlZZnVDZzQzcVkwcVB2U0J5S3puYWUzOTlOZTcwWjJZSFlCYzRkOWxoVHNxNThIUXBSRzd1ZHgzWlNMQdIBxwFBVV95cUxOaUNBeXFzWVBBMmg3WHBiSFd4RHFUNVVSVThWZHNINERia3pWUEN4MTZGRlVhdjYtcEtGREd4SDZzblpQRVU5QlZEaEh4cmJ5QUU4MmxBZDU3UGlnbkNkZ1VXQU5yWGQ0MXRnLXNhMFlKejBITU9Oa0NwY0NKdTc2cl9ZcERKYm5LN19hU3kyOUpoZkw2VnRyOE52UWtYREZsSEFJQ1hFeGJGYTcwak5MQk5FUFNPRmozZUFNNW9NWXJmTE15b0Zv?oc=5",
-      "publishedAt": "2026-02-23T05:23:14.000Z",
+      "sourceName": "뉴스로드",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5aekFxTlZRRVdQUTFVOWdGbGliZjlnSWJIcnIteEFRRTdtU2szQ095ajVDSUhtZ0ZUc0RHUFhxUDBtN3oyeVd5VFRMSERuN0xyQTVlVGhGd3hfV0pONzd0S05nZU9yRnBNT0xN0gFvQVVfeXFMT3pqcXl0S09CQ0lodkVubWcwZk12UW9iRmRZMFRwM1EzaWYxTlU2cGR6aFBSQ2NmYXUxX09YNHloSUsyQVhKRV9GekwyaE9SMUFlT1V2dmEzNWNZaUNSdGVSVXRxSWVScXhDMDhOZ3lj?oc=5",
+      "publishedAt": "2026-02-22T22:20:00.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 2,
-      "importanceRaw": 50,
+      "importance": 4,
+      "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 정보가 간결하게 요약되어 있습니다. / 근거부족",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었습니다.",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-02-23_17",
       "date": "2026-02-23",
-      "category": "정책",
-      "title": "광주시와 전남도, '호남권 바이오헬스복합단지' 조성 추진",
+      "category": "경제",
+      "title": "'몸값-체력' 괴리…매출·이익 증가율은 10% 안팎",
       "summary": [
-        "광주시와 전남도가 '호남권 바이오헬스복합단지' 조성을 추진한다.",
-        "23일 국회에서 공동 추진위원회가 출범한다."
+        "매출과 이익 증가율이 10% 안팎에 머무르고 있음."
       ],
-      "whyImportant": "호남권 바이오헬스 산업 발전의 기반이 될 수 있다.",
-      "importanceRationale": "근거: 광주시와 전남도가 공동으로 바이오헬스복합단지 조성을 추진하며, 국회에서 공동 추진위원회가 출범하는 것은 정책적 중요성을 시사한다.",
-      "impactSignals": [],
-      "dedupeKey": "광주전남-바이오헬스복합단지",
-      "clusterKey": "23일",
+      "whyImportant": "매출 및 이익 증가율이 기업 가치에 미치는 영향.",
+      "importanceRationale": "근거: 매출과 이익 증가율은 기업의 성장성과 수익성을 나타내는 중요한 지표이며, 이는 기업 가치 평가에 직접적인 영향을 미침.",
+      "impactSignals": [
+        {
+          "label": "earnings",
+          "evidence": "매출 및 이익 증가율이 10% 안팎에 머무르고 있다는 정보"
+        }
+      ],
+      "dedupeKey": "매출-이익-증가율-10%",
+      "clusterKey": "괴리",
       "matchedTo": null,
-      "sourceName": "팍스경제TV",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0tTnNmc2VvZU80dTJ0cktrN05sSjY5ekhCV0dLUWV2T2NCUHZHX3NxaFl2amNzTzlKdlh2U1NzNldxZE5lclI1SXRKMElhMHN0blN1Vy10d2FORi1ueXh1Ql9velpySWs?oc=5",
-      "publishedAt": "2026-02-23T08:41:52.000Z",
+      "sourceName": "한국경제",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9acGVWMXNZanp3bHJHZlB6eGtrbUhWeGdyWnZvdnFtdHloVEdfdnFwcE5IcmlVNjlmZkZaRk95SmFsQm1yd09BVnoyT0psdnNJOEM0OU82VF96UdIBVEFVX3lxTE9YTFFQMFZuaTVWN241R0x4S0pVWDhDRmk3TktzMkR2ZVZqQndoWGdlWElnX2dyOGlvQzZWbWQyZWNQdDZPVUxGbFo2OU1SRzUtX3VkeA?oc=5",
+      "publishedAt": "2026-02-23T08:58:31.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 2,
+      "importance": 3.5,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되어 있음. / 근거부족",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 핵심 내용을 전달함.",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -486,52 +506,52 @@
       "id": "2026-02-23_18",
       "date": "2026-02-23",
       "category": "정책",
-      "title": "정부, 에너지 '자급자족' 강화…지산소형 전력망 구축",
+      "title": "국회도서관, 개관 74주년 기념 '최우수 국회의원 시상식' 개최",
       "summary": [
-        "정부가 에너지 자급자족 강화를 위해 지산소형 전력망을 구축한다."
+        "국회도서관이 개관 74주년을 기념하여 '최우수 국회의원 시상식'을 개최했다.",
+        "국회도서관은 입법지원기관으로서의 책임을 다할 것을 밝혔다."
       ],
-      "whyImportant": "에너지 자립 정책 방향을 보여주는 정책이다.",
-      "importanceRationale": "근거: 정부가 에너지 자급자족을 강화하기 위해 지산소형 전력망 구축을 추진한다는 내용이므로 에너지 정책 방향을 파악하는 데 중요.",
+      "whyImportant": "국회도서관의 역할과 국회의원 시상에 대한 관심",
+      "importanceRationale": "근거: 국회도서관의 개관 기념 행사와 최우수 국회의원 시상은 국회 기능과 입법 활동 지원에 대한 관심을 나타낸다.",
       "impactSignals": [],
-      "dedupeKey": "에너지 자급자족 강화…지산소형 전력망 구축",
-      "clusterKey": "에너지/강화",
+      "dedupeKey": "국회도서관_개관74주년_최우수국회의원시상식",
+      "clusterKey": "74주년",
       "matchedTo": null,
-      "sourceName": "뉴스토마토",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAwQ1VGemlrcUZOWkNMX2sxakFnX05WMzBpSjIxY0pfX0RWdUNESGNCUHZYSVl6QmJ2bE1YUlJSOXg2SU9hYS0xYjRqVU5xOFIyVU5YODF2MjdsYWd0MlBxYg?oc=5",
-      "publishedAt": "2026-02-23T06:01:24.000Z",
+      "sourceName": "everynews.co.kr",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1KX1l5X3F5WTRza0FjNkdxa0NhX2QzVkttc2g0cWl1dklPWkZZVmQ5RHBuSVB0MzRObTZwUFlCbHVuMk53Wk41WU5oSDRQc01IX2NpeEZldW9fcjNmZHdFVmRwSFd5VlhISDFGOQ?oc=5",
+      "publishedAt": "2026-02-23T07:05:25.000Z",
       "readTimeSec": 10,
       "status": "kept",
       "importance": 2,
-      "importanceRaw": 63,
+      "importanceRaw": 50,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되어 있음. / 근거부족",
+      "qualityReason": "기사 내용이 간결하고 명확함 / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-02-23_19",
       "date": "2026-02-23",
-      "category": "경제",
-      "title": "환율·집값 리스크 지속…2월 금리 동결 전망",
+      "category": "정책",
+      "title": "공정위 대 검찰 리니언시 신경전…주병기 \"공정위로 단일화\"",
       "summary": [
-        "환율과 집값 리스크가 여전하여 2월 금리 동결 전망이 나오고 있습니다.",
-        "이데일리TV 보도 내용입니다."
+        "주병기는 공정거래위원회와 검찰의 리니언시(leniency) 신경전에 대해 공정위로 단일화해야 한다고 주장했다."
       ],
-      "whyImportant": "금리 동결 여부는 경제에 중요한 영향을 미칩니다.",
-      "importanceRationale": "근거: 환율 및 집값 리스크가 지속될 경우 금리 정책에 변화가 있을 수 있기 때문입니다.",
+      "whyImportant": "리니언시 제도 운영에 대한 기관 간 이견을 보여준다.",
+      "importanceRationale": "근거: 공정거래위원회와 검찰 간의 리니언시 제도 운영에 대한 의견 차이가 있음을 시사하며, 주병기의 주장을 통해 제도 개선의 필요성이 제기될 수 있음을 나타낸다.",
       "impactSignals": [],
-      "dedupeKey": "환율·집값 리스크 지속…2월 금리 동결 전망",
-      "clusterKey": "2월",
+      "dedupeKey": "공정위_검찰_리니언시_신경전",
+      "clusterKey": "검찰",
       "matchedTo": null,
-      "sourceName": "이데일리TV",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9pRE5HRGU5RXI5VWVqQlFRWGM3aUdnM1NHa1ZJTl9rcXctN1FieDV2VFVQdk9BYWN3eTZaY3hxelVod2tHeXBTQzdLOVF5anpBeXVxeE9MeF9xeHVMSmNScUFCc0I2QTlIbHhxa2NVNVdjeEN4d1hLUk5Jaw?oc=5",
-      "publishedAt": "2026-02-22T20:10:00.000Z",
+      "sourceName": "연합뉴스 한민족센터",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA0R3F5bk9FYnZCd0s4NWl3M1hUbEhUTWdiRG9kQU5HUk5DZVlqZXZacWgwQU9XOHIyNXkyR2h5OF94RWFOZUJnRWhSajNjYmR4cjkxYU1jWWhtNlplMGY1ZzJoeVF1emxIaWg5amh3MWdjcjFr?oc=5",
+      "publishedAt": "2026-02-23T08:56:04.000Z",
       "readTimeSec": 10,
       "status": "kept",
       "importance": 2,
-      "importanceRaw": 63,
+      "importanceRaw": 50,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며 간결하게 요약되어 있습니다. / 근거부족",
+      "qualityReason": "제목과 본문이 일치하며, 내용이 간결하고 명확하다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -539,18 +559,14 @@
       "id": "2026-02-23_20",
       "date": "2026-02-23",
       "category": "기술",
-      "title": "[N2 포커스] 애플, 수억 대 기기 '제로데이' 비상… 긴급 패치 발표",
+      "title": "[N2 포커스] 애플, 수억 대 기기 '제로데이' 취약점 발견… 긴급 패치 배포",
       "summary": [
-        "애플이 수억 대 기기에 대한 '제로데이' 공격에 대한 긴급 패치를 발표했습니다."
+        "애플이 수억 대 기기에서 '제로데이' 취약점을 발견하고 긴급 패치를 배포했습니다.",
+        "이번 취약점은 즉시 수정되지 않으면 심각한 보안 문제를 야기할 수 있습니다."
       ],
-      "whyImportant": "애플 기기 사용자들은 즉시 패치를 적용하여 보안 취약점을 해결해야 합니다.",
-      "importanceRationale": "근거: 제로데이 공격은 발견 즉시 악용될 수 있어 사용자에게 즉각적인 위험을 초래하며, 애플의 광범위한 사용자 기반을 고려할 때 잠재적 피해 규모가 매우 큽니다.",
-      "impactSignals": [
-        {
-          "label": "security",
-          "evidence": "제로데이 공격에 대한 긴급 패치 발표"
-        }
-      ],
+      "whyImportant": "애플 기기 사용자들은 즉시 긴급 패치를 적용하여 보안 위험을 줄여야 합니다.",
+      "importanceRationale": "근거: 제로데이 취약점은 공격자가 이미 악용하고 있을 가능성이 높아 즉각적인 대응이 필요하며, 수억 대의 기기에 영향을 미치므로 중요도가 높습니다.",
+      "impactSignals": [],
       "dedupeKey": "apple-zero-day-emergency-patch",
       "clusterKey": "day",
       "matchedTo": null,
@@ -559,10 +575,10 @@
       "publishedAt": "2026-02-23T02:49:00.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 4.5,
+      "importance": 2,
       "importanceRaw": 88,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 정보가 간결하고 명확합니다.",
+      "qualityReason": "제목과 본문이 일치하며, 정보가 간결하고 명확합니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": true
     }
