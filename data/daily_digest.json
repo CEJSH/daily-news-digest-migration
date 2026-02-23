@@ -3,7 +3,7 @@
   "selectionCriteria": "① 내일도 영향이 남는 이슈 ② 과도한 감정 소모 제외 ③ 어제와 중복되는 뉴스 제외",
   "editorNote": "이 뉴스는 클릭 수가 아니라 오늘 이후에도 남는 정보만 기준으로 편집했습니다.",
   "question": "정보를 덜 보는 것이 오히려 더 똑똑한 소비일까?",
-  "lastUpdatedAt": "2026-02-23T20:38:25.982+09:00",
+  "lastUpdatedAt": "2026-02-23T21:58:44.228+09:00",
   "items": [
     {
       "id": "2026-02-23_1",
@@ -11,15 +11,15 @@
       "category": "기술",
       "title": "인공지능(AI) 기반 의료의 편향, 개인 정보 보호, 보안 및 환자 자율성 문제 해결: 현재 지침 검토",
       "summary": [
-        "인공지능 기반 의료 시스템에서 편향, 개인 정보 보호, 보안 및 환자 자율성 문제를 다룹니다.",
-        "현재 지침을 검토하여 이러한 문제에 대한 해결책을 모색합니다."
+        "인공지능 기반 의료에서 편향, 개인 정보 보호, 보안 및 환자 자율성 문제를 다루기 위한 현재 지침을 검토합니다.",
+        "이 연구는 Cureus 저널에 게재되었습니다."
       ],
-      "whyImportant": "인공지능 의료 시스템의 윤리적 문제 해결에 대한 지침을 제공합니다.",
-      "importanceRationale": "근거: 인공지능 의료 시스템의 윤리적 문제 해결은 환자의 안전과 신뢰를 위해 중요하며, 정책 및 자본 지출에 영향을 미칠 수 있습니다.",
+      "whyImportant": "인공지능 의료 기술 도입 시 고려해야 할 중요한 윤리적, 법적 문제를 강조합니다.",
+      "importanceRationale": "근거: 인공지능 의료 기술의 발전과 함께 편향, 개인 정보 보호, 보안 및 환자 자율성과 같은 문제가 중요해지고 있으며, 이러한 문제를 해결하기 위한 지침 검토는 정책 및 투자 결정에 영향을 미칠 수 있습니다.",
       "impactSignals": [
         {
           "label": "policy",
-          "evidence": "인공지능 의료 시스템 운영에 대한 지침 검토"
+          "evidence": "인공지능 의료 기술 관련 지침 검토는 정책 결정에 영향을 줄 수 있음"
         }
       ],
       "dedupeKey": "AI_Healthcare_Guidelines_Review",
@@ -33,7 +33,7 @@
       "importance": 3.5,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 정보가 명확하게 전달됨",
+      "qualityReason": "제목과 텍스트가 일치하며, 요약이 명확합니다.",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -46,7 +46,7 @@
         "Global Trade Magazine에서 세계 무역 전망 및 국제 경제 예측을 발표했습니다."
       ],
       "whyImportant": "세계 무역의 미래 방향을 제시합니다.",
-      "importanceRationale": "근거: 세계 무역 전망은 국제 경제에 중요한 영향을 미치며, 기업의 정책 결정에 참고 자료가 될 수 있습니다.",
+      "importanceRationale": "근거: 세계 무역 전망은 국제 경제에 중요한 영향을 미치며, 기업의 정책 결정에 참고 자료가 됩니다.",
       "impactSignals": [],
       "dedupeKey": "global_trade_outlook_2024",
       "clusterKey": "economic",
@@ -59,7 +59,7 @@
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었습니다. / 근거부족",
+      "qualityReason": "기사 내용이 간결하고 명확합니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -70,17 +70,17 @@
       "title": "합성생물학 R&D·안전관리 체계 확립…시행령 입법 예고",
       "summary": [
         "합성생물학 연구 개발 및 안전 관리에 대한 시행령이 입법 예고되었습니다.",
-        "이는 합성생물학 분야의 연구 개발을 지원하고 안전성을 확보하기 위한 조치입니다."
+        "이는 합성생물학 분야의 연구 개발을 촉진하고 안전성을 확보하기 위한 조치입니다."
       ],
-      "whyImportant": "합성생물학 연구 개발 및 안전 관리에 대한 정부 정책 방향을 제시합니다.",
-      "importanceRationale": "근거: 합성생물학 R&D 및 안전 관리에 대한 시행령 입법 예고는 정부의 정책적 의지를 보여주는 중요한 지표입니다.",
+      "whyImportant": "합성생물학 연구 개발 및 안전 관리에 대한 정부의 정책적 노력을 보여주는 중요한 사례입니다.",
+      "importanceRationale": "근거: 합성생물학 R&D 및 안전 관리에 대한 시행령 입법 예고는 해당 분야의 발전과 안전성 확보에 중요한 영향을 미칩니다.",
       "impactSignals": [
         {
           "label": "policy",
-          "evidence": "합성생물학 R&D 및 안전 관리 시행령 입법 예고"
+          "evidence": "합성생물학 R&D 및 안전 관리에 대한 시행령 입법 예고"
         }
       ],
-      "dedupeKey": "합성생물학R&D안전관리틀잡혔다…시행령입법예고",
+      "dedupeKey": "합성생물학R&D·안전관리틀잡혔다…시행령입법예고",
       "clusterKey": "시행령",
       "matchedTo": null,
       "sourceName": "연합뉴스 한민족센터",
@@ -91,7 +91,7 @@
       "importance": 4,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "기사 내용이 명확하고 정책 발표에 대한 정보를 제공합니다.",
+      "qualityReason": "기사 내용이 명확하고 간결하며, 핵심 정보를 잘 전달하고 있습니다.",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -103,15 +103,10 @@
       "summary": [
         "Investing.com에 따르면 미국-이란 핵 협상과 트럼프 관세 불확실성으로 인해 유가가 하락했다."
       ],
-      "whyImportant": "미국과 이란의 핵 협상 재개 가능성과 트럼프 시대의 관세 정책 불확실성이 유가에 미치는 영향을 파악하는 것이 중요합니다.",
-      "importanceRationale": "근거: 핵 협상 재개는 이란의 원유 공급 증가를 의미하며, 이는 시장의 공급 과잉 우려를 야기하여 유가 하락으로 이어질 수 있습니다. 또한, 트럼프 시대의 관세 정책 불확실성은 글로벌 무역에 영향을 미쳐 원유 수요에 대한 불안감을 증폭시킬 수 있습니다.",
-      "impactSignals": [
-        {
-          "label": "market-demand",
-          "evidence": "트럼프 관세 불확실성이 원유 수요에 미치는 영향"
-        }
-      ],
-      "dedupeKey": "oil_price_drop_due_to_iran_nuclear_talks_and_trump_tariffs",
+      "whyImportant": "유가 변동에 영향을 미치는 요인을 파악하는 것이 중요합니다.",
+      "importanceRationale": "근거: 미국-이란 핵 협상 재개 가능성과 트럼프 시대의 관세 정책 불확실성이 유가 하락에 복합적으로 작용하고 있기 때문입니다.",
+      "impactSignals": [],
+      "dedupeKey": "oil-price-drop-due-to-iran-nuclear-talks-and-trump-tariffs",
       "clusterKey": "미국",
       "matchedTo": null,
       "sourceName": "Investing.com 한국어",
@@ -119,10 +114,10 @@
       "publishedAt": "2026-02-23T02:08:00.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 3.5,
+      "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 간결하게 요약되었습니다.",
+      "qualityReason": "기사 제목과 내용이 일치하며, 간결하게 요약되어 있습니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -133,10 +128,10 @@
       "title": "트럼프, 발전소 ‘수은·독성물질’ 규제 완화…AI 전력 수요 대응",
       "summary": [
         "트럼프 전 대통령이 발전소의 수은 및 독성 물질 규제를 완화했다.",
-        "이는 인공지능(AI) 전력 수요에 대응하기 위한 조치로 보인다."
+        "이는 AI 전력 수요에 대응하기 위한 조치로 보인다."
       ],
-      "whyImportant": "발전소 규제 완화는 환경 정책과 에너지 시장에 영향을 미칠 수 있다.",
-      "importanceRationale": "근거: 발전소의 수은 및 독성 물질 규제 완화는 환경 보호와 관련된 정책 변화를 의미하며, 동시에 AI 전력 수요 대응이라는 에너지 시장의 요구에 대한 반응으로 해석될 수 있다.",
+      "whyImportant": "트럼프 전 대통령의 발전소 규제 완화는 환경 정책과 에너지 정책에 중요한 변화를 의미한다.",
+      "importanceRationale": "근거: 발전소 규제 완화는 환경 보호와 AI 전력 수요 대응이라는 상반된 목표 사이의 균형을 보여주는 정책 결정이다.",
       "impactSignals": [
         {
           "label": "policy",
@@ -154,7 +149,7 @@
       "importance": 3.5,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 텍스트가 일치하며, 정보가 간결하게 요약되어 있음.",
+      "qualityReason": "제목과 본문이 일치하며, 간결하게 요약되어 있습니다.",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -164,14 +159,13 @@
       "category": "국제",
       "title": "이번 주 주목해야 할 사항: 엔비디아 실적, 대법원 관세 영향, 지정학적 긴장 고조",
       "summary": [
-        "이번 주에는 엔비디아의 실적 발표가 예정되어 있습니다.",
-        "미국 대법원의 관세 관련 결정에 따른 영향도 주목해야 합니다.",
-        "지정학적 긴장 역시 주요 관심사입니다."
+        "이번 주에는 엔비디아의 실적 발표와 대법원의 관세 관련 결정, 그리고 지정학적 긴장 고조 등이 주요 관심사입니다.",
+        "투자자들은 이러한 요인들이 시장에 미칠 영향에 주목하고 있습니다."
       ],
-      "whyImportant": "이번 주 경제 및 지정학적 주요 이슈들을 다루고 있습니다.",
-      "importanceRationale": "근거: 엔비디아 실적 발표, 대법원 관세 결정, 지정학적 긴장이라는 세 가지 주요 사항을 포괄적으로 제시합니다.",
+      "whyImportant": "엔비디아의 실적 발표는 기술주 전반에 대한 투자 심리를 가늠할 수 있는 중요한 지표가 될 수 있습니다.",
+      "importanceRationale": "근거: 엔비디아 실적은 기술 산업의 건전성을 나타내는 지표이며, 대법원 관세 결정과 지정학적 긴장은 시장 변동성을 야기할 수 있기 때문입니다.",
       "impactSignals": [],
-      "dedupeKey": "NvidiaEarningsSCOTUSTariffGeopoliticalTensions",
+      "dedupeKey": "nvidia_earnings_scotus_tariff_geopolitical_tensions",
       "clusterKey": "fallout",
       "matchedTo": null,
       "sourceName": "Yahoo Finance",
@@ -182,7 +176,7 @@
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 핵심 사항을 요약했습니다. / 근거부족",
+      "qualityReason": "제목과 본문이 일치하며, 정보가 명확합니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -195,15 +189,15 @@
         "2025년 84mtpa 규모의 LNG 프로젝트의 최종 투자 결정(FID)에 따라 약 150척의 LNG 운반선 수요가 발생할 것으로 예상됩니다.",
         "이는 쉬핑뉴스넷의 보도 내용입니다."
       ],
-      "whyImportant": "LNG 프로젝트의 최종 투자 결정이 LNG 운반선 시장에 미치는 영향을 보여줍니다.",
-      "importanceRationale": "근거: 대규모 LNG 프로젝트의 진행은 필연적으로 LNG 운반선 수요 증가로 이어지며, 이는 관련 시장에 중요한 영향을 미칩니다.",
+      "whyImportant": "LNG 운반선 시장에 큰 영향을 미칠 수 있는 정보입니다.",
+      "importanceRationale": "근거: 대규모 LNG 프로젝트의 최종 투자 결정은 LNG 운반선 수요에 직접적인 영향을 미치며, 이는 관련 시장의 수익성에 중요한 지표가 됩니다.",
       "impactSignals": [
         {
           "label": "market-demand",
-          "evidence": "LNG 프로젝트 FID는 LNG 운반선 시장의 수요 증가를 직접적으로 야기합니다."
+          "evidence": "대규모 LNG 프로젝트 FID는 LNG 운반선 시장의 수요 증가를 의미합니다."
         }
       ],
-      "dedupeKey": "LNG_PROJECT_FID_AND_LNG_CARRIER_DEMAND",
+      "dedupeKey": "2025lngprojectfid",
       "clusterKey": "150척의",
       "matchedTo": null,
       "sourceName": "쉬핑뉴스넷",
@@ -214,7 +208,7 @@
       "importance": 4,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며 간결하게 핵심 내용을 전달합니다.",
+      "qualityReason": "제목과 본문이 일치하며, 간결하게 핵심 내용을 전달합니다.",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -222,20 +216,20 @@
       "id": "2026-02-23_8",
       "date": "2026-02-23",
       "category": "에너지",
-      "title": "영국 컨소시엄, 미국 군대를 위한 부유식 원자력 발전소 제안",
+      "title": "영국 컨소시엄, 미국 군용 부유식 원자력 발전소 제안",
       "summary": [
         "영국 컨소시엄이 미국 군대를 위한 부유식 원자력 발전소를 제안했다.",
-        "이 발전소는 해상에서 전력을 생산하여 군사 시설에 공급하는 것을 목표로 한다."
+        "이 프로젝트는 해상에서 전력을 공급하는 것을 목표로 한다."
       ],
-      "whyImportant": "미국 군사 시설에 대한 에너지 공급 방식을 바꿀 수 있는 잠재력이 있다.",
-      "importanceRationale": "근거: 부유식 원자력 발전소는 기존의 육상 발전소에 비해 유연성이 높고, 특히 군사 작전 지역과 같이 접근이 어려운 곳에 전력을 공급하는 데 유용할 수 있다.",
+      "whyImportant": "미국 군사 시설에 대한 전력 공급 방식에 잠재적인 변화를 가져올 수 있다.",
+      "importanceRationale": "근거: 미국 군대에 대한 에너지 공급의 새로운 접근 방식을 제시하며, 이는 군사 시설의 에너지 독립성과 보안에 영향을 미칠 수 있기 때문이다.",
       "impactSignals": [
         {
           "label": "capex",
-          "evidence": "부유식 원자력 발전소 건설에는 상당한 자본 지출이 필요하다."
+          "evidence": "부유식 원자력 발전소 건설에 상당한 자본 지출이 예상된다."
         }
       ],
-      "dedupeKey": "UKConsortiumFloatingNuclearPlantUSMilitary",
+      "dedupeKey": "UK_Floating_Nuclear_Plant_US_Military",
       "clusterKey": "consortium",
       "matchedTo": null,
       "sourceName": "The Maritime Executive",
@@ -246,7 +240,7 @@
       "importance": 3.5,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "The article is a straightforward report of a proposal.",
+      "qualityReason": "The article is a brief factual report.",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -259,8 +253,8 @@
         "한컴이 작년에 최대 실적을 기록했습니다.",
         "이는 AI 수익 모델로의 전환이 효과를 보인 결과입니다."
       ],
-      "whyImportant": "한컴의 AI 수익 모델 전환 성공은 동종 업계에 중요한 시사점을 제공합니다.",
-      "importanceRationale": "근거: 한컴이 AI 수익 모델 전환을 통해 최대 실적을 달성했다는 점은 AI 기술을 활용한 새로운 수익 창출 가능성을 보여줍니다.",
+      "whyImportant": "한컴의 AI 수익 모델 전환 성공은 동종 업계에 시사하는 바가 큽니다.",
+      "importanceRationale": "근거: 한컴이 AI 수익 모델 전환을 통해 최대 실적을 달성했다는 점은, AI 기술을 활용한 새로운 수익 창출 가능성을 보여주는 중요한 사례입니다.",
       "impactSignals": [],
       "dedupeKey": "hancom-ai-earnings-2023",
       "clusterKey": "ai픽",
@@ -280,52 +274,69 @@
     {
       "id": "2026-02-23_10",
       "date": "2026-02-23",
-      "category": "정책",
-      "title": "과학기술정보통신부, 합성생물학 육성 시행령 입법 예고",
+      "category": "경제",
+      "title": "Sylvamo (SLVM), 2025년 매출 및 수익 감소 후 가치 평가",
       "summary": [
-        "과학기술정보통신부가 합성생물학 육성을 가속화하기 위한 시행령을 입법 예고했다.",
-        "이번 시행령은 합성생물학 분야의 발전을 촉진하기 위한 정책적 지원을 강화할 것으로 예상된다."
+        "Sylvamo(SLVM)의 2025년 매출 및 수익 결과가 약화되었습니다.",
+        "이는 기업 가치 평가에 영향을 미칩니다."
       ],
-      "whyImportant": "합성생물학 육성 정책의 구체적인 시행 방안을 담고 있어 관련 분야에 미치는 영향이 크다.",
-      "importanceRationale": "근거: 과학기술정보통신부의 시행령 입법 예고는 합성생물학 육성에 대한 정부의 정책적 의지를 보여주며, 관련 산업 및 연구 개발에 중요한 영향을 미칠 수 있다.",
-      "impactSignals": [
-        {
-          "label": "policy",
-          "evidence": "과학기술정보통신부의 합성생물학 육성 시행령 입법 예고"
-        }
-      ],
-      "dedupeKey": "과기정통부, 합성생물학 육성 시행령 입법 예고",
-      "clusterKey": "가속화",
+      "whyImportant": "약화된 판매 및 수익 결과가 Sylvamo의 가치 평가에 미치는 영향을 분석합니다.",
+      "importanceRationale": "근거: Sylvamo의 미래 판매 및 수익 전망이 하향 조정됨에 따라 투자자와 이해 관계자는 회사의 가치를 재평가해야 합니다.",
+      "impactSignals": [],
+      "dedupeKey": "SLVM_Valuation_After_Weaker_2025_Sales_And_Earnings_Results",
+      "clusterKey": "after",
       "matchedTo": null,
-      "sourceName": "헬로디디",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBHeUsxejFoQVFzbmNRVWFIVUlIb0F1T1lNOEEwbDRadXZ1dEN5eGpwVm52M0cwQ0NVeWxZSUtyUEhnX0hNeUdnSk9scUdPbmlZR3JhM1hpZ1ZlUW1tcXhTdXk0elI4QTZ6RlE?oc=5",
-      "publishedAt": "2026-02-23T07:20:00.000Z",
+      "sourceName": "simplywall.st",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPX2VIUmJnN3BCUnBIZWE4R1RrZEt0bTFkaW5fdUFhTUpjRTI5Q1doVlhoSjFFZ1N4QTAtdFJxeWFRcXFVWHpCTlNmcEpvT0tURUFsNFpkYW9fREVlMV9jZF9iUkNYVGVkZzdXOGJFLVc3NTliYjZfa3pUTW1sUms5Qlg4UzVYcTlZZnVDZzQzcVkwcVB2U0J5S3puYWUzOTlOZTcwWjJZSFlCYzRkOWxoVHNxNThIUXBSRzd1ZHgzWlNMQdIBxwFBVV95cUxOaUNBeXFzWVBBMmg3WHBiSFd4RHFUNVVSVThWZHNINERia3pWUEN4MTZGRlVhdjYtcEtGREd4SDZzblpQRVU5QlZEaEh4cmJ5QUU4MmxBZDU3UGlnbkNkZ1VXQU5yWGQ0MXRnLXNhMFlKejBITU9Oa0NwY0NKdTc2cl9ZcERKYm5LN19hU3kyOUpoZkw2VnRyOE52UWtYREZsSEFJQ1hFeGJGYTcwak5MQk5FUFNPRmozZUFNNW9NWXJmTE15b0Zv?oc=5",
+      "publishedAt": "2026-02-23T05:23:14.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 4,
-      "importanceRaw": 75,
+      "importance": 2,
+      "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 내용이 간결하고 명확하다.",
+      "qualityReason": "The article directly reflects the title and provides basic information. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-02-23_11",
       "date": "2026-02-23",
+      "category": "기술",
+      "title": "배터리, 국방 공급망의 새로운 단층선",
+      "summary": [
+        "배터리가 국방 공급망의 새로운 취약점으로 부상하고 있습니다.",
+        "이는 군사 장비의 전력 공급에 중요한 영향을 미칩니다."
+      ],
+      "whyImportant": "국방 공급망에서 배터리의 중요성이 커지고 있으며, 이는 군사 작전 능력에 직접적인 영향을 미칠 수 있습니다.",
+      "importanceRationale": "근거: 배터리는 군사 장비의 핵심 전력 공급원이기 때문에 공급망의 문제는 군사 준비 태세에 심각한 영향을 줄 수 있습니다.",
+      "impactSignals": [],
+      "dedupeKey": "batteries_defense_supply_chain",
+      "clusterKey": "batteries",
+      "matchedTo": null,
+      "sourceName": "RealClearDefense",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOeHVFaFZHNURKMVlTZUpyYk4xSjgtRmdOdTBCX2pkS1cwZzZidnNNM0MzUDNBbjBlSkF5bzV1MG5xcGxQbGY3Ym9Mc1NDNE8tZkV0QUhLcEdIZEoweERIQkdndjNXTUtDOEZEM3ZaOWtYVHZMVi1VajllMTB2MW5GdnZkWW1pZlYzNHhvcFhORExjQjVVS1Z0THpzNFlCb3VNTlJpQjlmY2tVclhtMGtMWWhhVEVvNTY1eHB3REE2UnlXMXNseEE?oc=5",
+      "publishedAt": "2026-02-23T11:02:57.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 75,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 내용이 일치하며, 핵심 내용을 잘 요약했습니다. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-02-23_12",
+      "date": "2026-02-23",
       "category": "에너지",
       "title": "정부, 에너지 '자급자족' 강화…지산소형 전력망 구축",
       "summary": [
         "정부가 에너지 자급자족 강화를 위해 지산소형 전력망을 구축한다."
       ],
-      "whyImportant": "에너지 자립률을 높이고 지역 에너지 시스템을 강화하는 데 중요한 정책적 움직임이다.",
-      "importanceRationale": "근거: 정부의 에너지 자급자족 강화 정책은 국가 에너지 안보 및 지역 경제 활성화에 기여할 수 있다.",
-      "impactSignals": [
-        {
-          "label": "policy",
-          "evidence": "정부의 에너지 자급자족 강화 정책 발표"
-        }
-      ],
-      "dedupeKey": "energy_independence_grid",
+      "whyImportant": "에너지 자립률을 높이고 지역 에너지 시스템을 강화하는 정책이다.",
+      "importanceRationale": "근거: 정부가 에너지 자급자족을 강화하기 위해 지산소형 전력망 구축을 추진한다는 내용이므로 중요도가 높다고 판단됨.",
+      "impactSignals": [],
+      "dedupeKey": "정부, 에너지 '자급자족' 강화…지산소형 전력망 구축",
       "clusterKey": "에너지/강화",
       "matchedTo": null,
       "sourceName": "뉴스토마토",
@@ -333,30 +344,30 @@
       "publishedAt": "2026-02-23T06:01:24.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 4,
+      "importance": 2,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 정보가 간결하게 제공됨.",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되어 있음. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-02-23_12",
+      "id": "2026-02-23_13",
       "date": "2026-02-23",
       "category": "정책",
       "title": "자사주 소각 의무화 상법 개정안, 법안1소위 통과",
       "summary": [
-        "자사주 소각 의무화를 골자로 하는 상법 개정안이 법안1소위를 통과했습니다."
+        "자사주 소각을 의무화하는 상법 개정안이 법안1소위를 통과했습니다."
       ],
       "whyImportant": "자사주 소각 의무화는 주주 가치에 큰 영향을 미칠 수 있습니다.",
       "importanceRationale": "근거: 자사주 소각 의무화는 기업의 자본 정책에 변화를 가져오고, 이는 주가 및 투자 심리에 영향을 줄 수 있기 때문입니다.",
       "impactSignals": [
         {
           "label": "policy",
-          "evidence": "상법 개정안이 법안1소위를 통과했다는 사실은 정책 변화의 시작을 의미합니다."
+          "evidence": "상법 개정안이 법안1소위를 통과하여 정책 변화가 예상됩니다."
         }
       ],
-      "dedupeKey": "자사주 소각 의무화 상법 개정안 법안1소위 통과",
+      "dedupeKey": "자사주 소각 의무화 상법 개정안, 법안1소위 통과",
       "clusterKey": "개정안",
       "matchedTo": null,
       "sourceName": "히트뉴스",
@@ -367,40 +378,7 @@
       "importance": 4,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 내용이 일치하며, 핵심 내용을 잘 요약했습니다.",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-02-23_13",
-      "date": "2026-02-23",
-      "category": "기술",
-      "title": "실리콘 밸리의 AI 야망을 지원하기 위해 자체 발전소를 갖춘 데이터 센터를 건설하는 기술 회사들, 텍사스에서 웨스트 버지니아까지 경종을 울리다",
-      "summary": [
-        "기술 회사들이 실리콘 밸리의 AI 개발을 지원하기 위해 자체 발전소를 갖춘 데이터 센터를 건설하고 있습니다.",
-        "이러한 움직임은 텍사스에서 웨스트 버지니아에 이르기까지 지역 주민들의 우려를 낳고 있습니다.",
-        "주민들은 주요 도시를 가동할 수 있을 만큼 큰 발전소가 인근에 들어설 것이라는 사실에 불만을 표하고 있습니다."
-      ],
-      "whyImportant": "데이터 센터 건설과 자체 발전소 구축은 기술 산업의 에너지 소비 증가와 환경에 미치는 영향에 대한 우려를 제기합니다.",
-      "importanceRationale": "근거: 기술 기업들이 AI 개발을 위해 대규모 데이터 센터와 자체 발전소 건설에 투자하는 것은 에너지 인프라에 대한 상당한 자본 지출(capex)을 의미하며, 이는 지역 사회와 환경에 중요한 영향을 미칠 수 있습니다.",
-      "impactSignals": [
-        {
-          "label": "capex",
-          "evidence": "Tech companies are building data centers with their own power plants to support Silicon Valley’s AI ambitions"
-        }
-      ],
-      "dedupeKey": "tech_data_center_power_plants",
-      "clusterKey": "에너지/building",
-      "matchedTo": null,
-      "sourceName": "facebook.com",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPZE9DcHloRXZESHZsWGNoTXJFNFlBM0tRMWN4VDZxR2FxVmE3ZkhkcEVjZUo4eE5ESVhndExOeW9ZczBwNTRzSlY0WVNLaWtlSmYtQU9Tclo5YmtreElaNzk0RUpqcFBMUnhjSUJlenVyQm5TaklMMG4zc1d3eFl2enR5YmNqUnNRV253allZR1lZeFFYVmc3OUMyZHA1RU9tMDcxajhkaUpSeml0bHJFX0duYTIwdHNPa3BlcHRKN3RSeEZBekMwdnRCdG5mbW82Q2s4ejAxai1MYzhX?oc=5",
-      "publishedAt": "2026-02-23T00:43:52.000Z",
-      "readTimeSec": 12,
-      "status": "kept",
-      "importance": 4,
-      "importanceRaw": 75,
-      "qualityLabel": "ok",
-      "qualityReason": "기사 내용이 명확하고 간결하며, 핵심 정보를 잘 전달하고 있습니다.",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었습니다.",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -408,65 +386,47 @@
       "id": "2026-02-23_14",
       "date": "2026-02-23",
       "category": "경제",
-      "title": "Sylvamo (SLVM): 2025년 판매 및 수익 감소 후의 가치 평가",
+      "title": "Salesforce, 4분기 실적 발표 앞두고 목표 주가 대폭 하향 조정",
       "summary": [
-        "Sylvamo(SLVM)의 2025년 판매 및 수익 결과가 약화되었습니다."
+        "Salesforce의 4분기 실적 발표를 앞두고 목표 주가가 크게 하향 조정되었습니다."
       ],
-      "whyImportant": "Sylvamo의 미래 가치 평가에 대한 정보입니다.",
-      "importanceRationale": "근거: Sylvamo의 2025년 판매 및 수익 감소는 투자자와 시장 분석가에게 중요한 정보입니다.",
-      "impactSignals": [],
-      "dedupeKey": "SLVM_2025_earnings",
-      "clusterKey": "after",
+      "whyImportant": "Salesforce의 목표 주가 하향 조정은 투자 심리에 영향을 미칠 수 있습니다.",
+      "importanceRationale": "근거: Salesforce의 목표 주가 하향 조정은 투자자들의 우려를 반영하며, 이는 시장 전반에 걸쳐 영향을 미칠 수 있습니다.",
+      "impactSignals": [
+        {
+          "label": "earnings",
+          "evidence": "4분기 실적 발표를 앞두고 목표 주가 하향 조정"
+        },
+        {
+          "label": "market-demand",
+          "evidence": "목표 주가 하향 조정은 시장 수요에 대한 우려를 반영할 수 있음"
+        }
+      ],
+      "dedupeKey": "Salesforce_Q4_Earnings_Price_Target_Cuts",
+      "clusterKey": "ahead",
       "matchedTo": null,
-      "sourceName": "simplywall.st",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPX2VIUmJnN3BCUnBIZWE4R1RrZEt0bTFkaW5fdUFhTUpjRTI5Q1doVlhoSjFFZ1N4QTAtdFJxeWFRcXFVWHpCTlNmcEpvT0tURUFsNFpkYW9fREVlMV9jZF9iUkNYVGVkZzdXOGJFLVc3NTliYjZfa3pUTW1sUms5Qlg4UzVYcTlZZnVDZzQzcVkwcVB2U0J5S3puYWUzOTlOZTcwWjJZSFlCYzRkOWxoVHNxNThIUXBSRzd1ZHgzWlNMQdIBxwFBVV95cUxOaUNBeXFzWVBBMmg3WHBiSFd4RHFUNVVSVThWZHNINERia3pWUEN4MTZGRlVhdjYtcEtGREd4SDZzblpQRVU5QlZEaEh4cmJ5QUU4MmxBZDU3UGlnbkNkZ1VXQU5yWGQ0MXRnLXNhMFlKejBITU9Oa0NwY0NKdTc2cl9ZcERKYm5LN19hU3kyOUpoZkw2VnRyOE52UWtYREZsSEFJQ1hFeGJGYTcwak5MQk5FUFNPRmozZUFNNW9NWXJmTE15b0Zv?oc=5",
-      "publishedAt": "2026-02-23T05:23:14.000Z",
+      "sourceName": "24/7 Wall St.",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxObF9SdmdjcVJ4YU52MlNXU2w2em14UmJOc2hJSmNYVlYtQTFhblI4VHd0Q3lLbFE1VF9selhFY0NkQ1Z1T2RpSmZpblpsMGp3dU5xa1VyTmZGUG5venZ4enVYbnFRTHVIM1lGM0lhSTJlbTBwUGV1UVBsNUQ5czdsblRXWlhuaHlxZDFJOWU5ZjJZcmRuQ3d0SGp2S3ZjZw?oc=5",
+      "publishedAt": "2026-02-23T12:40:04.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 2,
+      "importance": 3,
       "importanceRaw": 50,
       "qualityLabel": "ok",
-      "qualityReason": "The article directly reflects the title and provides basic information. / 근거부족",
+      "qualityReason": "제목과 본문이 일치하며, 정보가 간결하게 제공됨.",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-02-23_15",
       "date": "2026-02-23",
-      "category": "경제",
-      "title": "\"지금이라도 들어가야 하나\"…'8000P' 전망에 투자자들 반응",
-      "summary": [
-        "최근 '8000P' 전망이 나오면서 개인 투자자들이 반응하고 있다.",
-        "투자자들은 지금이라도 투자에 참여해야 할지 고민하고 있다."
-      ],
-      "whyImportant": "개인 투자자들의 투자 심리 변화를 보여주는 지표가 될 수 있다.",
-      "importanceRationale": "근거: 개인 투자자들의 투자 결정은 시장 변동성에 영향을 미칠 수 있기 때문이다.",
-      "impactSignals": [],
-      "dedupeKey": "8000P_prospects_and_retail_investors",
-      "clusterKey": "개미들",
-      "matchedTo": null,
-      "sourceName": "한국경제",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1mSE9qcXE0a1BTMkVzaFFDT280TkZkaVZaaFVrTmd3OWhEMnFXSEZnUXdnRjFFaG1lOTRsVkRsRk8xQUhjb0JlOGZMLXlOQlNKN256bl8zVkRkQdIBVEFVX3lxTFAwS3l4dnVtMkVoekUyU3Y2TDNwMldmYVN0N2ZTcGc0OFN1OEw5NlkweGdtVkdQWVVmUW9WZ1ZnS1YzWHMtV2RNVzEzbm5uc0lQcjdhRQ?oc=5",
-      "publishedAt": "2026-02-23T05:25:17.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 50,
-      "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약됨. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-02-23_16",
-      "date": "2026-02-23",
-      "category": "경제",
+      "category": "정책",
       "title": "부산시, 금융중심지 부산 사수 건의문 국회 전달",
       "summary": [
         "부산시는 금융중심지 부산 사수를 위한 건의문을 국회에 전달했다."
       ],
       "whyImportant": "부산시가 금융중심지 지위를 유지하기 위해 국회에 건의문을 전달했다는 점이 중요합니다.",
-      "importanceRationale": "근거: 부산시가 금융중심지 유지를 위해 직접적인 정책적 노력을 기울이고 있음을 나타냅니다.",
+      "importanceRationale": "근거: 부산시가 금융중심지 유지를 위해 직접적으로 국회에 건의문을 전달한 것은 정책적 중요성을 나타냅니다.",
       "impactSignals": [],
       "dedupeKey": "부산시, 금융중심지 부산 사수 건의문 국회 전달",
       "clusterKey": "knn",
@@ -477,9 +437,36 @@
       "readTimeSec": 10,
       "status": "kept",
       "importance": 2,
-      "importanceRaw": 50,
+      "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되어 있습니다. / 근거부족",
+      "qualityReason": "기사 내용이 간결하고 명확합니다. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-02-23_16",
+      "date": "2026-02-23",
+      "category": "정책",
+      "title": "합성생물학 육성 가속화: 과기정통부 시행령 입법 예고",
+      "summary": [
+        "과학기술정보통신부가 합성생물학 육성을 가속화한다.",
+        "관련 시행령 입법이 예고되었다."
+      ],
+      "whyImportant": "합성생물학 육성 정책 추진",
+      "importanceRationale": "근거: 과학기술정보통신부의 합성생물학 육성 시행령 입법 예고를 통해 정책적 지원이 강화될 것으로 예상된다.",
+      "impactSignals": [],
+      "dedupeKey": "synthetic_biology_policy_announcement",
+      "clusterKey": "가속화",
+      "matchedTo": null,
+      "sourceName": "헬로디디",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBHeUsxejFoQVFzbmNRVWFIVUlIb0F1T1lNOEEwbDRadXZ1dEN5eGpwVm52M0cwQ0NVeWxZSUtyUEhnX0hNeUdnSk9scUdPbmlZR3JhM1hpZ1ZlUW1tcXhTdXk0elI4QTZ6RlE?oc=5",
+      "publishedAt": "2026-02-23T07:20:00.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 63,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약됨. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -487,14 +474,41 @@
       "id": "2026-02-23_17",
       "date": "2026-02-23",
       "category": "경제",
+      "title": "\"지금이라도 들어가야 하나\"…'8000P' 전망에 개인 투자자들 반응",
+      "summary": [
+        "최근 '8000P' 전망이 나오면서 개인 투자자들이 반응하고 있다.",
+        "개인 투자자들은 주식 시장에 뛰어들지 여부를 고민하고 있다."
+      ],
+      "whyImportant": "개인 투자자들의 투자 심리 변화를 보여주는 지표가 될 수 있다.",
+      "importanceRationale": "근거: 개인 투자자들의 투자 결정은 시장 변동성에 영향을 미치므로 중요하게 고려해야 한다.",
+      "impactSignals": [],
+      "dedupeKey": "\"지금이라도 들어가야 하나\"…'8000P' 전망에 개인 투자자들 반응",
+      "clusterKey": "개미들",
+      "matchedTo": null,
+      "sourceName": "한국경제",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1mSE9qcXE0a1BTMkVzaFFDT280TkZkaVZaaFVrTmd3OWhEMnFXSEZnUXdnRjFFaG1lOTRsVkRsRk8xQUhjb0JlOGZMLXlOQlNKN256bl8zVkRkQdIBVEFVX3lxTFAwS3l4dnVtMkVoekUyU3Y2TDNwMldmYVN0N2ZTcGc0OFN1OEw5NlkweGdtVkdQWVVmUW9WZ1ZnS1YzWHMtV2RNVzEzbm5uc0lQcjdhRQ?oc=5",
+      "publishedAt": "2026-02-23T05:25:17.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 50,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 내용이 일치하며 간결하게 요약됨. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-02-23_18",
+      "date": "2026-02-23",
+      "category": "경제",
       "title": "환율·집값 리스크 지속…2월 금리 동결 전망",
       "summary": [
         "환율과 집값 리스크가 지속됨에 따라 2월 금리 동결 전망이 나오고 있습니다."
       ],
       "whyImportant": "금리 동결 여부에 대한 시장의 관심이 높습니다.",
-      "importanceRationale": "근거: 환율 및 집값 리스크가 금리 결정에 중요한 영향을 미치기 때문입니다.",
+      "importanceRationale": "근거: 환율 및 집값 리스크가 경제에 미치는 영향이 크기 때문입니다.",
       "impactSignals": [],
-      "dedupeKey": "환율·집값 리스크 지속…2월 금리 동결 전망",
+      "dedupeKey": "환율·집값 리스크, 2월 금리 동결 전망",
       "clusterKey": "2월",
       "matchedTo": null,
       "sourceName": "이데일리TV",
@@ -505,34 +519,7 @@
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며 간결하게 요약되었습니다. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-02-23_18",
-      "date": "2026-02-23",
-      "category": "경제",
-      "title": "월가 실적 전망치 편차 확대…젠슨 황 발언에 '주목'",
-      "summary": [
-        "월가의 실적 전망치 편차가 커지고 있다는 소식입니다.",
-        "젠슨 황의 발언 또한 주목받고 있습니다."
-      ],
-      "whyImportant": "월가 실적 전망치 변동성 확대와 젠슨 황 발언의 시장 영향력.",
-      "importanceRationale": "근거: 월가 실적 전망치의 편차가 커지고 있으며, 젠슨 황의 발언이 시장에 미치는 영향력이 크기 때문입니다.",
-      "impactSignals": [],
-      "dedupeKey": "wall-street-earnings-outlook-variance-and-jensen-hwang-speech",
-      "clusterKey": "마켓인",
-      "matchedTo": null,
-      "sourceName": "마켓인",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA3VnhUVURVVlpuaW1ZM1BKSjhRbFdLcG94bm4zMldFeWJSaGs3Rl8zc01hWXFnLVhiREdjcXFOSWZXb29iWVZ4bjIzWWNLZHVlWXNfS3diOTFaS0wxVThsVk1rUlFVb0dDMmJETWo2T3Fsdzg?oc=5",
-      "publishedAt": "2026-02-23T11:28:37.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 50,
-      "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 간결하게 핵심 내용을 전달합니다. / 근거부족",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었습니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -540,44 +527,42 @@
       "id": "2026-02-23_19",
       "date": "2026-02-23",
       "category": "경제",
-      "title": "[포토] 저축은행 CEO 만난 금융위원장",
+      "title": "Mony Group (LON:MONY), 분기별 실적 발표",
       "summary": [
-        "금융위원장이 저축은행 CEO를 만났습니다.",
-        "자세한 내용은 매일경제TV에서 확인할 수 있습니다."
+        "Mony Group (LON:MONY)가 분기별 실적을 발표했습니다."
       ],
-      "whyImportant": "금융당국 수장이 저축은행 CEO를 만난 것은 이례적인 행보입니다.",
-      "importanceRationale": "근거: 금융위원장이 저축은행 CEO를 만난 사실은 금융 정책 방향에 대한 중요한 신호일 수 있습니다.",
+      "whyImportant": "기업의 실적 발표는 투자자와 시장 분석가에게 중요한 정보입니다.",
+      "importanceRationale": "근거: 기업의 실적은 회사의 재무 건전성과 성장 잠재력을 평가하는 데 사용됩니다.",
       "impactSignals": [],
-      "dedupeKey": "20240130_저축은행CEO만난금융위원장",
-      "clusterKey": "ceo",
+      "dedupeKey": "Mony Group (LON:MONY) Announces Quarterly Earnings Results",
+      "clusterKey": "announces",
       "matchedTo": null,
-      "sourceName": "매일경제TV",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBPVWFlZzdzcXFoTFFKV3dzQUpxb2lYNy1mdGVMdFV3NGh4T0tzUHN0Q0VKOUJ0Z3ZFX0MxRXlUbVpkVzJKdkxLY0tFdGZEWDBQTnZPUlJaZFJmcjdINUhjczZLV2VCcUlI?oc=5",
-      "publishedAt": "2026-02-23T08:37:00.000Z",
+      "sourceName": "MarketBeat",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMXpTYVRZOVJVY2k4d2hVRkxiSnZtby0tSXotN3BGaWhvdFZhZktRenRUZk1vUS1oUDFZd0o1LTVwa2ZpWFVLRFYyVWlQVGVXRENvbVhGNDVHdWxfSW94N0lOM2w1MkVzSllQUTVVS1hmN2R6VzNzN3J6RGtPY1lrZUJkZ05LWWJCMWJxSzJMSG83bzlPMzVycll3VTBYcl93MEZLTzdiWVRtSFpCdVE?oc=5",
+      "publishedAt": "2026-02-23T12:06:23.000Z",
       "readTimeSec": 10,
       "status": "kept",
       "importance": 2,
       "importanceRaw": 50,
       "qualityLabel": "ok",
-      "qualityReason": "기사에 사실적인 정보가 포함되어 있습니다. / 근거부족",
+      "qualityReason": "The article provides a factual statement about an earnings announcement. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-02-23_20",
       "date": "2026-02-23",
-      "category": "국제",
-      "title": "[N2 포커스] 애플, 수억 대 기기 '제로데이' 취약점 긴급 패치",
+      "category": "기술",
+      "title": "[N2 포커스] 애플, 수억 대 기기 '제로데이' 비상… 긴급 패치 발표",
       "summary": [
-        "애플이 수억 대 기기에 영향을 미치는 '제로데이' 취약점에 대한 긴급 패치를 발표했습니다.",
-        "이번 패치는 즉각적인 보안 업데이트를 권고합니다."
+        "애플이 수억 대 기기에 대한 '제로데이' 공격에 대한 긴급 패치를 발표했습니다."
       ],
-      "whyImportant": "제로데이 취약점은 공격에 즉시 사용될 수 있어 매우 위험합니다.",
-      "importanceRationale": "근거: 제로데이 공격은 개발자가 인지하기도 전에 공격이 발생하므로, 사용자에게 미치는 잠재적 피해가 매우 큽니다. 즉각적인 패치를 통해 보안 위험을 최소화해야 합니다.",
+      "whyImportant": "애플 기기 사용자들은 즉시 패치를 적용하여 보안 취약점을 해결해야 합니다.",
+      "importanceRationale": "근거: 제로데이 공격은 발견 즉시 악용될 수 있어 사용자에게 즉각적인 위협이 됩니다.",
       "impactSignals": [
         {
           "label": "security",
-          "evidence": "제로데이 취약점은 즉각적인 보안 위협을 야기함"
+          "evidence": "제로데이 공격에 대한 긴급 패치 발표"
         }
       ],
       "dedupeKey": "apple-zero-day-emergency-patch",
@@ -591,7 +576,7 @@
       "importance": 4.5,
       "importanceRaw": 88,
       "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 내용이 일치하며, 핵심 정보를 간결하게 전달합니다.",
+      "qualityReason": "제목과 내용이 일치하며, 핵심 정보를 요약했습니다.",
       "isBriefing": false,
       "isBreaking": true
     }
