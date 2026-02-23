@@ -3,26 +3,22 @@
   "selectionCriteria": "① 내일도 영향이 남는 이슈 ② 과도한 감정 소모 제외 ③ 어제와 중복되는 뉴스 제외",
   "editorNote": "이 뉴스는 클릭 수가 아니라 오늘 이후에도 남는 정보만 기준으로 편집했습니다.",
   "question": "정보를 덜 보는 것이 오히려 더 똑똑한 소비일까?",
-  "lastUpdatedAt": "2026-02-24T03:00:18.969+09:00",
+  "lastUpdatedAt": "2026-02-24T04:16:59.921+09:00",
   "items": [
     {
       "id": "2026-02-24_1",
       "date": "2026-02-24",
       "category": "기술",
-      "title": "억만장자가 Nvidia 및 AMD 주식을 매각하고 이 AI 주식을 매수",
+      "title": "억만장자가 Nvidia 및 AMD 주식을 매각하고 이러한 AI 주식을 매수했습니다.",
       "summary": [
-        "한 억만장자가 Nvidia와 AMD 주식을 매각했습니다.",
-        "매각 자금으로 AI 주식을 매수했습니다."
+        "한 억만장자가 Nvidia와 AMD 주식을 매각하고 인공지능(AI) 관련 주식을 매수한 것으로 알려졌습니다.",
+        "구체적인 매수 대상 AI 주식은 공개되지 않았습니다.",
+        "이번 주식 거래는 투자 전략의 변화를 시사합니다."
       ],
-      "whyImportant": "AI 주식 시장의 투자 동향 변화를 보여줍니다.",
-      "importanceRationale": "근거: 억만장자의 투자 결정은 시장에 큰 영향을 미칠 수 있으며, 투자자들이 AI 관련 주식에 대한 관심이 높아지고 있음을 시사합니다.",
-      "impactSignals": [
-        {
-          "label": "market-demand",
-          "evidence": "AI 주식 매수는 해당 분야에 대한 시장 수요 증가를 의미합니다."
-        }
-      ],
-      "dedupeKey": "billionaire-sells-nvidia-amd-buys-ai",
+      "whyImportant": "AI 분야에 대한 투자 동향을 파악하는 데 중요합니다.",
+      "importanceRationale": "근거: 억만장자의 투자 결정은 시장에 영향을 미칠 수 있으며, 특히 성장하고 있는 AI 분야에 대한 투자 심리를 반영할 수 있습니다.",
+      "impactSignals": [],
+      "dedupeKey": "billionaire-ai-stock-move",
       "clusterKey": "amd",
       "matchedTo": null,
       "sourceName": "The Motley Fool",
@@ -30,15 +26,42 @@
       "publishedAt": "2026-02-23T16:14:00.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 3.5,
+      "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었습니다.",
+      "qualityReason": "제목과 본문이 일치하며, 간결하게 요약되었습니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-02-24_2",
+      "date": "2026-02-24",
+      "category": "경제",
+      "title": "애리조나州 1월 세수, 예상보다 1,600만 달러 부족",
+      "summary": [
+        "애리조나주의 1월 세수가 예상치를 1,600만 달러 하회했다.",
+        "Law360에 따르면, 이는 정책 및 수익에 영향을 미칠 수 있다."
+      ],
+      "whyImportant": "세수 부족은 주 정부의 예산 및 정책 결정에 영향을 미칠 수 있다.",
+      "importanceRationale": "근거: 애리조나주의 세수 감소는 재정 정책 조정의 필요성을 야기하며, 이는 주 정부의 투자 및 서비스 제공 능력에 직접적인 영향을 미친다.",
+      "impactSignals": [],
+      "dedupeKey": "arizona_revenue_jan_misses_forecast",
+      "clusterKey": "16m",
+      "matchedTo": null,
+      "sourceName": "Law360",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNOU5mZUl5YWVEclpDdkg0bFQ0czRTa3ZkdDJ6dW9PY0ZHcUpNb3hhTUQ2OG5RTnV0c001OExHb0gxcjRLR3ZtOS04U3RvWEUxanlnWWhHci1nS01JWi1YRFdYUHFMdS16VHVYUjU0TnFKRDNMRVNWbENQZGdVWUhsSlBFUGl6U0FCQ3FuaUhEa3fSAWhBVV95cUxQMGVESVMzdGJCd3lzUE5ZOElpSWp2M2FyUFptN1diUEpWdUsxRlFvWjFNRGtDYTFyQTh0ZXdmRkk1Njllb0J5dXlWaEZ1ZVZGUEdjNE9kMHlhTTY5Zk53ekdxSUhQUllBbQ?oc=5",
+      "publishedAt": "2026-02-23T18:34:00.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 50,
+      "qualityLabel": "ok",
+      "qualityReason": "The article provides a clear and concise statement of facts. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-02-24_3",
       "date": "2026-02-24",
       "category": "국제",
       "title": "이, 남미와 무역협정 협상 재개… 룰라, 희토류 투자 요청",
@@ -46,8 +69,8 @@
         "이(李)는 남미 국가들과의 무역 협정 협상 재개를 발표했습니다.",
         "룰라 대통령은 한국에 희토류 투자를 요청했습니다."
       ],
-      "whyImportant": "한국과 남미 간의 무역 관계 강화 및 희토류 투자 가능성을 시사합니다.",
-      "importanceRationale": "근거: 한국 정부가 남미 국가들과의 무역 협정 협상을 재개하고, 룰라 대통령이 한국에 희토류 투자를 요청함에 따라 경제적 협력 관계가 강화될 수 있음을 나타냅니다.",
+      "whyImportant": "한국과 남미 간의 무역 관계 강화 및 희토류 투자 가능성을 보여주는 정책 발표입니다.",
+      "importanceRationale": "근거: 한국 정부가 남미 국가들과의 무역 협정 협상을 재개하고, 룰라 대통령이 한국에 희토류 투자를 요청한 것은 양 지역 간의 경제 협력 강화 가능성을 시사합니다.",
       "impactSignals": [],
       "dedupeKey": "20240617-남미무역협정재개",
       "clusterKey": "남미와",
@@ -60,12 +83,12 @@
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었습니다. / 근거부족",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 핵심 내용을 전달합니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-02-24_3",
+      "id": "2026-02-24_4",
       "date": "2026-02-24",
       "category": "국제",
       "title": "랜섬웨어 대비는 직장에서의 안 좋은 하루와 직장 폐쇄의 차이입니다",
@@ -87,28 +110,23 @@
       "importance": 2,
       "importanceRaw": 88,
       "qualityLabel": "ok",
-      "qualityReason": "기사의 내용이 명확하고 간결합니다. / 근거부족",
+      "qualityReason": "The article clearly states the importance of ransomware readiness. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-02-24_4",
+      "id": "2026-02-24_5",
       "date": "2026-02-24",
       "category": "국제",
       "title": "중국, 반도체 장비 사용 규제 강화로 자급화 가속",
       "summary": [
-        "중국이 반도체 장비의 자국산 사용 비율을 높이기 위해 새로운 규제를 도입할 가능성이 제기됨.",
-        "50% 이상의 자국산 장비 사용을 의무화하여 외국 기업의 팹(fab) 승인을 제한할 수 있다는 내용임.",
-        "이는 중국의 반도체 자급자족을 가속화하려는 정책적 움직임으로 해석됨."
+        "중국이 반도체 제조 시설 승인 조건으로 자국산 장비 사용 비율 50% 이상을 요구하고 있다.",
+        "이는 중국 반도체 산업의 자급자족을 가속화하기 위한 비관세 장벽으로 해석된다.",
+        "해당 조치는 외국 반도체 장비 기업에 불리하게 작용할 수 있다."
       ],
-      "whyImportant": "중국의 반도체 장비 자국산 사용 의무화 정책은 글로벌 반도체 시장에 큰 영향을 미칠 수 있습니다.",
-      "importanceRationale": "근거: 중국 정부의 정책 변화는 반도체 장비 시장의 경쟁 구도를 바꾸고, 관련 기업들의 투자 및 생산 전략에 영향을 줄 수 있기 때문입니다.",
-      "impactSignals": [
-        {
-          "label": "policy",
-          "evidence": "중국 정부가 반도체 장비의 자국산 사용 비율을 50% 이상으로 규제할 가능성이 있다는 내용"
-        }
-      ],
+      "whyImportant": "중국의 반도체 장비 사용 규제는 글로벌 반도체 시장에 큰 영향을 미칠 수 있다.",
+      "importanceRationale": "근거: 중국 정부의 정책 변화는 반도체 산업의 공급망 재편과 경쟁 구도에 직접적인 영향을 미치기 때문이다.",
+      "impactSignals": [],
       "dedupeKey": "china_semiconductor_equipment_policy",
       "clusterKey": "반도체/반도체",
       "matchedTo": null,
@@ -117,15 +135,15 @@
       "publishedAt": "2026-02-23T06:08:00.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 4.5,
+      "importance": 2,
       "importanceRaw": 88,
       "qualityLabel": "ok",
-      "qualityReason": "기사의 내용이 명확하고 정책적 변화에 대한 정보를 제공함.",
+      "qualityReason": "기사 내용이 명확하고 정책 변화에 대한 정보를 제공함. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-02-24_5",
+      "id": "2026-02-24_6",
       "date": "2026-02-24",
       "category": "국제",
       "title": "주이란 대사관, 미국의 공격 가능성에 '항공편 있을 때 출국 권고'",
@@ -133,10 +151,15 @@
         "주이란 대사관은 미국의 공격 가능성에 대비하여 항공편이 있을 때 출국을 권고했습니다.",
         "이는 이란 내의 잠재적 위험 증가에 따른 조치입니다."
       ],
-      "whyImportant": "이란 내 미국 공격 가능성에 대한 한국 대사관의 안전 권고는 교민 안전에 중요한 지침입니다.",
-      "importanceRationale": "근거: 주이란 대사관이 직접 교민들에게 출국을 권고한 것은 이례적인 조치이며, 이는 현지 상황이 심각하게 악화될 수 있다는 판단에 따른 것입니다.",
-      "impactSignals": [],
-      "dedupeKey": "embassy-iran-attack-warning",
+      "whyImportant": "이란 내 미국 공격 가능성에 대한 한국 대사관의 안전 권고는 교민 안전에 직결되는 중요한 정보입니다.",
+      "importanceRationale": "근거: 주이란 대사관이 직접 교민들에게 출국을 권고한 것은 이례적인 상황이며, 이는 현지 안보 상황이 심각하게 악화될 가능성을 시사합니다.",
+      "impactSignals": [
+        {
+          "label": "security",
+          "evidence": "미국의 공격 가능성에 대비한 출국 권고"
+        }
+      ],
+      "dedupeKey": "주이란 대사관, 미국 공격 가능성에 출국 권고",
       "clusterKey": "가능성에",
       "matchedTo": null,
       "sourceName": "한국일보",
@@ -144,37 +167,10 @@
       "publishedAt": "2026-02-23T02:21:00.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 2,
+      "importance": 4.5,
       "importanceRaw": 88,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 내용이 간결하고 명확합니다. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-02-24_6",
-      "date": "2026-02-24",
-      "category": "경제",
-      "title": "[AI픽] 한컴, 작년 최대 실적 기록…AI 수익 모델 전환 효과",
-      "summary": [
-        "한컴이 작년에 최대 실적을 기록했습니다.",
-        "이는 AI 수익 모델로의 전환이 효과를 보인 결과입니다."
-      ],
-      "whyImportant": "한컴의 AI 수익 모델 전환 성공은 다른 기업들에게도 중요한 참고 사례가 될 수 있습니다.",
-      "importanceRationale": "근거: 한컴이 AI 수익 모델 전환을 통해 최대 실적을 달성했다는 점은 해당 전략의 효과성을 입증하며, 이는 관련 업계에 중요한 시사점을 제공합니다.",
-      "impactSignals": [],
-      "dedupeKey": "hancom_ai_earnings_2024",
-      "clusterKey": "ai픽",
-      "matchedTo": null,
-      "sourceName": "연합뉴스 한민족센터",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1oN3phUUlNOThOX3Z2bnIzZXJSTzRDQjlCMS1mRDlkUGh2dF9WQTBGVm9mUS1nUVpabXZONkotaHAxb1d3T1FTUi1QVkE0Y1lHSVJBTC1DWHJGRFNqUzJSa1RLc3B3STdRTEE1dE41T1h0MU5R?oc=5",
-      "publishedAt": "2026-02-23T06:58:33.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 75,
-      "qualityLabel": "ok",
-      "qualityReason": "기사의 내용이 간결하고 명확하며, 핵심 정보를 잘 전달하고 있습니다. / 근거부족",
+      "qualityReason": "기사의 내용이 명확하고 출처가 분명합니다.",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -182,15 +178,42 @@
       "id": "2026-02-24_7",
       "date": "2026-02-24",
       "category": "기술",
-      "title": "안전한 양자 보안 광 전송, 일본 AI 데이터 센터 인프라 강화",
+      "title": "엔비디아, OpenAI의 대규모 자금 조달 라운드에 300억 달러 투자 근접 (출처: 로이터)",
       "summary": [
-        "일본의 AI 데이터 센터 인프라가 안전한 양자 보안 광 전송으로 강화되었습니다.",
-        "이는 데이터 센터의 보안을 강화하는 데 기여합니다."
+        "엔비디아가 OpenAI의 대규모 자금 조달 라운드에 300억 달러를 투자할 가능성이 있다고 소식통이 밝혔습니다.",
+        "이번 투자는 엔비디아의 AI 분야에서의 영향력을 더욱 확대할 것으로 예상됩니다."
       ],
-      "whyImportant": "양자 컴퓨팅 시대에 대비한 데이터 보안 강화는 중요합니다.",
-      "importanceRationale": "근거: 양자 컴퓨터의 발전은 기존 암호 체계를 무력화할 수 있으므로, 양자 내성 암호 기술을 적용한 광 전송 시스템은 데이터 센터의 장기적인 보안을 보장하는 데 필수적입니다.",
+      "whyImportant": "엔비디아의 OpenAI 투자는 AI 기술 발전과 시장 경쟁에 중요한 영향을 미칠 수 있습니다.",
+      "importanceRationale": "근거: 엔비디아의 대규모 투자는 OpenAI의 연구 개발 및 사업 확장을 가속화하고, AI 기술 경쟁 환경에 변화를 가져올 수 있기 때문입니다.",
       "impactSignals": [],
-      "dedupeKey": "quantum-safe-optical-transport-japan-ai-data-center",
+      "dedupeKey": "nvidia-openai-30b-investment",
+      "clusterKey": "billion",
+      "matchedTo": null,
+      "sourceName": "Reuters",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNc3dhTXN0WlA0X01NTHdRS3BPYzVNZVUxbmhoUHhYc3hKNFQzdm12VTdnc3VlQV9mUWRYSE1nYVJpQ2VoeHpzMFM4UVY0cTJ1aTlSUXVyNWhUdTFPeHM5SmduRTZJUmM1V1NQa1hKejM3SDhQSkRKR2ZUZklVUlg1TVlfOFdBSmYtZXAydVN1Ynk5S0VnZkZDVUpINmJEUG51UEZoYloxck5XLWVMVVBrTkM0ajlBd1pWeFE3aEVVWQ?oc=5",
+      "publishedAt": "2026-02-20T08:57:43.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 75,
+      "qualityLabel": "ok",
+      "qualityReason": "The article is a factual report from Reuters. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-02-24_8",
+      "date": "2026-02-24",
+      "category": "기술",
+      "title": "안전한 양자 내성 광 전송, 일본 AI 데이터 센터 인프라 강화",
+      "summary": [
+        "일본의 AI 데이터 센터 인프라가 안전한 양자 내성 광 전송으로 강화되었습니다.",
+        "이는 디지털 감시 관측소의 발표 내용입니다."
+      ],
+      "whyImportant": "양자 내성 암호화 기술은 데이터 센터의 보안을 강화하고 미래의 양자 컴퓨팅 공격으로부터 보호합니다.",
+      "importanceRationale": "근거: 데이터 센터 인프라의 보안 강화는 데이터 유출 및 사이버 공격으로부터 중요한 데이터를 보호하는 데 필수적입니다. 특히 AI 데이터 센터는 대량의 민감한 정보를 처리하므로 더욱 중요합니다.",
+      "impactSignals": [],
+      "dedupeKey": "quantum-safe-japan-datacenter",
       "clusterKey": "data",
       "matchedTo": null,
       "sourceName": "Digital Watch Observatory",
@@ -201,12 +224,70 @@
       "importance": 2,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "The article is concise and directly relates to the title. / 근거부족",
+      "qualityReason": "제목과 본문이 일치하며, 정보가 명확합니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-02-24_8",
+      "id": "2026-02-24_9",
+      "date": "2026-02-24",
+      "category": "정책",
+      "title": "'자사주 의무 소각' 3차 상법 개정안, 국회 법사위 통과(종합)",
+      "summary": [
+        "자사주 의무 소각을 골자로 하는 3차 상법 개정안이 국회 법제사법위원회를 통과했습니다."
+      ],
+      "whyImportant": "이번 개정안은 기업의 자사주 활용 방식에 큰 변화를 가져올 수 있습니다.",
+      "importanceRationale": "근거: 자사주 의무 소각 조항은 기업의 주주 환원 정책 및 경영 전략에 직접적인 영향을 미치므로 중요합니다.",
+      "impactSignals": [],
+      "dedupeKey": "자사주 의무소각 3차 상법 개정안 국회 법사위 통과",
+      "clusterKey": "3차",
+      "matchedTo": null,
+      "sourceName": "연합인포맥스",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5BUEpWOHdjYWpucWczWHR4T2xDTXRTNXlxcGl2dFBuMHJTRVFSZ05pMTU3ZGw0OGtHcV9yX2VldkJoU2V6V1daV01DdXBxaHRhZ1lXVm5uT1dNazRWeVdSNFE5c2tBd3pDam44TzZxN18?oc=5",
+      "publishedAt": "2026-02-23T09:40:40.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 75,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었습니다. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-02-24_10",
+      "date": "2026-02-24",
+      "category": "기술",
+      "title": "Advantest Corporation 랜섬웨어 공격: 내부 IT 시스템 및 공급망 보안에 영향을 미치는 2026년 사이버 사건",
+      "summary": [
+        "Advantest Corporation이 2026년에 발생한 랜섬웨어 공격으로 인해 내부 IT 시스템과 공급망 보안에 영향을 받았습니다.",
+        "이번 사이버 공격은 Rescana에 의해 보고되었습니다."
+      ],
+      "whyImportant": "Advantest Corporation의 랜섬웨어 공격은 반도체 산업의 공급망 보안에 대한 우려를 제기합니다.",
+      "importanceRationale": "근거: Advantest는 반도체 테스트 장비의 주요 공급업체이며, 그들의 시스템 침해는 광범위한 영향을 미칠 수 있습니다. 특히 공급망 보안에 미치는 영향은 중요합니다.",
+      "impactSignals": [
+        {
+          "label": "security",
+          "evidence": "랜섬웨어 공격으로 내부 IT 시스템 및 공급망 보안에 영향"
+        }
+      ],
+      "dedupeKey": "advantest_ransomware_2026",
+      "clusterKey": "advantest",
+      "matchedTo": null,
+      "sourceName": "Rescana",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPN1ladE9mZER6SWhFTERMX1pqbmpSeTVaNkdRdXBqVVZOWnRaRFFyQUpUazNtOHdCRzR5RUtXRlVBTFpNUFV0cjZGUld6b3JUVnhkLUdaMklTY3Q1SXdoaHUwY2xyZFpYUW5PYWxVLV9SYnlHQXRMWDNYaGxsMy1qTmtaX1A0dV9nSlFfWmZrZWNUbi1qNGZTMXh2aTN2Rk9nd3VLVmZQa0NwMmJJM3RHc1ZaVk85dWdsTDVuM3QxZHRMYU13TXU0?oc=5",
+      "publishedAt": "2026-02-22T14:01:38.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 4,
+      "importanceRaw": 75,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 본문이 일치하며, 정보가 명확합니다.",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-02-24_11",
       "date": "2026-02-24",
       "category": "에너지",
       "title": "구글, 데이터 센터 전력 공급 위해 Ormat Technologies와 150MW 규모의 지열 에너지 계약 체결",
@@ -233,34 +314,7 @@
       "isBreaking": false
     },
     {
-      "id": "2026-02-24_9",
-      "date": "2026-02-24",
-      "category": "기술",
-      "title": "백악관, 무역 전략 전환: 법률 및 공급망 문제 증가로 임시 관세 부과",
-      "summary": [
-        "백악관이 무역 전략을 전환하여 임시 관세를 부과했습니다.",
-        "이는 법률 및 공급망 관련 문제들이 증가함에 따른 조치입니다."
-      ],
-      "whyImportant": "미국 무역 정책의 변화를 보여주는 사례입니다.",
-      "importanceRationale": "근거: 백악관의 무역 전략 변화와 임시 관세 부과는 국제 무역 관계 및 공급망에 영향을 미칠 수 있습니다.",
-      "impactSignals": [],
-      "dedupeKey": "WhiteHouseTradePivotTariff",
-      "clusterKey": "house",
-      "matchedTo": null,
-      "sourceName": "logisticsmgmt.com",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNWkRCWDhicnRTcjJwNW5zcGgwX214OTU1WF8xZDUzZm8zem1VcTZIOEdzamhkZlI3eHdLYlF2TUJUcE43ZUgyV1BSNnJRUHBpT01FdTFFQTlqLW9Da2VXclpzaUlnbVN3RlY4MUttazRfaE9jTUJmek5pUVJQU3g1cFN0N2sxQ3dyQWFIRWJncDRacVo4Rk9JOXoyd2RHRmlPY1RWWFJ6S0YwdE1YRDZxcFBmNEw2R0MyQmtmd3RHQW1uMi1VS2xXWmNLLTJneFVYcDJ0MVhVcF8?oc=5",
-      "publishedAt": "2026-02-23T16:47:46.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 63,
-      "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 간결하게 요약되었습니다. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-02-24_10",
+      "id": "2026-02-24_12",
       "date": "2026-02-24",
       "category": "정책",
       "title": "오늘 스테이블코인법 여당안 가닥…51%룰·지분 규제 ‘불씨’",
@@ -268,12 +322,12 @@
         "오늘 스테이블코인 법안 여당안의 가닥이 잡혔습니다.",
         "51%룰 및 지분 규제가 쟁점이 될 수 있습니다."
       ],
-      "whyImportant": "스테이블코인 법안의 주요 내용과 쟁점을 파악하는 것이 중요합니다.",
-      "importanceRationale": "근거: 스테이블코인 법안은 암호화폐 시장에 큰 영향을 미칠 수 있으며, 특히 51%룰 및 지분 규제는 시장 참여자들에게 중요한 고려 사항입니다.",
+      "whyImportant": "스테이블코인 법안의 내용이 결정될 예정이며, 이는 암호화폐 시장에 영향을 줄 수 있습니다.",
+      "importanceRationale": "근거: 스테이블코인 법안의 주요 내용이 결정되면 암호화폐 시장의 규제 환경에 변화를 가져올 수 있기 때문입니다.",
       "impactSignals": [
         {
           "label": "policy",
-          "evidence": "스테이블코인 법안의 여당안 가닥 및 규제 관련 내용"
+          "evidence": "스테이블코인 법안의 여당안 가닥이 잡히면서 정책 변화 가능성이 제기됨"
         }
       ],
       "dedupeKey": "오늘 스테이블코인법 여당안 가닥…51%룰·지분 규제 ‘불씨’",
@@ -287,65 +341,7 @@
       "importance": 3.5,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 핵심 내용을 요약했습니다.",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-02-24_11",
-      "date": "2026-02-24",
-      "category": "에너지",
-      "title": "미국, 2028년까지 300MW 규모의 해상 부유식 원자력 발전소 배치 계획",
-      "summary": [
-        "미국이 2028년까지 300MW 규모의 해상 부유식 원자력 발전소를 배치할 계획이다.",
-        "이는 해양 통찰력(Marine Insight)에 의해 보도되었다."
-      ],
-      "whyImportant": "해상 부유식 원자력 발전소 배치는 에너지 산업에 상당한 자본 지출(CAPEX)을 의미하며, 미래 에너지 생산 방식에 대한 중요한 변화를 나타낸다.",
-      "importanceRationale": "근거: 300MW 규모의 해상 부유식 원자력 발전소 배치는 막대한 자본 투자를 필요로 하며, 이는 에너지 시장에 큰 영향을 미칠 수 있다. 새로운 기술 도입과 관련된 투자 결정은 경제적, 환경적 측면에서 중요한 고려 사항이다.",
-      "impactSignals": [
-        {
-          "label": "capex",
-          "evidence": "300MW 해상 부유식 원자력 발전소 건설 및 배치 계획"
-        }
-      ],
-      "dedupeKey": "US_FLOATING_NUCLEAR_PLANT_20231027",
-      "clusterKey": "에너지/300mw",
-      "matchedTo": null,
-      "sourceName": "Marine Insight",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiywJBVV95cUxQd0R2WW1UZGpTR244VjE1TklZTEVjLXRYRXZSSE9TaEQxWHR2U0xZZlFVM3JIZlFrcXN1ZUZjSnN4V0RzamJkZUdmbkFncGZidDlQN29tVzFLczJnSWlROS1RZ01zeXpENGJwX1Q3bHlQM2VpZ0xCV05TaXpOeVkxTm44V3pSeG1QRGdYTThocEc3SVlLdkxOdzFLalZzY2VTRXBSSXpaQ2I1ZVh2TzA2aEVsal9WWDJHTDczY1B6dFpmd2hlaDh6VDRCNTFWbE1ManBzeUdOV09HMS1BVF84NUgtOVR2cnBuamJVaUw3ampBMXpDbUVzMU9URXlpbVJZNVROUkYwWm9CTVNLQUZwVmFVbUh3ZWU0ZzFNSkZ1RzBGTnl2XzNCQmJnY0NMbHozSm50ZjA1aWU1ZTJydjNxZHBLWVJuQ3ZlMlcw?oc=5",
-      "publishedAt": "2026-02-23T14:18:29.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 3.5,
-      "importanceRaw": 63,
-      "qualityLabel": "ok",
-      "qualityReason": "정보가 명확하고 간결하게 제시됨",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-02-24_12",
-      "date": "2026-02-24",
-      "category": "정책",
-      "title": "'자사주 의무 소각' 3차 상법 개정안, 국회 법사위 통과(종합)",
-      "summary": [
-        "자사주 의무 소각을 골자로 하는 3차 상법 개정안이 국회 법제사법위원회를 통과했습니다."
-      ],
-      "whyImportant": "자사주 의무 소각 관련 법안 통과",
-      "importanceRationale": "근거: 자사주 의무 소각 관련 법안이 통과됨으로써 기업 정책에 영향을 미칠 수 있습니다.",
-      "impactSignals": [],
-      "dedupeKey": "자사주 의무소각 법안 통과",
-      "clusterKey": "3차",
-      "matchedTo": null,
-      "sourceName": "연합인포맥스",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5BUEpWOHdjYWpucWczWHR4T2xDTXRTNXlxcGl2dFBuMHJTRVFSZ05pMTU3ZGw0OGtHcV9yX2VldkJoU2V6V1daV01DdXBxaHRhZ1lXVm5uT1dNazRWeVdSNFE5c2tBd3pDam44TzZxN18?oc=5",
-      "publishedAt": "2026-02-23T09:40:40.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 63,
-      "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 정보가 명확합니다. / 근거부족",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었습니다.",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -357,15 +353,15 @@
       "summary": [
         "저스템은 작년 매출액이 483억원으로 창사 이래 최대를 기록했다고 발표했다."
       ],
-      "whyImportant": "저스템의 매출 증가는 회사의 성장세를 보여주는 지표입니다.",
-      "importanceRationale": "근거: 저스템의 매출액이 창사 이래 최대치를 기록했다는 것은 회사의 사업 확장이 성공적으로 이루어지고 있음을 시사한다.",
+      "whyImportant": "저스템의 매출 증가는 회사의 성장세를 보여주는 중요한 지표이다.",
+      "importanceRationale": "근거: 저스템의 매출액 증가는 기업의 성장과 수익성 개선을 나타내며, 이는 투자 및 시장 평가에 긍정적인 영향을 미칠 수 있다.",
       "impactSignals": [
         {
           "label": "earnings",
-          "evidence": "지난해 매출 483억원으로 창사 이래 최대 매출액 기록"
+          "evidence": "작년 매출 483억원으로 창사 이래 최대 매출액 기록"
         }
       ],
-      "dedupeKey": "jerstem_sales_2023",
+      "dedupeKey": "jerstem-record-sales-2023",
       "clusterKey": "483억원",
       "matchedTo": null,
       "sourceName": "디일렉",
@@ -376,7 +372,7 @@
       "importance": 3.5,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "The article provides a clear and factual statement about the company's revenue.",
+      "qualityReason": "The article provides a clear and concise report of the company's earnings.",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -389,9 +385,9 @@
         "국회도서관은 개관 74주년을 기념하여 '최우수 국회의원' 8명을 시상했습니다."
       ],
       "whyImportant": "국회도서관의 최우수 국회의원 시상은 국회의원의 입법 활동을 장려하고 국회도서관의 역할을 강조합니다.",
-      "importanceRationale": "근거: 국회도서관이 개관 74주년을 맞아 최우수 국회의원을 시상했다는 사실은 국회의원의 의정 활동에 대한 평가와 중요성을 나타냅니다.",
+      "importanceRationale": "근거: 국회도서관이 개관 74주년을 맞아 국회의원의 의정 활동을 평가하여 시상함으로써, 의정 활동의 질적 향상을 도모하고 국회도서관의 중요성을 부각합니다.",
       "impactSignals": [],
-      "dedupeKey": "국회도서관, 개관 74주년 기념 ‘최우수 국회의원’ 8명 시상",
+      "dedupeKey": "국회도서관_개관74주년_최우수국회의원_8명_시상",
       "clusterKey": "74주년",
       "matchedTo": null,
       "sourceName": "대한일보",
@@ -402,7 +398,7 @@
       "importance": 2,
       "importanceRaw": 50,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며 간결하게 요약되었습니다. / 근거부족",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었습니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -410,15 +406,68 @@
       "id": "2026-02-24_15",
       "date": "2026-02-24",
       "category": "경제",
+      "title": "환율·집값 리스크 지속…2월 금리 동결 전망",
+      "summary": [
+        "환율과 집값 리스크가 지속됨에 따라 2월 금리 동결 전망이 나오고 있습니다."
+      ],
+      "whyImportant": "2월 금리 결정에 영향을 미칠 수 있는 요인을 제시합니다.",
+      "importanceRationale": "근거: 환율 및 집값 리스크가 금리 결정에 중요한 고려 사항임을 나타냅니다.",
+      "impactSignals": [],
+      "dedupeKey": "환율·집값 리스크 지속…2월 금리 동결 전망",
+      "clusterKey": "2월",
+      "matchedTo": null,
+      "sourceName": "이데일리TV",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9pRE5HRGU5RXI5VWVqQlFRWGM3aUdnM1NHa1ZJTl9rcXctN1FieDV2VFVQdk9BYWN3eTZaY3hxelVod2tHeXBTQzdLOVF5anpBeXVxeE9MeF9xeHVMSmNScUFCc0I2QTlIbHhxa2NVNVdjeEN4d1hLUk5Jaw?oc=5",
+      "publishedAt": "2026-02-22T20:10:00.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 50,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었습니다. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-02-24_16",
+      "date": "2026-02-24",
+      "category": "경제",
+      "title": "Onto Innovation 4분기 실적 발표 주요 내용",
+      "summary": [
+        "Onto Innovation의 4분기 실적 발표 주요 내용이 공개되었습니다.",
+        "자세한 내용은 야후 파이낸스에서 확인할 수 있습니다."
+      ],
+      "whyImportant": "Onto Innovation의 실적 정보를 파악하는 데 중요합니다.",
+      "importanceRationale": "근거: 기업의 실적 발표는 투자 및 시장 분석에 중요한 지표로 활용될 수 있습니다.",
+      "impactSignals": [],
+      "dedupeKey": "Onto Innovation Q4 Earnings Call Highlights",
+      "clusterKey": "call",
+      "matchedTo": null,
+      "sourceName": "Yahoo Finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTHBoelRpcElHbDNSQkRtMVc5S3l3SWkzcGxhY2UyTldTdms1a3otVXEyR0g5MFZSVHMtRTc5a0tlXzExaDdVN29KeHRsQUhzbVdHWmJFaWhLMEx2MjdqRERULVhsS1lFQnlPYlBYTmRGUkprcHNOMDBPR3k0aWhVd1lvWkM?oc=5",
+      "publishedAt": "2026-02-23T18:13:42.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 50,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 내용이 일치하며, 정보가 간결하게 제공됨. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-02-24_17",
+      "date": "2026-02-24",
+      "category": "경제",
       "title": "ACV 옥션 실적 발표: 수익성 유지될까?",
       "summary": [
         "ACV 옥션의 실적 발표가 있을 예정입니다.",
         "수익성 유지가 관건입니다."
       ],
-      "whyImportant": "ACV 옥션의 수익성 유지 여부는 투자자와 시장에 중요한 지표가 될 수 있습니다.",
-      "importanceRationale": "근거: ACV 옥션의 실적 발표는 기업의 재무 건전성과 성장 가능성을 평가하는 데 중요한 자료를 제공하며, 이는 투자 결정에 직접적인 영향을 미칠 수 있습니다.",
+      "whyImportant": "ACV 옥션의 수익성 유지 여부는 투자자들에게 중요한 정보입니다.",
+      "importanceRationale": "근거: ACV 옥션의 실적 발표는 기업의 재무 건전성과 성장 가능성을 평가하는 데 중요한 지표가 됩니다.",
       "impactSignals": [],
-      "dedupeKey": "ACV옥션실적발표:수익성유지될까?",
+      "dedupeKey": "ACV 옥션 실적 발표: 수익성 유지될까?",
       "clusterKey": "acv",
       "matchedTo": null,
       "sourceName": "Investing.com 한국어",
@@ -429,63 +478,7 @@
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 내용이 일치하며, 핵심 내용을 요약했습니다. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-02-24_16",
-      "date": "2026-02-24",
-      "category": "경제",
-      "title": "향상된 2025-26년 수익 지침 및 내부자 구매가 APi 그룹(APG)에 대한 강세론을 변화시킬까요?",
-      "summary": [
-        "APi 그룹(APG)의 2025-26년 수익 지침이 상향 조정되었습니다.",
-        "내부자 구매가 있었는지 확인해야 합니다.",
-        "이러한 요소들이 APi 그룹에 대한 강세론에 어떤 영향을 미치는지 분석해야 합니다."
-      ],
-      "whyImportant": "APi 그룹의 미래 수익 전망과 내부자 신뢰도를 파악하는 데 중요합니다.",
-      "importanceRationale": "근거: 수익 지침 상향 조정은 회사의 성장 가능성을 시사하며, 내부자 구매는 경영진의 회사에 대한 자신감을 나타낼 수 있기 때문입니다.",
-      "impactSignals": [],
-      "dedupeKey": "APiGroup_20240110",
-      "clusterKey": "bull",
-      "matchedTo": null,
-      "sourceName": "simplywall.st",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOeWRUTFVoa28wZmRrRE5PeWVCZzA2eDN2aktFaDAxQnZHZzZ4Q3lOaE92WWFodW03aU9aZFg1aTcxT25NWGl4UXJWR21heDNwREQ2Y3F2TVVfNXVhWHo3cW5Ca1RKX1VScDgtRVIxMDVqS3JwZ2FyMHE2UEVGc1UyVGh2N2xOQU10VjlUTzlzSjFiRkF1OVJ2YnowUXFiXzY2YnlTVmdaVC1ySzE5X0o4Y25kR2VjQlRRVVRXMHRLc1hnSGlpbEcxRGRR0gHPAUFVX3lxTE9HSm1ULWFrNGliNHpLUU9acTE5UEFtVjM3LTJZd3hSanhSMTVDbVB1M011djdlaTdwY25UeEdaM3Nla2ZtWTIwdURVbWpOR2RpdXBEOFlaNUdqTUtkWUh5Y196b1dKeE9qY2p5TDIxdUVQUzg3RXlXSEZhVENSTUNneUg4R3JGenNHVUNHM2ZkUkl2bUJMc1VEOWltczVZMHpWYXlCelJIYlg3MDBjOXo3RFE2MG4yR1hHYjFtSDludFc2MGJnQjFTdEdCLUp0RQ?oc=5",
-      "publishedAt": "2026-02-23T17:07:54.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 63,
-      "qualityLabel": "ok",
-      "qualityReason": "The article directly reflects the provided title and text. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-02-24_17",
-      "date": "2026-02-24",
-      "category": "경제",
-      "title": "엔비디아의 실적 보고서가 더 이상 시장의 주요 동력이 아닌 이유",
-      "summary": [
-        "엔비디아의 실적 보고서가 과거만큼 시장에 큰 영향을 미치지 못하고 있다는 분석이 나왔다.",
-        "과거에는 엔비디아의 실적이 시장 전체의 방향을 가늠하는 중요한 지표였으나, 현재는 그 영향력이 감소했다.",
-        "자세한 이유는 기사에서 확인할 수 있다."
-      ],
-      "whyImportant": "이 보고서는 엔비디아의 실적 발표가 시장에 미치는 영향력 변화를 분석하므로 중요합니다.",
-      "importanceRationale": "근거: 엔비디아의 실적은 기술주 투자 심리에 중요한 영향을 미치며, 시장 전반의 분위기를 파악하는 데 도움이 될 수 있기 때문입니다.",
-      "impactSignals": [],
-      "dedupeKey": "nvidia_earnings_less_impact",
-      "clusterKey": "force",
-      "matchedTo": null,
-      "sourceName": "MarketWatch",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMirANBVV95cUxQTEZFaERsdXdjMHpCa2hod3l2VnQ0cTJOV010Y0pjaFdTaHRmRGxoSzE4dGFRamtYay1NSFA4WEhQdk9ZTFNmRks0MzFvQU5PZlowcmo0azEtSVJWX0VxYjctdVhIOUpzZkp4dWgtUzV5ejEyTjRNbnM2WlVmMXZuaFJ0akZlbjBWU3NySURzT0tKa3l4TTltQU9XZUdLS3BDaU9HMjAzb0pvXzdkQ09OUVZPWnFxQl9iQ19NN2t1VzFSSUJOclBvRnZnVTF2LXBfd3Q5eEJpTTBXS0FSYW9yblBwZVpRZnNfYlFtRVRoUDJHQk5CVktDWDd2NEVaaV9MY0FubzAxMWt5STFXN1VaNW44Yk1CNWUwZmY2M0ZWQUtjSEtTNWdlOVpDZ2dqanEzenBmdDV5ZzZSQTFVVk11b1ktYnc5UGN5TXZTZWVXeTJoX09rR09wbXdNRXIwZmdneFZZNk5kODR3RE9zc1hDQnRhOHp4eHh2WTdGeGpJdlA0ZzN0Z0tnb2s5bGFCVHZxU002TVRwQ0Npc1ZBc0lsUUFlUTh4MjVoRFFqMA?oc=5",
-      "publishedAt": "2026-02-23T16:38:00.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 63,
-      "qualityLabel": "ok",
-      "qualityReason": "기사의 제목과 내용이 일치하며, 핵심 내용을 잘 반영하고 있습니다. / 근거부족",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었습니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -498,10 +491,10 @@
         "한국은행 총재는 부동산 안정을 위해 궁극적으로 수도권 집중이 완화되어야 한다고 언급했습니다.",
         "이는 연합뉴스 한민족센터에서 보도되었습니다."
       ],
-      "whyImportant": "부동산 시장 안정화에 대한 한국은행의 정책 방향을 제시합니다.",
+      "whyImportant": "부동산 시장 안정화에 대한 한국은행의 정책 방향을 시사합니다.",
       "importanceRationale": "근거: 한국은행 총재의 발언은 향후 부동산 정책 및 수도권 분산 정책에 영향을 줄 수 있기 때문입니다.",
       "impactSignals": [],
-      "dedupeKey": "한은총재_부동산안정_수도권집중완화",
+      "dedupeKey": "20240603-한은총재-부동산안정",
       "clusterKey": "궁극적으로",
       "matchedTo": null,
       "sourceName": "연합뉴스 한민족센터",
@@ -512,34 +505,7 @@
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 내용을 충실히 반영하고 있습니다. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-02-24_19",
-      "date": "2026-02-24",
-      "category": "경제",
-      "title": "여전히 높은 환율…전문가 60% \"올해 금리인하 없다\"",
-      "summary": [
-        "환율이 여전히 높은 수준을 유지하고 있다.",
-        "전문가 60%는 올해 금리 인하가 없을 것으로 전망했다."
-      ],
-      "whyImportant": "환율 및 금리 변동에 대한 전문가들의 전망을 보여준다.",
-      "importanceRationale": "근거: 환율과 금리는 경제 전반에 큰 영향을 미치므로, 전문가들의 전망은 투자 및 경제 정책 결정에 중요한 참고 자료가 될 수 있다.",
-      "impactSignals": [],
-      "dedupeKey": "여전히 높은 환율…전문가 60% \"올해 금리인하 없다\"",
-      "clusterKey": "금리인하",
-      "matchedTo": null,
-      "sourceName": "한국경제",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE00M3lDYTNMekEyMFZEekZpdGlaRm9zNV9waW5wRDhtWmlOV0wzVzdYbU16NmRWLUk5SGRLamRFNUN5TzJfa19yOXJzUGxOUXJBNDByOUNJZ1Zpd9IBVEFVX3lxTFBiXzNZWXRpVDE5MDI3N3pkTjRvT1FpWnVwd1gwTzFpYWhjMVRzSmZOY0U1aVQtTGNaY0tIc2pVbFdGZGp0Y04tUDY2WU5FdnUwVzAyQw?oc=5",
-      "publishedAt": "2026-02-22T09:00:22.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 63,
-      "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되어 있음. / 근거부족",
+      "qualityReason": "제목과 본문이 일치하며, 간결하게 요약되었습니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     }
