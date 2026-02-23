@@ -3,7 +3,7 @@
   "selectionCriteria": "① 내일도 영향이 남는 이슈 ② 과도한 감정 소모 제외 ③ 어제와 중복되는 뉴스 제외",
   "editorNote": "이 뉴스는 클릭 수가 아니라 오늘 이후에도 남는 정보만 기준으로 편집했습니다.",
   "question": "정보를 덜 보는 것이 오히려 더 똑똑한 소비일까?",
-  "lastUpdatedAt": "2026-02-24T05:41:58.896+09:00",
+  "lastUpdatedAt": "2026-02-24T06:42:15.399+09:00",
   "items": [
     {
       "id": "2026-02-24_1",
@@ -13,15 +13,15 @@
       "summary": [
         "아마존이 루이지애나에 첫 데이터 센터 캠퍼스에 120억 달러를 투자할 예정이다."
       ],
-      "whyImportant": "아마존의 대규모 투자는 지역 경제 활성화에 기여할 수 있습니다.",
-      "importanceRationale": "근거: 아마존이 루이지애나에 데이터 센터 캠퍼스를 건설하기 위해 120억 달러를 투자하는 것은 상당한 자본 지출이며, 이는 지역 경제에 긍정적인 영향을 미칠 수 있다.",
+      "whyImportant": "아마존의 대규모 투자는 지역 경제에 상당한 영향을 미칠 수 있습니다.",
+      "importanceRationale": "근거: 아마존이 루이지애나에 데이터 센터 캠퍼스를 건설하기 위해 120억 달러를 투자하는 것은 상당한 자본 지출이며, 이는 지역 경제 활성화와 일자리 창출에 기여할 수 있습니다.",
       "impactSignals": [
         {
           "label": "capex",
-          "evidence": "아마존의 120억 달러 투자는 상당한 자본 지출을 의미함"
+          "evidence": "아마존이 루이지애나에 데이터 센터 캠퍼스 건설에 120억 달러를 투자합니다."
         }
       ],
-      "dedupeKey": "amazon-louisiana-datacenter-12b",
+      "dedupeKey": "amazon_louisiana_datacenter_20240620",
       "clusterKey": "amazon",
       "matchedTo": null,
       "sourceName": "About Amazon",
@@ -29,46 +29,79 @@
       "publishedAt": "2026-02-23T19:27:53.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 3.5,
-      "importanceRaw": 63,
+      "importance": 4,
+      "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "The article provides a clear and concise statement of facts.",
+      "qualityReason": "The article provides a clear and concise statement of fact.",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-02-24_2",
       "date": "2026-02-24",
-      "category": "국제",
-      "title": "섀도 AI·데이터 유출 통제하는 글로벌 AI 규제 대응 거버넌스 체계",
+      "category": "기술",
+      "title": "Forward Air Corporation, 2025년 4분기 실적 발표: 매출 감소, 순손실 심화, EPS 미달",
       "summary": [
-        "지티티코리아는 섀도 AI와 데이터 유출을 통제하는 글로벌 AI 규제 대응 거버넌스 체계를 구축했다."
+        "Forward Air Corporation이 2025년 4분기 실적을 발표했습니다.",
+        "매출 감소와 함께 순손실이 크게 발생했습니다.",
+        "주당 순이익(EPS) 또한 예상치를 밑돌았습니다."
       ],
-      "whyImportant": "AI 규제 준수 및 데이터 보안 강화",
-      "importanceRationale": "근거: 섀도 AI와 데이터 유출 통제는 기업의 규제 준수 및 데이터 보안에 중요한 영향을 미친다.",
-      "impactSignals": [
-        {
-          "label": "policy",
-          "evidence": "글로벌 AI 규제 대응 거버넌스 체계 구축"
-        }
-      ],
-      "dedupeKey": "shadow-ai-data-leak-governance",
-      "clusterKey": "거버넌스",
+      "whyImportant": "기업의 재무 상태와 미래 전망에 대한 중요한 지표를 제공합니다.",
+      "importanceRationale": "근거: 기업의 실적 발표는 투자자와 시장 분석가에게 중요한 정보이며, 특히 매출 감소와 순손실은 기업의 건전성에 대한 우려를 나타낼 수 있습니다.",
+      "impactSignals": [],
+      "dedupeKey": "FWRD_Q42025_Earnings",
+      "clusterKey": "air",
       "matchedTo": null,
-      "sourceName": "지티티코리아",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9kRHBjR2U1S25qM1VnZC00R2hpN18yaEhyMmsySEhqUUFFNGpUNXZIYXowampOa19xREpKR2tDSi1KWFcwRkxMdWhYamduQm81U1hVcndxVTN3WThkbDZ6Mks1bTFOMzVVVFE?oc=5",
-      "publishedAt": "2026-02-19T22:00:00.000Z",
+      "sourceName": "Quiver Quantitative",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOSnZIZlVVRlVmWTE1Vnk2b2FEZDctWmxHM1haN0FJcVhwNW1mQm0yZTRwZFZSYVlQVlhLdWJxRUV6Tm5BWFE4NWhOaXBraEVEbXNELTRmWEVqbnFwY2g1YVNKT1pZTGlycFZ1aDU3TW9XNUNuck92QnFmd2RzLWhVMUtjSVQ1S0hkNkxLUjdhMWwzSG4wY0dCSG42cXc4NlBOaGVibzZaTUlrQTdLZ0FMdThRSFdsMk1lZ2d3VlZ2dE1YYTRUd2p3YlVUSXdGNHU0aFB6T094SWIxSWs?oc=5",
+      "publishedAt": "2026-02-23T21:25:00.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 4,
+      "importance": 2,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 정보가 명확함.",
+      "qualityReason": "제목과 본문이 일치하며, 정보가 명확합니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-02-24_3",
+      "date": "2026-02-24",
+      "category": "기술",
+      "title": "Salesforce 공급망을 표적으로 삼은 주요 랜섬웨어 공격 회고",
+      "summary": [
+        "Salesforce 공급망을 대상으로 한 주요 랜섬웨어 공격이 발생했습니다.",
+        "이번 공격은 보안에 대한 우려를 증폭시켰습니다."
+      ],
+      "whyImportant": "Salesforce 공급망을 대상으로 한 랜섬웨어 공격은 기업 보안에 대한 중요한 시사점을 제공합니다.",
+      "importanceRationale": "근거: Salesforce 공급망 공격은 기업의 보안 상태와 공급망 관리의 중요성을 부각시키며, 시장 수요에 영향을 미칠 수 있습니다.",
+      "impactSignals": [
+        {
+          "label": "security",
+          "evidence": "Salesforce 공급망을 대상으로 한 랜섬웨어 공격"
+        },
+        {
+          "label": "market-demand",
+          "evidence": "공급망 보안 강화에 대한 시장 수요 증가 가능성"
+        }
+      ],
+      "dedupeKey": "salesforce_ransomware_supply_chain",
+      "clusterKey": "attack",
+      "matchedTo": null,
+      "sourceName": "CircleID",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVTFRbVJGY1VmTWszbnJvcURZSlFyQkJWVzgxTGptYW91VWQyVTd2cTZCLVFhYTFsYzFad0ZFa2ZwcHBpWFQ5ejVYVUlqLWVBbmROUkl3X1U0cUtkQk83Y1JUaFAxZWU5Yk5pajFsa3RHSXlSejJnUTlzTTk4M1o5OFNoMUtGWk5XeHh3cWhBWFpxUVJCOWphR0k4WTQ5UDlNWXdrOFRVR3o?oc=5",
+      "publishedAt": "2026-02-23T21:00:18.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 3.5,
+      "importanceRaw": 63,
+      "qualityLabel": "ok",
+      "qualityReason": "기사 제목과 내용이 일치하며, 간결하게 요약되었습니다.",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-02-24_4",
       "date": "2026-02-24",
       "category": "정책",
       "title": "여당, 국회 본회의에서 사법개혁법 및 3차 상법개정안 처리 추진",
@@ -76,15 +109,15 @@
         "여당이 국회 본회의에서 사법개혁법과 3차 상법개정안 처리에 나섰습니다.",
         "이번 처리는 여당의 주도로 이루어지고 있습니다."
       ],
-      "whyImportant": "사법개혁 및 상법 개정은 사회 전반에 걸쳐 큰 영향을 미칠 수 있는 중요한 정책 결정입니다.",
-      "importanceRationale": "근거: 사법개혁법과 상법 개정안은 법률 체계와 기업 운영에 직접적인 영향을 미치므로, 사회적, 경제적 중요성이 높습니다.",
+      "whyImportant": "이번 법안 처리는 법률 및 기업 환경에 중요한 변화를 가져올 수 있습니다.",
+      "importanceRationale": "근거: 사법개혁법과 상법 개정은 법률 시스템과 기업 운영에 직접적인 영향을 미치므로 중요합니다.",
       "impactSignals": [
         {
           "label": "policy",
-          "evidence": "사법개혁법 및 상법 개정안 처리 추진"
+          "evidence": "사법개혁법 및 상법 개정안 처리는 정책 변화를 의미합니다."
         }
       ],
-      "dedupeKey": "20240612-사법개혁법·3차 상법개정안 처리",
+      "dedupeKey": "2024-01-03-사법개혁법·3차 상법개정안 처리",
       "clusterKey": "3차",
       "matchedTo": null,
       "sourceName": "연합뉴스 한민족센터",
@@ -92,26 +125,26 @@
       "publishedAt": "2026-02-23T20:00:01.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 4,
-      "importanceRaw": 75,
+      "importance": 3.5,
+      "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었습니다.",
+      "qualityReason": "제목과 내용이 일치하며 간결하게 요약되었습니다.",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-02-24_4",
+      "id": "2026-02-24_5",
       "date": "2026-02-24",
       "category": "경제",
-      "title": "애리조나주 1월 세수, 예상보다 1,600만 달러 부족",
+      "title": "애리조나州 1월 세수, 예상보다 1,600만 달러 부족",
       "summary": [
         "애리조나주의 1월 세수가 예상치를 1,600만 달러 하회했습니다.",
-        "Law360에 따르면, 이는 재정 정책에 영향을 미칠 수 있습니다."
+        "Law360에 따르면, 이번 세수 부족은 정책 및 수익에 영향을 미칠 수 있습니다."
       ],
-      "whyImportant": "세수 부족은 주 정부의 예산 및 정책 결정에 영향을 미칠 수 있습니다.",
-      "importanceRationale": "근거: 1월 세수 부족은 애리조나주의 재정 건전성에 대한 우려를 야기하며, 향후 정책 결정에 중요한 영향을 미칠 수 있습니다.",
+      "whyImportant": "애리조나주의 재정 상황을 파악하는 데 중요합니다.",
+      "importanceRationale": "근거: 세수 부족은 주 정부의 예산 및 정책 결정에 직접적인 영향을 미치며, 경제 상황을 반영하는 지표가 될 수 있습니다.",
       "impactSignals": [],
-      "dedupeKey": "arizona_revenue_jan_2024",
+      "dedupeKey": "arizona_revenue_jan_misses_forecast",
       "clusterKey": "16m",
       "matchedTo": null,
       "sourceName": "Law360",
@@ -120,14 +153,14 @@
       "readTimeSec": 10,
       "status": "kept",
       "importance": 2,
-      "importanceRaw": 63,
+      "importanceRaw": 50,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 정보가 명확합니다. / 근거부족",
+      "qualityReason": "제목과 본문이 일치하며, 정보가 간결하게 제공됨. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-02-24_5",
+      "id": "2026-02-24_6",
       "date": "2026-02-24",
       "category": "정책",
       "title": "3차 상법 개정안, 국회 본회의 부의",
@@ -135,9 +168,9 @@
         "3차 상법 개정안이 국회 본회의에 부의되었습니다."
       ],
       "whyImportant": "3차 상법 개정안이 국회 본회의에서 논의될 예정입니다.",
-      "importanceRationale": "근거: 3차 상법 개정안이 국회 본회의에 부의되어 법제화 가능성이 높아졌습니다.",
+      "importanceRationale": "근거: 3차 상법 개정안이 국회 본회의에 부의되어 정책 변화 가능성이 높아졌습니다.",
       "impactSignals": [],
-      "dedupeKey": "3rd-commercial-law-amendment-national-assembly",
+      "dedupeKey": "3rd-commercial-law-revision-bill-submitted-to-national-assembly",
       "clusterKey": "3차",
       "matchedTo": null,
       "sourceName": "한국경제",
@@ -148,23 +181,23 @@
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며 간결하게 작성되었습니다. / 근거부족",
+      "qualityReason": "제목과 내용이 일치하며 간결하게 요약되었습니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-02-24_6",
+      "id": "2026-02-24_7",
       "date": "2026-02-24",
       "category": "국제",
-      "title": "이, 남미와 무역협정 협상 재개… 룰라, 희토류 투자 요청",
+      "title": "이, 남미와 무역협정 협상 재개…룰라, 희토류 투자 요청",
       "summary": [
-        "이(李)는 남미 국가들과의 무역 협정 협상 재개를 발표했습니다.",
-        "룰라 대통령은 한국에 희토류 투자를 요청했습니다."
+        "이(이름 미상)는 남미와의 무역협정 협상 재개를 발표했습니다.",
+        "룰라(이름 미상)는 한국에 희토류 투자를 요청했습니다."
       ],
-      "whyImportant": "한국과 남미 간의 무역 관계 강화 및 희토류 투자 가능성을 보여주는 정책 발표입니다.",
-      "importanceRationale": "근거: 한국 정부가 남미 국가들과의 무역 협정 협상을 재개하고, 룰라 대통령이 한국에 희토류 투자를 요청한 사실은 양 지역 간의 경제 협력 강화 가능성을 시사합니다.",
+      "whyImportant": "한국과 남미 간의 무역 관계 강화 및 희토류 투자 유치 가능성을 보여주는 정책 발표입니다.",
+      "importanceRationale": "근거: 한국과 남미 간의 무역 협정 재개는 교역량 증가 및 경제 협력 확대로 이어질 수 있으며, 룰라 대통령의 희토류 투자 요청은 한국 기업의 남미 자원 개발 참여 기회를 의미합니다.",
       "impactSignals": [],
-      "dedupeKey": "lee-south-america-trade-agreement",
+      "dedupeKey": "이_남미_무역협정_룰라_희토류",
       "clusterKey": "남미와",
       "matchedTo": null,
       "sourceName": "한국경제",
@@ -175,39 +208,7 @@
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 핵심 내용을 전달합니다. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-02-24_7",
-      "date": "2026-02-24",
-      "category": "국제",
-      "title": "랜섬웨어 대비는 직장에서의 불운과 직장 폐쇄의 차이",
-      "summary": [
-        "랜섬웨어 대비는 직장에서 겪을 수 있는 불운과 직장 자체가 사라지는 것의 차이를 의미합니다.",
-        "보안이 중요합니다."
-      ],
-      "whyImportant": "랜섬웨어 공격은 기업의 존폐를 위협할 수 있으므로 대비가 중요합니다.",
-      "importanceRationale": "근거: 랜섬웨어 공격으로 인해 기업 운영이 중단되거나 데이터가 유출될 수 있으며, 이는 심각한 재정적 손실과 평판 하락으로 이어질 수 있습니다.",
-      "impactSignals": [
-        {
-          "label": "security",
-          "evidence": "랜섬웨어 공격은 기업의 보안 시스템을 무력화시키고 중요한 데이터를 암호화하여 접근을 막습니다."
-        }
-      ],
-      "dedupeKey": "ransomware_readiness_workplace",
-      "clusterKey": "bad",
-      "matchedTo": null,
-      "sourceName": "Security Boulevard",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOT1NJSzNCdHFfOGJmSzRLMmprc1FkOHQ1a185NzJleVpFYUlSbHFjN0pXeTVVa2JfSmstUjhPOFRlR2JzX240M2Fha0lQWVE5RzRrM19EVTlBN3g2dHJrVTgxM3pfbUxaUHZITHhXUmQzQjlkR1ZVY2pwUlROS1NLQzVWSGdJaXNpSmZzLVhobmY2YkdGc3ZNX04wbjJ1Y0xSX0szS0NhdlNIRDZraDd5OVhsWTdmV1FaUUdUVFJ0a1FVYVE?oc=5",
-      "publishedAt": "2026-02-23T10:20:22.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 4.5,
-      "importanceRaw": 88,
-      "qualityLabel": "ok",
-      "qualityReason": "기사에 랜섬웨어 대비의 중요성이 명확하게 제시되어 있습니다.",
+      "qualityReason": "제목과 내용이 일치하며, 핵심 내용을 간결하게 요약했습니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -215,90 +216,89 @@
       "id": "2026-02-24_8",
       "date": "2026-02-24",
       "category": "국제",
-      "title": "중국, 반도체 장비 사용 규제 강화로 자급화 가속",
+      "title": "랜섬웨어 공격으로 피해를 입은 3개의 의료 서비스 제공업체",
       "summary": [
-        "중국이 반도체 제조 공장(팹) 승인 조건으로 자국산 장비 사용 비율을 50% 이상으로 요구하고 있다.",
-        "이는 중국 반도체 산업의 자급자족을 가속화하기 위한 비관세 장벽으로 해석된다.",
-        "해당 조치는 외국 반도체 장비 기업에 불리하게 작용할 수 있다."
+        "HIPAA 저널에 따르면 3개의 의료 서비스 제공업체가 랜섬웨어 공격으로 인해 피해를 입었습니다."
       ],
-      "whyImportant": "중국의 반도체 장비 사용 규제는 글로벌 반도체 시장에 중요한 영향을 미칠 수 있다.",
-      "importanceRationale": "근거: 중국 정부의 정책 변화는 반도체 장비 시장의 경쟁 구도와 공급망에 직접적인 영향을 미치며, 관련 기업들의 전략 수정이 필요할 수 있다.",
-      "impactSignals": [],
-      "dedupeKey": "china_semiconductor_equipment_regulation",
-      "clusterKey": "반도체/반도체",
+      "whyImportant": "의료 기관에 대한 사이버 공격은 환자 데이터 보안 및 의료 서비스 제공에 심각한 위협이 됩니다.",
+      "importanceRationale": "근거: 랜섬웨어 공격은 의료 기관의 운영을 중단시키고 민감한 환자 정보를 유출할 수 있기 때문입니다.",
+      "impactSignals": [
+        {
+          "label": "security",
+          "evidence": "랜섬웨어 공격으로 인해 의료 서비스 제공업체가 피해를 입음"
+        }
+      ],
+      "dedupeKey": "ransomware_healthcare_providers",
+      "clusterKey": "affected",
       "matchedTo": null,
-      "sourceName": "Chosunbiz",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPalJtR1NDNEpTVzRFQW9pMkJhcmVtSmVDTnM5MGxyd2ozckZxWGpoTmRUNFEzbkpSSWtkRERkUXp6VVMyTDJUU1c3RDZFMzFTejc5Rmp4ZklBUEswNWpPTmhxeTh6LUw2d3VEMWFzYzVNWEdqUGkzWWRodkxqd3prNy1n0gGWAUFVX3lxTE1HNVRpV2tZY2FlZ0VVRmp3MHJrWUgzMUNtSHZxT3MyR3dyTXdvSTBJdlB1U3JmcTNvLWU0eUExVzRaVWdvUjV2YXpldjVnbUpSd1Q5UHJBbndQdkNvdlZRMUtIT0lxdkYwamUzRE5zb3V3MzdHSE5NbnRxY3BjSXczVXZLdWJFeWRnV3JZdE40VWNSWVpQQQ?oc=5",
-      "publishedAt": "2026-02-23T06:08:00.000Z",
+      "sourceName": "The HIPAA Journal",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUGlqMExRZUlQb1p4R1pEdklnWTZvTzFhQ2tUd3JpWFpIV3QtUk54Z19MdjJnaUxWWFRYUmg4Q09XbTBpdHppQnZTM2M2eGdZcUxVNDA4aHljNHk4TU5yWEZsQm5XZ2pkTTllUjFfNTRTU0NpVXpiMlFqUEJ6QjR3VQ?oc=5",
+      "publishedAt": "2026-02-19T11:08:19.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 2,
-      "importanceRaw": 88,
+      "importance": 4,
+      "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "기사 내용이 명확하고 정책 변화에 대한 정보를 제공함. / 근거부족",
+      "qualityReason": "기사에 정보가 명확하게 제시되어 있습니다.",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-02-24_9",
       "date": "2026-02-24",
-      "category": "정책",
-      "title": "'자사주 의무 소각' 3차 상법 개정안, 국회 법사위 통과(종합)",
+      "category": "국제",
+      "title": "일본 주요 반도체 공급업체, 랜섬웨어 공격에 대응",
       "summary": [
-        "자사주 의무 소각을 골자로 하는 3차 상법 개정안이 국회 법제사법위원회를 통과했습니다."
+        "일본의 주요 반도체 공급업체가 랜섬웨어 공격을 받았습니다.",
+        "현재 공격에 대한 대응이 진행 중입니다."
       ],
-      "whyImportant": "이번 개정안은 기업의 자사주 활용 방식에 큰 영향을 미칠 수 있습니다.",
-      "importanceRationale": "근거: 자사주 의무 소각은 기업의 자본 정책 및 주주 가치에 직접적인 영향을 미치는 중요한 정책 변화입니다.",
+      "whyImportant": "이번 공격은 반도체 공급망에 차질을 초래할 수 있습니다.",
+      "importanceRationale": "근거: 주요 반도체 공급업체에 대한 랜섬웨어 공격은 생산 중단 및 데이터 유출로 이어져, 글로벌 반도체 시장에 상당한 영향을 미칠 수 있기 때문입니다.",
       "impactSignals": [
         {
-          "label": "policy",
-          "evidence": "3차 상법 개정안이 국회 법사위를 통과하여 정책 변화가 예상됩니다."
+          "label": "security",
+          "evidence": "랜섬웨어 공격으로 인해 반도체 공급망 보안에 대한 우려가 제기됨."
         }
       ],
-      "dedupeKey": "자사주 의무소각 3차 상법 개정안 국회 법사위 통과",
-      "clusterKey": "3차",
+      "dedupeKey": "ransomware_attack_japanese_semiconductor_supplier",
+      "clusterKey": "attack",
       "matchedTo": null,
-      "sourceName": "연합인포맥스",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5BUEpWOHdjYWpucWczWHR4T2xDTXRTNXlxcGl2dFBuMHJTRVFSZ05pMTU3ZGw0OGtHcV9yX2VldkJoU2V6V1daV01DdXBxaHRhZ1lXVm5uT1dNazRWeVdSNFE5c2tBd3pDam44TzZxN18?oc=5",
-      "publishedAt": "2026-02-23T09:40:40.000Z",
+      "sourceName": "The Record from Recorded Future News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBvR09GSHdHcG42ay1EdG1jYk9IcEs5M2NUZGl3YXJwQUpoT09iM0plMWtKOVlRN0ZYOHhnOG5TakhEU1o3X2xJRTloTEdmUnpxSWVFTWFubzRQUlY2eU9pS04wUkx4SWtZQmJFQkxYRTFuWHBKTnNvNUVxbm1PbUE?oc=5",
+      "publishedAt": "2026-02-19T23:23:57.000Z",
       "readTimeSec": 10,
       "status": "kept",
       "importance": 4,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 핵심 내용을 전달합니다.",
+      "qualityReason": "기사 내용이 명확하고 간결하며, 정보의 출처가 분명합니다.",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-02-24_10",
       "date": "2026-02-24",
-      "category": "기술",
-      "title": "예측 시장, 엔비디아 실적 발표 95% 확신 – 투자자에게 의미하는 바는?",
+      "category": "경제",
+      "title": "엔비디아, OpenAI 자금 조달 라운드에 300억 달러 투자 근접",
       "summary": [
-        "예측 시장에서는 엔비디아가 실적 발표에서 좋은 결과를 낼 것이라고 95% 확신하고 있습니다.",
-        "이는 투자자들에게 중요한 의미를 가질 수 있습니다."
+        "엔비디아가 OpenAI의 자금 조달 라운드에 300억 달러 투자를 고려하고 있다는 소식입니다.",
+        "이번 투자가 성사될 경우 엔비디아는 OpenAI의 주요 투자자 중 하나가 될 것으로 예상됩니다."
       ],
-      "whyImportant": "엔비디아의 실적 발표에 대한 시장의 높은 기대감은 투자 심리에 영향을 미칠 수 있습니다.",
-      "importanceRationale": "근거: 예측 시장에서 엔비디아의 실적 호조를 높게 점치고 있다는 것은 시장 참여자들이 엔비디아의 미래 성장 가능성을 긍정적으로 평가하고 있음을 시사합니다.",
-      "impactSignals": [
-        {
-          "label": "earnings",
-          "evidence": "Prediction markets indicate a 95% confidence level in Nvidia beating earnings expectations."
-        }
-      ],
-      "dedupeKey": "prediction_markets_nvidia_earnings",
-      "clusterKey": "beat",
+      "whyImportant": "OpenAI의 AI 기술 개발 가속화 및 엔비디아의 AI 시장 영향력 확대 가능성.",
+      "importanceRationale": "근거: 엔비디아의 대규모 투자는 OpenAI의 AI 연구 및 개발에 상당한 자금을 제공하여 기술 혁신을 가속화할 수 있으며, 엔비디아는 OpenAI와의 협력을 통해 AI 시장에서의 입지를 강화할 수 있습니다.",
+      "impactSignals": [],
+      "dedupeKey": "nvidia_openai_30b_investment",
+      "clusterKey": "billion",
       "matchedTo": null,
-      "sourceName": "The Motley Fool",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaUpFTG05cF9tclZER2FlYnVzWkw4a0FMaHlqUXFUcW40blV6MjdfTG00MjV1OG9xSlF5cm45VEJSbmVOdk9ib3NscFZTeW5kNmFhX1Z5ZmRwM3VualZGNVkxeEN1dzBRbzk3Mlk4Qi11bXc5aGJQZ05rMzI1cXE1R0NhWFFIRV80VE8tcQ?oc=5",
-      "publishedAt": "2026-02-23T19:16:00.000Z",
+      "sourceName": "Financial IT",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbTZWRnozSThPQVdoMktaUExsMlF5R3NPWDRLUHN1bjM1S09SQlNndGRlTWRDc01pMjlwQ24zWWktMWFvYzZmMFl2eUQ2emhUNEVxdC1YWU0tTDVyUnZPRk9aRWo0SnhuWWFHRXpaQUYwNVpvbHQ1MkswakptV0NEQnExSVlXVjZQMTIwYzJoTVJjUi0tTmZaV3hoRQ?oc=5",
+      "publishedAt": "2026-02-20T14:13:23.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 3.5,
-      "importanceRaw": 63,
+      "importance": 2,
+      "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "The article provides a clear and concise summary of market expectations regarding Nvidia's earnings.",
+      "qualityReason": "제목과 본문이 일치하며, 정보가 명확합니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -306,15 +306,21 @@
       "id": "2026-02-24_11",
       "date": "2026-02-24",
       "category": "경제",
-      "title": "저스템, HBM 증설 수혜…EFEM 환경 제어가 필수 공정으로 부상",
+      "title": "저스템, HBM 증설 수혜…EFEM 환경 제어 필수 공정으로 부상 - 대신증권",
       "summary": [
-        "대신증권에 따르면 저스템은 HBM 증설의 수혜를 입을 것으로 예상된다.",
-        "EFEM 환경 제어는 필수 공정으로 부상하고 있다."
+        "저스템이 HBM(고대역폭메모리) 증설의 수혜를 입을 것으로 예상된다.",
+        "EFEM(Equipment Front End Module) 환경 제어가 필수 공정으로 부상하고 있다.",
+        "대신증권은 저스템의 데이터 투자를 긍정적으로 평가했다."
       ],
-      "whyImportant": "저스템이 HBM 증설의 수혜를 받을 것으로 예상되며, EFEM 환경 제어의 중요성이 부각되고 있다.",
-      "importanceRationale": "근거: 대신증권의 분석에 따르면 저스템은 HBM 증설로 인해 수혜를 받을 것으로 보이며, EFEM 환경 제어가 필수 공정으로 떠오르고 있다.",
-      "impactSignals": [],
-      "dedupeKey": "저스템, HBM 증설 수혜…EFEM 환경 제어가 필수 공정으로 부상",
+      "whyImportant": "저스템은 HBM 생산에 필수적인 EFEM 환경 제어 기술을 보유하고 있어, HBM 시장 확대에 따른 수혜가 예상된다.",
+      "importanceRationale": "근거: HBM 증설에 따라 EFEM 환경 제어의 중요성이 부각되고 있으며, 저스템이 해당 기술을 선도하고 있기 때문이다.",
+      "impactSignals": [
+        {
+          "label": "capex",
+          "evidence": "HBM 증설에 따른 EFEM 환경 제어 공정 중요성 부각"
+        }
+      ],
+      "dedupeKey": "저스템, HBM 증설 수혜…EFEM 환경 제어 필수 공정으로 부상 - 대신증권",
       "clusterKey": "반도체/efem",
       "matchedTo": null,
       "sourceName": "데이터투자",
@@ -322,10 +328,10 @@
       "publishedAt": "2026-02-23T19:50:00.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 2,
-      "importanceRaw": 63,
+      "importance": 4,
+      "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "The article provides a concise overview of 저스템's potential benefits from HBM expansion. / 근거부족",
+      "qualityReason": "제목과 본문이 일치하며, 정보가 명확하게 제시되어 있음.",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -333,45 +339,13 @@
       "id": "2026-02-24_12",
       "date": "2026-02-24",
       "category": "에너지",
-      "title": "데이터 센터, AI 전력 공급 위해 천연 가스 사용 급증... 기후에 대한 심각한 우려 제기",
+      "title": "구글, 데이터 센터 전력 공급 위해 Ormat Technologies와 150MW 규모의 지열 에너지 계약 체결",
       "summary": [
-        "데이터 센터들이 인공지능(AI) 구동에 필요한 전력을 천연 가스로 충당하면서 기후에 대한 우려가 커지고 있습니다.",
-        "이는 데이터 센터의 에너지 소비 증가와 환경 문제에 대한 관심이 높아지고 있음을 시사합니다."
+        "구글이 데이터 센터에 전력을 공급하기 위해 Ormat Technologies와 150MW 규모의 지열 에너지 계약을 체결했다.",
+        "이번 계약을 통해 구글은 지구열을 활용하여 데이터 센터 운영에 필요한 전력을 공급할 예정이다."
       ],
-      "whyImportant": "AI 기술 발전과 데이터 센터의 에너지 사용량 증가 사이의 연관성을 보여주는 중요한 사례입니다.",
-      "importanceRationale": "근거: 데이터 센터의 천연 가스 사용 증가는 탄소 배출량 증가로 이어져 기후 변화에 부정적인 영향을 미칠 수 있습니다.",
-      "impactSignals": [
-        {
-          "label": "capex",
-          "evidence": "데이터 센터의 AI 전력 공급을 위한 천연 가스 사용 증가는 관련 설비 투자 확대로 이어질 수 있습니다."
-        }
-      ],
-      "dedupeKey": "data_center_natural_gas_ai_climate",
-      "clusterKey": "에너지/centers",
-      "matchedTo": null,
-      "sourceName": "Fast Company",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUFBPWFBLYm00SUhfRnlZVk5hMzhMblNkbUlTbWlsY2pKak1PY29QMzBZTTMtOGR5ek5hbW5YWjU0ZEsxaXNmMUdKeWdMNGZHdlFINnBiZzc0ZWUyYk01YnpJWWRjZmtKMFgtODRkamprSElLS0QxRlFkU3VzMERYbHZPaHlhSGZ4YXZXU3lCQmw4QmprVExrLWFDQU9zUVVHcWV6RFVWN0VvSGJkTnI1bnh3ZDE4X0NFa000?oc=5",
-      "publishedAt": "2026-02-23T18:39:39.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 3.5,
-      "importanceRaw": 63,
-      "qualityLabel": "ok",
-      "qualityReason": "기사의 내용이 명확하고 간결하며, 핵심 정보를 잘 전달하고 있습니다.",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-02-24_13",
-      "date": "2026-02-24",
-      "category": "에너지",
-      "title": "Google, 데이터 센터 전력 공급 위해 Ormat Technologies와 150MW 규모의 지열 에너지 계약 체결",
-      "summary": [
-        "Google이 데이터 센터 전력 공급을 위해 Ormat Technologies와 150MW 규모의 지열 에너지 계약을 체결했습니다.",
-        "이번 계약을 통해 Google은 지구열을 활용하여 데이터 센터에 전력을 공급할 예정입니다."
-      ],
-      "whyImportant": "Google의 데이터 센터 전력 공급 방식 다변화에 중요한 의미를 가집니다.",
-      "importanceRationale": "근거: Google이 데이터 센터 운영에 필요한 전력을 친환경적인 지열 에너지로 충당하려는 노력을 보여주며, 이는 기업의 지속가능성 추구에 대한 의지를 나타냅니다.",
+      "whyImportant": "구글의 지열 에너지 투자는 지속 가능한 에너지 사용을 확대하고 탄소 배출량을 줄이는 데 기여합니다.",
+      "importanceRationale": "근거: 구글이 데이터 센터 운영에 필요한 전력을 지열 에너지로 대체함으로써 환경에 미치는 영향을 줄이고, 재생 에너지 사용을 장려할 수 있습니다.",
       "impactSignals": [],
       "dedupeKey": "google-ormat-geothermal-deal-150MW",
       "clusterKey": "에너지/150mw",
@@ -382,14 +356,131 @@
       "readTimeSec": 10,
       "status": "kept",
       "importance": 2,
-      "importanceRaw": 63,
+      "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 정보가 명확합니다. / 근거부족",
+      "qualityReason": "기사에 제목과 본문이 모두 포함되어 있으며, 정보가 명확합니다. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-02-24_13",
+      "date": "2026-02-24",
+      "category": "정책",
+      "title": "'자사주 의무 소각' 3차 상법 개정안, 국회 법사위 통과(종합)",
+      "summary": [
+        "자사주 의무 소각을 골자로 하는 3차 상법 개정안이 국회 법제사법위원회를 통과했습니다."
+      ],
+      "whyImportant": "자사주 의무 소각 관련 법안 통과",
+      "importanceRationale": "근거: 자사주 의무 소각 관련 법안은 기업 정책에 중요한 영향을 미치므로.",
+      "impactSignals": [
+        {
+          "label": "policy",
+          "evidence": "자사주 의무 소각 관련 법안이 국회 법사위를 통과함."
+        }
+      ],
+      "dedupeKey": "자사주 의무 소각 법안 통과",
+      "clusterKey": "3차",
+      "matchedTo": null,
+      "sourceName": "연합인포맥스",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5BUEpWOHdjYWpucWczWHR4T2xDTXRTNXlxcGl2dFBuMHJTRVFSZ05pMTU3ZGw0OGtHcV9yX2VldkJoU2V6V1daV01DdXBxaHRhZ1lXVm5uT1dNazRWeVdSNFE5c2tBd3pDam44TzZxN18?oc=5",
+      "publishedAt": "2026-02-23T09:40:40.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 4,
+      "importanceRaw": 75,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었습니다.",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-02-24_14",
+      "date": "2026-02-24",
+      "category": "경제",
+      "title": "국내 기업 경기 전망, 4년 만에 긍정 전환…제조업 수출 호조가 견인",
+      "summary": [
+        "국내 기업의 경기 전망이 4년 만에 긍정적으로 전환됨.",
+        "제조업 수출의 호조가 이러한 경기 전망 개선을 이끌고 있음."
+      ],
+      "whyImportant": "국내 기업의 경기 전망이 긍정적으로 바뀌었다는 것은 경제 회복의 신호로 해석될 수 있습니다.",
+      "importanceRationale": "근거: 제조업 수출 호조가 국내 기업 경기 전망을 긍정적으로 전환시키는 주요 요인으로 작용.",
+      "impactSignals": [],
+      "dedupeKey": "20240617-국내기업 경기전망 4년만에 긍정 전환…제조업 수출 선전이 견인",
+      "clusterKey": "4년만에",
+      "matchedTo": null,
+      "sourceName": "연합뉴스 한민족센터",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5uQndxZnpocHhyT2VTNFdhcy1BVVI3dFV6STdYSi1kN3JPSnVEelZMUWw1MGl3UTJ5S1czVElvRDIySWRCLWFzZ295ZHpmWFRfWktkbnBTSUNnYWlfRlRiY0Vnam5uLW9mQWlpcFhQU09Dck16?oc=5",
+      "publishedAt": "2026-02-23T21:00:04.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 63,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약됨. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-02-24_15",
+      "date": "2026-02-24",
+      "category": "경제",
+      "title": "아마존 데이터 센터, SWEPCO 사용자에게 추가 비용 없이 전력망 업그레이드 제공",
+      "summary": [
+        "아마존 데이터 센터가 전력망 업그레이드를 가져왔습니다.",
+        "SWEPCO 사용자에게 추가 비용은 발생하지 않습니다."
+      ],
+      "whyImportant": "아마존의 데이터 센터 투자가 지역 전력망 개선에 기여하고, 사용자에게 추가 비용 부담을 주지 않는다는 점이 중요합니다.",
+      "importanceRationale": "근거: 아마존 데이터 센터의 설립이 전력망 업그레이드를 가져왔으며, 이는 지역 사회에 긍정적인 영향을 미칩니다.",
+      "impactSignals": [],
+      "dedupeKey": "amazon_data_center_swepco_no_cost",
+      "clusterKey": "에너지/added",
+      "matchedTo": null,
+      "sourceName": "Stock Titan",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZXFJN0Y4dHpwQVVJUFRfN0VRMkhrdThaMU5oRTRSYUc0OEFNRkJoWW10RTJmRlA4Sm15T243VmUyVUlkNVliUVVUV0FWY3JlUzlvUnRvcWhreWNFMmVjbHA3Y3FQcmh0NXA1RDFfZEI1NTd5VzhBemhJdWpKaWZfQWl5ZmxjaTE0S1Y0OFEwRU1CVUF4cG94NUpmLW9fS2xabExfS3I3dUduZlBiMF91XzM0dkd5NGda?oc=5",
+      "publishedAt": "2026-02-23T20:45:00.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 63,
+      "qualityLabel": "ok",
+      "qualityReason": "The article provides a clear and concise statement about Amazon's data center and its impact on the power grid. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-02-24_16",
+      "date": "2026-02-24",
+      "category": "에너지",
+      "title": "데이터 센터, AI 구동 위해 천연가스 사용 급증... 기후에 대한 심각한 우려 제기",
+      "summary": [
+        "데이터 센터들이 인공지능 구동을 위해 천연가스 사용을 서두르고 있습니다.",
+        "이는 기후에 대한 심각한 우려를 불러일으키고 있습니다."
+      ],
+      "whyImportant": "AI 기술 발전에 따른 데이터 센터의 에너지 소비 증가와 그로 인한 환경 영향에 대한 우려를 보여줍니다.",
+      "importanceRationale": "근거: 데이터 센터의 천연가스 사용 증가는 탄소 배출 증가로 이어져 기후 변화를 악화시킬 수 있습니다.",
+      "impactSignals": [
+        {
+          "label": "capex",
+          "evidence": "데이터 센터의 천연가스 사용 증가는 관련 인프라 투자 확대로 이어질 수 있습니다."
+        }
+      ],
+      "dedupeKey": "data_centers_natural_gas_climate_concerns",
+      "clusterKey": "에너지/centers",
+      "matchedTo": null,
+      "sourceName": "Fast Company",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUFBPWFBLYm00SUhfRnlZVk5hMzhMblNkbUlTbWlsY2pKak1PY29QMzBZTTMtOGR5ek5hbW5YWjU0ZEsxaXNmMUdKeWdMNGZHdlFINnBiZzc0ZWUyYk01YnpJWWRjZmtKMFgtODRkamprSElLS0QxRlFkU3VzMERYbHZPaHlhSGZ4YXZXU3lCQmw4QmprVExrLWFDQU9zUVVHcWV6RFVWN0VvSGJkTnI1bnh3ZDE4X0NFa000?oc=5",
+      "publishedAt": "2026-02-23T18:39:39.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 3.5,
+      "importanceRaw": 63,
+      "qualityLabel": "ok",
+      "qualityReason": "기사 제목과 내용이 일치하며, 핵심 내용을 잘 요약했습니다.",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-02-24_17",
       "date": "2026-02-24",
       "category": "기술",
       "title": "백악관, 무역 전략 전환: 법률 및 공급망 문제 증가로 임시 관세 부과",
@@ -397,10 +488,10 @@
         "백악관이 무역 전략을 전환하여 임시 관세를 부과했습니다.",
         "이는 법률 및 공급망 관련 문제들이 증가함에 따른 조치입니다."
       ],
-      "whyImportant": "미국 정부의 무역 정책 변화는 국제 무역 관계에 영향을 미칠 수 있습니다.",
-      "importanceRationale": "근거: 백악관의 무역 전략 변화는 관련된 기업과 국가들의 경제적 활동에 직접적인 영향을 줄 수 있기 때문입니다.",
+      "whyImportant": "미국 무역 정책의 변화를 보여주는 사례입니다.",
+      "importanceRationale": "근거: 백악관의 무역 전략 변화와 임시 관세 부과는 국제 무역 관계 및 공급망에 영향을 미칠 수 있습니다.",
       "impactSignals": [],
-      "dedupeKey": "white_house_trade_pivot_tariff",
+      "dedupeKey": "White House pivots on trade strategy, imposes temporary tariff",
       "clusterKey": "house",
       "matchedTo": null,
       "sourceName": "logisticsmgmt.com",
@@ -411,92 +502,7 @@
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "기사의 내용이 명확하고 간결하며, 핵심 정보를 잘 전달하고 있습니다. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-02-24_15",
-      "date": "2026-02-24",
-      "category": "경제",
-      "title": "Flinn.ai, 시리즈 A 펀딩 라운드 확장으로 2천만 달러 조달",
-      "summary": [
-        "Flinn.ai가 시리즈 A 펀딩 라운드 확장을 통해 2천만 달러를 조달했습니다.",
-        "이번 투자는 Ventureburn에서 주도했습니다."
-      ],
-      "whyImportant": "Flinn.ai의 자본 확충은 사업 확장 및 기술 개발에 중요한 역할을 할 것입니다.",
-      "importanceRationale": "근거: Flinn.ai가 시리즈 A 펀딩을 통해 상당한 자금을 확보함.",
-      "impactSignals": [],
-      "dedupeKey": "Flinn.ai_SeriesA_Funding_20M",
-      "clusterKey": "20m",
-      "matchedTo": null,
-      "sourceName": "Ventureburn",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRTduMElrQTJkcm5ldUR0Ti1ua1pyVmk3TFRHQk5pV0JTY1o4NHdRaVNIQ1p1LXlQZ18wdFJpTy1BUDZzZ2trTGVaVHdscnVDVlhOVWtYOFc1LVpWbmpRdmxxRWxtNllUNVZkR3NIeU9YS1ZibjJhZW9jcXVvN1FwR3FBQnd2R03SAYcBQVVfeXFMTUU3bjBJa0EyZHJuZXVEdE4tbmtaclZpN0xUR0JOaVdCU2NaODR3UWlTSENadS15UGdfMHRSaU8tQVA2c2dra0xlWlR3bHJ1Q1ZYTlVrWDhXNS1aVm5qUXZscUVsbTZZVDVWZEdzSHlPWEtWYm4yYWVvY3F1bzdRcEdxQUJ3dkdN?oc=5",
-      "publishedAt": "2026-02-23T15:06:00.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 63,
-      "qualityLabel": "ok",
       "qualityReason": "기사 제목과 내용이 일치하며, 정보가 명확합니다. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-02-24_16",
-      "date": "2026-02-24",
-      "category": "에너지",
-      "title": "미국, 2028년까지 300MW 규모의 해상 부유식 원자력 발전소 배치 계획",
-      "summary": [
-        "미국이 2028년까지 300MW 규모의 해상 부유식 원자력 발전소를 배치할 계획이다.",
-        "이는 해양 통찰력(Marine Insight)에 의해 보도되었다."
-      ],
-      "whyImportant": "해상 부유식 원자력 발전소 배치는 에너지 산업에 상당한 영향을 미칠 수 있다.",
-      "importanceRationale": "근거: 해상 부유식 원자력 발전소는 새로운 에너지 공급원이 될 수 있으며, 특히 접근성이 제한된 지역에 유용할 수 있다. 또한, 이는 원자력 발전 기술의 발전과 관련된 중요한 투자 및 자본 지출(capex)을 의미한다.",
-      "impactSignals": [
-        {
-          "label": "capex",
-          "evidence": "300MW 해상 부유식 원자력 발전소 건설 및 배치 계획"
-        }
-      ],
-      "dedupeKey": "US_Floating_Nuclear_Plant_2028",
-      "clusterKey": "에너지/300mw",
-      "matchedTo": null,
-      "sourceName": "Marine Insight",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiywJBVV95cUxQd0R2WW1UZGpTR244VjE1TklZTEVjLXRYRXZSSE9TaEQxWHR2U0xZZlFVM3JIZlFrcXN1ZUZjSnN4V0RzamJkZUdmbkFncGZidDlQN29tVzFLczJnSWlROS1RZ01zeXpENGJwX1Q3bHlQM2VpZ0xCV05TaXpOeVkxTm44V3pSeG1QRGdYTThocEc3SVlLdkxOdzFLalZzY2VTRXBSSXpaQ2I1ZVh2TzA2aEVsal9WWDJHTDczY1B6dFpmd2hlaDh6VDRCNTFWbE1ManBzeUdOV09HMS1BVF84NUgtOVR2cnBuamJVaUw3ampBMXpDbUVzMU9URXlpbVJZNVROUkYwWm9CTVNLQUZwVmFVbUh3ZWU0ZzFNSkZ1RzBGTnl2XzNCQmJnY0NMbHozSm50ZjA1aWU1ZTJydjNxZHBLWVJuQ3ZlMlcw?oc=5",
-      "publishedAt": "2026-02-23T14:18:29.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 3.5,
-      "importanceRaw": 63,
-      "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 정보가 명확하게 제시됨.",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-02-24_17",
-      "date": "2026-02-24",
-      "category": "경제",
-      "title": "미국 유틸리티 PPL, 데이터 센터 파이프라인 23% 증가한 25.2GW로 예상",
-      "summary": [
-        "미국 유틸리티 회사인 PPL은 데이터 센터 파이프라인이 23% 증가하여 25.2GW에 이를 것으로 예상했다."
-      ],
-      "whyImportant": "데이터 센터 수요 증가를 시사합니다.",
-      "importanceRationale": "근거: PPL의 데이터 센터 파이프라인 증가는 해당 지역의 데이터 센터 수요가 증가하고 있음을 나타냅니다.",
-      "impactSignals": [],
-      "dedupeKey": "PPL_data_center_pipeline_25.2GW",
-      "clusterKey": "에너지/center",
-      "matchedTo": null,
-      "sourceName": "Data Center Dynamics",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaGxOWk9nYUhFNHBoOUVxYnhzWTJ5a05ubXlsS3hIbjdUTDNQaDdfV3FMcDhwN0pNVFV1YzZaRUlCblI3WmQ5d1FxWnVrcFk1QXNqXzRUNHpyd1psLUwwdnJ6b1dNWjNTOGZKVzZKX0l1YVNvSTBKTXV2RHNlek9TSGxQTHpLYmdxRnRVazZybl9LWnk1VmRhRUIzNTUydWd4VjlPczFETnFHUjhHcE9mbm9uNA?oc=5",
-      "publishedAt": "2026-02-23T14:12:40.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 63,
-      "qualityLabel": "ok",
-      "qualityReason": "The article is concise and factual. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -509,7 +515,7 @@
         "국회도서관은 개관 74주년을 기념하여 '최우수 국회의원' 8명을 시상했습니다."
       ],
       "whyImportant": "국회도서관의 최우수 국회의원 시상은 국회의원의 입법 활동을 장려하고, 국회도서관의 역할을 강조합니다.",
-      "importanceRationale": "근거: 국회도서관이 개관 74주년을 기념하여 최우수 국회의원을 시상했다는 사실은, 국회의원의 의정 활동에 대한 평가와 지원의 중요성을 나타냅니다.",
+      "importanceRationale": "근거: 국회도서관이 개관 74주년을 기념하여 최우수 국회의원을 시상했다는 사실은 국회의원의 의정 활동에 대한 평가와 중요성을 나타냅니다.",
       "impactSignals": [],
       "dedupeKey": "국회도서관, 개관 74주년 기념 ‘최우수 국회의원’ 8명 시상",
       "clusterKey": "74주년",
@@ -522,7 +528,7 @@
       "importance": 2,
       "importanceRaw": 50,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었습니다. / 근거부족",
+      "qualityReason": "제목과 기사 내용이 일치하며, 간결하게 핵심 내용을 전달합니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -530,38 +536,12 @@
       "id": "2026-02-24_19",
       "date": "2026-02-24",
       "category": "경제",
-      "title": "저스템, 작년 매출 483억원으로 창사 이래 최대 기록",
-      "summary": [
-        "저스템은 작년 매출액이 483억원으로 창사 이래 최대를 기록했다고 발표했다."
-      ],
-      "whyImportant": "저스템의 매출 증가는 회사의 성장세를 보여주는 지표입니다.",
-      "importanceRationale": "근거: 저스템의 매출액이 창사 이래 최대치를 기록했다는 것은 회사의 사업 확장이 성공적으로 이루어지고 있음을 시사한다.",
-      "impactSignals": [],
-      "dedupeKey": "jerstem-record-sales-2023",
-      "clusterKey": "483억원",
-      "matchedTo": null,
-      "sourceName": "디일렉",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBtTGl2eUtpV2hjMzktNkR1b2VSYTlwdWlBX2FOSVprZkFvSGNzQkRuZnNNU1hRTDFkTm81TnYxSEF4ZHpzTWlmdTl0VnFsRTI0bm1ZbEJrX3J1YjJsbHByYXduZEN3UQ?oc=5",
-      "publishedAt": "2026-02-23T08:35:32.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 63,
-      "qualityLabel": "ok",
-      "qualityReason": "The article provides a clear and concise report of the company's sales figures. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-02-24_20",
-      "date": "2026-02-24",
-      "category": "경제",
       "title": "환율·집값 리스크 지속…2월 금리 동결 전망",
       "summary": [
-        "환율과 집값 리스크가 지속됨에 따라 2월 금리 동결 전망이 나오고 있다."
+        "환율과 집값 리스크가 지속됨에 따라 2월 금리 동결 전망이 나오고 있습니다."
       ],
-      "whyImportant": "2월 금리 결정에 영향을 미칠 수 있는 요인에 대한 정보를 제공합니다.",
-      "importanceRationale": "근거: 환율 및 집값 리스크가 금리 결정에 중요한 고려 사항임을 나타냅니다.",
+      "whyImportant": "금리 동결 여부에 대한 시장의 관심이 높습니다.",
+      "importanceRationale": "근거: 환율 및 집값 리스크가 금리 결정에 중요한 영향을 미치기 때문입니다.",
       "impactSignals": [],
       "dedupeKey": "환율·집값 리스크 지속…2월 금리 동결 전망",
       "clusterKey": "2월",
@@ -572,9 +552,9 @@
       "readTimeSec": 10,
       "status": "kept",
       "importance": 2,
-      "importanceRaw": 50,
+      "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되어 있습니다. / 근거부족",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었습니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     }
