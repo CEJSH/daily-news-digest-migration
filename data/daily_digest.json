@@ -3,10 +3,37 @@
   "selectionCriteria": "① 내일도 영향이 남는 이슈 ② 과도한 감정 소모 제외 ③ 어제와 중복되는 뉴스 제외",
   "editorNote": "이 뉴스는 클릭 수가 아니라 오늘 이후에도 남는 정보만 기준으로 편집했습니다.",
   "question": "정보를 덜 보는 것이 오히려 더 똑똑한 소비일까?",
-  "lastUpdatedAt": "2026-02-24T10:53:38.829+09:00",
+  "lastUpdatedAt": "2026-02-24T13:17:23.349+09:00",
   "items": [
     {
       "id": "2026-02-24_1",
+      "date": "2026-02-24",
+      "category": "정책",
+      "title": "중국, 미쓰비시조선 등 일본 기업 20곳에 수출 통제…'군사력 증강 관여'",
+      "summary": [
+        "중국이 미쓰비시조선 등 일본 기업 20곳에 대해 수출을 통제한다고 한국무역협회가 밝혔습니다.",
+        "수출 통제 이유는 해당 기업들이 중국의 군사력 증강에 관여했기 때문입니다."
+      ],
+      "whyImportant": "중국의 이번 조치는 미중 갈등과 경제 안보의 중요성이 부각되는 상황에서 일본 기업에 대한 직접적인 제재로 해석될 수 있습니다.",
+      "importanceRationale": "근거: 중국이 일본 기업의 군사력 증강 관여를 이유로 수출을 통제하는 것은 양국 관계에 영향을 미칠 수 있으며, 다른 국가의 기업에도 유사한 조치가 취해질 가능성을 시사합니다.",
+      "impactSignals": [],
+      "dedupeKey": "중국, 미쓰비시조선 수출통제",
+      "clusterKey": "20개",
+      "matchedTo": null,
+      "sourceName": "한국무역협회-KITA.NET",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPWWYxanNFbXg0d3lrSDFJb2hpbWVVMHNPdG9OeTNNNjdadVZqN19JdFIwR2JjZEUtdlpzMEhLaHByRm9GOV9ybEFkUnVDSzgtVGhoZ1o2dGNieXoxRU8tZHVab3AtdjN6UnRMNXgyVFBsdmZxSVAtWmpzSzJWNHhOTUY5SEtpNkdjczR0eHpieGxHNzMyMnlXYklWMFFLb2swS1Z3dzhyS1g2MEZSa2hWWFhIQmxNV3Y1aEVmR2ZZR2RuUDAycG82OWd4MEloUFFZNzVSVw?oc=5",
+      "publishedAt": "2026-02-24T03:31:26.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 75,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었습니다. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-02-24_2",
       "date": "2026-02-24",
       "category": "국제",
       "title": "미국-이란 협상 재개에 따른 유가 보합세 및 관세 불확실성 영향",
@@ -17,7 +44,7 @@
       "whyImportant": "미국과 이란의 협상 재개는 국제 유가에 직접적인 영향을 미치므로 중요합니다.",
       "importanceRationale": "근거: 미국과 이란의 협상 재개는 글로벌 에너지 시장의 주요 변수이며, 관세 불확실성은 시장의 불안정성을 야기하여 유가에 영향을 줄 수 있습니다.",
       "impactSignals": [],
-      "dedupeKey": "미국-이란 협상 재개에 따른 유가 보합세 및 관세 불확실성 영향",
+      "dedupeKey": "20240118-미국-이란-협상-재개-유가-보합세",
       "clusterKey": "보합세",
       "matchedTo": null,
       "sourceName": "한국경제",
@@ -28,12 +55,44 @@
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 간결하게 요약되었습니다. / 근거부족",
+      "qualityReason": "기사 제목과 내용을 충실히 반영하고 있습니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-02-24_2",
+      "id": "2026-02-24_3",
+      "date": "2026-02-24",
+      "category": "기술",
+      "title": "오픈 소스 AI 코딩 도우미 Cline CLI, 공급망 공격 표적",
+      "summary": [
+        "오픈 소스 AI 코딩 도우미인 Cline CLI가 공급망 공격의 표적이 되었습니다.",
+        "이번 공격은 소프트웨어 개발 도구에 대한 보안 위협을 보여줍니다."
+      ],
+      "whyImportant": "소프트웨어 개발 공급망에 대한 보안 위협이 증가하고 있음을 보여줍니다.",
+      "importanceRationale": "근거: 오픈 소스 개발 도구가 공급망 공격의 대상이 될 수 있다는 점을 시사하며, 이는 개발 프로세스 전반에 걸친 보안 강화의 필요성을 강조합니다.",
+      "impactSignals": [
+        {
+          "label": "security",
+          "evidence": "공급망 공격으로 인한 보안 위협 증가"
+        }
+      ],
+      "dedupeKey": "cline_cli_supply_chain_attack",
+      "clusterKey": "assistant",
+      "matchedTo": null,
+      "sourceName": "SC Media",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQc0JTOUtwNENfa3ZqVjZKc3I0WEpWYTJvYV9RTEtmYVV4b19sMGw3ZEZ1ZG1Sc2JBQTNsWGF4UTk2WmhiRVBCX0lRbTFpcVd6NjRUdGJOTDU0Ym5HSllXcWFqMWVXVXZrWkJhMnJ0WW1BWHhvM0lBS2F3M29qUE1LcVlFdFpCYmZkZHM1WFFrTVlvUzlvMzlMYXN5ZEEtQTVSYkc1QlZR?oc=5",
+      "publishedAt": "2026-02-23T23:55:22.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 3.5,
+      "importanceRaw": 63,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 내용이 일치하며, 핵심 내용을 잘 요약했습니다.",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-02-24_4",
       "date": "2026-02-24",
       "category": "국제",
       "title": "아마존, 루이지애나에 첫 데이터 센터 캠퍼스에 120억 달러 투자",
@@ -41,18 +100,14 @@
         "아마존이 루이지애나에 첫 데이터 센터 캠퍼스에 120억 달러를 투자할 예정이다."
       ],
       "whyImportant": "아마존의 대규모 투자는 지역 경제 활성화에 기여할 수 있습니다.",
-      "importanceRationale": "근거: 아마존이 루이지애나에 데이터 센터 캠퍼스를 건설하기 위해 120억 달러를 투자하는 것은 상당한 규모의 경제적 영향을 미칠 수 있기 때문입니다.",
+      "importanceRationale": "근거: 아마존이 루이지애나에 데이터 센터 캠퍼스를 건설하기 위해 120억 달러를 투자하는 것은 상당한 규모의 자본 지출이며, 이는 지역 경제에 긍정적인 영향을 미칠 수 있습니다.",
       "impactSignals": [
         {
-          "label": "policy",
-          "evidence": "데이터 센터 건설에 대한 정부 지원 및 규제 환경이 투자 결정에 영향을 미칠 수 있습니다."
-        },
-        {
           "label": "capex",
-          "evidence": "아마존의 120억 달러 투자는 데이터 센터 건설에 사용될 자본 지출을 의미합니다."
+          "evidence": "아마존이 루이지애나에 데이터 센터 캠퍼스 건설에 120억 달러를 투자합니다."
         }
       ],
-      "dedupeKey": "amazon-louisiana-datacenter-20240620",
+      "dedupeKey": "amazon-louisiana-datacenter-20240110",
       "clusterKey": "amazon",
       "matchedTo": null,
       "sourceName": "About Amazon",
@@ -63,12 +118,106 @@
       "importance": 3.5,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 내용이 일치하며, 정보가 명확합니다.",
+      "qualityReason": "The article provides a clear and concise statement of fact.",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-02-24_3",
+      "id": "2026-02-24_5",
+      "date": "2026-02-24",
+      "category": "국제",
+      "title": "대만 매체: TSMC, 건설 중이거나 올해 착공 예정인 공장 대만에 10여 곳",
+      "summary": [
+        "대만 매체에 따르면 TSMC는 현재 건설 중이거나 올해 착공 예정인 공장이 대만에 10여 곳에 달한다."
+      ],
+      "whyImportant": "TSMC의 대규모 투자 계획은 반도체 산업의 성장과 대만 경제에 중요한 영향을 미칠 수 있습니다.",
+      "importanceRationale": "근거: TSMC의 공장 건설 및 착공 계획은 설비 투자(capex)와 직접적으로 연결되며, 이는 반도체 산업의 확장과 기술 경쟁력 강화에 기여할 수 있기 때문입니다.",
+      "impactSignals": [
+        {
+          "label": "capex",
+          "evidence": "TSMC, 대만 내 10여 곳 공장 건설 및 착공 예정"
+        }
+      ],
+      "dedupeKey": "TSMC_Taiwan_Factory_Construction_2024",
+      "clusterKey": "반도체/tsmc",
+      "matchedTo": null,
+      "sourceName": "연합뉴스 한민족센터",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5qQUdQRUl0R0otQmJIM1NzQjNjUFlEYUluaHJIajVsT2NQU0F6SFlaelpXOGJIbXV0bkh0eEhhU3BDSnhUNUJiQk45M29pZkNUMWdoNGd5UUZ0dGxSYV9ZZFFoTDVwb2VTSEJ4LWRkMVR3a09S?oc=5",
+      "publishedAt": "2026-02-24T02:48:02.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 4,
+      "importanceRaw": 75,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 본문이 일치하며, 정보가 간결하고 명확하게 전달됨.",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-02-24_6",
+      "date": "2026-02-24",
+      "category": "기술",
+      "title": "Salesforce 공급망을 표적으로 삼은 주요 랜섬웨어 공격 회고",
+      "summary": [
+        "Salesforce 공급망을 대상으로 한 주요 랜섬웨어 공격이 발생했습니다.",
+        "이번 공격은 보안에 대한 중요성을 부각합니다."
+      ],
+      "whyImportant": "Salesforce 공급망을 대상으로 한 랜섬웨어 공격은 기업 보안에 대한 중요한 시사점을 제공합니다.",
+      "importanceRationale": "근거: Salesforce 공급망 공격은 기업의 보안 태세 강화 필요성을 강조하며, 이는 시장 전반에 걸쳐 보안 수요 증가로 이어질 수 있습니다.",
+      "impactSignals": [
+        {
+          "label": "security",
+          "evidence": "Salesforce 공급망을 대상으로 한 랜섬웨어 공격"
+        },
+        {
+          "label": "market-demand",
+          "evidence": "보안 강화 필요성 증대로 인한 보안 시장 수요 증가 가능성"
+        }
+      ],
+      "dedupeKey": "salesforce_ransomware_supply_chain",
+      "clusterKey": "attack",
+      "matchedTo": null,
+      "sourceName": "CircleID",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVTFRbVJGY1VmTWszbnJvcURZSlFyQkJWVzgxTGptYW91VWQyVTd2cTZCLVFhYTFsYzFad0ZFa2ZwcHBpWFQ5ejVYVUlqLWVBbmROUkl3X1U0cUtkQk83Y1JUaFAxZWU5Yk5pajFsa3RHSXlSejJnUTlzTTk4M1o5OFNoMUtGWk5XeHh3cWhBWFpxUVJCOWphR0k4WTQ5UDlNWXdrOFRVR3o?oc=5",
+      "publishedAt": "2026-02-23T21:00:18.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 3.5,
+      "importanceRaw": 63,
+      "qualityLabel": "ok",
+      "qualityReason": "기사 제목과 내용이 일치하며, 간결하게 요약되었습니다.",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-02-24_7",
+      "date": "2026-02-24",
+      "category": "경제",
+      "title": "공정위, 아파트 보수공사 담합으로 주원디엔피·이루미건설에 과징금 부과",
+      "summary": [
+        "공정거래위원회가 아파트 보수공사 담합 혐의로 주원디엔피와 이루미건설에 과징금을 부과했습니다.",
+        "이번 조치는 공정한 경쟁 질서를 확립하고 소비자 피해를 예방하기 위한 것입니다."
+      ],
+      "whyImportant": "아파트 보수공사 시장의 공정 경쟁 환경 조성",
+      "importanceRationale": "근거: 공정위의 과징금 부과는 아파트 보수공사 시장에서 담합 행위를 근절하고, 건설사 간의 공정한 경쟁을 촉진하여 소비자에게 더 나은 서비스를 제공하는 데 기여할 수 있습니다.",
+      "impactSignals": [],
+      "dedupeKey": "apt-repair-collusion-fined",
+      "clusterKey": "공정위",
+      "matchedTo": null,
+      "sourceName": "연합뉴스 한민족센터",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5WUEFiY1NZTzR1bnF5TUhQWGlwN0FPM19nVFVydGpxeDd2UFhBSXhNLUVUNnNicmRoNEYtWVd2WHUzT0FCb3d1VXJ0cU9SVkFya0VmdWJXdDZqSGdkaUw4MHFBd0FzZDlyVGJ0R3B6S3FhaklL?oc=5",
+      "publishedAt": "2026-02-24T03:00:15.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 63,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 내용이 일치하며, 핵심 내용을 요약했습니다. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-02-24_8",
       "date": "2026-02-24",
       "category": "경제",
       "title": "금융위원회, 가상자산 거래소 비공개 면담…대주주 소유 지분 규제 재확인",
@@ -76,15 +225,15 @@
         "금융위원회가 가상자산 거래소와 비공개 면담을 진행했다.",
         "면담에서 대주주 소유 지분 규제를 재확인했다."
       ],
-      "whyImportant": "가상자산 거래소의 규제 준수 및 건전한 운영 환경 조성에 영향을 미친다.",
-      "importanceRationale": "근거: 금융위원회의 정책 방향은 가상자산 시장의 안정성과 투자자 보호에 중요한 영향을 미치므로.",
+      "whyImportant": "가상자산 거래소의 소유 구조에 대한 규제 방향을 제시합니다.",
+      "importanceRationale": "근거: 금융위원회가 가상자산 거래소의 대주주 소유 지분 규제를 재확인한 것은 향후 가상자산 시장의 규제 환경에 중요한 영향을 미칠 수 있기 때문입니다.",
       "impactSignals": [
         {
           "label": "policy",
-          "evidence": "금융위원회가 가상자산 거래소 대주주 소유 지분 규제를 재확인함."
+          "evidence": "금융위원회의 가상자산 거래소 대주주 소유 지분 규제 재확인"
         }
       ],
-      "dedupeKey": "financial-regulations-crypto-exchange-ownership",
+      "dedupeKey": "fin-reg-crypto-exchange-ownership",
       "clusterKey": "가상자산거래소",
       "matchedTo": null,
       "sourceName": "매일경제TV",
@@ -92,15 +241,15 @@
       "publishedAt": "2026-02-24T01:13:00.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 4,
-      "importanceRaw": 75,
+      "importance": 3.5,
+      "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약됨.",
+      "qualityReason": "기사 내용이 간결하고 명확하며, 핵심 정보를 잘 전달하고 있습니다.",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-02-24_4",
+      "id": "2026-02-24_9",
       "date": "2026-02-24",
       "category": "국제",
       "title": "랜섬웨어 대비는 직장에서의 안 좋은 하루와 직장 폐쇄의 차이입니다",
@@ -108,12 +257,12 @@
         "랜섬웨어 대비는 직장에서의 힘든 하루와 직장 자체가 없어지는 것의 차이를 의미합니다.",
         "보안이 중요합니다."
       ],
-      "whyImportant": "랜섬웨어 공격은 기업의 존폐를 위협할 수 있으므로 대비가 중요합니다.",
-      "importanceRationale": "근거: 랜섬웨어 공격으로 인해 기업 운영이 중단되거나 데이터가 유출될 수 있으며, 이는 심각한 재정적 손실과 평판 손상으로 이어질 수 있습니다.",
+      "whyImportant": "랜섬웨어 공격에 대한 대비가 기업의 생존에 매우 중요합니다.",
+      "importanceRationale": "근거: 랜섬웨어 공격은 기업 운영을 중단시키고 심각한 손실을 초래할 수 있기 때문입니다.",
       "impactSignals": [
         {
           "label": "security",
-          "evidence": "랜섬웨어 공격은 기업의 보안 시스템을 무력화시키고 중요한 데이터를 암호화하여 접근을 막습니다."
+          "evidence": "랜섬웨어 공격은 기업의 보안 시스템을 무력화시키고 데이터 유출을 초래할 수 있습니다."
         }
       ],
       "dedupeKey": "ransomware_readiness_workplace",
@@ -127,55 +276,28 @@
       "importance": 4.5,
       "importanceRaw": 88,
       "qualityLabel": "ok",
-      "qualityReason": "The article title and text are consistent and provide a clear message about the importance of ransomware readiness.",
+      "qualityReason": "기사에 명확한 정보가 포함되어 있습니다.",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-02-24_5",
+      "id": "2026-02-24_10",
       "date": "2026-02-24",
-      "category": "기술",
-      "title": "법무법인 원, 대규모 집단소송용 AI 플랫폼 개발…쿠팡 개인정보 유출 소송에 첫 적용",
+      "category": "경제",
+      "title": "아파트 유지보수 공사 입찰 담합 건설사, 공정위 제재",
       "summary": [
-        "법무법인 원이 대규모 집단소송을 위한 AI 플랫폼을 개발했다.",
-        "이 플랫폼은 쿠팡의 개인정보 유출 소송에 처음으로 적용될 예정이다."
+        "아파트 유지보수 공사 입찰에서 담합한 건설사들에 대해 공정거래위원회가 제재를 가했습니다.",
+        "이는 건설 시장의 공정성을 확립하고 소비자 피해를 방지하기 위한 조치입니다."
       ],
-      "whyImportant": "AI 기반 집단 소송 플랫폼의 개발 및 적용은 법률 서비스 분야의 혁신을 의미하며, 특히 개인 정보 보호 및 데이터 보안의 중요성이 강조되는 시점에서 그 의미가 크다.",
-      "importanceRationale": "근거: 법무법인 원이 개발한 AI 플랫폼이 대규모 집단 소송에 효율적으로 대응할 수 있게 하며, 쿠팡 개인정보 유출 소송에 첫 적용됨으로써 실제 활용 가능성을 보여준다.",
+      "whyImportant": "아파트 유지보수 공사 입찰 담합은 건설 시장의 공정성을 해치고 소비자에게 피해를 줄 수 있기 때문에 중요합니다.",
+      "importanceRationale": "근거: 공정위의 제재는 건설 시장의 불공정 행위를 근절하고, 경쟁을 촉진하여 소비자 이익을 보호하는 데 기여합니다.",
       "impactSignals": [],
-      "dedupeKey": "20240118-법무법인 원, 대규모 집단소송용 AI 플랫폼 개발",
-      "clusterKey": "개발",
+      "dedupeKey": "아파트 유지보수공사 입찰 담합 건설사 공정위 제재",
+      "clusterKey": "건설사들",
       "matchedTo": null,
-      "sourceName": "매거진한경",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBPc0ZEbVZLak1KOW1fZE0xZXhrOHJqaTBPXzhCM004ODhNMnpzeVl3X3c2Z3NDbU45eVlVRTRnelg0NkRxY0JxajFJWHVKSFRRSVppcFNYNWVmOUdmUnIzc3RUd1dLRjJ4?oc=5",
-      "publishedAt": "2026-02-24T00:31:00.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 75,
-      "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 내용이 일치하며, 핵심 정보를 간결하게 전달한다. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-02-24_6",
-      "date": "2026-02-24",
-      "category": "에너지",
-      "title": "데이터 센터, AI 구동 위해 천연가스 사용 급증... 기후에 대한 심각한 우려 제기",
-      "summary": [
-        "데이터 센터들이 인공지능 구동을 위해 천연가스 사용을 서두르고 있어 기후에 대한 심각한 우려를 낳고 있습니다.",
-        "이는 데이터 센터의 에너지 소비 증가와 환경에 미치는 영향에 대한 논쟁을 심화시킵니다."
-      ],
-      "whyImportant": "데이터 센터의 에너지원 변화는 환경 정책 및 기술 투자 방향에 중요한 영향을 미칩니다.",
-      "importanceRationale": "근거: 데이터 센터의 천연가스 사용 증가는 탄소 배출 증가로 이어져 기후 변화에 부정적인 영향을 미칠 수 있기 때문입니다.",
-      "impactSignals": [],
-      "dedupeKey": "data_centers_natural_gas_climate_concerns",
-      "clusterKey": "에너지/centers",
-      "matchedTo": null,
-      "sourceName": "Fast Company",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUFBPWFBLYm00SUhfRnlZVk5hMzhMblNkbUlTbWlsY2pKak1PY29QMzBZTTMtOGR5ek5hbW5YWjU0ZEsxaXNmMUdKeWdMNGZHdlFINnBiZzc0ZWUyYk01YnpJWWRjZmtKMFgtODRkamprSElLS0QxRlFkU3VzMERYbHZPaHlhSGZ4YXZXU3lCQmw4QmprVExrLWFDQU9zUVVHcWV6RFVWN0VvSGJkTnI1bnh3ZDE4X0NFa000?oc=5",
-      "publishedAt": "2026-02-23T18:39:39.000Z",
+      "sourceName": "마켓인",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE04dExfbEdHOUZuVXpEVmd4YklHVUo4YjJqbVpGMWdfN2VlQ1Z4Z1hlNkhaUG5NSUswS3VMNHJWZDUweHNPTy1KYUp3VDRXZEcyZjdMTVp4UWFObHdycExFODllTmtCYkpXZVpQNjQ5LXJaMkk?oc=5",
+      "publishedAt": "2026-02-24T03:00:04.000Z",
       "readTimeSec": 10,
       "status": "kept",
       "importance": 2,
@@ -186,120 +308,183 @@
       "isBreaking": false
     },
     {
-      "id": "2026-02-24_7",
+      "id": "2026-02-24_11",
       "date": "2026-02-24",
       "category": "에너지",
-      "title": "구글, 데이터 센터 전력 공급 위해 Ormat Technologies와 150MW 규모의 지열 에너지 계약 체결",
+      "title": "원자력 발전소 배관 및 수중 구조물 결함 탐지 초음파 센서 개발",
       "summary": [
-        "구글이 데이터 센터에 전력을 공급하기 위해 Ormat Technologies와 150MW 규모의 지열 에너지 계약을 체결했습니다.",
-        "이번 계약은 구글의 데이터 센터 운영에 필요한 전력을 지열 에너지로 충당하는 것을 목표로 합니다."
+        "원자력 발전소 배관과 수중 구조물의 결함을 탐지하는 초음파 센서가 개발되었습니다.",
+        "이 센서는 고위험 산업 시설의 안전 점검에 활용될 수 있습니다."
       ],
-      "whyImportant": "데이터 센터 운영에 필요한 전력을 친환경 에너지원으로 공급하는 것은 기업의 지속가능성 목표 달성에 중요한 역할을 합니다.",
-      "importanceRationale": "근거: 구글이 데이터 센터 전력 공급을 위해 지열 에너지 회사와 대규모 계약을 체결함으로써 친환경 에너지 사용을 확대하고 있습니다.",
-      "impactSignals": [],
-      "dedupeKey": "google-ormat-geothermal-deal-150MW",
-      "clusterKey": "에너지/150mw",
-      "matchedTo": null,
-      "sourceName": "CarbonCredits.com",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUl95Y1NFWncyODNxOEc1ZUk5OHlSOXgwaHdlcG9sVmJ4cG9iM1hkYlJvOXdLODdGRm5JMUg2aDdvTlVtMHJOQThlU3Z2Z1BGWWdrUW5Bc0dmX1JINnRIcjB1ZnRVTmJNbDlPNzRnUEYwMjAtSHZzNXluaXdjT1c2UDZjaWtWX3lxcVdKazdaRXJZRkw0Q0pnMloyWXV0MzFfYnZuX1ViM2ZIdHg0ZjNYb2cwYVZuWU1KX1U0LWx3?oc=5",
-      "publishedAt": "2026-02-23T17:32:10.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 75,
-      "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 본문이 일치하며, 내용이 간결하고 명확합니다. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-02-24_8",
-      "date": "2026-02-24",
-      "category": "경제",
-      "title": "이번 달에 '6000피트, 20만 전자' 달성할까... 26일 엔비디아 실적 발표 주목",
-      "summary": [
-        "이번 달에 '6000피트, 20만 전자'를 달성할 수 있을지에 대한 관심이 집중되고 있다.",
-        "특히 26일에 발표될 예정인 엔비디아의 실적 발표가 중요한 변수로 작용할 것으로 보인다."
-      ],
-      "whyImportant": "엔비디아의 실적 발표가 국내 증시에 미치는 영향이 크기 때문",
-      "importanceRationale": "근거: 엔비디아의 실적은 기술주 투자 심리에 영향을 미치며, 이는 국내 증시에도 파급될 수 있다.",
-      "impactSignals": [],
-      "dedupeKey": "이달 중 ‘6000피·20만 전자’ 갈까…26일 엔비디아 실적 발표 주목",
-      "clusterKey": "20만",
-      "matchedTo": null,
-      "sourceName": "매일경제TV",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBZZUNhdTJIWXk4b2ZxSnd5aE5BOU55WmhaQzNxN0dCSkI2YXdsVksycnVNUGZRUnp3c0NFN3NvcWVQczVDZGwwQTFkRTlrTlVIZ3l4aFZmZmF2UVJxLXFmaXhXdHFveDhR?oc=5",
-      "publishedAt": "2026-02-23T22:45:00.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 63,
-      "qualityLabel": "ok",
-      "qualityReason": "제목과 텍스트가 일치하며, 정보가 명확함 / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-02-24_9",
-      "date": "2026-02-24",
-      "category": "기술",
-      "title": "예측 시장, 엔비디아의 실적 발표 성공률 95% 확신 - 투자자에게 의미하는 바는?",
-      "summary": [
-        "예측 시장에서는 엔비디아가 실적 발표에서 성공할 확률을 95%로 보고 있다.",
-        "이는 투자자들에게 중요한 의미를 가질 수 있다."
-      ],
-      "whyImportant": "엔비디아의 실적 발표 성공 가능성이 매우 높게 예측되고 있다.",
-      "importanceRationale": "근거: 예측 시장에서 엔비디아의 실적 발표 성공률을 95%로 보고 있기 때문이다.",
+      "whyImportant": "원자력 발전소의 안전성을 강화하고 사고 위험을 줄이는 데 기여할 수 있습니다.",
+      "importanceRationale": "근거: 원자력 발전소 배관 및 수중 구조물의 결함은 심각한 사고로 이어질 수 있으며, 이를 조기에 탐지하는 것은 안전 관리에 매우 중요합니다.",
       "impactSignals": [
         {
-          "label": "earnings",
-          "evidence": "Prediction markets indicate a 95% confidence in Nvidia beating earnings expectations."
+          "label": "capex",
+          "evidence": "원전 배관 및 수중 구조물 결함 탐지 센서 개발은 관련 산업 시설의 안전 점검 및 유지 보수 투자 증가를 의미합니다."
         }
       ],
-      "dedupeKey": "NvidiaEarningsPredictionMarkets",
-      "clusterKey": "beat",
+      "dedupeKey": "ultrasonic_sensor_for_nuclear_facilities",
+      "clusterKey": "에너지/결함",
       "matchedTo": null,
-      "sourceName": "The Motley Fool",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaUpFTG05cF9tclZER2FlYnVzWkw4a0FMaHlqUXFUcW40blV6MjdfTG00MjV1OG9xSlF5cm45VEJSbmVOdk9ib3NscFZTeW5kNmFhX1Z5ZmRwM3VualZGNVkxeEN1dzBRbzk3Mlk4Qi11bXc5aGJQZ05rMzI1cXE1R0NhWFFIRV80VE8tcQ?oc=5",
-      "publishedAt": "2026-02-23T19:16:00.000Z",
+      "sourceName": "동아사이언스",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5ta1lRejJoMTUzN0pDLVFjSkhXcjZLa0Nzc3dPY3dvd05LQmJ1c09LR0JjV0JJdVJ3bkVLekYyNzBDZkFqcG5oaUF2MEw4Mlc3eGtEUQ?oc=5",
+      "publishedAt": "2026-02-24T02:27:00.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 3.5,
-      "importanceRaw": 63,
+      "importance": 4,
+      "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "The article is a factual report on market predictions.",
+      "qualityReason": "기사 제목과 내용이 일치하며, 핵심 내용을 잘 요약했습니다.",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-02-24_10",
+      "id": "2026-02-24_12",
       "date": "2026-02-24",
       "category": "정책",
-      "title": "강선우 '공천 헌금' 체포 동의안, 오늘 국회 본회의 표결 예정",
+      "title": "개정 노조법 시행 14일 전, 시행령 및 정부 해석 지침 확정",
       "summary": [
-        "강선우 의원의 '공천 헌금' 관련 체포 동의안이 오늘 국회 본회의에서 표결될 예정입니다.",
-        "이번 표결은 강 의원의 금품 수수 의혹에 대한 법적 절차의 중요한 단계입니다."
+        "개정된 노동조합법 시행이 14일 앞으로 다가왔습니다.",
+        "시행령과 정부 해석 지침이 확정되었습니다."
       ],
-      "whyImportant": "국회의원의 체포 동의안 표결은 정치적 및 법적으로 중요한 의미를 가집니다.",
-      "importanceRationale": "근거: 국회의원의 체포 동의안은 국회의원의 불체포특권과 관련된 사안으로, 국회의원의 윤리적 책임과 법적 절차의 공정성 사이의 균형을 보여줍니다.",
-      "impactSignals": [],
-      "dedupeKey": "20240613_강선우체포동의안",
-      "clusterKey": "강선우",
+      "whyImportant": "개정 노조법의 구체적인 내용과 적용 방식을 담은 시행령과 정부 해석 지침이 확정됨으로써, 노사 관계에 대한 법적 명확성이 높아지고 관련 정책 방향을 구체화합니다.",
+      "importanceRationale": "근거: 개정 노조법의 시행이 임박한 상황에서 시행령과 해석 지침의 확정은 법 집행의 기준을 제시하고, 노사 관계에 직접적인 영향을 미치므로 중요합니다.",
+      "impactSignals": [
+        {
+          "label": "policy",
+          "evidence": "개정 노조법 시행 및 관련 시행령, 해석 지침 확정"
+        }
+      ],
+      "dedupeKey": "개정 노조법 시행령 및 정부 해석지침 확정",
+      "clusterKey": "개정",
       "matchedTo": null,
-      "sourceName": "매거진한경",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBKNG5HMkdaZS1OeVh4S0tDeW5GU2lLaXo4SEVpSEFWaF9wMFUxQUhZUnNlcjRVeHFhWl8xT0JYUkNMaTFsRTVNRlBKUS1zVk1QcUVFVWtORm1sdGNJdHc0UjZsZXlQRkxPVWpEUg?oc=5",
-      "publishedAt": "2026-02-23T23:51:00.000Z",
+      "sourceName": "매일노동뉴스",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9hSVgtYmF6WTR5SEUwMnowRXNpcjVIdVk2UGdjT0cxV204cnQxTVhKZXRKcWNRN2J5OXZ6RnZiTXRFRjB2cFFNY0g3aDVVZU9tcTNUX2ZGcm93Nmw2U2M2VC1tekVxQUxUQlZFTVFfdDI?oc=5",
+      "publishedAt": "2026-02-24T02:01:33.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 4,
+      "importanceRaw": 75,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 본문이 일치하며, 간결하게 핵심 내용을 전달합니다.",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-02-24_13",
+      "date": "2026-02-24",
+      "category": "경제",
+      "title": "엔비디아, OpenAI의 대규모 자금 조달 라운드에 300억 달러 투자 근접 (출처)",
+      "summary": [
+        "엔비디아가 OpenAI의 대규모 자금 조달 라운드에 300억 달러를 투자할 가능성이 있다고 소식통이 밝혔습니다.",
+        "Arizona Digital Free Press에 따르면 엔비디아는 투자를 거의 확정했습니다."
+      ],
+      "whyImportant": "OpenAI의 자금 확보와 엔비디아의 투자 결정은 AI 기술 개발 경쟁 심화와 시장 판도 변화에 중요한 영향을 미칠 수 있습니다.",
+      "importanceRationale": "근거: 엔비디아의 대규모 투자는 OpenAI의 AI 기술 개발 속도를 가속화하고, 이는 관련 산업 전반에 걸쳐 파급 효과를 가져올 수 있습니다. 특히 정책적 측면에서 AI 기술 규제 및 지원 정책에 대한 논의를 촉발할 수 있습니다.",
+      "impactSignals": [
+        {
+          "label": "policy",
+          "evidence": "엔비디아의 OpenAI 투자 결정은 AI 기술 개발 및 규제 관련 정책 논의를 가속화할 수 있습니다."
+        }
+      ],
+      "dedupeKey": "nvidia-openai-30b-investment",
+      "clusterKey": "billion",
+      "matchedTo": null,
+      "sourceName": "Arizona Digital Free Press",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPX3UzcVVGbGppQURuN2ZZQUx4Z016R2EtM3BQY19CVzVialloZGEzUWxsZTJac3E2QlBPM3lTbXQzZWswNm9Id09pSmNCMDRQZDFPemVtaHlrVVNLYnZtMjF1Z1R6bmRCVWphSzNCM0xQS1luWVBIaHU0a3JycFRpRFg4NlpPTE1pYmNXSkJXTUlUZ3draXJoSGRZbExzOVgwaUx5dzVaTEM2RzRZZkhqMU9QQWNyQQ?oc=5",
+      "publishedAt": "2026-02-23T17:30:00.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 4,
+      "importanceRaw": 75,
+      "qualityLabel": "ok",
+      "qualityReason": "기사 제목과 내용이 일치하며, 간결하게 요약되어 있습니다.",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-02-24_14",
+      "date": "2026-02-24",
+      "category": "경제",
+      "title": "오늘의 Pick : \"삼성전자, 천고삼비, 유리한 사업환경 지속 전망\"",
+      "summary": [
+        "삼성전자의 유리한 사업 환경이 지속될 것이라는 전망이 나왔습니다."
+      ],
+      "whyImportant": "삼성전자의 사업 환경 전망",
+      "importanceRationale": "근거: 한국경제에서 삼성전자의 사업 환경이 긍정적으로 유지될 것이라는 전망을 제시했습니다.",
+      "impactSignals": [],
+      "dedupeKey": "삼성전자, 천고삼비, 유리한 사업환경 지속 전망",
+      "clusterKey": "pick",
+      "matchedTo": null,
+      "sourceName": "한국경제",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5CWUtLeWp3MHgtNWM2RWJXSkk4akV0NGdkVmNTc0NvSXJIRm8yZG5ONnVXN3ZkZ2ROak9zcVpTU29aSW8ySFUzcHBkZmE1Umxrc0pBeUhaZUgyQdIBVEFVX3lxTE5yRVR1QjlhTDBIRTZOZUlZbWtfRVpXY3pEVi0xNkExNG50M2hvSlVxaXE5cjcySXNqb1J5cnlfQzNsb3VBQklYVDdmb3d3X0hnMUQ3Ng?oc=5",
+      "publishedAt": "2026-02-23T23:32:51.000Z",
       "readTimeSec": 10,
       "status": "kept",
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 기사 내용이 일치하며, 핵심 내용을 간결하게 요약했습니다. / 근거부족",
+      "qualityReason": "The article provides a concise summary of a business forecast. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-02-24_11",
+      "id": "2026-02-24_15",
+      "date": "2026-02-24",
+      "category": "정책",
+      "title": "‘노란봉투법’ 시행령 확정…노동계 “교섭권 위축” 반발",
+      "summary": [
+        "‘노란봉투법’ 시행령이 확정되었다.",
+        "노동계는 교섭권이 위축될 것이라며 반발하고 있다."
+      ],
+      "whyImportant": "노란봉투법 시행령 확정으로 노동계의 반발이 예상된다.",
+      "importanceRationale": "근거: 노란봉투법 시행령 확정으로 인해 노동계의 교섭권 위축에 대한 우려가 제기되고 있기 때문이다.",
+      "impactSignals": [],
+      "dedupeKey": "노란봉투법 시행령 확정",
+      "clusterKey": "교섭권",
+      "matchedTo": null,
+      "sourceName": "스트레이트뉴스",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0wUFBIaWR0TlZYNGdENDBhQ242ck1PeFA5UmtEMWF3VjN0XzZTQUFhVUI1Ny14VjN6Z0MwOUJoZ0o2dmxTSnl2ZXFGckFPNnF0Vi1vcmdjNno2U2s5YWJxSUNVUXhrbTN6Vmx0Mk4zeFYtUzg?oc=5",
+      "publishedAt": "2026-02-24T03:20:49.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 63,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되어 있습니다. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-02-24_16",
+      "date": "2026-02-24",
+      "category": "기술",
+      "title": "법무법인 원, 대규모 집단소송용 AI 플랫폼 개발…쿠팡 개인정보 유출 소송에 첫 적용",
+      "summary": [
+        "법무법인 원이 대규모 집단소송을 위한 AI 플랫폼을 개발했다.",
+        "이 플랫폼은 쿠팡의 개인정보 유출 소송에 처음으로 적용될 예정이다."
+      ],
+      "whyImportant": "법무법인 원이 개발한 AI 플랫폼은 집단 소송의 효율성을 높일 수 있다.",
+      "importanceRationale": "근거: 대규모 집단 소송에 AI 플랫폼을 도입하여 소송 절차를 자동화하고 효율성을 개선할 수 있기 때문이다.",
+      "impactSignals": [],
+      "dedupeKey": "법무법인 원, 대규모 집단소송용 AI 플랫폼 개발…쿠팡 개인정보 유출 소송에 첫 적용",
+      "clusterKey": "개발",
+      "matchedTo": null,
+      "sourceName": "매거진한경",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBPc0ZEbVZLak1KOW1fZE0xZXhrOHJqaTBPXzhCM004ODhNMnpzeVl3X3c2Z3NDbU45eVlVRTRnelg0NkRxY0JxajFJWHVKSFRRSVppcFNYNWVmOUdmUnIzc3RUd1dLRjJ4?oc=5",
+      "publishedAt": "2026-02-24T00:31:00.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 63,
+      "qualityLabel": "ok",
+      "qualityReason": "기사 제목과 내용이 일치하며, 핵심 내용을 잘 요약했습니다. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-02-24_17",
       "date": "2026-02-24",
       "category": "정책",
       "title": "「합성생물학 육성법 시행령」 입법예고",
@@ -325,200 +510,57 @@
       "isBreaking": false
     },
     {
-      "id": "2026-02-24_12",
-      "date": "2026-02-24",
-      "category": "경제",
-      "title": "카드사, 스테이블 코인 통합 가이드라인 마련…3월부터 실증 돌입",
-      "summary": [
-        "카드사가 스테이블 코인에 대한 통합 가이드라인을 마련하고 3월부터 실증에 돌입한다."
-      ],
-      "whyImportant": "카드사들이 스테이블 코인 시장에 진입하기 위한 중요한 단계이다.",
-      "importanceRationale": "근거: 카드사들이 스테이블 코인 관련 사업을 추진하기 위한 기반을 마련하고, 새로운 투자 기회를 창출할 수 있기 때문이다.",
-      "impactSignals": [
-        {
-          "label": "capex",
-          "evidence": "스테이블 코인 통합 가이드라인 마련 및 실증 돌입은 관련 기술 및 인프라 투자 확대로 이어질 수 있다."
-        }
-      ],
-      "dedupeKey": "card-stablecoin-guideline-march-pilot",
-      "clusterKey": "3월부터",
-      "matchedTo": null,
-      "sourceName": "연합인포맥스",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1kaGVCeUVRYUNWWVNFYnJGNHVtWnhXR195aGxvOGZCVlF4Vk96Y3dwS0NKNzRoMGZHeno2cWZlLWotbGw4NjdRNmwyc0ZkVlhpZHdsMEY5YU5CcEo1cDdYeEFfY0ttTVJXaF8tSnlpZkU?oc=5",
-      "publishedAt": "2026-02-23T23:35:20.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 3.5,
-      "importanceRaw": 63,
-      "qualityLabel": "ok",
-      "qualityReason": "The article provides a concise and factual summary of the news.",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-02-24_13",
-      "date": "2026-02-24",
-      "category": "경제",
-      "title": "데이터 센터, 뉴잉글랜드 농촌 지역으로 눈길… 메인주, 모라토리엄 고려",
-      "summary": [
-        "데이터 센터들이 뉴잉글랜드 농촌 지역으로 확장하는 가운데, 메인주가 데이터 센터 건설에 대한 모라토리엄을 고려하고 있다.",
-        "이는 데이터 센터 건설 붐이 지역 사회에 미치는 잠재적 영향에 대한 우려를 반영한다."
-      ],
-      "whyImportant": "메인주의 모라토리엄 고려는 데이터 센터 산업의 성장과 지역 사회의 균형에 대한 중요한 논의를 촉발할 수 있다.",
-      "importanceRationale": "근거: 메인주의 모라토리엄 고려는 데이터 센터 건설에 대한 투자 결정에 영향을 미칠 수 있으며, 유사한 환경적, 사회적 우려를 가진 다른 지역에도 영향을 줄 수 있다.",
-      "impactSignals": [
-        {
-          "label": "capex",
-          "evidence": "데이터 센터 건설 모라토리엄 고려는 관련 자본 지출에 영향을 미칠 수 있음"
-        }
-      ],
-      "dedupeKey": "data_center_maine_moratorium",
-      "clusterKey": "centers",
-      "matchedTo": null,
-      "sourceName": "Maine Morning Star",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTXNfQUFzSUM5VTFkcXZKRzFsQzhydGlQRTJpc25TOWd4T2l5SkNfbUNOWDZWSnBYUFhjdDZfRnBIZkh0eWl6aTAyZUN3NzdPcjhWc2tfUHQ3STBZZ3FRYkd1YlNjWE5OVERmdk5MVHpxOVFfX1FkeHRrNzhUbGxyVXU2dFVOZXhQRFJua3o4VVFNMkh1dzJWZWhvZ1k3X3NucWplY3RXQlptbG1rTU00eA?oc=5",
-      "publishedAt": "2026-02-23T21:43:39.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 3.5,
-      "importanceRaw": 63,
-      "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 내용이 일치하며, 핵심 내용을 잘 반영하고 있다.",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-02-24_14",
-      "date": "2026-02-24",
-      "category": "경제",
-      "title": "아마존 데이터 센터, 전력망 업그레이드 제공, SWEPCO 사용자에게 추가 비용 없음",
-      "summary": [
-        "아마존 데이터 센터가 전력망 업그레이드를 제공합니다.",
-        "SWEPCO 사용자에게는 추가 비용이 발생하지 않습니다."
-      ],
-      "whyImportant": "아마존의 데이터 센터 투자가 지역 전력망 개선에 기여하고, 사용자 부담을 늘리지 않는다는 점이 중요합니다.",
-      "importanceRationale": "근거: 아마존 데이터 센터 건설로 인한 전력망 업그레이드 및 SWEPCO 사용자에게 추가 비용이 없다는 점을 고려함.",
-      "impactSignals": [],
-      "dedupeKey": "amazon_data_center_swepco_no_cost",
-      "clusterKey": "에너지/added",
-      "matchedTo": null,
-      "sourceName": "Stock Titan",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZXFJN0Y4dHpwQVVJUFRfN0VRMkhrdThaMU5oRTRSYUc0OEFNRkJoWW10RTJmRlA4Sm15T243VmUyVUlkNVliUVVUV0FWY3JlUzlvUnRvcWhreWNFMmVjbHA3Y3FQcmh0NXA1RDFfZEI1NTd5VzhBemhJdWpKaWZfQWl5ZmxjaTE0S1Y0OFEwRU1CVUF4cG94NUpmLW9fS2xabExfS3I3dUduZlBiMF91XzM0dkd5NGda?oc=5",
-      "publishedAt": "2026-02-23T20:45:00.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 63,
-      "qualityLabel": "ok",
-      "qualityReason": "The article is short but contains factual information. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-02-24_15",
-      "date": "2026-02-24",
-      "category": "기술",
-      "title": "킨드릴, 기업 보호 및 복원력을 위한 코드형 정책, AI 서비스 활용",
-      "summary": [
-        "킨드릴이 기업의 보호 및 복원력 강화를 위해 코드형 정책과 AI 서비스를 활용합니다.",
-        "이는 기업들이 사이버 보안 위협에 더욱 효과적으로 대응할 수 있도록 지원합니다."
-      ],
-      "whyImportant": "기업의 사이버 보안 및 복원력 강화에 기여합니다.",
-      "importanceRationale": "근거: 킨드릴의 코드형 정책 및 AI 서비스 활용은 기업들이 변화하는 위협에 신속하게 대응하고, 시스템을 보호하며, 비즈니스 연속성을 유지하는 데 중요한 역할을 합니다.",
-      "impactSignals": [],
-      "dedupeKey": "kyndryl_policy_ai_resilience",
-      "clusterKey": "code",
-      "matchedTo": null,
-      "sourceName": "MSSP Alert",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaC0tSXNydGx6cjk2WUMxaDB2YTN2Mm5HRlAyN3Z3U0NLMHlkNDhrVnJlX0hmeGRid3o1Vm1jdHJ4c3N1VE1JREV6TFhuNUMzVjhNT04zMk02TmpwVnBuMzdlV1NnNGF0T3FsbTFTRjBUdjF3d3RleDF6ZDlaa1B5UVN0WUMyS2xfc2pRUjcxRVpvdldrYTJMZzJWby1aTURyTnZZUnFpaGR1NmJaRFhoMUVwaTdJVTNH?oc=5",
-      "publishedAt": "2026-02-23T14:00:00.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 63,
-      "qualityLabel": "ok",
-      "qualityReason": "The article provides a clear and concise overview of Kyndryl's new service. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-02-24_16",
-      "date": "2026-02-24",
-      "category": "정책",
-      "title": "양구군, 국회 방문하여 지역 핵심 현안 협력 건의",
-      "summary": [
-        "양구군이 국회를 방문하여 지역 핵심 현안에 대한 협력을 건의했습니다."
-      ],
-      "whyImportant": "양구군의 핵심 현안 해결에 중요한 계기가 될 수 있습니다.",
-      "importanceRationale": "근거: 양구군이 직접 국회에 협력을 요청함으로써, 지역 현안 해결을 위한 정책적 지원 가능성을 높였습니다.",
-      "impactSignals": [],
-      "dedupeKey": "양구군, 국회 방문해 지역 핵심 현안 협력 건의",
-      "clusterKey": "건의",
-      "matchedTo": null,
-      "sourceName": "미디어투데이",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOb3lYUlU3c095SFRnMWhpNnctLUMzN1k5RHllVE5oSldYdFg1cTJuMHVTczZ3YmxqeUNYTzl1bFpFbGREcEt3S1d0bG91MUl1cUc1eHpoZGItSVZpVlQxejFwR2dFMzk5SE9namVqX05NUDZ2TElsTGptZlBpbm9IdXhyY21sWUNLS2tCTHdQSG5KXzB2YUZneA?oc=5",
-      "publishedAt": "2026-02-23T23:47:00.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 50,
-      "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며 간결하게 핵심 내용을 전달합니다. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-02-24_17",
-      "date": "2026-02-24",
-      "category": "정책",
-      "title": "국회 법사위, 행정통합법·사면금지법 처리 보류",
-      "summary": [
-        "국회 법제사법위원회에서 행정통합법과 사면금지법의 처리가 보류되었습니다."
-      ],
-      "whyImportant": "국회 법사위의 법안 처리 보류 결정입니다.",
-      "importanceRationale": "근거: 국회 법사위에서 행정통합법과 사면금지법의 처리가 보류되었다는 사실은 법률 제정 과정에 영향을 미치므로 중요합니다.",
-      "impactSignals": [],
-      "dedupeKey": "20240130-국회 법사위, 행정통합법·사면금지법 처리 보류",
-      "clusterKey": "국회",
-      "matchedTo": null,
-      "sourceName": "굿모닝충청",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMickFVX3lxTE5vUGozZ29KSExfX0VPb1Z6NXVJSnJ5Y0FRdnMxQXZncHNvSmlGMlF2UF9QU00weFZOQ0txLWh6dEh1QXV3REs1eHgyODl3c1l5ajNPNGVOV1RnaXhuWk5XTktGR3VGY3JWY2ZTbHRnZXk3UQ?oc=5",
-      "publishedAt": "2026-02-23T15:52:32.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 50,
-      "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 내용이 일치하며, 간결하게 핵심 내용을 전달합니다. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
       "id": "2026-02-24_18",
       "date": "2026-02-24",
-      "category": "정책",
-      "title": "여당 '사법개혁 3법' 입법 임박…대법원 내일 긴급 법원장회의",
+      "category": "에너지",
+      "title": "데이터 센터, AI 전력 공급 위해 천연 가스 사용 급증...기후에 대한 심각한 우려 제기",
       "summary": [
-        "여당의 '사법개혁 3법' 입법이 임박했다.",
-        "이에 따라 대법원은 내일 긴급 법원장회의를 개최할 예정이다."
+        "데이터 센터들이 인공지능 전력 공급을 위해 천연 가스 사용을 서두르고 있습니다.",
+        "이는 기후에 대한 심각한 우려를 불러일으키고 있습니다."
       ],
-      "whyImportant": "사법 개혁 관련 법안의 통과 가능성과 그에 따른 법원 내부의 논의를 보여준다.",
-      "importanceRationale": "근거: 여당의 입법 추진과 대법원의 긴급 회의 소집은 사법 시스템에 중요한 변화가 있을 수 있음을 시사한다.",
+      "whyImportant": "AI 기술 확산에 따른 데이터 센터의 에너지 소비 증가와 그로 인한 환경 영향에 대한 우려를 보여줍니다.",
+      "importanceRationale": "근거: 데이터 센터의 천연 가스 사용 증가는 탄소 배출 증가로 이어져 기후 변화를 악화시킬 수 있습니다.",
       "impactSignals": [],
-      "dedupeKey": "사법개혁3법_입법임박_대법원긴급회의",
-      "clusterKey": "3법",
+      "dedupeKey": "data_center_natural_gas_ai_climate",
+      "clusterKey": "에너지/centers",
       "matchedTo": null,
-      "sourceName": "연합뉴스 한민족센터",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9iX0UySjFWNDd6V1B1bW5BOG5Uek9YM1JxcG5hcGZZN0RZTEZxUUpMb0V1Zk5jTDhSQV9wVHJ2cTZHSlhpV3pwY1hqc3RLa2FnQVAxNGktTHBSOTVRVmx5UFg4VDQ4aDB2Zjl3RnZLX1VLazha?oc=5",
-      "publishedAt": "2026-02-24T01:22:56.000Z",
+      "sourceName": "Fast Company",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUFBPWFBLYm00SUhfRnlZVk5hMzhMblNkbUlTbWlsY2pKak1PY29QMzBZTTMtOGR5ek5hbW5YWjU0ZEsxaXNmMUdKeWdMNGZHdlFINnBiZzc0ZWUyYk01YnpJWWRjZmtKMFgtODRkamprSElLS0QxRlFkU3VzMERYbHZPaHlhSGZ4YXZXU3lCQmw4QmprVExrLWFDQU9zUVVHcWV6RFVWN0VvSGJkTnI1bnh3ZDE4X0NFa000?oc=5",
+      "publishedAt": "2026-02-23T18:39:39.000Z",
       "readTimeSec": 10,
       "status": "kept",
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 간결하게 요약되어 있음. / 근거부족",
+      "qualityReason": "제목과 본문이 일치하며, 내용이 간결하고 명확합니다. / 근거부족",
       "isBriefing": false,
-      "isBreaking": true
+      "isBreaking": false
+    },
+    {
+      "id": "2026-02-24_19",
+      "date": "2026-02-24",
+      "category": "정책",
+      "title": "쩐 탄 만 국회 의장, 대의원 업무 위원회 근무",
+      "summary": [
+        "쩐 탄 만 국회 의장이 대의원 업무 위원회에서 근무합니다."
+      ],
+      "whyImportant": "국회 의장의 위원회 근무는 정책 결정에 영향을 미칠 수 있습니다.",
+      "importanceRationale": "근거: 국회 의장의 위원회 참여는 해당 위원회의 정책 결정 과정에 직접적인 영향을 줄 수 있기 때문입니다.",
+      "impactSignals": [],
+      "dedupeKey": "쩐 탄 만 국회 의장, 대의원 업무 위원회 근무",
+      "clusterKey": "vietnam",
+      "matchedTo": null,
+      "sourceName": "Vietnam.vn",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUHdFaVRpSkdfajV0dkNpajdhcENWU2ZCbUlzcmZfWjNEVFBMaGdKbVhyTTJqZk5BZ2drQlg3alhqQVRuLVhvSUZLbnFwZ19CZk5BNFU4Z0tFT2t1T0x5UHI1MXNxLXVaZm1VZkUycjV2Y1RXa0lQZkVZZFU0Y21HVVh1Y01fdUVSMUhqbktzdVdWWDVxNTB5NUhOejI?oc=5",
+      "publishedAt": "2026-02-24T03:27:36.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 50,
+      "qualityLabel": "ok",
+      "qualityReason": "기사 내용이 명확하고 간결합니다. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
     }
   ]
 }
