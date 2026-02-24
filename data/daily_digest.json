@@ -3,26 +3,26 @@
   "selectionCriteria": "① 내일도 영향이 남는 이슈 ② 과도한 감정 소모 제외 ③ 어제와 중복되는 뉴스 제외",
   "editorNote": "이 뉴스는 클릭 수가 아니라 오늘 이후에도 남는 정보만 기준으로 편집했습니다.",
   "question": "정보를 덜 보는 것이 오히려 더 똑똑한 소비일까?",
-  "lastUpdatedAt": "2026-02-25T04:50:37.554+09:00",
+  "lastUpdatedAt": "2026-02-25T05:32:15.898+09:00",
   "items": [
     {
       "id": "2026-02-25_1",
       "date": "2026-02-25",
       "category": "정책",
-      "title": "의회, 데이터 센터 추가 필요성 전달받았으나 환경 규제가 방해",
+      "title": "의회, 데이터 센터 추가 필요성 전달받았으나 환경 규제가 걸림돌",
       "summary": [
-        "의회는 데이터 센터의 추가적인 필요성을 전달받았다.",
-        "그러나 환경 규제가 데이터 센터 건설에 방해가 되고 있다는 의견이 제시되었다."
+        "의회는 데이터 센터의 필요성을 전달받았으나 환경 규제로 인해 어려움을 겪고 있다.",
+        "데이터 센터 증설에 대한 필요성과 환경 규제 간의 충돌이 주요 쟁점으로 부각되고 있다."
       ],
-      "whyImportant": "데이터 센터 증설의 필요성과 환경 규제 간의 충돌을 보여준다.",
-      "importanceRationale": "근거: 데이터 센터의 필요성이 증가하고 있지만, 환경 규제로 인해 증설에 어려움이 있다는 정보는 정책 결정에 영향을 미칠 수 있다.",
+      "whyImportant": "데이터 센터 증설의 필요성과 환경 규제 간의 충돌을 보여주는 사례이다.",
+      "importanceRationale": "근거: 데이터 센터 증설 필요성이 제기되었으나, 환경 규제가 이를 방해하고 있다는 내용이 보도됨.",
       "impactSignals": [
         {
           "label": "policy",
-          "evidence": "환경 규제가 데이터 센터 건설에 영향을 미친다는 내용"
+          "evidence": "환경 규제가 데이터 센터 증설에 영향을 미침"
         }
       ],
-      "dedupeKey": "data_center_environmental_regulations",
+      "dedupeKey": "congress_data_center_environmental_regulations",
       "clusterKey": "but",
       "matchedTo": null,
       "sourceName": "The Well News",
@@ -33,7 +33,7 @@
       "importance": 3.5,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 정보가 명확하게 전달됨.",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약됨.",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -46,8 +46,8 @@
         "Constellation Energy가 데이터 센터 수요 증가에 힘입어 이익 추정치를 상회했습니다.",
         "로이터 통신에 따르면 Constellation Energy의 실적 호조는 데이터 센터의 전력 수요 증가에 기인합니다."
       ],
-      "whyImportant": "Constellation Energy의 실적은 데이터 센터 시장의 성장과 전력 수요 증가를 반영합니다.",
-      "importanceRationale": "근거: 데이터 센터의 전력 수요 증가는 에너지 기업의 수익성에 직접적인 영향을 미치며, 관련 시장의 성장 가능성을 시사합니다.",
+      "whyImportant": "Constellation Energy의 실적은 데이터 센터 전력 수요의 중요성을 보여줍니다.",
+      "importanceRationale": "근거: 데이터 센터의 전력 수요 증가는 에너지 기업의 수익성에 직접적인 영향을 미치며, 관련 산업의 성장 가능성을 시사합니다.",
       "impactSignals": [],
       "dedupeKey": "constellation_energy_data_center_profit",
       "clusterKey": "에너지/center",
@@ -60,29 +60,23 @@
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 간결하게 핵심 내용을 전달합니다. / 근거부족",
+      "qualityReason": "제목과 본문이 일치하며, 정보가 명확합니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-02-25_3",
       "date": "2026-02-25",
-      "category": "국제",
+      "category": "에너지",
       "title": "모건 스탠리, 미국 LNG 가격에 대한 신중한 입장 표명: 공급 과잉 우려",
       "summary": [
-        "모건 스탠리는 미국 LNG 시장의 공급 급증으로 인해 가격이 하락할 수 있다는 전망을 내놓았습니다.",
-        "이는 LNG 시장의 경쟁 심화를 시사합니다.",
-        "모건 스탠리는 미국 LNG에 대해 신중한 입장을 취하고 있습니다."
+        "모건 스탠리는 미국 LNG 시장의 공급 급증으로 인해 가격이 하락할 수 있다는 신중한 입장을 밝혔습니다.",
+        "이는 LNG 시장의 수급 불균형에 대한 우려를 반영합니다."
       ],
-      "whyImportant": "미국 LNG 시장의 미래 가격 변동성 예측",
-      "importanceRationale": "근거: 모건 스탠리의 분석은 에너지 시장의 주요 동향을 파악하고 투자 전략을 수립하는 데 중요한 지표가 됩니다. 특히 LNG 가격 변동은 에너지 안보 및 시장 수요에 직접적인 영향을 미치므로 중요합니다.",
-      "impactSignals": [
-        {
-          "label": "market-demand",
-          "evidence": "공급 급증은 시장 수요에 영향을 미쳐 가격 하락을 초래할 수 있음"
-        }
-      ],
-      "dedupeKey": "모건 스탠리, 미국 LNG 가격에 대한 신중한 입장 표명: 공급 과잉 우려",
+      "whyImportant": "미국 LNG 시장의 가격 변동 가능성 시사",
+      "importanceRationale": "근거: 모건 스탠리의 분석은 시장 전문가의 의견을 반영하며, 에너지 시장의 잠재적 변동성을 예측하는 데 중요합니다.",
+      "impactSignals": [],
+      "dedupeKey": "morgans-stanley-lng-price-caution",
       "clusterKey": "lng에",
       "matchedTo": null,
       "sourceName": "Investing.com 한국어",
@@ -90,10 +84,10 @@
       "publishedAt": "2026-02-24T19:21:00.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 3.5,
+      "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 정보가 명확하게 전달됨.",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었습니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -103,13 +97,13 @@
       "category": "경제",
       "title": "2025년 실적, 가이던스 부합 - Horizons 전략 계획 발표",
       "summary": [
-        "Ipsos의 2025년 실적이 가이던스에 부합했습니다.",
-        "Horizons 전략 계획이 발표되었습니다."
+        "Ipsos는 2025년 실적이 가이던스에 부합한다고 발표했습니다.",
+        "Horizons 전략 계획이 시작되었습니다."
       ],
-      "whyImportant": "Ipsos의 재무 성과와 미래 전략 방향을 제시합니다.",
-      "importanceRationale": "근거: Ipsos의 실적 발표와 새로운 전략 계획 발표는 회사의 현재 상태와 미래 성장 가능성을 평가하는 데 중요한 지표가 됩니다.",
+      "whyImportant": "기업의 전략 계획 발표와 실적은 투자 및 경영 전략에 중요한 지표가 됩니다.",
+      "importanceRationale": "근거: 기업의 실적 발표는 시장의 기대치를 충족했는지 보여주며, 새로운 전략 계획은 미래 성장 방향을 제시하므로 투자자 및 이해관계자에게 중요한 정보입니다.",
       "impactSignals": [],
-      "dedupeKey": "Ipsos_2025_results_Horizons_plan",
+      "dedupeKey": "2025_results_horizons_plan",
       "clusterKey": "guidance",
       "matchedTo": null,
       "sourceName": "Ipsos",
@@ -120,7 +114,7 @@
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 텍스트이 일치하며, 정보가 명확합니다. / 근거부족",
+      "qualityReason": "The article provides factual information about the company's performance and strategic plan. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -132,12 +126,12 @@
       "summary": [
         "트럼프 정부가 배터리, 주철, 전력망 장비, 통신 장비 등에 대한 조사에 착수했다.",
         "이는 미국의 무역 정책 변화를 시사한다.",
-        "조사 대상 품목에 대한 구체적인 내용은 아직 알려지지 않았다."
+        "조사 대상 품목에 대한 상세 내용은 아직 공개되지 않았다."
       ],
       "whyImportant": "미국 정부의 정책 변화 가능성",
-      "importanceRationale": "근거: 트럼프 정부의 조사 착수는 향후 해당 품목에 대한 수입 규제 강화 또는 새로운 무역 장벽으로 이어질 수 있으며, 이는 관련 산업에 직접적인 영향을 미칠 수 있다.",
+      "importanceRationale": "근거: 트럼프 정부의 조사 착수는 향후 해당 품목에 대한 수입 규제나 관세 부과로 이어질 수 있으며, 이는 관련 산업에 직접적인 영향을 미칠 수 있기 때문이다.",
       "impactSignals": [],
-      "dedupeKey": "trump-investigation-batteries-iron-power-telecom",
+      "dedupeKey": "trump-investigation-batteries-steel",
       "clusterKey": "배터리",
       "matchedTo": null,
       "sourceName": "한국경제",
@@ -148,50 +142,23 @@
       "importance": 2,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약됨. / 근거부족",
+      "qualityReason": "기사 제목과 내용이 일치하며, 간결하게 요약되어 있음. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-02-25_6",
       "date": "2026-02-25",
-      "category": "경제",
-      "title": "중국, '군사 물자 활용' 이유로 일본 기업 20곳 수출 통제",
-      "summary": [
-        "중국이 군사 물자 활용을 이유로 일본 기업 20곳에 대해 수출 통제를 실시했다.",
-        "자세한 내용은 아직 알려지지 않았다.",
-        "이번 조치는 한중일 관계에 영향을 미칠 수 있다."
-      ],
-      "whyImportant": "이번 수출 통제는 관련 기업에 직접적인 영향을 미치며, 한중일 관계에 잠재적인 파장을 일으킬 수 있기 때문에 중요합니다.",
-      "importanceRationale": "근거: 중국의 수출 통제는 해당 일본 기업들의 경영에 직접적인 타격을 줄 수 있으며, 이는 일본 경제에도 영향을 줄 수 있다. 또한, 이러한 무역 제재는 외교적 긴장을 고조시켜 지역 안보에 부정적인 영향을 미칠 수 있다.",
-      "impactSignals": [],
-      "dedupeKey": "중국, '군사 물자 활용' 이유로 일본 기업 20곳 수출 통제",
-      "clusterKey": "20곳",
-      "matchedTo": null,
-      "sourceName": "한국경제",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBCWnFkUDNxd01uM0cxUjk1d3NxMnRHb0pPeEdLeTRJWklzTm5LWFV1LUs0dU5hNHlaclBZTEhFR3VZX1RiYkZHQWlpZXF5WkpqTlAyZ0VhZVptQdIBVEFVX3lxTFBKaGtLZVZyMDdmM215dEdUeTJ1WXJrR2lRNzdTaGt6THdoZFo2dkZMa1REamRmZ1dLUjRQTUI0OWlTZkJ1LXZjemtLend3VjZwM2JDZQ?oc=5",
-      "publishedAt": "2026-02-24T08:27:00.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 75,
-      "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되어 있습니다. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-02-25_7",
-      "date": "2026-02-25",
       "category": "정책",
       "title": "'1억 공천 헌금' 강선우 체포 동의안, 국회 본회의 가결(종합)",
       "summary": [
-        "강선우 의원의 '1억 공천 헌금' 관련 체포 동의안이 국회 본회의에서 가결되었습니다."
+        "강선우 의원의 '1억 공천 헌금' 관련 체포 동의안이 국회 본회의에서 가결되었습니다.",
+        "이번 결정은 정치권에 큰 파장을 일으킬 것으로 예상됩니다."
       ],
-      "whyImportant": "정치 자금 관련 수사에 중요한 영향을 미칠 수 있습니다.",
-      "importanceRationale": "근거: 국회의원 체포 동의안 가결은 정치적 및 법적으로 중요한 의미를 가지며, 향후 수사 및 정치적 파장에 영향을 줄 수 있습니다.",
+      "whyImportant": "국회의원 체포 동의안 가결은 정치적 및 법적으로 중요한 의미를 가집니다.",
+      "importanceRationale": "근거: 국회의원의 비리 혐의에 대한 수사가 본격화될 수 있으며, 정치적 책임 문제로 이어질 수 있습니다.",
       "impactSignals": [],
-      "dedupeKey": "gangseonwoo-arrest-approval",
+      "dedupeKey": "gangseonwoo_arrest_approval",
       "clusterKey": "1억",
       "matchedTo": null,
       "sourceName": "연합뉴스 한민족센터",
@@ -202,12 +169,12 @@
       "importance": 2,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었습니다. / 근거부족",
+      "qualityReason": "제목과 내용이 일치하며, 핵심 정보를 포함하고 있습니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-02-25_8",
+      "id": "2026-02-25_7",
       "date": "2026-02-25",
       "category": "에너지",
       "title": "데이터 센터와 제조업체에서 선호되는 천연 가스, 더 많은 용량과 파이프라인 필요",
@@ -215,10 +182,15 @@
         "에너지 연구소에 따르면 데이터 센터와 제조업체에서 천연 가스 선호도가 높습니다.",
         "더 많은 용량과 파이프라인이 필요합니다."
       ],
-      "whyImportant": "천연 가스 수요 증가와 관련된 인프라 투자 필요성을 강조합니다.",
-      "importanceRationale": "근거: 데이터 센터 및 제조업체의 천연 가스 선호도 증가는 관련 인프라 확충의 필요성을 야기하며, 이는 에너지 시장에 중요한 영향을 미칩니다.",
-      "impactSignals": [],
-      "dedupeKey": "natural_gas_demand_data_centers_manufacturers",
+      "whyImportant": "천연 가스 인프라 투자 필요성 증가",
+      "importanceRationale": "근거: 데이터 센터 및 제조업체의 천연 가스 선호도 증가는 관련 인프라 확충의 필요성을 시사합니다.",
+      "impactSignals": [
+        {
+          "label": "capex",
+          "evidence": "데이터 센터 및 제조업체의 천연 가스 선호도 증가로 인한 용량 및 파이프라인 투자 필요"
+        }
+      ],
+      "dedupeKey": "natural_gas_demand_infrastructure",
       "clusterKey": "에너지/capacity",
       "matchedTo": null,
       "sourceName": "The Institute for Energy Research",
@@ -226,47 +198,47 @@
       "publishedAt": "2026-02-24T19:34:25.000Z",
       "readTimeSec": 10,
       "status": "kept",
+      "importance": 3.5,
+      "importanceRaw": 63,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 내용이 일치하며, 정보가 간결하게 제공됨.",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-02-25_8",
+      "date": "2026-02-25",
+      "category": "경제",
+      "title": "중국, '군사 물자 활용' 이유로 일본 기업 20곳 수출 통제",
+      "summary": [
+        "중국이 군사 물자 활용을 이유로 일본 기업 20곳에 대해 수출 통제를 실시했다.",
+        "자세한 내용은 아직 알려지지 않았다."
+      ],
+      "whyImportant": "중국이 일본 기업에 대해 수출 통제를 실시함으로써 양국 간의 경제 및 외교 관계에 영향을 미칠 수 있다.",
+      "importanceRationale": "근거: 중국의 수출 통제는 해당 일본 기업의 사업 운영에 직접적인 영향을 미치며, 관련된 산업 전반에 걸쳐 파급 효과를 가져올 수 있다. 또한, 이러한 조치는 양국 관계의 긴장을 고조시킬 수 있는 요인으로 작용한다.",
+      "impactSignals": [],
+      "dedupeKey": "중국, '군사 물자 활용' 이유로 일본 기업 20곳 수출 통제",
+      "clusterKey": "20곳",
+      "matchedTo": null,
+      "sourceName": "한국경제",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBCWnFkUDNxd01uM0cxUjk1d3NxMnRHb0pPeEdLeTRJWklzTm5LWFV1LUs0dU5hNHlaclBZTEhFR3VZX1RiYkZHQWlpZXF5WkpqTlAyZ0VhZVptQdIBVEFVX3lxTFBKaGtLZVZyMDdmM215dEdUeTJ1WXJrR2lRNzdTaGt6THdoZFo2dkZMa1REamRmZ1dLUjRQTUI0OWlTZkJ1LXZjemtLend3VjZwM2JDZQ?oc=5",
+      "publishedAt": "2026-02-24T08:27:00.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 내용이 일치하며, 간결하게 핵심 내용을 전달합니다. / 근거부족",
+      "qualityReason": "제목과 본문이 일치하며, 간결하게 요약되어 있음. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-02-25_9",
       "date": "2026-02-25",
-      "category": "기술",
-      "title": "Google, 자체 전력 미네소타 데이터 센터에 대규모 투자",
-      "summary": [
-        "Google이 자체 전력으로 운영되는 미네소타 데이터 센터에 대규모 투자를 진행합니다.",
-        "이는 Google의 데이터 센터 운영 방식에 중요한 변화를 의미합니다."
-      ],
-      "whyImportant": "Google의 데이터 센터 투자 전략 변화를 보여주는 사례입니다.",
-      "importanceRationale": "근거: Google이 자체 전력 데이터 센터에 대규모 투자를 결정한 것은 에너지 효율성 및 비용 절감에 대한 의지를 나타냅니다.",
-      "impactSignals": [],
-      "dedupeKey": "google_minnesota_datacenter_selfpowered",
-      "clusterKey": "bets",
-      "matchedTo": null,
-      "sourceName": "The Tech Buzz",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbWI1Q3ZzSUhMVHoweTItLWpXTTYxVTFnLWZWbUliVFJMdUpHNEljYnZHRGlMbTJDWjlsamF0NmlQR1BYM3M3MlFGZ0EyemJKc1QwWnpyaEpYdFppcTVsQ2RhZ0kzdndsR3J1bTV1eVhLZXFRS2d5OU1aRmc1Q3QxeW1oQmh3MVZGNlc3cDJOOA?oc=5",
-      "publishedAt": "2026-02-24T19:20:00.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 63,
-      "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 정보가 명확합니다. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-02-25_10",
-      "date": "2026-02-25",
       "category": "국제",
       "title": "유럽 데이터 센터 GPU 시장 규모, 점유율 및 분석, 2034년",
       "summary": [
-        "유럽 데이터 센터 GPU 시장의 규모, 점유율 및 분석에 대한 2034년 시장 데이터 예측 보고서입니다."
+        "유럽 데이터 센터 GPU 시장 규모, 점유율 및 분석, 2034년 시장 데이터 예측."
       ],
       "whyImportant": "유럽 데이터 센터 GPU 시장의 미래 전망을 제시합니다.",
       "importanceRationale": "근거: 유럽 데이터 센터 GPU 시장의 규모, 점유율, 분석 및 2034년까지의 예측을 다루고 있어 시장의 성장 가능성과 투자 기회를 파악하는 데 중요합니다.",
@@ -282,28 +254,81 @@
       "importance": 2,
       "importanceRaw": 50,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 정보가 명확합니다. / 근거부족",
+      "qualityReason": "제목과 텍스트이 일치하며, 정보가 명확합니다. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-02-25_10",
+      "date": "2026-02-25",
+      "category": "국제",
+      "title": "인도, 미국 관세 위법 판결로 무역 협상에서 다양한 선택지 확보",
+      "summary": [
+        "인도는 미국의 관세 부과에 대한 위법 판결로 인해 무역 협상에서 더 많은 선택지를 갖게 되었습니다.",
+        "이는 인도에게 유리한 협상 조건을 이끌어낼 수 있는 기회를 제공합니다."
+      ],
+      "whyImportant": "인도가 미국의 관세 위법 판결을 활용하여 무역 협상에서 유리한 위치를 확보할 수 있기 때문입니다.",
+      "importanceRationale": "근거: 미국의 관세 부과에 대한 위법 판결은 인도에게 협상력을 높이는 중요한 계기가 됩니다.",
+      "impactSignals": [],
+      "dedupeKey": "인도, 美관세 위법 판결로 무역협상서 많은 선택지 확보",
+      "clusterKey": "많은",
+      "matchedTo": null,
+      "sourceName": "SBS Biz",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1fUXFJbFlkM09palp4SG9mRGFPYTNvQThvbkU1bmxNSF9JaWdIYTVYbm9HTDZ3WkUtXy1jS0pETlpzSlpfLWp6QkhYMDczdHRkS0Nv0gFYQVVfeXFMTml1LUppbWhPU0ZKRm5fTk4yZmw2TXJQTnR4X2ExMndqTHg3ZFpEdUtqRkZwc20zc2t2YzV3N1ZzMUpLa1RKbGNrSzRWUjdDNGwyYmJIUXJwUw?oc=5",
+      "publishedAt": "2026-02-24T02:39:00.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 75,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었습니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-02-25_11",
       "date": "2026-02-25",
-      "category": "기술",
+      "category": "정책",
+      "title": "미국 상무부, 중국에 H200 칩 판매 없다고 확인",
+      "summary": [
+        "미국 상무부는 중국에 H200 칩을 판매하지 않았다고 확인했습니다."
+      ],
+      "whyImportant": "미국 정부의 대중국 기술 수출 정책의 엄격함을 보여주는 사례입니다.",
+      "importanceRationale": "근거: 미국 상무부의 공식 발표는 미국의 대중국 기술 수출 통제 정책이 실제로 작동하고 있음을 시사하며, 이는 반도체 산업 및 관련 시장에 중요한 영향을 미칠 수 있습니다.",
+      "impactSignals": [],
+      "dedupeKey": "USCommerceNoH200ToChina",
+      "clusterKey": "china",
+      "matchedTo": null,
+      "sourceName": "scanx.trade",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeXpibk03SFpiaWF6eDlDTTZoZzMtVEFGd3dUanY1WlhqLVV6NGdVZ1JtR1dhUmplaWo5QnhqdjN6R2VSa1Y4SXBpYkZtUEZQektic2ozVjgtYzFNWWt0TGVPaDhZbnl6elphVGJGREZQeFNvS2lPOThwYS1nUWlSRnBKcGNudXdsWFRiMElQbVYzLXFBZFIzNjlVbHl3N2MxQk9VaVFpOTFlZG5uZW5xbUN1cnA?oc=5",
+      "publishedAt": "2026-02-24T20:14:43.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 75,
+      "qualityLabel": "ok",
+      "qualityReason": "The article is a factual report from a credible source. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-02-25_12",
+      "date": "2026-02-25",
+      "category": "경제",
       "title": "알파벳, 대규모 데이터센터 건설 및 전력망 투자 발표…주가는 약보합",
       "summary": [
         "알파벳이 대규모 데이터센터 건설과 전력망 투자를 발표했습니다.",
         "주가는 소폭 하락했습니다."
       ],
-      "whyImportant": "알파벳의 데이터센터 확장 및 전력망 투자는 클라우드 서비스 및 AI 기술 개발에 중요한 기반이 됩니다.",
-      "importanceRationale": "근거: 데이터센터는 알파벳의 핵심 서비스 제공에 필수적이며, 전력망 투자는 안정적인 운영을 보장합니다.",
+      "whyImportant": "알파벳의 데이터센터 확장 및 전력망 투자는 클라우드 서비스 및 AI 기술 경쟁력 강화에 중요한 역할을 합니다.",
+      "importanceRationale": "근거: 데이터센터는 클라우드 컴퓨팅과 AI 개발의 핵심 인프라로, 투자는 장기적인 성장 동력 확보에 기여합니다.",
       "impactSignals": [
         {
           "label": "capex",
           "evidence": "대규모 데이터센터 건설 및 전력망 투자 발표"
         }
       ],
-      "dedupeKey": "alphabet_datacenter_capex_20240118",
+      "dedupeKey": "alphabet-datacenter-powergrid-capex",
       "clusterKey": "에너지/건립",
       "matchedTo": null,
       "sourceName": "마켓인",
@@ -314,63 +339,32 @@
       "importance": 4,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 정보가 간결하게 요약되어 있습니다.",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-02-25_12",
-      "date": "2026-02-25",
-      "category": "정책",
-      "title": "중대범죄수사청법안 및 공소청법안 재입법예고 실시",
-      "summary": [
-        "중대범죄수사청법안과 공소청법안에 대한 재입법예고가 실시됨."
-      ],
-      "whyImportant": "중대범죄수사청법과 공소청법의 제정은 검찰의 수사권과 기소권 분리에 중요한 영향을 미침.",
-      "importanceRationale": "근거: 법안의 내용은 향후 사법 시스템과 관련된 정책 결정에 중요한 영향을 미치므로.",
-      "impactSignals": [
-        {
-          "label": "policy",
-          "evidence": "중대범죄수사청법안 및 공소청법안의 재입법예고는 정책 변화를 의미함"
-        }
-      ],
-      "dedupeKey": "중대범죄수사청법안 및 공소청법안 재입법예고 실시",
-      "clusterKey": "공소청법안",
-      "matchedTo": null,
-      "sourceName": "한국방송뉴스",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAyT3VXSGZ4akdVYjVBZ2xGcUlPTjBCSDZTN1haREdrbkpacEUwbEVsT3MtbGZoQjNuRzJDNmpZWW1NcmxxN2hDakt1TGRqX2hEcEJ6bVJMNUpSb1BIS3c?oc=5",
-      "publishedAt": "2026-02-24T05:47:57.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 4,
-      "importanceRaw": 75,
-      "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며 간결하게 요약됨.",
+      "qualityReason": "제목과 내용이 일치하며, 핵심 정보를 요약했습니다.",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-02-25_13",
       "date": "2026-02-25",
-      "category": "정책",
-      "title": "전남-광주 통합 특별법, 국회 법사위 통과",
+      "category": "경제",
+      "title": "3차 상법, 본회의에서 여당 주도로 처리 전망…'법 왜곡죄' 즉시 상정",
       "summary": [
-        "전남-광주 통합 특별법이 국회 법제사법위원회를 통과했습니다.",
-        "이 법안은 두 지역의 통합을 위한 특별 조치를 담고 있습니다."
+        "3차 상법이 본회의에서 여당 주도로 처리될 것으로 예상됩니다.",
+        "'법 왜곡죄'가 곧바로 상정될 예정입니다."
       ],
-      "whyImportant": "전남-광주 통합에 대한 정책적 지원의 근거가 마련되었습니다.",
-      "importanceRationale": "근거: 전남-광주 통합 특별법이 국회 법사위를 통과함으로써, 향후 두 지역 통합을 위한 정책 추진에 필요한 법적 기반이 확보되었습니다.",
+      "whyImportant": "3차 상법의 통과 여부와 법 왜곡죄 상정은 기업 활동 및 법률 환경에 중요한 영향을 미칠 수 있습니다.",
+      "importanceRationale": "근거: 3차 상법의 내용은 기업 지배 구조 및 경영 활동에 직접적인 영향을 미치며, '법 왜곡죄'의 도입은 법률 해석 및 적용에 대한 새로운 기준을 제시할 수 있기 때문입니다.",
       "impactSignals": [],
-      "dedupeKey": "전남광주 통합특별법 국회 법사위 통과",
-      "clusterKey": "국회",
+      "dedupeKey": "3rd commercial law bill expected to be passed by the ruling party",
+      "clusterKey": "3차",
       "matchedTo": null,
-      "sourceName": "드림투데이",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE45cV9sZWlGczRrcEcxMlBvWHdxMUNoeVFfeGVIWlhEdDhIdzBlS002djZTek5ZdlVISWdkZWhRYVhuN3NyUmYtdE5HYVB6czYxYXJwd1UzVkN5OEYxQVJQZ2MwcUludkh1NUE?oc=5",
-      "publishedAt": "2026-02-24T05:08:06.000Z",
+      "sourceName": "연합뉴스 한민족센터",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9mS01oZWIzYnV1U3d6SkZIeTdLcWRfRXVRZkIwWGtSSXlhRnJ5LU5QQ0dTSm41bFYxTmdzVW9WdXRZaHVNX0k1cFF3SjNScFo1azhhUi1Uc3YxaDlaWmMyZmRaVnkwaDZTMWNsTzFXTFRQcUVQ?oc=5",
+      "publishedAt": "2026-02-24T20:00:00.000Z",
       "readTimeSec": 10,
       "status": "kept",
       "importance": 2,
-      "importanceRaw": 75,
+      "importanceRaw": 63,
       "qualityLabel": "ok",
       "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었습니다. / 근거부족",
       "isBriefing": false,
@@ -380,105 +374,48 @@
       "id": "2026-02-25_14",
       "date": "2026-02-25",
       "category": "기술",
-      "title": "지상파 3사, 오픈AI 상대로 저작권 침해 소송 제기",
+      "title": "Quantcore, 양자 하드웨어 공급망 구축 위해 250만 파운드 투자 유치",
       "summary": [
-        "지상파 3사가 오픈AI를 상대로 저작권 침해 소송을 제기했습니다."
+        "Quantcore가 양자 하드웨어 공급망 구축을 위해 250만 파운드를 투자 받았습니다.",
+        "이번 투자는 영국 내 양자 기술 발전에 기여할 것으로 예상됩니다."
       ],
-      "whyImportant": "이번 소송은 AI 기술 발전과 저작권 보호 사이의 중요한 법적 분쟁을 야기합니다.",
-      "importanceRationale": "근거: 지상파 방송사의 저작권 침해 주장은 AI 학습 데이터 사용에 대한 중요한 선례를 만들 수 있으며, 향후 AI 기술 개발 및 콘텐츠 산업에 큰 영향을 미칠 수 있습니다.",
-      "impactSignals": [],
-      "dedupeKey": "지상파 3사, 오픈AI 저작권 침해 소송",
-      "clusterKey": "3사",
+      "whyImportant": "영국 양자 기술 공급망 구축의 시작을 알리는 신호탄입니다.",
+      "importanceRationale": "근거: Quantcore의 투자 유치는 영국 내 양자 기술 하드웨어 공급망 구축을 위한 중요한 첫걸음이며, 이는 관련 산업 발전에 긍정적인 영향을 미칠 수 있습니다.",
+      "impactSignals": [
+        {
+          "label": "capex",
+          "evidence": "Quantcore가 양자 하드웨어 공급망 구축을 위해 250만 파운드를 투자 받음"
+        }
+      ],
+      "dedupeKey": "quantcore_2.5m_quantum_hardware",
+      "clusterKey": "build",
       "matchedTo": null,
-      "sourceName": "mstoday.co.kr",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB0Sldwd0NpcVY4YUQ0cU1OaTlWOHdLRDZOeGV3bk9FVFNvMmhhQy1wUnpCVW1tS3FmSUZxWGJlclhzRV9CWndlcmt0WVhXWVZkd1M3dzZxV2E2RUozeDBYZWlXd2FrYUhucjNERQ?oc=5",
-      "publishedAt": "2026-02-24T01:53:55.000Z",
+      "sourceName": "HPCwire",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSTdqR1lieTJ3ZzhLYTMzM05aVGVaQ0N4NHNJV0ZYWElBTnNrR2JVX0FaSzJPamV6ZFdla05kZ2VoSjRVTlpPa3htZWQzTm9rX05aZUZZdW40UmJYRG5MMzRvVmd1TEVPVzhPNGJsWFhrMTVSSVVuckRUeURIRUNjcmFrYnFiaTJQUlMzNXVLYk1fTWFwUFV2cDJGQ2JDMTdzUHlCb3paLWY?oc=5",
+      "publishedAt": "2026-02-24T20:15:00.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 2,
-      "importanceRaw": 75,
+      "importance": 3.5,
+      "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었습니다. / 근거부족",
+      "qualityReason": "제목과 본문이 일치하며, 정보가 명확합니다.",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-02-25_15",
       "date": "2026-02-25",
-      "category": "경제",
-      "title": "미국 2월 소비자신뢰지수 소폭 개선, 미래 비관 전망 다소 완화",
-      "summary": [
-        "미국 2월 소비자신뢰지수가 소폭 개선되었습니다.",
-        "미래에 대한 비관적인 전망이 다소 완화된 것으로 나타났습니다."
-      ],
-      "whyImportant": "소비자 신뢰도 변화는 경제 상황을 예측하는 데 중요한 지표입니다.",
-      "importanceRationale": "근거: 소비자 신뢰도는 소비 지출과 밀접한 관련이 있으며, 이는 기업 수익 및 전반적인 경제 성장에 영향을 미칩니다.",
-      "impactSignals": [],
-      "dedupeKey": "20240308_미국2월소비자신뢰지수소폭개선",
-      "clusterKey": "2월",
-      "matchedTo": null,
-      "sourceName": "연합뉴스 한민족센터",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBWTjZnV3U1bHdoLTMzSjJiNmNTYVlfTTA2dVA1TlM3eEV3MEh5NlpHVWJoVENJQnhpUE9ZUmJVOU93V0JYUXRQRnA5Nm8xQlpsdVRhYTZPTHVESmRmR1pvMlRiWWlXRWxXRVZqREs1VHBGTGow?oc=5",
-      "publishedAt": "2026-02-24T15:19:27.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 63,
-      "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었습니다. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-02-25_16",
-      "date": "2026-02-25",
-      "category": "기술",
-      "title": "Quantcore, 양자 하드웨어 공급망 구축 위해 250만 파운드 투자 유치",
-      "summary": [
-        "Quantcore는 양자 하드웨어 공급망 구축을 위해 250만 파운드의 투자를 유치했습니다.",
-        "이는 영국 내 양자 기술 발전에 기여할 것으로 예상됩니다."
-      ],
-      "whyImportant": "영국 양자 기술 공급망 구축의 중요한 투자입니다.",
-      "importanceRationale": "근거: Quantcore의 투자 유치는 영국 내 양자 하드웨어 공급망 구축을 가속화하고, 관련 기술 발전에 기여할 수 있기 때문입니다.",
-      "impactSignals": [
-        {
-          "label": "capex",
-          "evidence": "Quantcore Raises £2.5M to Build UK Supply Chain for Quantum Hardware"
-        }
-      ],
-      "dedupeKey": "quantcore_2.5m_quantum_hardware_supply_chain",
-      "clusterKey": "build",
-      "matchedTo": null,
-      "sourceName": "HPCwire",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSTdqR1lieTJ3ZzhLYTMzM05aVGVaQ0N4NHNJV0ZYWElBTnNrR2JVX0FaSzJPamV6ZFdla05kZ2VoSjRVTlpPa3htZWQzTm9rX05aZUZZdW40UmJYRG5MMzRvVmd1TEVPVzhPNGJsWFhrMTVSSVVuckRUeURIRUNjcmFrYnFiaTJQUlMzNXVLYk1fTWFwUFV2cDJGQ2JDMTdzUHlCb3paLWY?oc=5",
-      "publishedAt": "2026-02-24T19:37:17.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 3.5,
-      "importanceRaw": 63,
-      "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 정보가 명확합니다.",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-02-25_17",
-      "date": "2026-02-25",
       "category": "정책",
       "title": "트럼프, 국정연설 중 데이터 센터 에너지 거래 발표 예정",
       "summary": [
         "트럼프 대통령이 국정연설에서 데이터 센터 에너지 거래를 발표할 예정이다.",
-        "이 거래는 데이터 센터의 에너지 효율성을 높이는 데 중점을 둘 것으로 예상된다."
+        "정확한 거래 내용은 아직 공개되지 않았다.",
+        "이번 발표는 데이터 센터 산업에 대한 투자를 강조할 것으로 예상된다."
       ],
-      "whyImportant": "데이터 센터 에너지 거래 발표의 중요성",
-      "importanceRationale": "근거: 데이터 센터 에너지 거래는 에너지 효율성을 높이고 관련 산업 투자를 촉진할 수 있기 때문이다.",
-      "impactSignals": [
-        {
-          "label": "capex",
-          "evidence": "데이터 센터 에너지 거래 발표는 관련 산업 투자를 촉진할 수 있다."
-        }
-      ],
-      "dedupeKey": "trump-data-center-energy-deals-sotu",
+      "whyImportant": "데이터 센터 에너지 거래 발표는 관련 산업에 대한 투자와 정책 방향을 제시할 수 있기 때문에 중요하다.",
+      "importanceRationale": "근거: 데이터 센터 에너지 거래는 관련 산업의 자본 지출(capex)에 영향을 미치며, 이는 시장과 관련 기업의 투자 결정에 중요한 신호가 될 수 있다.",
+      "impactSignals": [],
+      "dedupeKey": "trump_data_center_energy_deals_sotu",
       "clusterKey": "에너지/announce",
       "matchedTo": null,
       "sourceName": "Politico",
@@ -486,24 +423,105 @@
       "publishedAt": "2026-02-24T19:15:46.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 3.5,
+      "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "기사 내용이 간결하고 명확함",
+      "qualityReason": "기사 제목과 내용이 일치하며, 정보가 간결하게 제공됨. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-02-25_16",
+      "date": "2026-02-25",
+      "category": "에너지",
+      "title": "기후부 제2차관, IEA 각료이사회에서 전력 안보 논의 주도",
+      "summary": [
+        "기후부 제2차관이 IEA 각료이사회에서 전력 안보 논의를 주도했습니다."
+      ],
+      "whyImportant": "기후 변화 시대의 에너지 안보 강화 필요성 증대",
+      "importanceRationale": "근거: 기후부 제2차관이 IEA 각료이사회에서 전력 안보 논의를 주도한 것은 국제적인 에너지 안보 협력의 중요성을 강조합니다.",
+      "impactSignals": [],
+      "dedupeKey": "기후부 제2차관, IEA 각료이사회서 전력안보 논의 주도",
+      "clusterKey": "iea",
+      "matchedTo": null,
+      "sourceName": "인사이트N파워",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9GdWs3QVhEbGgtNlZURFJTT1YyUkdsajFXT0ZQbml3bDVqMi0zWklfdGhscjJxcWs4SkpJUzh5Q3J0cGxqVWJZbFJDbkNWd0Y4R0hheHg0YURuVEZDV0tKMGpEVDJQQQ?oc=5",
+      "publishedAt": "2026-02-24T18:47:44.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 63,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었습니다. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-02-25_17",
+      "date": "2026-02-25",
+      "category": "경제",
+      "title": "트럼프, 기술 기업에 데이터 센터 비용 부담 약속 요구",
+      "summary": [
+        "트럼프 대통령이 기술 기업들에게 데이터 센터 비용을 부담할 것을 요구하고 있다.",
+        "이는 기술 기업의 자본 지출에 영향을 미칠 수 있다."
+      ],
+      "whyImportant": "기술 기업의 데이터 센터 투자에 영향을 줄 수 있다.",
+      "importanceRationale": "근거: 트럼프 대통령의 요구는 기술 기업의 자본 지출(capex)에 직접적인 영향을 미칠 수 있기 때문이다.",
+      "impactSignals": [],
+      "dedupeKey": "TrumpDataCenterCosts",
+      "clusterKey": "cover",
+      "matchedTo": null,
+      "sourceName": "Yahoo Finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOeHNzWnEyR2hycDdMcDZabDdyQjZ6a0VDYVNNSzdSRUVGQ2tNLXlRYzJIT2N6S0hpa3lHS3VJdmlHUDJsalB5eFVqOFBHTjZKSGFQNlM3UmM2VWJPWTM2TWJfZHUyRWQxMHY5YXRsWEdTTnNPS21yU0R2dXZHZ1JtNEFGZWg?oc=5",
+      "publishedAt": "2026-02-24T16:30:41.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 63,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약됨. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-02-25_18",
       "date": "2026-02-25",
-      "category": "경제",
-      "title": "베이커 휴즈, Boom Supersonic의 AI 데이터 센터 솔루션에 전력 공급을 위한 1.21기가와트 발전기 주문 확보",
+      "category": "정책",
+      "title": "규제 대응 시간 단축, 노코드·AI 기반 사이버 GRC 전환 확산",
+      "summary": [
+        "노코드·AI 기반 사이버 GRC(거버넌스, 위험 관리 및 규정 준수)로의 전환이 확산되고 있다.",
+        "이는 규제 대응 시간을 단축하는 데 기여한다.",
+        "지티티코리아가 이러한 전환을 주도하고 있다."
+      ],
+      "whyImportant": "노코드 및 AI 기반 사이버 GRC 시스템으로의 전환은 기업의 규제 준수 및 위험 관리 효율성을 향상시킬 수 있다.",
+      "importanceRationale": "근거: 규제 대응 시간 단축은 기업 운영 비용 절감 및 시장 경쟁력 강화로 이어진다. 노코드 및 AI 기술 도입은 이러한 효율성 향상을 가능하게 한다.",
+      "impactSignals": [],
+      "dedupeKey": "규제 대응 시간 단축, 노코드·AI 기반 사이버 GRC 전환 확산",
+      "clusterKey": "grc",
+      "matchedTo": null,
+      "sourceName": "지티티코리아",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0xaklqRGY1ZUt5NzNrTTh6V3NBaWlwM1QtWHFJQWM0Z281SFlJbGQ5ZVYzVl81U2dmeGMzY3hCOVVwaXFmMUhfOHhJX1NQWXE4b2hQLTgyR1BIV25mSVpvVGNZbU5sYXpxVEE?oc=5",
+      "publishedAt": "2026-02-24T15:20:00.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 63,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 본문이 일치하며, 정보가 간결하고 명확하다. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-02-25_19",
+      "date": "2026-02-25",
+      "category": "에너지",
+      "title": "베이커 휴즈, Boom Supersonic의 AI 데이터 센터 솔루션 전력 공급을 위한 1.21기가와트 발전기 주문 확보",
       "summary": [
         "베이커 휴즈가 Boom Supersonic의 AI 데이터 센터 솔루션에 전력을 공급하기 위해 1.21기가와트 발전기 주문을 확보했습니다.",
-        "이번 계약은 항공우주 산업의 AI 인프라 구축에 중요한 역할을 할 것으로 예상됩니다."
+        "이번 계약은 Boom Supersonic의 AI 데이터 센터 운영에 필요한 전력을 안정적으로 공급하는 데 중요한 역할을 할 것입니다."
       ],
-      "whyImportant": "이번 계약은 베이커 휴즈와 Boom Supersonic 모두에게 중요한 의미를 가집니다.",
-      "importanceRationale": "근거: 베이커 휴즈는 새로운 시장에서의 입지를 강화하고, Boom Supersonic은 AI 데이터 센터의 전력 공급을 안정적으로 확보할 수 있게 되었습니다.",
+      "whyImportant": "Boom Supersonic의 AI 데이터 센터 운영에 필요한 대규모 전력 공급 계약입니다.",
+      "importanceRationale": "근거: 베이커 휴즈가 Boom Supersonic의 AI 데이터 센터에 전력을 공급하기 위한 대규모 발전기 주문을 확보했다는 사실은, 해당 데이터 센터의 중요성과 규모를 시사합니다.",
       "impactSignals": [],
       "dedupeKey": "FlyBy - Baker Hughes Secures 1.21 Gigawatt Generator Order to Power Boom Supersonic’s AI Data Center Solution",
       "clusterKey": "에너지/baker",
@@ -516,33 +534,7 @@
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 내용이 일치하며, 핵심 정보를 포함하고 있습니다. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-02-25_19",
-      "date": "2026-02-25",
-      "category": "경제",
-      "title": "주요 디지털 건강 자금 조달: Talkiatry, SpendRule 및 Coral Care",
-      "summary": [
-        "Talkiatry, SpendRule 및 Coral Care가 주요 디지털 건강 자금 조달을 받았습니다."
-      ],
-      "whyImportant": "디지털 건강 분야의 투자 동향을 파악하는 데 중요합니다.",
-      "importanceRationale": "근거: 디지털 건강 기업 Talkiatry, SpendRule, Coral Care의 자금 조달은 해당 분야의 투자 활동을 나타냅니다.",
-      "impactSignals": [],
-      "dedupeKey": "digital_health_funding_20240110",
-      "clusterKey": "care",
-      "matchedTo": null,
-      "sourceName": "Modern Healthcare News",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUlJFekJFVW9jbWNtbDZXMExkcGpWMU5sM240R1FKRWVSeWxPOEJaSkRwSThmMFVwdHFjZDc2Mi03bEZwT3g5S1paY1NsNXl1M3puZW5oM0hnRlRSMThHbDJjT2d1eWp3TVZsRF9ER1NIZFNvSkVOSVFYc1dJM0lYRlU0TDctSklVa19hOENLTTdNZ1dvd2c?oc=5",
-      "publishedAt": "2026-02-24T11:01:04.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 50,
-      "qualityLabel": "ok",
-      "qualityReason": "제목과 텍스트가 일치하며, 정보가 명확합니다. / 근거부족",
+      "qualityReason": "제목과 본문이 일치하며, 정보가 명확합니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     }
