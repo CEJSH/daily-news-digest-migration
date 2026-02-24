@@ -5,45 +5,48 @@
   "totalOut": 19,
   "dropped": 266,
   "dropReasons": {
-    "outdated": 101,
-    "carry_over_duplicate": 17,
+    "outdated": 99,
+    "carry_over_duplicate": 16,
     "hard_excluded_keyword": 9,
     "duplicate_title": 8,
     "duplicate_dedupe_key": 7,
     "excluded_keyword": 1,
-    "not_selected": 123,
-    "validation_dropped": 1
+    "semantic_duplicate": 1,
+    "not_selected": 124,
+    "validation_dropped": 1,
+    "duplicate_similarity": 1
   },
   "impactLabels": {
-    "security": 3,
-    "capex": 3,
+    "sanctions": 1,
+    "capex": 2,
+    "security": 2,
+    "policy": 4,
     "market-demand": 1,
-    "policy": 3
+    "earnings": 1
   },
   "sources": {
-    "한국무역협회-KITA.NET": 1,
+    "한국무역협회-KITA.NET": 2,
+    "Louisiana Illuminator": 1,
     "한국경제": 2,
     "SC Media": 1,
-    "About Amazon": 1,
+    "지티티코리아": 1,
     "연합뉴스 한민족센터": 2,
     "CircleID": 1,
     "매일경제TV": 1,
-    "Security Boulevard": 1,
-    "마켓인": 1,
+    "신아일보": 1,
+    "로이슈": 1,
+    "드림투데이": 1,
     "동아사이언스": 1,
-    "매일노동뉴스": 1,
-    "Arizona Digital Free Press": 1,
-    "스트레이트뉴스": 1,
-    "매거진한경": 1,
-    "BRIC": 1,
-    "Fast Company": 1,
-    "Vietnam.vn": 1
+    "TechCrunch": 1,
+    "서울경제TV": 1,
+    "톱데일리": 1,
+    "매거진한경": 1
   },
   "topicStats": {
     "IT": {
       "in": 24,
-      "out": 0,
-      "dropped": 24
+      "out": 1,
+      "dropped": 23
     },
     "경제": {
       "in": 30,
@@ -62,18 +65,18 @@
     },
     "실적_가이던스": {
       "in": 24,
-      "out": 1,
-      "dropped": 23
+      "out": 3,
+      "dropped": 21
     },
     "반도체_공급망": {
       "in": 24,
-      "out": 1,
-      "dropped": 23
+      "out": 2,
+      "dropped": 22
     },
     "전력_인프라": {
       "in": 24,
-      "out": 2,
-      "dropped": 22
+      "out": 3,
+      "dropped": 21
     },
     "AI_저작권_데이터권리": {
       "in": 20,
@@ -82,18 +85,18 @@
     },
     "보안_취약점_패치": {
       "in": 20,
-      "out": 1,
-      "dropped": 19
+      "out": 0,
+      "dropped": 20
     },
     "투자_MA_IPO": {
       "in": 20,
-      "out": 1,
-      "dropped": 19
+      "out": 0,
+      "dropped": 20
     },
     "국내_정책_규제": {
       "in": 15,
-      "out": 7,
-      "dropped": 8
+      "out": 4,
+      "dropped": 11
     },
     "국내_산업_공급망": {
       "in": 15,
@@ -127,6 +130,9 @@
     "매일경제": {
       "outdated": 2
     },
+    "더퍼블릭": {
+      "outdated": 2
+    },
     "인공지능신문": {
       "outdated": 1,
       "carry_over_duplicate": 1,
@@ -135,30 +141,32 @@
     "비즈니스포스트": {
       "outdated": 2
     },
+    "스트레이트뉴스": {
+      "outdated": 2,
+      "not_selected": 2
+    },
     "knn.co.kr": {
       "outdated": 1
     },
     "쿠키뉴스": {
       "outdated": 1
     },
-    "연합뉴스 한민족센터": {
-      "outdated": 1,
-      "not_selected": 4
-    },
-    "뉴스1": {
-      "outdated": 2,
-      "not_selected": 2
-    },
     "TRENDS Research & Advisory": {
+      "outdated": 1
+    },
+    "Built In": {
       "outdated": 1
     },
     "Bipartisan Policy Center": {
       "outdated": 1
     },
-    "Davis Wright Tremaine": {
+    "DatacenterDynamics": {
       "outdated": 1
     },
     "Cornell Chronicle": {
+      "outdated": 1
+    },
+    "Davis Wright Tremaine": {
       "outdated": 1
     },
     "The American Action Forum": {
@@ -170,20 +178,25 @@
     "Mayer Brown": {
       "outdated": 1
     },
-    "About Amazon": {
-      "outdated": 1
-    },
-    "JD Supra": {
-      "outdated": 1
-    },
     "Brookings": {
       "outdated": 1
     },
     "청년일보": {
       "outdated": 1
     },
+    "ebn.co.kr": {
+      "outdated": 3,
+      "not_selected": 3
+    },
+    "Investing.com 한국어": {
+      "hard_excluded_keyword": 1
+    },
     "바이오타임즈": {
       "outdated": 1
+    },
+    "한국경제": {
+      "outdated": 2,
+      "not_selected": 2
     },
     "더바이오": {
       "outdated": 1
@@ -191,21 +204,8 @@
     "한스경제": {
       "outdated": 1
     },
-    "edaily.co.kr": {
-      "outdated": 1,
-      "not_selected": 1
-    },
-    "한국경제": {
-      "outdated": 2,
-      "carry_over_duplicate": 1,
-      "not_selected": 3
-    },
     "포인트데일리": {
       "outdated": 1
-    },
-    "ebn.co.kr": {
-      "outdated": 2,
-      "not_selected": 3
     },
     "인포스탁데일리": {
       "outdated": 1
@@ -222,15 +222,11 @@
     "CEO스코어데일리": {
       "outdated": 1
     },
-    "Federal Reserve Bank of Dallas": {
-      "outdated": 1
-    },
     "WWF EU": {
       "outdated": 1
     },
     "Reuters": {
-      "outdated": 2,
-      "not_selected": 2
+      "outdated": 2
     },
     "MSCI": {
       "outdated": 1
@@ -259,24 +255,38 @@
     "Bank for International Settlements": {
       "outdated": 1
     },
-    "ABN AMRO": {
+    "Federal Reserve Bank of Dallas": {
       "outdated": 1
     },
-    "European Central Bank": {
+    "ABN AMRO": {
       "outdated": 1
     },
     "kansascityfed.org": {
       "outdated": 1
     },
+    "Bruegel": {
+      "outdated": 1
+    },
     "SBS Biz": {
       "duplicate_title": 1
     },
+    "연합인포맥스": {
+      "carry_over_duplicate": 2,
+      "outdated": 2,
+      "not_selected": 7
+    },
     "마켓인": {
       "carry_over_duplicate": 1,
-      "outdated": 4,
+      "outdated": 3,
       "not_selected": 3
     },
     "DC Velocity": {
+      "carry_over_duplicate": 1
+    },
+    "constellationenergy.com": {
+      "outdated": 1
+    },
+    "Newswise": {
       "carry_over_duplicate": 1
     },
     "The Robot Report": {
@@ -285,14 +295,8 @@
     "RealClearDefense": {
       "carry_over_duplicate": 1
     },
-    "Newswise": {
-      "carry_over_duplicate": 1
-    },
     "Barron's": {
       "carry_over_duplicate": 1
-    },
-    "TechCrunch": {
-      "duplicate_dedupe_key": 1
     },
     "Investopedia": {
       "duplicate_title": 1
@@ -303,14 +307,8 @@
     "Quiver Quantitative": {
       "duplicate_dedupe_key": 1
     },
-    "TradingView": {
-      "carry_over_duplicate": 1
-    },
     "KBS 뉴스": {
       "duplicate_title": 1
-    },
-    "서울타임즈뉴스": {
-      "duplicate_dedupe_key": 1
     },
     "Information Technology and Innovation Foundation (ITIF)": {
       "outdated": 2
@@ -330,15 +328,18 @@
     "Congressman Michael McCaul (.gov)": {
       "outdated": 1
     },
-    "Center for a New American Security": {
+    "cnas.org": {
       "outdated": 1
     },
     "The Foundation for American Innovation": {
       "outdated": 1
     },
     "CNBC": {
-      "outdated": 1,
-      "not_selected": 1
+      "outdated": 1
+    },
+    "에너지경제신문": {
+      "duplicate_dedupe_key": 1,
+      "not_selected": 2
     },
     "이로운넷": {
       "duplicate_dedupe_key": 1,
@@ -347,28 +348,18 @@
     "매일일보": {
       "duplicate_title": 1
     },
-    "서울파이낸스": {
-      "duplicate_title": 1,
-      "not_selected": 3
-    },
     "매거진한경": {
       "duplicate_title": 1,
       "outdated": 1
     },
-    "Mahomet Daily": {
+    "The Washington Post": {
       "carry_over_duplicate": 1
-    },
-    "Tom's Hardware": {
-      "carry_over_duplicate": 1
-    },
-    "grist.org": {
-      "outdated": 1
     },
     "파이낸셜투데이": {
       "carry_over_duplicate": 1
     },
-    "특허뉴스": {
-      "outdated": 1
+    "edaily.co.kr": {
+      "duplicate_dedupe_key": 1
     },
     "Cureus": {
       "carry_over_duplicate": 1
@@ -394,13 +385,13 @@
     "SOC Prime": {
       "carry_over_duplicate": 1
     },
-    "Palo Alto Networks": {
-      "hard_excluded_keyword": 1
-    },
     "SC Media": {
       "duplicate_dedupe_key": 1
     },
     "Halcyon": {
+      "outdated": 1
+    },
+    "Cisco Talos Blog": {
       "outdated": 1
     },
     "Crowell & Moring LLP": {
@@ -418,6 +409,9 @@
     "매일경제TV": {
       "duplicate_title": 1,
       "outdated": 1
+    },
+    "비욘드포스트": {
+      "duplicate_title": 1
     },
     "뉴스웨이브": {
       "duplicate_title": 1
@@ -442,10 +436,6 @@
       "carry_over_duplicate": 1,
       "not_selected": 2
     },
-    "연합인포맥스": {
-      "outdated": 2,
-      "not_selected": 7
-    },
     "철강금속신문": {
       "outdated": 1
     },
@@ -455,13 +445,7 @@
     "TIN뉴스": {
       "outdated": 1
     },
-    "스트레이트뉴스": {
-      "outdated": 1
-    },
     "토요경제": {
-      "outdated": 1
-    },
-    "더퍼블릭": {
       "outdated": 1
     },
     "시사매거진": {
@@ -472,6 +456,10 @@
     },
     "NBN미디어": {
       "outdated": 1
+    },
+    "연합뉴스 한민족센터": {
+      "outdated": 1,
+      "not_selected": 6
     },
     "생글생글": {
       "outdated": 1
@@ -495,43 +483,52 @@
     "itworld.co.kr": {
       "outdated": 1
     },
+    "JTBC": {
+      "semantic_duplicate": 1
+    },
     "농민신문": {
       "not_selected": 2
     },
-    "한국일보": {
+    "더구루": {
       "not_selected": 2
     },
     "Benzinga": {
       "not_selected": 1
     },
-    "Elmhurst University": {
+    "Axios": {
       "not_selected": 1
     },
-    "Axios": {
+    "Apple": {
       "not_selected": 1
     },
     "blog.google": {
       "not_selected": 1
     },
+    "디일렉": {
+      "not_selected": 3
+    },
     "Chosunbiz": {
       "not_selected": 3
     },
-    "디일렉": {
+    "뉴스1": {
       "not_selected": 2
     },
-    "에너지경제신문": {
-      "not_selected": 4
+    "TradingView": {
+      "not_selected": 2
     },
-    "Eudaimonia and Co": {
-      "not_selected": 1
+    "IndexBox": {
+      "not_selected": 2
     },
-    "24/7 Wall St.": {
-      "not_selected": 1
+    "해사신문": {
+      "not_selected": 2
+    },
+    "서울파이낸스": {
+      "not_selected": 2
     },
     "CarbonCredits.com": {
       "not_selected": 1
     },
-    "DatacenterDynamics": {
+    "24/7 Wall St.": {
       "not_selected": 1
     },
     "BIOENGINEER.ORG": {
@@ -540,17 +537,20 @@
     "인베스트조선": {
       "not_selected": 2
     },
-    "지티티코리아": {
+    "한국방송뉴스": {
+      "not_selected": 2
+    },
+    "Arizona Digital Free Press": {
+      "not_selected": 1
+    },
+    "BRIC": {
+      "not_selected": 1
+    },
+    "About Amazon": {
       "validation_dropped": 1
     },
-    "Entrepreneur": {
-      "not_selected": 1
-    },
-    "everynews.co.kr": {
-      "not_selected": 1
-    },
     "__others__": {
-      "not_selected": 62
+      "not_selected": 60
     }
   },
   "breakingSelection": {
@@ -562,18 +562,17 @@
   "categories": {
     "정책": 5,
     "국제": 4,
-    "기술": 3,
+    "기술": 4,
     "경제": 5,
-    "에너지": 2
+    "에너지": 1
   },
   "importanceDistribution": {
-    "2": 10,
-    "4": 4,
-    "3.5": 4,
-    "4.5": 1
+    "2": 9,
+    "4": 3,
+    "3.5": 7
   },
   "topDiversity": {
-    "uniqueSources": 17,
+    "uniqueSources": 16,
     "uniqueCategories": 5,
     "maxPerSource": 2
   }
