@@ -3,7 +3,7 @@
   "selectionCriteria": "① 내일도 영향이 남는 이슈 ② 과도한 감정 소모 제외 ③ 어제와 중복되는 뉴스 제외",
   "editorNote": "이 뉴스는 클릭 수가 아니라 오늘 이후에도 남는 정보만 기준으로 편집했습니다.",
   "question": "정보를 덜 보는 것이 오히려 더 똑똑한 소비일까?",
-  "lastUpdatedAt": "2026-02-25T20:38:22.003+09:00",
+  "lastUpdatedAt": "2026-02-25T21:58:40.910+09:00",
   "items": [
     {
       "id": "2026-02-25_1",
@@ -13,9 +13,14 @@
       "summary": [
         "법무부가 1차 상법 개정의 핵심인 '주주 보호 경영' 가이드라인을 마련했다."
       ],
-      "whyImportant": "법무부의 이번 가이드라인 마련은 기업 경영 환경에 중요한 변화를 가져올 수 있습니다.",
-      "importanceRationale": "근거: 법무부가 상법 개정의 핵심 사항인 주주 보호 경영에 대한 가이드라인을 제시함으로써, 기업의 의사 결정 과정과 투자 환경에 직접적인 영향을 미칠 수 있기 때문입니다.",
-      "impactSignals": [],
+      "whyImportant": "법무부의 이번 가이드라인은 주주 권익 보호를 강화하고 기업 경영의 투명성을 높이는 데 중요한 역할을 할 수 있다.",
+      "importanceRationale": "근거: 법무부가 상법 개정의 핵심 사항인 주주 보호 경영 가이드라인을 마련했다는 사실은 정책 변화와 관련된 중요한 움직임이다.",
+      "impactSignals": [
+        {
+          "label": "policy",
+          "evidence": "법무부의 상법 개정 가이드라인 마련은 정책 변화를 의미한다."
+        }
+      ],
       "dedupeKey": "법무부, 1차 상법 개정 핵심 '주주 보호 경영' 가이드라인 마련",
       "clusterKey": "1차",
       "matchedTo": null,
@@ -24,10 +29,10 @@
       "publishedAt": "2026-02-25T08:45:05.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 2,
+      "importance": 4,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 내용이 일치하며, 핵심 내용을 간결하게 요약했습니다. / 근거부족",
+      "qualityReason": "제목과 내용이 일치하며, 핵심 내용을 잘 반영하고 있다.",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -35,20 +40,25 @@
       "id": "2026-02-25_2",
       "date": "2026-02-25",
       "category": "정책",
-      "title": "의회, 데이터 센터 추가 필요성 전달받았으나 환경 규제가 방해",
+      "title": "의회, 데이터 센터 추가 필요성 전달받았으나 환경 규제가 걸림돌",
       "summary": [
-        "의회는 데이터 센터의 추가적인 필요성을 전달받았습니다.",
-        "그러나 환경 규제가 데이터 센터 건설에 방해가 되고 있습니다."
+        "의회는 데이터 센터의 추가적인 필요성을 전달받았다.",
+        "그러나 환경 규제가 데이터 센터 확충에 걸림돌이 되고 있다.",
+        "환경 규제와 데이터 센터 확충 필요성 사이의 균형이 요구된다."
       ],
-      "whyImportant": "데이터 센터 증설의 필요성과 환경 규제 간의 충돌을 보여줍니다.",
-      "importanceRationale": "근거: 데이터 센터 수요 증가와 환경 규제라는 상반된 요소가 정책 결정에 영향을 미칠 수 있기 때문입니다.",
+      "whyImportant": "데이터 센터 확충의 필요성과 환경 규제 사이의 잠재적 충돌을 강조합니다.",
+      "importanceRationale": "근거: 데이터 센터 증설 필요성과 환경 규제 간의 상충 관계는 정책 결정에 중요한 영향을 미치므로.",
       "impactSignals": [
         {
           "label": "policy",
-          "evidence": "환경 규제가 데이터 센터 건설에 영향을 미치는 정책적 문제"
+          "evidence": "환경 규제가 데이터 센터 확충에 미치는 영향"
+        },
+        {
+          "label": "capex",
+          "evidence": "데이터 센터 추가 건설에 필요한 자본 지출"
         }
       ],
-      "dedupeKey": "congress_data_centers_environmental_regulations",
+      "dedupeKey": "congress_data_center_env_reg",
       "clusterKey": "but",
       "matchedTo": null,
       "sourceName": "The Well News",
@@ -59,7 +69,7 @@
       "importance": 3.5,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 정보가 명확합니다.",
+      "qualityReason": "제목과 내용이 일치하며, 정보가 명확하게 전달됨.",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -69,13 +79,13 @@
       "category": "정책",
       "title": "화이트 해커 상시 점검…국가AI전략위, '보안 취약점 신고·조치·공개' 법제화 추진",
       "summary": [
-        "국가AI전략위원회는 화이트 해커가 상시 점검하는 '보안 취약점 신고·조치·공개' 법제화를 추진한다.",
-        "이는 AI 시스템의 보안을 강화하고 잠재적 위험을 사전에 방지하기 위한 조치이다."
+        "국가AI전략위원회가 '보안 취약점 신고·조치·공개' 법제화를 추진한다.",
+        "화이트 해커가 상시 점검을 통해 보안을 강화할 예정이다."
       ],
-      "whyImportant": "AI 시스템 보안 강화 및 잠재적 위험 사전 방지.",
-      "importanceRationale": "근거: 국가AI전략위원회가 화이트 해커를 활용하여 AI 시스템의 보안 취약점을 상시 점검하고, 관련 법제화를 추진함으로써 AI 보안을 강화하고 잠재적 위험을 줄이려 한다.",
+      "whyImportant": "AI 시스템 보안 강화 및 잠재적 위협 감소에 기여.",
+      "importanceRationale": "근거: 국가AI전략위원회의 법제화 추진은 AI 시스템의 보안 취약점을 사전에 발견하고 대응하여 잠재적인 위협을 줄이는 데 중요한 역할을 한다. 이는 AI 기술의 안전한 발전과 사회적 신뢰 확보에 필수적이다.",
       "impactSignals": [],
-      "dedupeKey": "화이트해커,국가AI전략위,보안취약점법제화",
+      "dedupeKey": "AI_security_law",
       "clusterKey": "국가ai전략위",
       "matchedTo": null,
       "sourceName": "바이라인네트워크",
@@ -86,7 +96,7 @@
       "importance": 2,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 내용이 일치하며, 핵심 내용을 잘 반영하고 있다. / 근거부족",
+      "qualityReason": "기사 제목과 내용이 일치하며, 핵심 내용을 잘 요약했습니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -94,12 +104,12 @@
       "id": "2026-02-25_4",
       "date": "2026-02-25",
       "category": "정책",
-      "title": "한국무역협회: 중국의 일본 기업 대상 이중 용도 품목 수출 통제는 본격적인 경제 제재로 전환",
+      "title": "무역협회: 중국의 일본 기업 대상 이중용도 품목 수출 통제는 본격적인 경제 제재로 전환",
       "summary": [
-        "한국무역협회는 중국의 일본 기업 대상 이중 용도 품목 수출 통제가 본격적인 경제 제재로 전환되었다고 밝혔습니다."
+        "한국무역협회는 중국의 일본 기업 대상 이중용도 품목 수출 통제가 본격적인 경제 제재로 전환되었다고 분석했습니다."
       ],
       "whyImportant": "중국의 대일 경제 제재 심화 가능성.",
-      "importanceRationale": "근거: 한국무역협회가 중국의 대일 이중 용도 품목 수출 통제를 경제 제재로 규정함.",
+      "importanceRationale": "근거: 중국이 일본 기업에 대해 이중용도 품목 수출 통제를 강화하면서 경제 제재로 전환되었다는 한국무역협회의 분석은, 향후 미중 관계 및 관련국 경제에 미칠 잠재적 영향을 시사합니다.",
       "impactSignals": [],
       "dedupeKey": "중국, 일본기업, 수출통제, 경제제재",
       "clusterKey": "kita",
@@ -112,24 +122,52 @@
       "importance": 2,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약됨. / 근거부족",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었습니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-02-25_5",
       "date": "2026-02-25",
+      "category": "기술",
+      "title": "AI, 침해 타임라인 단축, ID 취약점이 사고의 90% 유발",
+      "summary": [
+        "AI가 침해 타임라인을 단축시키고 있으며, ID 취약점이 사고의 90%를 유발하는 것으로 나타났습니다.",
+        "ERP Today에 따르면 AI는 보안 위협에 대한 대응 속도를 높이는 데 기여하고 있습니다.",
+        "그러나 동시에 ID 관리의 취약성은 여전히 주요 보안 문제로 남아있습니다."
+      ],
+      "whyImportant": "AI를 활용한 보안 강화와 ID 관리의 중요성을 강조합니다.",
+      "importanceRationale": "근거: AI가 보안 침해 대응 속도를 높이는 반면, ID 취약성이 여전히 높은 비율의 보안 사고를 유발한다는 정보에 기반합니다.",
+      "impactSignals": [],
+      "dedupeKey": "AI_Breach_Timelines_Identity_Weaknesses",
+      "clusterKey": "breach",
+      "matchedTo": null,
+      "sourceName": "ERP Today",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZXhwNUFaTzdhRGwyVUpKeGhiUHA3aDVUaUFfRzlnMzl0RWFuVVhxNWJhcjRySHBJbjlmdF82dnd0cnA3QlRZajFpRzd0UDNkRFR4YnBPaTk3SC1Ea2NNSEJsNnNzMDhDQlZfTGtuWGZUS2JmcTRLRERpOXBwcHJYMFFsS1UyUEk?oc=5",
+      "publishedAt": "2026-02-24T18:48:37.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 75,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 본문이 일치하며, 정보가 명확합니다. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-02-25_6",
+      "date": "2026-02-25",
       "category": "국제",
       "title": "Wynn, 데이터 침해 관련 최근 소송에 대응",
       "summary": [
-        "Wynn은 데이터 침해에 대한 최근 소송에 대응하고 있습니다."
+        "Wynn은 데이터 침해에 대한 최근 소송에 대응했습니다."
       ],
-      "whyImportant": "데이터 침해 소송에 대한 Wynn의 대응은 중요한 법적 및 보안적 의미를 가집니다.",
-      "importanceRationale": "근거: 데이터 침해는 기업의 평판과 재정에 큰 영향을 미칠 수 있으며, 소송 결과는 유사한 사건에 대한 선례가 될 수 있습니다.",
+      "whyImportant": "데이터 보안 및 개인 정보 보호의 중요성을 강조합니다.",
+      "importanceRationale": "근거: 데이터 침해 소송은 기업의 데이터 보안 정책에 대한 관심과 법적 책임을 강조하며, 유사한 사건에 대한 선례를 만들 수 있습니다.",
       "impactSignals": [
         {
           "label": "security",
-          "evidence": "데이터 침해는 기업의 보안 시스템 및 프로세스에 대한 중요성을 강조합니다."
+          "evidence": "데이터 침해는 보안 시스템의 취약점을 드러내고, 보안 강화의 필요성을 제기합니다."
         }
       ],
       "dedupeKey": "wynn_data_breach_lawsuit_response",
@@ -143,25 +181,26 @@
       "importance": 3.5,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 텍스트가 일치하며, 정보가 간결하게 요약되었습니다.",
+      "qualityReason": "기사 제목과 내용이 일치하며, 간결하게 요약되었습니다.",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-02-25_6",
+      "id": "2026-02-25_7",
       "date": "2026-02-25",
       "category": "정책",
-      "title": "아이다호 동부의 한 의원, 데이터 센터의 전기 요금 인상 막는 법안 발의",
+      "title": "아이다호 동부의 한 의원, 데이터 센터의 전기 요금 인상을 막는 법안을 제안",
       "summary": [
-        "아이다호 동부의 한 의원이 데이터 센터가 전기 요금을 인상하는 것을 막는 법안을 발의했습니다.",
-        "이 법안은 데이터 센터가 전력 회사에 미치는 잠재적 영향에 대한 우려를 해소하기 위한 것입니다."
+        "아이다호 동부의 한 의원이 데이터 센터의 전기 요금 인상을 막는 법안을 제안했습니다.",
+        "이 법안은 데이터 센터가 전력 회사에 요금 인상을 요구하는 것을 금지합니다.",
+        "이 법안이 통과되면 아이다호의 데이터 센터 산업에 큰 영향을 미칠 것으로 예상됩니다."
       ],
-      "whyImportant": "데이터 센터의 전기 요금 인상 제한 법안은 지역 경제와 전력 회사에 영향을 미칠 수 있습니다.",
-      "importanceRationale": "근거: 데이터 센터는 많은 전력을 소비하므로, 이들의 요금 인상 제한은 전력 회사의 수익에 영향을 줄 수 있습니다. 또한, 데이터 센터 유치에 영향을 미쳐 지역 경제에도 영향을 줄 수 있습니다.",
+      "whyImportant": "데이터 센터의 전기 요금 인상을 막는 법안은 데이터 센터 산업과 전력 회사 모두에 영향을 미치기 때문에 중요합니다.",
+      "importanceRationale": "근거: 이 법안은 데이터 센터의 운영 비용에 직접적인 영향을 미치고, 전력 회사의 수익 구조에도 영향을 미칠 수 있습니다. 정책(policy) 및 자본 지출(capex)과 관련된 중요한 변화를 시사합니다.",
       "impactSignals": [
         {
           "label": "policy",
-          "evidence": "데이터 센터 전기 요금 인상 제한 법안 발의"
+          "evidence": "데이터 센터 전기 요금 인상 제한 법안 제안"
         }
       ],
       "dedupeKey": "east_idaho_data_center_bill",
@@ -175,34 +214,7 @@
       "importance": 3.5,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 내용이 일치하며, 정보가 명확합니다.",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-02-25_7",
-      "date": "2026-02-25",
-      "category": "기술",
-      "title": "AI, 침해 타임라인 단축...ID 취약점이 사고의 90% 유발",
-      "summary": [
-        "AI가 침해 타임라인을 단축시키고 있으며, ID 취약점이 사고의 90%를 유발하는 것으로 나타났습니다.",
-        "ERP Today에 따르면 AI는 보안 침해에 대응하는 데 중요한 역할을 합니다."
-      ],
-      "whyImportant": "AI를 활용한 보안 강화 및 ID 관리의 중요성을 강조합니다.",
-      "importanceRationale": "근거: AI가 보안 침해 대응에 미치는 영향과 ID 취약점이 사고의 주요 원인이라는 점을 강조합니다.",
-      "impactSignals": [],
-      "dedupeKey": "AI_Breach_Timelines_Identity_Weaknesses",
-      "clusterKey": "breach",
-      "matchedTo": null,
-      "sourceName": "ERP Today",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZXhwNUFaTzdhRGwyVUpKeGhiUHA3aDVUaUFfRzlnMzl0RWFuVVhxNWJhcjRySHBJbjlmdF82dnd0cnA3QlRZajFpRzd0UDNkRFR4YnBPaTk3SC1Ea2NNSEJsNnNzMDhDQlZfTGtuWGZUS2JmcTRLRERpOXBwcHJYMFFsS1UyUEk?oc=5",
-      "publishedAt": "2026-02-24T18:48:37.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 63,
-      "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 정보가 명확합니다. / 근거부족",
+      "qualityReason": "기사 내용이 명확하고 간결하며, 핵심 정보를 잘 전달합니다.",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -215,15 +227,10 @@
         "데이터 센터가 우주로 향하는 경쟁이 심화되고 있습니다.",
         "기존 규제는 이러한 변화를 따라가지 못하고 있습니다."
       ],
-      "whyImportant": "우주 데이터 센터 경쟁 심화와 규제 미비는 기술 발전과 정책 간의 격차를 보여줍니다.",
-      "importanceRationale": "근거: 데이터 센터의 우주 진출은 새로운 기술적 도전과 규제적 과제를 동시에 제시하며, 이는 관련 산업과 정책 결정에 중요한 영향을 미칩니다.",
-      "impactSignals": [
-        {
-          "label": "policy",
-          "evidence": "규제가 데이터 센터의 우주 경쟁 속도를 따라가지 못함"
-        }
-      ],
-      "dedupeKey": "data-centers-space-regulation",
+      "whyImportant": "우주 데이터 센터 경쟁 심화와 규제 미비는 정책 및 투자 결정에 중요한 영향을 미칩니다.",
+      "importanceRationale": "근거: 우주 데이터 센터의 증가는 새로운 정책 마련의 필요성을 야기하며, 관련 인프라 투자에도 영향을 미칩니다.",
+      "impactSignals": [],
+      "dedupeKey": "data_centers_space_regulation",
       "clusterKey": "can",
       "matchedTo": null,
       "sourceName": "Rest of World",
@@ -231,10 +238,10 @@
       "publishedAt": "2026-02-24T16:50:05.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 3.5,
+      "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 내용이 일치하며, 핵심 내용을 잘 요약했습니다.",
+      "qualityReason": "기사 제목과 내용이 일치하며, 핵심 내용을 잘 요약했습니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -249,9 +256,14 @@
         "이는 주택 시장의 부진에도 불구하고 달성된 성과이다."
       ],
       "whyImportant": "Lowe's의 매출 증가는 전반적인 경제 상황을 파악하는 데 중요한 지표가 될 수 있습니다.",
-      "importanceRationale": "근거: Lowe's의 실적은 주택 시장의 상황과 소비자 지출 패턴을 반영하며, 이는 경제 분석에 중요한 정보를 제공합니다.",
-      "impactSignals": [],
-      "dedupeKey": "lowes_earnings_beat_20240209",
+      "importanceRationale": "근거: Lowe's는 주택 개량 용품 판매 회사로서, 매출 증가는 소비 심리 및 주택 관련 시장의 활성화 정도를 반영하기 때문입니다.",
+      "impactSignals": [
+        {
+          "label": "market-demand",
+          "evidence": "Sales jumped more than 10% despite sluggish housing market."
+        }
+      ],
+      "dedupeKey": "lowes_earnings_beat_20240130",
       "clusterKey": "beat",
       "matchedTo": null,
       "sourceName": "CNBC",
@@ -259,23 +271,82 @@
       "publishedAt": "2026-02-25T11:26:27.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 2,
+      "importance": 3.5,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "The article provides factual information about Lowe's earnings and sales. / 근거부족",
+      "qualityReason": "The article provides a concise summary of Lowe's earnings and sales performance.",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-02-25_10",
       "date": "2026-02-25",
-      "category": "기술",
+      "category": "경제",
+      "title": "실적 속보: Workday 주식, AI 혼란 우려 속 급락, Lucid는 혼조세, HP는 급락",
+      "summary": [
+        "Workday 주식이 인공지능 혼란에 대한 우려로 급락했다.",
+        "Lucid는 혼조세를 보였으며, HP는 실적 발표 후 하락했다."
+      ],
+      "whyImportant": "기업 실적은 시장 전반의 경제 건전성을 나타내는 중요한 지표입니다.",
+      "importanceRationale": "근거: 기업의 실적 발표는 투자자와 시장 분석가들에게 중요한 정보이며, 주가 변동에 직접적인 영향을 미칩니다.",
+      "impactSignals": [],
+      "dedupeKey": "earnings_live_20240531",
+      "clusterKey": "amid",
+      "matchedTo": null,
+      "sourceName": "Yahoo Finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOb3d5UnBrTW5lWjNORmxqQkRVS3J6REFSckxFa09GTl9faUJtNkl3VlZXWjJRYlNfN2FfeXE2OVZSNFNTY3VNblIzZHFNeHg4M2lSRGpJRTJkY1VXaGducHlqN2lUN2plSjNoZ2hnVTRyczhOenYzTWc0bUJkZk1GUmxsRVBGcnRiVGhHRlc3OE5BZ2ZYTjR6OWtwZ2s0d000QzI3V3VTOUFJOXNfN3JUc0d0S0E3X3R4cFZsdGpoZlJKMDFjX3FpbTFGcG9WbzFvRFltb0R4a3prZ0tHc1B6dVB5c09ORXRyeEE?oc=5",
+      "publishedAt": "2026-02-25T11:50:49.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 63,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 본문이 일치하며, 핵심 정보를 포함하고 있습니다. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-02-25_11",
+      "date": "2026-02-25",
+      "category": "에너지",
+      "title": "러시아 접경 유럽 국가, 전력망 방어 강화…우크라이나 정전 사태에 긴장",
+      "summary": [
+        "러시아와 국경을 접한 유럽 국가들이 우크라이나 정전 사태에 긴장하며 전력망 방어에 속도를 내고 있다.",
+        "이는 우크라이나의 에너지 기반 시설에 대한 공격이 증가함에 따른 조치이다."
+      ],
+      "whyImportant": "유럽 국가들의 에너지 안보 강화 노력의 일환이며, 러시아의 잠재적 공격에 대비하는 중요한 움직임이다.",
+      "importanceRationale": "근거: 러시아와 국경을 접한 유럽 국가들이 우크라이나 정전 사태에 긴장하며 전력망 방어에 나섰다는 사실은 에너지 안보의 중요성을 부각하고, 지정학적 리스크에 대한 대비 필요성을 시사한다.",
+      "impactSignals": [
+        {
+          "label": "infra",
+          "evidence": "유럽 국가들이 전력망 방어에 나선 것은 에너지 기반 시설 보호의 중요성을 보여준다."
+        }
+      ],
+      "dedupeKey": "러접경유럽국전력망방어잰걸음",
+      "clusterKey": "에너지/긴장",
+      "matchedTo": null,
+      "sourceName": "연합뉴스 한민족센터",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5OLWNlQ2tHbTlyYkpyTDhfOTQtYW11Y0tSZERFdmc1QTQ2Z2dNckJYM1ZmSzY2RlVnVlFsWVcwNC1DLThGc0M2V3kydU54a241UUh2MnFkSEhsYUZVWWZhSERpYWZIYWxTdks0b0o4MlhucW9J?oc=5",
+      "publishedAt": "2026-02-25T11:40:18.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 4,
+      "importanceRaw": 75,
+      "qualityLabel": "ok",
+      "qualityReason": "기사 제목과 내용이 일치하며, 핵심 내용을 잘 요약했습니다.",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-02-25_12",
+      "date": "2026-02-25",
+      "category": "국제",
       "title": "유럽 AI 데이터 센터 시장 규모, 점유율 및 성장, 2034년",
       "summary": [
-        "유럽 AI 데이터 센터 시장의 규모, 점유율 및 성장 전망에 대한 시장 데이터 예측입니다."
+        "유럽 AI 데이터 센터 시장의 규모, 점유율 및 성장 전망에 대한 데이터 예측입니다."
       ],
-      "whyImportant": "유럽 AI 데이터 센터 시장의 미래 성장 전망을 제시합니다.",
-      "importanceRationale": "근거: 유럽 AI 데이터 센터 시장의 성장 예측은 관련 기업의 투자 및 수익에 중요한 영향을 미치므로 중요합니다.",
+      "whyImportant": "유럽 AI 데이터 센터 시장의 미래 성장 가능성을 파악하는 데 중요합니다.",
+      "importanceRationale": "근거: 유럽 AI 데이터 센터 시장의 성장, 점유율 변화, 그리고 시장 규모를 예측함으로써 투자 및 사업 전략 수립에 필요한 정보를 제공합니다.",
       "impactSignals": [],
       "dedupeKey": "europe_ai_data_center_2034",
       "clusterKey": "center",
@@ -288,23 +359,28 @@
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 텍스트이 일치하며, 정보가 명확합니다. / 근거부족",
+      "qualityReason": "제목과 본문이 일치하며, 정보가 간결하게 제공됨. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-02-25_11",
+      "id": "2026-02-25_13",
       "date": "2026-02-25",
       "category": "경제",
       "title": "빗썸, IPO 추진에 급제동…오지급, 지분 규제, 실적 악화의 삼중고",
       "summary": [
         "암호화폐 거래소 빗썸의 IPO 추진에 차질이 발생했다.",
-        "오지급 문제, 지분 규제, 실적 악화 등이 원인으로 지목된다."
+        "오지급 문제, 지분 규제, 실적 악화가 주요 원인으로 작용하고 있다."
       ],
-      "whyImportant": "빗썸의 IPO 추진 난항은 암호화폐 거래소의 불확실한 사업 환경을 보여준다.",
-      "importanceRationale": "근거: 빗썸의 IPO 추진이 여러 문제로 인해 어려움을 겪고 있다는 것은 암호화폐 거래소의 사업 환경이 불안정하고 규제 리스크가 크다는 것을 시사한다.",
-      "impactSignals": [],
-      "dedupeKey": "bithumb_ipo_halt_20240129",
+      "whyImportant": "빗썸의 IPO 추진에 영향을 미치는 요인들을 분석합니다.",
+      "importanceRationale": "근거: 빗썸의 IPO 추진이 오지급 문제, 지분 규제, 실적 악화로 인해 어려움을 겪고 있다는 정보를 제공합니다.",
+      "impactSignals": [
+        {
+          "label": "policy",
+          "evidence": "지분 규제가 IPO 추진에 부정적 영향을 미침"
+        }
+      ],
+      "dedupeKey": "bithumb_ipo_halt",
       "clusterKey": "급제동",
       "matchedTo": null,
       "sourceName": "서울파이낸스",
@@ -312,15 +388,15 @@
       "publishedAt": "2026-02-25T07:14:19.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 2,
+      "importance": 3.5,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었습니다. / 근거부족",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었습니다.",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-02-25_12",
+      "id": "2026-02-25_14",
       "date": "2026-02-25",
       "category": "국제",
       "title": "이란 핵 협상 의지 표명에 국제 유가 소폭 하락",
@@ -328,8 +404,8 @@
         "이란이 핵 협상에 대한 의지를 밝히면서 국제 유가가 소폭 하락했습니다.",
         "이 소식은 이투뉴스를 통해 보도되었습니다."
       ],
-      "whyImportant": "이란 핵 협상 재개 가능성이 국제 유가에 미치는 영향을 보여주는 사례입니다.",
-      "importanceRationale": "근거: 이란의 핵 협상 의지 표명이 시장의 공급 기대감을 자극하여 유가 하락으로 이어진 직접적인 사례를 제시합니다.",
+      "whyImportant": "이란 핵 협상 재개 가능성이 국제 유가에 미치는 영향을 보여줍니다.",
+      "importanceRationale": "근거: 이란의 핵 협상 의지 표명이 시장의 공급 기대감을 높여 유가 하락으로 이어진 직접적인 사례입니다.",
       "impactSignals": [],
       "dedupeKey": "iran-nuclear-talks-oil-price-drop",
       "clusterKey": "국제유가",
@@ -342,24 +418,24 @@
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었습니다. / 근거부족",
+      "qualityReason": "제목과 내용이 일치하며 간결하게 요약되었습니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-02-25_13",
+      "id": "2026-02-25_15",
       "date": "2026-02-25",
       "category": "기술",
       "title": "MWC AI 레드팀 챌린지, LLM 취약점 발굴에 SKT, LGU+, AT&T 참여",
       "summary": [
         "MWC AI 레드팀 챌린지에서 LLM(대규모 언어 모델)의 취약점을 찾는 경쟁이 벌어집니다.",
-        "SKT, LGU+, AT&T 등 주요 통신사들이 참여합니다.",
+        "SKT, LGU+, AT&T 등 통신사들이 참여합니다.",
         "이번 챌린지는 AI 보안 강화에 기여할 것으로 기대됩니다."
       ],
       "whyImportant": "LLM의 보안 취약점은 심각한 문제를 야기할 수 있으므로, 이를 사전에 발견하고 해결하는 것이 중요합니다.",
-      "importanceRationale": "근거: LLM은 다양한 분야에서 활용되고 있으며, 보안 취약점이 악용될 경우 개인 정보 유출, 시스템 오작동 등 심각한 피해를 초래할 수 있습니다. 이번 챌린지를 통해 LLM의 보안성을 강화하고 잠재적인 위협에 대한 대응 능력을 향상시킬 수 있습니다.",
+      "importanceRationale": "근거: LLM은 다양한 분야에서 활용되고 있으며, 취약점을 악용한 공격은 개인 정보 유출, 시스템 마비 등 심각한 피해를 초래할 수 있습니다. 이번 챌린지를 통해 LLM의 보안성을 강화하고 잠재적인 위협에 대한 대응 능력을 향상시킬 수 있습니다.",
       "impactSignals": [],
-      "dedupeKey": "MWC_AI_Red_Team_Challenge_SKT_LGU+_ATT",
+      "dedupeKey": "MWC_AI_Red_Team_Challenge_LLM_Vulnerability_SKT_LGU+_ATT",
       "clusterKey": "ai/lgu",
       "matchedTo": null,
       "sourceName": "매일경제",
@@ -370,64 +446,7 @@
       "importance": 2,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 내용이 일치하며, 정보가 명확합니다. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-02-25_14",
-      "date": "2026-02-25",
-      "category": "국제",
-      "title": "이란, 미국 핵 협상 이틀 전 \"타결 가시권…외교 최우선해야\"",
-      "summary": [
-        "이란이 미국과의 핵 협상 이틀을 앞두고 타결 가능성을 언급하며 외교적 해결을 강조했습니다."
-      ],
-      "whyImportant": "이란 핵 협상에 대한 긍정적 신호로, 향후 협상 결과에 중요한 영향을 미칠 수 있습니다.",
-      "importanceRationale": "근거: 이란의 발언은 협상 타결 의지를 나타내며, 이는 국제 관계 및 관련 정책 결정에 영향을 줄 수 있기 때문입니다.",
-      "impactSignals": [],
-      "dedupeKey": "iran_nuclear_talks_01052024",
-      "clusterKey": "가시권",
-      "matchedTo": null,
-      "sourceName": "연합뉴스 한민족센터",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1zVkhZWmtwei1Yb0pkQzlyd0daaFJPSkdWbVZpbGlDbmVoN29DNXlxU3Jnd0tfcUMtSmIzXzRPNlN0MExZWXNCYnJsYzVKZTFnTDhfWGJqRTRUdEtZSGY4ZV9YbVdzWmpFUjFiQnpUQzMtbzBI?oc=5",
-      "publishedAt": "2026-02-24T23:58:41.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 63,
-      "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었습니다. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-02-25_15",
-      "date": "2026-02-25",
-      "category": "경제",
-      "title": "LOWE'S, 2025년 4분기 판매 및 수익 결과 발표",
-      "summary": [
-        "LOWE'S가 2025년 4분기 판매 및 수익 결과를 발표했습니다."
-      ],
-      "whyImportant": "LOWE'S의 실적 발표는 소매 시장의 건전성을 나타내는 지표입니다.",
-      "importanceRationale": "근거: LOWE'S는 주요 소매 기업이며, 실적은 시장 수요와 수익에 대한 중요한 정보를 제공합니다.",
-      "impactSignals": [
-        {
-          "label": "market-demand",
-          "evidence": "LOWE'S의 판매 실적은 시장 수요를 반영함"
-        }
-      ],
-      "dedupeKey": "LOWE'S_Q4_2025_Earnings",
-      "clusterKey": "fourth",
-      "matchedTo": null,
-      "sourceName": "Yahoo Finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMihgFBVV95cUxONFJpZ2ZkamxBdURxM0NVRjh6dTlnbmZuY3dTeXY1UWtjOWtoUGgtTlp6VFFhdndsajJOZDkxTDhkNFRRS1RyeGtsT1ZaRGxXaU1jcHZrVlFSRF9jTDNzc0tZSUlKUVhVUVJHem54UVpOS0cxcHFOX293cVJSekhJX2ZZWFlIZw?oc=5",
-      "publishedAt": "2026-02-25T11:00:00.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 3.5,
-      "importanceRaw": 63,
-      "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 정보가 명확합니다.",
+      "qualityReason": "제목과 본문이 일치하며, 정보가 명확하게 전달됩니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -435,111 +454,115 @@
       "id": "2026-02-25_16",
       "date": "2026-02-25",
       "category": "경제",
-      "title": "Investing.com: Nvidia와 Salesforce 실적 발표에 대한 시장의 주목",
+      "title": "2025년 실적, 예상치 부합 - Horizons 전략 계획 발표",
       "summary": [
-        "Investing.com에 따르면 Nvidia와 Salesforce의 실적 발표를 앞두고 시장의 관심이 집중되고 있습니다."
+        "Ipsos의 2025년 실적이 예상치에 부합했습니다.",
+        "Horizons 전략 계획이 발표되었습니다."
       ],
-      "whyImportant": "Nvidia와 Salesforce의 실적 발표가 시장에 미치는 영향.",
-      "importanceRationale": "근거: 두 회사의 실적은 기술 산업 전반의 건전성과 투자 심리를 반영하는 중요한 지표가 될 수 있습니다.",
+      "whyImportant": "Ipsos의 재무 성과와 미래 전략 방향을 제시합니다.",
+      "importanceRationale": "근거: Ipsos의 실적 발표는 투자자와 시장 참여자에게 중요한 정보이며, Horizons 전략 계획은 회사의 장기적인 성장 전략을 나타냅니다.",
       "impactSignals": [],
-      "dedupeKey": "NvidiaSalesforceEarnings",
-      "clusterKey": "investing",
+      "dedupeKey": "ipsos-2025-results-horizons",
+      "clusterKey": "guidance",
       "matchedTo": null,
-      "sourceName": "Investing.com 한국어",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBDa2hRbTRHZmV0djBYVkNnZlE1WndubDlvTWtRSkxDVVk5SDlaUmRpcGJ6d2NNT25HNnV4WnNjSTdxSjFUTFJNUzZqMGJuV0tvOHBPM01tX1lFRWdEQ0FVc0ozS1NSYU11emc?oc=5",
-      "publishedAt": "2026-02-25T08:58:00.000Z",
+      "sourceName": "Ipsos",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdVFqUTNtQ1FkRXlvbjBFSmRsX3BYMXk1WHIwYVZ1d3E1SkNCeDFUUkQ0d3dEUWJya3ZfSThENGgwU0FkNWxoQ1FqbEswcVpWSEt2Rnp4MVdCZVlBSlJhbWF0X1h1d1JTR2cxaW1PM2g2eTQ3Mk41OHY3Q1VnUWxjX0p5UzJjT2xvMUVhTQ?oc=5",
+      "publishedAt": "2026-02-24T16:53:49.000Z",
       "readTimeSec": 10,
       "status": "kept",
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "The article is a brief announcement from a reputable source. / 근거부족",
+      "qualityReason": "The article provides factual information about the company's performance and strategic plan. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-02-25_17",
       "date": "2026-02-25",
-      "category": "경제",
-      "title": "세일즈포스, 수요일 실적 발표 예정. 주목할 점은?",
+      "category": "국제",
+      "title": "LGU+ 침해사고 은폐 의혹, 경찰 수사 결과에 따라 위약금 면제 가능성",
       "summary": [
-        "세일즈포스는 수요일에 실적을 발표할 예정이다.",
-        "투자자들은 실적 발표에 주목하고 있다."
+        "LGU+의 침해사고 은폐 의혹에 대한 경찰 수사 결과에 따라 위약금 면제 가능성이 제기됨.",
+        "디일렉에서 해당 내용을 보도함."
       ],
-      "whyImportant": "세일즈포스의 실적 발표는 시장에 중요한 영향을 미칠 수 있다.",
-      "importanceRationale": "근거: 세일즈포스는 클라우드 기반 소프트웨어 시장의 주요 기업 중 하나이며, 실적은 해당 분야의 전반적인 건전성을 나타낼 수 있다.",
-      "impactSignals": [],
-      "dedupeKey": "SalesforceEarningsWednesday",
-      "clusterKey": "barron",
+      "whyImportant": "LGU+의 보안 문제와 관련된 소비자 위약금에 영향을 줄 수 있는 사안임.",
+      "importanceRationale": "근거: LGU+의 침해사고 은폐 의혹은 보안 문제에 대한 사회적 관심과 소비자 권익 보호에 중요한 영향을 미치며, 경찰 수사 결과에 따라 위약금 면제 여부가 결정될 수 있기 때문임.",
+      "impactSignals": [
+        {
+          "label": "security",
+          "evidence": "침해사고 은폐 의혹이 보안 문제와 관련됨"
+        }
+      ],
+      "dedupeKey": "LGU+ 침해사고 은폐 의혹, 경찰 수사 결과 따라 위약금 면제 가능",
+      "clusterKey": "lgu",
       "matchedTo": null,
-      "sourceName": "Barron's",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMihANBVV95cUxOR3FaTlpDWWVMaDBDUlRfNFhWa1hQX2c2ZDFiUXhRYmpvOEN6emlSb1k5Y0pZZTBBMkZ0RXI4enZrUVdWczZWUkQzM0liUEFhRE0zbWdQRVJ6SVFReHYwa0lSX3poUzRGOWhPX3NzRVFwMHQ1VG9FNjFyd2lsdkkxT1QycmxNVDZ6cWhBaTZrdm1yVW5wNzhGUFlHNVBkUDlma2RxMDhjVkhaaHRKcVFDSkhVZm9sbnNtM09BMWZuazZiNHl1bHdCOWI3U2c2VG1DbTNpaFc0VHdnQ2ZyUW1UZXI3dG12aU9wak91S2d2QjRGTTZBN3VhR0lPTGZJTzEtclRwVDFhazdfSlcyaV9jX09zRlJhY2tSUGJBbEYxbTdkNmY1ZmhMYmQ0c25fX09DN0RETlVYMTlaVFJCUXgzNXQ4RndabmVQRHQwOTBzRWNJMVZDblhPMWhQUnRjV2kydXp5Qy1VY2Vucm9uZ1ZJdTFHNGE4SmFKR1QtdnFMdExVa2N5?oc=5",
-      "publishedAt": "2026-02-25T08:00:00.000Z",
+      "sourceName": "디일렉",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1GVmdlM0xLOVZpaEp3S05jTnU0cTNSRTVIWWJEdkRHbmlBTk9RX3BFbThZT2pNM29ZemlRZlA1Smd3TFRYNTVsMWQtbEJEb25ldkQ4RHBwajJJQXk3ZkFRbU82VjVrdw?oc=5",
+      "publishedAt": "2026-02-25T06:43:56.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 2,
+      "importance": 3.5,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "The article provides a concise overview of an upcoming earnings report. / 근거부족",
+      "qualityReason": "제목과 본문이 일치하며, 간결하게 핵심 내용을 전달함.",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-02-25_18",
       "date": "2026-02-25",
-      "category": "국제",
-      "title": "Diageo의 새 CEO, 배당금 및 전망치 삭감으로 대대적인 변화 예고",
+      "category": "에너지",
+      "title": "데이터 센터와 제조업체에서 선호하는 천연 가스, 더 많은 용량과 파이프라인 필요",
       "summary": [
-        "Diageo의 새로운 CEO가 배당금과 전망치를 삭감하며 대대적인 변화를 예고했습니다.",
-        "이번 조치는 회사의 실적 부진에 대한 대응으로 보입니다."
+        "에너지 연구소에 따르면 데이터 센터와 제조업체에서 천연 가스를 선호하며, 더 많은 용량과 파이프라인이 필요합니다."
       ],
-      "whyImportant": "Diageo의 변화는 주주 수익에 직접적인 영향을 미치고, 회사의 미래 전략 방향을 제시합니다.",
-      "importanceRationale": "근거: 배당금 삭감은 주주 수익에 즉각적인 영향을 미치며, 전망치 삭감은 회사의 미래 성장 가능성에 대한 시장의 기대를 변화시킬 수 있습니다.",
-      "impactSignals": [],
-      "dedupeKey": "Diageo_dividend_forecast_cuts",
-      "clusterKey": "boss",
+      "whyImportant": "천연 가스 인프라 투자의 필요성을 강조합니다.",
+      "importanceRationale": "근거: 데이터 센터 및 제조업체의 천연 가스 선호도와 추가 용량 및 파이프라인의 필요성을 언급하여 에너지 인프라 투자에 대한 중요성을 부각합니다.",
+      "impactSignals": [
+        {
+          "label": "capex",
+          "evidence": "데이터 센터와 제조업체의 천연 가스 선호에 따른 용량 및 파이프라인 확충 필요성"
+        }
+      ],
+      "dedupeKey": "natural_gas_data_centers_manufacturers_pipelines",
+      "clusterKey": "에너지/capacity",
       "matchedTo": null,
-      "sourceName": "Reuters",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVUxGSmpBNWZtWkRHR2MwbGEzakNiRHJTWDJzVFh6RzF3SVNlQi1nbWhDUm51bUNweVJyMEZsNHI3NGw1bVBsak8waTRqclJfRzBwNVd6NURScjdxRkwtR1dkaUVUT3M4cmlIdTU1cmZ3NG5rUGpVajc3VV9TakJFLVF2R2IxclhFVTJmQ0VtU3VGaFd6YVhuYU4zMXl1eFJJSVdQamcwRzViOF93?oc=5",
-      "publishedAt": "2026-02-25T07:14:00.000Z",
+      "sourceName": "The Institute for Energy Research",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQZzhNZG9oR0Y2eFkweXpxXzMxT1JfeWliRU1ZcjdsLVZVWVhyQ2l2bXpnU1RSQ1U1WV80NjdxQ3V4V2V5bDV0Nkt3dkZNUzN6Ry1QbF9Oc1Q4V2Nyd3g1bTFhczd4NmxaSUlQczhfU3FXNUpsSWRUaC16TUJEeVJVSUVaRm5OakthZTVLdDZWZWZZTXgyVmFRNFY4Q3N0ZUVWMHZHNGRneTVQb21mRDFYZ3NxbFE0LUNHaTlabVVrYnVqMGxYbGowcGFHQmJOakFISEc0WmczS1BiaHUwMmpIUkhsZzU3SWpieUxnZ1U0OA?oc=5",
+      "publishedAt": "2026-02-24T19:34:25.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 2,
-      "importanceRaw": 75,
+      "importance": 3,
+      "importanceRaw": 50,
       "qualityLabel": "ok",
-      "qualityReason": "Title and text are consistent and factual. / 근거부족",
+      "qualityReason": "제목과 내용이 일치하며 간결하게 요약되었습니다.",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-02-25_19",
       "date": "2026-02-25",
-      "category": "기술",
-      "title": "트럼프, 빅테크 기업들에 자체 발전소 건설 지시했다고 밝혀",
+      "category": "경제",
+      "title": "한국콜마, 작년 영업이익 2,396억원 기록…역대 최대 실적 달성",
       "summary": [
-        "트럼프 전 대통령은 빅테크 기업들에 자체 발전소 건설을 지시했다고 밝혔습니다.",
-        "로이터 통신에 따르면 트럼프는 이 같은 지시를 내렸다고 언급했습니다."
+        "한국콜마는 지난해 영업이익이 2,396억원을 기록하며 역대 최대 실적을 달성했다고 발표했습니다."
       ],
-      "whyImportant": "빅테크 기업의 에너지 인프라 투자 방향을 제시할 수 있습니다.",
-      "importanceRationale": "근거: 트럼프 전 대통령의 발언은 향후 빅테크 기업들의 에너지 관련 투자 결정에 영향을 미칠 수 있으며, 이는 관련 산업의 자본 지출(capex) 변화를 야기할 수 있습니다.",
-      "impactSignals": [
-        {
-          "label": "capex",
-          "evidence": "빅테크 기업의 자체 발전소 건설은 상당한 자본 지출을 필요로 합니다."
-        }
-      ],
-      "dedupeKey": "trump-bigtech-powerplants",
-      "clusterKey": "에너지/big",
+      "whyImportant": "한국콜마의 역대 최대 실적은 화장품 및 제약 업계에 중요한 지표가 될 수 있습니다.",
+      "importanceRationale": "근거: 한국콜마의 실적은 관련 산업의 성장 가능성과 기업 경쟁력을 나타내는 지표로 활용될 수 있습니다.",
+      "impactSignals": [],
+      "dedupeKey": "20240516-한국콜마-최대실적",
+      "clusterKey": "396억원",
       "matchedTo": null,
-      "sourceName": "Reuters",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMWV2WGlDQUhyWUlMMkpnUS11Q0RZNnVsM0hOeFpoWVNaVjJvUzFaZWVQMWJoZ2ViYkRTQ2k1aVUwamltcGNOOWFGdTBYanVPVFVCYXpLbHRGSFJUYkEwbUliWGJlZHRNdnRwYngwQTgzTGE3dXlCY1A2RGR4X19nWG9LMWZXTVVtVDVqV1RwcjVtOUY5OWFxQ192em4yQVhLeVZBbDJ2dW1FRHU4TnNUSUc0ZVdZTGhOR2QyM3FpQQ?oc=5",
-      "publishedAt": "2026-02-25T03:29:00.000Z",
+      "sourceName": "연합뉴스TV",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1uOEwyU1J6VGJxdWxOaVp3eDc3QnRvTXB2OEtudE1XcV9faHFUV01uNGlVTnB1WVU0REcwa1dtczZlRU1ZOUVpa1JUT1hGVEZvUm5fMmdsbGZwLUYyWVdLM0dwa0hpVW8?oc=5",
+      "publishedAt": "2026-02-25T07:18:54.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 3,
-      "importanceRaw": 50,
+      "importance": 2,
+      "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "기사의 내용이 간결하고 명확하며, 출처가 로이터 통신으로 신뢰할 만합니다.",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 핵심 정보를 전달합니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     }
