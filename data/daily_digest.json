@@ -3,7 +3,7 @@
   "selectionCriteria": "① 내일도 영향이 남는 이슈 ② 과도한 감정 소모 제외 ③ 어제와 중복되는 뉴스 제외",
   "editorNote": "이 뉴스는 클릭 수가 아니라 오늘 이후에도 남는 정보만 기준으로 편집했습니다.",
   "question": "정보를 덜 보는 것이 오히려 더 똑똑한 소비일까?",
-  "lastUpdatedAt": "2026-02-26T07:30:31.650+09:00",
+  "lastUpdatedAt": "2026-02-26T08:26:08.340+09:00",
   "items": [
     {
       "id": "2026-02-26_1",
@@ -12,18 +12,18 @@
       "title": "국회, 오늘 본회의서 '법왜곡죄' 여당 주도로 처리 전망",
       "summary": [
         "국회는 오늘 본회의에서 '법왜곡죄'를 여당 주도로 처리할 전망이다.",
-        "해당 법안은 법 해석의 자의성을 방지하고 법 적용의 공정성을 확보하는 데 목적을 두고 있다.",
-        "여야 간의 첨예한 대립 속에서 법안 통과 여부가 주목된다."
+        "해당 법안은 법률 해석에 대한 논란을 야기할 수 있다.",
+        "여야 간의 첨예한 대립이 예상된다."
       ],
-      "whyImportant": "법왜곡죄 법안의 통과는 법률 해석 및 적용에 있어 중요한 변화를 가져올 수 있으며, 정치적 및 사회적으로 큰 영향을 미칠 수 있다.",
-      "importanceRationale": "근거: 법안의 내용이 법 해석의 자의성을 방지하고 법 적용의 공정성을 확보하는 데 목적을 두고 있어, 법조계 및 관련 분야에 상당한 영향을 줄 수 있다. 또한, 여야 간의 대립이 첨예한 상황에서 법안 통과 여부가 정치적 중요성을 가진다.",
+      "whyImportant": "법왜곡죄의 처리 전망은 법률 해석 및 적용에 큰 영향을 미칠 수 있기 때문에 중요하다.",
+      "importanceRationale": "근거: 법왜곡죄는 법률 해석의 자의성을 제한하고, 법 적용의 공정성을 확보하려는 목적을 가진다. 법안 통과는 향후 법률 해석 및 적용에 대한 정치적, 사회적 논쟁을 심화시킬 수 있다.",
       "impactSignals": [
         {
           "label": "policy",
-          "evidence": "법왜곡죄 법안의 국회 본회의 처리 전망"
+          "evidence": "법왜곡죄의 처리 전망은 법률 해석 및 적용에 영향을 미치는 정책 변화를 의미한다."
         }
       ],
-      "dedupeKey": "20240614-국회-법왜곡죄-처리전망",
+      "dedupeKey": "20240612-국회, 오늘 본회의서 '법왜곡죄' 與주도로 처리 전망",
       "clusterKey": "국회",
       "matchedTo": null,
       "sourceName": "한국경제",
@@ -31,24 +31,51 @@
       "publishedAt": "2026-02-25T22:15:54.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 4,
-      "importanceRaw": 75,
+      "importance": 3.5,
+      "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하고 명확하게 요약됨.",
+      "qualityReason": "제목과 내용이 일치하며, 간결하고 명확하게 요약되어 있습니다.",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-02-26_2",
       "date": "2026-02-26",
+      "category": "국제",
+      "title": "엔비디아, AI 칩 수요 증가로 낙관적인 매출 전망 발표",
+      "summary": [
+        "엔비디아가 AI 칩 수요 증가에 힘입어 낙관적인 매출 전망을 발표했습니다.",
+        "엔비디아는 장기적인 성장 전망에 대해서도 긍정적으로 평가했습니다."
+      ],
+      "whyImportant": "AI 칩 시장에서의 엔비디아의 성장 가능성을 보여주는 지표입니다.",
+      "importanceRationale": "근거: 엔비디아의 매출 전망은 AI 칩 시장의 성장과 엔비디아의 시장 지배력을 반영합니다.",
+      "impactSignals": [],
+      "dedupeKey": "nvidia-ai-chip-sales-forecast",
+      "clusterKey": "반도체/chip",
+      "matchedTo": null,
+      "sourceName": "Reuters",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaWdSN09nZkZXQlJBWkVUNWR6Um10MHJkT0QwODFDd3Q1LW9NWkRralhldnFmdmlyWHlVRXAwWE1ZSF9VcE1NcWhYTFVDdVRLTTNiRGFqaldkdzZyZUt4cHp2bTF6OE5LRDR4YVVOUWZKeXo2MmptLUpmQ2NEYTVTTVJnc3BXUGtBQWdwM1FYdGgyWVpKckdEdElNT3FxVHVWR0ZEOHQ2Uzh4LVU?oc=5",
+      "publishedAt": "2026-02-25T21:35:05.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 75,
+      "qualityLabel": "ok",
+      "qualityReason": "The article is a factual report on Nvidia's sales forecast. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-02-26_3",
+      "date": "2026-02-26",
       "category": "에너지",
       "title": "데이터 센터 전력 수요 증가가 에너지 비용 상승에 기여",
       "summary": [
         "데이터 센터의 전력 수요가 증가하면서 에너지 비용 상승의 원인이 되고 있습니다.",
-        "Environmental and Energy Study Institute (EESI)에서 관련 기사를 발표했습니다."
+        "이는 환경 및 에너지 연구소(EESI)의 연구 결과에서 밝혀졌습니다."
       ],
-      "whyImportant": "데이터 센터의 전력 소비 증가는 에너지 시장과 소비자에게 영향을 미치므로 중요합니다.",
-      "importanceRationale": "근거: 데이터 센터의 전력 수요 증가는 에너지 비용 상승을 유발하며, 이는 정책 및 설비 투자와 관련된 중요한 고려 사항입니다.",
+      "whyImportant": "데이터 센터의 전력 소비 증가는 에너지 시장과 환경에 중요한 영향을 미칩니다.",
+      "importanceRationale": "근거: 데이터 센터의 전력 수요 증가는 에너지 비용 상승을 야기하며, 이는 정책 및 설비 투자와 관련된 중요한 고려 사항입니다.",
       "impactSignals": [],
       "dedupeKey": "datacenter-power-demand-higher-energy-bills",
       "clusterKey": "에너지/bills",
@@ -61,12 +88,12 @@
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 내용이 일치하며, 정보가 명확합니다. / 근거부족",
+      "qualityReason": "기사 제목과 내용이 일치하며, 간결하게 요약되었습니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-02-26_3",
+      "id": "2026-02-26_4",
       "date": "2026-02-26",
       "category": "국제",
       "title": "세일즈포스, 연간 매출 전망치 하향 조정에 주가 하락",
@@ -74,14 +101,9 @@
         "세일즈포스가 연간 매출 전망치를 예상치보다 낮게 제시했다.",
         "이로 인해 세일즈포스의 주가가 하락했다."
       ],
-      "whyImportant": "세일즈포스의 매출 전망치 하향은 IT 업계 전반에 대한 투자 심리에 영향을 줄 수 있다.",
-      "importanceRationale": "근거: 세일즈포스는 클라우드 기반 CRM 시장의 주요 기업이며, 매출 부진은 시장 수요 감소를 시사할 수 있기 때문이다.",
-      "impactSignals": [
-        {
-          "label": "market-demand",
-          "evidence": "매출 전망치 하향 조정은 시장 수요 감소를 의미할 수 있음"
-        }
-      ],
+      "whyImportant": "세일즈포스의 매출 전망치 하향은 IT 업계 전반에 대한 투자 심리에 영향을 줄 수 있습니다.",
+      "importanceRationale": "근거: 세일즈포스는 클라우드 기반 CRM 시장의 주요 기업이며, 매출 부진은 시장 수요 감소를 시사할 수 있습니다.",
+      "impactSignals": [],
       "dedupeKey": "salesforce-revenue-forecast-below-estimates-shares-fall",
       "clusterKey": "annual",
       "matchedTo": null,
@@ -90,43 +112,10 @@
       "publishedAt": "2026-02-25T21:07:14.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 3.5,
+      "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "기사 내용이 간결하고 명확함",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-02-26_4",
-      "date": "2026-02-26",
-      "category": "기술",
-      "title": "사실을 알아보세요: 데이터 센터의 역할과 전력 수요 증가",
-      "summary": [
-        "데이터 센터의 역할과 전력 수요 증가에 대한 정보 제공.",
-        "데이터 센터는 현대 사회에서 중요한 역할을 수행.",
-        "전력 수요 증가는 데이터 센터의 확장에 따른 불가피한 결과."
-      ],
-      "whyImportant": "데이터 센터의 역할과 전력 수요 증가에 대한 이해는 기술 발전과 에너지 정책에 중요한 시사점을 제공합니다.",
-      "importanceRationale": "근거: 데이터 센터의 역할과 전력 수요 증가는 기술 발전과 에너지 정책에 중요한 영향을 미치기 때문입니다.",
-      "impactSignals": [
-        {
-          "label": "market-demand",
-          "evidence": "데이터 센터는 현대 사회에서 중요한 역할을 수행하며, 시장 수요 증가에 따라 확장되고 있습니다."
-        }
-      ],
-      "dedupeKey": "Get the Facts: What data centers do and the rise in electricity demand",
-      "clusterKey": "centers",
-      "matchedTo": null,
-      "sourceName": "WJCL",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMickFVX3lxTE5YdG9RUWpLM09Qb281bk55QmlrTjJ1ZjZFdmwyMTlYT2NBRnQ0WWY0SnNhVWEtSkpsSndRR2dOQmo2RkVtNVJicjQ5WE5lVUhyLWxEY241d0Y3aDNrVG9zYzdwckoycUNiejhzeHJTMU5DUQ?oc=5",
-      "publishedAt": "2026-02-25T21:23:00.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 3.5,
-      "importanceRaw": 63,
-      "qualityLabel": "ok",
-      "qualityReason": "제목과 텍스트가 일치하며, 요약이 간결하고 명확합니다.",
+      "qualityReason": "기사 제목과 내용이 일치하며, 간결하게 요약되어 있습니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -142,7 +131,7 @@
       "whyImportant": "미국이 이란 핵 협상에 앞서 제재를 가함으로써 협상에 영향을 미칠 수 있다.",
       "importanceRationale": "근거: 핵 협상이라는 민감한 시기에 제재를 가함으로써 미국의 정책적 의도를 드러내고, 향후 협상 과정에 영향을 줄 수 있기 때문이다.",
       "impactSignals": [],
-      "dedupeKey": "미국, 핵협상 전날 이란 제재…'그림자 선단' 등 겨냥",
+      "dedupeKey": "20240130_이란제재",
       "clusterKey": "겨냥",
       "matchedTo": null,
       "sourceName": "연합뉴스 한민족센터",
@@ -153,39 +142,12 @@
       "importance": 2,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 내용이 일치하며, 간결하게 요약되어 있습니다. / 근거부족",
+      "qualityReason": "기사 제목과 내용이 일치하며, 간결하게 요약되어 있음. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-02-26_6",
-      "date": "2026-02-26",
-      "category": "국제",
-      "title": "중국, 미국에 관세 협상 제안…독일 총리 방중 '실리 외교'",
-      "summary": [
-        "중국이 미국에 관세 협상을 제안했습니다.",
-        "독일 총리의 방중은 실리 외교로 평가됩니다."
-      ],
-      "whyImportant": "미중 무역 관계와 유럽 외교에 중요한 영향을 미칩니다.",
-      "importanceRationale": "근거: 미중 관세 협상 제안은 양국 관계 변화의 신호탄이며, 독일 총리의 방중은 유럽의 외교 전략을 보여줍니다.",
-      "impactSignals": [],
-      "dedupeKey": "중국, 미국에 관세 협상 제안…독일 총리 방중 '실리 외교'",
-      "clusterKey": "관세협상",
-      "matchedTo": null,
-      "sourceName": "연합뉴스 한민족센터",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAwTjJNOUVmWVZSM0NFMWYyRko0dEN3aUE0NG12ZVdNOTk4QnhIa01OdWQtZERKLWZOMFBaTVlvci1jNzQ3NV9qcVZhZUN2Vko4dWlRSjBBLW9GYmVHd3NQS21wb1R1bnBHem5NaUk2S3RGbU5O?oc=5",
-      "publishedAt": "2026-02-25T12:19:31.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 75,
-      "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었습니다. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-02-26_7",
       "date": "2026-02-26",
       "category": "기술",
       "title": "Thrive Capital, OpenAI에 약 10억 달러 투자, 기업 가치 2,850억 달러로 평가",
@@ -197,7 +159,7 @@
       "whyImportant": "OpenAI에 대한 대규모 투자는 인공지능 분야에 대한 투자자들의 높은 관심을 보여줍니다.",
       "importanceRationale": "근거: Thrive Capital의 대규모 투자는 OpenAI의 성장 가능성에 대한 강력한 지지를 나타내며, 이는 인공지능 산업 전반에 긍정적인 영향을 미칠 수 있습니다.",
       "impactSignals": [],
-      "dedupeKey": "Thrive Capital invests 1B in OpenAI at 285B valuation",
+      "dedupeKey": "thrive_openai_1billion_285billion",
       "clusterKey": "금융/about",
       "matchedTo": null,
       "sourceName": "CNBC",
@@ -206,76 +168,55 @@
       "readTimeSec": 10,
       "status": "kept",
       "importance": 2,
+      "importanceRaw": 75,
+      "qualityLabel": "ok",
+      "qualityReason": "기사 내용이 간결하고 명확하며, 출처가 분명합니다. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-02-26_7",
+      "date": "2026-02-26",
+      "category": "국제",
+      "title": "BMW, 중국산 전기 미니 EU 관세 관련 협상 진행 중: 최소 수입 가격 설정",
+      "summary": [
+        "BMW가 중국에서 생산되는 전기 미니의 유럽연합(EU) 관세 부과와 관련하여 협상을 진행하고 있습니다.",
+        "협상의 주요 내용은 최소 수입 가격을 설정하는 것입니다."
+      ],
+      "whyImportant": "중국산 전기차에 대한 EU의 관세 부과는 자동차 산업에 큰 영향을 미칠 수 있습니다.",
+      "importanceRationale": "근거: BMW와 EU 간의 협상 결과는 향후 다른 자동차 제조사 및 관련 산업에 대한 정책 결정에 영향을 줄 수 있으며, 전기차 시장의 경쟁 환경에도 변화를 가져올 수 있습니다.",
+      "impactSignals": [
+        {
+          "label": "market-demand",
+          "evidence": "관세 부과에 따른 가격 변화가 전기 미니의 시장 수요에 영향"
+        }
+      ],
+      "dedupeKey": "BMW_중국산_전기_미니_EU_관세_협상",
+      "clusterKey": "bmw",
+      "matchedTo": null,
+      "sourceName": "тарантас ньюс",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSjVWRlFTWmtiR3FxbjVUdUZHcFpkb09vdlEtbmdVMW5SSWpWTXRBakJoV0t3Wm1CaXdWY213cmZpb1BDaHpOeFk5d0RfaF9VNzRldkY2MWFzV0ZlOUx6YlZMUUZudW1VRTdDdVJTWlFWcjFwdkx3UXUzQ3gydUFOdGxyaHdFVUlwS2k4dElpaEtpN2xzZ0RUNEh4UVR2RHlRXy02ODhFblA3bm9CTWw0ZTk1dkxNTV9XYXfSAb4BQVVfeXFMUG83V0Nnb01XUjlZQnVqci1fR3lyckRPcFBvNXRpWDZMQzg3blY1WXJma0VDRGZ3dmhaYkstemJWbEhvQVpuRXFLWC1tSmdRSG9QYlFoS0pweXg2M3FpU2RvaE5BcWtzWWlxYjNnMU9Gb00tT1dKcGdXYWZzcWdSWUpkaHlSOGZySWw0eE9ROHFfMFNjVEFfbkZfemk2TlZXeEFVQWNhYm1oU05HSENaem1NMVV0ZGJtRTEyaXQyUQ?oc=5",
+      "publishedAt": "2026-02-25T16:51:22.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 3.5,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "기사의 내용이 간결하고 명확하며, 출처가 분명합니다. / 근거부족",
+      "qualityReason": "제목과 본문이 일치하며, 정보가 명확합니다.",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-02-26_8",
       "date": "2026-02-26",
-      "category": "국제",
-      "title": "미국, 협상 직전 대이란 제재…핵 협상 '안개 속'",
-      "summary": [
-        "미국이 이란과의 협상을 앞두고 대이란 제재를 가했습니다.",
-        "핵 협상이 불확실성 속으로 빠졌습니다."
-      ],
-      "whyImportant": "미국의 대이란 제재로 인해 핵 협상의 전망이 불투명해졌습니다.",
-      "importanceRationale": "근거: 미국의 제재가 이란과의 협상에 직접적인 영향을 미치기 때문입니다.",
-      "impactSignals": [],
-      "dedupeKey": "미국, 협상 직전 대이란 제재…핵 협상 '안개 속'",
-      "clusterKey": "글로벌",
-      "matchedTo": null,
-      "sourceName": "SBS Biz",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1MemlXYWk0b19lSHduMzB2aHRTYUJKN2lITW1DN0pfaUFQWVBLakI2dTk0MEgtQUtXVEhGbW8zRjNUSnRFWmVyQlBDMEplSG1KOTRj?oc=5",
-      "publishedAt": "2026-02-25T20:52:00.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 75,
-      "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었습니다. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-02-26_9",
-      "date": "2026-02-26",
-      "category": "정책",
-      "title": "국회, '자사주 소각 의무화' 상법 개정안 통과",
-      "summary": [
-        "국회 본회의에서 '자사주 소각 의무화'를 골자로 하는 상법 개정안이 통과되었습니다."
-      ],
-      "whyImportant": "이번 개정안은 기업의 자사주 활용 방식에 중요한 변화를 가져올 수 있습니다.",
-      "importanceRationale": "근거: 자사주 소각 의무화는 주주 가치에 직접적인 영향을 미치는 정책 변경입니다.",
-      "impactSignals": [],
-      "dedupeKey": "자사주 소각 의무화 상법개정안 국회 통과",
-      "clusterKey": "3차",
-      "matchedTo": null,
-      "sourceName": "한겨레",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0teURsaG12b3BCWUJkbDVXVWxQS2NsaEExc0dSX1Eycm9WQWJyZl9SNmhINXYxZUhGLTNmZkV6d2dRTUE2ZzlqRTdpRGNDRTdYOEJVOVJjeFlFV2JRNTN1SmhySzlIQjd3WHVXTXpNWEtfT19R?oc=5",
-      "publishedAt": "2026-02-25T08:49:00.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 75,
-      "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 핵심 내용을 잘 요약했습니다. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-02-26_10",
-      "date": "2026-02-26",
       "category": "기술",
-      "title": "빅테크 기업들, 백악관에서 트럼프와 데이터 센터 전력 비용 서약 서명 예정",
+      "title": "빅테크 기업들, 백악관에서 트럼프와 데이터 센터 전력 비용 서약 체결 예정",
       "summary": [
-        "빅테크 기업들이 데이터 센터 전력 비용에 대한 서약을 위해 트럼프 대통령과 백악관에서 만날 예정이다.",
+        "빅테크 기업들이 데이터 센터 전력 비용에 대한 서약을 체결하기 위해 백악관에서 트럼프 대통령을 만날 예정이다.",
         "CNBC에서 보도했다."
       ],
-      "whyImportant": "데이터 센터 전력 비용에 대한 서약은 빅테크 기업들의 운영 비용에 영향을 미칠 수 있다.",
-      "importanceRationale": "근거: 데이터 센터는 막대한 전력을 소비하며, 전력 비용은 기업의 중요한 지출 항목이다. 이번 서약은 관련 기업들의 투자 결정에 영향을 줄 수 있다.",
+      "whyImportant": "데이터 센터는 빅테크 기업의 핵심 인프라이며, 전력 비용은 운영 비용에 큰 영향을 미친다.",
+      "importanceRationale": "근거: 데이터 센터 전력 비용에 대한 서약은 빅테크 기업의 투자 및 운영 전략에 영향을 미칠 수 있다.",
       "impactSignals": [],
       "dedupeKey": "bigtech-trump-datacenter-power-pledge",
       "clusterKey": "에너지/big",
@@ -286,14 +227,106 @@
       "readTimeSec": 10,
       "status": "kept",
       "importance": 2,
+      "importanceRaw": 63,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 본문이 일치하며, 내용이 간결하고 명확함. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-02-26_9",
+      "date": "2026-02-26",
+      "category": "기술",
+      "title": "사실을 알아보세요: 데이터 센터의 역할과 전력 수요 증가",
+      "summary": [
+        "데이터 센터의 역할과 전력 수요 증가에 대한 정보 제공 기사입니다.",
+        "데이터 센터의 기능과 중요성을 강조합니다.",
+        "전력 수요 증가에 대한 배경 정보를 제공합니다."
+      ],
+      "whyImportant": "데이터 센터의 역할과 전력 수요 증가에 대한 이해를 돕습니다.",
+      "importanceRationale": "근거: 데이터 센터의 중요성과 전력 수요 증가에 대한 기본적인 정보를 제공하므로 독자들의 이해를 돕는 데 중요합니다.",
+      "impactSignals": [
+        {
+          "label": "market-demand",
+          "evidence": "데이터 센터 수요 증가에 따른 시장 변화"
+        }
+      ],
+      "dedupeKey": "Get the Facts: What data centers do and the rise in electricity demand",
+      "clusterKey": "centers",
+      "matchedTo": null,
+      "sourceName": "WJCL",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMickFVX3lxTE5YdG9RUWpLM09Qb281bk55QmlrTjJ1ZjZFdmwyMTlYT2NBRnQ0WWY0SnNhVWEtSkpsSndRR2dOQmo2RkVtNVJicjQ5WE5lVUhyLWxEY241d0Y3aDNrVG9zYzdwckoycUNiejhzeHJTMU5DUQ?oc=5",
+      "publishedAt": "2026-02-25T21:23:00.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 3,
       "importanceRaw": 50,
       "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 내용이 일치하며, 간결하게 요약되어 있다. / 근거부족",
+      "qualityReason": "제목과 내용이 일치하며, 정보 전달에 적합합니다.",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-02-26_10",
+      "date": "2026-02-26",
+      "category": "국제",
+      "title": "중국, 미국에 관세 협상 제안…독일 총리 방중 '실리 외교'",
+      "summary": [
+        "중국이 미국에 관세 협상을 제안했습니다.",
+        "독일 총리의 방중은 실리 외교로 평가됩니다."
+      ],
+      "whyImportant": "미중 무역 관계와 유럽 외교에 영향을 미칠 수 있습니다.",
+      "importanceRationale": "근거: 중국의 관세 협상 제안은 미중 관계 변화 가능성을 시사하며, 독일 총리의 방중은 유럽의 외교 전략 변화를 나타냅니다.",
+      "impactSignals": [],
+      "dedupeKey": "중국, 미국에 관세 협상 제안…독일 총리 방중 '실리 외교'",
+      "clusterKey": "관세협상",
+      "matchedTo": null,
+      "sourceName": "연합뉴스 한민족센터",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAwTjJNOUVmWVZSM0NFMWYyRko0dEN3aUE0NG12ZVdNOTk4QnhIa01OdWQtZERKLWZOMFBaTVlvci1jNzQ3NV9qcVZhZUN2Vko4dWlRSjBBLW9GYmVHd3NQS21wb1R1bnBHem5NaUk2S3RGbU5O?oc=5",
+      "publishedAt": "2026-02-25T12:19:31.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 63,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었습니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-02-26_11",
+      "date": "2026-02-26",
+      "category": "정책",
+      "title": "국회, '자사주 소각 의무화' 상법 개정안 통과",
+      "summary": [
+        "국회 본회의에서 '자사주 소각 의무화'를 골자로 하는 상법 개정안이 통과되었습니다.",
+        "이번 개정안은 자사주를 취득한 기업이 일정 기간 내에 이를 소각하도록 의무화하는 내용을 담고 있습니다."
+      ],
+      "whyImportant": "이번 개정은 주주 가치 제고에 중요한 영향을 미칩니다.",
+      "importanceRationale": "근거: 자사주 소각 의무화는 기업의 자본 효율성을 높이고 주주 이익을 보호하는 데 기여할 수 있습니다.",
+      "impactSignals": [
+        {
+          "label": "policy",
+          "evidence": "상법 개정안이 국회 본회의를 통과하여 정책 변화가 발생했습니다."
+        }
+      ],
+      "dedupeKey": "자사주 소각 의무화 상법개정안 국회 본회의 통과",
+      "clusterKey": "3차",
+      "matchedTo": null,
+      "sourceName": "한겨레",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0teURsaG12b3BCWUJkbDVXVWxQS2NsaEExc0dSX1Eycm9WQWJyZl9SNmhINXYxZUhGLTNmZkV6d2dRTUE2ZzlqRTdpRGNDRTdYOEJVOVJjeFlFV2JRNTN1SmhySzlIQjd3WHVXTXpNWEtfT19R?oc=5",
+      "publishedAt": "2026-02-25T08:49:00.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 4,
+      "importanceRaw": 75,
+      "qualityLabel": "ok",
+      "qualityReason": "기사 내용이 명확하고 간결하게 핵심 사항을 전달합니다.",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-02-26_12",
       "date": "2026-02-26",
       "category": "경제",
       "title": "미국 연방 정부, 조지아 및 앨라배마 유틸리티 확장 위해 270억 달러 대출 승인",
@@ -301,10 +334,10 @@
         "미국 연방 정부가 조지아와 앨라배마의 유틸리티 확장을 위해 기록적인 270억 달러의 대출을 승인했습니다.",
         "이번 대출은 해당 지역의 유틸리티 인프라 개선에 사용될 예정입니다."
       ],
-      "whyImportant": "대규모 투자를 통해 지역 경제 활성화 및 인프라 개선에 기여할 수 있습니다.",
-      "importanceRationale": "근거: 270억 달러 규모의 대출은 조지아와 앨라배마의 유틸리티 확장이라는 구체적인 투자 계획을 뒷받침하며, 이는 지역 경제에 상당한 영향을 미칠 수 있습니다.",
+      "whyImportant": "이번 투자는 해당 지역의 경제 성장과 인프라 발전에 중요한 역할을 할 것입니다.",
+      "importanceRationale": "근거: 270억 달러 규모의 대출은 조지아와 앨라배마의 유틸리티 인프라 확장에 상당한 영향을 미칠 것으로 예상됩니다.",
       "impactSignals": [],
-      "dedupeKey": "feds_27b_loans_georgia_alabama",
+      "dedupeKey": "Feds_give_record_$27B_in_loans_for_utility_expansion_in_Georgia_and_Alabama",
       "clusterKey": "에너지/27b",
       "matchedTo": null,
       "sourceName": "KTAR News 92.3 FM",
@@ -315,34 +348,7 @@
       "importance": 2,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 내용이 일치하며, 사실에 기반한 정보를 제공합니다. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-02-26_12",
-      "date": "2026-02-26",
-      "category": "정책",
-      "title": "법무부, 상장폐지 거래 시 이사의 공정성 검토 의무화 가이드라인 발표",
-      "summary": [
-        "법무부가 상장폐지 거래 시 이사의 공정성 검토를 의무화하는 가이드라인을 발표했습니다.",
-        "이는 소액주주 보호를 강화하고 기업 가치 훼손을 방지하기 위한 조치입니다."
-      ],
-      "whyImportant": "상장폐지 과정의 투명성과 공정성을 높여 소액주주를 보호하고 기업 가치 훼손을 방지합니다.",
-      "importanceRationale": "근거: 법무부가 상장폐지 거래에 대한 이사의 공정성 검토 의무화 가이드라인을 발표했다는 사실은 자본 시장의 건전성을 확보하고 투자자를 보호하는 데 중요한 영향을 미칩니다.",
-      "impactSignals": [],
-      "dedupeKey": "법무부, 상장폐지 거래 공정성 검토 가이드라인 발표",
-      "clusterKey": "가이드라인",
-      "matchedTo": null,
-      "sourceName": "연합인포맥스",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9xQ2NHdWc1cE5kU1lDSGtpaUxNUDlSY216a3pPU183QkJldF9DYzRWdVlyZS1PMjJXVFF5dWJXMVA5VGNfWHpadDJzNzBaSWtVeWpBemZwaWZDaGdVM3BKbUEyZTJDQmp2UEgzV1E0eHQ?oc=5",
-      "publishedAt": "2026-02-25T10:08:11.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 75,
-      "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 내용이 일치하며, 핵심 내용을 잘 요약했습니다. / 근거부족",
+      "qualityReason": "기사 내용이 명확하고 간결합니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -350,42 +356,15 @@
       "id": "2026-02-26_13",
       "date": "2026-02-26",
       "category": "정책",
-      "title": "“회사, 자기주식 취득 금지”...상법 개정안 국회 통과",
-      "summary": [
-        "상법 개정안이 국회를 통과하여 회사가 자기 주식을 취득하는 것이 금지됩니다.",
-        "이번 개정은 기업의 자율성을 제한하고 투자자를 보호하기 위한 조치로 해석됩니다."
-      ],
-      "whyImportant": "이번 상법 개정안은 기업 지배 구조와 투자자 보호에 중요한 영향을 미칩니다.",
-      "importanceRationale": "근거: 자기주식 취득 금지는 기업의 의사 결정 방식과 주주 가치에 직접적인 영향을 미치기 때문입니다.",
-      "impactSignals": [],
-      "dedupeKey": "상법개정안-자기주식취득금지",
-      "clusterKey": "갖는다",
-      "matchedTo": null,
-      "sourceName": "법률저널",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBNVGlHQXhQSUI3SnVzdVJXSTlMSG8zMThUUHA0OW5SUFRJbGVnaWVQYXZLR2QtR2FLLUlJU18xTU9qa1lBVlFjQ2JCR2JEdEwxLVppVGlfbnFtaXJTc0VhbUFJZEZrQQ?oc=5",
-      "publishedAt": "2026-02-25T09:25:16.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 75,
-      "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 핵심 내용을 전달합니다. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-02-26_14",
-      "date": "2026-02-26",
-      "category": "정책",
-      "title": "마이크로소프트 코파일럿, AI 끼워팔기 논란 확산…FTC 나서며 규제 리스크 우려",
+      "title": "마이크로소프트 코파일럿, AI 끼워팔기 논란 확산…미국 연방거래위원회(FTC) 나서며 규제 리스크 우려",
       "summary": [
         "마이크로소프트의 코파일럿 AI 끼워팔기 논란이 확산되고 있다.",
-        "미국 연방거래위원회(FTC)가 조사에 착수하며 규제 리스크가 우려된다."
+        "미국 연방거래위원회(FTC)가 조사에 착수하며 규제 리스크가 부각되고 있다."
       ],
-      "whyImportant": "마이크로소프트의 AI 전략과 관련된 규제 리스크를 보여주는 사례이다.",
-      "importanceRationale": "근거: FTC의 조사 착수는 마이크로소프트의 사업 운영에 직접적인 영향을 미칠 수 있는 정책 변화 가능성을 시사한다.",
+      "whyImportant": "마이크로소프트의 AI 전략 및 규제 환경에 중요한 영향을 미칠 수 있다.",
+      "importanceRationale": "근거: FTC의 조사 착수는 마이크로소프트의 사업 방식에 대한 잠재적 규제 가능성을 시사하며, 이는 기업 전략 및 시장 경쟁에 중대한 영향을 줄 수 있다.",
       "impactSignals": [],
-      "dedupeKey": "microsoft-copilot-ftc-regulation",
+      "dedupeKey": "microsoft_copilot_ftc_regulation",
       "clusterKey": "ftc",
       "matchedTo": null,
       "sourceName": "itworld.co.kr",
@@ -396,33 +375,65 @@
       "importance": 2,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 핵심 내용을 잘 반영하고 있다. / 근거부족",
+      "qualityReason": "제목과 내용이 일치하며, 핵심 내용을 잘 요약했습니다. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-02-26_14",
+      "date": "2026-02-26",
+      "category": "정책",
+      "title": "5월 9일 다주택 양도 중과 시행령 개정안 국무회의 의결",
+      "summary": [
+        "5월 9일 다주택 양도 중과 시행령 개정안이 국무회의에서 의결되었습니다."
+      ],
+      "whyImportant": "다주택자 양도세 정책 변화",
+      "importanceRationale": "근거: 다주택 양도에 대한 중과세 시행령 개정은 부동산 시장 및 투자 전략에 중요한 영향을 미칩니다.",
+      "impactSignals": [],
+      "dedupeKey": "20240130-다주택양도중과",
+      "clusterKey": "5월9일",
+      "matchedTo": null,
+      "sourceName": "세무사신문",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9aRXJyaEx5UTBjdlRxN3V0eGNuXzZUaklhNkdKUE1mUEoxOXFJOVRxUjRNMXdiTzNyN3h0ZGZTTUVBTVRxNWFUMC04cF9kdGd1UUx4dnA0NW1hRzRyclpnczJFbnNjRmlJeDdFMA?oc=5",
+      "publishedAt": "2026-02-25T07:50:01.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 75,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 내용이 일치하며, 핵심 내용을 포함하고 있습니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-02-26_15",
       "date": "2026-02-26",
-      "category": "경제",
-      "title": "엔비디아, 4분기 매출 681억 달러로 전망치 상회",
+      "category": "정책",
+      "title": "[오늘의 국회 에너지 입법 : 외교부, 기후외교 기본계획 수립·시행해야]",
       "summary": [
-        "엔비디아가 4분기 매출 681억 달러를 기록하며 시장 전망치를 넘어섰습니다."
+        "외교부는 기후외교 기본계획을 수립하고 시행해야 합니다.",
+        "이는 국회 에너지 입법의 일환입니다."
       ],
-      "whyImportant": "엔비디아의 매출 증가는 기술 산업의 성장세를 반영합니다.",
-      "importanceRationale": "근거: 엔비디아의 매출이 시장 기대치를 상회했다는 것은 해당 기업의 실적이 긍정적이며, 이는 기술 산업 전반에 대한 투자 심리에 영향을 줄 수 있음을 의미합니다.",
-      "impactSignals": [],
-      "dedupeKey": "nvidia-q4-earnings-beat",
-      "clusterKey": "4분기",
+      "whyImportant": "기후 변화 대응을 위한 외교적 노력의 중요성을 강조합니다.",
+      "importanceRationale": "근거: 외교부의 기후외교 기본계획 수립 및 시행 의무는 국가적인 기후 변화 대응 노력에 중요한 정책적 영향을 미치기 때문입니다.",
+      "impactSignals": [
+        {
+          "label": "policy",
+          "evidence": "외교부의 기후외교 기본계획 수립 및 시행"
+        }
+      ],
+      "dedupeKey": "climate-diplomacy-plan-001",
+      "clusterKey": "에너지/국회",
       "matchedTo": null,
-      "sourceName": "매일경제TV",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE16TjVIRUtuSU1nR0ZEWVM0TEw4YlNTdE5zTkowTkVTa2Q2V1o0em9jN2dKSFY0ZWIyZGUwRmYweEJZWndhcWV0ZHlZMVFpY25iNURrRzItZUdHWmV2cWZadmlKNmVXQWRC?oc=5",
-      "publishedAt": "2026-02-25T21:43:00.000Z",
+      "sourceName": "에너지플랫폼뉴스",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9EYmtCdV82R0YwLWIyTE1HOFZUd0xWV2JhTEVwcjFRWE9WYnJhYUlxb0F6eFE1UVNTb0lKVzFORVEyMHlMVzFLTlU1dXpaVEhlbUhZVzlUTGtfTnZIdVFwZTFRckFNbXVGc05VRtIBcEFVX3lxTE5ySFJObW1ITVZNbEVNMkxUZC1hZTJjMXUwRUFDcEt3RGtaZTg0UVdEazQyUWxSNWxHMkthUTU0LVN6VmR2VkNFYTZVb3NZWUUyeU9aeHVZcXRKQlNQd240WDI5Z19fa05JZVh5ZDQ2dHM?oc=5",
+      "publishedAt": "2026-02-25T23:11:22.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 2,
+      "importance": 3.5,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "The article provides a concise and factual report on Nvidia's Q4 earnings. / 근거부족",
+      "qualityReason": "기사 제목과 내용이 일치하며, 간결하게 핵심 내용을 전달합니다.",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -430,14 +441,18 @@
       "id": "2026-02-26_16",
       "date": "2026-02-26",
       "category": "경제",
-      "title": "현대제철, ‘온라인 플랫폼·LNG 직도입’ 정관에 포함",
+      "title": "현대제철, ‘온라인 플랫폼·LNG 직도입’ 정관에 명시",
       "summary": [
-        "현대제철이 ‘온라인 플랫폼’과 ‘LNG 직도입’을 정관에 포함한다.",
-        "이는 현대제철의 사업 다각화 전략의 일환으로 해석된다."
+        "현대제철이 ‘온라인 플랫폼’과 ‘LNG 직도입’을 정관에 포함한다."
       ],
-      "whyImportant": "현대제철의 사업 확장 방향을 보여주는 중요한 변화이다.",
-      "importanceRationale": "근거: 현대제철이 온라인 플랫폼 사업과 LNG 직도입을 정관에 명시함으로써 새로운 성장 동력을 확보하려는 의지를 드러냈다.",
-      "impactSignals": [],
+      "whyImportant": "현대제철의 사업 다각화 전략을 보여주는 중요한 변화이다.",
+      "importanceRationale": "근거: 현대제철이 온라인 플랫폼 사업 진출과 LNG 직도입을 정관에 명시함으로써 새로운 성장 동력을 확보하려는 의지를 나타내고 있다.",
+      "impactSignals": [
+        {
+          "label": "capex",
+          "evidence": "온라인 플랫폼 구축 및 LNG 직도입을 위한 투자 확대 예상"
+        }
+      ],
       "dedupeKey": "현대제철, ‘온라인 플랫폼·LNG 직도입’ 정관에 담는다",
       "clusterKey": "lng",
       "matchedTo": null,
@@ -446,124 +461,127 @@
       "publishedAt": "2026-02-25T07:53:00.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 2,
+      "importance": 3.5,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 핵심 내용을 전달한다. / 근거부족",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 핵심 내용을 전달한다.",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-02-26_17",
       "date": "2026-02-26",
-      "category": "기술",
-      "title": "지상파 3사, 오픈AI 상대로 저작권 침해 소송 제기",
+      "category": "국제",
+      "title": "속보: 엔비디아 4분기 매출 681억 달러로 역대 최고액 경신",
       "summary": [
-        "지상파 3사가 오픈AI를 상대로 저작권 침해 소송을 제기했습니다."
+        "엔비디아가 4분기 실적을 발표했다.",
+        "매출은 681억 달러로 역대 최고액을 경신했다."
       ],
-      "whyImportant": "이번 소송은 AI 기술과 저작권의 충돌에 대한 중요한 선례를 만들 수 있습니다.",
-      "importanceRationale": "근거: 지상파 방송사들이 오픈AI를 상대로 저작권 침해 소송을 제기한 것은 AI 기술 사용에 대한 법적 책임과 관련된 중요한 사안입니다.",
+      "whyImportant": "엔비디아의 기록적인 매출은 AI 반도체 시장에서의 강력한 입지를 보여준다.",
+      "importanceRationale": "근거: 엔비디아의 매출액이 역대 최고치를 경신했다는 것은 기업의 성장세를 나타내는 중요한 지표이다.",
       "impactSignals": [
         {
-          "label": "security",
-          "evidence": "저작권 침해 소송은 데이터 보안 및 지적 재산권 보호와 관련된 중요한 문제입니다."
+          "label": "earnings",
+          "evidence": "4분기 매출 681억 달러로 역대 최고액 경신"
         }
       ],
-      "dedupeKey": "지상파3사_오픈AI_저작권침해소송",
-      "clusterKey": "3사",
+      "dedupeKey": "nvidia_earnings_q4_2024",
+      "clusterKey": "4분기",
       "matchedTo": null,
-      "sourceName": "mstoday.co.kr",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB0Sldwd0NpcVY4YUQ0cU1OaTlWOHdLRDZOeGV3bk9FVFNvMmhhQy1wUnpCVW1tS3FmSUZxWGJlclhzRV9CWndlcmt0WVhXWVZkd1M3dzZxV2E2RUozeDBYZWlXd2FrYUhucjNERQ?oc=5",
-      "publishedAt": "2026-02-24T01:53:55.000Z",
+      "sourceName": "부산일보사",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBnaWZyNGoyRjRJalFfOTcxQjdCM1cwd1NFNUlTbVpkbmItU3JWTU1wcmNIdU1hZVJxS2lmclZFSlRsU3RieVhrNm1UME5oRU9OLWFBbW5CNkQxM2hVTG96MnRHclhDeUM0MTFudi0ySm9SQlEz?oc=5",
+      "publishedAt": "2026-02-25T21:55:39.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 3.5,
-      "importanceRaw": 63,
+      "importance": 4.5,
+      "importanceRaw": 88,
       "qualityLabel": "ok",
-      "qualityReason": "기사 내용이 명확하고 간결하게 전달됨.",
+      "qualityReason": "The article provides a concise and factual report of Nvidia's earnings.",
       "isBriefing": false,
-      "isBreaking": false
+      "isBreaking": true
     },
     {
       "id": "2026-02-26_18",
       "date": "2026-02-26",
-      "category": "경제",
-      "title": "'실적 인정'이냐 '수익 확보'냐…금융지주, 국민성장펀드 두고 복잡한 셈법",
+      "category": "헬스",
+      "title": "주요 디지털 건강 자금 조달: Talkiatry, SpendRule 및 Coral Care",
       "summary": [
-        "금융지주사들이 국민성장펀드를 두고 '실적 인정'과 '수익 확보' 사이에서 복잡한 계산을 하고 있다.",
-        "이는 펀드 투자가 실적에 미치는 영향과 수익성 확보 가능성 때문이다."
+        "Talkiatry, SpendRule 및 Coral Care가 주요 디지털 건강 자금 조달을 받았습니다."
       ],
-      "whyImportant": "국민성장펀드에 대한 금융지주사들의 셈법이 복잡한 이유를 보여준다.",
-      "importanceRationale": "근거: 금융지주사들이 국민성장펀드 투자를 결정할 때 실적과 수익성이라는 상반된 요소를 고려해야 하는 상황을 제시한다.",
-      "impactSignals": [],
-      "dedupeKey": "금융지주, 국민성장펀드, 실적, 수익",
-      "clusterKey": "국민성장펀드",
+      "whyImportant": "디지털 건강 분야의 투자 동향을 파악하는 데 중요합니다.",
+      "importanceRationale": "근거: 디지털 건강 기업에 대한 자금 조달은 해당 분야의 성장과 혁신을 나타내는 중요한 지표입니다.",
+      "impactSignals": [
+        {
+          "label": "policy",
+          "evidence": "디지털 건강 자금 조달은 정부 정책 및 규제 환경에 영향을 받을 수 있습니다."
+        }
+      ],
+      "dedupeKey": "digital_health_funding_20240110",
+      "clusterKey": "care",
       "matchedTo": null,
-      "sourceName": "인베스트조선",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMickFVX3lxTFBPYzV6Y0FQX1hRZWtwVy1tWnIyWWFqdTlXdXM1RWYyOE03X2lXdEwxSmoxbUtSclZSMkswSy11M0ItMUFJcXQ0dWplVUJrN3dHYkRYaUVHa1Eycl9rbTVkOGROaGdXbHJKMzFlT1ZmcmRUUQ?oc=5",
-      "publishedAt": "2026-02-25T22:01:26.000Z",
+      "sourceName": "Modern Healthcare News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUlJFekJFVW9jbWNtbDZXMExkcGpWMU5sM240R1FKRWVSeWxPOEJaSkRwSThmMFVwdHFjZDc2Mi03bEZwT3g5S1paY1NsNXl1M3puZW5oM0hnRlRSMThHbDJjT2d1eWp3TVZsRF9ER1NIZFNvSkVOSVFYc1dJM0lYRlU0TDctSklVa19hOENLTTdNZ1dvd2c?oc=5",
+      "publishedAt": "2026-02-24T11:01:04.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 2,
+      "importance": 3,
       "importanceRaw": 50,
       "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 텍스트가 일치하며, 정보가 명확하게 전달됨. / 근거부족",
+      "qualityReason": "제목과 텍스트가 일치하며, 정보가 간결하게 제공됩니다.",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-02-26_19",
       "date": "2026-02-26",
-      "category": "기술",
-      "title": "Snowflake, 예상치를 약간 상회하는 실적 발표, 가이던스는 기대 이하",
+      "category": "경제",
+      "title": "엔비디아 실적 발표에서 모두가 놓치고 있는 '진짜' 핵심",
       "summary": [
-        "Snowflake가 예상치를 약간 상회하는 실적을 발표했습니다.",
-        "하지만 가이던스는 투자자들의 기대에 미치지 못했습니다."
+        "엔비디아의 실적 발표에서 간과되고 있는 핵심 사항이 있다고 연합인포맥스가 보도했습니다."
       ],
-      "whyImportant": "Snowflake의 실적 발표는 클라우드 컴퓨팅 시장의 성장과 기업들의 디지털 전환 추세를 반영합니다.",
-      "importanceRationale": "근거: Snowflake의 실적은 클라우드 데이터 플랫폼 시장의 경쟁 상황과 기업들의 IT 투자 전략을 파악하는 데 중요한 지표가 됩니다.",
+      "whyImportant": "엔비디아의 실적 발표에 대한 중요한 분석입니다.",
+      "importanceRationale": "근거: 엔비디아의 실적은 기술 산업 전반에 걸쳐 중요한 지표가 되기 때문입니다.",
       "impactSignals": [],
-      "dedupeKey": "Snowflake_Earnings_Underwhelms",
-      "clusterKey": "edge",
+      "dedupeKey": "엔비디아 실적 핵심",
+      "clusterKey": "놓치고",
       "matchedTo": null,
-      "sourceName": "Investor's Business Daily",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdE5ETjJxLUlWTnBLWFFRSlAyUDc5NGhvaTZCdFo2X3dSRENYUmhWckNTMFN4UTdXN2doWnVSUnMxbWRBYkg5aTdHMjZZTmpuMTRqdi1kbTZ3T1pNcGlDN096LVJDQkF0Q2ZyWDctRGV2OG1rbDhwNmNPRThDRUw2VlBHbTRsSkJqWnBPMTEwMkZFTUU?oc=5",
-      "publishedAt": "2026-02-25T21:59:00.000Z",
+      "sourceName": "연합인포맥스",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9SLWcwblRWb3RJMUNQa05DMEhuV0lhcUs1UlM4eWplR2lqdTdSeVN4aGhjNm5PMm84NFN2b2pyRjVER2Nxbl9lbllnZ3RDd2NmcUdGcGFjRS1POVBGMUo2R29FRFBzNE9HbVNaQld6RVrSAXRBVV95cUxNTmN3OGxVaEl4M2c5dExMV2FLWWVPMWc3RjZqQ2c4b2tmdjlsbTJkNVNMZWhobVNYcTlWUmY1YmtHMEU3VHYxakxNYnI3d0Q5WDZOcmdiTWxPQUZESTI5SFcyOEk5dllBYkJGV0kzaFFvRkQ3RQ?oc=5",
+      "publishedAt": "2026-02-25T23:03:40.000Z",
       "readTimeSec": 10,
       "status": "kept",
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "The article provides factual information about Snowflake's earnings and revenue. / 근거부족",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었습니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-02-26_20",
       "date": "2026-02-26",
-      "category": "기술",
-      "title": "우주 공급망, 한계에 다다라…미 국방부 계획에 미칠 영향은?",
+      "category": "경제",
+      "title": "세일즈포스, 호실적에도 전망 '먹구름'…AI 공포에 주가 5%↓(종합)",
       "summary": [
-        "우주 공급망이 한계에 다다르고 있다.",
-        "이는 미 국방부의 계획에 영향을 미칠 수 있다."
+        "세일즈포스가 호실적에도 불구하고 인공지능에 대한 우려로 주가가 5% 하락했다."
       ],
-      "whyImportant": "우주 공급망의 문제는 국방 계획에 차질을 초래할 수 있기 때문",
-      "importanceRationale": "근거: 우주 공급망의 제약은 군사 작전 및 기술 개발에 필요한 자원과 장비의 확보를 어렵게 만들어 국방 계획의 실행에 직접적인 영향을 줄 수 있다.",
+      "whyImportant": "세일즈포스의 주가 하락은 AI 기술 발전이 기업 실적에 미치는 잠재적 영향을 보여준다.",
+      "importanceRationale": "근거: 세일즈포스의 호실적에도 불구하고 AI에 대한 우려로 주가가 하락한 것은 투자자들이 AI 기술의 불확실성을 높게 평가하고 있음을 시사한다.",
       "impactSignals": [],
-      "dedupeKey": "space_supply_chain_pentagon_20240126",
-      "clusterKey": "chain",
+      "dedupeKey": "salesforce-ai-fear-stock-drop",
+      "clusterKey": "공포에",
       "matchedTo": null,
-      "sourceName": "Breaking Defense",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNX0hMTmMzMjNNbXgybG5Pc3VCZjZTM0tGaVlkODgxOXVaQ3hNblVPNjN6Qi16R0xodnVwZFhuNlUtY084OHYwRzQ1T3J0QUlyeVZuZTZMd29jUEdqa1I3R21uYUNsQnZ2SlVZbUhsWENXdG5WZDNQbmdEejIyV0hpYkdtNk1Cck55NENZWEdWWDBQaHFzTHhlSU9WRGJfb2hNM3BXMG5aQ2xWWEl5aXVOOTFfc05KWGJKVHFHaWxudmZqaFNU?oc=5",
-      "publishedAt": "2026-02-25T15:35:15.000Z",
+      "sourceName": "마켓인",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1DRXh6dFZlbDlwSlFCU0ZweG5faGFWXzE4b1c5TmFBRjdsdVc5MHlwSDB5N2NrRHRWWE5hOWZoOGRwa1ZJcTlFVDROeVM0Z0p2MG5rY0lyQjFrdGhFdVBOaUhNcDJmY2FWNktWR3Vfay1LUU0?oc=5",
+      "publishedAt": "2026-02-25T22:59:06.000Z",
       "readTimeSec": 10,
       "status": "kept",
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 내용이 일치하며, 핵심 내용을 요약함. / 근거부족",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약됨. / 근거부족",
       "isBriefing": false,
-      "isBreaking": true
+      "isBreaking": false
     }
   ]
 }
