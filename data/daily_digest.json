@@ -3,7 +3,7 @@
   "selectionCriteria": "① 내일도 영향이 남는 이슈 ② 과도한 감정 소모 제외 ③ 어제와 중복되는 뉴스 제외",
   "editorNote": "이 뉴스는 클릭 수가 아니라 오늘 이후에도 남는 정보만 기준으로 편집했습니다.",
   "question": "정보를 덜 보는 것이 오히려 더 똑똑한 소비일까?",
-  "lastUpdatedAt": "2026-02-25T13:21:01.812+09:00",
+  "lastUpdatedAt": "2026-02-25T14:58:42.706+09:00",
   "items": [
     {
       "id": "2026-02-25_1",
@@ -15,14 +15,14 @@
         "그러나 환경 규제가 데이터 센터 확충에 방해가 되고 있다는 의견이 제시되었다."
       ],
       "whyImportant": "데이터 센터 확충의 필요성과 환경 규제 간의 충돌을 보여준다.",
-      "importanceRationale": "근거: 데이터 센터 증설 필요성이 제기되었으나, 환경 규제로 인해 어려움이 있다는 내용이므로 정책 및 투자 결정에 영향을 줄 수 있다.",
+      "importanceRationale": "근거: 데이터 센터 증설 필요성이 제기되었으나, 환경 규제로 인해 어려움이 발생하고 있다는 내용이므로 정책 및 투자 결정에 영향을 줄 수 있다.",
       "impactSignals": [
         {
           "label": "policy",
-          "evidence": "환경 규제가 데이터 센터 확충에 영향을 미친다는 내용"
+          "evidence": "환경 규제가 데이터 센터 확충에 영향을 미침"
         }
       ],
-      "dedupeKey": "data_center_environmental_regulations",
+      "dedupeKey": "congress-data-centers-environmental-regulations",
       "clusterKey": "but",
       "matchedTo": null,
       "sourceName": "The Well News",
@@ -41,15 +41,15 @@
       "id": "2026-02-25_2",
       "date": "2026-02-25",
       "category": "국제",
-      "title": "이란 핵 협상 진전 주장에 유가 이틀 연속 약세",
+      "title": "이란 핵 협상 진전에 유가 이틀 연속 약세",
       "summary": [
-        "이란이 핵 협상에서 진전이 있었다고 주장하며 유가가 이틀 연속 하락세를 보였습니다.",
-        "이는 시장의 공급 증가 기대감을 반영한 것으로 풀이됩니다."
+        "이란이 핵 협상 진전을 주장하며 유가가 이틀 연속 약세를 보였습니다.",
+        "이는 시장의 공급 증가 기대감을 반영한 결과로 해석됩니다."
       ],
-      "whyImportant": "이란 핵 협상 진전 가능성이 유가에 미치는 영향",
-      "importanceRationale": "근거: 이란 핵 협상 진전 주장이 유가 하락을 야기했으며, 이는 정책 변화 가능성이 시장 수요에 영향을 미칠 수 있음을 시사합니다.",
+      "whyImportant": "이란 핵 협상 재개 가능성이 유가에 미치는 영향",
+      "importanceRationale": "근거: 이란 핵 협상 진전 가능성은 이란의 원유 수출 재개를 의미하며, 이는 글로벌 원유 공급량 증가로 이어져 유가 하락 압력으로 작용할 수 있습니다.",
       "impactSignals": [],
-      "dedupeKey": "iran_nuclear_deal_oil_price_decline",
+      "dedupeKey": "iran-nuclear-deal-oil-price-decline",
       "clusterKey": "약세",
       "matchedTo": null,
       "sourceName": "한국경제",
@@ -60,25 +60,58 @@
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 핵심 내용을 요약했습니다. / 근거부족",
+      "qualityReason": "제목과 본문이 일치하며, 내용이 간결하고 명확합니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-02-25_3",
       "date": "2026-02-25",
-      "category": "기술",
-      "title": "데이터 센터, 우주 경쟁 가속화 – 규제는 따라가지 못해",
+      "category": "정책",
+      "title": "아이다호 동부의 한 의원, 데이터 센터의 전기 요금 인상을 막는 법안을 제안",
       "summary": [
-        "데이터 센터가 우주로 향하는 경쟁이 심화되고 있습니다.",
-        "기존 규제는 이러한 변화를 따라가지 못하고 있습니다."
+        "아이다호 동부의 한 의원이 데이터 센터의 전기 요금 인상을 막는 법안을 제안했습니다.",
+        "이 법안은 데이터 센터가 전력 회사에 요금 인상을 요구하는 것을 금지합니다.",
+        "이 법안이 통과되면 아이다호의 데이터 센터 산업에 큰 영향을 미칠 것으로 예상됩니다."
       ],
-      "whyImportant": "우주 데이터 센터 경쟁 심화와 규제 미비는 새로운 정책 및 투자 기회를 야기합니다.",
-      "importanceRationale": "근거: 우주 데이터 센터의 증가는 관련 산업의 자본 지출(capex) 증가를 의미하며, 규제 공백은 새로운 정책(policy) 수립의 필요성을 나타냅니다.",
+      "whyImportant": "데이터 센터의 전기 요금 인상을 제한하는 정책 변경 시도이므로 중요합니다.",
+      "importanceRationale": "근거: 데이터 센터의 전기 요금에 대한 정책은 관련 산업과 지역 경제에 상당한 영향을 미칠 수 있습니다. 이 법안은 데이터 센터의 운영 비용과 전력 회사의 수익성에 직접적인 영향을 미치므로 중요합니다.",
       "impactSignals": [
         {
           "label": "policy",
-          "evidence": "규제가 데이터 센터의 우주 경쟁 속도를 따라가지 못함"
+          "evidence": "데이터 센터의 전기 요금 인상을 막는 법안"
+        }
+      ],
+      "dedupeKey": "east-idaho-data-center-bill-20240229",
+      "clusterKey": "bill",
+      "matchedTo": null,
+      "sourceName": "BoiseDev",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9sRVdlcEJFMTFQVnJXR3FEcmhWczVWbHB4bElDV3BDTHVnT3A5cVV5YW1yLU44RFBMaGxCYUJqMUJuMVNKVE1qMUhZem90TjJaQ3JXeDBNOWI0enRBcTBwQlFEQUJVZjdaUmR1NjRxWQ?oc=5",
+      "publishedAt": "2026-02-24T23:03:19.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 3.5,
+      "importanceRaw": 63,
+      "qualityLabel": "ok",
+      "qualityReason": "The article provides a straightforward account of a proposed bill and its potential impact.",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-02-25_4",
+      "date": "2026-02-25",
+      "category": "기술",
+      "title": "데이터 센터, 우주로의 경쟁 가속화 – 규제는 따라가지 못해",
+      "summary": [
+        "데이터 센터가 우주로 진출하는 경쟁이 심화되고 있습니다.",
+        "기존 규제는 이러한 변화를 따라가지 못하고 있습니다."
+      ],
+      "whyImportant": "우주 데이터 센터 산업의 발전과 그에 따른 규제 공백을 보여줍니다.",
+      "importanceRationale": "근거: 데이터 센터의 우주 진출이라는 새로운 트렌드와 그에 대한 규제 미비는 기술 발전과 정책 간의 격차를 드러내며, 향후 관련 산업 발전 방향에 중요한 시사점을 제공합니다.",
+      "impactSignals": [
+        {
+          "label": "policy",
+          "evidence": "규제가 데이터 센터의 우주 진출 속도를 따라가지 못함"
         }
       ],
       "dedupeKey": "data_centers_space_regulation",
@@ -92,39 +125,7 @@
       "importance": 3.5,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 내용이 일치하며, 핵심 내용을 잘 반영하고 있습니다.",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-02-25_4",
-      "date": "2026-02-25",
-      "category": "정책",
-      "title": "아이다호 동부의 한 입법가, 데이터 센터의 전기 요금 인상을 막는 법안을 제안",
-      "summary": [
-        "아이다호 동부의 한 입법가가 데이터 센터의 전기 요금 인상을 막는 법안을 제안했습니다.",
-        "이 법안은 데이터 센터가 전기 요금 인상에 영향을 미치는 것을 방지하는 것을 목표로 합니다."
-      ],
-      "whyImportant": "데이터 센터의 전기 요금 관련 정책 변화 가능성.",
-      "importanceRationale": "근거: 데이터 센터의 전기 요금에 대한 정책 변경을 시도하는 법안이 제출되었으므로 중요합니다.",
-      "impactSignals": [
-        {
-          "label": "policy",
-          "evidence": "데이터 센터 전기 요금 관련 법안 제출"
-        }
-      ],
-      "dedupeKey": "east-idaho-data-center-electricity-rates-bill",
-      "clusterKey": "bill",
-      "matchedTo": null,
-      "sourceName": "BoiseDev",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9sRVdlcEJFMTFQVnJXR3FEcmhWczVWbHB4bElDV3BDTHVnT3A5cVV5YW1yLU44RFBMaGxCYUJqMUJuMVNKVE1qMUhZem90TjJaQ3JXeDBNOWI0enRBcTBwQlFEQUJVZjdaUmR1NjRxWQ?oc=5",
-      "publishedAt": "2026-02-24T23:03:19.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 3,
-      "importanceRaw": 50,
-      "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었습니다.",
+      "qualityReason": "기사 제목과 내용이 일치하며, 핵심 내용을 잘 요약했습니다.",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -134,13 +135,13 @@
       "category": "국제",
       "title": "이란 핵 협상 의지 표명에 국제 유가 소폭 하락",
       "summary": [
-        "이란이 핵 협상에 대한 의지를 밝히면서 국제 유가가 소폭 하락했다.",
-        "이 소식은 이투뉴스를 통해 보도되었다."
+        "이란이 핵 협상에 대한 의지를 밝히면서 국제 유가가 소폭 하락했습니다.",
+        "이러한 움직임은 시장에 영향을 미치고 있습니다."
       ],
-      "whyImportant": "이란 핵 협상 재개 가능성이 국제 유가에 미치는 영향을 보여준다.",
-      "importanceRationale": "근거: 이란의 핵 협상 의지 표명이 유가 하락으로 이어진 직접적인 사례이며, 향후 협상 진행 상황에 따라 시장 변동성이 커질 수 있음을 시사한다.",
+      "whyImportant": "이란 핵 협상 재개 가능성이 국제 유가에 미치는 영향을 보여주는 사례입니다.",
+      "importanceRationale": "근거: 이란의 핵 협상 의지 표명이 국제 유가 하락으로 이어진 직접적인 연관성을 보여주며, 정책적 변화가 시장 수요에 미치는 영향을 시사합니다.",
       "impactSignals": [],
-      "dedupeKey": "iran_nuclear_talks_oil_price_drop",
+      "dedupeKey": "iran-nuclear-talks-oil-price-drop",
       "clusterKey": "국제유가",
       "matchedTo": null,
       "sourceName": "이투뉴스",
@@ -151,23 +152,28 @@
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되어 있음. / 근거부족",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되어 있습니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-02-25_6",
       "date": "2026-02-25",
-      "category": "정책",
-      "title": "중국의 일본 기업 이중 용도 수출 통제, 본격 경제 제재로 전환",
+      "category": "경제",
+      "title": "중국의 일본 기업 이중용도 수출 통제, 본격 경제 제재로 전환",
       "summary": [
-        "중국이 일본 기업에 대한 이중 용도 품목 수출 통제를 강화하며 경제 제재로 전환했다는 분석이 나왔다.",
+        "중국이 일본 기업에 대한 이중용도 품목 수출 통제를 강화하며 경제 제재로 전환했다는 분석이 나왔다.",
         "이번 조치는 양국 간의 무역 관계에 상당한 영향을 미칠 것으로 예상된다."
       ],
-      "whyImportant": "중국의 수출 통제 강화는 일본 기업에 대한 직접적인 제재로 해석될 수 있으며, 양국 경제 관계에 미치는 영향이 크기 때문에 중요합니다.",
-      "importanceRationale": "근거: 중국의 수출 통제는 일본 기업의 생산 및 수출 활동에 제약을 가하며, 이는 경제적 불확실성을 증대시킵니다. 또한, 이러한 조치는 다른 국가에도 유사한 영향을 줄 수 있는 선례가 될 수 있습니다.",
-      "impactSignals": [],
-      "dedupeKey": "중국, 일본기업, 수출통제, 경제제재",
+      "whyImportant": "중국의 대일 경제 제재는 국제 무역 질서와 안보 환경에 중요한 변화를 가져올 수 있습니다.",
+      "importanceRationale": "근거: 중국의 수출 통제 강화는 특정 국가에 대한 경제적 압박 수단으로 사용될 수 있으며, 이는 관련국들의 경제적, 정치적 관계에 영향을 미치기 때문입니다.",
+      "impactSignals": [
+        {
+          "label": "sanctions",
+          "evidence": "중국의 일본 기업 이중용도 수출 통제는 본격 경제제재로 전환한 것"
+        }
+      ],
+      "dedupeKey": "중국의 일본 기업 이중용도 수출 통제, 본격 경제 제재로 전환",
       "clusterKey": "경제제재로",
       "matchedTo": null,
       "sourceName": "연합뉴스 한민족센터",
@@ -175,10 +181,10 @@
       "publishedAt": "2026-02-25T01:53:41.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 2,
+      "importance": 4,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되어 있습니다. / 근거부족",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었습니다.",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -193,9 +199,9 @@
         "이번 챌린지는 AI 보안 강화에 기여할 것으로 기대됩니다."
       ],
       "whyImportant": "LLM의 보안 취약점은 심각한 문제를 야기할 수 있으므로, 이를 사전에 발견하고 해결하는 것이 중요합니다.",
-      "importanceRationale": "근거: LLM은 다양한 분야에서 활용되고 있으며, 보안 취약점이 악용될 경우 개인 정보 유출, 시스템 오작동 등 심각한 피해를 초래할 수 있습니다. 이번 챌린지를 통해 LLM의 보안 취약점을 사전에 발견하고 해결책을 모색함으로써, LLM의 안전성을 확보하고 관련 위험을 줄일 수 있습니다.",
+      "importanceRationale": "근거: LLM은 다양한 분야에서 활용되고 있으며, 보안 취약점이 악용될 경우 개인 정보 유출, 시스템 오작동 등 심각한 피해가 발생할 수 있습니다. MWC AI 레드팀 챌린지는 이러한 취약점을 사전에 발견하고 해결책을 모색하는 데 기여할 수 있습니다.",
       "impactSignals": [],
-      "dedupeKey": "MWC_AI_REDTEAM_CHALLENGE_SKT_LGU+_ATT",
+      "dedupeKey": "MWC_AI_Red_Team_Challenge_SKT_LGU+_ATT",
       "clusterKey": "ai/lgu",
       "matchedTo": null,
       "sourceName": "매일경제",
@@ -206,65 +212,38 @@
       "importance": 2,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 내용이 일치하며, 정보가 명확합니다. / 근거부족",
+      "qualityReason": "제목과 기사 내용이 일치하며, 정보가 명확합니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-02-25_8",
       "date": "2026-02-25",
-      "category": "경제",
-      "title": "대구·경북 1월 수출 실적 큰 폭 증가 - 한국무역협회",
+      "category": "국제",
+      "title": "이란, 미국 핵 협상 이틀 전 \"타결 가시권…외교 최우선해야\"",
       "summary": [
-        "한국무역협회 발표에 따르면 대구·경북 지역의 1월 수출 실적이 큰 폭으로 증가했다."
+        "이란이 미국과의 핵 협상 이틀 전에 타결이 가시권에 들어왔으며 외교를 최우선으로 해야 한다고 밝혔습니다."
       ],
-      "whyImportant": "대구·경북 지역 경제 동향 파악에 중요한 지표.",
-      "importanceRationale": "근거: 지역 수출 실적은 지역 경제의 건전성을 나타내는 핵심 지표이며, 정책 및 기업 활동에 영향을 미칠 수 있음.",
+      "whyImportant": "이란 핵 협상에 대한 긍정적 신호로, 향후 협상 결과에 중요한 영향을 미칠 수 있습니다.",
+      "importanceRationale": "근거: 이란의 발언은 핵 협상 타결 가능성을 높이고, 이는 국제 관계 및 관련 정책에 중대한 영향을 줄 수 있기 때문입니다.",
       "impactSignals": [],
-      "dedupeKey": "daegu_gyeongbuk_january_export_increase",
-      "clusterKey": "1월",
+      "dedupeKey": "iran_nuclear_talks_10232024",
+      "clusterKey": "가시권",
       "matchedTo": null,
-      "sourceName": "한국무역협회-KITA.NET",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOeWV2dE51aGNYalAxZVM4TGVBMDUxOURYYVJUdVFXUVRzeTNFWkFhMHpENVBuSnhuVjBsSlBlRVlpdDVtSXNYQ0t6a3FwbC0xT0hYSUJUeEFmVDE4VXVpVzV3T0R1WlBKTnFESkNzbkFyRVp0Ulo1eVFaRXgzaGR1dG5VR2NWNF9hb0xhWEFsVmh3Z1pHX1B4WWE4THltcGZUTzFfanhhdUhIeFhfcWg4TC1wUVppQXlUQ0JzUWYtS2xqX1NRQ0FnR2hialM0ekhFSzdhTw?oc=5",
-      "publishedAt": "2026-02-24T23:59:14.000Z",
+      "sourceName": "연합뉴스 한민족센터",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1zVkhZWmtwei1Yb0pkQzlyd0daaFJPSkdWbVZpbGlDbmVoN29DNXlxU3Jnd0tfcUMtSmIzXzRPNlN0MExZWXNCYnJsYzVKZTFnTDhfWGJqRTRUdEtZSGY4ZV9YbVdzWmpFUjFiQnpUQzMtbzBI?oc=5",
+      "publishedAt": "2026-02-24T23:58:41.000Z",
       "readTimeSec": 10,
       "status": "kept",
       "importance": 2,
-      "importanceRaw": 63,
+      "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 간결하게 핵심 내용을 전달함. / 근거부족",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되어 있습니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-02-25_9",
-      "date": "2026-02-25",
-      "category": "국제",
-      "title": "국제 유가 하락, 미국-이란 핵 협상 진전 기대감에 영향",
-      "summary": [
-        "국제 유가가 하락했습니다.",
-        "이는 미국과 이란의 핵 협상 진전에 대한 기대감 때문입니다."
-      ],
-      "whyImportant": "미국과 이란의 핵 협상 진전 가능성이 국제 유가에 영향을 미치고 있습니다.",
-      "importanceRationale": "근거: 미국과 이란의 핵 협상 진전 기대감이 국제 유가 하락에 영향을 미친다는 정보가 제공되었습니다.",
-      "impactSignals": [],
-      "dedupeKey": "국제 유가 하락, 미국-이란 핵 협상 진전 기대감에 영향",
-      "clusterKey": "국제유가",
-      "matchedTo": null,
-      "sourceName": "비즈니스포스트",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5malliV0dvTi1UWVlrRXQ1ekVtUnJBbDRvUlhES3ZoLU9aNHByOVZZS25PNTRPNHVpV3ZjSlNDTkRQWDdhcDUyd2Y0Vi02c2FzM0ZFNHZfbHJwQ2NicklkWlpUUVlGcUNKZS1nUG9iNA?oc=5",
-      "publishedAt": "2026-02-24T23:30:06.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 63,
-      "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었습니다. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-02-25_10",
       "date": "2026-02-25",
       "category": "경제",
       "title": "2025년 실적, 가이던스 부합 - Horizons 전략 계획 발표",
@@ -273,9 +252,9 @@
         "Horizons 전략 계획이 발표되었습니다."
       ],
       "whyImportant": "Ipsos의 재무 성과와 미래 전략 방향을 제시합니다.",
-      "importanceRationale": "근거: Ipsos의 실적 발표와 새로운 전략 계획 발표는 회사의 현재 상태와 미래 성장 가능성을 평가하는 데 중요한 지표가 됩니다.",
+      "importanceRationale": "근거: Ipsos의 실적 발표와 새로운 전략 계획 발표는 회사의 현재 상황과 미래 성장 가능성을 평가하는 데 중요한 지표가 됩니다.",
       "impactSignals": [],
-      "dedupeKey": "ipsos_2025_results_horizons",
+      "dedupeKey": "2025_results_ipsos_horizons",
       "clusterKey": "guidance",
       "matchedTo": null,
       "sourceName": "Ipsos",
@@ -291,15 +270,15 @@
       "isBreaking": false
     },
     {
-      "id": "2026-02-25_11",
+      "id": "2026-02-25_10",
       "date": "2026-02-25",
       "category": "국제",
       "title": "유럽 데이터 센터 GPU 시장 규모, 점유율 및 분석, 2034",
       "summary": [
-        "유럽 데이터 센터 GPU 시장 규모, 점유율 및 분석, 2034년 시장 데이터 예측."
+        "유럽 데이터 센터 GPU 시장의 규모, 점유율 및 분석에 대한 2034년 시장 데이터 예측입니다."
       ],
       "whyImportant": "유럽 데이터 센터 GPU 시장의 미래 전망을 제시합니다.",
-      "importanceRationale": "근거: 유럽 데이터 센터 GPU 시장의 규모, 점유율, 분석 및 2034년까지의 예측을 다루고 있어 시장의 성장 가능성과 투자 기회를 파악하는 데 중요합니다.",
+      "importanceRationale": "근거: 2034년까지의 시장 규모, 점유율 및 분석을 통해 투자 및 사업 전략 수립에 중요한 정보를 제공합니다.",
       "impactSignals": [],
       "dedupeKey": "europe_data_center_gpu_2034",
       "clusterKey": "ai/analysis",
@@ -312,38 +291,38 @@
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 핵심 정보를 제공합니다. / 근거부족",
+      "qualityReason": "제목과 텍스트가 일치하며, 정보가 명확합니다. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-02-25_11",
+      "date": "2026-02-25",
+      "category": "경제",
+      "title": "대구·경북 1월 수출 실적 큰 폭 증가 - 한국무역협회",
+      "summary": [
+        "한국무역협회 발표에 따르면 대구·경북 지역의 1월 수출 실적이 큰 폭으로 증가했다."
+      ],
+      "whyImportant": "대구·경북 지역 경제 상황을 파악하는 데 중요한 지표가 될 수 있습니다.",
+      "importanceRationale": "근거: 지역 수출 실적은 지역 경제의 건전성을 나타내는 핵심 지표 중 하나이며, 정책 및 기업 활동에 영향을 미칠 수 있습니다.",
+      "impactSignals": [],
+      "dedupeKey": "daegu_gyeongbuk_export_jan_2024",
+      "clusterKey": "1월",
+      "matchedTo": null,
+      "sourceName": "한국무역협회-KITA.NET",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOeWV2dE51aGNYalAxZVM4TGVBMDUxOURYYVJUdVFXUVRzeTNFWkFhMHpENVBuSnhuVjBsSlBlRVlpdDVtSXNYQ0t6a3FwbC0xT0hYSUJUeEFmVDE4VXVpVzV3T0R1WlBKTnFESkNzbkFyRVp0Ulo1eVFaRXgzaGR1dG5VR2NWNF9hb0xhWEFsVmh3Z1pHX1B4WWE4THltcGZUTzFfanhhdUhIeFhfcWg4TC1wUVppQXlUQ0JzUWYtS2xqX1NRQ0FnR2hialM0ekhFSzdhTw?oc=5",
+      "publishedAt": "2026-02-24T23:59:14.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 50,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 핵심 내용을 전달합니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-02-25_12",
-      "date": "2026-02-25",
-      "category": "국제",
-      "title": "이란, 미국 핵 협상 이틀 전 \"타결 가시권…외교 최우선해야\"",
-      "summary": [
-        "이란이 미국과의 핵 협상 이틀 전에 타결이 가시권에 들어왔으며 외교를 최우선으로 해야 한다고 밝혔습니다."
-      ],
-      "whyImportant": "이란 핵 협상에 대한 긍정적 신호입니다.",
-      "importanceRationale": "근거: 이란이 핵 협상 타결 가능성을 언급하며 외교적 해결을 강조한 것은 협상 진전에 대한 기대를 높이는 요인입니다.",
-      "impactSignals": [],
-      "dedupeKey": "iran_nuclear_talks_10112024",
-      "clusterKey": "가시권",
-      "matchedTo": null,
-      "sourceName": "연합뉴스 한민족센터",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1zVkhZWmtwei1Yb0pkQzlyd0daaFJPSkdWbVZpbGlDbmVoN29DNXlxU3Jnd0tfcUMtSmIzXzRPNlN0MExZWXNCYnJsYzVKZTFnTDhfWGJqRTRUdEtZSGY4ZV9YbVdzWmpFUjFiQnpUQzMtbzBI?oc=5",
-      "publishedAt": "2026-02-24T23:58:41.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 63,
-      "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었습니다. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-02-25_13",
       "date": "2026-02-25",
       "category": "에너지",
       "title": "데이터 센터와 제조업체에서 선호되는 천연 가스, 더 많은 용량과 파이프라인 필요",
@@ -351,8 +330,8 @@
         "에너지 연구소에 따르면 데이터 센터와 제조업체에서 천연 가스 선호도가 높습니다.",
         "더 많은 용량과 파이프라인이 필요합니다."
       ],
-      "whyImportant": "천연 가스 인프라 투자 필요성 증가",
-      "importanceRationale": "근거: 데이터 센터 및 제조업체의 천연 가스 선호도 증가로 인해 관련 인프라 확충의 필요성이 강조되고 있습니다.",
+      "whyImportant": "천연 가스 수요 증가와 관련된 인프라 투자 필요성을 강조합니다.",
+      "importanceRationale": "근거: 데이터 센터 및 제조업체의 천연 가스 선호는 에너지 시장의 변화를 나타내며, 이는 관련 인프라 투자에 영향을 미칩니다.",
       "impactSignals": [],
       "dedupeKey": "natural_gas_demand_infrastructure",
       "clusterKey": "에너지/capacity",
@@ -365,7 +344,39 @@
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 내용이 일치하며, 간결하게 핵심 내용을 전달합니다. / 근거부족",
+      "qualityReason": "기사 제목과 내용이 일치하며, 핵심 내용을 요약했습니다. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-02-25_13",
+      "date": "2026-02-25",
+      "category": "기술",
+      "title": "트럼프, 빅테크 기업들에 자체 발전소 건설 지시했다고 밝혀",
+      "summary": [
+        "트럼프 전 대통령은 빅테크 기업들에 자체 발전소 건설을 지시했다고 밝혔습니다.",
+        "로이터 통신에 따르면 트럼프는 구체적인 이유나 배경에 대해서는 언급하지 않았습니다."
+      ],
+      "whyImportant": "빅테크 기업의 에너지 인프라 투자 가능성을 시사합니다.",
+      "importanceRationale": "근거: 트럼프 전 대통령의 발언은 빅테크 기업들이 자체적인 전력 공급망 구축에 나설 수 있음을 시사하며, 이는 에너지 산업에 상당한 자본 지출(CAPEX) 증가로 이어질 수 있습니다.",
+      "impactSignals": [
+        {
+          "label": "capex",
+          "evidence": "빅테크 기업의 자체 발전소 건설은 상당한 자본 지출을 필요로 합니다."
+        }
+      ],
+      "dedupeKey": "trump-bigtech-powerplants",
+      "clusterKey": "에너지/big",
+      "matchedTo": null,
+      "sourceName": "Reuters",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMWV2WGlDQUhyWUlMMkpnUS11Q0RZNnVsM0hOeFpoWVNaVjJvUzFaZWVQMWJoZ2ViYkRTQ2k1aVUwamltcGNOOWFGdTBYanVPVFVCYXpLbHRGSFJUYkEwbUliWGJlZHRNdnRwYngwQTgzTGE3dXlCY1A2RGR4X19nWG9LMWZXTVVtVDVqV1RwcjVtOUY5OWFxQ192em4yQVhLeVZBbDJ2dW1FRHU4TnNUSUc0ZVdZTGhOR2QyM3FpQQ?oc=5",
+      "publishedAt": "2026-02-25T03:29:00.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 3,
+      "importanceRaw": 50,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 본문이 일치하며, 내용이 간결하고 명확합니다.",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -373,13 +384,13 @@
       "id": "2026-02-25_14",
       "date": "2026-02-25",
       "category": "정책",
-      "title": "중국, 일본 기업 40곳에 대한 수출 통제 실시...대만 문제 관련 경제 제재 본격화",
+      "title": "중국, 일본 기업 40곳에 대한 수출 통제…대만 문제 관련 경제 제재 본격화",
       "summary": [
-        "중국이 대만 문제와 관련하여 일본 기업 40곳에 대한 수출 통제를 실시했다.",
-        "이번 조치는 중국이 대만 문제에 대한 경제 제재를 본격화하는 것으로 해석된다."
+        "중국이 대만 문제와 관련하여 일본 기업 40곳에 대해 수출 통제에 나섰다.",
+        "이번 조치는 중국이 대만 문제에 대한 경제 제재를 본격화하는 신호로 해석된다."
       ],
-      "whyImportant": "이번 수출 통제는 중일 경제 관계에 상당한 영향을 미칠 수 있으며, 대만 문제에 대한 중국의 강경한 입장을 보여준다.",
-      "importanceRationale": "근거: 중국이 일본 기업 40곳에 대해 수출 통제를 실시함으로써 대만 문제와 관련된 경제 제재를 본격화하고 있으며, 이는 관련국 경제에 미치는 영향이 크다고 판단됨.",
+      "whyImportant": "이번 수출 통제는 중국의 대만 문제에 대한 강경한 입장을 보여주는 사례이며, 향후 미중 관계 및 관련국 경제에 영향을 미칠 수 있다.",
+      "importanceRationale": "근거: 중국이 일본 기업에 대해 수출 통제를 시행함으로써 대만 문제에 대한 경제 제재를 본격화하고 있음을 나타낸다.",
       "impactSignals": [],
       "dedupeKey": "20240118-중국, 일본 기업 40곳 수출 통제",
       "clusterKey": "40곳",
@@ -392,28 +403,56 @@
       "importance": 2,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 간결하게 핵심 내용을 전달함. / 근거부족",
+      "qualityReason": "제목과 본문이 일치하며, 간결하게 요약됨. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-02-25_15",
       "date": "2026-02-25",
-      "category": "정책",
-      "title": "중대 환자안전사고 ‘독립 조사·국가 보상’ 법안 국회 추진",
+      "category": "경제",
+      "title": "코스피 6,000선 돌파, 상법개정안 국회 처리 등 주요 뉴스",
       "summary": [
-        "중대한 환자 안전 사고에 대한 독립적인 조사와 국가 보상을 추진하는 법안이 국회에서 논의될 예정입니다.",
-        "이 법안은 환자 안전을 강화하고 의료 사고 발생 시 환자와 가족을 지원하는 데 목적을 두고 있습니다."
+        "코스피가 6,000선을 돌파했습니다.",
+        "3차 상법개정안이 국회에서 처리되었습니다.",
+        "메타가 스테이블코인 시장에 재진출합니다."
       ],
-      "whyImportant": "환자 안전사고 발생 시 독립적인 조사와 국가 보상 체계가 마련될 가능성이 있습니다.",
-      "importanceRationale": "근거: 법안이 통과되면 환자 안전 관리 시스템에 큰 변화가 예상되며, 의료계와 환자들에게 직접적인 영향을 미칠 수 있습니다.",
+      "whyImportant": "주요 경제 및 법률 변화를 나타내는 뉴스입니다.",
+      "importanceRationale": "근거: 코스피 지수 변동, 상법 개정, 메타의 스테이블코인 재진출은 경제 및 정책에 중요한 영향을 미칩니다.",
+      "impactSignals": [],
+      "dedupeKey": "코스피6000_상법개정_메타스테이블코인",
+      "clusterKey": "000선",
+      "matchedTo": null,
+      "sourceName": "연합인포맥스",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBwcVJrakNCXzRrTUZpUGRJTUpZaUZkdHhEanluNU1UaDNrdllhTVhNRXFsRk90ZlYzZjZwVFBBYnhwcTN0d1RIZHkxNWVqV0E5NlpDUFNUMU04TndaR1E1T0xmR1cxaFAxWEE4Y0paUmvSAXRBVV95cUxNWU5zN0lHNnB3UlNPYzJZM19qNkhoX0hadVRkWlp3b19vUXZkdXpQdTJRanoyTVlPNm5ZaTlVWGNBRE43bkhkY2hJWUFyOVRzWWw5cDJtUjY4Qzd6SFdJNWUtNmZHSDJPWGdtX2ZrNkNxQ1VIMA?oc=5",
+      "publishedAt": "2026-02-25T02:43:58.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 75,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었습니다. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-02-25_16",
+      "date": "2026-02-25",
+      "category": "정책",
+      "title": "중대 환자안전사고 ‘독립조사·국가보상’ 법안 국회 추진",
+      "summary": [
+        "중대한 환자 안전사고에 대한 독립적인 조사와 국가 보상을 위한 법안이 국회에서 추진된다.",
+        "이는 환자 안전을 강화하고 의료사고 발생 시 환자를 보호하기 위한 조치로 보인다."
+      ],
+      "whyImportant": "환자 안전사고 발생 시 독립적인 조사와 국가 보상 체계를 구축하는 법안이 추진되어 환자 안전 및 권익 보호에 기여할 수 있다.",
+      "importanceRationale": "근거: 법안은 중대한 환자 안전사고 발생 시 독립적인 조사를 통해 사고 원인을 명확히 규명하고, 국가 보상을 통해 피해를 보상함으로써 환자 안전과 권익을 보호하는 데 목적이 있다.",
       "impactSignals": [
         {
           "label": "policy",
-          "evidence": "환자안전사고 독립조사 및 국가보상 법안 추진"
+          "evidence": "중대 환자안전사고에 대한 독립조사 및 국가보상 법안 추진"
         }
       ],
-      "dedupeKey": "중대 환자안전사고 ‘독립조사·국가보상’ 법안 국회서 추진",
+      "dedupeKey": "환자안전사고_독립조사_국가보상_법안_국회_추진",
       "clusterKey": "국가보상",
       "matchedTo": null,
       "sourceName": "의학신문",
@@ -424,38 +463,6 @@
       "importance": 4,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며 핵심 내용을 담고 있습니다.",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-02-25_16",
-      "date": "2026-02-25",
-      "category": "경제",
-      "title": "공정위, 4개 건설사 '산업안전비 전가' 부당특약 심의 착수",
-      "summary": [
-        "공정거래위원회가 4개 건설사의 산업안전비 전가 관련 부당특약 심의에 착수했다.",
-        "이는 건설 현장의 안전 비용 부담을 하청업체에 떠넘기는 행위에 대한 조사이다."
-      ],
-      "whyImportant": "건설 산업의 안전 비용 부담 문제 개선에 기여할 수 있다.",
-      "importanceRationale": "근거: 공정위의 심의 착수는 건설사들의 불공정 행위를 감시하고, 하청업체에 대한 비용 전가를 방지하여 산업 안전 환경을 개선하는 데 중요한 역할을 할 수 있기 때문이다.",
-      "impactSignals": [
-        {
-          "label": "capex",
-          "evidence": "산업안전비 전가 관련 부당특약 심의는 건설 자본 지출에 영향을 미칠 수 있다."
-        }
-      ],
-      "dedupeKey": "fairtrade-123",
-      "clusterKey": "4개",
-      "matchedTo": null,
-      "sourceName": "서울파이낸스",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBhUEI0UldFMlJOaEdGMHVCVDlEN3VsNVVsVW9GTnRncjFtWEZ1amJwOHBURkZkaFpkVXZSbWJFajNnR3NRUGNXdEhBemZyeF9KZ3ozenI3WFRJcjJ4ZEljQmN3RW1nLVJSR2c?oc=5",
-      "publishedAt": "2026-02-25T03:00:00.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 3.5,
-      "importanceRaw": 63,
-      "qualityLabel": "ok",
       "qualityReason": "기사 제목과 내용이 일치하며, 핵심 내용을 잘 요약했습니다.",
       "isBriefing": false,
       "isBreaking": false
@@ -463,32 +470,26 @@
     {
       "id": "2026-02-25_17",
       "date": "2026-02-25",
-      "category": "경제",
-      "title": "[6천피 시대] 원자력 발전 사업 기대감에 현대건설 주식과 채권 모두 상승세",
+      "category": "정책",
+      "title": "미국 상무부, 중국에 H200 칩 판매 없었다고 확인",
       "summary": [
-        "현대건설의 주식과 채권이 원자력 발전 사업에 대한 기대감으로 모두 상승세를 보이고 있다.",
-        "이는 투자자들의 긍정적인 전망을 반영하는 것으로 해석된다."
+        "미국 상무부는 중국에 H200 칩을 판매하지 않았다고 확인했습니다."
       ],
-      "whyImportant": "현대건설의 주식 및 채권 시장에서의 긍정적인 움직임은 원자력 발전 사업에 대한 투자 심리를 나타낸다.",
-      "importanceRationale": "근거: 현대건설의 주식과 채권이 동시에 상승했다는 사실은 원자력 발전 사업에 대한 시장의 기대감이 반영된 결과로 볼 수 있다.",
-      "impactSignals": [
-        {
-          "label": "capex",
-          "evidence": "원자력 발전 사업에 대한 기대감이 현대건설 주식 및 채권 상승으로 이어짐"
-        }
-      ],
-      "dedupeKey": "hyundai_e&c_stock_bond_nuclear",
-      "clusterKey": "에너지/6천피",
+      "whyImportant": "미국 정부의 대중국 기술 수출 정책을 보여주는 사례입니다.",
+      "importanceRationale": "근거: 미국의 대중국 기술 수출 제한 정책의 준수 여부를 보여주는 직접적인 확인입니다.",
+      "impactSignals": [],
+      "dedupeKey": "US_Commerce_No_H200_China",
+      "clusterKey": "china",
       "matchedTo": null,
-      "sourceName": "연합인포맥스",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9wejBzbkJVMVc1OVVUR0pkMk5qbUE4Nm9uOGw5dTlIdlRqZVVGWXBMRl9wRWNCRFJoMDJwOUhOMUN4UFRJNG9KNkZ1N282ckJtZFhxVWd4LVE3anI4RHBLdUFuYk1wWUswX1BlREFyWDM?oc=5",
-      "publishedAt": "2026-02-25T01:18:57.000Z",
+      "sourceName": "scanx.trade",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeXpibk03SFpiaWF6eDlDTTZoZzMtVEFGd3dUanY1WlhqLVV6NGdVZ1JtR1dhUmplaWo5QnhqdjN6R2VSa1Y4SXBpYkZtUEZQektic2ozVjgtYzFNWWt0TGVPaDhZbnl6elphVGJGREZQeFNvS2lPOThwYS1nUWlSRnBKcGNudXdsWFRiMElQbVYzLXFBZFIzNjlVbHl3N2MxQk9VaVFpOTFlZG5uZW5xbUN1cnA?oc=5",
+      "publishedAt": "2026-02-24T20:14:43.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 3.5,
-      "importanceRaw": 63,
+      "importance": 2,
+      "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 간결하게 핵심 내용을 전달한다.",
+      "qualityReason": "명확한 사실 전달 / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -496,87 +497,59 @@
       "id": "2026-02-25_18",
       "date": "2026-02-25",
       "category": "경제",
-      "title": "얼라인드 투자, 제너레이트 바이오메디슨 미국 나스닥 상장 예정",
+      "title": "엠아이텍, 2025년 매출 672억원으로 사상 최대 전망",
       "summary": [
-        "얼라인드가 투자한 제너레이트 바이오메디슨이 미국 나스닥에 상장한다.",
-        "삼성과 엔비디아도 제너레이트 바이오메디슨에 투자했다.",
-        "이번 상장은 초기 전략 투자의 결실로 평가된다."
+        "엠아이텍은 2025년 매출액이 672억원으로 사상 최대를 기록할 것으로 예상했다.",
+        "이는 엠아이텍의 자체 전망에 따른 것이다."
       ],
-      "whyImportant": "제너레이트 바이오메디슨의 나스닥 상장은 투자 시장에 중요한 이정표가 될 수 있습니다.",
-      "importanceRationale": "근거: 삼성과 엔비디아의 투자와 나스닥 상장은 제너레이트 바이오메디슨의 성장 가능성을 시사하며, 이는 관련 투자 결정에 영향을 줄 수 있습니다.",
-      "impactSignals": [],
-      "dedupeKey": "aligned-generate-biomedicine-nasdaq-ipo",
-      "clusterKey": "나스닥",
+      "whyImportant": "엠아이텍의 매출 증가는 기업 성장을 나타내는 중요한 지표입니다.",
+      "importanceRationale": "근거: 엠아이텍의 매출액 증가는 기업의 성장 가능성을 보여주며, 투자 및 시장 관심도에 영향을 미칠 수 있습니다.",
+      "impactSignals": [
+        {
+          "label": "earnings",
+          "evidence": "2025년 매출 672억원으로 사상 최대 전망"
+        }
+      ],
+      "dedupeKey": "엠아이텍_2025년_매출_672억원_최대",
+      "clusterKey": "2025년",
       "matchedTo": null,
-      "sourceName": "프라임경제",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBISEU4SElFN3I1U1NjLXVWYTBsUkJHdkE4LVlMX2h5WWYzNkpVN05MTHE2RTJkWUM4cG9HVzZVeFZGTFNDa3NpTFVQdk5ORVFhdENfcGZqeXhWeDcxUEhvdWVMcGtsME9oeEUtTQ?oc=5",
-      "publishedAt": "2026-02-25T01:14:15.000Z",
+      "sourceName": "한국경제",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5hUEs0b1lSR2J3SGxMaFB5UTdMQ2lZYzYyWkRIb2plV2lmVWpEcVZrYnZjOHhMLTg5SEsxZGtmUVRwcEZaLUlwWmx3OTRwNmlydkhNUlVra1dmQdIBVEFVX3lxTE9fQndrS3RCNXJpWm5DVjgtVGVydTdXVUxYb2ZORmtnTy1RNGJKYjc3b1lVTnpvS1BndGQwQ3RGbGozdmdaR2U5X0p6UHdkQVktMlZuWQ?oc=5",
+      "publishedAt": "2026-02-25T05:19:09.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 2,
+      "importance": 3.5,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "기사 내용이 간결하고 명확하게 전달됨 / 근거부족",
+      "qualityReason": "The article provides a clear and concise statement about the company's projected revenue.",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-02-25_19",
       "date": "2026-02-25",
-      "category": "에너지",
-      "title": "현대건설, 미국 텍사스에서 대형 원전 기술 설명회 개최",
+      "category": "국제",
+      "title": "엔비디아 투자 '코어위브', 85억 달러 긴급 자금 요청",
       "summary": [
-        "현대건설이 미국 텍사스에서 대형 원전 기술 설명회를 개최했다."
+        "엔비디아가 투자한 코어위브가 85억 달러의 긴급 자금을 요청했다."
       ],
-      "whyImportant": "현대건설의 미국 시장 진출 가능성을 보여주는 중요한 행사이다.",
-      "importanceRationale": "근거: 현대건설이 미국 텍사스에서 대형 원전 기술 설명회를 개최한 것은 미국 시장에서의 경쟁력을 강화하고 새로운 사업 기회를 모색하는 중요한 단계이다.",
-      "impactSignals": [
-        {
-          "label": "capex",
-          "evidence": "대형 원전 기술 설명회 개최는 현대건설의 자본 지출과 관련된 중요한 활동이다."
-        }
-      ],
-      "dedupeKey": "현대건설, 美 텍사스서 대형원전 기술설명회",
-      "clusterKey": "기술설명회",
-      "matchedTo": null,
-      "sourceName": "인사이트N파워",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBCNk1zOGVkeTIxUVZSU3ZFTmVDTEdFNmw3em56d21rQU1VU2otb0lZU2ZDMXM1aDNEd1Jsby1YMjhXNUJpdHc0RUh2TmRXZHcxNVo0bEN0a2pVNzRJOTZNdC1VQnlkdw?oc=5",
-      "publishedAt": "2026-02-24T21:49:47.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 3.5,
-      "importanceRaw": 63,
-      "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되어 있다.",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-02-25_20",
-      "date": "2026-02-25",
-      "category": "에너지",
-      "title": "Form Energy의 거대 배터리, 미네소타 Google 데이터 센터에 전력 공급",
-      "summary": [
-        "Form Energy의 거대 배터리가 미네소타에 있는 Google 데이터 센터에 전력을 공급할 예정입니다.",
-        "이는 데이터 센터의 에너지 공급에 새로운 변화를 가져올 것으로 예상됩니다."
-      ],
-      "whyImportant": "Google 데이터 센터의 에너지 공급 방식 변화를 보여주는 사례입니다.",
-      "importanceRationale": "근거: Form Energy의 배터리가 Google 데이터 센터에 전력을 공급하는 것은 데이터 센터 에너지 솔루션의 중요한 변화를 의미합니다.",
+      "whyImportant": "코어위브의 대규모 자금 요청 배경에 대한 분석이 필요하다.",
+      "importanceRationale": "근거: 엔비디아가 투자한 기업의 대규모 자금 요청은 시장에 미치는 영향이 클 수 있다.",
       "impactSignals": [],
-      "dedupeKey": "gigantic-form-energy-battery-google-data-center-minnesota",
-      "clusterKey": "에너지/battery",
+      "dedupeKey": "coreweave_85b_funding",
+      "clusterKey": "85억",
       "matchedTo": null,
-      "sourceName": "Canary Media",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZnJkblc5bmdMN1N3ZGdUVFg4ZGF6VjM1NFF6b1NqYk5nZzRtX0gwZ3d2LXlyTXZLdEtfcWhDbVVQVENyTDRlc0VoYXQ1TDYwakVBdjFkQWhSazZPNjd2a3lWczktUlh0TU5hOU5xUGVnNjFiU0FDa2F2ZmJRTkl2OXNzc1hzRWp1cm1kVDR1eUl6MHI2eUFj?oc=5",
-      "publishedAt": "2026-02-24T20:30:00.000Z",
+      "sourceName": "더구루",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBlcFhlSWNoRTZ4dWJxVDJMNDFhRmlRLVAxOWJaUFVEVjRodWZxdG9ZWkdNUDczUzUzNFE1OVJGUHUzS2Z4RmdVVVFoTEJOekZUQlhFLUEtdjFPOEZi?oc=5",
+      "publishedAt": "2026-02-25T05:02:53.000Z",
       "readTimeSec": 10,
       "status": "kept",
       "importance": 2,
-      "importanceRaw": 63,
+      "importanceRaw": 50,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 정보가 간결하게 요약되어 있습니다. / 근거부족",
+      "qualityReason": "제목과 본문이 일치하며, 간결하게 핵심 내용을 전달한다. / 근거부족",
       "isBriefing": false,
-      "isBreaking": false
+      "isBreaking": true
     }
   ]
 }
