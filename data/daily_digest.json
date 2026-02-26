@@ -3,32 +3,32 @@
   "selectionCriteria": "① 내일도 영향이 남는 이슈 ② 과도한 감정 소모 제외 ③ 어제와 중복되는 뉴스 제외",
   "editorNote": "이 뉴스는 클릭 수가 아니라 오늘 이후에도 남는 정보만 기준으로 편집했습니다.",
   "question": "정보를 덜 보는 것이 오히려 더 똑똑한 소비일까?",
-  "lastUpdatedAt": "2026-02-27T07:30:39.751+09:00",
+  "lastUpdatedAt": "2026-02-27T08:26:37.620+09:00",
   "items": [
     {
       "id": "2026-02-27_1",
       "date": "2026-02-27",
       "category": "경제",
-      "title": "조지아 파워, 데이터 센터 급증에 따라 220억 달러 규모 확장 계획",
+      "title": "쿠팡, 작년 매출 49조 원대 기록…개인정보 유출로 4분기 영업이익 97% 급감",
       "summary": [
-        "조지아 파워는 데이터 센터 수요 급증에 따라 220억 달러 규모의 확장 계획을 발표했습니다.",
-        "이번 확장은 조지아 주의 전력 인프라를 크게 강화할 것으로 예상됩니다."
+        "쿠팡은 지난해 매출 49조 원대를 기록했다.",
+        "그러나 개인정보 유출 사고로 인해 4분기 영업이익이 97% 급감했다."
       ],
-      "whyImportant": "데이터 센터 수요 증가에 따른 조지아 파워의 대규모 투자 계획은 지역 경제 및 전력 인프라에 중요한 영향을 미칩니다.",
-      "importanceRationale": "근거: 데이터 센터의 급증으로 인한 전력 수요 증가에 대응하기 위한 조지아 파워의 대규모 투자 계획은 정책 및 자본 지출 측면에서 중요한 변화를 의미합니다.",
+      "whyImportant": "쿠팡의 개인정보 유출 사고가 재무 실적에 미치는 심각한 영향을 보여준다.",
+      "importanceRationale": "근거: 쿠팡의 매출은 증가했지만, 개인정보 유출로 인해 영업이익이 크게 감소했다는 점은 기업의 보안 문제와 재무적 안정성 간의 연관성을 시사한다.",
       "impactSignals": [],
-      "dedupeKey": "georgia_power_22b_expansion_data_centers",
-      "clusterKey": "에너지/billion",
+      "dedupeKey": "coupang_2023_financials_security_breach",
+      "clusterKey": "49조",
       "matchedTo": null,
-      "sourceName": "WJCL",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1lTENTb0Y3LWJPdkZkVklENTZ4NThRUEowdEdKWEtzQU9wWU5QdjZ4XzRqUkY0cEdqcXBKeGlaSXVEZFNJaUN1eE1iSnNVMEVJTkZvLVhidFp5MUp6TWdGVnl4dnI2VW9pR3JxQjAtWVlqRHQ3MWN0UXU5UGMxNEE?oc=5",
-      "publishedAt": "2026-02-26T13:24:00.000Z",
+      "sourceName": "KBS 뉴스",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9YNHM2Z1d6aDN4UmJySWlhcTRfbm9PMGptLUZvWDkyTTR5ZUFmMTV1RmM2UmZRRTlkclBJWnpaU0QxWjc3eEFpTkNyRnlHR1pCc1NoUHNQU0VvUHM?oc=5",
+      "publishedAt": "2026-02-26T23:07:00.000Z",
       "readTimeSec": 10,
       "status": "kept",
       "importance": 2,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 정보가 명확합니다. / 근거부족",
+      "qualityReason": "기사의 내용이 명확하고 간결하며, 핵심 정보를 잘 전달하고 있다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -36,20 +36,21 @@
       "id": "2026-02-27_2",
       "date": "2026-02-27",
       "category": "정책",
-      "title": "트럼프, AI 데이터 센터가 전기 요금을 인상하지 않을 것이라고 발언. 전문가들은 그의 주장에 대한 실현 가능성을 분석.",
+      "title": "트럼프, AI 데이터 센터가 전기 요금을 인상하지 않을 것이라고 발언. 전문가들은 그의 주장이 실제로 집행 가능한지 설명",
       "summary": [
         "트럼프는 AI 데이터 센터가 전기 요금을 인상하지 않을 것이라고 주장했습니다.",
-        "전문가들은 트럼프의 주장이 실제로 시행 가능한지 분석하고 있습니다."
+        "전문가들은 그의 주장이 실제로 집행 가능한지에 대해 의문을 제기합니다.",
+        "AI 데이터 센터의 전력 소비량 증가에 대한 우려가 제기되고 있습니다."
       ],
-      "whyImportant": "AI 데이터 센터 건설 및 운영에 대한 정책적 논의와 투자 방향을 파악할 수 있습니다.",
-      "importanceRationale": "근거: 트럼프의 발언은 AI 데이터 센터 건설 및 운영에 대한 정책적 의지를 나타내며, 이는 관련 산업 투자 및 전력 소비에 영향을 미칠 수 있습니다.",
+      "whyImportant": "AI 데이터 센터의 전력 소비와 관련된 정책적 논의 및 투자 방향을 파악하는 데 중요합니다.",
+      "importanceRationale": "근거: AI 데이터 센터의 전력 소비 증가는 에너지 정책 및 관련 산업 투자에 영향을 미칠 수 있으며, 트럼프의 발언은 이러한 정책 결정에 대한 논쟁을 촉발할 수 있습니다.",
       "impactSignals": [
         {
           "label": "capex",
-          "evidence": "AI 데이터 센터 건설 및 운영 관련 투자에 대한 논의"
+          "evidence": "AI 데이터 센터 건설 및 운영 관련 투자에 대한 고려 필요성 제기"
         }
       ],
-      "dedupeKey": "trump-ai-power-bills",
+      "dedupeKey": "trump_ai_power_bills",
       "clusterKey": "에너지/centers",
       "matchedTo": null,
       "sourceName": "inc.com",
@@ -60,14 +61,14 @@
       "importance": 3.5,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 정보가 명확합니다.",
+      "qualityReason": "제목과 본문이 일치하며, 핵심 내용을 요약했습니다.",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-02-27_3",
       "date": "2026-02-27",
-      "category": "기술",
+      "category": "정책",
       "title": "미국 주들이 데이터 센터 전기 요금에 주목하는 이유",
       "summary": [
         "미국 주들이 데이터 센터의 전기 요금에 대한 규제를 강화하고 있습니다.",
@@ -79,7 +80,7 @@
       "impactSignals": [
         {
           "label": "policy",
-          "evidence": "미국 주들의 데이터 센터 전기 요금 규제 강화"
+          "evidence": "주 정부의 데이터 센터 전기 요금 규제 강화"
         }
       ],
       "dedupeKey": "data_center_electric_rates",
@@ -93,55 +94,24 @@
       "importance": 3,
       "importanceRaw": 50,
       "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 내용이 일치하며, 핵심 내용을 요약했습니다.",
+      "qualityReason": "기사 내용이 명확하고 간결함",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-02-27_4",
       "date": "2026-02-27",
-      "category": "경제",
-      "title": "\"개인 정보 유출 사태에도\"…쿠팡Inc, 작년 역대 최대 매출 49조(종합)",
-      "summary": [
-        "쿠팡Inc는 개인 정보 유출 사태에도 불구하고 작년에 역대 최대 매출인 49조 원을 기록했다."
-      ],
-      "whyImportant": "쿠팡의 매출 증가는 보안 문제에도 불구하고 성장세를 유지하고 있음을 보여준다.",
-      "importanceRationale": "근거: 기사는 쿠팡이 개인 정보 유출 사태에도 불구하고 역대 최대 매출을 달성했다는 사실을 직접적으로 보도하고 있다.",
-      "impactSignals": [
-        {
-          "label": "earnings",
-          "evidence": "작년 역대 최대 매출 49조 원 기록"
-        }
-      ],
-      "dedupeKey": "coupang_record_sales_2023",
-      "clusterKey": "개인정보",
-      "matchedTo": null,
-      "sourceName": "뉴스1",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5rejF3V1I4b0FBR1dOZzNhUXRXbjk1enVMREdkRG1aVHlfS0VDLWhBclYwZFdhRVBnVy12czZmTXVVNjhJZXFodjRNa250dWRvcVBzZWtDRUZCd3pxb1Rv?oc=5",
-      "publishedAt": "2026-02-26T22:16:27.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 3.5,
-      "importanceRaw": 63,
-      "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 핵심 정보를 전달한다.",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-02-27_5",
-      "date": "2026-02-27",
       "category": "국제",
-      "title": "국제유가 4거래일 연속 하락, WTI 배럴당 65달러대...미국-이란 핵협상 진전 기대감",
+      "title": "국제 유가, 미국-이란 핵 협상 진전 기대감에 4일 연속 하락",
       "summary": [
-        "국제유가가 미국과 이란의 핵협상 진전 기대감으로 4거래일 연속 하락세를 보이고 있다.",
+        "국제 유가가 미국과 이란의 핵 협상 진전 기대감으로 인해 4거래일 연속 하락세를 보이고 있다.",
         "WTI는 배럴당 65달러대를 기록했다.",
-        "국제 금값은 달러 강세 등의 영향으로 하락세로 전환되었다."
+        "국제 금값은 달러 강세 등의 영향으로 하락세로 반전했다."
       ],
-      "whyImportant": "국제 유가 하락은 에너지 시장과 관련 산업에 영향을 미치며, 특히 미국과 이란의 핵협상 결과에 따라 변동성이 커질 수 있다.",
-      "importanceRationale": "근거: 국제 유가 하락세 지속 및 미국-이란 핵협상 관련 내용이 에너지 시장에 미치는 잠재적 영향력을 고려함.",
+      "whyImportant": "미국과 이란의 핵 협상 결과는 국제 에너지 시장에 큰 영향을 미칠 수 있다.",
+      "importanceRationale": "근거: 핵 협상 타결 시 이란의 원유 수출이 재개될 가능성이 있으며, 이는 국제 유가 하락 압력으로 작용할 수 있기 때문이다.",
       "impactSignals": [],
-      "dedupeKey": "2024-01-28-국제유가하락",
+      "dedupeKey": "intl_oil_prices_20240126",
       "clusterKey": "4거래일",
       "matchedTo": null,
       "sourceName": "이코노뉴스",
@@ -152,24 +122,23 @@
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 내용을 충실히 반영한 요약 및 중요도 분석. / 근거부족",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되어 있음. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-02-27_6",
+      "id": "2026-02-27_5",
       "date": "2026-02-27",
       "category": "국제",
       "title": "미국, 이란 핵 협상 중 러시아-이란 연계 스위스 은행 제재 추진",
       "summary": [
         "미국이 이란과의 핵 협상이 진행 중인 가운데 러시아-이란 연계 스위스 은행에 대한 제재를 추진하고 있다.",
-        "이번 제재는 러시아와 이란의 금융 연계를 차단하려는 미국의 의지를 보여준다.",
-        "제재 대상 은행의 구체적인 정보는 아직 공개되지 않았다."
+        "이번 제재는 러시아와 이란 간의 금융 연계를 차단하려는 미국의 의지를 보여주는 것으로 해석된다."
       ],
       "whyImportant": "미국의 제재 추진은 이란 핵 협상에 영향을 미칠 수 있으며, 러시아와 이란의 관계에도 변화를 가져올 수 있다.",
-      "importanceRationale": "근거: 미국의 이란 제재는 국제 외교 및 금융 시장에 중요한 영향을 미치며, 특히 러시아-이란 관계에 미치는 파급력이 크다.",
+      "importanceRationale": "근거: 미국의 제재 추진은 이란 핵 협상과 러시아-이란 관계에 중요한 영향을 미칠 수 있기 때문이다.",
       "impactSignals": [],
-      "dedupeKey": "US_Sanctions_Swiss_Bank_Linked_to_Russia_Iran",
+      "dedupeKey": "미국, 이란 핵 협상 중 러시아-이란 연계 스위스 은행 제재 추진",
       "clusterKey": "스위스은행",
       "matchedTo": null,
       "sourceName": "연합뉴스 한민족센터",
@@ -180,74 +149,52 @@
       "importance": 2,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 내용이 일치하며, 사실에 기반하여 작성되었습니다. / 근거부족",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되어 있음. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-02-27_6",
+      "date": "2026-02-27",
+      "category": "정책",
+      "title": "'갑질 의혹' 건설공제조합…국토부, 시정권고",
+      "summary": [
+        "건설공제조합의 '갑질 의혹'에 대해 국토교통부가 시정권고를 내렸습니다."
+      ],
+      "whyImportant": "건설 업계에 미치는 영향력 있는 기관에 대한 정부의 개입을 보여줍니다.",
+      "importanceRationale": "근거: 국토부의 시정권고는 건설공제조합의 사업 방식에 대한 정부의 우려를 나타내며, 이는 건설 업계의 자본 지출 및 운영 방식에 영향을 미칠 수 있습니다.",
+      "impactSignals": [
+        {
+          "label": "capex",
+          "evidence": "건설공제조합의 사업 방식 변화는 건설 업계의 자본 지출에 영향을 줄 수 있음"
+        }
+      ],
+      "dedupeKey": "건설공제조합_갑질의혹_국토부시정권고",
+      "clusterKey": "갑질",
+      "matchedTo": null,
+      "sourceName": "한국경제",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9JaU12R0VjeTQ5ZUREeWg0X0hVVEkzakJpRDZDalV4QnZfdUdQZFdtVk5Lb3ZPREhmalNLVXFHYjlKT3M4ZzJPRms3OFVrZ1k5UDd5c1hKaWhkZ9IBVEFVX3lxTE9XR21IRnpkSVI1S0RWUmEwOUx3V29teThRZmQ4cEhiNXp0b28wNVBTV0VmZnZVQzNnNkJ5M3NKQVlxTS0wZjlZUWE4V09zZGZRYzc4TA?oc=5",
+      "publishedAt": "2026-02-26T07:26:22.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 3.5,
+      "importanceRaw": 63,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었습니다.",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-02-27_7",
       "date": "2026-02-27",
-      "category": "경제",
-      "title": "CoreWeave, 강력한 AI 관련 수요로 분기별 수익 추정치 상회",
-      "summary": [
-        "CoreWeave는 강력한 AI 관련 수요에 힘입어 분기별 수익 추정치를 넘어섰습니다.",
-        "이는 CoreWeave의 AI 시장에서의 강력한 입지를 보여줍니다."
-      ],
-      "whyImportant": "CoreWeave의 수익 증가는 AI 기술 수요 증가를 반영합니다.",
-      "importanceRationale": "근거: CoreWeave의 분기별 수익이 AI 관련 수요 증가로 인해 추정치를 상회했다는 점은 AI 시장의 성장과 CoreWeave의 시장 경쟁력을 시사합니다.",
-      "impactSignals": [],
-      "dedupeKey": "CoreWeave_beats_quarterly_revenue_estimates_on_strong_AI-related_demand",
-      "clusterKey": "beats",
-      "matchedTo": null,
-      "sourceName": "Yahoo Finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVjI0SWs1am9ZcVFDOGxPU1VGem9lOURxc2FXS3FjWnZVckdtZjR2anF4QTJKdElPeWZ5UGFQRDdUTkVPbTRKZmVRb1p3N3hxWVNKR19DMnJJOE1BemRBSDFMNUZUSmFDa1BtY0ZPdGE2T0x5M0FTMlJLTWFfX29mb25CcllYY2E3SXZxVQ?oc=5",
-      "publishedAt": "2026-02-26T21:10:36.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 75,
-      "qualityLabel": "ok",
-      "qualityReason": "The article provides a clear and concise report on CoreWeave's financial performance. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-02-27_8",
-      "date": "2026-02-27",
-      "category": "국제",
-      "title": "중국, 미국에 관세 협상 제안…독일 총리 방중 '실리 외교'",
-      "summary": [
-        "중국이 미국에 관세 협상을 제안했다.",
-        "독일 총리의 방중은 실리 외교의 일환으로 해석된다."
-      ],
-      "whyImportant": "미중 무역 관계와 유럽 외교에 중요한 영향을 미칠 수 있다.",
-      "importanceRationale": "근거: 중국의 관세 협상 제안은 미중 관계 변화의 가능성을 시사하며, 독일 총리의 방중은 유럽의 대중국 외교 전략을 보여준다.",
-      "impactSignals": [],
-      "dedupeKey": "중국, 미국에 관세 협상 제안…독일 총리 방중 '실리 외교'",
-      "clusterKey": "관세협상",
-      "matchedTo": null,
-      "sourceName": "연합뉴스 한민족센터",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAwTjJNOUVmWVZSM0NFMWYyRko0dEN3aUE0NG12ZVdNOTk4QnhIa01OdWQtZERKLWZOMFBaTVlvci1jNzQ3NV9qcVZhZUN2Vko4dWlRSjBBLW9GYmVHd3NQS21wb1R1bnBHem5NaUk2S3RGbU5O?oc=5",
-      "publishedAt": "2026-02-25T12:19:31.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 75,
-      "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약됨. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-02-27_9",
-      "date": "2026-02-27",
       "category": "국제",
       "title": "CVE-2026-20127: 시스코 SD-WAN 제로데이, 2023년부터 악용",
       "summary": [
-        "시스코 SD-WAN의 제로데이 취약점 CVE-2026-20127이 2023년부터 악용되고 있습니다."
+        "시스코 SD-WAN의 제로데이 취약점 CVE-2026-20127이 2023년부터 악용되고 있습니다.",
+        "SOC Prime에서 해당 내용을 발표했습니다."
       ],
       "whyImportant": "시스코 SD-WAN 사용자들은 보안 업데이트를 통해 시스템을 보호해야 합니다.",
-      "importanceRationale": "근거: 제로데이 취약점이 악용되고 있다는 정보는 즉각적인 보안 조치가 필요함을 시사합니다.",
+      "importanceRationale": "근거: 시스코 SD-WAN 제로데이 취약점이 실제 악용되고 있다는 정보는 시스템 보안에 대한 즉각적인 대응이 필요함을 시사합니다.",
       "impactSignals": [],
       "dedupeKey": "CVE-2026-20127_Cisco_SD-WAN_Zero-day_Exploitation_2023",
       "clusterKey": "2023년부터",
@@ -260,61 +207,119 @@
       "importance": 2,
       "importanceRaw": 88,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 정보가 명확합니다. / 근거부족",
+      "qualityReason": "제목과 내용이 일치하며, 필요한 정보를 포함하고 있습니다. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-02-27_8",
+      "date": "2026-02-27",
+      "category": "기술",
+      "title": "CoreWeave, 강력한 AI 관련 수요로 분기별 수익 추정치 상회",
+      "summary": [
+        "CoreWeave는 강력한 AI 관련 수요에 힘입어 분기별 수익 추정치를 넘어섰습니다."
+      ],
+      "whyImportant": "CoreWeave의 실적은 AI 시장의 성장세를 반영합니다.",
+      "importanceRationale": "근거: CoreWeave의 수익 증가는 AI 기술에 대한 수요 증가를 나타내며, 이는 관련 시장의 성장 가능성을 시사합니다.",
+      "impactSignals": [],
+      "dedupeKey": "CoreWeave_beats_quarterly_revenue_estimates_on_strong_AI-related_demand",
+      "clusterKey": "beats",
+      "matchedTo": null,
+      "sourceName": "1470 & 100.3 WMBD",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTFotRGkyUlo0YWo4YWNXdTZnanVvcFBMXzBwRjNjSmlPOGIxa3A3aFVHazBjOUd4QnFfVzZneVRGZUxZcjNDN1pzLWNaUVR1M0xiTHhKbDZiTW9TZ3QtLVF3Y3JHcjdZVjgyWGZWalNTQzAwWmZqU3FQZXhwTkFUUlRPOXlnY3VNZGx4ZDE5ak5XVXgyNjdlYlpsQS1RQVFtV1FMakk5eWo?oc=5",
+      "publishedAt": "2026-02-26T22:41:26.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 63,
+      "qualityLabel": "ok",
+      "qualityReason": "The article provides a clear and concise report on CoreWeave's financial performance. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-02-27_9",
+      "date": "2026-02-27",
+      "category": "국제",
+      "title": "미국-이란 핵 협상 진전: 오만 중재 하에 빈에서 재개",
+      "summary": [
+        "미국과 이란의 핵 협상이 오만의 중재로 빈에서 재개될 예정이다.",
+        "이번 협상은 양국 간의 관계 개선을 위한 중요한 단계로 평가된다."
+      ],
+      "whyImportant": "미국과 이란의 핵 협상 재개는 중동 지역의 안정을 위한 중요한 진전이다.",
+      "importanceRationale": "근거: 핵 협상의 진전은 국제 사회의 안보와 직결되며, 특히 중동 지역의 긴장 완화에 기여할 수 있다.",
+      "impactSignals": [],
+      "dedupeKey": "미국-이란 핵 협상 진전: 오만 중재 하에 빈에서 재개",
+      "clusterKey": "빈서",
+      "matchedTo": null,
+      "sourceName": "스페셜경제",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1lQTJ0MGNUN2JiVkV4Ql85XzhXclo3dnFMR0ZlUmllQlZwZG1TMmpCcDJPRjhTUFNGdDB5c3dNcUpVTWtHRlZSemNWQkR1OTR3QWxycUpNTzNFYklrVG02dTlmRk5JQUZRLXE3dw?oc=5",
+      "publishedAt": "2026-02-26T23:05:00.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 75,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되어 있다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-02-27_10",
       "date": "2026-02-27",
-      "category": "정책",
-      "title": "미국, 외교관들에게 외국 데이터 주권법에 반대하는 로비 활동 지시",
+      "category": "에너지",
+      "title": "새로운 Google 데이터 센터, 1.9GW 규모의 청정 에너지 수요 촉발",
       "summary": [
-        "미국이 외교관들에게 외국 데이터 주권법에 반대하는 로비 활동을 지시했습니다.",
-        "이는 데이터가 국경을 넘어 자유롭게 이동할 수 있도록 하기 위한 미국의 노력의 일환입니다."
+        "Google의 새로운 데이터 센터 건설로 인해 1.9GW 규모의 청정 에너지 수요가 발생했습니다.",
+        "이는 데이터 센터 운영에 필요한 전력을 청정 에너지로 공급하기 위한 Google의 노력의 일환입니다."
       ],
-      "whyImportant": "데이터 주권 관련 정책에 영향을 미칩니다.",
-      "importanceRationale": "근거: 미국의 외교적 노력이 데이터 주권 관련 국제 정책에 직접적인 영향을 미칠 수 있기 때문입니다.",
-      "impactSignals": [],
-      "dedupeKey": "US_diplomats_lobby_data_sovereignty",
-      "clusterKey": "against",
+      "whyImportant": "Google의 청정 에너지 투자 확대는 지속 가능한 기술 산업 발전에 중요한 영향을 미칩니다.",
+      "importanceRationale": "근거: Google의 데이터 센터 건설은 대규모 청정 에너지 프로젝트를 유발하여 관련 산업 성장을 촉진하고 환경에 긍정적인 영향을 미칩니다.",
+      "impactSignals": [
+        {
+          "label": "capex",
+          "evidence": "새로운 Google 데이터 센터 건설로 1.9GW 규모의 청정 에너지 수요가 발생"
+        }
+      ],
+      "dedupeKey": "google_datacenter_cleanenergy_1.9GW",
+      "clusterKey": "에너지/center",
       "matchedTo": null,
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQa3ZRdlEydndzM0ljSGs5a0lQYkdmVEJtQ1FmTERtUC1DNXBkZlJxRWpPZThibmxjc1pwNjZ0elhtTS1RVk1mZ25uVE9xeWsxZ2gtZkZEcUNrSV9VN3hXNXRWbXBTSm5EeDMwTGFHM0l4Y3ZDS09xYWJwOVJybldMUWhvdHZ0QWRzQTRwYWVGRWF4ZmZCcTN2Z1luVElqb1N0ZGc?oc=5",
-      "publishedAt": "2026-02-25T14:56:52.000Z",
+      "sourceName": "Electrek",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOd00wOU13TFFGeHJRWThQUlFtQUFTTnRHbjZxejdwcmM0UDhIOVl0OXk2X0pXbGdadldMamFyYkFfX2NoRmcwdXAzdlNiejVjOXUwUGFTdjEyOEZCLUw4V1pZN0dwWU5vems3OEx5cjJhcktheEc3NVMyN2VvNjEwUHZVaDBFRHFRdWxxTmZOVjU5eDg?oc=5",
+      "publishedAt": "2026-02-26T22:49:00.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 2,
+      "importance": 4,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "기사 내용이 명확하고 간결함 / 근거부족",
+      "qualityReason": "기사 내용이 명확하고 간결하며, 핵심 정보를 잘 전달합니다.",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-02-27_11",
       "date": "2026-02-27",
-      "category": "국제",
-      "title": "엔비디아, AI 경제에 대한 우려 속에서도 또 다시 엄청난 성장 기록",
+      "category": "경제",
+      "title": "로켓 랩, 8억 1,600만 달러 규모의 방위 계약 체결 및 화성 탐사선 제작",
       "summary": [
-        "엔비디아가 AI 경제에 대한 우려 속에서도 또 다른 분기에서 엄청난 성장을 달성했다.",
-        "자세한 내용은 아직 공개되지 않았다."
+        "로켓 랩이 8억 1,600만 달러 규모의 방위 계약을 체결했습니다.",
+        "또한 화성 탐사선을 제작합니다."
       ],
-      "whyImportant": "엔비디아의 지속적인 성장은 AI 기술의 발전과 시장 수요를 반영하는 중요한 지표입니다.",
-      "importanceRationale": "근거: 엔비디아의 실적은 AI 산업 전반의 성장 가능성과 투자 매력도를 평가하는 데 중요한 기준이 된다.",
+      "whyImportant": "로켓 랩의 사업 확장 및 재정적 안정성 강화",
+      "importanceRationale": "근거: 대규모 방위 계약 체결과 화성 탐사선 제작은 로켓 랩의 사업 영역 확장과 재정적 안정성을 강화하는 중요한 지표입니다.",
       "impactSignals": [],
-      "dedupeKey": "nvidia_growth_q2_2024",
-      "clusterKey": "amid",
+      "dedupeKey": "rocketlab_defense_mars",
+      "clusterKey": "816m",
       "matchedTo": null,
-      "sourceName": "AP News",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNN2xfc2NUd2pDT2pzQ1d1d09TQ1pFanN3VmRJWmZHMEZ3bXhCTUhPWFlnREJIcE1xRmNpbWFxVUVLMXRzcnlRb3FlYmJDSjNQMmxnbFcyZHFwblVxLVBXVGw5a0VRZmh1ZkxBVEo0S0o4UmhsMFltZU1PS2tVM1BaMC1ZclFicEYtOS03NEdkdW95OFhsdjFGUjdVX2MxM0gxeEFtQWdNc25RNnBPalhzcE13?oc=5",
-      "publishedAt": "2026-02-26T01:28:00.000Z",
+      "sourceName": "Stock Titan",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdUNqNkZSbTBqaUN1czk4RW5JRktCWXAxNHVKYmdnSG5QcTNHYzJJVlFXQ0VmTXVIdzZUMFhMajlzRUliVVhJYm9NSlNWQ0ozbGFfaGJOd2l0SW9ESF9JYjF0TUowSFRpSTFoeFZRN084WkZBbl9LNkF5WF81S1M4TlBpTVZsSFB0d0t0czMxOU1FWkswNE1adDJNNWkzZmR5Z1hkcWpRNk1BYzl3WmVDNUJDSUpqYncwZTEw?oc=5",
+      "publishedAt": "2026-02-26T21:05:00.000Z",
       "readTimeSec": 10,
       "status": "kept",
       "importance": 2,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 정보가 간결하게 제공됨. / 근거부족",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었습니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -326,8 +331,8 @@
       "summary": [
         "정부가 '국대AI'의 저작권 형사책임 면제를 검토 중이다."
       ],
-      "whyImportant": "정부의 AI 정책 방향을 보여주는 중요한 지표.",
-      "importanceRationale": "근거: 정부가 직접 '국대AI'의 저작권 형사책임 면제를 검토한다는 것은 AI 산업 육성에 대한 정부의 의지를 나타내는 정책적 신호로 해석될 수 있다.",
+      "whyImportant": "정부의 AI 육성 정책 방향을 보여주는 중요한 지표.",
+      "importanceRationale": "근거: 정부가 직접적으로 AI의 법적 책임 문제에 대한 해결 의지를 보임으로써, 관련 산업 발전 및 투자 유치에 긍정적인 영향을 줄 수 있기 때문.",
       "impactSignals": [],
       "dedupeKey": "정부, '국대AI' 저작권 형사책임 면제 검토",
       "clusterKey": "국대ai",
@@ -340,7 +345,7 @@
       "importance": 2,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 간결하게 핵심 내용을 전달한다. / 근거부족",
+      "qualityReason": "제목과 본문이 일치하며, 내용이 간결하고 명확함. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -348,62 +353,58 @@
       "id": "2026-02-27_13",
       "date": "2026-02-27",
       "category": "정책",
-      "title": "‘갑질 의혹’ 건설공제조합…국토부, 시정권고",
+      "title": "[런던 테크 리더들] 2026년 영국 AI 산업, 런던 중심 테크 허브에서 급성장",
       "summary": [
-        "국토교통부가 '갑질 의혹'을 받고 있는 건설공제조합에 시정권고를 내렸습니다."
+        "2026년 영국 AI 산업은 런던 중심의 테크 허브에서 규제 산업 전문 솔루션까지 다양한 플레이어들이 주도합니다.",
+        "금융, 헬스케어, 스타트업 지원 분야에서 특히 빠른 성장이 예상됩니다."
       ],
-      "whyImportant": "건설공제조합의 불공정 행위가 개선될 가능성이 있습니다.",
-      "importanceRationale": "근거: 국토부의 시정권고는 건설공제조합의 사업 방식에 변화를 가져올 수 있으며, 이는 건설 산업 전반에 영향을 미칠 수 있습니다.",
+      "whyImportant": "영국 AI 산업의 성장과 런던의 중심 역할 강조",
+      "importanceRationale": "근거: 런던이 영국 AI 산업의 핵심 허브이며, 금융 및 헬스케어 분야에서 AI 기술의 중요성이 커지고 있기 때문입니다.",
       "impactSignals": [
         {
-          "label": "capex",
-          "evidence": "건설공제조합의 불공정 행위 시정은 건설 투자 및 관련 자본 지출에 간접적인 영향을 줄 수 있습니다."
+          "label": "policy",
+          "evidence": "영국 AI 산업의 성장과 관련된 정책적 지원 및 규제 환경이 중요하게 작용할 수 있습니다."
         }
       ],
-      "dedupeKey": "건설공제조합 갑질 의혹 시정권고",
-      "clusterKey": "갑질",
+      "dedupeKey": "london_ai_2026",
+      "clusterKey": "금융/026년",
       "matchedTo": null,
-      "sourceName": "한국경제",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9JaU12R0VjeTQ5ZUREeWg0X0hVVEkzakJpRDZDalV4QnZfdUdQZFdtVk5Lb3ZPREhmalNLVXFHYjlKT3M4ZzJPRms3OFVrZ1k5UDd5c1hKaWhkZ9IBVEFVX3lxTE9XR21IRnpkSVI1S0RWUmEwOUx3V29teThRZmQ4cEhiNXp0b28wNVBTV0VmZnZVQzNnNkJ5M3NKQVlxTS0wZjlZUWE4V09zZGZRYzc4TA?oc=5",
-      "publishedAt": "2026-02-26T07:26:22.000Z",
+      "sourceName": "AI넷",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBCOUtmQ1NMYTU1MzV4anFOcWVsZklybzJNY0k3Q3hqU1BmSUlZYkVTNlotQ0tXdjc0MFNpb000Y00?oc=5",
+      "publishedAt": "2026-02-26T17:01:00.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 3,
-      "importanceRaw": 50,
+      "importance": 4,
+      "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었습니다.",
+      "qualityReason": "기사 내용이 명확하고 간결하게 요약되어 있습니다.",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-02-27_14",
       "date": "2026-02-27",
-      "category": "정책",
-      "title": "'법 왜곡죄 신설' 형법 개정안, 여당 주도로 국회 본회의 통과",
+      "category": "국제",
+      "title": "미국 무역대표, 301조항 발동…관세 협상 '고차 방정식'",
       "summary": [
-        "법 왜곡죄를 신설하는 형법 개정안이 여당 주도로 국회 본회의를 통과했습니다.",
-        "이번 개정안은 법의 해석과 적용에 대한 새로운 기준을 제시합니다."
+        "미국 무역대표가 301조항을 발동하며 관세 협상이 복잡해지고 있다.",
+        "이는 무역 분쟁의 심화를 예고하는 신호로 해석될 수 있다."
       ],
-      "whyImportant": "법 왜곡죄 신설은 법률 해석 및 적용에 중대한 영향을 미칠 수 있습니다.",
-      "importanceRationale": "근거: 법 왜곡죄 신설은 법 적용의 투명성과 공정성에 대한 논의를 촉발하고, 향후 법조계 및 관련 분야에 상당한 변화를 가져올 수 있기 때문입니다.",
-      "impactSignals": [
-        {
-          "label": "policy",
-          "evidence": "법 왜곡죄 신설 형법 개정안이 국회 본회의를 통과함."
-        }
-      ],
-      "dedupeKey": "law_distortion_act_passed",
-      "clusterKey": "개정안",
+      "whyImportant": "미국이 301조항을 발동한 것은 향후 국제 무역 관계에 중요한 영향을 미칠 수 있기 때문이다.",
+      "importanceRationale": "근거: 301조항은 미국의 무역 제재 수단으로, 발동 시 관련 국가와의 무역 관계에 상당한 파장을 일으킬 수 있다.",
+      "impactSignals": [],
+      "dedupeKey": "301조항 발동_관세협상",
+      "clusterKey": "301조",
       "matchedTo": null,
-      "sourceName": "연합인포맥스",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5VTmVfRFdURzA5MzA5dUZCN0hzNG1jbTQyR3p6ZFlXckUwbFRVRXZuMkJLQjJHVjVHbzFxS0NHQ18yWHNQTU0zUGNyOWl5Qnp5QkVQOFNOYTlPaUd2c1BmbWlIam01OWhJUm1DZXJLLXo?oc=5",
-      "publishedAt": "2026-02-26T08:38:19.000Z",
+      "sourceName": "뉴스토마토",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBfaXliRTJaenpyYjBmWUs0QktMY01QTnJoTFhXb1ZqT21aeUphMlFyVzRYaE92WTBXMkl3RllnQUx4RTA5STB0Mld4THRsWUJNdkI1dXMwSDdaTHkzbnh3ZQ?oc=5",
+      "publishedAt": "2026-02-26T09:15:38.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 4,
+      "importance": 2,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 내용이 일치하며, 핵심 내용을 요약했습니다.",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약됨. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -411,47 +412,20 @@
       "id": "2026-02-27_15",
       "date": "2026-02-27",
       "category": "경제",
-      "title": "쿠팡, 4분기 매출 12.8조 원 기록…3분기 대비 4.6% 감소",
+      "title": "국정 연설에서 보듯이 - 과도한 수요로 인해 어려움을 겪는 유틸리티",
       "summary": [
-        "쿠팡의 4분기 매출이 12.8조 원으로 집계됨.",
-        "이는 3분기 대비 4.6% 감소한 수치임."
+        "미국 내 유틸리티 회사들이 수요 증가로 인해 어려움을 겪고 있다는 내용입니다.",
+        "이는 국정 연설에서도 언급되었습니다."
       ],
-      "whyImportant": "쿠팡의 매출 감소는 국내 이커머스 시장의 변화를 보여주는 지표가 될 수 있습니다.",
-      "importanceRationale": "근거: 쿠팡은 국내 이커머스 시장에서 중요한 위치를 차지하고 있으며, 매출 변동은 시장 전체에 영향을 미칠 수 있기 때문입니다.",
-      "impactSignals": [],
-      "dedupeKey": "coupang_q4_sales_decline",
-      "clusterKey": "3분기",
-      "matchedTo": null,
-      "sourceName": "한국경제",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE10UGIxWldmQl9kTjhrSC1CZnhab255LXl4ZU9rU2NDSmVFX0VlVTZ6czhneXJaUUJ6MzZXX1V1VllmcmM2Q0dwRGRzeXRxMDduQklTZk9xQzVGQdIBVEFVX3lxTE1ZZHJYNWpFOEJHWGJ2aGhzaHF4OWlOdDlfbG9KT3A2d3RGQ3ZVa1I4a1RfOURSMl9IZl9wVzFlZktjZ2tHTTVWRFBBQTlkbVVrNXMtVg?oc=5",
-      "publishedAt": "2026-02-26T21:21:41.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 63,
-      "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 내용이 일치하며, 간결하게 핵심 정보를 전달합니다. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-02-27_16",
-      "date": "2026-02-27",
-      "category": "에너지",
-      "title": "국정 연설에서 보듯이 - 과도한 수요에 휘청거리는 유틸리티",
-      "summary": [
-        "미국 내 유틸리티 기업들이 수요 증가에 어려움을 겪고 있다는 내용입니다.",
-        "국정 연설에서도 이 문제가 언급되었습니다."
-      ],
-      "whyImportant": "전력 수요 증가에 따른 유틸리티 기업의 대응 능력은 에너지 정책 및 인프라 투자에 중요한 영향을 미칩니다.",
-      "importanceRationale": "근거: 유틸리티 기업의 수요 대응 문제는 에너지 정책 방향과 관련 인프라 투자 결정에 직접적인 영향을 미치기 때문입니다.",
+      "whyImportant": "전력 수요 증가에 따른 유틸리티 산업의 문제점을 보여줍니다.",
+      "importanceRationale": "근거: 국정 연설에서 언급될 정도로 수요 증가 문제가 심각하며, 유틸리티 산업에 미치는 영향이 크기 때문입니다.",
       "impactSignals": [
         {
           "label": "market-demand",
-          "evidence": "전력 수요 증가로 유틸리티 기업들이 어려움을 겪고 있다는 내용"
+          "evidence": "전력 수요 증가로 인해 유틸리티 회사들이 어려움을 겪고 있음"
         }
       ],
-      "dedupeKey": "utilities-demand-state-of-union",
+      "dedupeKey": "utilities-demand-20240216",
       "clusterKey": "bend",
       "matchedTo": null,
       "sourceName": "The Equation - Union of Concerned Scientists",
@@ -467,29 +441,66 @@
       "isBreaking": false
     },
     {
-      "id": "2026-02-27_17",
+      "id": "2026-02-27_16",
       "date": "2026-02-27",
       "category": "경제",
-      "title": "로켓 랩, 8억 1,600만 달러 규모의 방위 계약 체결 및 화성 탐사선 제작",
+      "title": "미 에너지부의 거대 대출 계약, 데이터 센터 비용으로부터 요금 납부자 보호",
       "summary": [
-        "로켓 랩이 8억 1,600만 달러 규모의 방위 계약을 체결했습니다.",
-        "또한 화성 탐사선을 제작합니다."
+        "미 에너지부(DOE)의 대규모 대출 계약이 데이터 센터 비용으로부터 요금 납부자를 보호합니다.",
+        "이번 계약은 데이터 센터 건설 및 운영 비용 부담을 줄이는 데 목적이 있습니다."
       ],
-      "whyImportant": "로켓 랩의 사업 확장 및 재정적 안정에 기여합니다.",
-      "importanceRationale": "근거: 대규모 방위 계약 체결과 화성 탐사선 제작은 로켓 랩의 사업 영역 확장과 재정적 성장을 의미합니다.",
-      "impactSignals": [],
-      "dedupeKey": "rocketlab_defense_mars",
-      "clusterKey": "816m",
+      "whyImportant": "데이터 센터 비용 절감 효과가 요금 납부자에게 직접적으로 전달될 수 있습니다.",
+      "importanceRationale": "근거: 에너지부의 대출 계약이 데이터 센터 관련 비용을 경감시켜 요금 인상 압력을 줄이는 데 기여하기 때문입니다.",
+      "impactSignals": [
+        {
+          "label": "capex",
+          "evidence": "데이터 센터 건설 비용 관련 대출 계약"
+        }
+      ],
+      "dedupeKey": "DOE_data_center_loan_shield",
+      "clusterKey": "behemoth",
       "matchedTo": null,
-      "sourceName": "Stock Titan",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdUNqNkZSbTBqaUN1czk4RW5JRktCWXAxNHVKYmdnSG5QcTNHYzJJVlFXQ0VmTXVIdzZUMFhMajlzRUliVVhJYm9NSlNWQ0ozbGFfaGJOd2l0SW9ESF9JYjF0TUowSFRpSTFoeFZRN084WkZBbl9LNkF5WF81S1M4TlBpTVZsSFB0d0t0czMxOU1FWkswNE1adDJNNWkzZmR5Z1hkcWpRNk1BYzl3WmVDNUJDSUpqYncwZTEw?oc=5",
-      "publishedAt": "2026-02-26T21:05:00.000Z",
+      "sourceName": "Latitude Media",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWElsNkNma0FKLXlhdmQyaS1JVUxJY1RaWTFPWTFWMThnRUtLUzk4VUJ6NWNjcnI4WlhtY3FKRDFRVGJGLVJCYUxVWFpyM0tOc2JkeHYtNVQ3b2xhVmtOcnB6MHBwd3laQThyM1pSR0JyWEtHLVpTcUxFLWtRY2k5ck9ucEtqYzN0bml2TkxaYXJjTXJZTW1lZEt6aWs2UVVfR1hj?oc=5",
+      "publishedAt": "2026-02-26T20:26:54.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 2,
+      "importance": 3.5,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 정보가 간결하게 요약되어 있습니다. / 근거부족",
+      "qualityReason": "기사 제목과 내용이 일치하며, 요약이 명확합니다.",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-02-27_17",
+      "date": "2026-02-27",
+      "category": "기술",
+      "title": "OpenAI, 런던 사무실 대규모 확장 발표",
+      "summary": [
+        "OpenAI가 런던 사무실의 대규모 확장을 발표했습니다.",
+        "이번 확장은 OpenAI의 유럽 시장에서의 입지를 강화하기 위한 전략의 일환으로 보입니다."
+      ],
+      "whyImportant": "OpenAI의 런던 사무실 확장은 유럽 시장에서의 AI 기술 경쟁 심화를 의미합니다.",
+      "importanceRationale": "근거: OpenAI의 런던 사무실 확장은 자본 지출(capex) 증가를 나타내며, 이는 유럽 시장에 대한 투자 확대 및 AI 기술 경쟁 심화를 시사합니다.",
+      "impactSignals": [
+        {
+          "label": "capex",
+          "evidence": "OpenAI Announces Major Expansion of London Office"
+        }
+      ],
+      "dedupeKey": "openai_london_expansion",
+      "clusterKey": "announces",
+      "matchedTo": null,
+      "sourceName": "WIRED",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQQzlRemMyaUlHdDRLTU1QUmtRcGsxaks1LUU4S2RQV2VQOUVYRzRvOE9KNWZONFh6a3N6NEJmcnRiZG9PRkpDR3dkWnpwbzZMdDFGQTQ5bnVLQ3YxQkVGNFpXUF9lejZNeDBObzFwMG5rR202QnJldmpyRzN1Y0RWSm13?oc=5",
+      "publishedAt": "2026-02-26T15:56:00.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 3.5,
+      "importanceRaw": 63,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 본문이 일치하며, 정보가 명확합니다.",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -497,13 +508,13 @@
       "id": "2026-02-27_18",
       "date": "2026-02-27",
       "category": "기술",
-      "title": "인도와 미국, 관세 갈등에도 불구하고 공급망 관계 심화",
+      "title": "인도와 미국, 관세 갈등 속에서도 공급망 관계 심화",
       "summary": [
         "인도와 미국이 관세 문제에도 불구하고 공급망 관계를 강화하고 있다.",
-        "이는 양국 간의 경제 협력이 더욱 긴밀해지고 있음을 시사한다."
+        "이는 양국 간의 경제 협력이 지속적으로 발전하고 있음을 시사한다."
       ],
       "whyImportant": "공급망 강화는 양국 경제에 긍정적인 영향을 미칠 수 있다.",
-      "importanceRationale": "근거: 인도와 미국이 관세 갈등에도 불구하고 공급망 관계를 심화시키고 있다는 점은 양국 간의 경제적 협력의 중요성을 보여준다.",
+      "importanceRationale": "근거: 인도와 미국 간의 공급망 관계 심화는 무역 및 투자 증가로 이어질 수 있으며, 이는 양국 경제 성장에 기여할 수 있다.",
       "impactSignals": [],
       "dedupeKey": "IndiaUSSupplyChainTariff",
       "clusterKey": "chain",
@@ -516,7 +527,7 @@
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 내용이 일치하며, 간결하게 요약되어 있음. / 근거부족",
+      "qualityReason": "기사 제목과 내용이 일치하며, 핵심 내용을 잘 요약했습니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -529,9 +540,14 @@
         "미국 데이터 센터의 전력 소비가 2030년까지 두 배로 증가할 것으로 예상됨.",
         "이는 E&E News by POLITICO의 보도에 따른 것임."
       ],
-      "whyImportant": "데이터 센터의 전력 소비 증가는 에너지 인프라 및 환경에 중요한 영향을 미칠 수 있음.",
-      "importanceRationale": "근거: 데이터 센터의 전력 소비 증가는 관련 산업 투자 및 에너지 정책에 대한 고려를 필요로 하며, 환경 규제 및 지속 가능한 에너지 사용에 대한 논의를 촉발할 수 있음.",
-      "impactSignals": [],
+      "whyImportant": "데이터 센터의 전력 소비 증가는 에너지 인프라 및 환경에 미치는 영향이 크기 때문에 중요합니다.",
+      "importanceRationale": "근거: 데이터 센터의 전력 소비 증가는 관련 산업 투자 및 에너지 정책에 중요한 영향을 미칠 수 있습니다.",
+      "impactSignals": [
+        {
+          "label": "capex",
+          "evidence": "데이터 센터 전력 소비 증가에 따른 관련 산업 투자 확대 예상"
+        }
+      ],
       "dedupeKey": "data_center_electricity_2030",
       "clusterKey": "centers",
       "matchedTo": null,
@@ -540,37 +556,42 @@
       "publishedAt": "2026-02-26T12:00:00.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 2,
+      "importance": 3.5,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 정보가 명확함. / 근거부족",
+      "qualityReason": "기사 내용이 명확하고 간결하며, 출처가 명시되어 있습니다.",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-02-27_20",
       "date": "2026-02-27",
-      "category": "에너지",
-      "title": "서던 컴퍼니, 에너지 프로젝트 위해 수십억 달러 차입; 옹호자들은 요금 납부자가 결국 비용을 지불할 것이라고 말함",
+      "category": "경제",
+      "title": "Cicada, 1350만 달러 자금 조달로 라틴 아메리카 전자 거래 확장 계획",
       "summary": [
-        "서던 컴퍼니는 에너지 프로젝트를 위해 수십억 달러를 차입했다.",
-        "옹호자들은 요금 납부자들이 결국 이 비용을 부담하게 될 것이라고 주장한다."
+        "Cicada는 1350만 달러의 자금 조달을 통해 라틴 아메리카 전자 거래 확장을 계획하고 있습니다.",
+        "이번 투자는 Cicada의 라틴 아메리카 시장 확장에 중요한 역할을 할 것으로 예상됩니다."
       ],
-      "whyImportant": "에너지 프로젝트 자금 조달 방식과 그 부담이 소비자에게 전가될 수 있다는 점을 시사한다.",
-      "importanceRationale": "근거: 서던 컴퍼니의 차입이 결국 요금 인상으로 이어져 소비자에게 직접적인 영향을 미칠 수 있기 때문이다.",
-      "impactSignals": [],
-      "dedupeKey": "southern_co_borrows_billions_for_energy_projects",
-      "clusterKey": "에너지/advocates",
+      "whyImportant": "Cicada의 라틴 아메리카 전자 거래 시장 확장 계획은 해당 지역의 금융 기술 발전에 기여할 수 있습니다.",
+      "importanceRationale": "근거: Cicada의 투자 규모와 라틴 아메리카 시장의 성장 잠재력을 고려할 때, 이는 중요한 시장 확장 시도로 판단됩니다.",
+      "impactSignals": [
+        {
+          "label": "capex",
+          "evidence": "Cicada plans LatAm e-trading expansion with US$13.5mn funding round"
+        }
+      ],
+      "dedupeKey": "cicada_latam_etrading_expansion_us$13.5mn",
+      "clusterKey": "5mn",
       "matchedTo": null,
-      "sourceName": "Georgia Recorder",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdlJzSjdRODEwcjBQX0tRbVJBZ2I1UmFjWncxNzl0c0Y4QzVRZUdFS3I3TFF2SkZiVmdib0ZoT2MwZ24zSW5PNG5wUTZVdUtiSHk3bUc2LVk3NGIyYUxDaVA5azZpY21MNkZDSFQ1c3l6OVFQREFNNzJXM0lMbXFkUVRobHh6TW14QmJrRHdfaUh4NWNtMGFSUGNFaHhCM0U4UDlRbWdOSDNjd2pXb21TUEVfVXY2VmM3amREUEh0b1RxZ3dYWVl1WQ?oc=5",
-      "publishedAt": "2026-02-26T21:19:38.000Z",
+      "sourceName": "fi-desk.com",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQSDktQ0k2U2RYc1M1ZUhKT1ozTy1VaktVV2MtNHdPVmlvS0dlM1RzSmVoS2dtcVRCTWNFaExpQnBWd2JRVFVZRHpKMW1qdHJjTzBUVGhEVFZhblh5X3NHZnEtdmZNdTJRT0JFWXlVNGxIaEpJU2l2NFlmcFlTbWR1ZlVrUHY0X2tNbmhqeWZsbmJvelU5YUE?oc=5",
+      "publishedAt": "2026-02-26T10:54:15.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 2,
-      "importanceRaw": 50,
+      "importance": 3.5,
+      "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 내용이 일치하며, 요약이 정확하게 정보를 전달한다. / 근거부족",
+      "qualityReason": "The article provides a clear and concise overview of Cicada's expansion plans and funding.",
       "isBriefing": false,
       "isBreaking": false
     }
