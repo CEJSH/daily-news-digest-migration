@@ -3,26 +3,58 @@
   "selectionCriteria": "① 내일도 영향이 남는 이슈 ② 과도한 감정 소모 제외 ③ 어제와 중복되는 뉴스 제외",
   "editorNote": "이 뉴스는 클릭 수가 아니라 오늘 이후에도 남는 정보만 기준으로 편집했습니다.",
   "question": "정보를 덜 보는 것이 오히려 더 똑똑한 소비일까?",
-  "lastUpdatedAt": "2026-02-26T17:43:14.681+09:00",
+  "lastUpdatedAt": "2026-02-26T18:46:21.618+09:00",
   "items": [
     {
       "id": "2026-02-26_1",
       "date": "2026-02-26",
-      "category": "경제",
-      "title": "미국 연방 정부, 앨라배마 및 조지아 전력 확장을 위한 265억 달러 대출 발표",
+      "category": "국제",
+      "title": "엔비디아, 매출 308조 원으로 역대 최대 기록, 데이터센터가 성장 견인",
       "summary": [
-        "미국 연방 정부가 앨라배마와 조지아의 전력 확장을 위해 265억 달러의 대출을 발표했습니다.",
-        "이번 대출은 해당 지역의 전력 인프라 개선에 기여할 것으로 예상됩니다."
+        "엔비디아가 데이터센터 부문의 성장에 힘입어 매출 308조 원을 기록하며 역대 최대 실적을 달성했습니다.",
+        "이번 실적은 엔비디아의 데이터센터 기술력이 시장에서 높은 수요를 얻고 있음을 보여줍니다."
       ],
-      "whyImportant": "이번 대출은 미국 내 전력 인프라 투자 확대를 의미합니다.",
-      "importanceRationale": "근거: 연방 정부의 대규모 자금 지원은 해당 지역의 전력 공급 능력 향상과 관련 산업 발전에 중요한 영향을 미칠 수 있습니다.",
+      "whyImportant": "엔비디아의 기록적인 매출은 데이터센터 시장의 성장과 엔비디아의 기술적 리더십을 강조합니다.",
+      "importanceRationale": "근거: 엔비디아의 매출 증가는 데이터센터 투자의 증가와 엔비디아 제품에 대한 수요 증가를 반영하며, 이는 관련 산업에 중요한 영향을 미칩니다.",
+      "impactSignals": [
+        {
+          "label": "earnings",
+          "evidence": "매출 308조 원으로 역대 최대 실적을 기록함."
+        }
+      ],
+      "dedupeKey": "nvidia_record_revenue_datacenters",
+      "clusterKey": "클라우드/308조",
+      "matchedTo": null,
+      "sourceName": "디일렉",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1wQy04aHdPM2E2bjB5NG9FYWE0VlJsdHNQMEhhdXZtWWQxaVA5d0RzbEhmQ09MZmExSEpZeWZoaGRuZ3JUa09KbkJxS1piQzY2MWkxaGFhUHRFWjFmRVVJUkQ0UHdIdw?oc=5",
+      "publishedAt": "2026-02-25T23:42:50.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 4.5,
+      "importanceRaw": 88,
+      "qualityLabel": "ok",
+      "qualityReason": "기사 제목과 내용이 일치하며, 핵심 정보를 간결하게 전달합니다.",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-02-26_2",
+      "date": "2026-02-26",
+      "category": "정책",
+      "title": "연방 정부, 앨라배마 및 조지아 전력 확장 위해 265억 달러 대출 발표",
+      "summary": [
+        "연방 정부가 앨라배마와 조지아의 전력 확장을 위해 265억 달러의 대출을 발표했습니다.",
+        "이번 대출은 해당 지역의 전력 인프라 개선에 사용될 예정입니다."
+      ],
+      "whyImportant": "이번 대출은 미국 남부 지역의 전력 인프라 현대화에 중요한 역할을 할 것입니다.",
+      "importanceRationale": "근거: 연방 정부의 대규모 자금 지원은 해당 지역의 전력 공급 안정성을 높이고, 경제 성장에 기여할 수 있습니다.",
       "impactSignals": [
         {
           "label": "capex",
           "evidence": "265억 달러 규모의 전력 확장 투자"
         }
       ],
-      "dedupeKey": "Feds announce $26.5 billion loan for electric power expansion in Alabama and Georgia",
+      "dedupeKey": "feds-26.5b-loan-al-ga",
       "clusterKey": "에너지/alabama",
       "matchedTo": null,
       "sourceName": "WVTM",
@@ -33,12 +65,12 @@
       "importance": 4,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 정보가 명확합니다.",
+      "qualityReason": "기사 제목과 내용이 일치하며, 사실적인 정보를 제공합니다.",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-02-26_2",
+      "id": "2026-02-26_3",
       "date": "2026-02-26",
       "category": "정책",
       "title": "정부, AI 학습 저작물 ‘공정 이용’ 가이드라인 발표…후속 제도도 속도",
@@ -47,9 +79,14 @@
         "후속 제도 마련에도 속도를 낼 예정이다."
       ],
       "whyImportant": "AI 학습 데이터 사용에 대한 명확한 기준을 제시하고 관련 산업 발전을 지원한다.",
-      "importanceRationale": "근거: AI 학습 저작물 이용에 대한 정부의 정책적 가이드라인 발표는 관련 산업의 불확실성을 해소하고 투자 및 개발을 촉진할 수 있기 때문이다.",
-      "impactSignals": [],
-      "dedupeKey": "AI_learning_guidelines_2024",
+      "importanceRationale": "근거: AI 학습 저작물 이용에 대한 정부의 정책적 가이드라인 발표는 관련 산업의 불확실성을 해소하고 투자 및 개발을 촉진할 수 있다.",
+      "impactSignals": [
+        {
+          "label": "policy",
+          "evidence": "정부, AI 학습 저작물 ‘공정이용’ 가이드라인 내놨다"
+        }
+      ],
+      "dedupeKey": "AI 학습 저작물 공정 이용 가이드라인 발표",
       "clusterKey": "가이드라인",
       "matchedTo": null,
       "sourceName": "edaily.co.kr",
@@ -57,42 +94,10 @@
       "publishedAt": "2026-02-26T03:04:02.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 2,
-      "importanceRaw": 75,
-      "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 핵심 내용을 잘 요약했습니다. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-02-26_3",
-      "date": "2026-02-26",
-      "category": "국제",
-      "title": "엔비디아, 매출 308조 원으로 역대 최대 기록, 데이터센터가 성장 견인",
-      "summary": [
-        "엔비디아가 데이터센터 부문의 성장에 힘입어 매출 308조 원이라는 역대 최대 실적을 달성했습니다.",
-        "이번 실적은 엔비디아의 데이터센터 기술력이 시장에서 높은 수요를 얻고 있음을 보여줍니다."
-      ],
-      "whyImportant": "엔비디아의 기록적인 매출은 데이터센터 시장의 성장과 기술 경쟁 심화를 의미합니다.",
-      "importanceRationale": "근거: 엔비디아의 매출 증가는 데이터센터 투자를 촉진하고 관련 기술 개발 경쟁을 심화시킬 수 있습니다. 또한, 엔비디아의 실적은 전체 반도체 산업에 대한 투자 심리에도 긍정적인 영향을 미칠 수 있습니다.",
-      "impactSignals": [
-        {
-          "label": "earnings",
-          "evidence": "매출 308조 원으로 역대 최대 실적 달성."
-        }
-      ],
-      "dedupeKey": "nvidia-record-revenue-datacenters",
-      "clusterKey": "클라우드/308조",
-      "matchedTo": null,
-      "sourceName": "디일렉",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1wQy04aHdPM2E2bjB5NG9FYWE0VlJsdHNQMEhhdXZtWWQxaVA5d0RzbEhmQ09MZmExSEpZeWZoaGRuZ3JUa09KbkJxS1piQzY2MWkxaGFhUHRFWjFmRVVJUkQ0UHdIdw?oc=5",
-      "publishedAt": "2026-02-25T23:42:50.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
       "importance": 4,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 내용이 일치하며, 핵심 정보를 간결하게 전달합니다.",
+      "qualityReason": "제목과 본문이 일치하며, 내용이 간결하고 명확하다.",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -102,14 +107,15 @@
       "category": "정책",
       "title": "중국 매체, 일본 기업 대상 첫 감시 리스트 조치에 '수출 통제 정밀화' 평가",
       "summary": [
-        "한국무역협회에 따르면 중국 매체는 일본 기업을 겨냥한 첫 감시 리스트 조치에 대해 수출 통제가 정밀해졌다고 평가했다."
+        "중국 매체는 일본 기업을 겨냥한 첫 감시 리스트 조치에 대해 수출 통제가 정밀해졌다고 평가했다.",
+        "한국무역협회(KITA)는 관련 내용을 보도했다."
       ],
-      "whyImportant": "중국의 수출 통제 정책 변화를 시사합니다.",
-      "importanceRationale": "근거: 일본 기업을 대상으로 한 감시 리스트 조치는 중국의 수출 통제 정책이 특정 국가 또는 기업을 대상으로 더욱 정밀하게 적용될 수 있음을 보여준다.",
+      "whyImportant": "중국의 수출 통제 정책 변화를 보여주는 사례입니다.",
+      "importanceRationale": "근거: 일본 기업을 대상으로 한 감시 리스트 조치는 중국의 수출 통제 정책이 특정 국가나 기업을 대상으로 더욱 정밀하게 적용될 수 있음을 시사합니다.",
       "impactSignals": [
         {
           "label": "sanctions",
-          "evidence": "특정 기업에 대한 감시 강화는 잠재적 제재 가능성을 내포함"
+          "evidence": "특정 기업에 대한 감시 리스트 등재는 일종의 제재로 해석될 수 있습니다."
         }
       ],
       "dedupeKey": "중국수출통제_일본감시리스트",
@@ -133,10 +139,11 @@
       "category": "정책",
       "title": "[기자회견] 일 안 하는 국회 규탄한다! 온라인플랫폼법 즉각 제정하라!",
       "summary": [
-        "참여연대는 온라인플랫폼법의 즉각 제정을 촉구하며 국회를 규탄하는 기자회견을 열었습니다."
+        "참여연대는 온라인플랫폼법의 즉각 제정을 촉구하며 국회를 규탄하는 기자회견을 열었습니다.",
+        "기자회견에서 국회의 소극적인 태도를 비판하고 법 제정의 필요성을 강조했습니다."
       ],
-      "whyImportant": "온라인 플랫폼 규제 법안의 제정 촉구는 관련 산업과 소비자에게 중요한 영향을 미칠 수 있습니다.",
-      "importanceRationale": "근거: 온라인 플랫폼 시장의 공정 경쟁 환경 조성 및 소비자 보호와 관련된 정책적 변화를 시사합니다.",
+      "whyImportant": "온라인 플랫폼 규제 법안의 제정 촉구는 플랫폼 경제의 공정성 확보와 소비자 보호에 중요한 영향을 미칩니다.",
+      "importanceRationale": "근거: 온라인 플랫폼의 영향력이 커짐에 따라 불공정 경쟁 및 소비자 피해를 방지하기 위한 법적 규제의 필요성이 대두되고 있습니다. 법안 제정 여부는 관련 시장의 경쟁 환경과 소비자 권익에 직접적인 영향을 미치므로 중요합니다.",
       "impactSignals": [],
       "dedupeKey": "[기자회견]일 안 하는 국회 규탄한다! 온라인플랫폼법 즉각 제정하라!",
       "clusterKey": "국회",
@@ -149,80 +156,27 @@
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "기사 내용이 간결하고 핵심 주장을 명확히 전달합니다. / 근거부족",
+      "qualityReason": "기사 내용이 간결하고 명확하며, 핵심 주장을 잘 전달하고 있습니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-02-26_6",
       "date": "2026-02-26",
-      "category": "정책",
-      "title": "트럼프 대통령의 '요금 납부자 보호 서약'이 오하이오 데이터 센터의 전기 요금 인상을 억제할 수 있을까?",
-      "summary": [
-        "트럼프 대통령의 '요금 납부자 보호 서약'이 오하이오 데이터 센터의 전기 요금 인상을 억제할 수 있을지 주목된다.",
-        "WCPO 9 신시내티는 이 문제를 심층적으로 다루고 있다."
-      ],
-      "whyImportant": "오하이오 데이터 센터의 전기 요금 인상에 대한 잠재적 영향.",
-      "importanceRationale": "근거: 트럼프 대통령의 정책적 약속이 데이터 센터의 전기 요금에 미치는 영향은 오하이오 지역 경제와 관련 산업에 중요한 영향을 미칠 수 있다.",
-      "impactSignals": [],
-      "dedupeKey": "trump_ohio_electric_bills",
-      "clusterKey": "pledges",
-      "matchedTo": null,
-      "sourceName": "WCPO 9 Cincinnati",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQS3VMMnhhTk9aS1ljYW1wT3pBYTNZczVkUk9KbENVeFhRRGR6eHo2d0pmTy1tamFIMjRQWXRUMnN5aDZBbHNpdkFaR2hnMVdmREI1dURVS2pLNUxUeHBReTRsSVJaeTJrUk84V1AtMldqbnp1THV5NmdEcGVQYllwSkRuMVR1cVRKSk5zYTBmT1h4Z1dseDcxNjIyNzBabEdTVGR4MmpVSmVKSFNJTmNSZXQ1YzRQN0FMSGcxcjlzMnZuQzNRbkh6SE8yU3pqQ2p0R2EwOFUzSllRY1E?oc=5",
-      "publishedAt": "2026-02-25T23:52:52.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 63,
-      "qualityLabel": "ok",
-      "qualityReason": "제목과 텍스트가 일치하며, 내용이 명확함. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-02-26_7",
-      "date": "2026-02-26",
-      "category": "국제",
-      "title": "섀도 AI·데이터 유출 통제하는 글로벌 AI 규제 대응 거버넌스 체계",
-      "summary": [
-        "지티티코리아는 섀도 AI와 데이터 유출을 통제하는 글로벌 AI 규제 대응 거버넌스 체계를 발표했다."
-      ],
-      "whyImportant": "AI 규제 준수 및 데이터 보안 강화",
-      "importanceRationale": "근거: 섀도 AI와 데이터 유출 통제는 기업의 규제 준수 및 보안에 중요한 영향을 미치기 때문.",
-      "impactSignals": [
-        {
-          "label": "policy",
-          "evidence": "글로벌 AI 규제 대응 거버넌스 체계 관련 정책적 중요성"
-        }
-      ],
-      "dedupeKey": "shadow-ai-data-governance",
-      "clusterKey": "거버넌스",
-      "matchedTo": null,
-      "sourceName": "지티티코리아",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9kRHBjR2U1S25qM1VnZC00R2hpN18yaEhyMmsySEhqUUFFNGpUNXZIYXowampOa19xREpKR2tDSi1KWFcwRkxMdWhYamduQm81U1hVcndxVTN3WThkbDZ6Mks1bTFOMzVVVFE?oc=5",
-      "publishedAt": "2026-02-19T22:00:00.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 4,
-      "importanceRaw": 75,
-      "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 정보가 명확함.",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-02-26_8",
-      "date": "2026-02-26",
       "category": "국제",
       "title": "알리안츠, 174억 유로의 기록적인 영업 이익 달성 - 새로운 전략적 사이클의 훌륭한 시작",
       "summary": [
         "알리안츠가 새로운 전략적 사이클의 시작과 함께 174억 유로의 기록적인 영업 이익을 달성했습니다."
       ],
-      "whyImportant": "알리안츠의 기록적인 영업 이익은 회사의 재정적 건전성과 전략적 방향성을 보여줍니다.",
-      "importanceRationale": "근거: 알리안츠의 기록적인 영업 이익은 회사의 수익성과 성장 잠재력을 나타내는 중요한 지표입니다.",
-      "impactSignals": [],
-      "dedupeKey": "Allianz_record_profit_20240110",
+      "whyImportant": "알리안츠의 기록적인 영업 이익은 회사의 성장과 안정성을 보여주는 중요한 지표입니다.",
+      "importanceRationale": "근거: 알리안츠의 기록적인 영업 이익은 회사의 재무 건전성과 시장 경쟁력을 강화하며, 투자자와 고객에게 긍정적인 신호를 보냅니다.",
+      "impactSignals": [
+        {
+          "label": "earnings",
+          "evidence": "17.4 billion euros record operating profit"
+        }
+      ],
+      "dedupeKey": "Allianz_record_profit_2024",
       "clusterKey": "achieves",
       "matchedTo": null,
       "sourceName": "Allianz.com",
@@ -230,26 +184,26 @@
       "publishedAt": "2026-02-26T06:11:08.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 2,
+      "importance": 4,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "The article provides a clear and concise statement of facts. / 근거부족",
+      "qualityReason": "The article provides a clear and concise summary of Allianz's financial performance.",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-02-26_9",
+      "id": "2026-02-26_7",
       "date": "2026-02-26",
       "category": "에너지",
       "title": "데이터 센터 전력 수요 증가가 에너지 비용 상승에 기여",
       "summary": [
         "데이터 센터의 전력 수요가 증가하면서 에너지 비용 상승의 원인이 되고 있습니다.",
-        "Environmental and Energy Study Institute (EESI)에 따르면 데이터 센터의 전력 사용량이 증가하고 있습니다."
+        "이는 환경 및 에너지 연구소(EESI)의 연구 결과에서 밝혀졌습니다."
       ],
-      "whyImportant": "데이터 센터의 전력 소비 증가는 에너지 시장과 소비자에게 영향을 미치므로 중요합니다.",
-      "importanceRationale": "근거: 데이터 센터의 전력 수요 증가는 에너지 비용 상승을 유발하며, 이는 정책 및 설비 투자에 영향을 미칠 수 있습니다.",
+      "whyImportant": "데이터 센터의 에너지 소비 증가는 에너지 정책 및 관련 산업 투자에 영향을 미칩니다.",
+      "importanceRationale": "근거: 데이터 센터의 전력 수요 증가는 에너지 비용 상승을 야기하며, 이는 정책 및 설비 투자에 대한 고려를 필요로 합니다.",
       "impactSignals": [],
-      "dedupeKey": "data_center_power_demand_energy_bills",
+      "dedupeKey": "datacenter_power_demand_energy_bills",
       "clusterKey": "에너지/bills",
       "matchedTo": null,
       "sourceName": "Environmental and Energy Study Institute (EESI)",
@@ -265,62 +219,88 @@
       "isBreaking": false
     },
     {
-      "id": "2026-02-26_10",
+      "id": "2026-02-26_8",
+      "date": "2026-02-26",
+      "category": "경제",
+      "title": "트럼프 대통령의 '요금 납부자 보호 서약'이 오하이오 데이터 센터의 전기 요금 상승을 억제할 수 있을까?",
+      "summary": [
+        "트럼프 대통령의 '요금 납부자 보호 서약'이 오하이오 데이터 센터의 전기 요금 상승을 억제할 수 있을지 주목된다.",
+        "데이터 센터의 전력 소비 증가로 인해 전기 요금 인상에 대한 우려가 제기되고 있다."
+      ],
+      "whyImportant": "오하이오 데이터 센터의 전기 요금 상승에 대한 해결책 모색의 필요성.",
+      "importanceRationale": "근거: 데이터 센터의 전력 소비 증가는 오하이오 지역의 전기 요금 상승을 야기할 수 있으며, 이는 지역 경제에 영향을 미칠 수 있기 때문이다.",
+      "impactSignals": [],
+      "dedupeKey": "trump_ohio_electric_bills",
+      "clusterKey": "pledges",
+      "matchedTo": null,
+      "sourceName": "WCPO 9 Cincinnati",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQS3VMMnhhTk9aS1ljYW1wT3pBYTNZczVkUk9KbENVeFhRRGR6eHo2d0pmTy1tamFIMjRQWXRUMnN5aDZBbHNpdkFaR2hnMVdmREI1dURVS2pLNUxUeHBReTRsSVJaeTJrUk84V1AtMldqbnp1THV5NmdEcGVQYllwSkRuMVR1cVRKSk5zYTBmT1h4Z1dseDcxNjIyNzBabEdTVGR4MmpVSmVKSFNJTmNSZXQ1YzRQN0FMSGcxcjlzMnZuQzNRbkh6SE8yU3pqQ2p0R2EwOFUzSllRY1E?oc=5",
+      "publishedAt": "2026-02-25T23:52:52.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 50,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 본문이 일치하며, 간결하게 요약됨. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-02-26_9",
       "date": "2026-02-26",
       "category": "국제",
-      "title": "트럼프 정부, 무역 흑자국에 대해 15%의 임시 관세 선택적 인상 가능성",
+      "title": "미국, 글로벌 관세 일부 국가에 15% 인상… 국가별 차등 적용 시사",
       "summary": [
-        "트럼프 정부는 무역 흑자국을 대상으로 15%의 임시 관세를 선택적으로 인상할 가능성이 있습니다.",
-        "이는 미국과 무역 흑자를 내는 국가들에 대한 잠재적 무역 압력으로 작용할 수 있습니다."
+        "미국이 글로벌 관세를 일부 국가에 대해 15%까지 인상할 계획이다.",
+        "국가별로 차등 적용될 가능성이 시사되었다."
       ],
-      "whyImportant": "미국 무역 정책의 잠재적 변화를 시사합니다.",
-      "importanceRationale": "근거: 트럼프 정부가 무역 흑자국에 대한 관세 인상을 고려하고 있다는 정보는 미국의 무역 정책 방향에 중요한 변화가 있을 수 있음을 나타냅니다.",
+      "whyImportant": "미국의 관세 정책 변화는 국제 무역 관계에 중요한 영향을 미칠 수 있다.",
+      "importanceRationale": "근거: 미국의 관세 인상 결정은 해당 국가의 경제 및 무역에 직접적인 영향을 미치며, 다른 국가들의 정책 결정에도 영향을 줄 수 있기 때문이다.",
       "impactSignals": [],
-      "dedupeKey": "트럼프 정부, 무역흑자국 상대로 임시관세 15% 선택적 인상",
-      "clusterKey": "무역흑자국",
+      "dedupeKey": "global_tariff_increase_us",
+      "clusterKey": "국가",
       "matchedTo": null,
       "sourceName": "한국경제",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1nd2RmVEg2TTJfZU5rVUJWQnhybFBnaWNvUUQyZllwZldTdll2a1Q4Y19tRldaQkh5SHVReTNaT0lLN29EcTBWX2lWU2hmN3FuNzRBc3Vqdmx5UdIBVEFVX3lxTFBCcWVMTXltY25taGFGc1AyeVJKR3ZvYjVneDJ4Rkhnam84bVdNTUNhZDAtbl9tYXhEeFA3NDVNTjhlMEZOM1lZRG80VHd4V1V6aGlXUA?oc=5",
-      "publishedAt": "2026-02-26T07:50:12.000Z",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE52M1U0Vko5M2QzN0hmOFk1SHBDT0NmUU10U2dlc3RHcmktSW9IbGQtN0lTS0hoM0MxTjU2a2JWcUZGOEdYZTVhb1JpMUg4NUVWTXZydGUtYzFfUdIBVEFVX3lxTE1ELVdEekpCazFDUndiMjRzLXhzRnF6RlVhbDdaRXVhcWwySUpnUTNCejdGMkpiZW5HWkFKeXdaSnNPNGt6bjloVm80T2tfOHpocVlRUw?oc=5",
+      "publishedAt": "2026-02-26T08:30:40.000Z",
       "readTimeSec": 10,
       "status": "kept",
       "importance": 2,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 내용이 일치하며, 간결하게 요약되어 있습니다. / 근거부족",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되어 있음. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-02-26_10",
+      "date": "2026-02-26",
+      "category": "기술",
+      "title": "아마존의 500억 달러 OpenAI 투자, IPO 또는 AGI에 달려있을 수 있다고 The Information이 보도",
+      "summary": [
+        "아마존의 OpenAI에 대한 500억 달러 투자는 OpenAI의 IPO 또는 AGI 달성에 따라 결정될 수 있다고 The Information이 보도했습니다.",
+        "이는 아마존의 투자 결정이 OpenAI의 미래 성과와 밀접하게 연관되어 있음을 시사합니다."
+      ],
+      "whyImportant": "아마존의 대규모 투자는 AI 기술 경쟁에 중요한 영향을 미칠 수 있습니다.",
+      "importanceRationale": "근거: 아마존의 500억 달러 투자는 OpenAI의 성장과 AI 기술 개발에 상당한 영향을 줄 수 있으며, 이는 전체 AI 산업의 경쟁 구도에 변화를 가져올 수 있기 때문입니다.",
+      "impactSignals": [],
+      "dedupeKey": "amazon-openai-50b-ipo-agi",
+      "clusterKey": "agi",
+      "matchedTo": null,
+      "sourceName": "Reuters",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNTm1zSjVsay1FbWRsYmRDbUxwWTJGRGR5ZzVzaVJ2d21VQ0Y3VnNNMFFEeVZkR2Y5Vmx0eEVwOUU0cWE1UDIwY3BCUkZ5SFJJazlmdkhETHMycVJYSmJGblZ2ZDdUeldTdjNlUm12NktPajdrX2RZMl9TR2QxSUdGclJsVi1zV2UxenFaXzBsR0liYVFIVHlsOE9jX01IREtVMnlfcUNRYW1XYmE2eTR5eDVvazZhRWNtMWp1eUhzVHRaLUNoR2ZHR2E0THZvUGhtM3o0SE1Eb1o?oc=5",
+      "publishedAt": "2026-02-26T02:05:00.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 75,
+      "qualityLabel": "ok",
+      "qualityReason": "기사 제목과 내용이 일치하며, 정보가 간결하게 요약되어 있습니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-02-26_11",
-      "date": "2026-02-26",
-      "category": "기술",
-      "title": "Thrive Capital, OpenAI에 약 10억 달러 투자, 기업 가치 2,850억 달러로 평가",
-      "summary": [
-        "Thrive Capital이 OpenAI에 약 10억 달러를 투자했습니다.",
-        "OpenAI의 기업 가치는 2,850억 달러로 평가되었습니다.",
-        "CNBC에 소식통이 밝혔습니다."
-      ],
-      "whyImportant": "OpenAI에 대한 대규모 투자는 인공지능 분야에 대한 투자자들의 높은 관심을 보여줍니다.",
-      "importanceRationale": "근거: Thrive Capital의 대규모 투자는 OpenAI의 성장 가능성에 대한 강력한 지표이며, 이는 인공지능 기술 발전과 시장 경쟁에 중요한 영향을 미칠 수 있습니다.",
-      "impactSignals": [],
-      "dedupeKey": "Thrive Capital invests 1 billion USD in OpenAI",
-      "clusterKey": "금융/about",
-      "matchedTo": null,
-      "sourceName": "CNBC",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMifkFVX3lxTE81QUoyR2g4NXV2MDk0N0g3Z3I4QnpzUlo1ZmE3OElvZkhPMmRoajVNWkxPTXBxWmtwLUdwdjlOd0l2Y29PUmJvWXRFTkYzVFJvSVJrQ21qZnpfSTFZOEhZcC1qN2xCaDBNN3dvWEdfWjQ1VG5kd3VVY0ZXTERPd9IBgwFBVV95cUxPWXRkTnJta1NUeUVxLTFlWl9zS3JZX29LSzZ3MnNGTUJvZ2hKZzB5OElRTlFIaXBMNjFLLTdPWF9veFBfLU9YMUFyUTFSRVJJX3ZaLU90WGFUVUpiRGZyNXpNVDFnVW5IVEQ5VUdyb1ZpV3RfajVia1d3RGFwNWpkX3lpYw?oc=5",
-      "publishedAt": "2026-02-25T18:36:09.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 75,
-      "qualityLabel": "ok",
-      "qualityReason": "기사 내용이 간결하고 명확하며, 출처가 분명합니다. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-02-26_12",
       "date": "2026-02-26",
       "category": "경제",
       "title": "엔비디아 분기 매출 98조 원, HBM 수요에 삼성·SK도 수혜 기대",
@@ -328,15 +308,15 @@
         "엔비디아가 분기 매출 98조 원을 기록했다.",
         "HBM(고대역폭메모리) 수요 증가로 삼성과 SK도 수혜를 볼 것으로 예상된다."
       ],
-      "whyImportant": "엔비디아의 실적은 반도체 산업 전반에 대한 중요한 지표이며, HBM 수요 증가는 국내 기업에 긍정적인 영향을 미칠 수 있다.",
-      "importanceRationale": "근거: 엔비디아의 매출 규모와 HBM 수요에 따른 삼성, SK의 수혜 기대는 반도체 시장의 동향을 파악하는 데 중요한 정보이다.",
+      "whyImportant": "엔비디아의 실적은 반도체 산업 전반에 대한 중요한 지표가 되며, HBM 수요 증가는 관련 기업들의 성장 가능성을 시사한다.",
+      "importanceRationale": "근거: 엔비디아의 매출 증가는 AI 반도체 시장의 성장과 직결되며, HBM 수요 증가는 삼성과 SK하이닉스 등 관련 기업의 실적에 긍정적인 영향을 미칠 수 있기 때문이다.",
       "impactSignals": [
         {
           "label": "earnings",
           "evidence": "엔비디아의 분기 매출 98조 원 달성"
         }
       ],
-      "dedupeKey": "nvidia-98t-krw-hbm",
+      "dedupeKey": "nvidia_kr_20240524",
       "clusterKey": "반도체/98조원",
       "matchedTo": null,
       "sourceName": "스트레이트뉴스",
@@ -352,18 +332,45 @@
       "isBreaking": false
     },
     {
+      "id": "2026-02-26_12",
+      "date": "2026-02-26",
+      "category": "정책",
+      "title": "국회, 국민의힘 추천 천영식 방미통신위원 임명 부결",
+      "summary": [
+        "국회 본회의에서 국민의힘이 추천한 천영식 방송통신위원회 위원 임명안이 부결되었습니다.",
+        "이번 표결 결과는 정치권에 상당한 영향을 미칠 것으로 예상됩니다."
+      ],
+      "whyImportant": "방송통신위원 임명 부결은 정책 결정에 영향을 미칩니다.",
+      "importanceRationale": "근거: 국회 본회의에서 방통위원 임명이 부결됨으로써, 관련 정책 결정 및 방송통신위원회의 구성에 차질이 예상됩니다.",
+      "impactSignals": [],
+      "dedupeKey": "20240618-국회-방미통신위원-부결",
+      "clusterKey": "국회",
+      "matchedTo": null,
+      "sourceName": "한국경제",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBlb3k2T3lrVzR6UmhpankyRHhXM2ZrYTlweV82a1gzTEtWVFJQdHYwbE92RGpHajZMTGFfQ0p5aW9TVkdtSU8yTU1Db1ZLQWlxLVVlbjV0YUJuUdIBVEFVX3lxTE1fRE0ydUF5ODFBTVRQRjlPVktxNUVrX3VfdlZTb1l0SzcyaFM0RThPSzlQeXEzUXBsX1B3UEp3emlLMjcyb0FwMDNJb3ZUN2NGUU03TA?oc=5",
+      "publishedAt": "2026-02-26T09:16:06.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 63,
+      "qualityLabel": "ok",
+      "qualityReason": "기사 내용이 간결하고 명확하게 전달됨 / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
       "id": "2026-02-26_13",
       "date": "2026-02-26",
       "category": "기술",
       "title": "DNPA 콘클라베 2026: AI, 정책 변화 및 플랫폼 변화가 디지털 뉴스 미래를 재구성",
       "summary": [
-        "DNPA 콘클라베 2026에서는 AI, 정책 변화, 플랫폼 변화가 디지털 뉴스 미래를 재구성하는 모습이 논의되었습니다.",
-        "이 행사는 디지털 뉴스 산업의 주요 변화를 조명했습니다."
+        "DNPA 콘클라베 2026에서는 AI, 정책 변화, 플랫폼 변화가 디지털 뉴스 미래를 재구성하는 방안이 논의될 예정입니다.",
+        "이 행사는 Times of India에서 주최합니다."
       ],
       "whyImportant": "디지털 뉴스 산업의 미래 방향을 제시합니다.",
-      "importanceRationale": "근거: DNPA 콘클라베 2026에서 논의된 AI, 정책 변화, 플랫폼 변화는 디지털 뉴스 산업의 중요한 변혁을 의미합니다.",
+      "importanceRationale": "근거: AI, 정책 변화, 플랫폼 변화가 디지털 뉴스 산업에 미치는 영향을 포괄적으로 다루기 때문입니다.",
       "impactSignals": [],
-      "dedupeKey": "DNPAConclave2026_AIDigitalNews",
+      "dedupeKey": "DNPAConclave2026_AI_policy",
       "clusterKey": "changes",
       "matchedTo": null,
       "sourceName": "The Times of India",
@@ -374,24 +381,23 @@
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 내용이 일치하며, 정보가 명확합니다. / 근거부족",
+      "qualityReason": "제목과 본문이 일치하며, 정보가 명확합니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-02-26_14",
       "date": "2026-02-26",
-      "category": "기술",
-      "title": "빅테크 기업들, 백악관에서 트럼프와 데이터 센터 전력 비용 서약 체결 예정",
+      "category": "경제",
+      "title": "빅테크 기업, 백악관에서 트럼프 대통령과 데이터 센터 전력 비용 서약 체결 예정",
       "summary": [
-        "빅테크 기업들이 백악관에서 트럼프 대통령과 만나 데이터 센터 전력 비용에 대한 서약을 체결할 예정이다.",
-        "CNBC에 따르면 이번 서약은 데이터 센터의 전력 사용 효율성을 높이는 데 초점을 맞추고 있다.",
-        "참여 기업 및 구체적인 서약 내용은 아직 공개되지 않았다."
+        "빅테크 기업들이 백악관에서 트럼프 대통령을 만나 데이터 센터 전력 비용에 대한 서약을 체결할 예정이다.",
+        "CNBC에 따르면 이번 회의는 데이터 센터 운영 비용 절감을 위한 노력의 일환으로 보인다."
       ],
-      "whyImportant": "데이터 센터의 전력 비용 절감 및 효율성 증대 가능성",
-      "importanceRationale": "근거: 데이터 센터는 막대한 전력을 소비하므로, 전력 비용 절감은 기업의 수익성 개선에 기여할 수 있다. 또한, 전력 효율성 증대는 환경 보호에도 긍정적인 영향을 미칠 수 있다.",
+      "whyImportant": "데이터 센터의 전력 비용 절감은 빅테크 기업의 수익성에 큰 영향을 미칠 수 있다.",
+      "importanceRationale": "근거: 데이터 센터 운영 비용 중 전력 비용이 상당 부분을 차지하며, 이는 기업의 투자 결정과 직결될 수 있다.",
       "impactSignals": [],
-      "dedupeKey": "bigtech_trump_datacenter_powerpledge",
+      "dedupeKey": "bigtech-trump-datacenter-powerpledge",
       "clusterKey": "에너지/big",
       "matchedTo": null,
       "sourceName": "CNBC",
@@ -402,35 +408,35 @@
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약됨. / 근거부족",
+      "qualityReason": "기사 제목과 내용이 일치하며, 핵심 내용을 잘 반영하고 있다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-02-26_15",
       "date": "2026-02-26",
-      "category": "정책",
-      "title": "정부, AI 학습 공정 이용 기준 제시: 오픈 논문 학습은 가능, 뉴스 무단 크롤링은 불가",
+      "category": "기술",
+      "title": "Thrive Capital, OpenAI에 약 10억 달러 투자, 기업 가치 2,850억 달러로 평가",
       "summary": [
-        "정부가 인공지능(AI) 학습 데이터의 공정 이용 기준을 제시했다.",
-        "오픈 액세스 논문 학습은 허용되지만, 뉴스 무단 크롤링은 금지된다.",
-        "이번 기준은 AI 기술 발전과 저작권 보호 사이의 균형을 맞추기 위한 것이다."
+        "Thrive Capital이 OpenAI에 약 10억 달러를 투자했습니다.",
+        "OpenAI의 기업 가치는 2,850억 달러로 평가되었습니다.",
+        "CNBC가 소식통을 인용하여 보도했습니다."
       ],
-      "whyImportant": "AI 학습 데이터 이용에 대한 명확한 기준을 제시하여 관련 산업 발전에 영향을 미치므로 중요합니다.",
-      "importanceRationale": "근거: 정부가 AI 학습 데이터의 공정 이용 기준을 제시함으로써, AI 개발자와 저작권자 간의 불확실성을 해소하고, AI 산업의 건전한 발전을 도모할 수 있습니다.",
+      "whyImportant": "OpenAI에 대한 대규모 투자는 인공지능 분야에 대한 투자자들의 높은 관심을 반영합니다.",
+      "importanceRationale": "근거: Thrive Capital의 대규모 투자는 OpenAI의 성장 잠재력에 대한 강력한 지지를 나타내며, 이는 인공지능 산업 전반에 긍정적인 영향을 미칠 수 있습니다.",
       "impactSignals": [],
-      "dedupeKey": "AI 학습 공정 이용 기준 제시",
-      "clusterKey": "가능",
+      "dedupeKey": "Thrive Capital invests 1B in OpenAI at 285B valuation",
+      "clusterKey": "금융/about",
       "matchedTo": null,
-      "sourceName": "전자신문",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1EcXo2SVlubXVNdGZ5NXFsQWpza3NtOVNNLUlqUTNFVkdiY2Z5UEF0LURpdG1RVk9vMDQxbE5nUm1JWUpRNDRqYTlhNWs?oc=5",
-      "publishedAt": "2026-02-26T04:41:35.000Z",
+      "sourceName": "CNBC",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMifkFVX3lxTE81QUoyR2g4NXV2MDk0N0g3Z3I4QnpzUlo1ZmE3OElvZkhPMmRoajVNWkxPTXBxWmtwLUdwdjlOd0l2Y29PUmJvWXRFTkYzVFJvSVJrQ21qZnpfSTFZOEhZcC1qN2xCaDBNN3dvWEdfWjQ1VG5kd3VVY0ZXTERPd9IBgwFBVV95cUxPWXRkTnJta1NUeUVxLTFlWl9zS3JZX29LSzZ3MnNGTUJvZ2hKZzB5OElRTlFIaXBMNjFLLTdPWF9veFBfLU9YMUFyUTFSRVJJX3ZaLU90WGFUVUpiRGZyNXpNVDFnVW5IVEQ5VUdyb1ZpV3RfajVia1d3RGFwNWpkX3lpYw?oc=5",
+      "publishedAt": "2026-02-25T18:36:09.000Z",
       "readTimeSec": 10,
       "status": "kept",
       "importance": 2,
-      "importanceRaw": 75,
+      "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "기사의 내용이 명확하고 간결하며, 정책 발표에 대한 정보를 제공합니다. / 근거부족",
+      "qualityReason": "기사 내용이 간결하고 명확하며, 출처가 분명합니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -444,9 +450,9 @@
         "이에 따라 발전기 가동을 중단하고 낮 시간대 전력 사용을 장려할 계획임."
       ],
       "whyImportant": "전력 수요 감소에 따른 에너지 정책 변화를 시사.",
-      "importanceRationale": "근거: 전력 수요 감소는 에너지 시장 및 관련 산업에 영향을 미치며, 정부의 에너지 정책 방향 전환을 가속화할 수 있음.",
+      "importanceRationale": "근거: 전력 수요 감소는 발전 설비 운영 및 에너지 소비 패턴에 직접적인 영향을 미치며, 관련 시장 및 정책 결정에 중요한 고려 사항임.",
       "impactSignals": [],
-      "dedupeKey": "spring_power_demand_lowest",
+      "dedupeKey": "봄 전력수요 역대 최저 전망…발전기 끄고 낮 시간대 사용 독려",
       "clusterKey": "끄고",
       "matchedTo": null,
       "sourceName": "마켓인",
@@ -457,7 +463,7 @@
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 간결하게 요약됨. / 근거부족",
+      "qualityReason": "제목과 본문이 일치하며, 정보가 간결하게 요약됨. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -468,12 +474,12 @@
       "title": "엔비디아, AI 거품론 속에서도 역대 최고 실적 달성",
       "summary": [
         "엔비디아가 AI 거품 논란 속에서도 역대 최고 실적을 기록했습니다.",
-        "전망치를 상회하는 놀라운 성과를 보여줬습니다."
+        "전망치를 상회하는 실적을 발표했습니다."
       ],
-      "whyImportant": "엔비디아의 실적은 AI 산업의 성장 가능성을 시사합니다.",
-      "importanceRationale": "근거: 엔비디아가 AI 거품론에도 불구하고 최고 실적을 달성하며 시장의 기대치를 뛰어넘었습니다.",
+      "whyImportant": "엔비디아의 실적은 AI 산업의 성장세를 보여주는 중요한 지표입니다.",
+      "importanceRationale": "근거: 엔비디아는 AI 반도체 시장을 선도하는 기업이며, 실적은 전체 AI 산업에 대한 투자 심리에 영향을 미칩니다.",
       "impactSignals": [],
-      "dedupeKey": "nvidia_record_earnings_2024",
+      "dedupeKey": "nvidia-record-earnings-2024",
       "clusterKey": "거품론",
       "matchedTo": null,
       "sourceName": "연합뉴스TV",
@@ -484,7 +490,7 @@
       "importance": 2,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "기사에 정보가 명확하게 드러나 있습니다. / 근거부족",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 핵심 내용을 전달합니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -495,10 +501,10 @@
       "title": "금융보안원, 금융권 SW 보안 취약점 신고 포상제 실시",
       "summary": [
         "금융보안원이 금융권 SW 보안 취약점 신고 포상제를 실시합니다.",
-        "이는 금융권의 소프트웨어 보안을 강화하기 위한 조치입니다."
+        "이는 금융권 소프트웨어의 보안을 강화하기 위한 조치입니다."
       ],
-      "whyImportant": "금융권 SW의 보안 취약점을 사전에 발견하고 개선하여 금융 시스템의 안전성을 높이는 데 기여합니다.",
-      "importanceRationale": "근거: 금융보안원이 금융권 SW 보안 취약점 신고 포상제를 실시함으로써, 보안 취약점 발견 및 개선을 장려하고 금융 시스템의 보안을 강화할 수 있습니다.",
+      "whyImportant": "금융권 SW의 보안 취약점을 개선하여 금융 시스템의 안전성을 높일 수 있습니다.",
+      "importanceRationale": "근거: 금융보안원이 금융권 SW 보안 취약점 신고 포상제를 실시함으로써 보안 취약점 발견 및 개선을 장려하고 있습니다.",
       "impactSignals": [],
       "dedupeKey": "금융보안원, 금융권 SW 보안 취약점 신고 포상제 실시",
       "clusterKey": "금융권",
@@ -509,52 +515,25 @@
       "readTimeSec": 10,
       "status": "kept",
       "importance": 2,
-      "importanceRaw": 75,
+      "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "기사에 정보가 명확하게 제시되어 있습니다. / 근거부족",
+      "qualityReason": "기사 내용이 명확하고 간결합니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-02-26_19",
       "date": "2026-02-26",
-      "category": "경제",
-      "title": "한은, 기준금리 6회 연속 동결...내년 성장률 2% 전망",
-      "summary": [
-        "한국은행은 기준금리를 6회 연속 동결했습니다.",
-        "내년 성장률은 2%로 전망됩니다."
-      ],
-      "whyImportant": "한국은행의 금리 동결 결정과 향후 경제 성장률 전망을 보여줍니다.",
-      "importanceRationale": "근거: 한국은행의 기준금리 결정은 금융 시장과 경제 전반에 중요한 영향을 미치며, 성장률 전망은 경제 상황을 파악하는 데 중요한 지표가 됩니다.",
-      "impactSignals": [],
-      "dedupeKey": "20240516_한은, 기준금리 6연속 동결...내년 성장률은 2% 전망",
-      "clusterKey": "6연속",
-      "matchedTo": null,
-      "sourceName": "한국경제",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE41WTJvdTgyb1V5OEJ1di1wcnV0X2RkckUwZk1qc01ReTd2SGJwZlhRWVhnczA0eHFReVRzbEFncVhOaDR0LUdFN05aOUlJbVFKekhKamJlcU9QUdIBVEFVX3lxTE9qc0VmNjI4V0RTa0x5bV9pcVVaNVFzazNQVDdQVWJIeXVURDQ0M1lPOUZrcUtyeF9icEFOYmdDaUpvNjhOV253bWJ5UmNJVnNBWnZTRQ?oc=5",
-      "publishedAt": "2026-02-26T03:28:44.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 63,
-      "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 내용이 일치하며, 핵심 정보를 간결하게 제공합니다. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-02-26_20",
-      "date": "2026-02-26",
       "category": "기술",
-      "title": "우주 공급망, 확장되다. 이것이 미 국방부 계획에 미치는 영향",
+      "title": "우주 공급망, 확장되다. 이것이 미국 국방부의 계획에 미치는 영향.",
       "summary": [
         "우주 공급망이 확장되고 있습니다.",
-        "이는 미 국방부의 계획에 영향을 미칠 수 있습니다."
+        "이는 미국 국방부의 계획에 영향을 미칠 수 있습니다."
       ],
-      "whyImportant": "우주 공급망의 확장은 국방 계획에 차질을 줄 수 있기 때문입니다.",
-      "importanceRationale": "근거: 우주 공급망의 문제는 국방 관련 우주 프로젝트의 지연이나 비용 증가로 이어질 수 있습니다.",
+      "whyImportant": "우주 공급망의 확장이 국방 계획에 미치는 영향 분석",
+      "importanceRationale": "근거: 우주 공급망의 변화는 국방 전략 및 자원 배분에 중요한 영향을 미칠 수 있기 때문입니다.",
       "impactSignals": [],
-      "dedupeKey": "space_supply_chain_pentagon_20240126",
+      "dedupeKey": "space_supply_chain_pentagon_plans",
       "clusterKey": "chain",
       "matchedTo": null,
       "sourceName": "Breaking Defense",
@@ -563,9 +542,9 @@
       "readTimeSec": 10,
       "status": "kept",
       "importance": 2,
-      "importanceRaw": 50,
+      "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 내용이 일치하며, 간결하게 요약되었습니다. / 근거부족",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었습니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": true
     }
