@@ -3,26 +3,48 @@
   "selectionCriteria": "① 내일도 영향이 남는 이슈 ② 과도한 감정 소모 제외 ③ 어제와 중복되는 뉴스 제외",
   "editorNote": "이 뉴스는 클릭 수가 아니라 오늘 이후에도 남는 정보만 기준으로 편집했습니다.",
   "question": "정보를 덜 보는 것이 오히려 더 똑똑한 소비일까?",
-  "lastUpdatedAt": "2026-02-27T05:34:38.468+09:00",
+  "lastUpdatedAt": "2026-02-27T06:29:46.239+09:00",
   "items": [
     {
       "id": "2026-02-27_1",
       "date": "2026-02-27",
       "category": "경제",
+      "title": "IMF, 올해 미국 금리 1회 인하 전망…관세 효과는 부정적",
+      "summary": [
+        "IMF는 올해 미국 금리 인하가 1회 있을 것으로 전망했다.",
+        "또한 관세 효과에 대해서는 부정적으로 평가했다."
+      ],
+      "whyImportant": "IMF의 미국 금리 인하 전망과 관세 효과에 대한 평가는 향후 경제 정책 결정에 중요한 영향을 미칠 수 있습니다.",
+      "importanceRationale": "근거: IMF의 전망은 투자 및 경제 활동에 대한 지침을 제공하며, 관세 효과에 대한 평가는 무역 정책 방향 설정에 영향을 줄 수 있기 때문입니다.",
+      "impactSignals": [],
+      "dedupeKey": "IMF_US_Interest_Rate_Cut_2024",
+      "clusterKey": "1회",
+      "matchedTo": null,
+      "sourceName": "연합뉴스 한민족센터",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMidEFVX3lxTE90R29McUs5bm1YODZkX29MaHo4Ump4Wm9DX1V2WWg5M0U5QVJhZ2F6VXRhYXc5NVpWdkVEbTRjVWd4ZmNCcXk4UFQyVWJJXzZ3SUgyQ054OEp4VC1MakZ1Wjdsc0NaMzA3Tk1BWUlDM1owQ3dC?oc=5",
+      "publishedAt": "2026-02-26T21:01:57.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 75,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 본문이 일치하며, 간결하게 요약되었습니다. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-02-27_2",
+      "date": "2026-02-27",
+      "category": "경제",
       "title": "조지아 파워, 데이터 센터 급증에 따라 220억 달러 규모 확장 계획",
       "summary": [
-        "조지아 파워는 데이터 센터 수요 급증에 따라 220억 달러 규모의 확장 계획을 발표했습니다.",
-        "이번 확장은 조지아주의 전력 인프라를 크게 강화할 것으로 예상됩니다."
+        "조지아 파워는 데이터 센터 수요 증가에 따라 220억 달러 규모의 확장을 계획하고 있다.",
+        "이번 확장은 조지아주의 전력 인프라를 크게 강화할 것으로 예상된다."
       ],
-      "whyImportant": "데이터 센터 수요 증가에 따른 전력 인프라 투자를 보여주는 사례입니다.",
-      "importanceRationale": "근거: 데이터 센터 증가는 전력 소비 증가를 야기하며, 이에 대한 전력 회사의 투자 계획은 관련 산업 및 정책에 중요한 영향을 미칩니다.",
-      "impactSignals": [
-        {
-          "label": "policy",
-          "evidence": "데이터 센터 확장에 따른 전력 인프라 투자 결정은 정부 정책 및 규제와 관련이 깊습니다."
-        }
-      ],
-      "dedupeKey": "georgia-power-22b-expansion-data-centers",
+      "whyImportant": "데이터 센터 수요 증가에 따른 조지아 파워의 대규모 확장 계획은 지역 경제와 전력 인프라에 중요한 영향을 미친다.",
+      "importanceRationale": "근거: 데이터 센터의 급증으로 인한 전력 수요 증가에 대응하기 위한 조지아 파워의 대규모 투자 계획은 정책적, 자본 지출 측면에서 중요한 변화를 의미한다.",
+      "impactSignals": [],
+      "dedupeKey": "georgia_power_22b_expansion_data_centers",
       "clusterKey": "에너지/billion",
       "matchedTo": null,
       "sourceName": "WJCL",
@@ -30,36 +52,10 @@
       "publishedAt": "2026-02-26T13:24:00.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 4,
-      "importanceRaw": 75,
-      "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 정보가 명확합니다.",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-02-27_2",
-      "date": "2026-02-27",
-      "category": "국제",
-      "title": "알리안츠, 174억 유로의 기록적인 영업 이익 달성 - 새로운 전략적 사이클의 훌륭한 시작",
-      "summary": [
-        "알리안츠가 새로운 전략적 사이클의 시작과 함께 174억 유로의 기록적인 영업 이익을 달성했습니다."
-      ],
-      "whyImportant": "알리안츠의 기록적인 영업 이익은 회사의 재정적 건전성과 전략적 방향성을 보여줍니다.",
-      "importanceRationale": "근거: 알리안츠의 기록적인 영업 이익은 회사의 수익성과 성장 잠재력을 시사하며, 이는 투자자와 시장에 중요한 신호입니다.",
-      "impactSignals": [],
-      "dedupeKey": "Allianz_record_profit_20240110",
-      "clusterKey": "achieves",
-      "matchedTo": null,
-      "sourceName": "Allianz.com",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeGhsanA0enBiUC04RVpucXhKSTJqVFJjTENhb2Qyamd2cnRPbFlQenZfTVlzMXBZajVJb19GYVl0Ym5PS2tKeXl6d3BtUjdVb0xva2E0NmtvUUJJamRYZlNlY2NZN2JmX200aWROZU1VQnJRQ1FEeGZwSEhPdU1FdzNLOFYxa003cjNyR3FETmEtcXJMdkNNVm1vck1fanZoTjRyZFRmaTA0Zw?oc=5",
-      "publishedAt": "2026-02-26T06:11:08.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
       "importance": 2,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "The article provides a clear and concise statement of facts. / 근거부족",
+      "qualityReason": "기사의 내용이 명확하고 간결하며, 핵심 정보를 잘 전달하고 있다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -67,19 +63,47 @@
       "id": "2026-02-27_3",
       "date": "2026-02-27",
       "category": "정책",
-      "title": "미국 주 정부, 데이터 센터 전기 요금 규제 목표. 일반 요금 인하 효과는 미미할 듯 - Straight Arrow News",
+      "title": "트럼프, AI 데이터 센터가 전기 요금을 인상하지 않을 것이라고 발언. 전문가들은 그의 주장이 실제로 집행 가능한지 설명",
       "summary": [
-        "미국 주 정부들이 데이터 센터의 전기 요금에 대한 규제를 강화하려 하고 있다.",
-        "Straight Arrow News에 따르면, 이러한 규제가 일반 가정의 전기 요금 인하로 이어지지는 않을 것으로 보인다."
+        "트럼프는 AI 데이터 센터가 전기 요금을 인상하지 않을 것이라고 주장했습니다.",
+        "전문가들은 트럼프의 주장이 실제로 집행 가능한지에 대해 의문을 제기합니다."
       ],
-      "whyImportant": "데이터 센터 전기 요금 규제 정책의 방향성을 보여주는 사례이다.",
-      "importanceRationale": "근거: 데이터 센터 전기 요금에 대한 주 정부의 정책적 움직임은 관련 산업 및 에너지 정책에 영향을 미칠 수 있기 때문이다.",
+      "whyImportant": "AI 데이터 센터의 전력 소비와 관련된 정책적 논의를 촉발할 수 있습니다.",
+      "importanceRationale": "근거: 트럼프 전 대통령의 발언은 AI 데이터 센터의 에너지 사용량 증가에 대한 우려를 반영하며, 이는 향후 관련 산업 규제 및 정책 결정에 영향을 미칠 수 있습니다.",
       "impactSignals": [
         {
-          "label": "policy",
-          "evidence": "주 정부의 데이터 센터 전기 요금 규제 시도"
+          "label": "capex",
+          "evidence": "데이터 센터 건설 및 운영 비용에 대한 논쟁을 야기할 수 있음"
         }
       ],
+      "dedupeKey": "trump-ai-data-centers-power-bills",
+      "clusterKey": "에너지/centers",
+      "matchedTo": null,
+      "sourceName": "inc.com",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQSGwzSUdFaEpPYTdGeXlFZTNyaklyLWxTUTJxc09XM2RYM0JFMGhCQTczQlZrZkIxLTB4b05tZjJ5dU5sa0xEdVliTURTeFkzOHUwQkM4cWkwNU9oeTNqWl9OZjRENW5GRlFzdGk5VUNhZWEzdFRxcllhVDNRX0REaEl1VHV2VTFHYmR0QXAxVlhEbmMzSWpNWTlSX0dpb0p0N3RJaTlMZFA4bEZJaGlMX0EyR05HTkFGeDlTQTVNZUZQUzJYWXM5Ulh2TG9LNmE2NU9lNzB6cUNaazVzdVRHSkFlRkU4QQ?oc=5",
+      "publishedAt": "2026-02-26T20:26:15.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 3.5,
+      "importanceRaw": 63,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 내용이 일치하며, 핵심 내용을 요약했습니다.",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-02-27_4",
+      "date": "2026-02-27",
+      "category": "정책",
+      "title": "미국 주들이 데이터 센터 전기 요금에 주목하는 이유",
+      "summary": [
+        "미국 주들이 데이터 센터의 전기 요금에 대한 조사를 진행하고 있습니다.",
+        "이는 데이터 센터의 높은 에너지 소비량 때문입니다.",
+        "하지만 이러한 조치가 일반 가정의 전기 요금 인하로 이어지지는 않을 것입니다."
+      ],
+      "whyImportant": "데이터 센터 전기 요금에 대한 주 정부의 정책적 움직임.",
+      "importanceRationale": "근거: 데이터 센터의 에너지 소비량 증가와 그에 따른 정책적 대응은 에너지 시장과 관련 산업에 영향을 미칠 수 있기 때문입니다.",
+      "impactSignals": [],
       "dedupeKey": "data_center_electric_rates_states",
       "clusterKey": "aim",
       "matchedTo": null,
@@ -88,26 +112,26 @@
       "publishedAt": "2026-02-26T19:00:00.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 3,
+      "importance": 2,
       "importanceRaw": 50,
       "qualityLabel": "ok",
-      "qualityReason": "기사 내용이 간결하고 명확함.",
+      "qualityReason": "기사 내용이 간결하고 명확합니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-02-27_4",
+      "id": "2026-02-27_5",
       "date": "2026-02-27",
       "category": "국제",
       "title": "미국, 이란 핵 협상 중 러시아-이란 연계 스위스 은행 제재 추진",
       "summary": [
-        "미국이 이란과의 핵 협상이 진행 중인 가운데 러시아-이란 연계 스위스 은행에 대한 제재를 추진하고 있다.",
-        "이번 제재는 러시아와 이란 간의 금융 연계를 차단하려는 미국의 의지를 보여주는 것으로 해석된다."
+        "미국이 이란과의 핵 협상이 진행 중인 가운데 러시아-이란 연계 스위스 은행에 대한 제재를 추진하고 있습니다.",
+        "이번 제재는 러시아와 이란 간의 금융 연결고리를 차단하려는 미국의 의지를 보여주는 것으로 해석됩니다."
       ],
-      "whyImportant": "미국의 제재 추진은 이란 핵 협상에 영향을 미칠 수 있으며, 러시아와 이란의 관계에도 변화를 가져올 수 있다.",
-      "importanceRationale": "근거: 미국의 제재 추진은 이란 핵 협상이라는 민감한 외교적 상황과 러시아-이란 관계라는 지정학적 요소를 동시에 포함하고 있어 중요도가 높다.",
+      "whyImportant": "미국이 이란 핵 협상 중에 러시아-이란 연계 은행을 제재하려는 이유는 무엇인가?",
+      "importanceRationale": "근거: 미국이 이란 핵 협상과 별개로 러시아와 이란의 연계를 차단하려는 정책적 의지를 드러내고 있기 때문입니다.",
       "impactSignals": [],
-      "dedupeKey": "미국, 이란 핵 협상 중 러시아-이란 연계 스위스 은행 제재 추진",
+      "dedupeKey": "20240118_이란 핵협상_러시아-이란 연계 스위스 은행 제재 추진",
       "clusterKey": "스위스은행",
       "matchedTo": null,
       "sourceName": "연합뉴스 한민족센터",
@@ -118,33 +142,7 @@
       "importance": 2,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 기사 내용이 일치하며, 간결하게 요약되어 있음. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-02-27_5",
-      "date": "2026-02-27",
-      "category": "국제",
-      "title": "이란, \"미국과의 협상에서 핵 및 제재 관련 중요하고 실질적인 제안\"",
-      "summary": [
-        "이란이 미국과의 협상에서 핵과 제재에 관련된 중요하고 실질적인 제안을 했다고 밝혔습니다."
-      ],
-      "whyImportant": "이란의 발표는 미국과의 핵 협상 재개 가능성을 시사합니다.",
-      "importanceRationale": "근거: 이란이 미국과의 협상에서 핵과 제재에 대한 제안을 했다는 직접적인 언급은 양국 관계 및 핵 합의 복원에 중요한 영향을 미칠 수 있습니다.",
-      "impactSignals": [],
-      "dedupeKey": "iran-nuclear-talks-proposal",
-      "clusterKey": "실질적",
-      "matchedTo": null,
-      "sourceName": "연합뉴스 한민족센터",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1LUlZOQjZuYUVMOFN0c3BMekQ3cE10Ni1QRkdwWjFld1hseHBzQmpGX2VxQzBLc2FRSVZLWm9sdHhVQnlKUFBrQnZDc2x5eEVaVFVjbjJlV3M1bG5LMk53SlBGcmptbkp3V0Z6Y0dmVmFLem1a?oc=5",
-      "publishedAt": "2026-02-26T14:46:42.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 75,
-      "qualityLabel": "ok",
-      "qualityReason": "기사의 내용이 간결하고 명확하며, 정보의 출처가 분명합니다. / 근거부족",
+      "qualityReason": "기사 내용이 간결하고 명확하며, 제목과 내용이 일치합니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -154,12 +152,13 @@
       "category": "국제",
       "title": "CVE-2026-20127: 시스코 SD-WAN 제로데이, 2023년부터 악용",
       "summary": [
-        "시스코 SD-WAN의 제로데이 취약점 CVE-2026-20127이 2023년부터 악용되고 있습니다."
+        "시스코 SD-WAN의 제로데이 취약점 CVE-2026-20127이 2023년부터 악용되고 있습니다.",
+        "SOC Prime에서 해당 내용을 발표했습니다."
       ],
-      "whyImportant": "시스코 SD-WAN 사용자에게 보안 업데이트가 중요합니다.",
-      "importanceRationale": "근거: 시스코 SD-WAN 제로데이 취약점이 2023년부터 악용되고 있다는 정보는 시스템 보안에 대한 즉각적인 조치가 필요함을 시사합니다.",
+      "whyImportant": "시스코 SD-WAN 사용자들은 보안 업데이트를 통해 시스템을 보호해야 합니다.",
+      "importanceRationale": "근거: 시스코 SD-WAN 제로데이 취약점이 실제 악용되고 있다는 정보는 시스템 보안에 대한 즉각적인 조치가 필요함을 시사합니다.",
       "impactSignals": [],
-      "dedupeKey": "CVE-2026-20127 Cisco SD-WAN zero-day exploited since 2023",
+      "dedupeKey": "CVE-2026-20127_Cisco_SD-WAN_Zero-day_Exploitation_Since_2023",
       "clusterKey": "2023년부터",
       "matchedTo": null,
       "sourceName": "SOC Prime",
@@ -178,14 +177,21 @@
       "id": "2026-02-27_7",
       "date": "2026-02-27",
       "category": "국제",
-      "title": "엔비디아 주가, 실망스러운 판매 전망에 하락",
+      "title": "엔비디아 주가, 판매 전망 실망감에 하락",
       "summary": [
-        "엔비디아 주가가 판매 전망이 투자자들을 실망시킨 후 하락했다."
+        "엔비디아 주가가 투자자들의 기대에 미치지 못하는 판매 전망으로 하락했다.",
+        "이는 시장 수요에 대한 우려를 반영한다.",
+        "자세한 내용은 야후 파이낸스에서 확인할 수 있다."
       ],
-      "whyImportant": "엔비디아의 주가 변동은 기술 산업 전반에 대한 투자 심리를 반영합니다.",
-      "importanceRationale": "근거: 엔비디아는 주요 기술 기업이며, 실적은 시장 전반에 영향을 미칠 수 있습니다.",
-      "impactSignals": [],
-      "dedupeKey": "nvidia-sales-forecast-underwhelms",
+      "whyImportant": "엔비디아의 주가 하락은 반도체 산업 전반에 대한 투자 심리에 영향을 줄 수 있다.",
+      "importanceRationale": "근거: 엔비디아는 반도체 산업의 주요 기업이며, 그 실적은 시장 전반의 수요를 나타내는 지표로 활용될 수 있다.",
+      "impactSignals": [
+        {
+          "label": "market-demand",
+          "evidence": "판매 전망 하향은 시장 수요에 대한 우려를 시사"
+        }
+      ],
+      "dedupeKey": "nvidia_shares_slide_after_sales_forecast_underwhelms_investors",
       "clusterKey": "after",
       "matchedTo": null,
       "sourceName": "Yahoo Finance",
@@ -193,76 +199,44 @@
       "publishedAt": "2026-02-26T16:03:06.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 2,
+      "importance": 3.5,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 내용이 일치하며, 간결하게 요약되었습니다. / 근거부족",
+      "qualityReason": "제목과 본문이 일치하며, 간결하게 요약됨.",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-02-27_8",
       "date": "2026-02-27",
-      "category": "에너지",
-      "title": "국정 연설에서 보듯이 - 수요 과다로 인해 어려움을 겪는 유틸리티",
+      "category": "국제",
+      "title": "엔비디아, AI 경제에 대한 우려 속에서도 또 다시 엄청난 성장 기록",
       "summary": [
-        "미국 내 유틸리티 회사들이 수요 과다로 인해 어려움을 겪고 있다는 내용이 국정 연설에서 언급되었습니다.",
-        "이는 전력 공급망에 대한 부담이 커지고 있음을 시사합니다."
+        "엔비디아가 AI 경제에 대한 우려 속에서도 또 다시 엄청난 성장을 기록했다.",
+        "AP 통신에 따르면 엔비디아의 성장은 지속적으로 이어지고 있다."
       ],
-      "whyImportant": "전력 수요 증가에 따른 유틸리티의 어려움은 에너지 정책 및 인프라 투자에 중요한 영향을 미칩니다.",
-      "importanceRationale": "근거: 국정 연설에서 언급될 정도로 중요한 문제이며, 전력 공급 안정성과 관련되어 사회 전반에 미치는 영향이 큽니다.",
-      "impactSignals": [
-        {
-          "label": "market-demand",
-          "evidence": "전력 수요 과다로 인해 유틸리티 회사들이 어려움을 겪고 있다는 내용이 국정 연설에서 언급됨."
-        }
-      ],
-      "dedupeKey": "utilities-demand-state-of-union",
-      "clusterKey": "bend",
+      "whyImportant": "엔비디아의 지속적인 성장은 AI 경제의 건전성을 평가하는 중요한 지표가 될 수 있습니다.",
+      "importanceRationale": "근거: 엔비디아의 실적은 AI 기술 수요와 시장의 성장세를 반영하며, 이는 관련 산업 전반에 영향을 미칠 수 있습니다.",
+      "impactSignals": [],
+      "dedupeKey": "nvidia_growth_q2_2024",
+      "clusterKey": "amid",
       "matchedTo": null,
-      "sourceName": "The Equation - Union of Concerned Scientists",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdVNKMVJ6VzFicGY3SlFoQmNnY1NZWUtzbWNOd3FmYl8yT29qQlhqZ3dQbWFQYWpZQThSaGRxSjd5eG96V01kUE9CR1BEUm85djlkODBremVTQUUzMGJ0c3E5emNKVUtEMk5MSXRUTlg4UWlXZF8xZ01WY1JlVkFBRWlLckZOWTZrdkx6bjRPU3BEMjI0Ml91TEQ1dm9QZnZYbHc?oc=5",
-      "publishedAt": "2026-02-26T13:00:00.000Z",
+      "sourceName": "AP News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNN2xfc2NUd2pDT2pzQ1d1d09TQ1pFanN3VmRJWmZHMEZ3bXhCTUhPWFlnREJIcE1xRmNpbWFxVUVLMXRzcnlRb3FlYmJDSjNQMmxnbFcyZHFwblVxLVBXVGw5a0VRZmh1ZkxBVEo0S0o4UmhsMFltZU1PS2tVM1BaMC1ZclFicEYtOS03NEdkdW95OFhsdjFGUjdVX2MxM0gxeEFtQWdNc25RNnBPalhzcE13?oc=5",
+      "publishedAt": "2026-02-26T01:28:00.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 4,
+      "importance": 2,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 핵심 내용을 잘 요약했습니다.",
+      "qualityReason": "기사 제목과 내용이 일치하며, 간결하게 핵심 내용을 전달합니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-02-27_9",
       "date": "2026-02-27",
-      "category": "정책",
-      "title": "미국, 외교관들에게 해외 데이터 주권법 반대 로비 지시",
-      "summary": [
-        "미국이 외교관들에게 해외 데이터 주권법에 반대하는 로비를 지시했습니다.",
-        "이는 데이터가 국경을 넘어 자유롭게 이동할 수 있도록 하기 위한 노력의 일환입니다."
-      ],
-      "whyImportant": "미국 정부가 데이터 주권 관련 정책에 적극적으로 개입하고 있음을 보여줍니다.",
-      "importanceRationale": "근거: 미국의 외교적 노력이 데이터 주권 관련 국제 규범 형성에 영향을 미칠 수 있기 때문입니다.",
-      "impactSignals": [],
-      "dedupeKey": "US_diplomats_lobby_against_data_sovereignty",
-      "clusterKey": "against",
-      "matchedTo": null,
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQa3ZRdlEydndzM0ljSGs5a0lQYkdmVEJtQ1FmTERtUC1DNXBkZlJxRWpPZThibmxjc1pwNjZ0elhtTS1RVk1mZ25uVE9xeWsxZ2gtZkZEcUNrSV9VN3hXNXRWbXBTSm5EeDMwTGFHM0l4Y3ZDS09xYWJwOVJybldMUWhvdHZ0QWRzQTRwYWVGRWF4ZmZCcTN2Z1luVElqb1N0ZGc?oc=5",
-      "publishedAt": "2026-02-25T14:56:52.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 75,
-      "qualityLabel": "ok",
-      "qualityReason": "기사 내용이 명확하고 간결함 / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-02-27_10",
-      "date": "2026-02-27",
-      "category": "정책",
+      "category": "경제",
       "title": "'갑질 의혹' 건설공제조합…국토부, 시정권고",
       "summary": [
         "건설공제조합의 '갑질 의혹'에 대해 국토교통부가 시정권고를 내렸습니다."
@@ -272,10 +246,10 @@
       "impactSignals": [
         {
           "label": "capex",
-          "evidence": "건설공제조합의 갑질 의혹에 대한 국토부 시정권고는 건설 자본 투자에 영향을 줄 수 있습니다."
+          "evidence": "건설공제조합의 행위가 건설 자본 투자에 영향을 줄 수 있음"
         }
       ],
-      "dedupeKey": "건설공제조합 갑질 의혹 시정권고",
+      "dedupeKey": "건설공제조합_갑질_의혹_국토부_시정권고",
       "clusterKey": "갑질",
       "matchedTo": null,
       "sourceName": "한국경제",
@@ -286,93 +260,55 @@
       "importance": 3,
       "importanceRaw": 50,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며 간결하게 요약되었습니다.",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었습니다.",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-02-27_10",
+      "date": "2026-02-27",
+      "category": "국제",
+      "title": "미국 무역대표, 301조항 발동…관세 협상 '고차방정식'",
+      "summary": [
+        "미국 무역대표가 301조항을 발동하며 관세 협상이 복잡해질 것으로 예상됩니다.",
+        "이는 무역 분쟁의 심화를 의미할 수 있습니다."
+      ],
+      "whyImportant": "미국 무역대표의 301조항 발동은 국제 무역 관계에 중요한 영향을 미칠 수 있습니다.",
+      "importanceRationale": "근거: 301조항은 미국의 무역 파트너에 대한 제재 가능성을 내포하고 있어, 관련 국가들의 경제 및 무역 정책에 상당한 변화를 가져올 수 있습니다.",
+      "impactSignals": [],
+      "dedupeKey": "301조항 발동, 관세 협상 고차방정식",
+      "clusterKey": "301조",
+      "matchedTo": null,
+      "sourceName": "뉴스토마토",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBfaXliRTJaenpyYjBmWUs0QktMY01QTnJoTFhXb1ZqT21aeUphMlFyVzRYaE92WTBXMkl3RllnQUx4RTA5STB0Mld4THRsWUJNdkI1dXMwSDdaTHkzbnh3ZQ?oc=5",
+      "publishedAt": "2026-02-26T09:15:38.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 75,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었습니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-02-27_11",
       "date": "2026-02-27",
-      "category": "기술",
-      "title": "ESG 규제에 대한 공급망 준비는 얼마나 되었습니까?",
-      "summary": [
-        "Adrian Gonzalez와 함께하는 물류 대화에서는 ESG 규제에 대한 공급망의 준비 상태를 점검합니다.",
-        "기업들은 점점 더 ESG 요소를 고려하여 공급망을 관리해야 합니다.",
-        "ESG 규제 준수는 기업의 지속 가능성과 경쟁력에 중요한 영향을 미칩니다."
-      ],
-      "whyImportant": "ESG 규제 준수는 기업의 장기적인 성공에 필수적입니다.",
-      "importanceRationale": "근거: ESG 규제는 기업의 공급망 운영 방식에 직접적인 영향을 미치며, 이를 준수하지 않을 경우 법적 제재 및 평판 하락으로 이어질 수 있습니다.",
-      "impactSignals": [
-        {
-          "label": "policy",
-          "evidence": "ESG 규제가 공급망 운영에 미치는 영향"
-        }
-      ],
-      "dedupeKey": "ESG 공급망 규제 준비",
-      "clusterKey": "공급망/chain",
-      "matchedTo": null,
-      "sourceName": "Talking Logistics with Adrian Gonzalez",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNXMyd3FqQThGVXM3dWE2WEs5MUdBeFpDUHBKSW9jTXVFUWx4T2k3YzNoM1lNeDYyVjlUekRScmJCT0R1NkZjNVJpWmtNUmFKd2M5WUR6Uk5ael9NbTVDdU02cDNUX3JteHVJWTZ6X2RLZUtVSUVCVWlXRkM4NTVvU3Bac1BzYzVTZWw5NjZNZ3lBcFBnOEE?oc=5",
-      "publishedAt": "2026-02-26T14:49:34.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 4,
-      "importanceRaw": 75,
-      "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 내용이 일치하며, 핵심 내용을 잘 요약했습니다.",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-02-27_12",
-      "date": "2026-02-27",
       "category": "정책",
-      "title": "졸속 논란 속 '법왜곡죄' 국회 통과… 여당, '재판소원제' 강행 준비",
-      "summary": [
-        "졸속 논란에도 불구하고 '법왜곡죄'가 국회를 통과했습니다.",
-        "여당은 '재판소원제' 강행을 준비하고 있습니다."
-      ],
-      "whyImportant": "법 왜곡죄의 통과와 재판소원제 추진은 사법 시스템에 큰 영향을 미칠 수 있습니다.",
-      "importanceRationale": "근거: 법 왜곡죄는 법 적용의 공정성에 대한 논란을 야기할 수 있으며, 재판소원제는 기존의 사법 절차에 대한 새로운 이의 제기 방식을 도입하여 법률 시스템에 상당한 변화를 가져올 수 있기 때문입니다.",
-      "impactSignals": [
-        {
-          "label": "policy",
-          "evidence": "법 왜곡죄의 통과 및 재판소원제 추진은 법률 및 사법 정책에 직접적인 영향을 미칩니다."
-        }
-      ],
-      "dedupeKey": "법왜곡죄_국회통과_재판소원제",
-      "clusterKey": "강행",
-      "matchedTo": null,
-      "sourceName": "프레시안",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5uTHByZ2lRdUFzTWo2eDZpMzZfUVV5YUd5blFXV1hoMktHVmI3VG1zbm5UdW8tM0dtZGFNXzRfR25rTXVEVmlLWGYzc19Hb2liN0JKd1BUOU9wX3hPcGtxR1RCMTJsWkdlVVRz?oc=5",
-      "publishedAt": "2026-02-26T09:03:57.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 4,
-      "importanceRaw": 75,
-      "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 간결하게 요약되었습니다.",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-02-27_13",
-      "date": "2026-02-27",
-      "category": "정책",
-      "title": "'법 왜곡죄 신설' 형법 개정안, 여당 주도로 국회 본회의 통과",
+      "title": "‘법 왜곡죄 신설’ 형법 개정안, 여당 주도로 국회 본회의 통과",
       "summary": [
         "‘법 왜곡죄 신설’ 형법 개정안이 여당 주도로 국회 본회의를 통과했습니다.",
-        "이번 개정안은 법의 해석과 적용에 대한 새로운 범죄를 규정합니다."
+        "이번 개정안은 형법에 새로운 조항을 추가하는 내용을 담고 있습니다."
       ],
-      "whyImportant": "법 왜곡죄 신설은 법률 해석 및 적용에 중대한 영향을 미칠 수 있습니다.",
-      "importanceRationale": "근거: 형법 개정안이 국회를 통과함에 따라 법률 해석과 적용에 대한 새로운 기준이 설정될 수 있으며, 이는 법조계 및 관련 분야에 상당한 변화를 가져올 수 있습니다.",
+      "whyImportant": "법 왜곡 행위에 대한 처벌 강화.",
+      "importanceRationale": "근거: 법 왜곡죄 신설은 법 집행의 공정성을 확보하고 사법 신뢰도를 높이는 데 중요한 정책적 변화입니다.",
       "impactSignals": [
         {
           "label": "policy",
-          "evidence": "형법 개정안이 국회 본회의를 통과하여 새로운 법적 기준이 설정됨."
+          "evidence": "법 왜곡죄 신설 형법 개정안이 국회 본회의를 통과함."
         }
       ],
-      "dedupeKey": "law_distortion_crime_bill_passes_parliament",
+      "dedupeKey": "법 왜곡죄 신설 형법 개정안 국회 통과",
       "clusterKey": "개정안",
       "matchedTo": null,
       "sourceName": "연합인포맥스",
@@ -383,21 +319,139 @@
       "importance": 4,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 내용이 일치하며, 핵심 내용을 요약하여 전달합니다.",
+      "qualityReason": "기사 제목과 내용이 일치하며, 핵심 내용을 간결하게 요약했습니다.",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-02-27_12",
+      "date": "2026-02-27",
+      "category": "경제",
+      "title": "S&P 500, 엔비디아 실적 발표 후 하락세 지속",
+      "summary": [
+        "S&P 500 지수가 목요일에 하락 마감했다.",
+        "이는 엔비디아의 실적 발표 후 시장에 드리운 침체 때문으로 분석된다."
+      ],
+      "whyImportant": "엔비디아의 실적 부진이 전체 시장에 미치는 영향",
+      "importanceRationale": "근거: 엔비디아의 실적 발표 후 S&P 500 지수가 하락했다는 직접적인 언급은 엔비디아가 시장에 미치는 영향력을 시사한다.",
+      "impactSignals": [],
+      "dedupeKey": "SP500_NVIDIA_EARNINGS_SLUMP_THURSDAY",
+      "clusterKey": "closes",
+      "matchedTo": null,
+      "sourceName": "CNBC",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5HdHZoUEsza0ZKNzZSdzNMd1NuNW1MUm9jVWVyaEtVWkF1U012Ui05aWdZTnlwVXY4MzdtNE9WeGlZdnFieEF6NkZNX2h4TXNNMjB3TDh6SnVncTBFeHYyMDl5OGRpUWo5U3lVLWdpa0dhcUVSVmtn0gF8QVVfeXFMT3pYMkxvOU1QcGNuOTdXUF9YNzlHR0F0MFIzSy1LOHNDd0dQY25ieXhxbktwR2hmQXFVTUoyWmRlSjN3ZURZckZjUGtSTnYtdVJTTDBQbk02WjVUUVJiWElTVzN4QWY5RnpwbjRqd0NUbENreWdaOEFtdFFEeA?oc=5",
+      "publishedAt": "2026-02-26T21:26:00.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 63,
+      "qualityLabel": "ok",
+      "qualityReason": "The article provides a clear and concise summary of the market's performance and the likely cause. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-02-27_13",
+      "date": "2026-02-27",
+      "category": "정책",
+      "title": "정부, 생성형 AI 학습의 ‘공정 이용’ 기준 최초 제시 및 안내서 발간으로 저작권 불확실성 해소",
+      "summary": [
+        "정부가 생성형 AI 학습에 대한 ‘공정 이용’ 기준을 처음으로 제시하고, 관련 안내서를 발간했습니다.",
+        "이번 조치는 생성형 AI 학습과 관련된 저작권 불확실성을 해소하기 위한 것입니다."
+      ],
+      "whyImportant": "생성형 AI 학습의 저작권 관련 불확실성을 해소하는 정책적 움직임입니다.",
+      "importanceRationale": "근거: 정부가 생성형 AI 학습에 대한 공정 이용 기준을 최초로 제시하고 안내서를 발간하여, 관련 산업의 불확실성을 해소하려 노력하고 있습니다.",
+      "impactSignals": [],
+      "dedupeKey": "생성형 AI 학습 공정이용 기준 첫 제시",
+      "clusterKey": "공정이용",
+      "matchedTo": null,
+      "sourceName": "인공지능신문",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE91LVVPNm5HLVA2c1VQWk5kSXR0VG1UNEFzeTZwUjQ3TXRoWTBoNnpESXE2M1VVWWxDeDQzNkxXUzlqUU5zVWI0REpuc0NmeE5JdnVWTGlLRV9qamM5VGJ2Z1ozS21vY2M?oc=5",
+      "publishedAt": "2026-02-26T04:12:25.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 75,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 내용이 일치하며, 핵심 내용을 잘 요약했습니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-02-27_14",
       "date": "2026-02-27",
+      "category": "정책",
+      "title": "국회, '자사주 소각 의무화' 상법 개정안 통과",
+      "summary": [
+        "국회에서 '자사주 소각 의무화'를 골자로 하는 상법 개정안이 통과되었습니다.",
+        "이번 개정안은 자사주를 소각하도록 의무화하는 내용을 담고 있습니다."
+      ],
+      "whyImportant": "자사주 소각 의무화는 주주 가치에 큰 영향을 미칠 수 있습니다.",
+      "importanceRationale": "근거: 자사주 소각 의무화 법안이 국회를 통과했다는 사실은 기업 정책 및 주주 가치에 중요한 변화를 가져올 수 있음을 시사합니다.",
+      "impactSignals": [
+        {
+          "label": "policy",
+          "evidence": "자사주 소각 의무화 법안의 국회 통과"
+        }
+      ],
+      "dedupeKey": "자사주 소각 의무화 상법 개정안 국회 통과",
+      "clusterKey": "개정안",
+      "matchedTo": null,
+      "sourceName": "한국문화원",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxORGZNbDF3eWM4VlhmZnZEM0dRTzdOYnRhVkc0cGVKWVh0aXBlRUNqZlAxR1p2UlVOcURkdzhnU0hNZjNGZXFLVWg4bXByaEJOWkUwSjF2YnNrTDhYaW9qQ1NQOU1VcUJSZ2RLYjRuLTZReVczMGszbExJZjBxUVdvNWh3X2Z4Y2IyOS0ydWhoSUhFOWc5bTE1c2trR1lYV2JCTWVZNlVHOXZmSm03UWxSTjZ1QTdMZ2FLZE5OYmUxZXd5cnR2ZFdaN2dGSWRySExXUFpEUHkxRUxMWFRSOTFtNWdCUzJnY3FCSi03UlAxOTgxYWF2dmc?oc=5",
+      "publishedAt": "2026-02-26T04:06:24.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 4,
+      "importanceRaw": 75,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 내용이 일치하며, 핵심 내용을 잘 요약했습니다.",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-02-27_15",
+      "date": "2026-02-27",
+      "category": "에너지",
+      "title": "국정 연설에서 보듯이 - 과도한 수요로 인해 휘청거리는 유틸리티",
+      "summary": [
+        "미국 내 유틸리티 회사들이 수요 증가로 인해 어려움을 겪고 있다는 내용입니다.",
+        "국정 연설에서도 이러한 문제가 언급되었습니다."
+      ],
+      "whyImportant": "전력 수요 증가에 따른 유틸리티 회사의 어려움은 에너지 정책 및 인프라 투자에 대한 논의를 촉발할 수 있습니다.",
+      "importanceRationale": "근거: 기사 제목과 내용에서 유틸리티 회사가 수요 증가로 어려움을 겪고 있다는 점을 명시하고 있으며, 이는 에너지 시장 및 관련 정책에 영향을 미칠 수 있습니다.",
+      "impactSignals": [
+        {
+          "label": "market-demand",
+          "evidence": "유틸리티가 과도한 수요로 인해 어려움을 겪고 있다는 제목에서 확인 가능"
+        }
+      ],
+      "dedupeKey": "utilities-demand-20240216",
+      "clusterKey": "bend",
+      "matchedTo": null,
+      "sourceName": "The Equation - Union of Concerned Scientists",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdVNKMVJ6VzFicGY3SlFoQmNnY1NZWUtzbWNOd3FmYl8yT29qQlhqZ3dQbWFQYWpZQThSaGRxSjd5eG96V01kUE9CR1BEUm85djlkODBremVTQUUzMGJ0c3E5emNKVUtEMk5MSXRUTlg4UWlXZF8xZ01WY1JlVkFBRWlLckZOWTZrdkx6bjRPU3BEMjI0Ml91TEQ1dm9QZnZYbHc?oc=5",
+      "publishedAt": "2026-02-26T13:00:00.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 3.5,
+      "importanceRaw": 63,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 핵심 내용을 전달합니다.",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-02-27_16",
+      "date": "2026-02-27",
       "category": "경제",
       "title": "한은, 기준금리 6회 연속 동결...내년 성장률 2% 전망",
       "summary": [
-        "한국은행은 기준금리를 6회 연속 동결했다.",
-        "내년 성장률은 2%로 전망된다."
+        "한국은행은 기준금리를 6회 연속 동결했습니다.",
+        "내년 성장률은 2%로 전망됩니다."
       ],
-      "whyImportant": "한국은행의 금리 동결 결정과 향후 경제 성장률 전망을 보여주는 지표이다.",
-      "importanceRationale": "근거: 기준 금리 동결은 시장에 미치는 영향이 크며, 성장률 전망은 경제 상황을 파악하는 데 중요한 지표가 된다.",
+      "whyImportant": "한국은행의 금리 동결 결정과 향후 경제 성장률 전망을 보여주는 지표입니다.",
+      "importanceRationale": "근거: 기준 금리 동결은 시장에 미치는 영향이 크며, 성장률 전망은 경제 상황을 파악하는 데 중요한 지표가 됩니다.",
       "impactSignals": [],
       "dedupeKey": "20240516_한은, 기준금리 6연속 동결...내년 성장률은 2% 전망",
       "clusterKey": "6연속",
@@ -410,39 +464,66 @@
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 내용을 충실히 반영함 / 근거부족",
+      "qualityReason": "기사 제목과 내용을 충실히 반영하고 있습니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-02-27_15",
+      "id": "2026-02-27_17",
       "date": "2026-02-27",
-      "category": "경제",
-      "title": "미 에너지부의 거대 대출 계약, 데이터 센터 비용으로부터 요금 납부자 보호",
+      "category": "에너지",
+      "title": "서던 컴퍼니, 에너지 프로젝트 자금 조달 위해 수십억 달러 차입; 옹호자들은 요금 납부자가 결국 비용을 지불할 것이라고 말함",
       "summary": [
-        "미 에너지부(DOE)의 대규모 대출 계약이 데이터 센터 비용으로부터 요금 납부자를 보호합니다.",
-        "이번 계약은 데이터 센터 건설 및 운영 비용 부담을 줄이는 데 목적이 있습니다."
+        "서던 컴퍼니는 에너지 프로젝트 자금 조달을 위해 수십억 달러를 차입했다.",
+        "옹호자들은 요금 납부자들이 결국 이 비용을 부담하게 될 것이라고 주장한다."
       ],
-      "whyImportant": "데이터 센터 비용 절감 효과가 요금 납부자에게 직접적으로 전달될 수 있습니다.",
-      "importanceRationale": "근거: 데이터 센터 건설 및 운영 비용은 결국 요금에 반영될 수 있으므로, 이를 절감하는 것은 소비자에게 중요한 영향을 미칩니다.",
+      "whyImportant": "에너지 프로젝트 자금 조달 방식과 그 비용 부담 주체에 대한 논쟁을 보여준다.",
+      "importanceRationale": "근거: 에너지 기업의 차입이 결국 소비자에게 전가될 수 있다는 점을 지적하며, 에너지 정책 결정의 경제적 영향을 강조한다.",
       "impactSignals": [],
-      "dedupeKey": "DOE_loan_data_center_costs",
-      "clusterKey": "behemoth",
+      "dedupeKey": "southern-co-borrows-billions-for-energy-projects",
+      "clusterKey": "에너지/advocates",
       "matchedTo": null,
-      "sourceName": "Latitude Media",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWElsNkNma0FKLXlhdmQyaS1JVUxJY1RaWTFPWTFWMThnRUtLUzk4VUJ6NWNjcnI4WlhtY3FKRDFRVGJGLVJCYUxVWFpyM0tOc2JkeHYtNVQ3b2xhVmtOcnB6MHBwd3laQThyM1pSR0JyWEtHLVpTcUxFLWtRY2k5ck9ucEtqYzN0bml2TkxaYXJjTXJZTW1lZEt6aWs2UVVfR1hj?oc=5",
-      "publishedAt": "2026-02-26T20:26:54.000Z",
+      "sourceName": "Georgia Recorder",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdlJzSjdRODEwcjBQX0tRbVJBZ2I1UmFjWncxNzl0c0Y4QzVRZUdFS3I3TFF2SkZiVmdib0ZoT2MwZ24zSW5PNG5wUTZVdUtiSHk3bUc2LVk3NGIyYUxDaVA5azZpY21MNkZDSFQ1c3l6OVFQREFNNzJXM0lMbXFkUVRobHh6TW14QmJrRHdfaUh4NWNtMGFSUGNFaHhCM0U4UDlRbWdOSDNjd2pXb21TUEVfVXY2VmM3amREUEh0b1RxZ3dYWVl1WQ?oc=5",
+      "publishedAt": "2026-02-26T21:19:41.000Z",
       "readTimeSec": 10,
       "status": "kept",
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 텍스트가 일치하며, 정보가 명확합니다. / 근거부족",
+      "qualityReason": "기사 제목과 내용이 일치하며, 요약이 정확하게 정보를 전달한다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-02-27_16",
+      "id": "2026-02-27_18",
+      "date": "2026-02-27",
+      "category": "기술",
+      "title": "인도와 미국, 관세 갈등 속에서도 공급망 관계 심화",
+      "summary": [
+        "인도와 미국이 관세 문제에도 불구하고 공급망 관계를 강화하고 있다.",
+        "이는 양국 간 경제 협력의 중요성을 보여준다."
+      ],
+      "whyImportant": "공급망 관계 심화는 양국 경제에 긍정적인 영향을 미칠 수 있다.",
+      "importanceRationale": "근거: 인도와 미국 간의 공급망 협력 강화는 무역 및 투자 증가로 이어질 수 있으며, 이는 양국 경제 성장에 기여할 수 있다.",
+      "impactSignals": [],
+      "dedupeKey": "IndiaUSSupplyChainTariff",
+      "clusterKey": "chain",
+      "matchedTo": null,
+      "sourceName": "Sourcing Journal",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbEtwSFotT2VxYVRHM3FRXy1RZXQ1QjJ3cmMySTBsUWlxNXdUZ0tGSkZfSVYtS0M5VTNXQU5zbGxQX1N3VFhUc0FBOGE0bFVadW5Db051UWp3YVplZW05OUZlNE9ULWhjSjRGNVJVZEFZVS1yem03TTd0cGR6TUFQVTdXNEhPTmtpQnEwR3hXZzQybVFOa2lfM0dsUzM1UWFoV0lZVFZpX0xTZw?oc=5",
+      "publishedAt": "2026-02-26T15:11:08.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 63,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되어 있습니다. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-02-27_19",
       "date": "2026-02-27",
       "category": "에너지",
       "title": "미국 데이터 센터의 전력 소비, 2030년까지 두 배로 증가 전망",
@@ -451,7 +532,7 @@
         "이는 E&E News by POLITICO의 보도에 따른 것임."
       ],
       "whyImportant": "데이터 센터의 전력 소비 증가는 에너지 인프라 투자 및 정책 결정에 중요한 영향을 미칠 수 있습니다.",
-      "importanceRationale": "근거: 데이터 센터의 전력 소비 증가는 관련 산업의 투자 및 에너지 정책에 대한 고려를 필요로 하기 때문입니다.",
+      "importanceRationale": "근거: 데이터 센터의 전력 소비 증가는 에너지 시장 및 관련 산업에 상당한 변화를 가져올 수 있으며, 이는 투자 및 정책 결정에 중요한 고려 사항이 될 수 있습니다.",
       "impactSignals": [],
       "dedupeKey": "data_center_electricity_2030",
       "clusterKey": "centers",
@@ -464,119 +545,39 @@
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "The article provides a concise and factual summary of a projection regarding data center electricity consumption. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-02-27_17",
-      "date": "2026-02-27",
-      "category": "경제",
-      "title": "Cicada, 1350만 달러 자금 조달로 라틴 아메리카 전자 거래 확장 계획",
-      "summary": [
-        "Cicada는 1350만 달러의 자금 조달을 통해 라틴 아메리카 전자 거래 확장을 계획하고 있습니다.",
-        "이번 투자는 Cicada의 라틴 아메리카 시장 확장에 중요한 역할을 할 것으로 예상됩니다."
-      ],
-      "whyImportant": "Cicada의 라틴 아메리카 전자 거래 시장 확장 계획은 해당 지역의 금융 기술 발전에 기여할 수 있습니다.",
-      "importanceRationale": "근거: 1350만 달러의 자금 조달은 Cicada의 사업 확장에 필요한 자본을 제공하며, 이는 라틴 아메리카 시장에서의 경쟁력 강화로 이어질 수 있습니다.",
-      "impactSignals": [
-        {
-          "label": "capex",
-          "evidence": "Cicada plans LatAm e-trading expansion with US$13.5mn funding round"
-        }
-      ],
-      "dedupeKey": "cicada_latam_etrading_expansion_13.5mn",
-      "clusterKey": "5mn",
-      "matchedTo": null,
-      "sourceName": "fi-desk.com",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQSDktQ0k2U2RYc1M1ZUhKT1ozTy1VaktVV2MtNHdPVmlvS0dlM1RzSmVoS2dtcVRCTWNFaExpQnBWd2JRVFVZRHpKMW1qdHJjTzBUVGhEVFZhblh5X3NHZnEtdmZNdTJRT0JFWXlVNGxIaEpJU2l2NFlmcFlTbWR1ZlVrUHY0X2tNbmhqeWZsbmJvelU5YUE?oc=5",
-      "publishedAt": "2026-02-26T10:54:15.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 3.5,
-      "importanceRaw": 63,
-      "qualityLabel": "ok",
-      "qualityReason": "The article provides a concise and factual summary of Cicada's expansion plans and funding.",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-02-27_18",
-      "date": "2026-02-27",
-      "category": "에너지",
-      "title": "논평 / 트럼프의 데이터 센터 전력 계획 문제점",
-      "summary": [
-        "도널드 트럼프 전 대통령의 데이터 센터 전력 공급 계획에 대한 비판적 논평이 발표됨.",
-        "해당 계획의 문제점을 지적하고 있다."
-      ],
-      "whyImportant": "데이터 센터 전력 공급 계획에 대한 논쟁적 시각을 제공합니다.",
-      "importanceRationale": "근거: 트럼프 전 대통령의 정책 방향에 대한 비판적 분석은 정책 결정 과정에 영향을 미칠 수 있기 때문입니다.",
-      "impactSignals": [],
-      "dedupeKey": "trump-data-center-power-plan",
-      "clusterKey": "에너지/center",
-      "matchedTo": null,
-      "sourceName": "Semafor",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdjlGWHpxSndMTGZ6RWJDZUw4RlIzd01ZbnQ1bVRiT0tkS1lsZFZtYm1HaHdzVDVndjE1bjRPQzVodFBsNGdyakJzbjlYaFlRaGRIV2RxXzNTOTlQdENwYzRka29LNmliS0dHN2gyY1N5Y1pmU2VybjVSQ09IQ3ZGcThTZFZaYnRPNlpmTW12YWY2R1k?oc=5",
-      "publishedAt": "2026-02-26T13:44:00.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 50,
-      "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약됨. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-02-27_19",
-      "date": "2026-02-27",
-      "category": "에너지",
-      "title": "군 시설 에너지 자립 시대 개막… 육군 상무대에 '차세대 전력망' 구축",
-      "summary": [
-        "군 시설의 에너지 자립 시대가 열리고 있다.",
-        "육군 상무대에 '차세대 전력망'이 구축될 예정이다."
-      ],
-      "whyImportant": "군 시설의 에너지 자립을 위한 중요한 투자이다.",
-      "importanceRationale": "근거: 육군 상무대에 차세대 전력망을 구축하여 에너지 자립을 도모한다.",
-      "impactSignals": [],
-      "dedupeKey": "군 시설 에너지 자립, 육군 상무대 차세대 전력망 구축",
-      "clusterKey": "에너지/상무대에",
-      "matchedTo": null,
-      "sourceName": "에너지코리아뉴스",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4zQm0zRVpHQWZMb21XYlZERTBmT1NTYUttMnNKbVlvc1czeHpEMDY3VXpSWGUwZVk0cEFkV3doQks2X1hiLUl6dE9oWmI4dlFhVHl2Y1U0d3E1R1cxSk9GdTBIVUcwdW1WSkYxOVRUb24?oc=5",
-      "publishedAt": "2026-02-26T07:07:06.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 63,
-      "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되어 있음. / 근거부족",
+      "qualityReason": "기사 제목과 내용이 일치하며, 간결하게 요약되었습니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-02-27_20",
       "date": "2026-02-27",
-      "category": "경제",
-      "title": "금융보안원, 금융권 SW 보안 취약점 신고 포상제 실시",
+      "category": "기술",
+      "title": "AI 데이터 센터 워크로드에서 엔비디아의 영향력을 깨기 위한 스타트업, 1,025만 달러 투자 유치",
       "summary": [
-        "금융보안원이 금융권 SW 보안 취약점 신고 포상제를 실시합니다."
+        "AI 데이터 센터 워크로드에서 엔비디아의 영향력을 깨기 위한 스타트업이 1,025만 달러의 투자를 유치했습니다.",
+        "이 스타트업은 엔비디아의 독점적인 지위에 도전하며 AI 데이터 센터 시장에 새로운 경쟁을 불러일으킬 것으로 예상됩니다."
       ],
-      "whyImportant": "금융권의 소프트웨어 보안 강화에 기여할 수 있습니다.",
-      "importanceRationale": "근거: 금융보안원이 금융권 SW의 보안 취약점 신고에 대한 포상제를 시행함으로써 보안 강화에 대한 인센티브를 제공합니다.",
-      "impactSignals": [],
-      "dedupeKey": "금융보안원, 금융권 SW 보안 취약점 신고 포상제 실시",
-      "clusterKey": "금융권",
+      "whyImportant": "AI 데이터 센터 시장의 경쟁 심화 및 기술 혁신 가속화",
+      "importanceRationale": "근거: 엔비디아의 AI 데이터 센터 워크로드 시장 지배력에 도전하는 스타트업의 대규모 투자 유치는 해당 시장의 경쟁 구도 변화를 예고하며, 이는 관련 기술 혁신과 시장 성장을 촉진할 수 있습니다.",
+      "impactSignals": [
+        {
+          "label": "capex",
+          "evidence": "스타트업이 1,025만 달러의 투자를 유치하여 AI 데이터 센터 관련 자본 지출이 증가할 것으로 예상됩니다."
+        }
+      ],
+      "dedupeKey": "ai_startup_funding_10.25m",
+      "clusterKey": "aiming",
       "matchedTo": null,
-      "sourceName": "아이티데일리",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1OR2d5MmRMY2pjcFVLMUZpaS16VGdra2JjNks3NDlMNVdMUElEa1BXMHlKa2tLNmtoUXpqSG5YajdOZUpMb3liOUQ2OGV4WExuYjNkWlN4RkI4SmQwd2xhakhjeHRJZWc?oc=5",
-      "publishedAt": "2026-02-26T06:34:08.000Z",
+      "sourceName": "Fortune",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPZDJwQ0xEb3hCanZCcFhWTk9jV2hZdk56c0lDMlItSXV6eXF6WV9XX2IwMWJ0bzVKM2FveDM1Yjl4V0h6MTA0MGliY3o2NEJlT2tmbVRWMk5IR29qWnRQU1ByRW5ZQU5keXVfVVJSLUZmbUQwODJ4YjdaVGVKeE11cmJSUjl0QmJ1Qmd6R0hsWllsQkRiaTdKck1mVnlZQ3dLa2haaWtadnp1Q0Q2T1pQSDNudjJ4NFlBcXRoWU82TU1BbWhsUnVzVXI3cWRUdDNFZDJjY1dEekFub18xcHBMeXUtZmVQc0xVRlc1NGtR?oc=5",
+      "publishedAt": "2026-02-26T05:01:00.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 2,
+      "importance": 3.5,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "기사 내용이 명확하고 간결합니다. / 근거부족",
+      "qualityReason": "제목과 본문이 일치하며, 정보가 명확합니다.",
       "isBriefing": false,
       "isBreaking": false
     }
