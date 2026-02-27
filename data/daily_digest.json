@@ -3,19 +3,46 @@
   "selectionCriteria": "① 내일도 영향이 남는 이슈 ② 과도한 감정 소모 제외 ③ 어제와 중복되는 뉴스 제외",
   "editorNote": "이 뉴스는 클릭 수가 아니라 오늘 이후에도 남는 정보만 기준으로 편집했습니다.",
   "question": "정보를 덜 보는 것이 오히려 더 똑똑한 소비일까?",
-  "lastUpdatedAt": "2026-02-28T07:23:23.346+09:00",
+  "lastUpdatedAt": "2026-02-28T08:22:06.377+09:00",
   "items": [
     {
       "id": "2026-02-28_1",
       "date": "2026-02-28",
+      "category": "정책",
+      "title": "[오늘의 국회 에너지 입법 : 전기차 화재 시 기존 소화설비 진압 어려워]",
+      "summary": [
+        "국회 에너지 관련 법안 논의에서 전기차 화재 시 기존 소화설비로 진압이 어렵다는 지적이 나왔습니다.",
+        "에너지플랫폼뉴스에서 해당 내용을 보도했습니다."
+      ],
+      "whyImportant": "전기차 화재 안전에 대한 정책적 논의 필요성을 제기합니다.",
+      "importanceRationale": "근거: 전기차 화재 시 기존 소화설비의 한계가 지적됨에 따라, 관련 정책 및 소방 설비 개선의 필요성이 제기될 수 있습니다.",
+      "impactSignals": [],
+      "dedupeKey": "electric_vehicle_fire_suppression_difficulty",
+      "clusterKey": "에너지/국회",
+      "matchedTo": null,
+      "sourceName": "에너지플랫폼뉴스",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0xUWhQRG95dWRvakZBVi1UMndwV1FSazA3aEhkeHdrMWRDbHhvUUNJa3dzU29fRTI2Q0plTDJoa0J2YjRmaTF5NWU3YktxTU9oeFZFdVBqQlRuQWppNGhkNjIwdlZlTm5HTWZ4RdIBcEFVX3lxTE9ROVJob2d6bHlaWHhZWHNjZzlxd0lQbllsMWp6RDlmRWswSjF5bzlvODZUTGFyeWtqcTMzdnRJU3RGQ1lYQ0kteFRRN1VCWnQ5T0x4VTlNUGJZOTBCVWJ2NkRCSXZjNG1NLXNZcWNGRTI?oc=5",
+      "publishedAt": "2026-02-27T22:35:36.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 63,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 내용이 일치하며, 핵심 내용을 잘 요약했습니다. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-02-28_2",
+      "date": "2026-02-28",
       "category": "에너지",
       "title": "겨울철 전기 요금 급등으로 버지니아 데이터 센터의 전력 사용량에 대한 조사 시작",
       "summary": [
-        "버지니아 데이터 센터의 전력 사용량 증가로 인해 겨울철 전기 요금이 급등했다.",
+        "버지니아 데이터 센터의 전력 사용량 증가로 겨울철 전기 요금이 급등했다.",
         "이에 따라 데이터 센터의 에너지 소비에 대한 면밀한 조사가 이루어질 예정이다."
       ],
-      "whyImportant": "데이터 센터의 전력 사용량 급증은 에너지 정책 및 관련 투자를 재검토하게 만들 수 있다.",
-      "importanceRationale": "근거: 데이터 센터의 전력 소비 증가는 지역 에너지 정책에 영향을 미치고, 추가적인 자본 지출을 유발할 수 있기 때문이다.",
+      "whyImportant": "데이터 센터의 전력 사용량 급증은 정책 및 자본 지출에 영향을 미칠 수 있다.",
+      "importanceRationale": "근거: 데이터 센터의 전력 사용량 증가는 에너지 정책 변화를 야기하고, 관련 인프라 투자 결정에 영향을 줄 수 있기 때문이다.",
       "impactSignals": [],
       "dedupeKey": "winter_electric_bill_spikes_va_data_centers",
       "clusterKey": "에너지/bill",
@@ -28,22 +55,22 @@
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 정보가 명확하게 전달됨. / 근거부족",
+      "qualityReason": "기사 제목과 내용이 일치하며, 핵심 내용을 잘 반영하고 있다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-02-28_2",
+      "id": "2026-02-28_3",
       "date": "2026-02-28",
       "category": "경제",
       "title": "Frontline Plc (FRO), 2025년 4분기 실적 발표: 매출 36% 증가, EPS 229% 증가",
       "summary": [
-        "Frontline Plc (FRO)가 2025년 4분기 실적을 발표했습니다.",
+        "Frontline Plc (FRO)는 2025년 4분기 실적을 발표했습니다.",
         "매출은 36% 증가했습니다.",
         "주당 순이익(EPS)은 229% 증가했습니다."
       ],
-      "whyImportant": "Frontline Plc의 2025년 4분기 실적은 회사의 재정적 성장을 보여줍니다.",
-      "importanceRationale": "근거: 매출과 EPS의 상당한 증가는 회사의 수익성과 시장에서의 경쟁력이 강화되었음을 시사합니다.",
+      "whyImportant": "Frontline Plc의 실적은 해운 산업의 건전성을 나타내는 지표입니다.",
+      "importanceRationale": "근거: Frontline Plc의 매출 및 EPS 증가는 해운 수요 증가 또는 효율성 개선을 의미할 수 있으며, 이는 투자자와 시장 참여자에게 중요한 정보입니다.",
       "impactSignals": [
         {
           "label": "earnings",
@@ -66,17 +93,16 @@
       "isBreaking": false
     },
     {
-      "id": "2026-02-28_3",
+      "id": "2026-02-28_4",
       "date": "2026-02-28",
       "category": "경제",
-      "title": "Curaleaf 실적: 지속적인 가격 압박으로 인한 국내 하락을 상쇄하는 국제 성장",
+      "title": "Curaleaf 실적: 지속적인 가격 압박으로 인한 국내 하락을 국제적 성장이 상쇄",
       "summary": [
-        "Curaleaf의 실적 발표에 따르면 국제적인 성장이 국내 시장의 하락을 상쇄했습니다.",
-        "가격 압박이 지속되면서 국내 시장의 하락세가 이어졌습니다.",
-        "Morningstar Canada에서 해당 내용을 보도했습니다."
+        "Curaleaf의 실적 발표에 따르면, 국제적인 성장이 국내 시장의 하락세를 상쇄했습니다.",
+        "국내 시장의 하락은 지속적인 가격 압박으로 인한 것입니다."
       ],
-      "whyImportant": "Curaleaf의 사업 성과와 관련된 중요한 정보입니다.",
-      "importanceRationale": "근거: Curaleaf의 국제적 성장과 국내 시장의 하락세에 대한 정보는 회사의 전반적인 재무 상태와 전략적 방향을 이해하는 데 중요합니다.",
+      "whyImportant": "Curaleaf의 재무 상태와 성장 전략을 파악하는 데 중요합니다.",
+      "importanceRationale": "근거: Curaleaf의 국제적 성장과 국내 시장의 가격 압박 요인을 동시에 보여주기 때문입니다.",
       "impactSignals": [],
       "dedupeKey": "Curaleaf_Earnings_International_Growth_Offsets_Domestic_Decline",
       "clusterKey": "curaleaf",
@@ -89,47 +115,48 @@
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 정보가 명확합니다. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-02-28_4",
-      "date": "2026-02-28",
-      "category": "경제",
-      "title": "델 테크놀로지 주가, 강력한 실적에 급등. AI 수요가 수익 증대.",
-      "summary": [
-        "델 테크놀로지 주가가 강력한 실적 발표에 힘입어 급등했습니다.",
-        "AI 수요 증가가 수익 증대에 기여했습니다."
-      ],
-      "whyImportant": "델 테크놀로지의 실적 호조는 AI 시장의 성장과 관련 기업의 수익성을 보여주는 중요한 지표입니다.",
-      "importanceRationale": "근거: 델 테크놀로지의 주가 급등은 투자자들의 긍정적인 반응을 반영하며, AI 수요 증가가 기업 수익에 미치는 영향을 시사합니다.",
-      "impactSignals": [],
-      "dedupeKey": "dell_tech_earnings_ai_demand",
-      "clusterKey": "boosts",
-      "matchedTo": null,
-      "sourceName": "Barron's",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxOWFBzSmpheHpnUVlpVWkwRUd3RDdXSzA0QXBoRHdfbFlfTDRiYUFRb1gwVV8yV190U0JWRjUzOGY1VHJHWlpha3FJRWZSVnprd3lHTlk5Y1NQeXBVcXZGZThLRnYxUkdkVUFGbXhNOW1rYmJveUlHZHVzR0VkemYwZmVFeHlEWnU1amdsREdORUtaZGJRajJjdDNvVkVQTWVxdVpib1pnREZvdG0yNU5yaDV0Q003a29uTjBHVnhaMkp4bW5sTlB5eFE0SWw0Y2JxblVTNUxyc2FfVGx6aXctVVlkbm1lQ21aRDBMV0NUSkxHcUdtUXc4emRlSTBYR3NVNjE4aDRJT3R2VDFJTnJSTmE0cnNXWUZIbGl3QmR3MkJlc3F6ZEdmUzB2NXJNUFFESGpucXY3TWl4ZnlDN0tNeHk2RWZaZkVkS3UyZ19kck5QemxBckltNmp4ZDZmdXY1RWgzSERVaHppdGtKc3BtdWRqbDhmVDd2WUNV?oc=5",
-      "publishedAt": "2026-02-27T10:15:00.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 75,
-      "qualityLabel": "ok",
-      "qualityReason": "The article provides a clear and concise summary of the earnings report and its impact on the stock price. / 근거부족",
+      "qualityReason": "제목과 본문이 일치하며, 정보가 명확합니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-02-28_5",
       "date": "2026-02-28",
+      "category": "경제",
+      "title": "Dell Technologies, 강력한 실적 발표에 주가 급등. AI 수요 증가가 수익을 견인.",
+      "summary": [
+        "Dell Technologies의 주가가 강력한 실적 발표에 힘입어 급등했습니다.",
+        "AI 수요 증가가 수익 증가의 주요 요인으로 작용했습니다.",
+        "이번 실적 호조는 Dell Technologies의 성장 가능성을 보여줍니다."
+      ],
+      "whyImportant": "Dell Technologies의 실적은 IT 산업 전반의 수요를 나타내는 지표가 될 수 있습니다.",
+      "importanceRationale": "근거: Dell Technologies는 IT 산업에서 중요한 위치를 차지하며, AI 수요 증가는 관련 시장의 성장 가능성을 시사합니다.",
+      "impactSignals": [],
+      "dedupeKey": "DellTechnologies_Earnings_AI",
+      "clusterKey": "boosts",
+      "matchedTo": null,
+      "sourceName": "Barron's",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxNNWQtaktvSjhGdVNiOC1Scy1JWkJZTWRtOFE4NlFNSk5UcGEzTnBRNUNpX0dFNnZqZ2QyX0lGRlZwSEszb0dfaEtMQndSM204N0hGZnJhZF8yb01JSmVTN0xXZlNjNHNYNUwybjlwbHJwRU1wRGltSldVWlJ2cV9NeEZ2T0tSclY4WDdIQnlSYlB2U2dyZVdya0JRR1NsU21YanFnbTBJQUhUQTF4aloyaFV6b0RtSjlGQWYzTS1sZWZJa2JDYXEyTHIyODBQT0ZNMUt4RTFIYVlzTGZudEJLTFJQTEZod25Fbmdmam9uanExVmpoOGNGQjI3SFFxZEVXS3p1bVhBcmQxY29BQ2p4S2tkS1lwZ1VsTkFBSi1keTVTNm9PZnIxTXVxWHhBRmNhWnp3N3BsbTczZG1sVUVMUWRWYndKWXpDeko0ZkMzWUpOVGRnRFMyYkRDaXV5VE1JNV9vVU9RaGpWcDdmLXVqV1p6c0F5TmtWUXVV?oc=5",
+      "publishedAt": "2026-02-27T10:15:00.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 75,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 내용이 일치하며, 핵심 정보를 잘 요약했습니다. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-02-28_6",
+      "date": "2026-02-28",
       "category": "국제",
       "title": "[차이나워치] 중국, '트럼프 협상력 약화' 판단?…EU와는 '밀착'",
       "summary": [
-        "중국이 트럼프 대통령의 협상력 약화를 판단하고 유럽연합과의 관계를 강화하고 있다는 분석이 나왔다."
+        "중국이 트럼프 대통령의 협상력 약화를 판단하고 유럽연합과의 관계를 강화하고 있다는 보도가 나왔다."
       ],
-      "whyImportant": "중국의 외교 전략 변화를 보여주는 중요한 신호입니다.",
-      "importanceRationale": "근거: 기사는 중국이 트럼프 대통령의 협상력 약화를 판단하고 EU와의 밀착을 시도하고 있음을 명시적으로 나타냅니다.",
+      "whyImportant": "중국의 외교 전략 변화를 보여주는 신호탄으로 해석될 수 있다.",
+      "importanceRationale": "근거: 기사는 중국이 트럼프 대통령의 협상력 약화를 판단하고 유럽연합과의 관계를 강화하고 있다고 명시적으로 언급하고 있다.",
       "impactSignals": [],
       "dedupeKey": "[차이나워치] 중국, '트럼프 협상력 약화' 판단?…EU와는 '밀착'",
       "clusterKey": "eu와는",
@@ -142,12 +169,12 @@
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되어 있습니다. / 근거부족",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되어 있음. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-02-28_6",
+      "id": "2026-02-28_7",
       "date": "2026-02-28",
       "category": "국제",
       "title": "CVE-2026-20127: 시스코 SD-WAN 제로데이, 2023년부터 악용",
@@ -156,7 +183,7 @@
         "SOC Prime에서 해당 내용을 발표했습니다."
       ],
       "whyImportant": "시스코 SD-WAN 사용자들은 보안 업데이트를 통해 시스템을 보호해야 합니다.",
-      "importanceRationale": "근거: 시스코 SD-WAN의 제로데이 취약점이 실제 악용되고 있다는 정보는 시스템 보안에 대한 즉각적인 조치가 필요함을 시사합니다.",
+      "importanceRationale": "근거: 시스코 SD-WAN 제로데이 취약점이 실제 악용되고 있다는 정보는 시스템 보안에 대한 즉각적인 대응이 필요함을 시사합니다.",
       "impactSignals": [],
       "dedupeKey": "CVE-2026-20127_Cisco_SD-WAN_Zero-day_Exploitation_Since_2023",
       "clusterKey": "2023년부터",
@@ -169,23 +196,23 @@
       "importance": 2,
       "importanceRaw": 88,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 정보가 명확합니다. / 근거부족",
+      "qualityReason": "기사 제목과 내용이 일치하며, 핵심 정보를 포함하고 있습니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-02-28_7",
+      "id": "2026-02-28_8",
       "date": "2026-02-28",
       "category": "정책",
-      "title": "정부, 생성형 AI 학습의 '공정 이용' 기준 최초 제시 및 안내서 발간으로 저작권 불확실성 해소",
+      "title": "정부, 생성형 AI 학습의 '공정 이용' 기준 최초 제시 및 안내서 발간",
       "summary": [
         "정부가 생성형 AI 학습에 대한 '공정 이용' 기준을 처음으로 제시했습니다.",
-        "저작권 관련 불확실성을 해소하기 위해 공정 이용 안내서를 발간했습니다."
+        "저작권 관련 불확실성을 해소하기 위해 공정 이용 안내서가 발간되었습니다."
       ],
-      "whyImportant": "생성형 AI 학습의 저작권 관련 불확실성을 해소하고, 공정한 이용 기준을 제시함으로써 AI 산업 발전에 기여할 수 있습니다.",
-      "importanceRationale": "근거: 정부가 생성형 AI 학습에 대한 공정 이용 기준을 최초로 제시하고 안내서를 발간했다는 사실은 AI 산업의 저작권 관련 정책 방향을 제시하는 중요한 변화를 의미합니다.",
+      "whyImportant": "이번 안내서 발간은 생성형 AI 학습에 대한 저작권 불확실성을 해소하고, 관련 산업 발전을 지원하는 데 중요한 역할을 합니다.",
+      "importanceRationale": "근거: 정부가 생성형 AI 학습의 '공정 이용' 기준을 처음 제시하고 안내서를 발간하여 정책적 중요성이 높음.",
       "impactSignals": [],
-      "dedupeKey": "생성형 AI 학습 공정이용 기준 첫 제시",
+      "dedupeKey": "generated_ai_fair_use_guidelines",
       "clusterKey": "공정이용",
       "matchedTo": null,
       "sourceName": "인공지능신문",
@@ -196,21 +223,21 @@
       "importance": 2,
       "importanceRaw": 88,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 핵심 내용을 잘 반영하고 있습니다. / 근거부족",
+      "qualityReason": "기사 내용이 명확하고 정책 발표 사실을 직접적으로 전달함. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-02-28_8",
+      "id": "2026-02-28_9",
       "date": "2026-02-28",
       "category": "국제",
       "title": "중국, 미국에 관세 협상 제안…독일 총리 방중 '실리 외교'",
       "summary": [
-        "중국이 미국에 관세 협상을 제안했습니다.",
-        "독일 총리의 방중은 실리 외교의 일환으로 보입니다."
+        "중국이 미국에 관세 협상을 제안했다.",
+        "독일 총리의 방중은 실리 외교의 일환으로 해석된다."
       ],
-      "whyImportant": "미중 무역 관계와 유럽 외교에 영향을 미칠 수 있습니다.",
-      "importanceRationale": "근거: 중국의 관세 협상 제안은 미중 관계 변화의 신호일 수 있으며, 독일 총리의 방중은 유럽의 외교 전략 변화를 나타낼 수 있습니다.",
+      "whyImportant": "미중 무역 관계와 유럽 외교에 미치는 영향.",
+      "importanceRationale": "근거: 미중 관세 협상 제안은 양국 관계 변화의 신호탄이 될 수 있으며, 독일 총리의 방중은 유럽의 대중국 외교 전략에 중요한 영향을 미친다.",
       "impactSignals": [],
       "dedupeKey": "중국, 미국에 관세협상 제안…방중 獨총리 '실리외교'",
       "clusterKey": "관세협상",
@@ -223,21 +250,21 @@
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었습니다. / 근거부족",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약됨. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-02-28_9",
+      "id": "2026-02-28_10",
       "date": "2026-02-28",
       "category": "국제",
-      "title": "미국 최대 규모의 침해 사고 경고: 사고 대응이 새로운 생존 지표",
+      "title": "미국 최대의 정보 유출 사고, 사고 대응이 새로운 생존 지표임을 경고",
       "summary": [
-        "미국 최대 규모의 침해 사고는 사고 대응의 중요성을 부각합니다.",
-        "사고 대응 능력은 기업의 생존을 결정짓는 새로운 지표가 될 수 있습니다."
+        "미국에서 발생한 최대 규모의 정보 유출 사고는 사고 대응 능력이 기업 생존의 새로운 기준으로 부상하고 있음을 시사합니다.",
+        "보안 허가 관련 일자리에도 영향을 미칠 수 있습니다."
       ],
-      "whyImportant": "사이버 보안 침해 사고에 대한 효과적인 대응 전략의 중요성을 강조합니다.",
-      "importanceRationale": "근거: 미국 최대 규모의 침해 사고가 발생했으며, 이는 기업의 사고 대응 능력이 생존에 필수적임을 시사합니다.",
+      "whyImportant": "사이버 보안 사고 발생 시 신속하고 효과적인 대응이 기업의 생존에 결정적인 요소가 되고 있음을 보여줍니다.",
+      "importanceRationale": "근거: 정보 유출 사고의 규모와 빈도가 증가함에 따라, 사고 발생 후 대응 능력은 기업의 평판, 재정적 안정성, 그리고 법적 책임에 직접적인 영향을 미칩니다.",
       "impactSignals": [],
       "dedupeKey": "americas_largest_breach_incident_response",
       "clusterKey": "america",
@@ -250,21 +277,48 @@
       "importance": 2,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 요약이 가능함 / 근거부족",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었습니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-02-28_10",
+      "id": "2026-02-28_11",
+      "date": "2026-02-28",
+      "category": "정책",
+      "title": "여당 주도 '대법관 증원법' 국회 본회의 상정...국민의힘, 필리버스터 돌입",
+      "summary": [
+        "여당 주도로 추진된 '대법관 증원법'이 국회 본회의에 상정되었다.",
+        "이에 국민의힘은 필리버스터를 통해 법안 처리를 저지하겠다고 밝혔다."
+      ],
+      "whyImportant": "대법관 증원법의 국회 본회의 상정과 그에 대한 국민의힘의 필리버스터 돌입은 정치적 갈등을 심화시키고 법안 처리 과정에 상당한 영향을 미칠 수 있다.",
+      "importanceRationale": "근거: 법안의 내용과 여야의 첨예한 대립으로 인해 법안 통과 여부가 불투명하며, 이는 향후 사법부 구성 및 운영에 중요한 변화를 가져올 수 있기 때문이다.",
+      "impactSignals": [],
+      "dedupeKey": "여당 주도 '대법관 증원법' 국회 본회의 상정...국민의힘, 필리버스터 돌입",
+      "clusterKey": "국민의힘",
+      "matchedTo": null,
+      "sourceName": "뉴스인",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBKeGhfNVM3cDJ4NW9QWlRmYjV3RFdLTG1FbzB5ZFpfb1FTQzVWNGdjZ1Z0ZmY5UlJ4Tl9leGJaMVQ2bkk1S0tYODg3NUM4eVZvaU9haVU1WWF3a3JuSXVZMTY4RXgwcEM2NFNZ?oc=5",
+      "publishedAt": "2026-02-27T14:10:59.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 75,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 핵심 내용을 전달한다. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-02-28_12",
       "date": "2026-02-28",
       "category": "에너지",
       "title": "SK이노베이션 E&S, 호주 가스전 LNG 국내 첫 입항…향후 20년간 LNG 2600만톤 확보",
       "summary": [
-        "SK이노베이션 E&S가 호주 가스전 LNG를 국내에 처음으로 들여왔습니다.",
+        "SK이노베이션 E&S가 호주 가스전에서 생산된 LNG를 국내에 처음으로 들여왔습니다.",
         "향후 20년간 LNG 2600만톤을 확보하여 자원 안보와 에너지 자립에 기여할 것으로 예상됩니다."
       ],
-      "whyImportant": "SK이노베이션 E&S의 호주 가스전 LNG 국내 첫 입항은 에너지 자립에 중요한 단계입니다.",
-      "importanceRationale": "근거: 20년간 LNG 2600만톤 확보를 통해 자원 안보 및 에너지 자립에 기여한다는 점이 명시되어 있습니다.",
+      "whyImportant": "이번 LNG 확보는 대한민국의 에너지 안보를 강화하는 데 중요한 역할을 합니다.",
+      "importanceRationale": "근거: SK이노베이션 E&S가 20년간 LNG 2600만톤을 확보함으로써 국내 에너지 자립도를 높이고, 외부 요인에 의한 에너지 수급 불안정성을 완화할 수 있습니다.",
       "impactSignals": [],
       "dedupeKey": "SK이노베이션 E&S, 호주 가스전 LNG 국내 첫 입항",
       "clusterKey": "에너지/20년간",
@@ -277,51 +331,23 @@
       "importance": 2,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "The article provides a clear and concise summary of the event. / 근거부족",
+      "qualityReason": "기사 내용이 명확하고 간결하며, 핵심 정보를 잘 전달하고 있습니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-02-28_11",
-      "date": "2026-02-28",
-      "category": "정책",
-      "title": "정부, 한전·한수원 중재 국내 이관 권고…적극행정위 첫 적용 - 한국무역협회",
-      "summary": [
-        "정부가 한국전력과 한국수력원자력의 중재를 국내로 이관하도록 권고했다.",
-        "이는 적극행정위원회가 처음으로 적용된 사례이다.",
-        "해당 내용은 한국무역협회를 통해 발표되었다."
-      ],
-      "whyImportant": "이번 결정은 공공기관의 분쟁 해결 방식에 대한 정부의 정책적 방향을 제시합니다.",
-      "importanceRationale": "근거: 정부가 한전 및 한수원 중재를 국내로 이관하도록 권고하고, 적극행정위원회가 처음 적용된 사례이므로 정책적 중요성이 높습니다.",
-      "impactSignals": [],
-      "dedupeKey": "gov-hanjeon-hansuwon-arbitration-domestic-transfer",
-      "clusterKey": "국내",
-      "matchedTo": null,
-      "sourceName": "한국무역협회-KITA.NET",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOajdKZGVJbEstWHpxZk9BX0dlYjE3T19ZMF8ycHNySFB0NllDbjh5dGloT1RkUGFJMTB3U0N1TDdwWEFnLV9zQ0htaERrdnBicTlLbzEwY2pyMkFvYlZXUFdsQkZmVUZ3QUh4OWdDNUN5TjVqdzlJTndzRkJMc3ItQ1g4RF9SZmdEb2hBbWlMRThXU3V3NGZDLXlBc2Q2NTZHd0pRSGlDVVQtTFpJa05NMnB4M1ZZWlBSRjlWbkRoeWVtZVJhUFJxb0htMHZRaU1QLW43MA?oc=5",
-      "publishedAt": "2026-02-27T10:46:54.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 75,
-      "qualityLabel": "ok",
-      "qualityReason": "기사 내용이 간결하고 명확하며, 정책적 변화를 다루고 있습니다. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-02-28_12",
+      "id": "2026-02-28_13",
       "date": "2026-02-28",
       "category": "정책",
       "title": "공공의대 법안, 국회 복지위 법안소위 통과...15년 의무복무",
       "summary": [
         "공공의대 법안이 국회 복지위 법안소위를 통과했다.",
-        "해당 법안은 15년 의무복무를 포함하고 있다."
+        "해당 법안은 15년 의무복무를 포함한다."
       ],
-      "whyImportant": "공공의료 강화 및 지역 간 의료 불균형 해소에 기여할 수 있는 정책 변경이다.",
-      "importanceRationale": "근거: 공공의대 설립 및 의무복무 조항은 의료 인력 배치 및 공공 의료 서비스 제공 방식에 직접적인 영향을 미치므로 중요하다.",
+      "whyImportant": "공공의료 강화 및 지역 간 의료 불균형 해소에 기여할 수 있다.",
+      "importanceRationale": "근거: 공공의대 설립 및 의무복무 조항은 의료 인력 부족 문제 해결과 공공 의료 서비스 접근성 향상에 직접적인 영향을 미칠 수 있기 때문이다.",
       "impactSignals": [],
-      "dedupeKey": "public-medical-school-bill-passes-committee",
+      "dedupeKey": "공공의대 법안, 국회 복지위 법안소위 통과...15년 의무복무",
       "clusterKey": "15년",
       "matchedTo": null,
       "sourceName": "의학신문",
@@ -337,7 +363,7 @@
       "isBreaking": false
     },
     {
-      "id": "2026-02-28_13",
+      "id": "2026-02-28_14",
       "date": "2026-02-28",
       "category": "정책",
       "title": "세무사회, 최고 조세 전문가 위상 강화...2025년 세제 개편 후속 시행령에 주요 건의사항 반영",
@@ -345,15 +371,15 @@
         "세무사회가 최고의 조세 전문가로서의 위상을 높였습니다.",
         "2025년 세제 개편 후속 시행령에 세무사회의 주요 건의사항이 반영되었습니다."
       ],
-      "whyImportant": "세무사회의 전문성이 정책에 반영되어 세무 분야에 긍정적인 영향을 미칠 수 있습니다.",
-      "importanceRationale": "근거: 세무사회의 건의사항이 2025년 세제 개편 후속 시행령에 반영되었다는 것은 세무사회의 전문성이 정책 결정에 중요한 역할을 했다는 것을 의미합니다.",
+      "whyImportant": "세무사회의 전문성이 정책 결정에 반영되어 세무 분야에 중요한 영향을 미칩니다.",
+      "importanceRationale": "근거: 세무사회의 건의사항이 2025년 세제 개편 후속 시행령에 반영된 것은 세무사회의 전문성과 영향력을 보여주는 중요한 사례입니다.",
       "impactSignals": [
         {
           "label": "policy",
           "evidence": "2025년 세제 개편 후속 시행령에 세무사회 주요 건의사항 반영"
         }
       ],
-      "dedupeKey": "세무사회, 최고 조세 전문가 위상 강화...2025년 세제 개편 후속 시행령에 주요 건의사항 반영",
+      "dedupeKey": "tax_association_policy_2025",
       "clusterKey": "25년",
       "matchedTo": null,
       "sourceName": "세무사신문",
@@ -364,12 +390,12 @@
       "importance": 4,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 간결하게 핵심 내용을 전달합니다.",
+      "qualityReason": "기사의 내용이 명확하고 사실에 기반하고 있습니다.",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-02-28_14",
+      "id": "2026-02-28_15",
       "date": "2026-02-28",
       "category": "국제",
       "title": "글로벌 AI 저작권 분쟁 심화...정부의 '공정 이용' 판단 기준은?",
@@ -377,10 +403,10 @@
         "글로벌 AI 저작권 분쟁이 심화되고 있다.",
         "정부의 '공정 이용' 판단 기준에 대한 논의가 필요하다."
       ],
-      "whyImportant": "AI 저작권 분쟁의 심화와 정부의 공정 이용 판단 기준에 대한 논의는 AI 기술 발전과 저작권 보호 사이의 균형을 맞추는 데 중요한 영향을 미친다.",
-      "importanceRationale": "근거: AI 저작권 분쟁은 기술 발전의 중요한 법적, 윤리적 측면을 나타내며, 정부의 정책 방향은 산업 전반에 걸쳐 큰 영향을 미치기 때문이다.",
+      "whyImportant": "AI 저작권 분쟁에 대한 정부 정책 방향을 제시한다.",
+      "importanceRationale": "근거: AI 저작권 분쟁 심화에 따른 정부의 정책적 대응 필요성을 제기하므로 중요도가 높다.",
       "impactSignals": [],
-      "dedupeKey": "global_ai_copyright_dispute_intensification",
+      "dedupeKey": "global_ai_copyright_dispute_intensifies",
       "clusterKey": "격화",
       "matchedTo": null,
       "sourceName": "이코리아",
@@ -391,34 +417,7 @@
       "importance": 2,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 핵심 내용을 요약하고 있다. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-02-28_15",
-      "date": "2026-02-28",
-      "category": "정책",
-      "title": "지역 의사 양성법 시행령 재입법 예고, '선발 비율' 명시",
-      "summary": [
-        "지역 의사 양성법 시행령이 재입법 예고되었습니다.",
-        "이번 시행령에는 의사 선발 비율이 명시되었습니다."
-      ],
-      "whyImportant": "지역 의사 양성 정책의 구체적인 시행 방안을 담고 있어 의료계에 중요한 영향을 미칩니다.",
-      "importanceRationale": "근거: 지역 의사 양성법 시행령은 지역 의료 서비스 개선을 목표로 하며, 선발 비율 명시는 정책 실행의 핵심 요소입니다.",
-      "impactSignals": [],
-      "dedupeKey": "지역 의사 양성법 시행령 재입법 예고",
-      "clusterKey": "메드월드뉴스",
-      "matchedTo": null,
-      "sourceName": "메드월드뉴스",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBqbnQ0ZnRfN1ZJa0Z1SG9yRDNOTlZBUmw0ZlNHcllwZjk2NG5xV3VFeF9iN2tfUVpmNWRoMlIzTG9lcEVEOEpPdklWNFQ3akxWbnJQc1dfMENLVDNuMjVEd3lPUEpidm8?oc=5",
-      "publishedAt": "2026-02-27T04:34:48.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 75,
-      "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 핵심 내용을 전달합니다. / 근거부족",
+      "qualityReason": "제목과 내용이 일치하며, 핵심 내용을 잘 요약했다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -426,15 +425,15 @@
       "id": "2026-02-28_16",
       "date": "2026-02-28",
       "category": "경제",
-      "title": "'경이적 실적'에도 불구하고 엔비디아 주가 하락…월가의 우려 심화",
+      "title": "'경이적 실적'에도 불구하고 엔비디아 주가 하락... 월가의 우려 심화",
       "summary": [
-        "엔비디아의 놀라운 실적 발표에도 불구하고 주가가 하락했습니다.",
-        "월가에서는 이에 대한 우려가 커지고 있습니다."
+        "엔비디아의 실적 발표 후 주가가 하락하며 월가의 우려가 커지고 있다.",
+        "상세한 원인은 기사 본문에 제시될 예정이다."
       ],
-      "whyImportant": "엔비디아의 주가 변동은 기술주 투자 심리에 중요한 영향을 미칩니다.",
-      "importanceRationale": "근거: 엔비디아는 기술 산업의 주요 기업이며, 실적과 주가 변동은 전체 시장에 파급 효과를 가져올 수 있습니다.",
+      "whyImportant": "엔비디아의 주가 변동은 기술주 투자 심리에 영향을 미칠 수 있다.",
+      "importanceRationale": "근거: 엔비디아는 기술 산업의 주요 기업 중 하나이며, 실적과 주가 변동은 시장 전반에 영향을 줄 수 있기 때문이다.",
       "impactSignals": [],
-      "dedupeKey": "nvidia-stock-drop-after-earnings",
+      "dedupeKey": "nvidia-stock-drop-korean",
       "clusterKey": "걱정하는",
       "matchedTo": null,
       "sourceName": "한국경제",
@@ -445,7 +444,7 @@
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 간결하게 핵심 내용을 요약했습니다. / 근거부족",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약됨. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -456,10 +455,10 @@
       "title": "OpenAI, Tumbler Ridge 총격 사건 이후 안전 정책 변경 약속",
       "summary": [
         "OpenAI는 Tumbler Ridge 총격 사건 이후 안전 정책 변경을 약속했습니다.",
-        "이번 조치는 BBC의 보도에 따른 것입니다."
+        "이번 조치는 BBC에 의해 보도되었습니다."
       ],
-      "whyImportant": "OpenAI의 안전 정책 변경은 AI 기술의 책임감 있는 사용에 대한 중요한 논의를 촉발할 수 있습니다.",
-      "importanceRationale": "근거: OpenAI가 실제 사건에 대응하여 정책 변경을 약속한 것은 AI 안전에 대한 사회적 요구를 반영하며, 향후 유사한 사건에 대한 선례를 만들 수 있습니다.",
+      "whyImportant": "OpenAI의 안전 정책 변경은 AI 기술의 책임감 있는 사용을 위한 중요한 단계입니다.",
+      "importanceRationale": "근거: OpenAI가 실제 사건에 대응하여 정책 변경을 약속한 것은 AI 안전에 대한 사회적 요구를 반영하며, 향후 유사한 사건 방지에 기여할 수 있습니다.",
       "impactSignals": [],
       "dedupeKey": "openai-tumbler-ridge-shooting-policy-change",
       "clusterKey": "after",
@@ -472,7 +471,7 @@
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었습니다. / 근거부족",
+      "qualityReason": "기사 제목과 내용이 일치하며, 정보가 명확합니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -485,10 +484,15 @@
         "상장 제약 회사 이사회가 상법 개정에 따라 변화하고 있습니다.",
         "특히 비만 치료제 분야에 대한 관심이 높아지고 있습니다."
       ],
-      "whyImportant": "상법 개정으로 제약 회사 이사회의 역할과 책임이 강화될 수 있으며, 비만 치료제 시장의 성장 가능성이 주목받고 있습니다.",
-      "importanceRationale": "근거: 상법 개정은 기업 지배 구조에 영향을 미치며, '상장제약 이사회'와 '비만치료제'라는 키워드를 통해 제약 업계의 변화를 시사합니다.",
-      "impactSignals": [],
-      "dedupeKey": "상법 개정, 상장제약 이사회, 비만치료제",
+      "whyImportant": "상법 개정으로 제약 회사 이사회의 역할과 책임이 강화될 수 있으며, 비만 치료제 시장에 대한 관심이 높아질 수 있습니다.",
+      "importanceRationale": "근거: 상법 개정이 상장 제약 회사의 이사회에 미치는 영향과 비만 치료제에 대한 시장의 관심 증가를 나타냅니다.",
+      "impactSignals": [
+        {
+          "label": "policy",
+          "evidence": "상법 개정이 제약 회사 이사회에 영향을 미침"
+        }
+      ],
+      "dedupeKey": "상법 개정 및 상장 제약 이사회와 비만 치료제",
       "clusterKey": "개정에",
       "matchedTo": null,
       "sourceName": "히트뉴스",
@@ -496,10 +500,10 @@
       "publishedAt": "2026-02-27T21:06:00.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 2,
+      "importance": 3.5,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었습니다. / 근거부족",
+      "qualityReason": "제목과 기사 내용이 일치하며, 정보가 명확합니다.",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -513,15 +517,11 @@
         "이는 데이터 센터의 급증으로 인한 전력 수요 증가를 시사한다."
       ],
       "whyImportant": "미시간주의 에너지 인프라 및 정책 결정에 중요한 영향을 미칠 수 있습니다.",
-      "importanceRationale": "근거: 데이터 센터의 전력 수요 증가는 에너지 자원 계획 및 인프라 투자에 대한 필요성을 강조하며, 이는 지역 경제 및 환경에 광범위한 영향을 미칠 수 있습니다.",
+      "importanceRationale": "근거: 데이터 센터의 전력 수요 증가는 에너지 자원 계획 및 투자에 대한 필요성을 강조하며, 이는 지역 경제 및 환경에 광범위한 영향을 미칠 수 있습니다.",
       "impactSignals": [
         {
           "label": "capex",
           "evidence": "데이터 센터 건설 및 운영에 필요한 막대한 자본 지출이 예상됨"
-        },
-        {
-          "label": "market-demand",
-          "evidence": "데이터 센터의 전력 수요 증가는 시장 수요 증가를 반영함"
         }
       ],
       "dedupeKey": "michigan_data_centers_power_needs",
@@ -535,36 +535,36 @@
       "importance": 3.5,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 내용이 일치하며, 정보가 명확하게 전달됨.",
+      "qualityReason": "제목과 본문이 일치하며, 정보가 명확합니다.",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-02-28_20",
       "date": "2026-02-28",
-      "category": "에너지",
-      "title": "트럼프, 데이터 센터 이전 추진. 의회는 미온적.",
+      "category": "기술",
+      "title": "트럼프, 정부에 AI 기업 'Anthropic'과의 거래 중단 명령 후 헤그세트, Anthropic을 공급망 '위험'으로 지목",
       "summary": [
-        "트럼프 대통령이 데이터 센터 이전을 추진하고 있지만, 의회의 반응은 미지근하다.",
-        "정치 전문 매체인 E&E 뉴스가 이 소식을 보도했다."
+        "트럼프 대통령이 정부 기관에 AI 기업인 Anthropic과의 거래를 중단하라는 명령을 내렸습니다.",
+        "이에 따라 헤그세트는 Anthropic을 공급망의 '위험' 요소로 평가했습니다."
       ],
-      "whyImportant": "데이터 센터 이전 정책의 향방을 가늠할 수 있는 중요한 지표.",
-      "importanceRationale": "근거: 트럼프 대통령의 의지와 의회의 반응 간의 괴리가 정책 추진의 불확실성을 높이기 때문.",
+      "whyImportant": "Anthropic에 대한 잠재적 시장 수요 감소.",
+      "importanceRationale": "근거: 트럼프 대통령의 명령으로 정부의 Anthropic 제품 사용이 중단되었고, 이는 시장 수요에 부정적인 영향을 미칠 수 있습니다.",
       "impactSignals": [],
-      "dedupeKey": "trump-data-center-congress-0923",
-      "clusterKey": "centers",
+      "dedupeKey": "hegseth-anthropic-trump-07242024",
+      "clusterKey": "after",
       "matchedTo": null,
-      "sourceName": "E&E News by POLITICO",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWXNzNTBhQThTNmJGZnZiTF8zV0gwaWk1RW02VXNtNC1xRDVIWFhRVUFzdlZzaVE5dVBtSFYwRjRqQldkd09MLVE2OHpTQVN1bnIxWmJmWmxPTlpScGoyc2puUThjWllGTHF2LWZBc2tiaGR1d2FuOUxTcUI4eXpDWDNVUFNDektpQlRIX0ZXVi1GSjQ?oc=5",
-      "publishedAt": "2026-02-27T11:44:00.000Z",
+      "sourceName": "Breaking Defense",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUTNtSmVRNG1URUg2RjZFWk5QSVY4MTlSZG5uM2lxbTdtenVxQWkybHlzUXNRZDhhS1ZKb1MwbFdlalhxT2g4MExsdFZXSWEtMTdxajhTYUJNVXBEWkdNZnEzcDB3MHRRanR0SnZDT252cmJZcmFJSlVrRHd3OC04dnBocF93azYwVlZVb05aNmhDZnFzaDVuOWIzU0VCQWl6b0VVbVZTcFRONjZhR1FYQnd5RTdlOFpTMzJGUDJqQQ?oc=5",
+      "publishedAt": "2026-02-27T22:30:00.000Z",
       "readTimeSec": 10,
       "status": "kept",
       "importance": 2,
       "importanceRaw": 50,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 간결하게 요약됨. / 근거부족",
+      "qualityReason": "제목과 본문이 일치하며, 내용이 간결하고 명확합니다. / 근거부족",
       "isBriefing": false,
-      "isBreaking": false
+      "isBreaking": true
     }
   ]
 }
