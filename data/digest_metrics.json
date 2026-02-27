@@ -6,37 +6,37 @@
   "dropped": 265,
   "dropReasons": {
     "outdated": 93,
-    "carry_over_duplicate": 40,
+    "carry_over_duplicate": 37,
     "hard_excluded_keyword": 6,
     "excluded_keyword": 1,
-    "duplicate_title": 6,
+    "duplicate_title": 5,
     "duplicate_dedupe_key": 4,
-    "not_selected": 115
+    "semantic_duplicate": 1,
+    "not_selected": 118
   },
   "impactLabels": {
-    "capex": 1,
-    "policy": 1
+    "market-demand": 1,
+    "policy": 2,
+    "capex": 1
   },
   "sources": {
     "ARLnow": 1,
+    "Supply & Demand Chain Executive": 1,
     "Morningstar Canada": 1,
     "Barron's": 1,
-    "연합뉴스 한민족센터": 1,
+    "연합뉴스 한민족센터": 2,
+    "Reuters": 1,
     "SOC Prime": 1,
     "Security Clearance Jobs": 1,
-    "WKAR": 1,
-    "FoodChain Magazine": 1,
+    "한국전력신문": 1,
+    "인공지능신문": 2,
     "의학신문": 1,
     "세무사신문": 1,
-    "이코리아": 1,
     "mt.co.kr": 1,
-    "인공지능신문": 1,
-    "뉴스인": 1,
-    "테크데일리": 1,
     "한국경제": 1,
-    "WHYY": 1,
-    "grist.org": 1,
-    "CME Group": 1,
+    "히트뉴스": 1,
+    "WKAR": 1,
+    "E&E News by POLITICO": 1,
     "Rural Radio Network": 1
   },
   "topicStats": {
@@ -52,13 +52,13 @@
     },
     "글로벌_정세": {
       "in": 24,
-      "out": 2,
-      "dropped": 22
+      "out": 3,
+      "dropped": 21
     },
     "글로벌_빅테크": {
       "in": 18,
-      "out": 0,
-      "dropped": 18
+      "out": 1,
+      "dropped": 17
     },
     "실적_가이던스": {
       "in": 24,
@@ -77,8 +77,8 @@
     },
     "AI_저작권_데이터권리": {
       "in": 20,
-      "out": 4,
-      "dropped": 16
+      "out": 2,
+      "dropped": 18
     },
     "보안_취약점_패치": {
       "in": 20,
@@ -87,13 +87,13 @@
     },
     "투자_MA_IPO": {
       "in": 20,
-      "out": 0,
-      "dropped": 20
+      "out": 1,
+      "dropped": 19
     },
     "국내_정책_규제": {
       "in": 15,
-      "out": 3,
-      "dropped": 12
+      "out": 2,
+      "dropped": 13
     },
     "국내_산업_공급망": {
       "in": 15,
@@ -122,8 +122,7 @@
       "outdated": 2
     },
     "비즈니스포스트": {
-      "outdated": 2,
-      "carry_over_duplicate": 1
+      "outdated": 2
     },
     "매일경제": {
       "outdated": 3
@@ -134,13 +133,14 @@
     "쿠키뉴스": {
       "outdated": 1
     },
+    "뉴스토마토": {
+      "outdated": 1,
+      "not_selected": 2
+    },
     "knn.co.kr": {
       "outdated": 1
     },
     "부산일보사": {
-      "outdated": 1
-    },
-    "KPI뉴스": {
       "outdated": 1
     },
     "Rest of World": {
@@ -158,13 +158,13 @@
     "Bipartisan Policy Center": {
       "outdated": 1
     },
-    "Data Center Dynamics": {
-      "outdated": 1
-    },
     "Data Center Knowledge": {
       "outdated": 1
     },
     "Cornell Chronicle": {
+      "outdated": 1
+    },
+    "Davis Wright Tremaine": {
       "outdated": 1
     },
     "바이오타임즈": {
@@ -184,7 +184,7 @@
       "outdated": 3,
       "carry_over_duplicate": 2,
       "duplicate_dedupe_key": 1,
-      "not_selected": 2
+      "not_selected": 3
     },
     "포인트데일리": {
       "outdated": 1
@@ -216,11 +216,7 @@
     },
     "Reuters": {
       "outdated": 3,
-      "carry_over_duplicate": 2,
-      "not_selected": 2
-    },
-    "MSCI": {
-      "outdated": 1
+      "carry_over_duplicate": 1
     },
     "Institute for Energy Economics and Financial Analysis (IEEFA)": {
       "outdated": 1
@@ -228,22 +224,25 @@
     "Bank of Canada": {
       "hard_excluded_keyword": 1
     },
-    "FinancialContent": {
-      "hard_excluded_keyword": 1
-    },
     "ASEAN Centre for Energy (ACE)": {
       "outdated": 1
+    },
+    "FinancialContent": {
+      "hard_excluded_keyword": 1
     },
     "The World Economic Forum": {
       "hard_excluded_keyword": 1
     },
-    "Discovery Alert": {
+    "Bank for International Settlements": {
       "outdated": 1
     },
     "Federal Reserve Bank of Dallas": {
       "outdated": 1
     },
     "RMI": {
+      "outdated": 1
+    },
+    "Discovery Alert": {
       "outdated": 1
     },
     "Modern Healthcare": {
@@ -253,14 +252,8 @@
       "outdated": 1
     },
     "한국무역협회-KITA.NET": {
-      "carry_over_duplicate": 2,
-      "outdated": 1,
-      "not_selected": 2
-    },
-    "연합뉴스 한민족센터": {
-      "carry_over_duplicate": 1,
-      "duplicate_dedupe_key": 1,
-      "not_selected": 5
+      "carry_over_duplicate": 3,
+      "outdated": 1
     },
     "Global Trade Magazine": {
       "carry_over_duplicate": 1
@@ -280,15 +273,16 @@
     "NVIDIA Newsroom": {
       "duplicate_title": 1
     },
-    "Yahoo Finance": {
+    "디일렉": {
+      "outdated": 1,
+      "not_selected": 3
+    },
+    "SBS Biz": {
+      "duplicate_dedupe_key": 1
+    },
+    "Chosunbiz": {
       "duplicate_dedupe_key": 1,
-      "carry_over_duplicate": 1
-    },
-    "whbl.com": {
-      "duplicate_title": 1
-    },
-    "리드경제": {
-      "carry_over_duplicate": 1
+      "not_selected": 2
     },
     "Information Technology and Innovation Foundation": {
       "outdated": 2
@@ -335,14 +329,8 @@
     "San Francisco Examiner": {
       "carry_over_duplicate": 1
     },
-    "Business Insider": {
-      "carry_over_duplicate": 1
-    },
     "뉴시스": {
       "duplicate_dedupe_key": 1
-    },
-    "프라임경제": {
-      "outdated": 2
     },
     "Inside Global Tech": {
       "outdated": 1
@@ -359,13 +347,13 @@
     "Tech Policy Press": {
       "outdated": 1
     },
+    "U.S. Senate (.gov)": {
+      "outdated": 1
+    },
     "www.hoganlovells.com": {
       "outdated": 1
     },
     "WilmerHale": {
-      "outdated": 1
-    },
-    "U.S. Senate (.gov)": {
       "outdated": 1
     },
     "유니콘팩토리": {
@@ -393,7 +381,8 @@
       "outdated": 1
     },
     "ERP Today": {
-      "carry_over_duplicate": 1
+      "carry_over_duplicate": 1,
+      "not_selected": 1
     },
     "CyberScoop": {
       "outdated": 1
@@ -406,7 +395,7 @@
     },
     "연합인포맥스": {
       "outdated": 4,
-      "not_selected": 5
+      "not_selected": 3
     },
     "OpenAI": {
       "duplicate_title": 1
@@ -414,6 +403,13 @@
     "Axios": {
       "duplicate_title": 1,
       "not_selected": 1
+    },
+    "Yahoo Finance": {
+      "carry_over_duplicate": 1,
+      "not_selected": 2
+    },
+    "WTVB": {
+      "carry_over_duplicate": 1
     },
     "한국세정신문": {
       "carry_over_duplicate": 1
@@ -435,9 +431,6 @@
     "철강금속신문": {
       "outdated": 1
     },
-    "기계신문": {
-      "hard_excluded_keyword": 1
-    },
     "TIN뉴스": {
       "outdated": 1
     },
@@ -457,6 +450,9 @@
     "인사이트에너지뉴스": {
       "outdated": 1
     },
+    "IT비즈뉴스": {
+      "hard_excluded_keyword": 1
+    },
     "이로운넷": {
       "outdated": 1
     },
@@ -467,6 +463,9 @@
       "outdated": 1
     },
     "생글생글": {
+      "outdated": 1
+    },
+    "프라임경제": {
       "outdated": 1
     },
     "뉴스투데이": {
@@ -481,11 +480,11 @@
     "매일경제TV": {
       "outdated": 1
     },
+    "노컷뉴스": {
+      "semantic_duplicate": 1
+    },
     "AI넷": {
       "not_selected": 1
-    },
-    "뉴스토마토": {
-      "not_selected": 2
     },
     "24news.kr": {
       "not_selected": 1
@@ -496,10 +495,10 @@
     "Boston Consulting Group": {
       "not_selected": 1
     },
-    "Center for American Progress": {
+    "CLEPA | European Association of Automotive Suppliers": {
       "not_selected": 1
     },
-    "CLEPA | European Association of Automotive Suppliers": {
+    "fastcasual.com": {
       "not_selected": 1
     },
     "AI Magazine": {
@@ -508,17 +507,11 @@
     "crn.com": {
       "not_selected": 1
     },
-    "Barron's": {
-      "not_selected": 1
-    },
     "Apple": {
       "not_selected": 1
     },
-    "뉴스1": {
-      "not_selected": 3
-    },
-    "Chosunbiz": {
-      "not_selected": 3
+    "CME Group": {
+      "not_selected": 1
     },
     "24/7 Wall St.": {
       "not_selected": 1
@@ -526,13 +519,13 @@
     "mstoday.co.kr": {
       "not_selected": 2
     },
-    "디일렉": {
+    "연합뉴스 한민족센터": {
       "not_selected": 4
     },
-    "E&E News by POLITICO": {
-      "not_selected": 1
-    },
     "IAPP": {
+      "not_selected": 2
+    },
+    "서울파이낸스": {
       "not_selected": 2
     },
     "Crunchbase News": {
@@ -544,8 +537,11 @@
     "DealSite경제TV": {
       "not_selected": 1
     },
+    "1코노미뉴스": {
+      "not_selected": 1
+    },
     "__others__": {
-      "not_selected": 57
+      "not_selected": 66
     }
   },
   "breakingSelection": {
@@ -556,18 +552,19 @@
   },
   "categories": {
     "에너지": 4,
+    "기술": 1,
     "경제": 5,
     "국제": 5,
-    "정책": 5,
-    "기술": 1
+    "정책": 5
   },
   "importanceDistribution": {
-    "2": 18,
-    "4": 2
+    "2": 16,
+    "4": 1,
+    "3.5": 3
   },
   "topDiversity": {
-    "uniqueSources": 20,
+    "uniqueSources": 18,
     "uniqueCategories": 5,
-    "maxPerSource": 1
+    "maxPerSource": 2
   }
 }
