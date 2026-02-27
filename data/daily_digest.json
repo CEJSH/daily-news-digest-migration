@@ -3,7 +3,7 @@
   "selectionCriteria": "① 내일도 영향이 남는 이슈 ② 과도한 감정 소모 제외 ③ 어제와 중복되는 뉴스 제외",
   "editorNote": "이 뉴스는 클릭 수가 아니라 오늘 이후에도 남는 정보만 기준으로 편집했습니다.",
   "question": "정보를 덜 보는 것이 오히려 더 똑똑한 소비일까?",
-  "lastUpdatedAt": "2026-02-27T17:37:39.816+09:00",
+  "lastUpdatedAt": "2026-02-27T18:38:07.255+09:00",
   "items": [
     {
       "id": "2026-02-27_1",
@@ -12,12 +12,12 @@
       "title": "정부, 구글 '고정밀 지도 반출' 조건부 허가…군사 시설 등 가려야",
       "summary": [
         "정부가 구글의 고정밀 지도 데이터 반출을 조건부로 허가했습니다.",
-        "이번 허가는 군사 시설 등의 보안 유지를 조건으로 합니다."
+        "이번 허가는 군사 시설 등 민감한 정보는 가려야 한다는 조건을 포함합니다."
       ],
-      "whyImportant": "구글의 지도 데이터 반출 허용은 국내 공간 정보 산업 및 안보에 영향을 미칠 수 있습니다.",
-      "importanceRationale": "근거: 정부의 정책 결정은 구글의 서비스 제공 방식과 국내 산업에 직접적인 영향을 미치며, 동시에 국가 안보와 관련된 민감한 정보 보호 문제와도 연결됩니다.",
+      "whyImportant": "구글의 지도 서비스 품질 향상 및 국내 공간 정보 산업에 미치는 영향.",
+      "importanceRationale": "근거: 구글의 고정밀 지도 데이터 반출 허가는 정책적 결정이며, 국내 공간 정보 산업 투자와 관련될 수 있습니다.",
       "impactSignals": [],
-      "dedupeKey": "google-maps-export-conditional-approval",
+      "dedupeKey": "google-map-export-conditional-approval",
       "clusterKey": "고정밀",
       "matchedTo": null,
       "sourceName": "한겨레",
@@ -26,9 +26,9 @@
       "readTimeSec": 10,
       "status": "kept",
       "importance": 2,
-      "importanceRaw": 75,
+      "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 간결하게 요약되었습니다. / 근거부족",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었습니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -38,17 +38,12 @@
       "category": "경제",
       "title": "조지아 파워, 데이터 센터 급증에 따라 220억 달러 규모 확장 계획",
       "summary": [
-        "조지아 파워는 데이터 센터 수요 급증에 따라 220억 달러 규모의 확장 계획을 발표했습니다.",
-        "이번 확장은 조지아 주의 전력 인프라를 크게 강화할 것으로 예상됩니다."
+        "조지아 파워는 데이터 센터 수요 증가에 따라 220억 달러 규모의 확장 계획을 발표했습니다.",
+        "이번 확장은 조지아주의 전력 인프라를 크게 강화할 것으로 예상됩니다."
       ],
-      "whyImportant": "데이터 센터 수요 증가에 따른 대규모 투자 계획은 지역 경제 및 전력 인프라에 중요한 영향을 미칩니다.",
-      "importanceRationale": "근거: 데이터 센터의 급증은 전력 수요를 증가시키고, 이에 대한 조지아 파워의 대규모 투자는 관련 산업 및 지역 경제에 상당한 영향을 미칠 수 있습니다.",
-      "impactSignals": [
-        {
-          "label": "policy",
-          "evidence": "데이터 센터 확장에 따른 전력 수요 증가에 대한 정부 정책 및 규제 변화 가능성"
-        }
-      ],
+      "whyImportant": "데이터 센터 수요 증가에 따른 조지아 파워의 대규모 확장 계획은 지역 경제와 전력 인프라에 중요한 영향을 미칩니다.",
+      "importanceRationale": "근거: 데이터 센터의 급증으로 인해 조지아 파워가 220억 달러 규모의 확장을 계획하고 있으며, 이는 정책 및 자본 지출 측면에서 중요한 변화를 의미합니다.",
+      "impactSignals": [],
       "dedupeKey": "georgia_power_22b_expansion",
       "clusterKey": "에너지/billion",
       "matchedTo": null,
@@ -57,10 +52,10 @@
       "publishedAt": "2026-02-26T13:24:00.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 4,
+      "importance": 2,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 정보가 명확합니다.",
+      "qualityReason": "기사 제목과 내용이 일치하며, 핵심 정보를 잘 요약했습니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -73,14 +68,9 @@
         "무역 금융 접근성이 글로벌 공급망 확장에 미치는 영향에 대한 기사입니다.",
         "자세한 내용은 Global Trade Magazine에서 확인할 수 있습니다."
       ],
-      "whyImportant": "무역 금융 접근성이 공급망 확장에 미치는 영향을 이해하는 것이 중요합니다.",
+      "whyImportant": "무역 금융 접근성이 공급망에 미치는 영향을 이해하는 것이 중요합니다.",
       "importanceRationale": "근거: 무역 금융은 국제 무역의 중요한 요소이며, 이에 대한 접근성은 기업의 공급망 확장 능력에 직접적인 영향을 미칩니다.",
-      "impactSignals": [
-        {
-          "label": "policy",
-          "evidence": "무역 금융 접근성은 정부 정책 및 규제에 영향을 받습니다."
-        }
-      ],
+      "impactSignals": [],
       "dedupeKey": "trade_finance_supply_chain_expansion",
       "clusterKey": "access",
       "matchedTo": null,
@@ -89,10 +79,10 @@
       "publishedAt": "2026-02-27T07:07:28.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 3.5,
+      "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 정보가 간결하게 제공됩니다.",
+      "qualityReason": "제목과 내용이 일치하며, 정보가 간결하게 제공됨. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -100,101 +90,45 @@
       "id": "2026-02-27_4",
       "date": "2026-02-27",
       "category": "정책",
-      "title": "미국 컨설턴트, \"한국-쿠팡, 건설적 해법 찾길…김범석, 국회서 사과해야\"",
+      "title": "초대형 데이터 센터의 '지역 사회 혜택'은 매우 어려운 과제",
       "summary": [
-        "미국 컨설턴트가 한국과 쿠팡이 건설적인 해법을 찾기를 희망한다고 밝혔다.",
-        "김범석 쿠팡Inc 의장이 국회에서 사과해야 한다고 주장했다.",
-        "한국무역협회(KITA)가 관련 내용을 보도했다."
+        "초대형 데이터 센터로부터 '지역 사회 혜택'을 얻는 것은 쉽지 않은 일이다.",
+        "Tech Policy Press에서 관련 내용을 보도했다."
       ],
-      "whyImportant": "쿠팡의 정책 및 투자 방향에 대한 외부 전문가의 의견을 제시합니다.",
-      "importanceRationale": "근거: 미국 컨설턴트의 발언은 쿠팡의 경영 방식 및 한국 시장에 대한 정책적 함의를 내포하고 있어 중요합니다.",
-      "impactSignals": [],
-      "dedupeKey": "미국컨설턴트,쿠팡,국회사과요구",
-      "clusterKey": "건설적해법",
+      "whyImportant": "데이터 센터 건설에 따른 지역 사회의 이익에 대한 논의를 촉발합니다.",
+      "importanceRationale": "근거: 초대형 데이터 센터가 지역 사회에 미치는 영향에 대한 정책적 논의와 자본 지출 관련 고려 사항을 강조하므로 중요합니다.",
+      "impactSignals": [
+        {
+          "label": "capex",
+          "evidence": "초대형 데이터 센터 건설에 필요한 자본 지출"
+        }
+      ],
+      "dedupeKey": "hyperscale-data-center-community-benefits",
+      "clusterKey": "benefits",
       "matchedTo": null,
-      "sourceName": "한국무역협회-KITA.NET",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQX0Y5S2x3YmJGUE9RUk9jQTBMQ254S2lJV0tvVHp6bVYwdkdzN1VCbjJqbVJmb1ZFTE82R0IwamlHU01hVmlDWXYwdFpDTngyRURySkpuaHRfV3RpMjNPQnVRTmVYeG12OEVsOTVMSXJCRWFxdE5pWktZSG1ManU4MC03NnYxcW1PcFV0YURkaF93OTdrcmxPRWNNbngtelRGR29FcVBEX25LNjVJRzU5ZkcyeVFZUDY5WFlqWnNsUzhwa19VbjloQUc0QjlMNlRaTUU3OQ?oc=5",
-      "publishedAt": "2026-02-27T00:46:10.000Z",
+      "sourceName": "Tech Policy Press",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPS3JCODh4bVpaZWJlbTVsSXFmN0lUZnJveXRTWldlWjItVUQ3WHVxeEFKQWlwZ1JIMXZMVlNXbEROWVZVaWs4alNld1ZtUTBiN0Rnb1lMYXU4QmpQOUlKOWRseE5SbGo2MmlpVjNmWjdTX3FGaHVKcV93RzJ6MUxXeFJVemdEVUJobEpobEFNUFp0U3UwYXNoY0RVdkMzRWZGTXE5TQ?oc=5",
+      "publishedAt": "2026-02-26T19:56:31.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 2,
-      "importanceRaw": 63,
+      "importance": 3,
+      "importanceRaw": 50,
       "qualityLabel": "ok",
-      "qualityReason": "기사 내용이 간결하고 명확하게 전달됨 / 근거부족",
+      "qualityReason": "기사 제목과 내용이 일치하며, 정보가 명확하게 전달됨.",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-02-27_5",
       "date": "2026-02-27",
-      "category": "정책",
-      "title": "트럼프, AI 데이터 센터가 전기 요금을 인상하지 않을 것이라고 발언. 전문가들은 그의 주장의 실현 가능성에 의문을 제기",
-      "summary": [
-        "트럼프는 AI 데이터 센터가 전기 요금을 인상하지 않을 것이라고 주장했습니다.",
-        "전문가들은 트럼프의 주장이 실제로 시행될 수 있는지에 대해 의문을 제기합니다.",
-        "AI 데이터 센터의 전력 소비량 증가에 대한 우려가 제기되고 있습니다."
-      ],
-      "whyImportant": "AI 데이터 센터의 전력 소비와 관련된 정책적 논의의 시작점이 될 수 있습니다.",
-      "importanceRationale": "근거: 트럼프 전 대통령의 발언은 향후 AI 데이터 센터 건설 및 운영에 대한 정책적 개입 가능성을 시사하며, 이는 관련 산업 투자 및 에너지 정책에 영향을 미칠 수 있습니다.",
-      "impactSignals": [
-        {
-          "label": "capex",
-          "evidence": "AI 데이터 센터 건설 및 운영 관련 투자에 영향을 미칠 수 있습니다."
-        }
-      ],
-      "dedupeKey": "trump-ai-power-bills",
-      "clusterKey": "에너지/centers",
-      "matchedTo": null,
-      "sourceName": "inc.com",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQSGwzSUdFaEpPYTdGeXlFZTNyaklyLWxTUTJxc09XM2RYM0JFMGhCQTczQlZrZkIxLTB4b05tZjJ5dU5sa0xEdVliTURTeFkzOHUwQkM4cWkwNU9oeTNqWl9OZjRENW5GRlFzdGk5VUNhZWEzdFRxcllhVDNRX0REaEl1VHV2VTFHYmR0QXAxVlhEbmMzSWpNWTlSX0dpb0p0N3RJaTlMZFA4bEZJaGlMX0EyR05HTkFGeDlTQTVNZUZQUzJYWXM5Ulh2TG9LNmE2NU9lNzB6cUNaazVzdVRHSkFlRkU4QQ?oc=5",
-      "publishedAt": "2026-02-26T22:37:45.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 3.5,
-      "importanceRaw": 63,
-      "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 요약이 명확합니다.",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-02-27_6",
-      "date": "2026-02-27",
       "category": "경제",
-      "title": "쿠팡, 작년 4분기 영업이익 97% 급감…개인정보 유출 타격",
-      "summary": [
-        "쿠팡의 작년 4분기 영업이익이 97% 급감했다.",
-        "이는 개인정보 유출이 영향을 미친 것으로 분석된다."
-      ],
-      "whyImportant": "쿠팡의 영업이익 급감은 기업의 보안 문제와 수익성에 대한 우려를 야기한다.",
-      "importanceRationale": "근거: 개인정보 유출 사고가 기업의 수익성에 직접적인 영향을 미칠 수 있음을 보여주는 사례이며, 이는 투자자와 소비자에게 중요한 정보이다.",
-      "impactSignals": [],
-      "dedupeKey": "coupang_profit_drop_2024",
-      "clusterKey": "4분기",
-      "matchedTo": null,
-      "sourceName": "매일노동뉴스",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1yeEtVXzJkcFF4NTJKVUJnUDV2b2p4MktZNkJNTE1CQ2czZkZSYW1FZUl0alc5YTBwS2xWREJ3Yk94U3FlMi1PR2dhOERTVy1LMEN1TjY3S3gxczcwLV9rQ1FMM3dBaVpCSkJDQmN5Wnc?oc=5",
-      "publishedAt": "2026-02-27T06:12:38.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 75,
-      "qualityLabel": "ok",
-      "qualityReason": "기사에 명확한 정보가 제시되어 있음 / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-02-27_7",
-      "date": "2026-02-27",
-      "category": "경제",
-      "title": "엔비디아, 사상 최고 실적에도 5.5% 급락… \"AI 거품 우려 재확산\"",
+      "title": "엔비디아, 사상 최고 실적에도 5.5% 급락…AI 거품 우려 재확산",
       "summary": [
         "엔비디아가 사상 최고 실적을 기록했음에도 불구하고 주가가 5.5% 급락했다.",
         "이는 AI 거품에 대한 우려가 재확산된 결과로 분석된다."
       ],
-      "whyImportant": "엔비디아 주가 급락은 AI 시장 전반에 대한 투자 심리 위축을 야기할 수 있다.",
-      "importanceRationale": "근거: 엔비디아는 AI 반도체 시장의 선두 주자이며, 주가 변동은 관련 시장에 큰 영향을 미친다.",
+      "whyImportant": "엔비디아의 주가 급락은 AI 시장에 대한 투자 심리 변화를 나타내는 지표가 될 수 있다.",
+      "importanceRationale": "근거: 엔비디아는 AI 반도체 시장의 선두 주자이며, 주가 변동은 관련 시장 전체에 영향을 미칠 수 있기 때문이다.",
       "impactSignals": [],
       "dedupeKey": "nvidia_stock_drop_ai_bubble",
       "clusterKey": "거품",
@@ -205,51 +139,25 @@
       "readTimeSec": 10,
       "status": "kept",
       "importance": 2,
-      "importanceRaw": 75,
+      "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 핵심 내용을 간결하게 전달한다. / 근거부족",
+      "qualityReason": "제목과 본문이 일치하며, 간결하게 핵심 내용을 전달한다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-02-27_8",
-      "date": "2026-02-27",
-      "category": "기술",
-      "title": "초대형 데이터 센터의 '지역 사회 혜택'은 매우 어려운 과제",
-      "summary": [
-        "Tech Policy Press에 따르면 초대형 데이터 센터에서 '지역 사회 혜택'을 얻는 것은 매우 어려운 과제이다."
-      ],
-      "whyImportant": "데이터 센터 건설과 관련된 정책 및 자본 지출에 대한 시사점을 제공합니다.",
-      "importanceRationale": "근거: 초대형 데이터 센터가 지역 사회에 미치는 영향에 대한 논의는 정책 결정과 관련 투자에 중요한 고려 사항입니다.",
-      "impactSignals": [],
-      "dedupeKey": "hyperscale_data_center_community_benefits",
-      "clusterKey": "benefits",
-      "matchedTo": null,
-      "sourceName": "Tech Policy Press",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPS3JCODh4bVpaZWJlbTVsSXFmN0lUZnJveXRTWldlWjItVUQ3WHVxeEFKQWlwZ1JIMXZMVlNXbEROWVZVaWs4alNld1ZtUTBiN0Rnb1lMYXU4QmpQOUlKOWRseE5SbGo2MmlpVjNmWjdTX3FGaHVKcV93RzJ6MUxXeFJVemdEVUJobEpobEFNUFp0U3UwYXNoY0RVdkMzRWZGTXE5TQ?oc=5",
-      "publishedAt": "2026-02-26T19:56:31.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 50,
-      "qualityLabel": "ok",
-      "qualityReason": "제목과 텍스트이 일치하며, 정보가 명확합니다. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-02-27_9",
+      "id": "2026-02-27_6",
       "date": "2026-02-27",
       "category": "국제",
-      "title": "미국-이란 핵 협상, '상당한 진전'... 파국은 피했나",
+      "title": "미국-이란 핵 협상, 상당한 진전으로 파국 모면?",
       "summary": [
-        "미국과 이란의 핵 협상이 '상당한 진전'을 보였다고 보도되었습니다.",
-        "협상이 파국을 피할 수 있을지에 대한 기대감이 제기되고 있습니다."
+        "미국과 이란의 핵 협상이 상당한 진전을 보였다.",
+        "협상 타결로 파국을 피할 수 있을지 주목된다."
       ],
-      "whyImportant": "미국과 이란의 핵 협상 진전은 국제 안보 및 중동 지역의 안정에 중요한 영향을 미칠 수 있습니다.",
-      "importanceRationale": "근거: 핵 협상의 결과는 국제 관계, 특히 중동 지역의 정치적 지형에 큰 영향을 미치며, 잠재적으로 새로운 정책 변화를 가져올 수 있기 때문입니다.",
+      "whyImportant": "미국과 이란의 핵 협상 진전은 국제 안보 및 중동 지역 안정에 중요한 영향을 미칠 수 있다.",
+      "importanceRationale": "근거: 핵 협상 결과는 국제 관계, 특히 중동 지역의 안보 환경에 직접적인 영향을 미치므로.",
       "impactSignals": [],
-      "dedupeKey": "2024-01-29-미국-이란 핵 협상 진전",
+      "dedupeKey": "미·이란 핵협상 상당한 진전",
       "clusterKey": "상당한",
       "matchedTo": null,
       "sourceName": "연합뉴스 한민족센터",
@@ -260,7 +168,89 @@
       "importance": 2,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 내용이 간결하고 명확합니다. / 근거부족",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되어 있음. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-02-27_7",
+      "date": "2026-02-27",
+      "category": "경제",
+      "title": "쿠팡Inc, 작년 4분기 실적 개인정보 유출 타격…영업익 97% 감소(종합)",
+      "summary": [
+        "쿠팡Inc의 작년 4분기 실적이 개인정보 유출로 인해 타격을 입었습니다.",
+        "영업이익이 97% 감소했습니다."
+      ],
+      "whyImportant": "쿠팡의 실적 악화는 개인정보 유출 문제와 관련되어 있어 주목할 필요가 있습니다.",
+      "importanceRationale": "근거: 개인정보 유출로 인해 쿠팡의 영업이익이 크게 감소했다는 직접적인 정보가 제공되었기 때문입니다.",
+      "impactSignals": [],
+      "dedupeKey": "coupang_2023q4_security_earnings",
+      "clusterKey": "감소",
+      "matchedTo": null,
+      "sourceName": "연합인포맥스",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4tallEejBXbjhBVV9kVk50S1FoMHZUVHl2SFRWdXZaY2FfV1ZzUEYtYkphT3h3akxUcTVNYVVoX1NMYnI3dUR0Zk0wczF4eFJBNzFnNXIwMnk1WmZRWVg2T01YWnNtRmphbFUzZm1fUzk?oc=5",
+      "publishedAt": "2026-02-26T22:53:51.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 63,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 본문이 일치하며, 정보가 명확합니다. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-02-27_8",
+      "date": "2026-02-27",
+      "category": "기술",
+      "title": "2025년 미국 내 3,332건의 데이터 유출 발생: Seeweb의 Regolo, CLOUD Act 회피 및 AI Act 준수를 위한 유럽 인프라 제공",
+      "summary": [
+        "Seeweb에서 제공하는 Regolo는 2025년 미국에서 3,332건의 데이터 유출이 발생할 것으로 예상하며, 유럽 인프라를 제공하여 CLOUD Act를 회피하고 AI Act 준수를 지원합니다.",
+        "Regolo는 유럽 인프라를 통해 데이터 보안을 강화하고 규정 준수를 용이하게 합니다."
+      ],
+      "whyImportant": "유럽 인프라를 통해 미국 CLOUD Act의 영향을 줄이고 AI Act 준수를 지원합니다.",
+      "importanceRationale": "근거: 미국 내 데이터 유출 증가 예상에 따라 유럽 인프라를 제공하여 데이터 보안 및 규정 준수를 강화하는 Regolo의 전략적 중요성.",
+      "impactSignals": [],
+      "dedupeKey": "regolo_data_breaches_2025",
+      "clusterKey": "클라우드/breaches",
+      "matchedTo": null,
+      "sourceName": "The AI Journal",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQY3RVZ3RBeVVsWHpoMTdwNWFiVlAtSHBTczQzZklUQmhwckRZbGQ3aW5jQVhHMXhkOVZMd1pKMlB0MEpEMy14MGhjSE9qXzZ6QUpZNEI5b19GSkxhZVoxQUxHRFJvQmk0T21lYmdySWJ2QmNJbzBZT3lBdl8yclMtVkFqdUNLc0tET0NRb0lHZ2JIZHVJMVd4MXRiNXAxSWxaVGllR1JvTE5LYXFzMUZaSXhBU19WYnFFWFMxMWpGTDVZWG5leWNvMGpuNWJESDRPeWJuMlg2ZFRVamxhUXBRbG9kcFZLZ0FBQXlEckc5NzhzYmh6cEQ5S0gzVE56NDZRb0dsVW5jUTEtTWc2MV93?oc=5",
+      "publishedAt": "2026-02-27T09:31:36.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 63,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 본문이 일치하며, 핵심 내용을 잘 반영하고 있습니다. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-02-27_9",
+      "date": "2026-02-27",
+      "category": "국제",
+      "title": "미국 빅테크 기업, 19년간의 숙원 해소… 비관세 협상의 지렛대로 활용",
+      "summary": [
+        "미국 빅테크 기업들이 19년간 숙원이었던 문제를 해결했습니다.",
+        "이는 비관세 협상에서 지렛대로 활용될 수 있습니다.",
+        "한국경제에 미치는 영향에 대한 분석이 필요합니다."
+      ],
+      "whyImportant": "미국 빅테크 기업의 오랜 숙원 해결은 국제 무역 협상에 영향을 미칠 수 있습니다.",
+      "importanceRationale": "근거: 미국 빅테크 기업의 규제 관련 숙원 해결이 비관세 장벽 협상에 영향을 줄 수 있다는 점을 고려할 때 중요하다고 판단됨.",
+      "impactSignals": [],
+      "dedupeKey": "미국 빅테크, 19년 숙원 해소",
+      "clusterKey": "19년",
+      "matchedTo": null,
+      "sourceName": "한국경제",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5MRlJ0RjB6bzFzNGpFdnR4d2UxczJRQ0owQ1Z0VmQ5T3dwTl9ib18xcEpxWTNPREtUQlhPekJuWEZCbUx5N3hORWZ0dGdIcE9wTTZIWWNPWWxZd9IBVEFVX3lxTE9HWjFXMWU1NDRRVTlTd2ZJN0JOMTNCZkVpcktBeW9jX09oclEyS3RXaHp6TElObGh0OFI4RlVSRHRDVUlCcDF4UXVqUmo1emJXMkY0Rw?oc=5",
+      "publishedAt": "2026-02-27T08:50:25.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 63,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었습니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -270,10 +260,11 @@
       "category": "국제",
       "title": "[차이나워치] 중국, '트럼프 협상력 약화' 판단?…EU와는 '밀착'",
       "summary": [
-        "중국이 트럼프 대통령의 협상력 약화를 판단하고 유럽연합과의 관계를 강화하고 있다는 분석이 나왔다."
+        "중국이 트럼프 대통령의 협상력 약화를 판단하고 유럽연합과의 관계를 강화하고 있다는 분석이 나왔습니다.",
+        "이는 중국이 미국의 영향력 감소를 예상하고 외교 전략을 수정하고 있음을 시사합니다."
       ],
-      "whyImportant": "중국의 외교 전략 변화를 보여주는 중요한 신호입니다.",
-      "importanceRationale": "근거: 기사는 중국이 트럼프 대통령의 협상력 약화를 판단하고 EU와의 밀착을 시도하고 있음을 명시적으로 나타냅니다.",
+      "whyImportant": "중국의 외교 전략 변화는 국제 관계에 중요한 영향을 미칠 수 있습니다.",
+      "importanceRationale": "근거: 중국이 미국의 협상력 약화를 판단하고 유럽연합과의 밀착을 시도한다는 내용이 보도되었기 때문입니다.",
       "impactSignals": [],
       "dedupeKey": "[차이나워치] 중국, '트럼프 협상력 약화' 판단?…EU와는 '밀착'",
       "clusterKey": "eu와는",
@@ -286,7 +277,7 @@
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되어 있습니다. / 근거부족",
+      "qualityReason": "기사의 내용이 명확하고 간결합니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -294,15 +285,15 @@
       "id": "2026-02-27_11",
       "date": "2026-02-27",
       "category": "경제",
-      "title": "전력 소비가 많은 AI 데이터 센터, 유틸리티 자본 지출에 박차",
+      "title": "전력 소비가 많은 AI 데이터 센터, 유틸리티 자본 지출을 가속화",
       "summary": [
         "AI 데이터 센터의 전력 수요 증가로 인해 유틸리티 기업들의 자본 지출이 늘어나고 있습니다.",
-        "이는 전력 인프라 확충의 필요성을 야기합니다."
+        "이는 전력망 업그레이드 및 신규 인프라 구축에 대한 투자를 촉진합니다."
       ],
-      "whyImportant": "AI 데이터 센터의 전력 수요 증가가 유틸리티 산업의 투자 확대로 이어지는 중요한 변화입니다.",
-      "importanceRationale": "근거: AI 데이터 센터의 전력 소비 증가는 유틸리티 기업의 자본 지출 증가를 유발하며, 이는 전력 인프라 투자 확대로 이어질 수 있습니다.",
+      "whyImportant": "AI 데이터 센터의 급증하는 전력 수요가 유틸리티 산업의 투자 방향을 바꿀 수 있기 때문입니다.",
+      "importanceRationale": "근거: AI 데이터 센터의 전력 소비 증가는 유틸리티 기업의 자본 지출 증가를 유발하며, 이는 전력 인프라 투자에 대한 중요한 동기가 됩니다.",
       "impactSignals": [],
-      "dedupeKey": "AI_Data_Centers_Electrify_Utilities_Capital_Spending",
+      "dedupeKey": "power_hungry_ai_data_centers_electrify_utilities_capital_spending",
       "clusterKey": "에너지/capital",
       "matchedTo": null,
       "sourceName": "The Daily Upside",
@@ -320,41 +311,14 @@
     {
       "id": "2026-02-27_12",
       "date": "2026-02-27",
-      "category": "국제",
-      "title": "미국-이란 핵 협상 긍정적 마무리… \"진전 있었고 재협상 예정\"",
-      "summary": [
-        "미국과 이란의 핵 협상이 긍정적으로 마무리되었습니다.",
-        "협상에서 진전이 있었으며, 재협상이 예정되어 있습니다."
-      ],
-      "whyImportant": "미국과 이란의 핵 협상 재개는 국제 관계에 중요한 영향을 미칠 수 있습니다.",
-      "importanceRationale": "근거: 핵 협상의 진전은 중동 지역의 안정과 국제 안보에 중요한 변수가 될 수 있기 때문입니다.",
-      "impactSignals": [],
-      "dedupeKey": "미국-이란 핵 협상 긍정적 마무리…\"진전 있었고 재협상 예정\"",
-      "clusterKey": "hk영상",
-      "matchedTo": null,
-      "sourceName": "한국경제",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB0NjR5X0gzTHEtSThkUTRCcGdDMEkzYU1OSmRSLTFRWGNTblJpemlmM0pMb2NRbkI4bllpcGlXbWdsdXNTejR6SmMxbC13VE5fR3VSUC1mdXlOUdIBVEFVX3lxTE8tdmRfSGthbWhRc3RQUFR0TFM4ZmcxMnZCZXdtdkZkM0RraDJ1cUlrSkJxX1RJdjEtYU85dWJWQzNWTWhXOXRrVEI3blFVWk82MVZCYg?oc=5",
-      "publishedAt": "2026-02-27T00:50:38.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 63,
-      "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었습니다. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-02-27_13",
-      "date": "2026-02-27",
       "category": "정책",
       "title": "AI 시대의 전력, 국가 안보와 직결... 대통령실, 전력 계통 안정 직접 관리",
       "summary": [
         "대통령실은 AI 시대에 전력이 국가 안보와 직결된다고 보고 전력 계통 안정을 직접 관리할 방침이다.",
-        "이는 전력 공급의 안정성이 국가 안보에 미치는 영향이 크다는 판단에 따른 것이다."
+        "이는 전력 공급의 안정성이 국가 안보에 미치는 영향이 커지고 있음을 의미한다."
       ],
       "whyImportant": "AI 시대에 전력 공급 안정성이 국가 안보에 중요한 요소로 부상하고 있음을 보여준다.",
-      "importanceRationale": "근거: 대통령실이 직접 전력 계통 안정을 관리하겠다는 결정은 전력의 중요성을 강조한다.",
+      "importanceRationale": "근거: 대통령실이 직접 전력 계통 안정을 챙기는 것은 전력의 중요성이 국가 안보 차원에서 다루어지고 있음을 시사한다.",
       "impactSignals": [],
       "dedupeKey": "AI 시대 전력은 국가안보",
       "clusterKey": "국가안보",
@@ -367,66 +331,12 @@
       "importance": 2,
       "importanceRaw": 88,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며 간결하게 요약됨. / 근거부족",
+      "qualityReason": "제목과 내용이 일치하며, 핵심 내용을 잘 요약했습니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-02-27_14",
-      "date": "2026-02-27",
-      "category": "기술",
-      "title": "브라우저 접속만으로 AI 에이전트 장악...오픈클로 취약점 경고",
-      "summary": [
-        "오픈클로에서 발견된 취약점을 통해 브라우저 접속만으로 AI 에이전트를 장악할 수 있다는 경고가 나왔습니다.",
-        "이 취약점은 개발자 워크스테이션을 전면 노출시킬 수 있습니다."
-      ],
-      "whyImportant": "AI 에이전트 보안의 중요성을 강조하며, 개발 환경의 취약점이 미칠 수 있는 심각한 영향을 보여줍니다.",
-      "importanceRationale": "근거: 오픈클로의 취약점을 통해 AI 에이전트가 장악될 수 있으며, 이는 개발자 워크스테이션의 보안 문제로 이어질 수 있다는 직접적인 경고가 제시되었기 때문입니다.",
-      "impactSignals": [],
-      "dedupeKey": "openclo-ai-agent-security-threat",
-      "clusterKey": "개발자",
-      "matchedTo": null,
-      "sourceName": "지티티코리아",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1IVEd5Uk1HOVVwajU1bnlHdU9nSjdpM2YxQmhqQWZyOWU3ZnV3NG1LX2hzZGd2eHdBeVdFWjdyNGNYX1RlYmk4Q3NxcFlFMHpFY3NjYjUxWW53WmQ5Q3NUVWlHMmU4OVExRGc?oc=5",
-      "publishedAt": "2026-02-27T00:06:28.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 88,
-      "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 내용이 일치하며, 요약이 명확하고 간결합니다. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-02-27_15",
-      "date": "2026-02-27",
-      "category": "경제",
-      "title": "CoreWeave 주가, 분기별 수익 전망 실망으로 8% 하락",
-      "summary": [
-        "CoreWeave의 주가가 분기별 수익 전망이 실망스러워 8% 하락했다.",
-        "CNBC 보도에 따르면 CoreWeave의 주가 하락은 투자자들의 우려를 반영한다."
-      ],
-      "whyImportant": "CoreWeave의 수익 전망 하향은 회사의 성장세 둔화를 시사하며, 이는 관련 산업 전반에 영향을 미칠 수 있다.",
-      "importanceRationale": "근거: CoreWeave의 주가 하락은 투자 심리에 직접적인 영향을 미치며, 이는 회사의 미래 투자 및 사업 확장에 부정적인 영향을 줄 수 있다.",
-      "impactSignals": [],
-      "dedupeKey": "CoreWeave_shares_slip_8%_as_quarterly_revenue_guidance_disappoints",
-      "clusterKey": "cnbc",
-      "matchedTo": null,
-      "sourceName": "CNBC",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONVRuWDRDRmVCVTBqVHJYN3JRLTdMMlpTdF9MY21UMlVKNmFEMEtXOGtVVzZGeGpTcmk1VWQzVllubVFvNldLR2NfWmtyUlREN2ItUnY5Rmx2cUk5Q0lpNWU5UE1ENjFTZl9kS1prVXc4MFZHazNrRVA2QWp0NVZSMNIBhgFBVV95cUxPa1JSZ1FRdWlJUnNiZGRLYkE0VmhGcWl6VHF4VlN3NTJiRWk3RVFUX3l6c1VtSzM3S09SNm5DTmZ3N0lzcEFaZUlTMVUxSXVMVUVhdTEtNXdSLVZFNWYxcmdHWGxQS2E2RDRrbk1COFBfXzItMUZOcTVNZmsxSDVOLWNkZFdoUQ?oc=5",
-      "publishedAt": "2026-02-26T21:20:41.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 63,
-      "qualityLabel": "ok",
-      "qualityReason": "The article provides a clear and concise report on a specific financial event. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-02-27_16",
+      "id": "2026-02-27_13",
       "date": "2026-02-27",
       "category": "정책",
       "title": "공공의대 법안, 국회 복지위 법안소위 통과...15년 의무복무",
@@ -435,7 +345,7 @@
         "해당 법안은 15년 의무복무를 포함한다."
       ],
       "whyImportant": "공공의료 강화 및 의료 인력 배치에 영향을 미칠 수 있는 법안이다.",
-      "importanceRationale": "근거: 공공의대 설립 및 의무 복무 조항은 의료 서비스 접근성 향상과 지역 간 의료 불균형 해소에 기여할 수 있기 때문이다.",
+      "importanceRationale": "근거: 공공의대 설립 및 의무 복무 조항은 의료 서비스 접근성 향상 및 지역 간 의료 불균형 해소에 기여할 수 있기 때문이다.",
       "impactSignals": [],
       "dedupeKey": "public-medical-school-bill-passes-committee",
       "clusterKey": "15년",
@@ -446,14 +356,73 @@
       "readTimeSec": 10,
       "status": "kept",
       "importance": 2,
-      "importanceRaw": 63,
+      "importanceRaw": 75,
       "qualityLabel": "ok",
       "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되어 있음. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-02-27_17",
+      "id": "2026-02-27_14",
+      "date": "2026-02-27",
+      "category": "정책",
+      "title": "세무사회, 최고 조세 전문가 위상 강화...2025년 세제 개편 후속 시행령에 주요 건의사항 반영",
+      "summary": [
+        "세무사회가 최고의 조세 전문가로서의 위상을 높였습니다.",
+        "2025년 세제 개편 후속 시행령에 세무사회의 주요 건의사항이 반영되었습니다."
+      ],
+      "whyImportant": "세무사회의 전문성이 정책에 반영되어 세무 분야에 긍정적인 영향을 미칠 수 있습니다.",
+      "importanceRationale": "근거: 세무사회의 건의사항이 2025년 세제 개편 후속 시행령에 반영되었다는 것은 세무사회의 전문성이 정책 결정에 중요한 역할을 했다는 것을 의미합니다.",
+      "impactSignals": [
+        {
+          "label": "policy",
+          "evidence": "2025년 세제 개편 후속 시행령에 세무사회 주요 건의사항 반영"
+        }
+      ],
+      "dedupeKey": "tax_association_policy_2025",
+      "clusterKey": "25년",
+      "matchedTo": null,
+      "sourceName": "세무사신문",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ZOVNSdV91VExLZGl3eE9RT1E5cGkwM3pxQXg0eThkMUl2MWlIMllwYzdSQ0dKcTVjN01rZk9qbWQzclhEV1ExamdpenltWXFtY0hZTGVRQWJ2THpZTVltWXBENThZVFNaMS1HOWF3?oc=5",
+      "publishedAt": "2026-02-27T05:54:54.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 4,
+      "importanceRaw": 75,
+      "qualityLabel": "ok",
+      "qualityReason": "기사의 내용이 명확하고 사실에 기반하고 있습니다.",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-02-27_15",
+      "date": "2026-02-27",
+      "category": "기술",
+      "title": "글로벌 AI 학회에서 호평…영상 생성 AI 취약점을 밝힌 한국 스타트업",
+      "summary": [
+        "한국 스타트업이 글로벌 AI 학회에서 영상 생성 AI의 취약점을 밝혀 호평을 받았습니다.",
+        "이 연구는 영상 생성 AI의 보안 문제를 제기합니다."
+      ],
+      "whyImportant": "영상 생성 AI의 보안 취약점을 밝혀 잠재적 악용 가능성에 대한 경각심을 높입니다.",
+      "importanceRationale": "근거: 영상 생성 AI 기술의 발전과 함께 보안 문제가 중요해지고 있으며, 학계의 주목을 받은 연구 결과입니다.",
+      "impactSignals": [],
+      "dedupeKey": "global_ai_security_vulnerability",
+      "clusterKey": "글로벌",
+      "matchedTo": null,
+      "sourceName": "유니콘팩토리",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB2V0VpMnlJQjMtdUlGWS03eTZaYnY0aU4zNDhVeW9Ld3pFMm5peEdSX3lPdk0zSTFpMUZmSXRlWlJjekM1anByMjJQTHBSZm9pZmVfSmtZYXBkaEtxcENBMGsyTEdDNjE4VURKNA?oc=5",
+      "publishedAt": "2026-02-27T08:45:54.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 63,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 내용이 일치하며, 핵심 내용을 잘 요약했습니다. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-02-27_16",
       "date": "2026-02-27",
       "category": "에너지",
       "title": "하정우 수석, 봄철 전력 수급 현장 점검: '전력은 안보이자 기술 주권'",
@@ -462,9 +431,9 @@
         "전력은 안보이자 기술 주권이라는 점을 강조했다."
       ],
       "whyImportant": "전력 안보 및 기술 주권의 중요성을 강조한 점",
-      "importanceRationale": "근거: 하정우 수석이 전력 수급 현장 점검에서 전력 안보와 기술 주권의 중요성을 언급함.",
+      "importanceRationale": "근거: 하정우 수석이 전력 수급 현장 점검에서 전력 안보와 기술 주권을 강조한 발언을 통해, 에너지 안보의 중요성을 부각하고 있다.",
       "impactSignals": [],
-      "dedupeKey": "전력안보_기술주권_하정우_2024",
+      "dedupeKey": "전력안보_기술주권_하정우",
       "clusterKey": "에너지/기술",
       "matchedTo": null,
       "sourceName": "에너지코리아뉴스",
@@ -475,54 +444,49 @@
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약됨. / 근거부족",
+      "qualityReason": "제목과 내용이 일치하며, 핵심 내용을 요약적으로 전달함. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-02-27_17",
+      "date": "2026-02-27",
+      "category": "경제",
+      "title": "SFA반도체, HBM이 만든 '반사이익'…필리핀 공장이 열쇠",
+      "summary": [
+        "SFA반도체가 HBM(고대역폭메모리) 관련 '반사이익'을 얻고 있다는 소식입니다.",
+        "필리핀 공장이 중요한 역할을 하고 있습니다."
+      ],
+      "whyImportant": "SFA반도체의 HBM 관련 사업 확장 가능성을 보여줍니다.",
+      "importanceRationale": "근거: 기사 제목에서 SFA반도체가 HBM으로 인한 반사이익을 얻고 있으며, 필리핀 공장이 핵심적인 역할을 한다는 점을 강조하고 있습니다.",
+      "impactSignals": [],
+      "dedupeKey": "SFA반도체, HBM이 만든 '반사이익'…필리핀 공장이 열쇠",
+      "clusterKey": "hbm이",
+      "matchedTo": null,
+      "sourceName": "리드경제",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5va08ydGhyNURmd1l2ak5rc0k3Q2lNenBENWZnVVpxdmh3Y01kX3ZnWXdpWTZZbmw4X1pmMGlwUEhXVkc0OE0wYWtqUHp2WmJmazRFd2RET1I2QXh6VGpxWWZzVjRnUXFBdlVic0JyRQ?oc=5",
+      "publishedAt": "2026-02-27T04:37:36.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 63,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 짧은 내용이 일치하며, 핵심 내용을 요약했습니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-02-27_18",
       "date": "2026-02-27",
-      "category": "정책",
-      "title": "세무사회, 최고 조세 전문가 위상 강화...2025년 세제 개편 후속 시행령에 주요 건의사항 반영",
-      "summary": [
-        "세무사회가 최고의 조세 전문가로서의 위상을 높였습니다.",
-        "2025년 세제 개편 후속 시행령에 세무사회의 주요 건의사항이 반영되었습니다."
-      ],
-      "whyImportant": "세무사회의 전문성이 정책에 반영되어 세무 분야에 긍정적인 영향을 미칠 수 있습니다.",
-      "importanceRationale": "근거: 세무사회의 건의사항이 2025년 세제 개편 후속 시행령에 반영되었다는 사실은 세무사회의 전문성과 영향력을 보여줍니다.",
-      "impactSignals": [
-        {
-          "label": "policy",
-          "evidence": "2025년 세제 개편 후속 시행령에 세무사회 주요 건의사항 반영"
-        }
-      ],
-      "dedupeKey": "세무사회, 최고 조세전문가 위상 떨쳤다...’25년 세제개편 후속 시행령에 세무사회 주요 건의사항 반영",
-      "clusterKey": "25년",
-      "matchedTo": null,
-      "sourceName": "세무사신문",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ZOVNSdV91VExLZGl3eE9RT1E5cGkwM3pxQXg0eThkMUl2MWlIMllwYzdSQ0dKcTVjN01rZk9qbWQzclhEV1ExamdpenltWXFtY0hZTGVRQWJ2THpZTVltWXBENThZVFNaMS1HOWF3?oc=5",
-      "publishedAt": "2026-02-27T05:54:54.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 3.5,
-      "importanceRaw": 63,
-      "qualityLabel": "ok",
-      "qualityReason": "제목과 기사 내용이 일치하며, 핵심 내용을 잘 요약했습니다.",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-02-27_19",
-      "date": "2026-02-27",
       "category": "기술",
       "title": "에임인텔리전스, 영상 생성 AI 취약점 분석 논문 ICLR 2026 채택",
       "summary": [
-        "에임인텔리전스가 영상 생성 AI의 취약점 분석 논문을 ICLR 2026에 채택시켰습니다."
+        "에임인텔리전스가 영상 생성 AI의 취약점 분석에 대한 논문을 ICLR 2026에 채택시켰습니다."
       ],
-      "whyImportant": "영상 생성 AI의 보안 취약점 문제를 제기합니다.",
-      "importanceRationale": "근거: 에임인텔리전스의 논문이 영상 생성 AI의 취약점을 분석하여 ICLR 2026에 채택된 것은 해당 기술의 보안 문제를 부각시키는 중요한 사건입니다.",
+      "whyImportant": "영상 생성 AI의 보안 취약점 분석 연구는 AI 기술의 안전성을 높이는 데 중요합니다.",
+      "importanceRationale": "근거: 에임인텔리전스의 연구가 영상 생성 AI의 잠재적 보안 문제를 식별하고 해결하는 데 기여할 수 있기 때문입니다.",
       "impactSignals": [],
-      "dedupeKey": "aimintelligence-video-ai-security-20240110",
+      "dedupeKey": "aimintelligence-iclrc-2026",
       "clusterKey": "iclr",
       "matchedTo": null,
       "sourceName": "플래텀(Platum)",
@@ -538,24 +502,46 @@
       "isBreaking": false
     },
     {
+      "id": "2026-02-27_19",
+      "date": "2026-02-27",
+      "category": "정책",
+      "title": "[오마이포토2026] 3.1절 맞아 국회 의사당에 내걸린 임시의정원 태극기",
+      "summary": [
+        "국회 의사당에 3.1절을 맞아 임시의정원 태극기가 내걸렸습니다.",
+        "이 태극기는 오마이뉴스가 촬영했습니다."
+      ],
+      "whyImportant": "국회 의사당에 임시의정원 태극기가 걸린 것은 역사적 의미를 되새기는 중요한 상징입니다.",
+      "importanceRationale": "근거: 3.1절을 기념하여 국회 의사당에 임시의정원 태극기를 게양한 것은 대한민국의 독립 정신을 기리고 국회의 역할을 강조하는 정책적 행위로 해석될 수 있습니다.",
+      "impactSignals": [],
+      "dedupeKey": "20240301국회의사당태극기",
+      "clusterKey": "1절",
+      "matchedTo": null,
+      "sourceName": "OhmyNews",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1ZS2tiR3BlUElmbDZibDA3MG1DSTlZelh5eXlDb3ltZnlxVmhfS1pXd3hZaVdiQ2VjaDFBc00tYXNMRDhfdnpLeHVua3BPcUJRaF85Z3ZZRWU4c3Y1anE2dkVrcDNhX1lWaGZaRkUyUTB2aU51eU1n?oc=5",
+      "publishedAt": "2026-02-27T03:54:09.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 63,
+      "qualityLabel": "ok",
+      "qualityReason": "기사의 내용이 명확하고 간결하며, 정보의 출처가 분명합니다. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
       "id": "2026-02-27_20",
       "date": "2026-02-27",
       "category": "기술",
       "title": "AI 거대 기업 Anthropic, '양심상' 국방부 요구에 동의할 수 없다고 밝혀",
       "summary": [
         "AI 거대 기업인 Anthropic은 국방부의 요구에 '양심상' 동의할 수 없다고 밝혔습니다.",
-        "구체적인 요구 사항은 명시되지 않았습니다.",
-        "Anthropic의 결정은 AI 기술의 군사적 활용에 대한 윤리적 논쟁을 불러일으킬 수 있습니다."
+        "구체적인 요구 사항은 공개되지 않았습니다.",
+        "Anthropic의 결정은 AI 기술의 윤리적 사용에 대한 논쟁을 불러일으킬 수 있습니다."
       ],
-      "whyImportant": "Anthropic의 결정은 AI 기술의 군사적 활용에 대한 중요한 윤리적 논쟁을 야기합니다.",
-      "importanceRationale": "근거: Anthropic이라는 주요 AI 기업이 국방부의 요구를 거부한 것은 AI 기술의 윤리적 사용에 대한 중요한 입장을 표명한 것으로 해석될 수 있으며, 이는 업계 전반에 영향을 미칠 수 있습니다.",
-      "impactSignals": [
-        {
-          "label": "market-demand",
-          "evidence": "AI 기술의 군사적 활용에 대한 윤리적 논쟁은 시장 수요에 영향을 미칠 수 있습니다."
-        }
-      ],
-      "dedupeKey": "anthropic_pentagon_demands_20240229",
+      "whyImportant": "Anthropic의 결정은 AI 기술의 군사적 사용에 대한 중요한 윤리적 질문을 제기합니다.",
+      "importanceRationale": "근거: Anthropic과 같은 주요 AI 기업의 결정은 AI 기술의 개발 및 적용 방향에 큰 영향을 미칠 수 있으며, 특히 군사적 사용에 대한 거부는 기술 윤리에 대한 논의를 촉발할 수 있습니다.",
+      "impactSignals": [],
+      "dedupeKey": "anthropic_pentagon_demands_2024",
       "clusterKey": "agree",
       "matchedTo": null,
       "sourceName": "Breaking Defense",
@@ -563,10 +549,10 @@
       "publishedAt": "2026-02-27T01:41:58.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 3.5,
-      "importanceRaw": 63,
+      "importance": 2,
+      "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 짧은 본문이 제공되었으며, 정보가 명확하게 전달됩니다.",
+      "qualityReason": "제목과 본문이 일치하며, 내용이 간결하고 명확합니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": true
     }
