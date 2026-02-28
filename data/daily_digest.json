@@ -3,7 +3,7 @@
   "selectionCriteria": "① 내일도 영향이 남는 이슈 ② 과도한 감정 소모 제외 ③ 어제와 중복되는 뉴스 제외",
   "editorNote": "이 뉴스는 클릭 수가 아니라 오늘 이후에도 남는 정보만 기준으로 편집했습니다.",
   "question": "정보를 덜 보는 것이 오히려 더 똑똑한 소비일까?",
-  "lastUpdatedAt": "2026-03-01T06:18:27.883+09:00",
+  "lastUpdatedAt": "2026-03-01T07:20:00.523+09:00",
   "items": [
     {
       "id": "2026-03-01_1",
@@ -12,17 +12,11 @@
       "title": "엔비디아, AI 붐으로 데이터 센터 매출 75% 증가, 실적 및 가이던스 상회",
       "summary": [
         "엔비디아가 AI 붐에 힘입어 데이터 센터 매출이 75% 증가했다고 발표했습니다.",
-        "실적 발표에서 엔비디아는 시장 예상치를 상회하는 실적과 가이던스를 제시했습니다.",
-        "이는 AI 기술 수요 증가에 따른 엔비디아의 성장세를 보여줍니다."
+        "실적 발표에서 엔비디아는 시장 예상치를 상회하는 실적과 가이던스를 제시했습니다."
       ],
-      "whyImportant": "엔비디아의 실적 호조는 AI 산업 성장과 기술 경쟁 심화를 의미합니다.",
-      "importanceRationale": "근거: 엔비디아의 데이터 센터 매출 급증은 AI 기술 수요 증가를 반영하며, 이는 관련 산업 투자 및 기술 개발 경쟁을 촉진할 수 있습니다.",
-      "impactSignals": [
-        {
-          "label": "capex",
-          "evidence": "데이터 센터 매출 증가에 따른 투자 확대 가능성"
-        }
-      ],
+      "whyImportant": "엔비디아의 데이터 센터 매출 증가는 AI 기술 수요 증가를 반영하며, 이는 관련 산업 전반에 걸쳐 투자 및 성장을 촉진할 수 있습니다.",
+      "importanceRationale": "근거: 엔비디아의 실적은 AI 시장의 성장세를 보여주는 중요한 지표이며, 특히 데이터 센터 매출 증가는 AI 인프라 투자 확대를 의미합니다.",
+      "impactSignals": [],
       "dedupeKey": "nvidia_earnings_ai_boom_2024",
       "clusterKey": "beat",
       "matchedTo": null,
@@ -31,15 +25,48 @@
       "publishedAt": "2026-02-25T17:00:01.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 4.5,
+      "importance": 2,
       "importanceRaw": 88,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 정보가 명확합니다.",
+      "qualityReason": "제목과 본문이 일치하며, 핵심 정보를 포함하고 있습니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-03-01_2",
+      "date": "2026-03-01",
+      "category": "기술",
+      "title": "하원 에너지 위원회, 3월 2일 인공지능 데이터 센터 공개 및 모델 조례 법안 회의 개최; 순 계량, 가상 발전소, 지열 에너지, 송전선 기술에 대한 청문회 개최",
+      "summary": [
+        "하원 에너지 위원회는 3월 2일에 인공지능 데이터 센터 공개 및 모델 조례 법안에 대한 회의를 개최합니다.",
+        "또한 순 계량, 가상 발전소, 지열 에너지 및 송전선 기술에 대한 청문회를 개최할 예정입니다.",
+        "이러한 논의는 에너지 정책 및 기술 발전에 중요한 영향을 미칠 수 있습니다."
+      ],
+      "whyImportant": "에너지 정책 방향을 결정하는 중요한 회의입니다.",
+      "importanceRationale": "근거: 하원 에너지 위원회에서 인공지능 데이터 센터 공개, 모델 조례 법안, 순 계량, 가상 발전소, 지열 에너지, 송전선 기술 등 다양한 에너지 관련 주제를 다루기 때문입니다.",
+      "impactSignals": [
+        {
+          "label": "policy",
+          "evidence": "인공지능 데이터 센터 공개 및 모델 조례 법안 관련 논의 및 청문회 개최"
+        }
+      ],
+      "dedupeKey": "house_energy_committee_march_2_2024",
+      "clusterKey": "에너지/center",
+      "matchedTo": null,
+      "sourceName": "PA Environment Digest Blog",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMG5XQ1B3NzRkMGRUZDFOMzFhajJmakh3X1YtWEV5U3VkRVpPa1JSNERGeEM3Nm1EdEV6cUZtT1dkTm56TlljM0h6djdVOUptaW40aFRjZ0ozT2d3ejUtQ3pOOGlValBXSmtHWk5HdjRMTWNpSmZySVZCa01ITVdxSXpjYzdnNnk2R2JXa2dVZkw3N3lBTGc?oc=5",
+      "publishedAt": "2026-02-28T14:43:00.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 4,
+      "importanceRaw": 75,
+      "qualityLabel": "ok",
+      "qualityReason": "제공된 정보가 명확하고 간결합니다.",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-03-01_3",
       "date": "2026-03-01",
       "category": "정책",
       "title": "의회, 데이터 센터 추가 필요성 전달받았으나 환경 규제가 방해",
@@ -48,11 +75,11 @@
         "그러나 환경 규제가 데이터 센터 확충에 방해가 되고 있다는 의견이 제시되었다."
       ],
       "whyImportant": "데이터 센터 확충의 필요성과 환경 규제 간의 충돌을 보여준다.",
-      "importanceRationale": "근거: 데이터 센터 증설 필요성이 제기되었으나, 환경 규제로 인해 어려움이 발생하고 있다는 내용이므로 정책 및 투자 결정에 영향을 줄 수 있다.",
+      "importanceRationale": "근거: 데이터 센터 증설 필요성이 제기되었으나, 환경 규제로 인해 어려움이 발생하고 있다는 내용이므로 정책 및 투자 결정에 영향을 미칠 수 있다.",
       "impactSignals": [
         {
           "label": "policy",
-          "evidence": "환경 규제가 데이터 센터 확충에 영향을 미침"
+          "evidence": "환경 규제가 데이터 센터 확충을 방해한다는 내용"
         }
       ],
       "dedupeKey": "congress-data-centers-environmental-regulations",
@@ -66,39 +93,7 @@
       "importance": 3.5,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되어 있음.",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-03-01_3",
-      "date": "2026-03-01",
-      "category": "기술",
-      "title": "하원 에너지 위원회, 3월 2일 인공지능 데이터 센터 공개 및 모델 조례 법안 회의 개최; 순 계량, 가상 발전소, 지열 에너지, 송전선 기술에 대한 청문회 개최",
-      "summary": [
-        "하원 에너지 위원회는 3월 2일에 인공지능 데이터 센터 공개 및 모델 조례 법안에 대한 회의를 개최합니다.",
-        "또한 순 계량, 가상 발전소, 지열 에너지 및 송전선 기술에 대한 청문회를 개최할 예정입니다."
-      ],
-      "whyImportant": "이러한 논의는 에너지 정책 및 기술 개발 방향에 영향을 미칠 수 있습니다.",
-      "importanceRationale": "근거: 하원 에너지 위원회의 회의 및 청문회 개최는 관련 산업의 투자 및 정책 결정에 중요한 신호로 작용할 수 있기 때문입니다.",
-      "impactSignals": [
-        {
-          "label": "policy",
-          "evidence": "인공지능 데이터 센터 공개 및 모델 조례 법안 논의, 순 계량 관련 청문회 개최"
-        }
-      ],
-      "dedupeKey": "house_energy_committee_march_2",
-      "clusterKey": "에너지/center",
-      "matchedTo": null,
-      "sourceName": "PA Environment Digest Blog",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMG5XQ1B3NzRkMGRUZDFOMzFhajJmakh3X1YtWEV5U3VkRVpPa1JSNERGeEM3Nm1EdEV6cUZtT1dkTm56TlljM0h6djdVOUptaW40aFRjZ0ozT2d3ejUtQ3pOOGlValBXSmtHWk5HdjRMTWNpSmZySVZCa01ITVdxSXpjYzdnNnk2R2JXa2dVZkw3N3lBTGc?oc=5",
-      "publishedAt": "2026-02-28T14:43:00.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 3.5,
-      "importanceRaw": 63,
-      "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 텍스트가 일치하며, 정보가 명확하게 제시되어 있습니다.",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약됨.",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -108,14 +103,15 @@
       "category": "국제",
       "title": "Wynn, 데이터 침해 관련 최근 소송에 대응",
       "summary": [
-        "Wynn은 데이터 침해에 대한 최근 소송에 대응하고 있습니다."
+        "Wynn은 데이터 침해에 대한 최근 소송에 대응하고 있습니다.",
+        "자세한 내용은 ktnv.com에서 확인할 수 있습니다."
       ],
-      "whyImportant": "데이터 보안 및 개인 정보 보호 문제에 대한 기업의 대응을 보여줍니다.",
-      "importanceRationale": "근거: 데이터 침해 소송은 기업의 정책 및 보안 조치에 대한 중요한 영향을 미칠 수 있습니다.",
+      "whyImportant": "데이터 침해 소송에 대한 Wynn의 대응은 기업의 데이터 보안 정책 및 법적 책임에 대한 중요한 시사점을 제공합니다.",
+      "importanceRationale": "근거: 데이터 침해는 기업의 평판과 재정에 심각한 영향을 미칠 수 있으며, 이에 대한 소송은 관련 정책 및 보안 강화의 필요성을 강조합니다.",
       "impactSignals": [
         {
           "label": "security",
-          "evidence": "데이터 침해는 기업의 보안 시스템의 취약점을 드러낼 수 있음"
+          "evidence": "데이터 침해는 보안 강화의 필요성을 강조합니다."
         }
       ],
       "dedupeKey": "wynn_data_breach_lawsuit_response",
@@ -129,39 +125,39 @@
       "importance": 3.5,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었습니다.",
+      "qualityReason": "제목과 텍스트가 일치하며, 정보가 간결하게 요약되었습니다.",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-03-01_5",
       "date": "2026-03-01",
-      "category": "기술",
-      "title": "데이터 센터, 우주 경쟁 가속화 – 규제는 따라가지 못해",
+      "category": "경제",
+      "title": "버크셔 해서웨이 실적 발표: 현금 보유액 3,730억 달러로 사상 최대 기록",
       "summary": [
-        "데이터 센터가 우주로 향하는 경쟁이 심화되고 있습니다.",
-        "기존 규제는 이러한 변화를 따라가지 못하고 있습니다."
+        "버크셔 해서웨이의 현금 보유액이 3,730억 달러로 사상 최대치를 기록했습니다.",
+        "회사의 전반적인 실적은 견조한 것으로 나타났습니다."
       ],
-      "whyImportant": "우주 데이터 센터 경쟁 심화와 규제 미비는 기술 발전과 정책 간의 격차를 보여줍니다.",
-      "importanceRationale": "근거: 데이터 센터의 우주 진출은 새로운 기술적 도전과 기회를 제시하지만, 현재 규제 체계가 이를 따라가지 못해 잠재적 위험과 불확실성이 증가할 수 있습니다.",
+      "whyImportant": "버크셔 해서웨이의 막대한 현금 보유는 투자 전략 및 시장에 미치는 영향을 시사합니다.",
+      "importanceRationale": "근거: 버크셔 해서웨이의 실적 발표는 투자 업계에 중요한 지표가 되며, 특히 현금 보유량 증가는 향후 투자 및 인수합병 전략에 대한 관심으로 이어질 수 있습니다.",
       "impactSignals": [
         {
-          "label": "policy",
-          "evidence": "기존 규제가 우주 데이터 센터의 발전을 따라가지 못함"
+          "label": "earnings",
+          "evidence": "Berkshire Hathaway Earnings: Cash Hits Record $373 Billion"
         }
       ],
-      "dedupeKey": "data_centers_space_regulation",
-      "clusterKey": "can",
+      "dedupeKey": "berkshire-hathaway-earnings-2024",
+      "clusterKey": "berkshire",
       "matchedTo": null,
-      "sourceName": "Rest of World",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1jWnBwMjQzTktDTFpSSzJJV0ZYTkFOMHVnRWJaYmFfR25PYUlNaGh6Y29nek50VlVVemNvRVRaa2drUjJxWFd6YTFfbEdOMVFzeVRDSE5oZ2U5M3pCZVZZVW0zNGh5czZPZ2x4TUgydUc5OW8?oc=5",
-      "publishedAt": "2026-02-24T16:50:05.000Z",
+      "sourceName": "Morningstar",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZXVzVXhON2Rwcjc2UGlIWHJ0bm1WTmdwc2VsVWlNWU85SmZkRlJmdm5CX0VRRHdsUURhRFlINHo0QXZ6Z2xqM1IxcjBFQ3FaaHgxa3ZxMy1Xdk9rRUs0ZFdINEN6SGJwcktyX3VXdkxpbU42RExOTGx1dk5vSjJINjhlUlRrX2EwbnkyMDRfZS1mN2NsWFhlaElQN3NQa3BidnJHTVNJTGRZQ3BCV1h5R24wcnB1aUtTU2NIVVhLQkRTZw?oc=5",
+      "publishedAt": "2026-02-28T22:12:37.000Z",
       "readTimeSec": 10,
       "status": "kept",
       "importance": 3.5,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 내용이 일치하며, 핵심 내용을 잘 반영하고 있습니다.",
+      "qualityReason": "The article provides a concise summary of Berkshire Hathaway's earnings.",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -172,17 +168,17 @@
       "title": "SK넥실리스, 실적 부진 속 투자 유치 난항… 김종우, 폴란드 공장으로 반전 모색",
       "summary": [
         "SK넥실리스가 실적 부진으로 투자 유치에 어려움을 겪고 있다.",
-        "김종우 대표는 폴란드 공장 건설을 통해 실적 반전을 꾀하고 있다."
+        "김종우는 폴란드 공장을 통해 이러한 상황을 반전시키고자 노력하고 있다."
       ],
-      "whyImportant": "SK넥실리스의 폴란드 공장 건설이 회사의 실적 개선에 중요한 역할을 할 수 있기 때문",
-      "importanceRationale": "근거: SK넥실리스의 실적 부진이 심화되는 상황에서 폴란드 공장 건설을 통한 생산 능력 확대 및 유럽 시장 공략이 회사의 성장 동력 확보에 필수적이다.",
+      "whyImportant": "SK넥실리스의 실적 부진과 투자 유치 난항은 회사의 성장 전략에 중요한 영향을 미칠 수 있다.",
+      "importanceRationale": "근거: SK넥실리스의 현재 상황은 회사의 미래 투자 및 확장 계획에 차질을 줄 수 있으며, 이는 관련 산업 전반에 영향을 미칠 수 있다.",
       "impactSignals": [
         {
           "label": "capex",
-          "evidence": "폴란드 공장 건설을 통해 실적 반전을 꾀하고 있다"
+          "evidence": "폴란드 공장 건설을 통해 실적 반전을 모색하는 점은 자본 지출과 관련이 있다."
         }
       ],
-      "dedupeKey": "SK넥실리스, 실적 부진 속 투자 유치 난항… 김종우, 폴란드 공장으로 반전 모색",
+      "dedupeKey": "SK넥실리스_실적부진_투자유치난항_폴란드공장",
       "clusterKey": "sk넥실리스",
       "matchedTo": null,
       "sourceName": "비즈니스포스트",
@@ -193,7 +189,7 @@
       "importance": 3.5,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 간결하게 핵심 내용을 요약했습니다.",
+      "qualityReason": "제목과 본문이 일치하며, 내용이 간결하고 명확하다.",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -207,9 +203,9 @@
         "이는 수익 확장 내러티브에 대한 시험대가 될 것입니다."
       ],
       "whyImportant": "마진 압박은 기업의 수익성에 직접적인 영향을 미치므로 투자자와 시장 참여자에게 중요합니다.",
-      "importanceRationale": "근거: 마진 축소는 기업의 수익성 악화 가능성을 시사하며, 이는 투자 결정에 중요한 영향을 미칠 수 있습니다.",
+      "importanceRationale": "근거: 마진 축소는 기업의 수익성 감소를 의미하며, 이는 투자 심리에 부정적인 영향을 미칠 수 있습니다.",
       "impactSignals": [],
-      "dedupeKey": "Vistra (VST) 마진 압박, 4.2%로 강세 수익 확장 내러티브 시험",
+      "dedupeKey": "VistraMarginCompression4.2",
       "clusterKey": "bullish",
       "matchedTo": null,
       "sourceName": "simplywall.st",
@@ -231,12 +227,12 @@
       "title": "금융위, 비주거용 대출 및 투기 목적 1주택 규제 강화",
       "summary": [
         "금융위원회가 비주거용 대출과 투기 목적의 1주택에 대한 규제를 강화할 계획이다.",
-        "이는 전방위적인 규제 강구의 일환으로 보인다."
+        "이번 규제는 전방위적으로 이루어질 예정이다."
       ],
       "whyImportant": "금융위원회의 규제 강화는 부동산 시장에 영향을 미칠 수 있다.",
-      "importanceRationale": "근거: 금융위원회가 비주거용 대출 및 투기 목적 1주택에 대한 규제를 강화하겠다고 발표했기 때문이다.",
+      "importanceRationale": "근거: 금융위원회가 비주거용 대출 및 투기 목적 1주택에 대한 규제를 강화할 계획임을 발표했다.",
       "impactSignals": [],
-      "dedupeKey": "금융위, 비주거용 대출 및 투기1주택 규제",
+      "dedupeKey": "금융위, 비주거용 대출 및 투기 목적 1주택 규제 강화",
       "clusterKey": "강구",
       "matchedTo": null,
       "sourceName": "매일경제 마켓",
@@ -258,12 +254,12 @@
       "title": "국제 유가 하락, 미국-이란 핵 협상 지속으로 군사적 대응 가능성 감소",
       "summary": [
         "국제 유가가 하락했다.",
-        "미국과 이란의 핵 협상 지속으로 군사적 대응 가능성이 줄어든 것이 영향을 미쳤다."
+        "이는 미국과 이란의 핵 협상이 지속되면서 군사적 대응 가능성이 낮아진 영향이다."
       ],
-      "whyImportant": "미국과 이란의 핵 협상 추이에 따라 국제 유가가 변동될 수 있다.",
-      "importanceRationale": "근거: 미국과 이란의 핵 협상 지속 여부가 국제 유가에 직접적인 영향을 미치며, 이는 에너지 시장의 변동성을 야기할 수 있기 때문이다.",
+      "whyImportant": "미국과 이란의 핵 협상 지속이 국제 유가에 미치는 영향을 보여준다.",
+      "importanceRationale": "근거: 핵 협상 지속으로 지정학적 리스크가 감소하면서 유가 하락으로 이어진다.",
       "impactSignals": [],
-      "dedupeKey": "국제유가하락,미국이란핵협상",
+      "dedupeKey": "intl_oil_price_drop_iran_nuclear_talks",
       "clusterKey": "국제유가",
       "matchedTo": null,
       "sourceName": "비즈니스포스트",
@@ -274,7 +270,7 @@
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 핵심 내용을 잘 요약했습니다. / 근거부족",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약됨. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -282,26 +278,26 @@
       "id": "2026-03-01_10",
       "date": "2026-03-01",
       "category": "국제",
-      "title": "중국, 미국에 관세 협상 제안…독일 총리 방중 '실리 외교'",
+      "title": "미국-이란 핵 협상 긍정적 마무리… \"진전 있었고 재협상 예정\"",
       "summary": [
-        "중국이 미국에 관세 협상을 제안했다.",
-        "독일 총리의 방중은 실리 외교의 일환으로 해석된다."
+        "미국과 이란의 핵 협상이 긍정적으로 마무리되었습니다.",
+        "협상에서 진전이 있었으며, 재협상이 예정되어 있습니다."
       ],
-      "whyImportant": "미중 무역 관계와 유럽 외교에 중요한 영향을 미칠 수 있다.",
-      "importanceRationale": "근거: 중국의 관세 협상 제안은 미중 관계 변화 가능성을 시사하며, 독일 총리의 방중은 유럽의 대중국 외교 전략을 보여준다.",
+      "whyImportant": "미국과 이란의 핵 협상 재개는 국제 관계에 중요한 영향을 미칠 수 있습니다.",
+      "importanceRationale": "근거: 핵 협상의 진전은 중동 지역의 안정과 국제 안보에 중요한 변수가 될 수 있기 때문입니다.",
       "impactSignals": [],
-      "dedupeKey": "중국, 미국에 관세 협상 제안…독일 총리 방중",
-      "clusterKey": "관세협상",
+      "dedupeKey": "미국-이란 핵 협상 긍정적 마무리…\"진전 있었고 재협상 예정\"",
+      "clusterKey": "hk영상",
       "matchedTo": null,
-      "sourceName": "연합뉴스 한민족센터",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAwTjJNOUVmWVZSM0NFMWYyRko0dEN3aUE0NG12ZVdNOTk4QnhIa01OdWQtZERKLWZOMFBaTVlvci1jNzQ3NV9qcVZhZUN2Vko4dWlRSjBBLW9GYmVHd3NQS21wb1R1bnBHem5NaUk2S3RGbU5O?oc=5",
-      "publishedAt": "2026-02-25T12:19:31.000Z",
+      "sourceName": "한국경제",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB0NjR5X0gzTHEtSThkUTRCcGdDMEkzYU1OSmRSLTFRWGNTblJpemlmM0pMb2NRbkI4bllpcGlXbWdsdXNTejR6SmMxbC13VE5fR3VSUC1mdXlOUdIBVEFVX3lxTE8tdmRfSGthbWhRc3RQUFR0TFM4ZmcxMnZCZXdtdkZkM0RraDJ1cUlrSkJxX1RJdjEtYU85dWJWQzNWTWhXOXRrVEI3blFVWk82MVZCYg?oc=5",
+      "publishedAt": "2026-02-27T00:50:38.000Z",
       "readTimeSec": 10,
       "status": "kept",
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 기사 내용이 일치하며, 간결하게 요약됨. / 근거부족",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되어 있습니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -309,27 +305,26 @@
       "id": "2026-03-01_11",
       "date": "2026-03-01",
       "category": "기술",
-      "title": "미 국방부, Anthropic 포기 후 OpenAI 안전선 승인",
+      "title": "구글 1:5000 지도 국외 반출 조건부 허가",
       "summary": [
-        "미 국방부가 OpenAI의 안전 기준선을 승인했습니다.",
-        "이는 Anthropic과의 협력을 중단한 이후의 조치입니다.",
-        "Axios에 따르면 이번 결정은 국방부의 AI 기술 활용에 중요한 영향을 미칠 것으로 보입니다."
+        "구글의 1:5000 지도 국외 반출이 군사시설 가림 등의 조건부로 허가되었습니다.",
+        "한국방송뉴스에 따르면 이번 반출은 특정 조건을 충족해야 합니다."
       ],
-      "whyImportant": "미 국방부의 AI 기술 도입 및 활용 전략 변화를 보여주는 중요한 사례입니다.",
-      "importanceRationale": "근거: 미 국방부가 OpenAI의 안전 기준을 승인하고 Anthropic과의 협력을 중단한 것은 국방 AI 기술 투자 및 방향성에 중요한 변화를 의미합니다. 이는 향후 국방 관련 AI 기술 개발 및 도입에 영향을 미칠 수 있습니다.",
+      "whyImportant": "구글의 지도 데이터 국외 반출 허가는 국내 지도 데이터 활용 및 관련 산업에 영향을 미칠 수 있습니다.",
+      "importanceRationale": "근거: 구글의 지도 데이터 반출은 국내 IT 산업 및 안보에 중요한 영향을 미치므로 중요도가 높습니다.",
       "impactSignals": [],
-      "dedupeKey": "pentagon-openai-safety-red-lines",
-      "clusterKey": "after",
+      "dedupeKey": "google_map_export_conditional_approval",
+      "clusterKey": "가림",
       "matchedTo": null,
-      "sourceName": "Axios",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUVlWNS1YcUVNLXk3UUdTcVVUbm1uZzZYNDNwVkhnZ01nWDhCNVRwQ0hScl9iUkh5b0hfdXhPbklCM2o5NGpubFVqd3JxUDBiNVJwN3J0Z05nakZzdG1EWW51dFJWcWlLYm9wRnRhUVhUZkx1blpieFRVZTNOLXlNYw?oc=5",
-      "publishedAt": "2026-02-28T04:45:29.000Z",
+      "sourceName": "한국방송뉴스",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1Cbl9qQUNtdjZDck1aekRGOG42cEFmM0liajVqR0N3ekVMbzdyUFUwc1IxS0d6UEtOaW9uLVlCeDRfRjlWcFl3S3JqUzl0aHZoN2hGdG0tZnFyQnVwRlE?oc=5",
+      "publishedAt": "2026-02-28T16:08:07.000Z",
       "readTimeSec": 10,
       "status": "kept",
       "importance": 2,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 내용이 일치하며, 요약이 정확하고 간결합니다. / 근거부족",
+      "qualityReason": "기사 제목과 내용이 일치하며, 간결하게 요약되었습니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -337,57 +332,59 @@
       "id": "2026-03-01_12",
       "date": "2026-03-01",
       "category": "기술",
-      "title": "브로드컴, AI용 3.5D XDSiP 첫 출하…미래 HBM 시장의 큰 손으로 부상",
+      "title": "미 국방부, Anthropic 포기 후 OpenAI 안전선 승인",
       "summary": [
-        "브로드컴이 AI용 3.5D XDSiP를 처음으로 출하하며 HBM 시장에서 중요한 역할을 할 것으로 예상됩니다.",
-        "이번 출하는 브로드컴이 미래 HBM 시장의 주요 고객이 될 가능성을 보여줍니다."
+        "미 국방부가 OpenAI의 안전 기준선을 승인했습니다.",
+        "이는 국방부가 Anthropic과의 협력을 중단한 이후에 이루어졌습니다.",
+        "Axios에 따르면 이번 결정은 국방부의 AI 기술 활용에 중요한 변화를 의미합니다."
       ],
-      "whyImportant": "브로드컴의 AI용 3.5D XDSiP 첫 출하는 HBM 시장의 수요 증가를 의미하며, 관련 산업에 중요한 영향을 미칠 수 있습니다.",
-      "importanceRationale": "근거: 브로드컴은 AI 반도체 시장의 주요 기업 중 하나이며, 이들의 HBM 수요는 전체 시장에 상당한 영향을 줄 수 있습니다.",
-      "impactSignals": [
-        {
-          "label": "market-demand",
-          "evidence": "브로드컴의 AI용 3.5D XDSiP 출하는 HBM 시장의 수요 증가를 나타냅니다."
-        }
-      ],
-      "dedupeKey": "broadcom_hbm_shipment",
-      "clusterKey": "반도체/ai용",
+      "whyImportant": "미 국방부의 OpenAI 안전 기준선 승인은 AI 기술의 군사적 활용에 대한 중요한 정책적 변화를 의미합니다.",
+      "importanceRationale": "근거: 미 국방부가 OpenAI의 안전 기준을 승인하고 Anthropic과의 협력을 중단한 것은 국방부의 AI 기술 투자 및 활용 전략에 중요한 변화를 나타냅니다. 이는 향후 군사 기술 개발 방향에 영향을 미칠 수 있습니다.",
+      "impactSignals": [],
+      "dedupeKey": "pentagon-openai-safety-red-lines",
+      "clusterKey": "after",
       "matchedTo": null,
-      "sourceName": "디일렉",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1GMHJVNk9Zay1kbGxNYmZXR1d0TF95dDlXUXdUTFBDTXBtbEhPanhnWi02dVJpZVpKZExheTFIWUJqQWVialhjOWEta3NnSHltOWYxdU5Ub1liUWZrQnN4NllXd2R0dw?oc=5",
-      "publishedAt": "2026-02-28T07:34:16.000Z",
+      "sourceName": "Axios",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUVlWNS1YcUVNLXk3UUdTcVVUbm1uZzZYNDNwVkhnZ01nWDhCNVRwQ0hScl9iUkh5b0hfdXhPbklCM2o5NGpubFVqd3JxUDBiNVJwN3J0Z05nakZzdG1EWW51dFJWcWlLYm9wRnRhUVhUZkx1blpieFRVZTNOLXlNYw?oc=5",
+      "publishedAt": "2026-02-28T05:37:02.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 4,
+      "importance": 2,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 정보가 간결하고 명확합니다.",
+      "qualityReason": "기사 제목과 내용이 일치하며, 정보가 명확하게 전달됩니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-03-01_13",
       "date": "2026-03-01",
-      "category": "국제",
-      "title": "OpenAI, 전쟁부와 합의",
+      "category": "경제",
+      "title": "뉴욕 주민들, 데이터 센터 관련 전기 요금 상승에 직면",
       "summary": [
-        "OpenAI는 전쟁부와 합의했다."
+        "뉴욕 주민들이 데이터 센터와 관련된 전기 요금 상승에 직면하고 있습니다.",
+        "데이터 센터의 전력 소비 증가가 요금 인상의 주요 원인으로 지목됩니다."
       ],
-      "whyImportant": "OpenAI와 전쟁부 간의 합의는 정책적 중요성을 지닌다.",
-      "importanceRationale": "근거: 전쟁부와의 합의는 OpenAI의 기술이 군사적 목적으로 사용될 가능성을 시사하며, 이는 정책 결정에 중요한 영향을 미칠 수 있다.",
-      "impactSignals": [],
-      "dedupeKey": "openai-war-agreement",
-      "clusterKey": "agreement",
+      "whyImportant": "데이터 센터의 전력 소비 증가가 뉴욕 주민들의 생활에 직접적인 영향을 미치기 때문입니다.",
+      "importanceRationale": "근거: 데이터 센터의 전력 소비 증가는 전기 요금 상승으로 이어져 가계 경제에 부담을 줄 수 있습니다.",
+      "impactSignals": [
+        {
+          "label": "capex",
+          "evidence": "데이터 센터 건설 및 운영에 필요한 자본 지출 증가가 전기 요금 상승의 원인으로 작용합니다."
+        }
+      ],
+      "dedupeKey": "new-york-electricity-data-centers",
+      "clusterKey": "costs",
       "matchedTo": null,
-      "sourceName": "OpenAI",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9KVGk3d3RxZjEtQlVVUl9FTUVjQThEQWdIMFJwOTFZNDNORHo5b24yRVJXZloxN2VfMnNPODAtVEJDUkhEWW5YQUZwdzlfZ2kza05UMjlQWm5TOEVXX2xST1JzaXVTOTQ1c051UDFWVDg4ZFlZ?oc=5",
-      "publishedAt": "2026-02-28T20:36:09.000Z",
+      "sourceName": "National Today",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbnlnNWxkUEppQTRIZHJ0MWpkR2VKdEVaMGw5N3F1RkpqR2gtMHItUVU5QTBmYnNRdWN5R0puYmdjOFF0eFRkX250eXN2dUhXMXVCVnZKcVpWNWxndWV4aHVYTjZ1QmthX3pSMUhRcUVLWGxadkszd3FsVG5yTk90ZDZveUMta2otbjZPWWsyaC0weU1XTGM0blVYeXJrazFaY3pvbmFPTHhSTDZTQ3lpMW1mdmMtSEpRWWY5aGpSTEtJZmVscGc?oc=5",
+      "publishedAt": "2026-02-28T20:07:02.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 2,
+      "importance": 3.5,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "기사 내용이 명확하고 간결함. / 근거부족",
+      "qualityReason": "기사 제목과 내용이 일치하며, 핵심 내용을 잘 요약했습니다.",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -395,14 +392,14 @@
       "id": "2026-03-01_14",
       "date": "2026-03-01",
       "category": "정책",
-      "title": "정부, '국대AI' 저작권 형사책임 면제 검토",
+      "title": "정부, '국대AI' 저작권 형사 책임 면제 검토",
       "summary": [
-        "정부가 '국대AI'의 저작권 형사책임 면제를 검토 중이다."
+        "정부가 '국대AI'의 저작권 형사 책임 면제를 검토 중이다."
       ],
-      "whyImportant": "AI 기술 발전과 관련된 정책적 움직임.",
-      "importanceRationale": "근거: 정부가 직접 '국대AI'의 저작권 형사책임 면제를 검토한다는 것은 AI 기술 육성에 대한 정부의 의지를 보여주는 중요한 정책적 신호이다.",
+      "whyImportant": "정부의 AI 정책 방향을 보여주는 중요한 신호탄이다.",
+      "importanceRationale": "근거: 정부가 직접 '국대AI'의 저작권 형사 책임 면제를 검토한다는 것은 AI 산업 육성에 대한 정부의 강력한 의지를 나타낸다.",
       "impactSignals": [],
-      "dedupeKey": "정부, '국대AI' 저작권 형사책임 면제 검토",
+      "dedupeKey": "정부, '국대AI' 저작권 형사 책임 면제 검토",
       "clusterKey": "국대ai",
       "matchedTo": null,
       "sourceName": "mt.co.kr",
@@ -413,7 +410,7 @@
       "importance": 2,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 간결하게 핵심 내용을 전달한다. / 근거부족",
+      "qualityReason": "제목과 본문이 일치하며, 정보가 간결하고 명확함. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -421,15 +418,15 @@
       "id": "2026-03-01_15",
       "date": "2026-03-01",
       "category": "정책",
-      "title": "정부, 생성형 AI 학습의 '공정 이용' 기준 최초 제시 및 안내서 발간",
+      "title": "정부, 생성형 AI 학습 '공정 이용' 기준 최초 제시 및 안내서 발간으로 저작권 불확실성 해소",
       "summary": [
         "정부가 생성형 AI 학습에 대한 '공정 이용' 기준을 처음으로 제시했습니다.",
-        "저작권 관련 불확실성을 해소하기 위해 공정 이용 안내서가 발간되었습니다."
+        "저작권 관련 불확실성을 해소하기 위해 공정 이용 안내서를 발간했습니다."
       ],
-      "whyImportant": "이번 공정 이용 기준 제시 및 안내서 발간은 생성형 AI 학습 활동의 법적 불확실성을 줄이고, 관련 산업 발전을 촉진하는 데 중요한 역할을 할 수 있습니다.",
-      "importanceRationale": "근거: 정부가 생성형 AI 학습에 대한 명확한 기준을 제시함으로써, 기업과 개발자들이 저작권 침해에 대한 우려 없이 AI 기술 개발에 집중할 수 있게 되었습니다.",
+      "whyImportant": "생성형 AI 학습의 저작권 관련 불확실성을 해소하고, 공정한 이용 기준을 제시함으로써 AI 산업 발전에 기여할 수 있습니다.",
+      "importanceRationale": "근거: 정부가 생성형 AI 학습에 대한 공정 이용 기준을 최초로 제시하고 안내서를 발간하여 정책적 중요성이 높습니다.",
       "impactSignals": [],
-      "dedupeKey": "AI_Fair_Use_Guideline_Published",
+      "dedupeKey": "생성형 AI 학습 ‘공정이용’ 기준 첫 제시",
       "clusterKey": "공정이용",
       "matchedTo": null,
       "sourceName": "인공지능신문",
@@ -440,7 +437,7 @@
       "importance": 2,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 내용이 일치하며, 핵심 내용을 잘 반영하고 있습니다. / 근거부족",
+      "qualityReason": "제목과 본문이 일치하며, 핵심 내용을 잘 반영하고 있습니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -448,107 +445,87 @@
       "id": "2026-03-01_16",
       "date": "2026-03-01",
       "category": "정책",
-      "title": "AI 학습 관련 저작권 충돌, 정부 활용 기준 마련",
+      "title": "미주리 미래 간부회, AI 데이터 센터 규제 법안 우선시",
       "summary": [
-        "AI 학습에 사용되는 데이터의 저작권 충돌 문제가 발생하고 있다.",
-        "이에 정부는 AI 학습 데이터 활용 기준을 마련할 예정이다."
+        "미주리 미래 간부회가 AI 데이터 센터 규제 법안을 우선적으로 처리할 예정입니다.",
+        "이는 데이터 센터의 증가에 따른 잠재적 문제에 대한 선제적 대응으로 보입니다."
       ],
-      "whyImportant": "AI 학습 데이터 활용 기준이 마련되면 관련 산업 발전에 기여할 수 있다.",
-      "importanceRationale": "근거: AI 학습 데이터의 저작권 문제는 AI 산업 발전에 걸림돌이 될 수 있으므로, 정부의 활용 기준 마련은 중요한 정책적 결정이다.",
+      "whyImportant": "AI 데이터 센터 규제는 기술 발전과 관련된 잠재적 위험을 관리하는 데 중요합니다.",
+      "importanceRationale": "근거: AI 데이터 센터 규제 법안은 데이터 센터 투자 및 운영에 영향을 미치므로 중요합니다.",
       "impactSignals": [],
-      "dedupeKey": "AI 학습 저작권 충돌 정부 활용기준 마련",
-      "clusterKey": "뉴스1",
+      "dedupeKey": "missouri_ai_data_center_regulation",
+      "clusterKey": "caucus",
       "matchedTo": null,
-      "sourceName": "뉴스1",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5uTjg0SGtQRW5qWUJYU3p0WEllMU0zN000Z1NzQlZ5Y3I3NEVGeGZGTzQzendJc09BVlB0UkZYS25YTGtCTk5CMVZJaHJwZHZWWFE5cE5tN2VvOHdTSUFESnBWZTJUZnUy?oc=5",
-      "publishedAt": "2026-02-26T02:04:46.000Z",
+      "sourceName": "KY3",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQk1rNjVPbnJJd1ZacmFfQ1FEM3dSdk1GQ3Rsd3RubThXQW91WXFRZEVNLTFHN3BwcXRmVWFOd0YyZHFuUTk0cmtmNDFpNVRxaGFmS1dJSEd5MWY5WmlTZkYwclhSbm5ubVl2LUZEaW1aTGlLTURoNWQ1dTl5YUswSGgwVDZ5QWVidnhpY084WjZJa1UxRlJ3TGI5YzdFWjRKWjJBUEpR0gG6AUFVX3lxTFBnTnljYldnSjF2THNqck5vcVQ1V2MxRlpvR2c2b2V5b2h6blprY0tyZm13UHkwRmMzaTFJeFVGUXNHcWhSUkRvek56dDlTa1Q3eDJ0RGRhZHZsanFheTFiejB0RWNscnp5eWlXVnNlMUR2RjJnUHlIdFRDWUhKZHY5S0lCNW9GMEYtTTItRVVzckJoeDlIakQ1N2I4Slp6MW8zWFBFUnFzRGxoS25EYjVROEYtQjl6V1BMUQ?oc=5",
+      "publishedAt": "2026-02-27T22:39:00.000Z",
       "readTimeSec": 10,
       "status": "kept",
       "importance": 2,
-      "importanceRaw": 75,
+      "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "기사 내용이 명확하고 간결하게 작성됨. / 근거부족",
+      "qualityReason": "기사 제목과 내용이 일치하며, 정보가 명확합니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-03-01_17",
       "date": "2026-03-01",
-      "category": "경제",
-      "title": "뉴욕 주민들, 데이터 센터 관련 전기 요금 상승에 직면",
+      "category": "기술",
+      "title": "브로드컴, AI용 3.5D XDSiP 첫 출하",
       "summary": [
-        "뉴욕 주민들이 데이터 센터와 관련된 전기 요금 상승에 직면하고 있습니다."
+        "브로드컴이 AI용 3.5D XDSiP를 처음으로 출하했다.",
+        "이는 미래 HBM 시장에서 브로드컴의 중요한 행보를 의미한다."
       ],
-      "whyImportant": "데이터 센터 증가로 인한 전기 요금 상승은 뉴욕 주민들의 생활에 직접적인 영향을 미칠 수 있습니다.",
-      "importanceRationale": "근거: 데이터 센터는 많은 전력을 소비하며, 이는 결국 전기 요금 상승으로 이어져 가계 부담을 증가시킬 수 있습니다.",
-      "impactSignals": [],
-      "dedupeKey": "new_york_electricity_costs_data_centers",
-      "clusterKey": "costs",
+      "whyImportant": "브로드컴의 AI용 3.5D XDSiP 첫 출하는 AI 반도체 시장에서의 경쟁 심화를 예고합니다.",
+      "importanceRationale": "근거: 브로드컴의 새로운 제품 출시는 AI 반도체 시장의 기술 경쟁을 촉진하고, HBM 수요 증가에 기여할 수 있습니다.",
+      "impactSignals": [
+        {
+          "label": "market-demand",
+          "evidence": "AI용 반도체 시장에서 HBM 수요 증가를 예상할 수 있음"
+        }
+      ],
+      "dedupeKey": "broadcom_xdsip_shipment",
+      "clusterKey": "반도체/ai용",
       "matchedTo": null,
-      "sourceName": "National Today",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbnlnNWxkUEppQTRIZHJ0MWpkR2VKdEVaMGw5N3F1RkpqR2gtMHItUVU5QTBmYnNRdWN5R0puYmdjOFF0eFRkX250eXN2dUhXMXVCVnZKcVpWNWxndWV4aHVYTjZ1QmthX3pSMUhRcUVLWGxadkszd3FsVG5yTk90ZDZveUMta2otbjZPWWsyaC0weU1XTGM0blVYeXJrazFaY3pvbmFPTHhSTDZTQ3lpMW1mdmMtSEpRWWY5aGpSTEtJZmVscGc?oc=5",
-      "publishedAt": "2026-02-28T20:07:02.000Z",
+      "sourceName": "디일렉",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1GMHJVNk9Zay1kbGxNYmZXR1d0TF95dDlXUXdUTFBDTXBtbEhPanhnWi02dVJpZVpKZExheTFIWUJqQWVialhjOWEta3NnSHltOWYxdU5Ub1liUWZrQnN4NllXd2R0dw?oc=5",
+      "publishedAt": "2026-02-28T07:34:16.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 2,
-      "importanceRaw": 50,
+      "importance": 3.5,
+      "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 내용이 일치하며, 간결하게 요약되었습니다. / 근거부족",
+      "qualityReason": "제목과 본문이 일치하며, 간결하게 요약되었습니다.",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-03-01_18",
       "date": "2026-03-01",
-      "category": "에너지",
-      "title": "미국 데이터 센터의 전력 소비, 2030년까지 두 배로 증가 전망",
+      "category": "기술",
+      "title": "우주 공급망, 확장되다. 이것이 미국 국방부 계획에 미치는 영향",
       "summary": [
-        "미국 데이터 센터의 전력 소비가 2030년까지 두 배로 증가할 것으로 예상됨.",
-        "이는 E&E News by POLITICO의 보도에 따른 것임."
+        "우주 공급망이 확장되고 있습니다.",
+        "이는 미국 국방부의 계획에 영향을 미칠 수 있습니다."
       ],
-      "whyImportant": "데이터 센터의 전력 소비 증가는 에너지 인프라 투자 및 정책 결정에 중요한 영향을 미칠 수 있습니다.",
-      "importanceRationale": "근거: 데이터 센터의 전력 소비 증가는 관련 산업의 투자 및 에너지 정책에 대한 고려를 필요로 하기 때문입니다.",
+      "whyImportant": "우주 공급망의 확장이 미국 국방부의 계획에 미치는 잠재적 영향",
+      "importanceRationale": "근거: 우주 공급망의 변화는 국방 전략 및 자원 배분에 중요한 영향을 미칠 수 있기 때문입니다.",
       "impactSignals": [],
-      "dedupeKey": "data_center_electricity_2030",
-      "clusterKey": "centers",
+      "dedupeKey": "space_supply_chain_pentagon_plans",
+      "clusterKey": "chain",
       "matchedTo": null,
-      "sourceName": "E&E News by POLITICO",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNS1VaTE4zNDZKV3Q2MktVYWlwTERLdlJkN21WaG9YUjdlUE50VTVHM1JEaUZUY3pzM09jeGdsX0dYR0h3THdpX21BRnhUaktwMmhvc25MQnhubnJWYlV1VnNMYllYQmotZGF3b19USnJyOWV4eHRubGZXckxXcm8wMnZWVWVJa2ZNUXdTQkJ0TUNDSFF6SkE?oc=5",
-      "publishedAt": "2026-02-26T12:00:00.000Z",
+      "sourceName": "Breaking Defense",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNX0hMTmMzMjNNbXgybG5Pc3VCZjZTM0tGaVlkODgxOXVaQ3hNblVPNjN6Qi16R0xodnVwZFhuNlUtY084OHYwRzQ1T3J0QUlyeVZuZTZMd29jUEdqa1I3R21uYUNsQnZ2SlVZbUhsWENXdG5WZDNQbmdEejIyV0hpYkdtNk1Cck55NENZWEdWWDBQaHFzTHhlSU9WRGJfb2hNM3BXMG5aQ2xWWEl5aXVOOTFfc05KWGJKVHFHaWxudmZqaFNU?oc=5",
+      "publishedAt": "2026-02-25T15:35:15.000Z",
       "readTimeSec": 10,
       "status": "kept",
       "importance": 2,
-      "importanceRaw": 63,
+      "importanceRaw": 50,
       "qualityLabel": "ok",
-      "qualityReason": "The article provides a clear and concise summary of a projection regarding data center electricity consumption. / 근거부족",
+      "qualityReason": "기사 제목과 내용이 일치하며, 핵심 내용을 요약했습니다. / 근거부족",
       "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-03-01_19",
-      "date": "2026-03-01",
-      "category": "경제",
-      "title": "금융보안원, '2026년 금융권 S/W 보안 취약점 신고 포상제' 실시",
-      "summary": [
-        "금융보안원이 '2026년 금융권 S/W 보안 취약점 신고 포상제'를 실시합니다."
-      ],
-      "whyImportant": "금융권 소프트웨어 보안 강화에 기여합니다.",
-      "importanceRationale": "근거: 금융보안원이 금융권 S/W 보안 취약점 신고 포상제를 실시하여 보안 강화에 직접적인 영향을 미칩니다.",
-      "impactSignals": [],
-      "dedupeKey": "금융보안원, '2026년 금융권 S/W 보안 취약점 신고 포상제' 실시",
-      "clusterKey": "2026년",
-      "matchedTo": null,
-      "sourceName": "테크월드뉴스",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAwWWVPSEZ6WVZIRmZ1eUFQczlvOFZCeUlkb1NtSU5JTERfYWZTRVhPTkhkNW9VQU9uTmJYOVRLT2ZuRzRhZVhjR0tkNWVjekFRd3UzeUtRbVdzNm8zRUFrTVVucmpCeFgz?oc=5",
-      "publishedAt": "2026-02-26T01:17:05.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 63,
-      "qualityLabel": "ok",
-      "qualityReason": "제목과 기사 내용이 일치하며, 정보가 명확합니다. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
+      "isBreaking": true
     }
   ]
 }

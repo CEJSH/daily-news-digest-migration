@@ -2,43 +2,43 @@
   "type": "metrics_summary",
   "date": "2026-03-01",
   "totalIn": 285,
-  "totalOut": 19,
-  "dropped": 266,
+  "totalOut": 18,
+  "dropped": 267,
   "dropReasons": {
-    "outdated": 103,
-    "carry_over_duplicate": 43,
+    "outdated": 105,
+    "carry_over_duplicate": 41,
     "hard_excluded_keyword": 4,
-    "duplicate_dedupe_key": 3,
+    "duplicate_dedupe_key": 2,
     "duplicate_title": 1,
-    "excluded_keyword": 2,
-    "not_selected": 110,
-    "validation_dropped": 1
+    "excluded_keyword": 1,
+    "not_selected": 113,
+    "validation_dropped": 2
   },
   "impactLabels": {
-    "capex": 2,
-    "policy": 3,
+    "policy": 2,
     "security": 1,
+    "earnings": 1,
+    "capex": 2,
     "market-demand": 1
   },
   "sources": {
     "CNBC": 1,
-    "The Well News": 1,
     "PA Environment Digest Blog": 1,
+    "The Well News": 1,
     "ktnv.com": 1,
-    "Rest of World": 1,
+    "Morningstar": 1,
     "비즈니스포스트": 2,
     "simplywall.st": 1,
     "매일경제 마켓": 1,
-    "연합뉴스 한민족센터": 1,
+    "한국경제": 1,
+    "한국방송뉴스": 1,
     "Axios": 1,
-    "디일렉": 1,
-    "OpenAI": 1,
+    "National Today": 1,
     "mt.co.kr": 1,
     "인공지능신문": 1,
-    "뉴스1": 1,
-    "National Today": 1,
-    "E&E News by POLITICO": 1,
-    "테크월드뉴스": 1
+    "KY3": 1,
+    "디일렉": 1,
+    "Breaking Defense": 1
   },
   "topicStats": {
     "IT": {
@@ -53,8 +53,8 @@
     },
     "글로벌_정세": {
       "in": 24,
-      "out": 2,
-      "dropped": 22
+      "out": 3,
+      "dropped": 21
     },
     "글로벌_빅테크": {
       "in": 18,
@@ -63,8 +63,8 @@
     },
     "실적_가이던스": {
       "in": 24,
-      "out": 3,
-      "dropped": 21
+      "out": 4,
+      "dropped": 20
     },
     "반도체_공급망": {
       "in": 24,
@@ -73,18 +73,18 @@
     },
     "전력_인프라": {
       "in": 24,
-      "out": 3,
-      "dropped": 21
+      "out": 2,
+      "dropped": 22
     },
     "AI_저작권_데이터권리": {
       "in": 20,
-      "out": 3,
-      "dropped": 17
+      "out": 2,
+      "dropped": 18
     },
     "보안_취약점_패치": {
       "in": 20,
-      "out": 2,
-      "dropped": 18
+      "out": 1,
+      "dropped": 19
     },
     "투자_MA_IPO": {
       "in": 20,
@@ -123,32 +123,33 @@
       "outdated": 2,
       "not_selected": 2
     },
-    "매일경제": {
-      "outdated": 2
-    },
     "인공지능신문": {
       "outdated": 1
+    },
+    "매일경제": {
+      "outdated": 3
+    },
+    "뉴스토마토": {
+      "outdated": 1,
+      "carry_over_duplicate": 1,
+      "not_selected": 2
     },
     "쿠키뉴스": {
       "outdated": 1
     },
-    "스트레이트뉴스": {
-      "outdated": 2,
-      "carry_over_duplicate": 2
-    },
     "knn.co.kr": {
       "outdated": 1,
       "not_selected": 2
+    },
+    "스트레이트뉴스": {
+      "outdated": 2,
+      "carry_over_duplicate": 2
     },
     "부산일보사": {
       "outdated": 1
     },
     "KPI뉴스": {
       "outdated": 1
-    },
-    "더에이아이": {
-      "outdated": 1,
-      "not_selected": 2
     },
     "TRENDS Research & Advisory": {
       "outdated": 1
@@ -171,6 +172,9 @@
     "Davis Wright Tremaine": {
       "outdated": 1
     },
+    "E&E News by POLITICO": {
+      "outdated": 1
+    },
     "전자신문": {
       "outdated": 1
     },
@@ -182,14 +186,14 @@
     },
     "한국경제": {
       "outdated": 2,
-      "carry_over_duplicate": 4,
+      "carry_over_duplicate": 3,
       "not_selected": 3
     },
     "더바이오": {
       "outdated": 1
     },
     "한스경제": {
-      "outdated": 2
+      "outdated": 1
     },
     "스페셜경제": {
       "outdated": 1
@@ -198,8 +202,7 @@
       "outdated": 2
     },
     "edaily.co.kr": {
-      "outdated": 1,
-      "not_selected": 1
+      "outdated": 1
     },
     "인포스탁데일리": {
       "outdated": 1
@@ -210,13 +213,14 @@
     "약업신문": {
       "outdated": 1
     },
-    "히트뉴스": {
-      "outdated": 2
+    "WWF EU": {
+      "outdated": 1
     },
     "Reuters": {
-      "outdated": 2,
+      "outdated": 3,
       "hard_excluded_keyword": 1,
-      "carry_over_duplicate": 1
+      "carry_over_duplicate": 1,
+      "not_selected": 2
     },
     "MSCI": {
       "outdated": 1
@@ -233,14 +237,14 @@
     "Federal Reserve Bank of Dallas": {
       "outdated": 1
     },
-    "ABN AMRO": {
+    "RMI": {
       "outdated": 1
     },
     "Discovery Alert": {
       "outdated": 1
     },
-    "RMI": {
-      "outdated": 2
+    "ABN AMRO": {
+      "outdated": 1
     },
     "Freeman Spogli Institute for International Studies | FSI": {
       "outdated": 1
@@ -259,7 +263,7 @@
     },
     "연합뉴스 한민족센터": {
       "carry_over_duplicate": 2,
-      "not_selected": 4
+      "not_selected": 5
     },
     "Axios": {
       "carry_over_duplicate": 1,
@@ -267,9 +271,6 @@
     },
     "Boston Consulting Group": {
       "outdated": 1
-    },
-    "Breaking Defense": {
-      "duplicate_dedupe_key": 1
     },
     "The Verge": {
       "carry_over_duplicate": 1
@@ -337,11 +338,11 @@
     "Business Insider": {
       "carry_over_duplicate": 1
     },
-    "이로운넷": {
-      "outdated": 2
-    },
     "이코리아": {
       "carry_over_duplicate": 1
+    },
+    "이로운넷": {
+      "outdated": 1
     },
     "promarket.org": {
       "outdated": 1
@@ -382,10 +383,6 @@
     "플래텀(Platum)": {
       "carry_over_duplicate": 1
     },
-    "디일렉": {
-      "carry_over_duplicate": 1,
-      "not_selected": 2
-    },
     "Security Clearance Jobs": {
       "carry_over_duplicate": 1
     },
@@ -410,24 +407,19 @@
     "연합인포맥스": {
       "outdated": 4,
       "carry_over_duplicate": 1,
-      "not_selected": 5
+      "not_selected": 4
     },
-    "인베스트조선": {
-      "excluded_keyword": 1
+    "히트뉴스": {
+      "outdated": 1
     },
     "Yahoo Finance": {
-      "carry_over_duplicate": 1,
-      "not_selected": 2
+      "carry_over_duplicate": 1
     },
     "Unicef": {
       "outdated": 1
     },
-    "Silicon Canals": {
+    "TechCrunch": {
       "duplicate_dedupe_key": 1
-    },
-    "뉴스토마토": {
-      "carry_over_duplicate": 1,
-      "not_selected": 2
     },
     "미디어오늘": {
       "carry_over_duplicate": 1
@@ -445,9 +437,6 @@
       "carry_over_duplicate": 1
     },
     "투데이에너지": {
-      "outdated": 1
-    },
-    "스틸데일리": {
       "outdated": 1
     },
     "철강금속신문": {
@@ -473,6 +462,12 @@
       "outdated": 1
     },
     "시사매거진": {
+      "outdated": 1
+    },
+    "데이터투자": {
+      "outdated": 1
+    },
+    "CEO스코어데일리": {
       "outdated": 1
     },
     "한국보험신문": {
@@ -511,28 +506,34 @@
     "crn.com": {
       "not_selected": 1
     },
+    "OpenAI": {
+      "not_selected": 2
+    },
     "Apple": {
       "not_selected": 1
     },
     "Politico": {
       "not_selected": 2
     },
-    "한국방송뉴스": {
+    "뉴스1": {
       "not_selected": 2
     },
-    "뉴스1": {
-      "not_selected": 3
+    "Chosunbiz": {
+      "not_selected": 2
     },
-    "CBC뉴스": {
-      "not_selected": 1
+    "DealSite경제TV": {
+      "not_selected": 2
+    },
+    "Investing.com 한국어": {
+      "not_selected": 2
     },
     "AXA.com": {
       "not_selected": 1
     },
-    "Chosunbiz": {
-      "not_selected": 1
-    },
     "mstoday.co.kr": {
+      "not_selected": 2
+    },
+    "디일렉": {
       "not_selected": 2
     },
     "서울파이낸스": {
@@ -541,44 +542,48 @@
     "동아사이언스": {
       "not_selected": 2
     },
-    "CBIA": {
+    "더에이아이": {
+      "not_selected": 2
+    },
+    "AI넷": {
       "not_selected": 1
     },
-    "Crunchbase News": {
+    "CBIA": {
       "not_selected": 1
     },
     "1코노미뉴스": {
       "not_selected": 1
     },
+    "Rest of World": {
+      "validation_dropped": 1
+    },
     "SPN 서울평양뉴스": {
       "validation_dropped": 1
     },
     "__others__": {
-      "not_selected": 52
+      "not_selected": 53
     }
   },
   "breakingSelection": {
-    "candidates": 0,
-    "selected": 0,
-    "selectionRate": 0,
-    "selectedShare": 0
+    "candidates": 1,
+    "selected": 1,
+    "selectionRate": 1,
+    "selectedShare": 0.0556
   },
   "categories": {
     "경제": 5,
+    "기술": 5,
     "정책": 5,
-    "기술": 4,
-    "국제": 4,
-    "에너지": 1
+    "국제": 3
   },
   "importanceDistribution": {
-    "2": 12,
+    "2": 11,
     "4": 1,
-    "4.5": 1,
-    "3.5": 5
+    "3.5": 6
   },
   "topDiversity": {
-    "uniqueSources": 18,
-    "uniqueCategories": 5,
+    "uniqueSources": 17,
+    "uniqueCategories": 4,
     "maxPerSource": 2
   }
 }
