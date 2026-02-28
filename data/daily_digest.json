@@ -3,7 +3,7 @@
   "selectionCriteria": "① 내일도 영향이 남는 이슈 ② 과도한 감정 소모 제외 ③ 어제와 중복되는 뉴스 제외",
   "editorNote": "이 뉴스는 클릭 수가 아니라 오늘 이후에도 남는 정보만 기준으로 편집했습니다.",
   "question": "정보를 덜 보는 것이 오히려 더 똑똑한 소비일까?",
-  "lastUpdatedAt": "2026-02-28T12:52:09.171+09:00",
+  "lastUpdatedAt": "2026-02-28T13:53:07.332+09:00",
   "items": [
     {
       "id": "2026-02-28_1",
@@ -15,9 +15,9 @@
         "전기차 화재 진압을 위한 새로운 소방 정책 도입의 필요성이 제기되었습니다."
       ],
       "whyImportant": "전기차 화재에 대한 기존 소화 설비의 한계점을 지적하고 새로운 정책 도입의 필요성을 강조합니다.",
-      "importanceRationale": "근거: 전기차 화재는 기존 소화 설비로 진압이 어렵다는 점을 명시적으로 언급하고 있어, 관련 정책 및 설비 투자의 필요성을 환기시키기 때문입니다.",
+      "importanceRationale": "근거: 전기차 화재는 기존 소화 설비로 진압이 어렵다는 점을 명시적으로 언급하며, 이는 새로운 소방 정책 및 관련 투자의 필요성을 시사합니다.",
       "impactSignals": [],
-      "dedupeKey": "electric_vehicle_fire_suppression_001",
+      "dedupeKey": "electric_vehicle_fire_suppression_difficulty",
       "clusterKey": "에너지/국회",
       "matchedTo": null,
       "sourceName": "에너지플랫폼뉴스",
@@ -28,7 +28,7 @@
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 내용이 일치하며, 핵심 내용을 잘 요약했습니다. / 근거부족",
+      "qualityReason": "기사 내용이 명확하고 정책적 시사점을 포함하고 있습니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -41,8 +41,8 @@
         "버지니아 데이터 센터의 전력 사용량 증가로 인해 겨울철 전기 요금이 급등했다.",
         "이에 따라 데이터 센터의 에너지 소비에 대한 면밀한 조사가 이루어질 예정이다."
       ],
-      "whyImportant": "데이터 센터의 전력 사용량 급증은 정책 및 자본 지출에 영향을 미칠 수 있다.",
-      "importanceRationale": "근거: 데이터 센터의 전력 소비 증가는 에너지 정책 변화와 데이터 센터 투자 결정에 중요한 고려 사항이 될 수 있기 때문이다.",
+      "whyImportant": "데이터 센터의 전력 사용량 증가는 에너지 정책 및 관련 투자를 필요로 할 수 있다.",
+      "importanceRationale": "근거: 겨울철 전기 요금 급등의 원인으로 데이터 센터의 전력 사용량이 지목되었으며, 이는 정책(policy) 및 자본 지출(capex)과 관련된 영향을 시사한다.",
       "impactSignals": [],
       "dedupeKey": "winter_electric_bill_spikes_va_data_centers",
       "clusterKey": "에너지/bill",
@@ -55,7 +55,7 @@
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 핵심 내용을 잘 반영하고 있다. / 근거부족",
+      "qualityReason": "제목과 본문이 일치하며, 간결하게 요약됨. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -69,14 +69,14 @@
         "이번 조치는 AI 기술 사용에 대한 정부 정책에 중요한 변화를 가져올 수 있습니다."
       ],
       "whyImportant": "정부의 AI 기술 사용 정책에 중요한 변화를 의미합니다.",
-      "importanceRationale": "근거: 트럼프 전 대통령의 명령은 정부 기관의 AI 기술 선택에 직접적인 영향을 미치며, 이는 관련 시장과 정책 방향에 중요한 신호가 될 수 있습니다.",
+      "importanceRationale": "근거: 트럼프 전 대통령의 명령은 정부 기관의 AI 기술 선택에 직접적인 영향을 미치며, 이는 관련 시장과 정책 방향에 파급 효과를 가져올 수 있습니다.",
       "impactSignals": [
         {
           "label": "market-demand",
-          "evidence": "정부 기관의 AI 기술 수요 변화 가능성"
+          "evidence": "정부의 AI 기술 선택 변화는 관련 시장 수요에 영향"
         }
       ],
-      "dedupeKey": "trump-anthropic-ai-ban",
+      "dedupeKey": "trump_anthropic_ai_ban",
       "clusterKey": "anthropic",
       "matchedTo": null,
       "sourceName": "BBC",
@@ -87,27 +87,49 @@
       "importance": 4,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "기사의 내용이 명확하고 간결하며, 핵심 정보를 잘 전달하고 있습니다.",
+      "qualityReason": "기사 제목과 내용이 일치하며, 간결하게 요약되었습니다.",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-02-28_4",
       "date": "2026-02-28",
-      "category": "기술",
-      "title": "조달 부서가 공급망 공격에 대응하는 방법",
+      "category": "국제",
+      "title": "미국-이란 협상 결렬, 각국 자국민 대피 권고…국제유가 3% 상승",
       "summary": [
-        "공급망 공격에 대한 조달 부서의 방어 방법에 대한 기사입니다.",
-        "구체적인 방법은 제시되지 않았습니다."
+        "미국과 이란의 협상이 결렬되었다.",
+        "각국은 자국민에게 대피를 권고했다.",
+        "국제 유가는 3% 상승했다."
       ],
-      "whyImportant": "공급망 공격은 기업의 보안과 시장 수요에 큰 영향을 미칠 수 있습니다.",
-      "importanceRationale": "근거: 공급망 공격은 기업의 운영을 중단시키고, 고객 신뢰를 훼손하며, 재정적 손실을 초래할 수 있습니다. 조달 부서가 이러한 공격에 효과적으로 대응하는 것은 기업의 생존과 성장에 매우 중요합니다.",
-      "impactSignals": [
-        {
-          "label": "market-demand",
-          "evidence": "공급망 공격은 시장 수요에 영향을 미칠 수 있습니다."
-        }
+      "whyImportant": "미국과 이란의 협상 결렬로 지정학적 리스크가 증가하고 국제 유가가 상승했다.",
+      "importanceRationale": "근거: 미국-이란 협상 결렬은 국제 관계에 미치는 영향이 크며, 유가 상승은 경제 전반에 영향을 줄 수 있다.",
+      "impactSignals": [],
+      "dedupeKey": "미국-이란 협상 결렬, 각국 자국민 대피 권고…국제유가 3% 상승",
+      "clusterKey": "각국",
+      "matchedTo": null,
+      "sourceName": "뉴스1",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5vbmtmNC13OEVxekV2cGQzMTNfbzRjcENucGRrNGh1TFRuZkZHVmRhM0NRaGNBWTZqc0JJODFFd3NteUZJcHhKc2R6ak9IX2Z3bnBXbnQ5al80RGRIRkE?oc=5",
+      "publishedAt": "2026-02-27T20:31:29.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 75,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되어 있음. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-02-28_5",
+      "date": "2026-02-28",
+      "category": "기술",
+      "title": "조달 부서가 공급망 공격으로부터 방어하는 방법",
+      "summary": [
+        "조달 부서가 공급망 공격으로부터 방어하는 방법에 대한 기사입니다."
       ],
+      "whyImportant": "공급망 보안 강화의 중요성",
+      "importanceRationale": "근거: 공급망 공격은 기업에 심각한 피해를 줄 수 있으며, 조달 부서의 역할이 중요하기 때문입니다.",
+      "impactSignals": [],
       "dedupeKey": "procurement-supply-chain-attacks",
       "clusterKey": "against",
       "matchedTo": null,
@@ -116,117 +138,90 @@
       "publishedAt": "2026-02-28T01:49:12.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 3.5,
+      "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었습니다.",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-02-28_5",
-      "date": "2026-02-28",
-      "category": "경제",
-      "title": "델 테크놀로지 주가, 강력한 실적에 급등. AI 수요가 매출 증대.",
-      "summary": [
-        "델 테크놀로지 주가가 강력한 실적 발표 후 급등했습니다.",
-        "AI 수요 증가가 매출 증대에 기여했습니다."
-      ],
-      "whyImportant": "델 테크놀로지의 실적 호조와 AI 수요 증가가 주가 상승을 견인했습니다.",
-      "importanceRationale": "근거: 델 테크놀로지의 실적 발표와 AI 수요 증가에 대한 직접적인 언급이 있습니다.",
-      "impactSignals": [],
-      "dedupeKey": "dell_earnings_ai_boost",
-      "clusterKey": "boosts",
-      "matchedTo": null,
-      "sourceName": "Barron's",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxOUXJOS3NPV0Q2dTdENVZRT0QyZ3h4QWdkam1wdldkUzhoTV80akg2bkJFWFZXVmhuRVVFMDZ1UE9RQW81MG5xTGRoNmZtTjNaajA2dTRPd0NITUw4UVVNMlhNOGE5TkpQMmZTT3puVFh3QkdIMXdFdTM5VzV6M0JGRlpMWDlEamZKZlphZXhfbk5qdFlRWGdYSUZoaXRhX2lRdlMxV1hDb0tnQ2Q0TXhtcnhvZDhSNW92SUVHbThFMEpzWVBnZE5CNk9NM1JEZ05heWJjWXBWOFZaVTJFMTZUa2tZZnBwXzRsMXJwMlU4bFdsWGppRXFwX2lLZVdPcEJidldlcnc4ZjBNczJUbk9uYU54NVlweE9LdWVnOXJlaE1QMTdLQ3lFYTZsU1Q5Zy1RZ0RxUWZIUmxuNUtodUtaX1VsaDlXTDVVOFpoQ0RURlhybERSVVdOa1hPVk1rODg3TlRuN1dLRHpyUUNXOGNEcmF5ZEhuOUJKQU9B?oc=5",
-      "publishedAt": "2026-02-27T10:15:00.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 75,
-      "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 정보가 명확합니다. / 근거부족",
+      "qualityReason": "기사 내용이 명확하고 간결합니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-02-28_6",
       "date": "2026-02-28",
-      "category": "국제",
-      "title": "[차이나워치] 중국, '트럼프 협상력 약화' 판단?…EU와 '밀착'",
+      "category": "경제",
+      "title": "델 테크놀로지 주가, 강력한 실적에 급등. AI 수요가 수익 증대.",
       "summary": [
-        "중국이 트럼프의 협상력 약화를 판단하고 EU와 밀착하고 있다는 내용의 기사입니다."
+        "델 테크놀로지 주가가 강력한 실적 발표 후 급등했습니다.",
+        "AI 수요 증가가 수익 증대에 기여했습니다."
       ],
-      "whyImportant": "중국의 외교 전략 변화를 보여주는 신호입니다.",
-      "importanceRationale": "근거: 기사 제목에서 중국이 트럼프의 협상력 약화를 판단하고 EU와의 관계를 강화하려는 움직임을 보인다고 명시하고 있습니다.",
+      "whyImportant": "델 테크놀로지의 실적 호조와 AI 수요 증가가 주가 상승을 견인했다는 점이 중요합니다.",
+      "importanceRationale": "근거: 델 테크놀로지의 실적 발표와 그에 따른 주가 변동은 투자자와 시장 참여자들에게 중요한 정보입니다. 특히 AI 수요가 수익에 미치는 영향은 기술 산업의 트렌드를 파악하는 데 도움이 됩니다.",
       "impactSignals": [],
-      "dedupeKey": "[차이나워치] 중국, '트럼프 협상력 약화' 판단?…EU와 '밀착'",
-      "clusterKey": "eu와는",
+      "dedupeKey": "Dell_Technologies_Stock_Jumps_on_Strong_Earnings_AI_Demand_Boosts_Revenue",
+      "clusterKey": "boosts",
       "matchedTo": null,
-      "sourceName": "연합뉴스 한민족센터",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1oLXYzdlhySGhEeEtaRE01V0JDMXhxUGhjLTFjRHUxaTZhS05pLWpULU5FNWNqYWdzNGpWcUkyMk10T3N2N0Rmb0lHZ0d4X0puSU90QlBZTWk1b1g3VVdYVzBoYzFxX0Q2RGVfTWp5dTZXQ196?oc=5",
-      "publishedAt": "2026-02-27T08:14:24.000Z",
+      "sourceName": "Barron's",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxPRWNXNGZhY2NZbzV1VXVwdmlGZV9Rb0pxQzJ0SG9MUzF3NVlad1FLVTdnTUF6YkNvRjQ3OGxZSEctYkFhMUFoWnE0NHBST3hiZHhsa2pfNVRHWEttZ1dNb3JCdld5Y2tsUkxwMzFjUU5WUUp4Ui1hTXFVdG1VbFlBTHFGc19wR05ibk01VVJvWDFMU29BNGplMEdZTHJubUhPTnVlak1KTTU3Z1MwVUt0b0tqOWprbDlRRUVydkROblVaUXNpazV4U083eGhMZzE3YkUwUzJGUFFIakF5dEdmS3NReF9VMUVxS0dFUkdqa1IwTndXa2oxaWg5Um5MT3VzYkZMMkphczk4WTYzQ0tXQ01YcG5VcW1TWkZlbXI1bGRDYnhBeUpKSUppdmMySHd3WEJlZmxJSnNTNEQ1SnBPQlRUWjhfUlJSZzJZV1ROVVd1V09paGRFSGgxRVJlWlVLUVdnYml0LUpfcURwOGdwSmVGc1lyQWVwRUE0?oc=5",
+      "publishedAt": "2026-02-27T10:15:00.000Z",
       "readTimeSec": 10,
       "status": "kept",
       "importance": 2,
-      "importanceRaw": 63,
+      "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 간결하게 요약되어 있습니다. / 근거부족",
+      "qualityReason": "제목과 내용이 일치하며, 핵심 정보를 포함하고 있습니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-02-28_7",
       "date": "2026-02-28",
-      "category": "국제",
-      "title": "Dell, AI 서버 수익 두 배 전망에 3개월 만에 최고 주가 기록",
+      "category": "정책",
+      "title": "국민의힘, 구글 국내 지도 데이터 허용 의혹 제기",
       "summary": [
-        "Dell 주가가 AI 서버 수익이 두 배로 증가할 것이라는 전망에 힘입어 3개월 만에 최고치를 기록했습니다.",
-        "이번 전망은 Dell의 AI 서버 시장에서의 성장 가능성을 시사합니다."
+        "국민의힘은 구글의 국내 지도 데이터 반출 허용에 대한 의혹을 제기했다.",
+        "관세 협상 과정에서 미국에 추가적인 양보가 있었는지에 대한 의문이 제기되었다."
       ],
-      "whyImportant": "Dell의 AI 서버 수익 증가는 AI 기술 시장의 성장과 Dell의 경쟁력을 보여줍니다.",
-      "importanceRationale": "근거: Dell의 AI 서버 수익 두 배 증가는 회사의 재정적 성과에 직접적인 영향을 미치며, AI 기술 시장에서의 Dell의 입지를 강화하는 중요한 지표입니다.",
+      "whyImportant": "구글의 국내 지도 데이터 반출 허용에 대한 논란은 국가 안보 및 데이터 주권과 관련된 중요한 문제이다.",
+      "importanceRationale": "근거: 국민의힘이 구글의 국내 지도 데이터 반출 허용에 대한 의혹을 제기하며 관세 협상과의 연관성을 언급했기 때문이다.",
       "impactSignals": [],
-      "dedupeKey": "dell_ai_server_revenue_forecast_double",
-      "clusterKey": "dell",
+      "dedupeKey": "국힘, 구글에 국내 지도 허용 의혹",
+      "clusterKey": "관세협상서",
       "matchedTo": null,
-      "sourceName": "Reuters",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMHBiazNScGN1Vl9jdXMxUTZTbDA1eTNRN2hQTXBIbjFPUUUxemxKNG0taFNocVp1NlNqdGRmMnZYS0Vqc0Iyc2JSNmVtWGFrYTF2ZWdNTS1kM2ZSYnJ3Q2N5ZVFaVzNySEt6M3NwNHh4Wkl3UEp1RkxxQ0NIakhoV1hMeTRJZEduVmxNWDNNbUZsOG1GdHdkTzZFRmtqc0h2YkNJeDk0Zy1Edw?oc=5",
-      "publishedAt": "2026-02-27T12:47:58.000Z",
+      "sourceName": "SBS Biz",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9HQS1jUHA4dGQwbGhQSW1ua2FFdktDVy1yWkpyZE9SbkZDYk4xVE9JSk5scUlRZUktUGpyUUlDeFptVThQWWtyUVh5NklnT1RMRDdn?oc=5",
+      "publishedAt": "2026-02-28T02:07:00.000Z",
       "readTimeSec": 10,
       "status": "kept",
       "importance": 2,
-      "importanceRaw": 75,
+      "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "The article provides a clear and concise report on Dell's stock performance and revenue forecast. / 근거부족",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약됨. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-02-28_8",
       "date": "2026-02-28",
-      "category": "국제",
-      "title": "CVE-2026-20127: 시스코 SD-WAN 제로데이, 2023년부터 악용",
+      "category": "정책",
+      "title": "국회·손보협회·지자체, 어린이 교통안전 강화 협약",
       "summary": [
-        "시스코 SD-WAN의 제로데이 취약점 CVE-2026-20127이 2023년부터 악용되고 있습니다.",
-        "SOC Prime에서 해당 내용을 발표했습니다."
+        "국회, 손해보험협회, 지방자치단체가 어린이 교통안전 강화를 위한 협약을 체결했다."
       ],
-      "whyImportant": "시스코 SD-WAN 사용자들은 보안 업데이트를 통해 시스템을 보호해야 합니다.",
-      "importanceRationale": "근거: 시스코 SD-WAN 제로데이 취약점이 실제 악용되고 있다는 정보는 시스템 보안에 대한 즉각적인 대응이 필요함을 시사합니다.",
+      "whyImportant": "어린이 교통안전 강화 정책에 대한 협력적 노력을 보여주는 중요한 사례입니다.",
+      "importanceRationale": "근거: 국회, 손보협회, 지자체가 협력하여 어린이 교통안전이라는 중요한 사회적 문제 해결에 나섰기 때문입니다.",
       "impactSignals": [],
-      "dedupeKey": "CVE-2026-20127_Cisco_SD-WAN_Zero-day_Exploitation_2023",
-      "clusterKey": "2023년부터",
+      "dedupeKey": "국회·손보협회·지자체, 어린이 교통안전 강화 협약",
+      "clusterKey": "강화",
       "matchedTo": null,
-      "sourceName": "SOC Prime",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1DWS1Qc1VzUTFVVHdJOWxtMUJ6NjViMVphTFV3dXFyZ3pnazJhRzZsT05nVnBlWHZ2bE9qSlV6S0FXTk04WGlQUTgtOE9jTFdKMWVlYkZuQmlnUzc2ak5xOFZNVEZmREpwbUE?oc=5",
-      "publishedAt": "2026-02-26T15:43:47.000Z",
+      "sourceName": "서울파이낸스",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB3VHdxNVV2ZDBINkMweEJEWDU4Vk45YnBnTEQyRzd0bzlVbm9PaEVKTVU5WGc2b1hWUE54aXFaYnFQeV9sTUxuWl9qRk5qVWtFZVVqOFBhTHRrdUV0TzB1Wm8wVzB5cDJTZHc?oc=5",
+      "publishedAt": "2026-02-28T01:00:00.000Z",
       "readTimeSec": 10,
       "status": "kept",
       "importance": 2,
-      "importanceRaw": 88,
+      "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 필요한 정보가 간결하게 제공됨. / 근거부족",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 핵심 내용을 전달합니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -234,26 +229,26 @@
       "id": "2026-02-28_9",
       "date": "2026-02-28",
       "category": "정책",
-      "title": "국민의힘, 구글에 국내 지도 허용…관세 협상에서 미국에 또 무엇을 내주었나",
+      "title": "1.2만 프랜차이즈 운명 걸린 '숫자 싸움'… 가맹점주 협상권 '입법 전쟁' 향방은?",
       "summary": [
-        "국민의힘이 구글에 국내 지도 데이터 접근을 허용했다는 보도가 나왔다.",
-        "이는 관세 협상에서 미국에 추가적인 양보를 한 것이 아니냐는 의혹이 제기되고 있다."
+        "1.2만 프랜차이즈의 운명이 걸린 가맹점주 협상권 관련 '입법 전쟁'의 향방이 주목받고 있다.",
+        "이는 프랜차이즈 업계에 큰 영향을 미칠 수 있는 중요한 사안이다."
       ],
-      "whyImportant": "구글의 국내 지도 데이터 사용 허용은 국내 기업에 대한 역차별 논란을 야기할 수 있으며, 국가 안보와 관련된 민감한 정보 유출 우려를 낳을 수 있다.",
-      "importanceRationale": "근거: 국내 지도 데이터 접근 허용은 정책 변화를 의미하며, 잠재적으로 국내 산업 및 안보에 영향을 미칠 수 있기 때문이다.",
+      "whyImportant": "가맹점주 협상권 관련 법안의 향방은 프랜차이즈 업계에 큰 영향을 미치기 때문에 중요합니다.",
+      "importanceRationale": "근거: 기사는 1.2만 프랜차이즈의 운명이 걸린 가맹점주 협상권 관련 입법 전쟁의 향방을 다루고 있으며, 이는 업계 전반에 걸쳐 중요한 영향을 미칠 수 있습니다.",
       "impactSignals": [],
-      "dedupeKey": "20240614-국힘, 구글에 국내 지도 허용",
-      "clusterKey": "관세협상서",
+      "dedupeKey": "1.2만 프랜차이즈 운명 걸린 '숫자 싸움'… 가맹점주 협상권 '입법 전쟁' 향방은?",
+      "clusterKey": "2만",
       "matchedTo": null,
-      "sourceName": "SBS Biz",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9HQS1jUHA4dGQwbGhQSW1ua2FFdktDVy1yWkpyZE9SbkZDYk4xVE9JSk5scUlRZUktUGpyUUlDeFptVThQWWtyUVh5NklnT1RMRDdn0gFYQVVfeXFMT19mRjlMdnh5V1k2Rkh0dk4zRk4wV3FPNmNYYWJNOUdXQ2ZVdUJhTF9CYl9JQ2FhcEwwaU1UWkVYUlRONDZWcklXN1A5NC1wcTczaGhXTF9zNQ?oc=5",
-      "publishedAt": "2026-02-28T02:07:00.000Z",
+      "sourceName": "MTN 머니투데이방송",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1CREJxMVZ4d2tjY2k0S0tObnowclNmZEg1dW5CZmpMV001STV2N3ltUlp3dXVxRjVoYUxfdENROUNtSWQ2VTVUMkpLVHNoaDY3ZHVmWWE2ckE0ZnRzbUFYbGNNcjI?oc=5",
+      "publishedAt": "2026-02-27T23:40:43.000Z",
       "readTimeSec": 10,
       "status": "kept",
       "importance": 2,
-      "importanceRaw": 63,
+      "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 기사 내용이 일치하며, 핵심 내용을 잘 요약했습니다. / 근거부족",
+      "qualityReason": "기사 제목과 내용이 일치하며, 핵심 내용을 잘 반영하고 있습니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -261,13 +256,40 @@
       "id": "2026-02-28_10",
       "date": "2026-02-28",
       "category": "국제",
-      "title": "미국 최대 규모의 정보 유출: 사고 대응이 새로운 생존 지표가 될 수 있다는 경고",
+      "title": "중국, 미국에 관세 협상 제안…독일 총리 방중 '실리 외교'",
       "summary": [
-        "미국 최대 규모의 정보 유출은 사고 대응의 중요성을 부각합니다.",
-        "사고 대응 능력은 기업의 생존을 결정짓는 새로운 지표가 될 수 있습니다."
+        "중국이 미국에 관세 협상을 제안했다.",
+        "독일 총리의 방중은 실리 외교로 평가된다."
       ],
-      "whyImportant": "사이버 보안 사고 발생 시 신속하고 효과적인 대응이 기업의 생존에 매우 중요해지고 있음을 시사합니다.",
-      "importanceRationale": "근거: 미국 최대 규모의 정보 유출 사례를 통해 사고 대응 능력의 중요성이 강조되고 있으며, 이는 기업의 생존과 직결될 수 있습니다.",
+      "whyImportant": "미중 무역 관계와 유럽 외교에 영향을 미칠 수 있는 사안이다.",
+      "importanceRationale": "근거: 중국의 관세 협상 제안은 미중 관계의 변화 가능성을 시사하며, 독일 총리의 방중은 유럽의 대중국 외교 전략을 보여준다.",
+      "impactSignals": [],
+      "dedupeKey": "중국, 미국에 관세 협상 제안…독일 총리 방중 '실리 외교'",
+      "clusterKey": "관세협상",
+      "matchedTo": null,
+      "sourceName": "연합뉴스 한민족센터",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAwTjJNOUVmWVZSM0NFMWYyRko0dEN3aUE0NG12ZVdNOTk4QnhIa01OdWQtZERKLWZOMFBaTVlvci1jNzQ3NV9qcVZhZUN2Vko4dWlRSjBBLW9GYmVHd3NQS21wb1R1bnBHem5NaUk2S3RGbU5O?oc=5",
+      "publishedAt": "2026-02-25T12:19:31.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 63,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약됨. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-02-28_11",
+      "date": "2026-02-28",
+      "category": "국제",
+      "title": "미국 최대 규모의 정보 유출, 사고 대응이 새로운 생존 지표임을 경고",
+      "summary": [
+        "미국 최대 규모의 정보 유출 사고가 발생했다.",
+        "이는 사고 대응 능력이 기업의 생존을 좌우하는 새로운 지표가 될 수 있음을 시사한다."
+      ],
+      "whyImportant": "사이버 보안 사고 발생 시 신속하고 효과적인 대응이 기업의 생존에 필수적임을 강조합니다.",
+      "importanceRationale": "근거: 미국 최대 규모의 정보 유출 사고를 통해 사고 대응의 중요성을 부각하고 있으며, 이는 기업의 생존과 직결되는 문제임을 시사합니다.",
       "impactSignals": [],
       "dedupeKey": "americas_largest_breach_incident_response",
       "clusterKey": "america",
@@ -280,21 +302,53 @@
       "importance": 2,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 핵심 내용을 잘 요약했습니다. / 근거부족",
+      "qualityReason": "제목과 내용이 일치하며, 요약이 적절함. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-02-28_11",
+      "id": "2026-02-28_12",
+      "date": "2026-02-28",
+      "category": "에너지",
+      "title": "미시간 데이터 센터, 원자력 발전소 6개와 동일한 전력 필요 가능성",
+      "summary": [
+        "미시간주의 데이터 센터들이 원자력 발전소 6개에 해당하는 전력을 필요로 할 수 있다는 전망이 나왔다.",
+        "이는 데이터 센터의 급증으로 인한 전력 수요 증가를 시사한다."
+      ],
+      "whyImportant": "데이터 센터의 전력 수요 급증은 에너지 정책 및 인프라 투자에 중요한 영향을 미칠 수 있다.",
+      "importanceRationale": "근거: 데이터 센터의 전력 소비 증가는 에너지 자원 배분 및 환경 문제와 직결되므로, 관련 정책 결정에 중요한 고려 사항이다.",
+      "impactSignals": [
+        {
+          "label": "capex",
+          "evidence": "데이터 센터 건설 및 운영에 필요한 대규모 자본 투자가 예상됨"
+        }
+      ],
+      "dedupeKey": "michigan_data_centers_power_needs",
+      "clusterKey": "에너지/centers",
+      "matchedTo": null,
+      "sourceName": "WKAR",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPVm00MG9ZZXVfU0E4VjFQckJVVWZzZEkyTThyYkdUelF0RnZJeHA5UHFwcG5md3BDY2dHcDVFeXVNTzBzNFhISnhmV0xHVC1BdVRpSExYLWJjdU9wMENDTWFsNXAyTFdTN2hHU1l6S3RnbUM1MnFadlNQY3lVaW91WHZHckN6SGtFbVpoZm5VREhqbHVhWDhjeGFrdU52elpyY1dGbkpfeElvRVZseExtWlZCTWFrRE92OE9BRXA1cmd2OFZqc0RBNmFR?oc=5",
+      "publishedAt": "2026-02-27T15:36:00.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 4,
+      "importanceRaw": 75,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 본문이 일치하며, 정보가 명확함.",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-02-28_13",
       "date": "2026-02-28",
       "category": "국제",
-      "title": "타협이냐 파국이냐, 이란 핵 협상 중 미 도발 시 초강경 무력 대응 천명",
+      "title": "타협이냐 파국이냐: 이란 핵 협상 중 미국 도발 시 초강경 무력 대응 천명",
       "summary": [
-        "이란 핵 협상 중 미국이 도발할 경우 이란이 초강경 무력 대응을 천명했습니다.",
-        "협상의 타결 여부에 따라 중동 지역의 안보 상황이 크게 달라질 수 있습니다."
+        "이란 핵 협상 중 미국이 도발할 경우, 이란이 초강경 무력 대응을 천명했습니다.",
+        "협상의 타결 여부에 따라 중동 정세에 큰 영향을 미칠 것으로 예상됩니다."
       ],
-      "whyImportant": "이란 핵 협상 결과에 따라 국제 관계에 미치는 영향이 크기 때문입니다.",
-      "importanceRationale": "근거: 이란 핵 협상은 중동 지역의 안정을 넘어 국제 안보에 중요한 영향을 미치며, 협상 결과에 따라 미국의 정책 결정에 변화가 예상됩니다.",
+      "whyImportant": "이란 핵 협상과 관련된 잠재적 군사적 긴장 고조 가능성을 보여줍니다.",
+      "importanceRationale": "근거: 이란의 강경한 입장은 협상 결과에 따라 지역 안보에 직접적인 영향을 줄 수 있으며, 국제 사회의 정책 결정에도 중요한 변수가 될 수 있습니다.",
       "impactSignals": [],
       "dedupeKey": "iran_nuclear_talks_military_response",
       "clusterKey": "대응",
@@ -312,94 +366,29 @@
       "isBreaking": false
     },
     {
-      "id": "2026-02-28_12",
+      "id": "2026-02-28_14",
       "date": "2026-02-28",
-      "category": "정책",
-      "title": "공공의대 법안, 국회 복지위 법안소위 통과...15년 의무복무",
+      "category": "국제",
+      "title": "글로벌 AI 저작권 분쟁 심화...정부의 '공정 이용' 판단 기준은?",
       "summary": [
-        "공공의대 법안이 국회 복지위 법안소위를 통과했습니다.",
-        "해당 법안은 15년 의무복무를 포함하고 있습니다."
+        "글로벌 AI 저작권 분쟁이 심화되고 있다.",
+        "정부의 '공정 이용' 판단 기준에 대한 논의가 필요하다."
       ],
-      "whyImportant": "공공의료 강화 및 지역 의료 불균형 해소에 기여할 수 있습니다.",
-      "importanceRationale": "근거: 공공의대 설립 및 의무복무 조항은 의료 인력 부족 문제 해결과 공공 의료 서비스 접근성 향상에 직접적인 영향을 미칠 수 있습니다.",
+      "whyImportant": "AI 저작권 분쟁에 대한 정부 정책 방향을 제시한다.",
+      "importanceRationale": "근거: AI 저작권 분쟁 심화와 정부의 공정 이용 판단 기준에 대한 기사 제목에서 정책적 중요성을 알 수 있다.",
       "impactSignals": [],
-      "dedupeKey": "공공의대 법안, 국회 복지위 통과",
-      "clusterKey": "15년",
+      "dedupeKey": "global_ai_copyright_dispute_intensifies",
+      "clusterKey": "격화",
       "matchedTo": null,
-      "sourceName": "의학신문",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA3V28tZmpqUm5Id3V2ejc1Qi1sSVpXS2F0Snc0V1RtNlVpTVlzTXNuTll0TmVFUEcwYUk0SWV3S0V2c2NfZDR3b3Rwc1ZsQUZqeXRTNzVvOXpnMkVCZmpyMGlJMGNJbWJt?oc=5",
-      "publishedAt": "2026-02-27T08:24:09.000Z",
+      "sourceName": "이코리아",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5samlyVDJrb1hjU05YTnlyV3NsMDNYcm9JbmFRWkI4UHJEVGt3QlgzVElkT05MWEk1Z0FRM2kzMlBXZEJkS1IwMF9Vc3g0anNFWUp4Um9Gb1NRaXhjUVlmUENINEJmbmNiMDlSSmVvUQ?oc=5",
+      "publishedAt": "2026-02-27T04:50:51.000Z",
       "readTimeSec": 10,
       "status": "kept",
       "importance": 2,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 핵심 내용을 전달합니다. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-02-28_13",
-      "date": "2026-02-28",
-      "category": "경제",
-      "title": "HBM 낙수 효과에 따른 반도체 소부장 기업들의 채용 및 증설 준비",
-      "summary": [
-        "HBM(고대역폭 메모리) 수요 증가로 인해 반도체 소부장 기업들이 생산 설비 증설 및 채용에 적극적으로 나서고 있다.",
-        "이는 HBM 시장 확대가 관련 산업 전반에 긍정적인 영향을 미치고 있음을 시사한다.",
-        "소부장 기업들은 늘어나는 수요에 대응하기 위해 생산 능력을 확대하고 인력 확보에 주력할 것으로 예상된다."
-      ],
-      "whyImportant": "HBM 시장 확대에 따른 반도체 소부장 기업들의 성장 가능성을 보여주는 지표",
-      "importanceRationale": "근거: HBM 수요 증가가 소부장 기업들의 설비 투자 및 채용 확대로 이어지는 것은 긍정적인 산업 생태계 구축에 기여할 수 있기 때문이다.",
-      "impactSignals": [
-        {
-          "label": "capex",
-          "evidence": "반도체 소부장 기업들의 생산 설비 증설 준비"
-        }
-      ],
-      "dedupeKey": "HBM_소부장_채용_증설",
-      "clusterKey": "반도체/hbm",
-      "matchedTo": null,
-      "sourceName": "Chosunbiz",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOM0hudWl3V0hCSnFiZDREc01JZnljMGk5d0NkNnoyelJ3ZUEtbmxpYWlMYVFLN0tVd3luaU5pUGxoci00aGNOazJZVVV4UlJzYzlCcnJ1YWQyck5vcmtRc09sOWM3aXNCeGdKOUphM1cteDhfNHJjWG0zY19OdXlXX1N30gGWAUFVX3lxTE13TS1NX2dSNGE3QThaek9UQW9YR1Yycy1oQ2xxdEFJODdRVzRjSEJweHRQTi1GbWhFdWJoSGNwaDBfS3NDaEJBZG9qREZWRWxRZGM5TVgydmxFbTFMQkdPOV9nTk52dl9MZ0kwUElXU3RCQXFQQ0EwWmxUeXpEVVJIaEhSWVhwbUh2ZndqX25RcDlISl8zUQ?oc=5",
-      "publishedAt": "2026-02-27T06:50:00.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 4,
-      "importanceRaw": 75,
-      "qualityLabel": "ok",
-      "qualityReason": "기사 내용이 명확하고 간결하며, 핵심 내용을 잘 요약하고 있다.",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-02-28_14",
-      "date": "2026-02-28",
-      "category": "정책",
-      "title": "통신사 AIDC 확충 속도: 수도권 규제 완화 및 지방 PPA 제한 해제",
-      "summary": [
-        "통신사들의 AIDC(AI 데이터 센터) 확충 속도가 빨라질 전망이다.",
-        "수도권 규제가 완화되고 지방의 전력구매계약(PPA) 제한이 풀릴 예정이다."
-      ],
-      "whyImportant": "통신사들의 AIDC 투자가 확대될 가능성이 높아졌습니다.",
-      "importanceRationale": "근거: 수도권 규제 완화와 지방 PPA 제한 해제는 통신사들의 데이터 센터 투자 환경을 개선하여 AIDC 확충을 가속화할 수 있습니다.",
-      "impactSignals": [
-        {
-          "label": "policy",
-          "evidence": "수도권 규제 완화 및 지방 PPA 제한 해제"
-        }
-      ],
-      "dedupeKey": "통신사 AIDC 확충 속도…수도권 규제 덜고 지방 PPA 빗장 푼다",
-      "clusterKey": "aidc",
-      "matchedTo": null,
-      "sourceName": "전자신문",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB6XzZ4Z0RkSHh4d1ViTk95T3FxWjNPb2VmQ1FLV2J1QW1SRXNBS3dDT3pXQjc3eldES3pma1hIdm8xc1J2R09qdW1XdklvZw?oc=5",
-      "publishedAt": "2026-02-22T00:30:00.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 4,
-      "importanceRaw": 75,
-      "qualityLabel": "ok",
-      "qualityReason": "제목과 기사 내용이 일치하며, 정보가 명확합니다.",
+      "qualityReason": "제목과 내용이 일치하며, 핵심 내용을 요약했다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -433,44 +422,17 @@
       "id": "2026-02-28_16",
       "date": "2026-02-28",
       "category": "경제",
-      "title": "엔비디아 실적 발표 D-2, 'AI 거품론'에 대한 촉각",
-      "summary": [
-        "엔비디아의 실적 발표가 이틀 앞으로 다가왔습니다.",
-        "시장은 'AI 거품론'에 촉각을 곤두세우고 있습니다."
-      ],
-      "whyImportant": "엔비디아의 실적은 AI 산업 전반에 대한 투자 심리를 좌우할 수 있습니다.",
-      "importanceRationale": "근거: 엔비디아는 AI 기술 발전의 핵심 동력이며, 실적은 관련 시장의 성장 가능성을 가늠하는 중요한 지표가 됩니다.",
-      "impactSignals": [],
-      "dedupeKey": "nvidia_earnings_ai_bubble_2024",
-      "clusterKey": "거품론",
-      "matchedTo": null,
-      "sourceName": "매일경제TV",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1iWnlFckFRLW5qQW9KalkzRVcxbk54V3pvY0tTWVVySXRVc1IzU2NJbXQzcDhrcWxUcTluYzFodmFIUEljODZ1VE95cXM5cDVKYlcyYUVxZl9rRWJmMHhaQlRGNzJ3aFk3?oc=5",
-      "publishedAt": "2026-02-24T06:17:00.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 75,
-      "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 핵심 정보를 전달합니다. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-02-28_17",
-      "date": "2026-02-28",
-      "category": "경제",
       "title": "상장 제약 이사회, 상법 개정에 반응... 비만 치료제 주목",
       "summary": [
         "상장 제약 회사 이사회가 상법 개정에 따라 변화하고 있습니다.",
         "특히 비만 치료제 분야에 대한 관심이 높아지고 있습니다."
       ],
       "whyImportant": "상법 개정으로 제약 회사 이사회의 역할과 책임이 강화될 수 있으며, 비만 치료제 시장에 대한 관심 증가는 관련 산업에 영향을 미칠 수 있습니다.",
-      "importanceRationale": "근거: 상법 개정이 제약 회사 이사회에 미치는 영향과 비만 치료제 시장의 성장 가능성을 동시에 제시하고 있습니다.",
+      "importanceRationale": "근거: 상법 개정이 제약 회사 이사회에 미치는 영향과 비만 치료제 시장의 성장 가능성을 동시에 다루고 있어 제약 산업 및 투자자에게 중요한 정보가 될 수 있습니다.",
       "impactSignals": [
         {
           "label": "policy",
-          "evidence": "상법 개정이 제약 회사 이사회에 영향을 미침"
+          "evidence": "상법 개정이 제약 회사 이사회에 미치는 영향"
         }
       ],
       "dedupeKey": "상법개정_제약이사회_비만치료제",
@@ -484,85 +446,20 @@
       "importance": 3.5,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었습니다.",
+      "qualityReason": "제목과 내용이 일치하며, 정보가 명확하게 전달됩니다.",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-02-28_18",
-      "date": "2026-02-28",
-      "category": "에너지",
-      "title": "미시간 데이터 센터, 원자력 발전소 6개와 동일한 전력 필요 가능성",
-      "summary": [
-        "미시간주의 데이터 센터들이 원자력 발전소 6개와 맞먹는 전력을 필요로 할 수 있다는 전망이 나왔다.",
-        "이는 데이터 센터의 급증으로 인한 전력 수요 증가를 시사한다."
-      ],
-      "whyImportant": "데이터 센터의 전력 소비 증가는 에너지 인프라 및 환경에 중요한 영향을 미칠 수 있기 때문입니다.",
-      "importanceRationale": "근거: 데이터 센터의 전력 수요 증가는 에너지 자원 관리 및 정책 결정에 중요한 고려 사항이며, 이는 관련 산업 투자 및 환경 규제에 영향을 미칠 수 있습니다.",
-      "impactSignals": [
-        {
-          "label": "capex",
-          "evidence": "데이터 센터의 전력 수요 증가는 관련 인프라 투자 확대로 이어질 수 있음"
-        }
-      ],
-      "dedupeKey": "michigan_data_centers_power_needs",
-      "clusterKey": "에너지/centers",
-      "matchedTo": null,
-      "sourceName": "WKAR",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPVm00MG9ZZXVfU0E4VjFQckJVVWZzZEkyTThyYkdUelF0RnZJeHA5UHFwcG5md3BDY2dHcDVFeXVNTzBzNFhISnhmV0xHVC1BdVRpSExYLWJjdU9wMENDTWFsNXAyTFdTN2hHU1l6S3RnbUM1MnFadlNQY3lVaW91WHZHckN6SGtFbVpoZm5VREhqbHVhWDhjeGFrdU52elpyY1dGbkpfeElvRVZseExtWlZCTWFrRE92OE9BRXA1cmd2OFZqc0RBNmFR?oc=5",
-      "publishedAt": "2026-02-27T15:36:00.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 3.5,
-      "importanceRaw": 63,
-      "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 내용이 일치하며, 정보가 명확하게 전달됨.",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-02-28_19",
-      "date": "2026-02-28",
-      "category": "기술",
-      "title": "트럼프, 정부에 AI 기업 '앤트로픽'과의 거래 중단 명령 후 헤그세트, 앤트로픽을 공급망 '위험'으로 규정",
-      "summary": [
-        "트럼프 전 대통령이 정부 기관에 AI 기업 앤트로픽과의 거래 중단을 명령했다.",
-        "이에 따라 헤그세트는 앤트로픽을 공급망의 '위험' 요소로 지목했다.",
-        "해당 결정은 Breaking Defense를 통해 보도되었다."
-      ],
-      "whyImportant": "정부의 AI 기업 거래 중단 명령과 그에 따른 공급망 위험 평가는 관련 산업에 중요한 영향을 미칠 수 있다.",
-      "importanceRationale": "근거: 트럼프 전 대통령의 결정은 정책 변화를 의미하며, 헤그세트의 평가는 시장 수요 및 기업의 안정성에 대한 우려를 반영한다.",
-      "impactSignals": [
-        {
-          "label": "market-demand",
-          "evidence": "정부의 거래 중단 명령으로 인해 앤트로픽에 대한 시장 수요에 부정적인 영향이 예상됨"
-        }
-      ],
-      "dedupeKey": "hegseth_anthropic_trump_ai_risk",
-      "clusterKey": "after",
-      "matchedTo": null,
-      "sourceName": "Breaking Defense",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUTNtSmVRNG1URUg2RjZFWk5QSVY4MTlSZG5uM2lxbTdtenVxQWkybHlzUXNRZDhhS1ZKb1MwbFdlalhxT2g4MExsdFZXSWEtMTdxajhTYUJNVXBEWkdNZnEzcDB3MHRRanR0SnZDT252cmJZcmFJSlVrRHd3OC04dnBocF93azYwVlZVb05aNmhDZnFzaDVuOWIzU0VCQWl6b0VVbVZTcFRONjZhR1FYQnd5RTdlOFpTMzJGUDJqQQ?oc=5",
-      "publishedAt": "2026-02-27T22:36:50.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 3.5,
-      "importanceRaw": 63,
-      "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 간결하게 요약됨.",
-      "isBriefing": false,
-      "isBreaking": true
-    },
-    {
-      "id": "2026-02-28_20",
+      "id": "2026-02-28_17",
       "date": "2026-02-28",
       "category": "경제",
       "title": "'불장·성장 2% 전망'에도...더 커진 'K자형 양극화'",
       "summary": [
-        "YTN에 따르면, '불장·성장 2% 전망'에도 'K자형 양극화'가 더욱 심화되고 있다."
+        "YTN에 따르면 '불장·성장 2% 전망'에도 'K자형 양극화'가 더욱 심화되고 있다."
       ],
-      "whyImportant": "K자형 양극화 심화는 경제 전반에 걸쳐 불균형을 초래할 수 있습니다.",
-      "importanceRationale": "근거: 기사 제목에서 'K자형 양극화'가 심화되고 있음을 명시적으로 언급하고 있습니다.",
+      "whyImportant": "K자형 양극화 심화는 경제 전반에 걸쳐 불균형을 심화시키고, 사회적 불안정을 야기할 수 있다.",
+      "importanceRationale": "근거: 기사 제목에서 'K자형 양극화'가 심화되고 있음을 명시적으로 언급하고 있다.",
       "impactSignals": [],
       "dedupeKey": "K자형 양극화 심화",
       "clusterKey": "k자형",
@@ -575,7 +472,98 @@
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 짧은 텍스트가 일치하며, 정보가 명확합니다. / 근거부족",
+      "qualityReason": "제목과 본문이 일치하며, 간결하게 핵심 내용을 전달한다. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-02-28_18",
+      "date": "2026-02-28",
+      "category": "기술",
+      "title": "트럼프, 정부에 AI 회사 버리라고 명령 후 헤그세트, Anthropic을 공급망 '위험'으로 지목",
+      "summary": [
+        "트럼프 대통령이 정부에 AI 회사 Anthropic과의 거래를 중단하라고 명령한 후, Pete Hegseth는 Anthropic을 공급망의 '위험'으로 규정했습니다.",
+        "이 결정은 Anthropic에 대한 잠재적 시장 수요에 영향을 미칠 수 있습니다."
+      ],
+      "whyImportant": "Anthropic에 대한 잠재적 시장 수요에 영향을 미칩니다.",
+      "importanceRationale": "근거: 트럼프 대통령의 명령으로 인해 Anthropic에 대한 정부의 수요가 감소할 수 있으며, 이는 전체 시장 수요에 영향을 미칠 수 있기 때문입니다.",
+      "impactSignals": [],
+      "dedupeKey": "hegseth_anthropic_supply_chain_risk",
+      "clusterKey": "after",
+      "matchedTo": null,
+      "sourceName": "Breaking Defense",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUTNtSmVRNG1URUg2RjZFWk5QSVY4MTlSZG5uM2lxbTdtenVxQWkybHlzUXNRZDhhS1ZKb1MwbFdlalhxT2g4MExsdFZXSWEtMTdxajhTYUJNVXBEWkdNZnEzcDB3MHRRanR0SnZDT252cmJZcmFJSlVrRHd3OC04dnBocF93azYwVlZVb05aNmhDZnFzaDVuOWIzU0VCQWl6b0VVbVZTcFRONjZhR1FYQnd5RTdlOFpTMzJGUDJqQQ?oc=5",
+      "publishedAt": "2026-02-27T22:36:50.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 50,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 텍스트가 일치하며, 요약이 제공된 정보를 정확하게 반영합니다. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": true
+    },
+    {
+      "id": "2026-02-28_19",
+      "date": "2026-02-28",
+      "category": "경제",
+      "title": "Flowers Foods (FLO), 분기별 실적 발표 후 Stephens에 의해 목표가 하향 조정",
+      "summary": [
+        "Flowers Foods(FLO)의 목표가가 Stephens에 의해 하향 조정되었습니다.",
+        "이는 분기별 실적 발표 이후에 이루어졌습니다.",
+        "Finviz에서 관련 내용을 확인할 수 있습니다."
+      ],
+      "whyImportant": "분기별 실적 발표 후 목표가 하향 조정은 투자자 심리에 영향을 줄 수 있습니다.",
+      "importanceRationale": "근거: Flowers Foods의 목표가 하향 조정은 기업의 미래 수익성에 대한 시장의 기대치가 낮아졌음을 의미할 수 있으며, 이는 주가에 부정적인 영향을 미칠 수 있습니다.",
+      "impactSignals": [
+        {
+          "label": "earnings",
+          "evidence": "분기별 실적 발표 후 목표가 하향 조정"
+        }
+      ],
+      "dedupeKey": "flowers-foods-target-lowered-after-quarterly-results",
+      "clusterKey": "after",
+      "matchedTo": null,
+      "sourceName": "Finviz",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcFlWeGRnZDZpaTQ3cnVrejJsUkc1WEdtcmpzRUlVOTdTSzNoYXRCNUp6STZjazdkNFp4LTk5LWo5X1ZYNVNoTExyTzVZbmUzWDFVeW5BUGdOMXJsSnFMSlZZVWlSM3JHNDFEODlIbWV2T04xWnpCcURaU29Yd2lkakFiR2Q5d1NROGV2d0RnRE5wMmxlbWxLbEQxMGdyd2lE?oc=5",
+      "publishedAt": "2026-02-28T04:48:10.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 3,
+      "importanceRaw": 50,
+      "qualityLabel": "ok",
+      "qualityReason": "The article provides a concise summary of the event.",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-02-28_20",
+      "date": "2026-02-28",
+      "category": "경제",
+      "title": "알리바바 ADR 4분기 실적, 수익 예상치 하회",
+      "summary": [
+        "알리바바 ADR의 4분기 실적이 수익 예상치를 밑돌았습니다."
+      ],
+      "whyImportant": "알리바바의 실적 부진은 투자 심리에 영향을 줄 수 있습니다.",
+      "importanceRationale": "근거: 알리바바의 분기 실적이 예상치를 하회함에 따라 투자자들의 우려가 커질 수 있으며, 이는 주가 하락으로 이어질 수 있습니다.",
+      "impactSignals": [
+        {
+          "label": "earnings",
+          "evidence": "알리바바 ADR의 4분기 실적이 수익 예상치보다 저조함"
+        }
+      ],
+      "dedupeKey": "alibaba_q4_earnings_miss",
+      "clusterKey": "adr",
+      "matchedTo": null,
+      "sourceName": "Investing.com 한국어",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBKUTBQRU1IdnlqbUpMNzgtOTZXVzZud3lyeFIwTS1MZWdYaVhYX3pRYkY4NjFHVExOemdXUldja3V6Qzh6VjI4b080TVYtVHFMU0NiYnBOLUxncGhsbi13UGhrc08?oc=5",
+      "publishedAt": "2026-02-28T04:18:00.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 3.5,
+      "importanceRaw": 63,
+      "qualityLabel": "ok",
+      "qualityReason": "The article directly states the earnings results.",
       "isBriefing": false,
       "isBreaking": false
     }
