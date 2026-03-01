@@ -3,20 +3,57 @@
   "selectionCriteria": "① 내일도 영향이 남는 이슈 ② 과도한 감정 소모 제외 ③ 어제와 중복되는 뉴스 제외",
   "editorNote": "이 뉴스는 클릭 수가 아니라 오늘 이후에도 남는 정보만 기준으로 편집했습니다.",
   "question": "정보를 덜 보는 것이 오히려 더 똑똑한 소비일까?",
-  "lastUpdatedAt": "2026-03-02T07:20:51.077+09:00",
+  "lastUpdatedAt": "2026-03-02T08:20:51.476+09:00",
   "items": [
     {
       "id": "2026-03-02_1",
       "date": "2026-03-02",
-      "category": "경제",
-      "title": "공공요금 인상의 원인: AI 데이터 센터 포함",
+      "category": "정책",
+      "title": "화이트 해커 상시 점검…국가AI전략위, '보안 취약점 신고·조치·공개' 법제화 추진",
       "summary": [
-        "공공요금이 계속해서 인상되고 있습니다.",
-        "AI 데이터 센터도 요금 인상의 원인 중 하나로 지목되고 있습니다."
+        "국가AI전략위원회가 '보안 취약점 신고·조치·공개' 법제화를 추진한다.",
+        "화이트 해커가 상시 점검을 통해 보안을 강화할 예정이다."
       ],
-      "whyImportant": "AI 데이터 센터의 에너지 소비가 공공요금에 미치는 영향을 파악하는 것이 중요합니다.",
-      "importanceRationale": "근거: AI 데이터 센터의 급증으로 인한 전력 수요 증가는 공공요금 인상에 직접적인 영향을 미칠 수 있으며, 이는 정책 및 투자 결정에 중요한 고려 사항입니다.",
-      "impactSignals": [],
+      "whyImportant": "AI 시스템 보안 강화 및 잠재적 위협 감소에 기여.",
+      "importanceRationale": "근거: AI 시스템의 보안 취약점을 사전에 발견하고 조치함으로써 사이버 공격 위험을 줄이고, 관련 투자를 유도하여 AI 산업의 안전성을 높일 수 있다.",
+      "impactSignals": [
+        {
+          "label": "capex",
+          "evidence": "보안 취약점 점검 및 조치에 필요한 투자 증가 예상"
+        }
+      ],
+      "dedupeKey": "AI_security_law",
+      "clusterKey": "국가ai전략위",
+      "matchedTo": null,
+      "sourceName": "바이라인네트워크",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBjQVlJS0VwZ3BFTzA4Z3g2Ui1waXM2MFItTEN3bzBzUTdxajNsVmhkUzlRbUtMTkRQQnItcV84Vl8yc1o3bmFXLVFpdEYxMGs?oc=5",
+      "publishedAt": "2026-02-25T07:13:19.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 4,
+      "importanceRaw": 75,
+      "qualityLabel": "ok",
+      "qualityReason": "기사 내용이 명확하고 간결하며, 핵심 정보를 잘 전달함.",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-03-02_2",
+      "date": "2026-03-02",
+      "category": "경제",
+      "title": "공과금 청구서가 계속 오르는 이유: AI 데이터 센터 포함",
+      "summary": [
+        "공과금 청구서가 계속 증가하고 있습니다.",
+        "AI 데이터 센터도 그 원인 중 하나로 지목되고 있습니다."
+      ],
+      "whyImportant": "공과금 상승의 원인을 파악하는 것이 중요합니다.",
+      "importanceRationale": "근거: 공과금 상승은 가계 경제에 직접적인 영향을 미치며, AI 데이터 센터와 같은 새로운 요인이 미치는 영향을 이해하는 것이 필요합니다.",
+      "impactSignals": [
+        {
+          "label": "capex",
+          "evidence": "AI 데이터 센터 건설 및 운영 비용 증가가 공과금에 미치는 영향"
+        }
+      ],
       "dedupeKey": "utility_bills_ai_data_centers",
       "clusterKey": "에너지/bills",
       "matchedTo": null,
@@ -25,15 +62,15 @@
       "publishedAt": "2026-03-01T07:58:00.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 2,
-      "importanceRaw": 63,
+      "importance": 3,
+      "importanceRaw": 50,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 텍스트가 일치하며, 정보가 명확합니다. / 근거부족",
+      "qualityReason": "제목과 텍스트가 일치하며, 정보가 간결하게 제공됨.",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-03-02_2",
+      "id": "2026-03-02_3",
       "date": "2026-03-02",
       "category": "정책",
       "title": "중국 매체, 일본 기업 대상 첫 감시 리스트 조치에 '수출 통제 정밀화' 평가",
@@ -41,15 +78,10 @@
         "중국 매체는 일본 기업을 겨냥한 첫 감시 리스트 조치에 대해 수출 통제가 정밀해졌다고 평가했다.",
         "한국무역협회(KITA)는 관련 내용을 보도했다."
       ],
-      "whyImportant": "중국의 수출 통제 정책 변화를 시사하며, 관련 기업에 영향을 줄 수 있습니다.",
-      "importanceRationale": "근거: 중국이 일본 기업을 대상으로 감시 리스트 조치를 처음 시행한 것은 중국의 수출 통제 정책이 더욱 구체화되고 있음을 나타냅니다. 이는 관련 기업들의 대중국 수출에 잠재적인 영향을 미칠 수 있습니다.",
-      "impactSignals": [
-        {
-          "label": "sanctions",
-          "evidence": "감시 리스트에 포함된 기업은 제재를 받을 가능성이 있습니다."
-        }
-      ],
-      "dedupeKey": "중국, 일본기업 감시리스트, 수출통제",
+      "whyImportant": "중국의 수출 통제 정책 변화를 시사하며, 관련 기업에 영향을 줄 수 있다.",
+      "importanceRationale": "근거: 중국이 일본 기업을 대상으로 감시 리스트 조치를 처음 시행한 것은 중국의 수출 통제 정책이 더욱 정밀해지고 있음을 나타낸다. 이는 관련 기업의 대중국 수출에 잠재적인 영향을 미칠 수 있으므로 중요하다.",
+      "impactSignals": [],
+      "dedupeKey": "중국, 일본기업 감시리스트 조치",
       "clusterKey": "감시리스트",
       "matchedTo": null,
       "sourceName": "한국무역협회-KITA.NET",
@@ -57,26 +89,26 @@
       "publishedAt": "2026-02-26T03:31:24.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 3.5,
+      "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었습니다.",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약됨. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-03-02_3",
+      "id": "2026-03-02_4",
       "date": "2026-03-02",
       "category": "경제",
       "title": "삼성 평택공장, 'HBM 전진기지'로…메모리·파운드리 시너지 확대",
       "summary": [
-        "삼성 평택공장이 HBM(고대역폭 메모리) 전진기지 역할을 수행한다.",
+        "삼성 평택공장이 HBM(고대역폭메모리) 전진기지 역할을 수행한다.",
         "이는 메모리와 파운드리 사업 간의 시너지 확대를 의미한다."
       ],
-      "whyImportant": "삼성전자의 평택 공장이 HBM 생산의 핵심 기지가 됨으로써, 메모리 및 파운드리 사업 간 시너지 효과를 창출할 것으로 예상됩니다.",
-      "importanceRationale": "근거: 삼성 평택공장이 HBM 전진기지로서 메모리 및 파운드리 시너지 확대를 목표로 함.",
+      "whyImportant": "삼성전자의 평택 공장이 HBM 생산의 핵심 기지로 부상하면서, 메모리 반도체 시장에서의 경쟁력 강화 및 파운드리 사업과의 시너지 확대가 기대된다.",
+      "importanceRationale": "근거: 삼성 평택공장이 HBM 전진기지로서 메모리 및 파운드리 사업의 시너지 확대를 목표로 한다고 보도되었기 때문이다.",
       "impactSignals": [],
-      "dedupeKey": "삼성 평택공장 HBM 전진기지",
+      "dedupeKey": "samsung-pyeongtaek-hbm-20240123",
       "clusterKey": "반도체/hbm",
       "matchedTo": null,
       "sourceName": "연합뉴스 한민족센터",
@@ -87,23 +119,116 @@
       "importance": 2,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 핵심 내용을 잘 요약했습니다. / 근거부족",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 핵심 내용을 전달한다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-03-02_4",
+      "id": "2026-03-02_5",
+      "date": "2026-03-02",
+      "category": "정책",
+      "title": "트럼프, 빅테크에 AI 데이터 센터 자체 전력 생산 명령 — 미국 내 전기료 상승 억제를 위한 새로운 '요금 납부자 보호 서약' 발표",
+      "summary": [
+        "트럼프 대통령은 빅테크 기업에 AI 데이터 센터 운영에 필요한 전력을 자체적으로 생산하도록 명령했습니다.",
+        "이는 미국 내 전기료 상승을 억제하기 위한 '요금 납부자 보호 서약'의 일환입니다."
+      ],
+      "whyImportant": "AI 데이터 센터의 전력 수요 증가에 대한 대응과 전기료 상승 억제 정책 방향을 제시합니다.",
+      "importanceRationale": "근거: AI 데이터 센터의 전력 소비 증가는 전체적인 전기 요금 상승을 야기할 수 있으며, 이에 대한 정부 차원의 규제 및 정책적 대응이 필요함을 시사합니다.",
+      "impactSignals": [
+        {
+          "label": "market-demand",
+          "evidence": "AI 데이터 센터의 전력 수요 충족을 위한 자체 발전은 에너지 시장에 새로운 수요를 창출할 수 있습니다."
+        }
+      ],
+      "dedupeKey": "trump-bigtech-power-ai-datacenters",
+      "clusterKey": "에너지/big",
+      "matchedTo": null,
+      "sourceName": "Tom's Hardware",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirAJBVV95cUxQb1NUU0FRajZSaVlRWWRUQU5KQ3JZQ0dNUXhHMHBXRk5kc3Q1OTh5NV9qSDVrY0F6U2dQUGNNT2pEVU1UTHg2QXJPNGVkbGpST2xWYy1qS05wUjZINmJsNHRNYTZ1b2hOemZ0RTFsRDN6emtZcHloT3FNTm9YMzg3N2F1UVUyeVZHTTFySjFZSXc4dHdpZGsyeXp2WDBoSUZsWS10OFFPUUw5ajktUklxUjV5SGVKbkk3dFZ4d3FjTVhrbGtod0d5R0tpTG1vT2ZqZUE4OFBGX0FQQmNKb3dtZENpTGJKS3hmeTBkN0Y5NnRlTlY2MXFIaXJ3cW5VUHh2NEdiNnFzdmdSa2R6RlpWaDBjbHZNd3dzMVVTWE9TRzR0MGpFZ2tidmJnTDE?oc=5",
+      "publishedAt": "2026-02-26T12:00:00.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 4,
+      "importanceRaw": 75,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 본문이 일치하며, 내용이 간결하고 명확합니다.",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-03-02_6",
+      "date": "2026-03-02",
+      "category": "경제",
+      "title": "유가 100달러 전망, 삼성전자·SK하이닉스 주가에 미칠 영향",
+      "summary": [
+        "KBS 뉴스에 따르면 유가가 100달러까지 오를 것이라는 전망이 나왔다.",
+        "이는 삼성전자와 SK하이닉스의 주가에 영향을 미칠 수 있다.",
+        "자세한 내용은 뉴스에서 확인할 수 있다."
+      ],
+      "whyImportant": "유가 상승은 주요 기술 기업의 주가에 잠재적인 영향을 미칠 수 있기 때문",
+      "importanceRationale": "근거: 유가 상승은 생산 비용 증가 및 수요 변화를 통해 기업의 수익성에 영향을 줄 수 있으며, 이는 투자 심리에 영향을 미쳐 주가 변동성을 야기할 수 있다.",
+      "impactSignals": [
+        {
+          "label": "market-demand",
+          "evidence": "유가 상승으로 인한 경제적 영향이 시장 수요에 영향을 줄 수 있음"
+        }
+      ],
+      "dedupeKey": "oil_price_impact_on_samsung_skhynix",
+      "clusterKey": "100달러",
+      "matchedTo": null,
+      "sourceName": "KBS 뉴스",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE00a1BGNzdIbTZEaDJUaUwwZkg1eWs0cjFnZ1JTektYZ0pwaHh2Z3ZWdV9tWk9MbzNtWmtMOGN0Z2RHUUk5Z3hGX0VvWXJKRDRCbl9PYm9uWXFOQW5Db3ZYVHpLM1l1QQ?oc=5",
+      "publishedAt": "2026-03-01T22:15:00.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 3.5,
+      "importanceRaw": 63,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 본문이 일치하며, 간결하게 요약됨",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-03-02_7",
+      "date": "2026-03-02",
+      "category": "정책",
+      "title": "원전 정산 분쟁에 힘 못 쓰는 정부…수출 일원화는 가능할까",
+      "summary": [
+        "정부가 원자력 발전 정산 분쟁에 제대로 대처하지 못하고 있다는 지적이 제기됨.",
+        "원전 수출 일원화가 가능한지에 대한 의문이 제기됨."
+      ],
+      "whyImportant": "원자력 발전 산업의 정책적 불확실성 증가 및 수출 경쟁력 약화 가능성",
+      "importanceRationale": "근거: 정부의 원전 정산 분쟁 대처 미흡은 정책 신뢰도 하락으로 이어질 수 있으며, 이는 원전 수출 일원화 추진에 부정적인 영향을 미칠 수 있음.",
+      "impactSignals": [],
+      "dedupeKey": "원전정산분쟁_수출일원화",
+      "clusterKey": "에너지/가능할까",
+      "matchedTo": null,
+      "sourceName": "연합뉴스 한민족센터",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9hWkxic3ZFYU9DQlpaNGx4MklOWWplTXgxd1EyQlFzUC1SWHgwRklYTmo1UUJwMEhES0FwX3U4WFU1U3Rwa2Mzc0VhZ3J2N1piVkM0bFhJRFdwd19lbDU1dW5FaXM5UlBJWEQybmNCS1FyUlNj?oc=5",
+      "publishedAt": "2026-03-01T22:53:35.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 63,
+      "qualityLabel": "ok",
+      "qualityReason": "기사 내용이 명확하고 간결하게 요약되어 있음. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-03-02_8",
       "date": "2026-03-02",
       "category": "기술",
-      "title": "아마존 클라우드, UAE 데이터 센터에 물체 충돌 후 화재 발생",
+      "title": "아마존 클라우드, UAE 데이터 센터에 물체 충돌 후 화재 발생 보고",
       "summary": [
-        "아마존 클라우드 사업부에서 UAE 데이터 센터에 물체 충돌 후 화재가 발생했다고 발표했습니다.",
-        "이번 화재는 데이터 센터 운영에 영향을 미칠 수 있습니다."
+        "아마존 클라우드 부문에서 UAE 데이터 센터에 물체 충돌 후 화재가 발생했다고 로이터 통신이 보도했다.",
+        "정확한 화재 원인과 피해 규모는 아직 알려지지 않았다.",
+        "이번 사고는 데이터 센터의 안전성에 대한 우려를 불러일으키고 있다."
       ],
-      "whyImportant": "데이터 센터의 안정성은 클라우드 서비스 제공에 매우 중요합니다.",
-      "importanceRationale": "근거: 데이터 센터 화재는 서비스 중단 및 데이터 손실로 이어질 수 있으며, 이는 아마존의 평판과 고객 신뢰도에 부정적인 영향을 미칠 수 있습니다.",
+      "whyImportant": "데이터 센터의 안정성은 클라우드 서비스의 핵심 요소이므로, 이번 화재는 아마존의 클라우드 서비스에 영향을 미칠 수 있다.",
+      "importanceRationale": "근거: 데이터 센터 화재는 서비스 중단, 데이터 손실, 그리고 기업의 신뢰도 하락으로 이어질 수 있다. 특히 아마존과 같은 대규모 클라우드 서비스 제공업체의 데이터 센터에서 발생한 화재는 광범위한 영향을 미칠 수 있다.",
       "impactSignals": [],
-      "dedupeKey": "amazon_uae_datacenter_fire_2024",
+      "dedupeKey": "amazon_uae_datacenter_fire_20240229",
       "clusterKey": "클라우드/after",
       "matchedTo": null,
       "sourceName": "Reuters",
@@ -114,22 +239,27 @@
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "기사에 명확한 정보가 포함되어 있습니다. / 근거부족",
+      "qualityReason": "제목과 본문이 일치하며, 간결하고 명확하게 작성됨. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-03-02_5",
+      "id": "2026-03-02_9",
       "date": "2026-03-02",
-      "category": "기술",
+      "category": "경제",
       "title": "VC, AI SaaS 펀딩에서 금지선 설정: 현재 투자 제외 대상",
       "summary": [
-        "벤처 캐피털(VC)이 AI SaaS 펀딩에서 투자 제외 대상을 설정하고 있습니다.",
+        "벤처 캐피털(VC)이 AI SaaS 펀딩에서 투자 제외 대상을 명확히 하고 있습니다.",
         "이는 AI SaaS 분야 투자에 대한 VC의 신중한 접근 방식을 반영합니다."
       ],
-      "whyImportant": "AI SaaS 분야 투자에 대한 벤처 캐피털의 투자 전략 변화를 보여줍니다.",
-      "importanceRationale": "근거: VC들이 AI SaaS 펀딩에서 특정 영역을 제외하기 시작했다는 것은 투자 환경의 변화를 의미하며, 이는 관련 기업들의 자금 조달 전략에 영향을 미칠 수 있습니다.",
-      "impactSignals": [],
+      "whyImportant": "AI SaaS 펀딩 시장의 변화를 보여주는 지표입니다.",
+      "importanceRationale": "근거: VC의 투자 기준 변화는 AI SaaS 스타트업의 자금 조달 전략에 직접적인 영향을 미치며, 시장 경쟁 환경을 변화시킬 수 있습니다.",
+      "impactSignals": [
+        {
+          "label": "capex",
+          "evidence": "AI SaaS 펀딩에 대한 VC의 투자 기준 변화는 관련 기업의 자본 지출 계획에 영향을 줄 수 있습니다."
+        }
+      ],
       "dedupeKey": "VCDrawRedLinesInAISaaSFundingNow",
       "clusterKey": "draw",
       "matchedTo": null,
@@ -138,53 +268,84 @@
       "publishedAt": "2026-03-01T17:07:00.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 2,
+      "importance": 3.5,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 정보가 명확합니다. / 근거부족",
+      "qualityReason": "기사 제목과 내용이 일치하며, 핵심 내용을 잘 요약했습니다.",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-03-02_6",
+      "id": "2026-03-02_10",
       "date": "2026-03-02",
-      "category": "정책",
-      "title": "아동수당법, 국회 본회의 통과",
+      "category": "기술",
+      "title": "건강 보험 기술 제공업체 TriZetto, 2024년 데이터 침해로 3백만 명 이상 피해",
       "summary": [
-        "아동수당법이 국회 본회의를 통과했습니다.",
-        "자세한 내용은 한국경제에서 확인할 수 있습니다."
+        "건강 보험 기술 제공업체인 TriZetto는 2024년 데이터 침해로 인해 3백만 명 이상이 영향을 받았다고 밝혔습니다.",
+        "이번 침해는 Recorded Future News에서 보도했습니다."
       ],
-      "whyImportant": "아동 수당 지급에 대한 법적 근거가 마련되었습니다.",
-      "importanceRationale": "근거: 아동수당법이 국회 본회의를 통과했다는 사실은 정부의 아동 복지 정책에 중요한 변화를 의미합니다.",
-      "impactSignals": [],
-      "dedupeKey": "아동수당법, 국회 본회의 통과",
-      "clusterKey": "국회",
+      "whyImportant": "TriZetto의 데이터 침해는 개인 정보 보호 및 보안에 대한 우려를 제기합니다.",
+      "importanceRationale": "근거: 3백만 명 이상의 개인 정보가 침해되었을 가능성이 있으며, 이는 상당한 규모의 보안 사고입니다.",
+      "impactSignals": [
+        {
+          "label": "security",
+          "evidence": "데이터 침해로 인해 3백만 명 이상의 개인 정보가 유출되었을 가능성이 있음"
+        }
+      ],
+      "dedupeKey": "TriZetto_breach_2024",
+      "clusterKey": "health",
       "matchedTo": null,
-      "sourceName": "한국경제",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1VQVZsVlE0d2tSYnBGSGdEcDdxNVRtSWdnM1U1YnJuV09qVEJvd1NvaTBFeVJEa29mTm5CZ3Bhamk1Vi15SnpBci1neUJKUU85WW01LXViYW5PQdIBVEFVX3lxTE85YXNQTGhXd3N3U2p3ZVl1RFFvdFpMd2RJXzRoT1A5VXQ2ejhDWmFmWVV6WFJoeWpERTRxU3Vqb29FdFRzNWwwci1vNWc4LUI3QnlScA?oc=5",
-      "publishedAt": "2026-03-01T12:00:01.000Z",
+      "sourceName": "The Record from Recorded Future News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQR3pfQ1VQUnN4NHN2SW83cWsyRGI2S3VKQ2pkR3hjVS1PU2loTGhwVjFTRGx5UU5ta2YwQ1oxYTVtbjQ2ZFBwb2ZpVF95Q3BkQk92R29ESzBwMnk3bU1NNzJPYXZ2ajVpbnFORVNvMEMwNkV5c2YwM0ZfRVNKWmlKWg?oc=5",
+      "publishedAt": "2026-02-25T18:44:44.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 4,
+      "importanceRaw": 75,
+      "qualityLabel": "ok",
+      "qualityReason": "기사에 제목과 내용이 일치하며, 정보가 명확하게 제시되어 있습니다.",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-03-02_11",
+      "date": "2026-03-02",
+      "category": "경제",
+      "title": "가격 인상 없는 롯데리아·노브랜드버거, 영업이익률로 보는 속사정",
+      "summary": [
+        "롯데리아와 노브랜드버거는 가격 인상 없이 운영되고 있지만, 영업이익률을 살펴보면 각자의 사정이 다르다."
+      ],
+      "whyImportant": "두 버거 프랜차이즈의 수익성 전략 차이를 보여준다.",
+      "importanceRationale": "근거: 롯데리아와 노브랜드버거의 가격 정책과 영업이익률 간의 관계를 분석하여, 각 브랜드의 전략적 차별성을 강조한다.",
+      "impactSignals": [],
+      "dedupeKey": "롯데리아_노브랜드버거_영업이익률",
+      "clusterKey": "가격",
+      "matchedTo": null,
+      "sourceName": "비즈니스포스트",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5tbUpRWG9tX204M1BKTGVLVVRZTUJMOU1pVGpKWlVJYUNfcVZVbllWT1Y2RWNLaVFKTDhjLVFJOUlZUVFidmd4Wk1TT1pLMUhERVVOeGpJTUx6OTFnbW1PcUk3RC1yZU1SY1NBT3ZyaXdSQWc?oc=5",
+      "publishedAt": "2026-03-01T21:00:00.000Z",
       "readTimeSec": 10,
       "status": "kept",
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었습니다. / 근거부족",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되어 있음. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-03-02_7",
+      "id": "2026-03-02_12",
       "date": "2026-03-02",
       "category": "정책",
       "title": "아동수당 지원 대상 및 금액 확대, 아동수당법 개정안 국회 통과",
       "summary": [
-        "아동수당 지원 대상과 금액을 확대하는 「아동수당법 일부개정법률안」이 국회 본회의를 통과했습니다.",
-        "개정안은 아동 수당 지급 대상을 확대하고, 수당 금액을 인상하는 내용을 담고 있습니다."
+        "아동수당 지원 대상과 금액을 확대하는 내용의 아동수당법 일부개정법률안이 국회 본회의를 통과했습니다.",
+        "이번 개정으로 더 많은 아동이 수당을 받게 될 것으로 예상됩니다."
       ],
-      "whyImportant": "아동 복지 증진에 기여하고, 양육 가정의 경제적 부담을 경감할 수 있습니다.",
-      "importanceRationale": "근거: 아동수당법 개정안이 국회를 통과하여 아동 수당 지원 대상과 금액이 확대될 예정이므로, 정책 변화에 따른 사회적 영향이 예상됩니다.",
+      "whyImportant": "아동 복지 증진에 기여하고, 관련 정책 변화를 나타냅니다.",
+      "importanceRationale": "근거: 아동수당법 개정안이 국회를 통과하여 아동 수당 지원 대상과 금액이 확대됨. 이는 아동 복지 정책의 중요한 변화를 의미합니다.",
       "impactSignals": [],
-      "dedupeKey": "아동수당법 개정안 국회 통과",
+      "dedupeKey": "아동수당법 개정",
       "clusterKey": "국회",
       "matchedTo": null,
       "sourceName": "한국방송뉴스",
@@ -200,88 +361,34 @@
       "isBreaking": false
     },
     {
-      "id": "2026-03-02_8",
+      "id": "2026-03-02_13",
       "date": "2026-03-02",
-      "category": "경제",
-      "title": "가격 인상 없는 롯데리아·노브랜드버거, 영업이익률로 드러나는 속사정",
+      "category": "국제",
+      "title": "미국 무역대표, 301조항 발동…관세 협상 '고차 방정식'",
       "summary": [
-        "롯데리아와 노브랜드버거는 가격 인상 없이 운영되고 있지만, 영업이익률을 살펴보면 각자의 사정이 다르다."
+        "미국 무역대표가 301조항을 발동하며 관세 협상이 복잡해질 것으로 예상됩니다.",
+        "이는 무역 분쟁의 심화를 의미할 수 있습니다."
       ],
-      "whyImportant": "두 버거 프랜차이즈의 수익성 차이를 보여주는 지표입니다.",
-      "importanceRationale": "근거: 롯데리아와 노브랜드버거의 상반된 영업이익률은 시장 경쟁 환경과 브랜드 전략의 차이를 반영합니다.",
+      "whyImportant": "미국 무역대표부의 301조항 발동은 국제 무역 관계에 중요한 영향을 미칠 수 있습니다.",
+      "importanceRationale": "근거: 301조항은 미국의 무역 파트너에 대한 제재 가능성을 내포하고 있어, 관련 국가들의 경제 및 무역 정책에 상당한 변화를 가져올 수 있습니다.",
       "impactSignals": [],
-      "dedupeKey": "롯데리아_노브랜드버거_영업이익률",
-      "clusterKey": "가격",
+      "dedupeKey": "301조항_관세협상_고차방정식",
+      "clusterKey": "301조",
       "matchedTo": null,
-      "sourceName": "비즈니스포스트",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5tbUpRWG9tX204M1BKTGVLVVRZTUJMOU1pVGpKWlVJYUNfcVZVbllWT1Y2RWNLaVFKTDhjLVFJOUlZUVFidmd4Wk1TT1pLMUhERVVOeGpJTUx6OTFnbW1PcUk3RC1yZU1SY1NBT3ZyaXdSQWc?oc=5",
-      "publishedAt": "2026-03-01T21:00:00.000Z",
+      "sourceName": "뉴스토마토",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBfaXliRTJaenpyYjBmWUs0QktMY01QTnJoTFhXb1ZqT21aeUphMlFyVzRYaE92WTBXMkl3RllnQUx4RTA5STB0Mld4THRsWUJNdkI1dXMwSDdaTHkzbnh3ZQ?oc=5",
+      "publishedAt": "2026-02-26T09:15:38.000Z",
       "readTimeSec": 10,
       "status": "kept",
       "importance": 2,
-      "importanceRaw": 50,
+      "importanceRaw": 75,
       "qualityLabel": "ok",
       "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었습니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-03-02_9",
-      "date": "2026-03-02",
-      "category": "정책",
-      "title": "정부, 생성형 AI 학습 '공정 이용' 기준 최초 제시 및 안내서 발간으로 저작권 불확실성 해소 시도",
-      "summary": [
-        "정부가 생성형 AI 학습에 대한 '공정 이용' 기준을 처음으로 제시했습니다.",
-        "저작권 관련 불확실성을 해소하기 위해 공정 이용 안내서가 발간되었습니다.",
-        "이번 조치는 AI 기술 발전을 지원하고 저작권자와의 균형을 맞추기 위한 것입니다."
-      ],
-      "whyImportant": "이번 공정 이용 기준 제시 및 안내서 발간은 생성형 AI 학습에 대한 저작권 관련 불확실성을 해소하고, AI 기술 발전을 위한 중요한 정책적 움직임입니다.",
-      "importanceRationale": "근거: 정부가 생성형 AI 학습에 대한 명확한 기준을 제시함으로써, 관련 산업의 불확실성을 줄이고 기술 개발을 장려할 수 있습니다. 이는 AI 기술 발전과 저작권 보호 사이의 균형을 모색하는 중요한 시도입니다.",
-      "impactSignals": [],
-      "dedupeKey": "AI_Fair_Use_Guidelines_Issued",
-      "clusterKey": "공정이용",
-      "matchedTo": null,
-      "sourceName": "인공지능신문",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE91LVVPNm5HLVA2c1VQWk5kSXR0VG1UNEFzeTZwUjQ3TXRoWTBoNnpESXE2M1VVWWxDeDQzNkxXUzlqUU5zVWI0REpuc0NmeE5JdnVWTGlLRV9qamM5VGJ2Z1ozS21vY2M?oc=5",
-      "publishedAt": "2026-02-26T04:12:25.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 88,
-      "qualityLabel": "ok",
-      "qualityReason": "기사의 내용이 명확하고 정책적 중요성을 잘 반영하고 있습니다. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-03-02_10",
-      "date": "2026-03-02",
-      "category": "경제",
-      "title": "OpenAI, 96조 5천억 원 규모의 자금 조달 완료, 기업 가치 1,014조 원으로 평가",
-      "summary": [
-        "OpenAI가 1,100억 달러(약 143조 원) 규모의 자금 조달을 완료했다.",
-        "기업 가치는 7,300억 달러(약 965조 원)로 평가받았다."
-      ],
-      "whyImportant": "이번 자금 조달은 OpenAI의 성장과 AI 기술 개발에 중요한 영향을 미칠 수 있습니다.",
-      "importanceRationale": "근거: 대규모 자금 확보는 OpenAI가 AI 연구 및 개발에 더욱 적극적으로 투자하고, 경쟁력을 강화하는 데 기여할 수 있기 때문입니다.",
-      "impactSignals": [],
-      "dedupeKey": "openai_110b_funding_730b_value",
-      "clusterKey": "billion",
-      "matchedTo": null,
-      "sourceName": "Yahoo Finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNRDN0WGQxTXpLOGsxSGZqNlNFWDJiZUhlUmNnQjF4WU5CT2FVaG96NEJxNFBxN2tuR25SdThoQ3d1eUdTYWtCd1lrTmxDZXdrVFM1NmdhaHZ1bXN4WEZsZnpfYlhJQmtxSDBkQk1iZmZXVDBmaloyZi14bU5lQjZEZE0wcHBHallvX0E?oc=5",
-      "publishedAt": "2026-02-27T17:26:17.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 75,
-      "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 내용이 일치하며, 정보가 명확하게 전달됨. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-03-02_11",
+      "id": "2026-03-02_14",
       "date": "2026-03-02",
       "category": "국제",
       "title": "타협이냐 파국이냐: 이란 핵 협상 중 미국 도발 시 초강경 무력 대응 천명",
@@ -289,7 +396,7 @@
         "이란 핵 협상 중 미국이 도발할 경우, 이란이 초강경 무력 대응을 천명했습니다.",
         "협상의 타결 여부에 따라 이란의 대응 수위가 결정될 것으로 보입니다."
       ],
-      "whyImportant": "이란 핵 협상과 관련된 잠재적 군사적 긴장 고조 가능성을 보여줍니다.",
+      "whyImportant": "이란 핵 협상과 관련된 잠재적 갈등 고조 가능성을 보여줍니다.",
       "importanceRationale": "근거: 이란의 강경한 입장은 핵 협상의 향방에 중요한 영향을 미칠 수 있으며, 지역 안보에 대한 잠재적 파급 효과를 내포합니다.",
       "impactSignals": [],
       "dedupeKey": "iran_nuclear_talks_military_response",
@@ -306,59 +413,6 @@
       "qualityReason": "제목과 본문이 일치하며, 간결하게 요약되었습니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
-    },
-    {
-      "id": "2026-03-02_12",
-      "date": "2026-03-02",
-      "category": "국제",
-      "title": "인도, 이스라엘과 4년 만에 FTA 협상 재개",
-      "summary": [
-        "인도와 이스라엘이 4년여 만에 자유무역협정(FTA) 협상을 재개했다.",
-        "양국은 협상을 신속히 마무리할 예정이다."
-      ],
-      "whyImportant": "이번 FTA 재개는 양국 간의 경제 협력을 강화하는 중요한 계기가 될 수 있다.",
-      "importanceRationale": "근거: 인도와 이스라엘 간의 무역 관계가 더욱 활성화될 것으로 예상된다.",
-      "impactSignals": [],
-      "dedupeKey": "india-israel-fta-restart",
-      "clusterKey": "4년여만에",
-      "matchedTo": null,
-      "sourceName": "한국무역협회-KITA.NET",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQMWhBSFlEYnJnSUhGODhQUVBINy1QUkxDdUJYd2hlcWREYWJKSlhSblU3dHFIUUl2WjA3cFRMdjF0WVpVVmhwTmpQZnZFUkJrLUNrTF9XaENadmlmSExfY3B4SnVlaThGODc4RU9PM25PanFISWExN1M4aFJ1MFhjQ2ZWdDVsM2gyVzNDUFNhaUpvQlFzSERIai1JaUVCZ0lGdmFhRm5ITmhpamFXNHZGakVzUXlYbnRJS2MzVm9TVDlDNEIteTFwTm0wUlpuZFZMaHFSNQ?oc=5",
-      "publishedAt": "2026-02-27T06:34:26.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 63,
-      "qualityLabel": "ok",
-      "qualityReason": "기사 내용이 간결하고 명확함 / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-03-02_13",
-      "date": "2026-03-02",
-      "category": "국제",
-      "title": "하나금융, 이란 현지 교민 및 기업 긴급 지원",
-      "summary": [
-        "하나금융그룹이 이란에 거주하는 교민과 기업을 대상으로 긴급 지원에 나섰습니다."
-      ],
-      "whyImportant": "하나금융그룹의 이란 현지 교민 및 기업 긴급 지원은 금융 지원을 통해 이들의 어려움을 해소하는 데 기여할 수 있습니다.",
-      "importanceRationale": "근거: 하나금융그룹이 이란 현지 교민과 기업을 대상으로 긴급 지원을 제공한다는 직접적인 사실에 기반합니다.",
-      "impactSignals": [],
-      "dedupeKey": "하나금융, 이란 현지 교민 및 기업 긴급 지원 나서",
-      "clusterKey": "교민",
-      "matchedTo": null,
-      "sourceName": "스트레이트뉴스",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5EME40ZWotSHdiMVJWU3NVQ0dPMTlLdkhDVTFWX29PZ1BSb2JCeEtqZTZYNmMtN3BFWnFXT1ZCVWNXdExGamVwQUJESUt1SS1rOUx2QWVMU3NTMy1RcExTOFM3Wi1EUXRIYjY1N3VLMmpNVm_SAXdBVV95cUxOV0NVNzVyQVRoOXNNSndnS0ZaWVZlMkwtWUJ1emd0VjJzaE9zTjVvMVMyM2FrQ25JUWtnSXIwaEhsd09uOERLY3dGajE1djB5ZUdzMzNSZW9EbTlkZURGUXNLbjlnYzdMMlVZYnpabnpRNTBpY1NzQQ?oc=5",
-      "publishedAt": "2026-03-01T21:01:00.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 50,
-      "qualityLabel": "ok",
-      "qualityReason": "기사에 정보가 명확하게 드러나 있습니다. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": true
     }
   ]
 }
