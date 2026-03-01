@@ -3,25 +3,20 @@
   "selectionCriteria": "① 내일도 영향이 남는 이슈 ② 과도한 감정 소모 제외 ③ 어제와 중복되는 뉴스 제외",
   "editorNote": "이 뉴스는 클릭 수가 아니라 오늘 이후에도 남는 정보만 기준으로 편집했습니다.",
   "question": "정보를 덜 보는 것이 오히려 더 똑똑한 소비일까?",
-  "lastUpdatedAt": "2026-03-02T04:20:31.655+09:00",
+  "lastUpdatedAt": "2026-03-02T05:23:39.143+09:00",
   "items": [
     {
       "id": "2026-03-02_1",
       "date": "2026-03-02",
       "category": "경제",
-      "title": "공과금 청구서가 계속 오르는 이유: AI 데이터 센터 포함",
+      "title": "공공요금 인상의 원인: AI 데이터 센터 포함",
       "summary": [
-        "공과금 청구서가 계속 오르고 있습니다.",
-        "AI 데이터 센터를 포함하여 모든 원인을 분석합니다."
+        "공공요금이 계속해서 인상되고 있습니다.",
+        "AI 데이터 센터도 요금 인상의 원인 중 하나로 지목되고 있습니다."
       ],
-      "whyImportant": "공과금 상승의 원인을 파악하는 것이 중요합니다.",
-      "importanceRationale": "근거: 공과금 상승은 가계 경제에 직접적인 영향을 미치므로 원인 파악 및 해결책 모색이 필요합니다.",
-      "impactSignals": [
-        {
-          "label": "capex",
-          "evidence": "AI 데이터 센터 건설 등 자본 지출 증가가 공과금 상승에 미치는 영향"
-        }
-      ],
+      "whyImportant": "AI 데이터 센터의 에너지 소비가 공공요금에 미치는 영향을 파악하는 것이 중요합니다.",
+      "importanceRationale": "근거: AI 데이터 센터의 급증으로 인한 전력 수요 증가는 공공요금 인상에 직접적인 영향을 미칠 수 있습니다.",
+      "impactSignals": [],
       "dedupeKey": "utility_bills_ai_data_centers",
       "clusterKey": "에너지/bills",
       "matchedTo": null,
@@ -30,10 +25,10 @@
       "publishedAt": "2026-03-01T07:58:00.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 3,
-      "importanceRaw": 50,
+      "importance": 2,
+      "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 텍스트가 일치하며, 정보가 명확합니다.",
+      "qualityReason": "제목과 내용이 일치하며, 정보가 간결하게 제공됨. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -41,20 +36,20 @@
       "id": "2026-03-02_2",
       "date": "2026-03-02",
       "category": "정책",
-      "title": "중국 매체, 일본 기업 대상 첫 감시 목록 조치에 '수출 통제 정밀화' 보도",
+      "title": "중국 매체, 일본 기업 대상 첫 감시 목록 조치에 '수출 통제 정밀화' 평가",
       "summary": [
-        "중국 매체가 일본 기업을 겨냥한 첫 감시 목록 조치에 대해 보도함.",
-        "한국무역협회(KITA)에 따르면 중국의 수출 통제가 더욱 정밀해지고 있다고 분석함."
+        "중국 매체는 일본 기업을 겨냥한 첫 감시 목록 조치에 대해 수출 통제가 정밀해졌다고 평가했다.",
+        "한국무역협회(KITA)는 관련 내용을 보도했다."
       ],
-      "whyImportant": "중국의 수출 통제 정책 변화를 시사합니다.",
-      "importanceRationale": "근거: 일본 기업을 대상으로 한 감시 목록 조치는 중국의 수출 통제 정책이 특정 국가 또는 기업을 대상으로 더욱 정밀하게 적용될 수 있음을 보여줍니다.",
+      "whyImportant": "중국의 수출 통제 정책 변화와 그 영향을 파악하는 데 중요합니다.",
+      "importanceRationale": "근거: 중국이 일본 기업을 대상으로 감시 목록 조치를 처음 시행한 것은 중국의 수출 통제 정책이 더욱 구체화되고 있음을 시사하며, 이는 관련 기업 및 국가에 영향을 미칠 수 있습니다.",
       "impactSignals": [
         {
           "label": "sanctions",
-          "evidence": "특정 기업에 대한 감시 강화는 잠재적인 제재 가능성을 내포합니다."
+          "evidence": "감시 목록 등재는 잠재적인 제재로 이어질 수 있습니다."
         }
       ],
-      "dedupeKey": "중국, 일본기업 감시리스트, 수출통제",
+      "dedupeKey": "중국수출통제_일본감시리스트",
       "clusterKey": "감시리스트",
       "matchedTo": null,
       "sourceName": "한국무역협회-KITA.NET",
@@ -65,47 +60,21 @@
       "importance": 3.5,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 간결하게 요약되었습니다.",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었습니다.",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-03-02_3",
       "date": "2026-03-02",
-      "category": "정책",
-      "title": "아동수당법, 국회 본회의 통과",
-      "summary": [
-        "아동수당법이 국회 본회의를 통과했습니다."
-      ],
-      "whyImportant": "아동 수당 지급에 대한 법적 근거가 마련되었습니다.",
-      "importanceRationale": "근거: 아동수당법이 국회 본회의를 통과했다는 사실은 정부의 아동 복지 정책에 중요한 변화를 의미합니다.",
-      "impactSignals": [],
-      "dedupeKey": "아동수당법, 국회 본회의 통과",
-      "clusterKey": "국회",
-      "matchedTo": null,
-      "sourceName": "한국경제",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1VQVZsVlE0d2tSYnBGSGdEcDdxNVRtSWdnM1U1YnJuV09qVEJvd1NvaTBFeVJEa29mTm5CZ3Bhamk1Vi15SnpBci1neUJKUU85WW01LXViYW5PQdIBVEFVX3lxTE85YXNQTGhXd3N3U2p3ZVl1RFFvdFpMd2RJXzRoT1A5VXQ2ejhDWmFmWVV6WFJoeWpERTRxU3Vqb29FdFRzNWwwci1vNWc4LUI3QnlScA?oc=5",
-      "publishedAt": "2026-03-01T12:00:01.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 75,
-      "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 핵심 내용을 전달합니다. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-03-02_4",
-      "date": "2026-03-02",
       "category": "경제",
       "title": "VC, AI SaaS 펀딩에서 금지선 설정: 현재 투자 제외 대상",
       "summary": [
         "벤처 캐피털(VC)이 AI SaaS 펀딩에서 투자 제외 대상을 명확히 하고 있습니다.",
-        "이는 AI SaaS 분야 투자에 대한 VC의 신중한 접근 방식을 반영합니다."
+        "특정 기준을 설정하여 투자 결정을 내리고 있습니다."
       ],
-      "whyImportant": "AI SaaS 펀딩 시장의 변화를 보여주는 지표입니다.",
-      "importanceRationale": "근거: VC의 투자 기준 변화는 AI SaaS 스타트업의 자금 조달 전략에 직접적인 영향을 미치며, 시장 경쟁 환경을 재편할 수 있습니다.",
+      "whyImportant": "AI SaaS 분야 투자에 대한 VC의 신중한 접근 방식을 보여줍니다.",
+      "importanceRationale": "근거: VC의 투자 기준 변화는 AI SaaS 시장의 성장과 방향성에 중요한 영향을 미칠 수 있습니다.",
       "impactSignals": [],
       "dedupeKey": "VCDrawRedLinesAISaaSFunding",
       "clusterKey": "draw",
@@ -118,57 +87,52 @@
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 내용이 일치하며, 핵심 내용을 잘 반영하고 있습니다. / 근거부족",
+      "qualityReason": "제목과 내용이 일치하며, 핵심 내용을 요약했습니다. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-03-02_4",
+      "date": "2026-03-02",
+      "category": "정책",
+      "title": "아동수당법, 국회 본회의 통과",
+      "summary": [
+        "아동수당법이 국회 본회의를 통과했습니다.",
+        "자세한 내용은 한국경제에서 확인할 수 있습니다."
+      ],
+      "whyImportant": "아동 복지 정책의 변화를 의미합니다.",
+      "importanceRationale": "근거: 아동수당법의 국회 통과는 정부의 아동 복지 정책 방향에 중요한 영향을 미치며, 관련 예산 및 지원 대상에 대한 변화를 가져올 수 있습니다.",
+      "impactSignals": [],
+      "dedupeKey": "아동수당법, 국회 본회의 통과",
+      "clusterKey": "국회",
+      "matchedTo": null,
+      "sourceName": "한국경제",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1VQVZsVlE0d2tSYnBGSGdEcDdxNVRtSWdnM1U1YnJuV09qVEJvd1NvaTBFeVJEa29mTm5CZ3Bhamk1Vi15SnpBci1neUJKUU85WW01LXViYW5PQdIBVEFVX3lxTE85YXNQTGhXd3N3U2p3ZVl1RFFvdFpMd2RJXzRoT1A5VXQ2ejhDWmFmWVV6WFJoeWpERTRxU3Vqb29FdFRzNWwwci1vNWc4LUI3QnlScA?oc=5",
+      "publishedAt": "2026-03-01T12:00:01.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 63,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 내용이 일치하며 간결하게 요약되었습니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-03-02_5",
       "date": "2026-03-02",
-      "category": "경제",
-      "title": "엔비디아 분기 매출 98조 원, HBM 수요에 삼성·SK도 수혜 기대",
-      "summary": [
-        "엔비디아가 분기 매출 98조 원을 기록했다.",
-        "HBM(고대역폭메모리) 수요 증가로 삼성과 SK도 수혜를 볼 것으로 예상된다."
-      ],
-      "whyImportant": "엔비디아의 실적은 반도체 산업 전반에 대한 중요한 지표가 되며, HBM 수요 증가는 관련 기업들의 성장 가능성을 시사한다.",
-      "importanceRationale": "근거: 엔비디아의 매출 증가는 AI 반도체 시장의 성장과 직결되며, HBM 수요 증가는 삼성과 SK하이닉스 등 관련 기업의 실적에 직접적인 영향을 미칠 수 있기 때문이다.",
-      "impactSignals": [
-        {
-          "label": "earnings",
-          "evidence": "엔비디아의 분기 매출 98조 원 달성"
-        }
-      ],
-      "dedupeKey": "nvidia-98t-krw-hbm",
-      "clusterKey": "반도체/98조원",
-      "matchedTo": null,
-      "sourceName": "스트레이트뉴스",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE84MDdldjRRMWtRQ0EyMkwwWTl3ZFlwQXp3S1h6V3dJOTFZY1hjaTNaNnRCTFJCTW5qLVVINWx0em1RQ3RZelNpVFIzUTQwb251ZnRiZWlKNURxV0lYalFHT0Q4QnhlRmpNeTF0dzAtUmg2OTTSAXdBVV95cUxOY3dvcmZLUXpJRXc0YkRQTUxZTXMxN0xUR09BYlJMYVVhZWRxSmcyN3hrMkgwdGJnN1JuN1cwX0JUejVNcHBXbjZfbkRNcEpGZy1ETzF4dHhEV2lKY3MtVmVvcHZmTDdOQ1N3WW1raktIdVRuZ1p2cw?oc=5",
-      "publishedAt": "2026-02-26T08:02:17.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 4.5,
-      "importanceRaw": 88,
-      "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 간결하게 핵심 내용을 전달한다.",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-03-02_6",
-      "date": "2026-03-02",
       "category": "기술",
-      "title": "건강 보험 기술 제공업체 TriZetto, 2024년 데이터 침해로 3백만 명 이상 피해",
+      "title": "건강 보험 기술 제공업체 TriZetto, 2024년 데이터 침해로 300만 명 이상 피해 발생",
       "summary": [
-        "건강 보험 기술 제공업체인 TriZetto는 2024년 데이터 침해로 인해 3백만 명 이상이 영향을 받았다고 밝혔습니다.",
-        "이번 침해는 Recorded Future News에서 보도했습니다."
+        "건강 보험 기술 제공업체인 TriZetto는 2024년 데이터 침해로 인해 300만 명 이상이 영향을 받았다고 밝혔습니다.",
+        "이번 침해는 Recorded Future News에서 보도되었습니다."
       ],
-      "whyImportant": "TriZetto의 데이터 침해는 개인 정보 보호 및 보안에 대한 우려를 제기합니다.",
-      "importanceRationale": "근거: 3백만 명 이상의 개인 정보가 침해되었으며, 이는 상당한 규모의 보안 사고입니다.",
+      "whyImportant": "이번 데이터 침해는 개인 정보 보호 및 보안에 대한 우려를 제기합니다.",
+      "importanceRationale": "근거: TriZetto는 대규모 건강 보험 기술 제공업체이며, 300만 명 이상의 개인 정보가 침해되었을 가능성이 있습니다.",
       "impactSignals": [
         {
           "label": "security",
-          "evidence": "3 million individuals impacted by data breach"
+          "evidence": "300만 명 이상의 개인 정보 침해 가능성"
         }
       ],
       "dedupeKey": "TriZetto_breach_2024",
@@ -182,50 +146,55 @@
       "importance": 4,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "기사에 명확한 정보가 제공됨",
+      "qualityReason": "기사에 명확한 사실 정보가 포함되어 있습니다.",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-03-02_6",
+      "date": "2026-03-02",
+      "category": "경제",
+      "title": "엔비디아 분기 매출 98조 원, HBM 수요에 삼성·SK도 수혜 기대",
+      "summary": [
+        "엔비디아가 분기 매출 98조 원을 기록했다.",
+        "HBM(고대역폭메모리) 수요 증가로 삼성과 SK도 수혜를 볼 것으로 예상된다."
+      ],
+      "whyImportant": "엔비디아의 실적은 반도체 산업 전반에 대한 중요한 지표이며, HBM 수요 증가는 국내 기업에 긍정적인 영향을 미칠 수 있다.",
+      "importanceRationale": "근거: 엔비디아의 매출 규모와 HBM 수요에 따른 삼성, SK의 수혜 기대는 반도체 시장의 동향을 파악하는 데 중요한 정보이다.",
+      "impactSignals": [
+        {
+          "label": "earnings",
+          "evidence": "엔비디아의 분기 매출 98조 원 기록"
+        }
+      ],
+      "dedupeKey": "nvidia-98t-krw-hbm",
+      "clusterKey": "반도체/98조원",
+      "matchedTo": null,
+      "sourceName": "스트레이트뉴스",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE84MDdldjRRMWtRQ0EyMkwwWTl3ZFlwQXp3S1h6V3dJOTFZY1hjaTNaNnRCTFJCTW5qLVVINWx0em1RQ3RZelNpVFIzUTQwb251ZnRiZWlKNURxV0lYalFHT0Q4QnhlRmpNeTF0dzAtUmg2OTTSAXdBVV95cUxOY3dvcmZLUXpJRXc0YkRQTUxZTXMxN0xUR09BYlJMYVVhZWRxSmcyN3hrMkgwdGJnN1JuN1cwX0JUejVNcHBXbjZfbkRNcEpGZy1ETzF4dHhEV2lKY3MtVmVvcHZmTDdOQ1N3WW1raktIdVRuZ1p2cw?oc=5",
+      "publishedAt": "2026-02-26T08:02:17.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 4,
+      "importanceRaw": 75,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 핵심 내용을 전달한다.",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-03-02_7",
       "date": "2026-03-02",
-      "category": "경제",
-      "title": "OpenAI, 96조 5천억 원 규모의 자금 조달 완료, 기업 가치 1,000조 원",
-      "summary": [
-        "OpenAI가 1,100억 달러(약 143조 원) 규모의 자금 조달을 마무리했다.",
-        "기업 가치는 7,300억 달러(약 965조 원)로 평가받았다."
-      ],
-      "whyImportant": "OpenAI의 대규모 자금 조달은 AI 기술 개발 경쟁 심화를 의미합니다.",
-      "importanceRationale": "근거: OpenAI의 기업 가치와 투자 규모는 AI 분야에서의 영향력을 보여주며, 이는 관련 정책 및 산업 전반에 걸쳐 중요한 변화를 가져올 수 있습니다.",
-      "impactSignals": [],
-      "dedupeKey": "openai_110b_funding_730b_value",
-      "clusterKey": "billion",
-      "matchedTo": null,
-      "sourceName": "Yahoo Finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNRDN0WGQxTXpLOGsxSGZqNlNFWDJiZUhlUmNnQjF4WU5CT2FVaG96NEJxNFBxN2tuR25SdThoQ3d1eUdTYWtCd1lrTmxDZXdrVFM1NmdhaHZ1bXN4WEZsZnpfYlhJQmtxSDBkQk1iZmZXVDBmaloyZi14bU5lQjZEZE0wcHBHallvX0E?oc=5",
-      "publishedAt": "2026-02-27T17:26:17.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 88,
-      "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 내용이 일치하며, 핵심 정보를 간결하게 전달합니다. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-03-02_8",
-      "date": "2026-03-02",
       "category": "정책",
       "title": "아동수당 지원 대상 및 금액 확대, 아동수당법 개정안 국회 통과",
       "summary": [
-        "아동수당 지원 대상과 금액을 확대하는 '아동수당법 일부개정법률안'이 국회 본회의를 통과했습니다.",
-        "이번 개정으로 아동 수당 지원이 확대될 예정입니다."
+        "아동수당 지원 대상과 금액을 확대하는 「아동수당법 일부개정법률안」이 국회 본회의를 통과했습니다.",
+        "개정안은 아동 수당 지급 대상을 확대하고, 수당 금액을 인상하는 내용을 담고 있습니다."
       ],
-      "whyImportant": "아동 수당 지원 확대 법안 통과",
-      "importanceRationale": "근거: 아동 수당 지원 대상과 금액을 확대하는 법안이 국회를 통과하여 정책 변화를 가져오므로 중요합니다.",
+      "whyImportant": "아동 복지 증진에 기여하고, 양육 가정의 경제적 부담을 경감할 수 있습니다.",
+      "importanceRationale": "근거: 아동수당법 개정안이 국회를 통과하여 아동 수당 지원 대상과 금액이 확대됨.",
       "impactSignals": [],
-      "dedupeKey": "아동수당법개정",
+      "dedupeKey": "child-support-bill-passed",
       "clusterKey": "국회",
       "matchedTo": null,
       "sourceName": "한국방송뉴스",
@@ -236,7 +205,34 @@
       "importance": 2,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 핵심 내용을 전달합니다. / 근거부족",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었습니다. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-03-02_8",
+      "date": "2026-03-02",
+      "category": "기술",
+      "title": "브라우저 접속만으로 AI 에이전트 장악...오픈클로 취약점, 개발자 워크스테이션 전면 노출 경고",
+      "summary": [
+        "오픈클로에서 취약점이 발견되어 AI 에이전트가 장악될 수 있다는 경고가 나왔습니다.",
+        "이 취약점을 통해 개발자 워크스테이션이 전면 노출될 위험이 있습니다."
+      ],
+      "whyImportant": "오픈클로의 취약점은 AI 에이전트 보안에 심각한 위협을 초래할 수 있습니다.",
+      "importanceRationale": "근거: 브라우저 접속만으로 AI 에이전트가 장악될 수 있으며, 개발자 워크스테이션이 노출될 수 있다는 직접적인 경고가 있었기 때문입니다.",
+      "impactSignals": [],
+      "dedupeKey": "openclo-security-threat",
+      "clusterKey": "개발자",
+      "matchedTo": null,
+      "sourceName": "지티티코리아",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1IVEd5Uk1HOVVwajU1bnlHdU9nSjdpM2YxQmhqQWZyOWU3ZnV3NG1LX2hzZGd2eHdBeVdFWjdyNGNYX1RlYmk4Q3NxcFlFMHpFY3NjYjUxWW53WmQ5Q3NUVWlHMmU4OVExRGc?oc=5",
+      "publishedAt": "2026-02-27T00:06:28.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 88,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 본문이 일치하며, 정보가 명확합니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -248,12 +244,12 @@
       "summary": [
         "전남광주 통합법과 국민투표법이 국회 본회의를 통과했습니다."
       ],
-      "whyImportant": "이번 법안 통과는 지역 통합 및 국민 참여에 중요한 영향을 미칩니다.",
+      "whyImportant": "이번 법안 통과는 지역 통합 및 국민 의사 반영에 중요한 영향을 미칩니다.",
       "importanceRationale": "근거: 전남광주 통합법과 국민투표법의 국회 본회의 통과는 정책 결정 과정에 있어 중요한 변화를 의미합니다.",
       "impactSignals": [
         {
           "label": "policy",
-          "evidence": "전남광주 통합법 및 국민투표법의 국회 본회의 통과"
+          "evidence": "전남광주 통합법 및 국민투표법 국회 본회의 통과"
         }
       ],
       "dedupeKey": "전남광주 통합법·국민투표법, 국회 본회의 통과",
@@ -267,12 +263,39 @@
       "importance": 3.5,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 내용이 일치하며, 간결하게 요약되었습니다.",
+      "qualityReason": "기사 제목과 내용이 일치하며, 간결하게 요약되어 있습니다.",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-03-02_10",
+      "date": "2026-03-02",
+      "category": "경제",
+      "title": "OpenAI, 96조 5천억 원 규모의 자금 조달 완료, 기업 가치 1,014조 원 평가",
+      "summary": [
+        "OpenAI가 1,100억 달러(약 143조 원) 규모의 자금 조달을 완료했다.",
+        "기업 가치는 7,300억 달러(약 965조 원)로 평가받았다."
+      ],
+      "whyImportant": "이번 자금 조달은 OpenAI의 기술 개발 및 사업 확장에 중요한 영향을 미칠 수 있습니다.",
+      "importanceRationale": "근거: 대규모 자금 조달은 OpenAI가 인공지능 분야에서 경쟁력을 강화하고 새로운 프로젝트를 추진하는 데 필요한 자원을 확보했음을 의미합니다.",
+      "impactSignals": [],
+      "dedupeKey": "openai_110b_funding_730b_value",
+      "clusterKey": "billion",
+      "matchedTo": null,
+      "sourceName": "Yahoo Finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNRDN0WGQxTXpLOGsxSGZqNlNFWDJiZUhlUmNnQjF4WU5CT2FVaG96NEJxNFBxN2tuR25SdThoQ3d1eUdTYWtCd1lrTmxDZXdrVFM1NmdhaHZ1bXN4WEZsZnpfYlhJQmtxSDBkQk1iZmZXVDBmaloyZi14bU5lQjZEZE0wcHBHallvX0E?oc=5",
+      "publishedAt": "2026-02-27T17:26:17.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 75,
+      "qualityLabel": "ok",
+      "qualityReason": "기사 제목과 내용이 일치하며, 사실에 기반하여 작성되었습니다. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-03-02_11",
       "date": "2026-03-02",
       "category": "국제",
       "title": "타협이냐 파국이냐, 이란 핵 협상 중 미 도발 시 초강경 무력 대응 천명",
@@ -294,61 +317,62 @@
       "importance": 2,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 핵심 내용을 잘 반영하고 있습니다. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-03-02_11",
-      "date": "2026-03-02",
-      "category": "국제",
-      "title": "미국 무역대표, 301조항 발동…관세 협상 '고차 방정식'",
-      "summary": [
-        "미국 무역대표가 301조항을 발동하며 관세 협상이 복잡해질 것으로 예상됩니다.",
-        "이는 무역 분쟁의 심화를 의미할 수 있습니다."
-      ],
-      "whyImportant": "미국이 301조항을 발동한 것은 향후 무역 관계에 중요한 영향을 미칠 수 있습니다.",
-      "importanceRationale": "근거: 301조항 발동은 관세 및 무역 장벽을 포함한 다양한 무역 제한 조치를 가능하게 하여, 관련 국가들의 경제에 상당한 파장을 일으킬 수 있습니다.",
-      "impactSignals": [],
-      "dedupeKey": "301조항 발동, 관세 협상",
-      "clusterKey": "301조",
-      "matchedTo": null,
-      "sourceName": "뉴스토마토",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBfaXliRTJaenpyYjBmWUs0QktMY01QTnJoTFhXb1ZqT21aeUphMlFyVzRYaE92WTBXMkl3RllnQUx4RTA5STB0Mld4THRsWUJNdkI1dXMwSDdaTHkzbnh3ZQ?oc=5",
-      "publishedAt": "2026-02-26T09:15:38.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 75,
-      "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었습니다. / 근거부족",
+      "qualityReason": "제목과 본문이 일치하며, 간결하게 요약되어 있습니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-03-02_12",
       "date": "2026-03-02",
-      "category": "에너지",
-      "title": "미국 데이터 센터의 전력 소비, 2030년까지 두 배로 증가 전망",
+      "category": "기술",
+      "title": "미 국방부, Anthropic 포기 후 OpenAI 안전선 승인",
       "summary": [
-        "미국 데이터 센터의 전력 소비가 2030년까지 두 배로 증가할 것으로 예상됨.",
-        "이는 데이터 센터의 지속적인 성장과 기술 발전으로 인한 결과임."
+        "미 국방부가 OpenAI의 안전 기준선을 승인했습니다.",
+        "이는 Anthropic과의 계약을 종료한 이후의 조치입니다.",
+        "Axios에 의해 보도되었습니다."
       ],
-      "whyImportant": "데이터 센터의 전력 소비 증가는 에너지 인프라 및 환경에 중요한 영향을 미칠 수 있습니다.",
-      "importanceRationale": "근거: 데이터 센터의 전력 소비 증가는 관련 산업 투자 및 에너지 정책에 영향을 미치므로 중요합니다.",
+      "whyImportant": "미 국방부의 AI 기술 사용에 대한 중요한 결정입니다.",
+      "importanceRationale": "근거: 국방부가 AI 기술 도입에 있어 안전을 중시하고 있으며, 이는 향후 국방 관련 AI 기술 개발 및 투자 방향에 영향을 미칠 수 있습니다.",
       "impactSignals": [],
-      "dedupeKey": "data_center_electricity_2030",
-      "clusterKey": "centers",
+      "dedupeKey": "pentagon-openai-safety-red-lines",
+      "clusterKey": "after",
       "matchedTo": null,
-      "sourceName": "E&E News by POLITICO",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNS1VaTE4zNDZKV3Q2MktVYWlwTERLdlJkN21WaG9YUjdlUE50VTVHM1JEaUZUY3pzM09jeGdsX0dYR0h3THdpX21BRnhUaktwMmhvc25MQnhubnJWYlV1VnNMYllYQmotZGF3b19USnJyOWV4eHRubGZXckxXcm8wMnZWVWVJa2ZNUXdTQkJ0TUNDSFF6SkE?oc=5",
-      "publishedAt": "2026-02-26T12:00:00.000Z",
+      "sourceName": "Axios",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUVlWNS1YcUVNLXk3UUdTcVVUbm1uZzZYNDNwVkhnZ01nWDhCNVRwQ0hScl9iUkh5b0hfdXhPbklCM2o5NGpubFVqd3JxUDBiNVJwN3J0Z05nakZzdG1EWW51dFJWcWlLYm9wRnRhUVhUZkx1blpieFRVZTNOLXlNYw?oc=5",
+      "publishedAt": "2026-02-28T23:50:07.000Z",
       "readTimeSec": 10,
       "status": "kept",
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "기사 내용이 명확하고 간결함. / 근거부족",
+      "qualityReason": "제목과 본문이 일치하며, 사실적인 정보를 제공합니다. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-03-02_13",
+      "date": "2026-03-02",
+      "category": "국제",
+      "title": "트럼프, 정부 기관에 Anthropic AI 도구 사용 중단 명령",
+      "summary": [
+        "트럼프 전 대통령은 정부 기관에 Anthropic AI 도구 사용을 중단하라는 명령을 내렸습니다.",
+        "BBC에 따르면 해당 조치는 즉시 효력이 발생합니다."
+      ],
+      "whyImportant": "정부 기관의 AI 도구 사용에 대한 정책적 변화를 보여줍니다.",
+      "importanceRationale": "근거: 트럼프 전 대통령의 명령은 정부 기관의 AI 기술 사용에 직접적인 영향을 미치며, 이는 정책 변화의 중요한 신호입니다.",
+      "impactSignals": [],
+      "dedupeKey": "trump-anthropic-ai-ban",
+      "clusterKey": "agencies",
+      "matchedTo": null,
+      "sourceName": "BBC",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE11LURybnpFUDFzeDZTSV9BclBSTmVfTXZrYjgzZTcyNmpLMXcxS0Z1dU91S0VtRTJWaXptcjdTMlJvZTJFeU9aMXlJcmpPSmFmV1BLOWdMODdZQQ?oc=5",
+      "publishedAt": "2026-02-28T03:50:05.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 63,
+      "qualityLabel": "ok",
+      "qualityReason": "기사에 명확한 사실 정보가 포함되어 있습니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     }
