@@ -3,25 +3,20 @@
   "selectionCriteria": "① 내일도 영향이 남는 이슈 ② 과도한 감정 소모 제외 ③ 어제와 중복되는 뉴스 제외",
   "editorNote": "이 뉴스는 클릭 수가 아니라 오늘 이후에도 남는 정보만 기준으로 편집했습니다.",
   "question": "정보를 덜 보는 것이 오히려 더 똑똑한 소비일까?",
-  "lastUpdatedAt": "2026-03-02T01:24:17.361+09:00",
+  "lastUpdatedAt": "2026-03-02T02:20:05.932+09:00",
   "items": [
     {
       "id": "2026-03-02_1",
       "date": "2026-03-02",
       "category": "경제",
-      "title": "공과금 청구서가 계속 오르고 있습니다. AI 데이터 센터를 포함하여 누구를 탓할 수 있는지 알려드립니다.",
+      "title": "공공요금 인상의 원인: AI 데이터 센터 포함",
       "summary": [
-        "공과금 청구서가 계속 증가하고 있습니다.",
-        "AI 데이터 센터도 그 원인 중 하나로 지목되고 있습니다."
+        "공공요금이 계속해서 인상되고 있습니다.",
+        "AI 데이터 센터를 포함하여 요금 인상의 원인이 되는 요인들이 있습니다."
       ],
-      "whyImportant": "공과금 인상의 원인 분석 및 AI 데이터 센터의 영향에 대한 정보 제공",
-      "importanceRationale": "근거: 공과금 인상의 원인으로 AI 데이터 센터를 지목하고 있어, 에너지 소비와 관련된 정책 및 투자 결정에 영향을 미칠 수 있음",
-      "impactSignals": [
-        {
-          "label": "capex",
-          "evidence": "AI 데이터 센터 건설 및 운영 관련 투자 증가가 공과금 인상에 영향을 미침"
-        }
-      ],
+      "whyImportant": "AI 데이터 센터가 공공요금 인상에 미치는 영향을 이해하는 것이 중요합니다.",
+      "importanceRationale": "근거: AI 데이터 센터의 에너지 소비량 증가가 공공요금 인상에 기여할 수 있습니다.",
+      "impactSignals": [],
       "dedupeKey": "utility_bills_ai_data_centers",
       "clusterKey": "에너지/bills",
       "matchedTo": null,
@@ -30,31 +25,98 @@
       "publishedAt": "2026-03-01T07:58:00.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 3,
-      "importanceRaw": 50,
+      "importance": 2,
+      "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 텍스트가 일치하며, 정보가 명확하게 전달됨",
+      "qualityReason": "제목과 텍스트가 일치하며, 정보가 명확합니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-03-02_2",
       "date": "2026-03-02",
-      "category": "정책",
-      "title": "중국 매체, 일본 기업 대상 첫 감시 목록 조치에 '수출 통제 정밀화' 평가",
+      "category": "경제",
+      "title": "엔비디아, 매출 308조 원으로 역대 최대 기록…데이터센터가 성장 견인",
       "summary": [
-        "중국 매체는 일본 기업을 겨냥한 첫 감시 목록 조치에 대해 수출 통제가 정밀해졌다고 평가했다.",
-        "한국무역협회(KITA)는 관련 내용을 보도했다."
+        "엔비디아가 데이터센터 부문의 성장에 힘입어 매출 308조 원을 기록하며 역대 최대 실적을 달성했습니다.",
+        "이번 실적은 엔비디아의 데이터센터 사업이 크게 확장되었음을 보여줍니다."
       ],
-      "whyImportant": "중국의 수출 통제 정책 변화와 그 영향을 파악하는 데 중요합니다.",
-      "importanceRationale": "근거: 중국이 일본 기업을 대상으로 감시 목록 조치를 처음 시행한 것은 중국의 수출 통제 정책이 더욱 구체화되고 있음을 시사하며, 이는 국제 무역 관계에 중요한 영향을 미칠 수 있기 때문입니다.",
+      "whyImportant": "엔비디아의 기록적인 매출은 데이터센터 시장의 성장과 엔비디아의 시장 지배력을 시사합니다.",
+      "importanceRationale": "근거: 엔비디아의 매출이 308조 원으로 역대 최대를 기록했으며, 이는 데이터센터 부문의 성장이 주요 원인입니다.",
+      "impactSignals": [
+        {
+          "label": "capex",
+          "evidence": "데이터센터 부문 성장이 매출 증가의 주요 원인으로 작용"
+        },
+        {
+          "label": "earnings",
+          "evidence": "매출 308조 원으로 역대 최대 실적 기록"
+        }
+      ],
+      "dedupeKey": "nvidia_record_revenue_datacenters",
+      "clusterKey": "클라우드/308조",
+      "matchedTo": null,
+      "sourceName": "디일렉",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1wQy04aHdPM2E2bjB5NG9FYWE0VlJsdHNQMEhhdXZtWWQxaVA5d0RzbEhmQ09MZmExSEpZeWZoaGRuZ3JUa09KbkJxS1piQzY2MWkxaGFhUHRFWjFmRVVJUkQ0UHdIdw?oc=5",
+      "publishedAt": "2026-02-25T23:42:50.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 4.5,
+      "importanceRaw": 88,
+      "qualityLabel": "ok",
+      "qualityReason": "기사 제목과 내용이 일치하며, 핵심 정보를 간결하게 요약했습니다.",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-03-02_3",
+      "date": "2026-03-02",
+      "category": "정책",
+      "title": "화이트 해커 상시 점검…국가AI전략위, '보안 취약점 신고·조치·공개' 법제화 추진",
+      "summary": [
+        "국가AI전략위원회는 화이트 해커가 상시 점검하는 '보안 취약점 신고·조치·공개' 법제화를 추진한다.",
+        "이는 AI 시스템의 보안을 강화하고 잠재적 위협에 선제적으로 대응하기 위한 조치이다."
+      ],
+      "whyImportant": "AI 시스템 보안 강화 및 잠재적 위협 대응을 위한 법제화 추진",
+      "importanceRationale": "근거: 국가AI전략위원회가 AI 보안 취약점 신고 및 조치, 공개를 법제화하여 AI 시스템의 보안을 강화하고 잠재적 위협에 대응하려 한다. 이는 사이버 보안 투자를 촉진하고 AI 시스템의 안전성을 높이는 데 기여할 수 있다.",
+      "impactSignals": [
+        {
+          "label": "capex",
+          "evidence": "보안 취약점 신고 및 조치 법제화로 사이버 보안 투자 증가 예상"
+        }
+      ],
+      "dedupeKey": "AI_security_law",
+      "clusterKey": "국가ai전략위",
+      "matchedTo": null,
+      "sourceName": "바이라인네트워크",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBjQVlJS0VwZ3BFTzA4Z3g2Ui1waXM2MFItTEN3bzBzUTdxajNsVmhkUzlRbUtMTkRQQnItcV84Vl8yc1o3bmFXLVFpdEYxMGs?oc=5",
+      "publishedAt": "2026-02-25T07:13:19.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 4,
+      "importanceRaw": 75,
+      "qualityLabel": "ok",
+      "qualityReason": "기사 제목과 내용을 충실히 반영함",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-03-02_4",
+      "date": "2026-03-02",
+      "category": "정책",
+      "title": "중국 매체, 일본 기업 대상 첫 감시 리스트 조치에 '수출 통제 정밀화' 평가",
+      "summary": [
+        "한국무역협회에 따르면 중국 매체는 일본 기업을 겨냥한 첫 감시 리스트 조치에 대해 수출 통제가 정밀해졌다고 평가했다."
+      ],
+      "whyImportant": "중국의 수출 통제 정책 변화를 보여주는 사례입니다.",
+      "importanceRationale": "근거: 일본 기업을 대상으로 한 감시 리스트 조치는 중국의 수출 통제 정책이 특정 국가나 기업을 대상으로 더욱 정밀하게 적용될 수 있음을 시사합니다.",
       "impactSignals": [
         {
           "label": "sanctions",
-          "evidence": "감시 목록 등재는 잠재적인 제재로 이어질 수 있습니다."
+          "evidence": "특정 기업에 대한 감시 리스트 등재는 잠재적인 제재 가능성을 내포합니다."
         }
       ],
-      "dedupeKey": "중국, 일본기업 감시리스트 조치, 수출통제 정밀화",
+      "dedupeKey": "중국, 일본기업 감시리스트, 수출통제정밀화",
       "clusterKey": "감시리스트",
       "matchedTo": null,
       "sourceName": "한국무역협회-KITA.NET",
@@ -70,17 +132,18 @@
       "isBreaking": false
     },
     {
-      "id": "2026-03-02_3",
+      "id": "2026-03-02_5",
       "date": "2026-03-02",
       "category": "정책",
-      "title": "아동수당법, 국회 본회의 통과",
+      "title": "아동수당법 국회 본회의 통과",
       "summary": [
-        "아동수당법이 국회 본회의를 통과했습니다."
+        "아동수당법이 국회 본회의를 통과했습니다.",
+        "자세한 내용은 한국경제에서 확인할 수 있습니다."
       ],
-      "whyImportant": "아동 수당 지급에 대한 법적 근거가 마련되었습니다.",
+      "whyImportant": "아동수당 지급에 대한 법적 근거가 마련되었습니다.",
       "importanceRationale": "근거: 아동수당법이 국회 본회의를 통과했다는 사실은 정부의 아동 복지 정책에 중요한 변화를 의미합니다.",
       "impactSignals": [],
-      "dedupeKey": "아동수당법, 국회 본회의 통과",
+      "dedupeKey": "아동수당법_국회_본회의_통과",
       "clusterKey": "국회",
       "matchedTo": null,
       "sourceName": "한국경제",
@@ -91,25 +154,57 @@
       "importance": 2,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 핵심 내용을 전달합니다. / 근거부족",
+      "qualityReason": "제목과 내용이 일치하며 간결하게 요약되었습니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-03-02_4",
+      "id": "2026-03-02_6",
+      "date": "2026-03-02",
+      "category": "경제",
+      "title": "엔비디아 분기 매출 98조 원, HBM 수요에 삼성·SK도 수혜 기대",
+      "summary": [
+        "엔비디아가 분기 매출 98조 원을 기록했다.",
+        "HBM(고대역폭메모리) 수요 증가로 삼성과 SK도 수혜를 볼 것으로 예상된다."
+      ],
+      "whyImportant": "엔비디아의 실적은 반도체 산업 전반에 대한 중요한 지표가 되며, HBM 수요 증가는 관련 기업들의 성장 가능성을 시사한다.",
+      "importanceRationale": "근거: 엔비디아의 매출 증가는 AI 반도체 시장의 성장을 반영하며, HBM 수요 증가는 삼성과 SK하이닉스 등 관련 기업의 실적에 긍정적인 영향을 미칠 수 있기 때문이다.",
+      "impactSignals": [
+        {
+          "label": "earnings",
+          "evidence": "엔비디아의 분기 매출 98조 원 달성"
+        }
+      ],
+      "dedupeKey": "nvidia-q1-2024-earnings",
+      "clusterKey": "반도체/98조원",
+      "matchedTo": null,
+      "sourceName": "스트레이트뉴스",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE84MDdldjRRMWtRQ0EyMkwwWTl3ZFlwQXp3S1h6V3dJOTFZY1hjaTNaNnRCTFJCTW5qLVVINWx0em1RQ3RZelNpVFIzUTQwb251ZnRiZWlKNURxV0lYalFHT0Q4QnhlRmpNeTF0dzAtUmg2OTTSAXdBVV95cUxOY3dvcmZLUXpJRXc0YkRQTUxZTXMxN0xUR09BYlJMYVVhZWRxSmcyN3hrMkgwdGJnN1JuN1cwX0JUejVNcHBXbjZfbkRNcEpGZy1ETzF4dHhEV2lKY3MtVmVvcHZmTDdOQ1N3WW1raktIdVRuZ1p2cw?oc=5",
+      "publishedAt": "2026-02-26T08:02:17.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 4.5,
+      "importanceRaw": 88,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 본문이 일치하며, 간결하게 핵심 내용을 전달한다.",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-03-02_7",
       "date": "2026-03-02",
       "category": "기술",
-      "title": "건강 보험 기술 제공업체 TriZetto, 2024년 데이터 침해로 3백만 명 이상 피해",
+      "title": "TriZetto, 2024년 데이터 침해로 300만 명 이상 피해 발생",
       "summary": [
-        "건강 보험 기술 제공업체인 TriZetto는 2024년 데이터 침해로 인해 3백만 명 이상이 영향을 받았다고 밝혔습니다.",
-        "이번 침해는 Recorded Future News에서 보도했습니다."
+        "건강 보험 기술 제공업체인 TriZetto는 2024년 데이터 침해로 인해 300만 명 이상이 영향을 받았다고 발표했습니다.",
+        "이번 침해는 Recorded Future News에서 보도되었습니다."
       ],
       "whyImportant": "TriZetto의 데이터 침해는 개인 정보 보호 및 보안에 대한 우려를 제기합니다.",
-      "importanceRationale": "근거: 3백만 명 이상의 개인 정보가 침해되었으며, 이는 상당한 규모의 보안 사고입니다.",
+      "importanceRationale": "근거: 300만 명 이상의 개인 정보가 침해되었을 가능성이 있으며, 이는 상당한 규모의 보안 사고입니다.",
       "impactSignals": [
         {
           "label": "security",
-          "evidence": "3 million individuals impacted by data breach"
+          "evidence": "300만 명 이상의 개인 정보 침해 가능성"
         }
       ],
       "dedupeKey": "TriZetto_breach_2024",
@@ -123,55 +218,23 @@
       "importance": 4,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "뉴스 보도에 기반한 사실 정보 제공",
+      "qualityReason": "기사 제목과 내용이 일치하며, 정보가 명확합니다.",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-03-02_5",
-      "date": "2026-03-02",
-      "category": "경제",
-      "title": "엔비디아 분기 매출 98조 원, HBM 수요에 삼성·SK도 수혜 기대",
-      "summary": [
-        "엔비디아가 분기 매출 98조 원을 기록했다.",
-        "HBM(고대역폭메모리) 수요 증가로 삼성과 SK도 수혜를 볼 것으로 예상된다."
-      ],
-      "whyImportant": "엔비디아의 실적은 반도체 산업 전반에 대한 중요한 지표가 되며, HBM 수요 증가는 관련 기업들의 수익성에 영향을 미친다.",
-      "importanceRationale": "근거: 엔비디아의 매출 증가는 AI 반도체 시장의 성장과 직결되며, HBM 수요 증가는 삼성과 SK하이닉스 등 관련 기업의 실적 개선으로 이어질 수 있기 때문이다.",
-      "impactSignals": [
-        {
-          "label": "earnings",
-          "evidence": "엔비디아의 분기 매출 98조 원 달성"
-        }
-      ],
-      "dedupeKey": "nvidia-98t-krw-hbm",
-      "clusterKey": "반도체/98조원",
-      "matchedTo": null,
-      "sourceName": "스트레이트뉴스",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE84MDdldjRRMWtRQ0EyMkwwWTl3ZFlwQXp3S1h6V3dJOTFZY1hjaTNaNnRCTFJCTW5qLVVINWx0em1RQ3RZelNpVFIzUTQwb251ZnRiZWlKNURxV0lYalFHT0Q4QnhlRmpNeTF0dzAtUmg2OTTSAXdBVV95cUxOY3dvcmZLUXpJRXc0YkRQTUxZTXMxN0xUR09BYlJMYVVhZWRxSmcyN3hrMkgwdGJnN1JuN1cwX0JUejVNcHBXbjZfbkRNcEpGZy1ETzF4dHhEV2lKY3MtVmVvcHZmTDdOQ1N3WW1raktIdVRuZ1p2cw?oc=5",
-      "publishedAt": "2026-02-26T08:02:17.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 4,
-      "importanceRaw": 75,
-      "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 간결하게 핵심 내용을 전달한다.",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-03-02_6",
+      "id": "2026-03-02_8",
       "date": "2026-03-02",
       "category": "정책",
       "title": "아동수당 지원 대상 및 금액 확대, 아동수당법 개정안 국회 통과",
       "summary": [
-        "아동수당 지원 대상과 금액을 확대하는 '아동수당법 일부개정법률안'이 국회 본회의를 통과했습니다.",
-        "이번 개정으로 아동 수당 지원이 확대될 예정입니다."
+        "아동수당 지원 대상과 금액을 확대하는 「아동수당법 일부개정법률안」이 국회 본회의를 통과했습니다.",
+        "개정안은 아동 수당 지급 대상을 확대하고, 수당 금액을 인상하는 내용을 담고 있습니다."
       ],
-      "whyImportant": "아동 수당 지원 확대 법안 통과",
-      "importanceRationale": "근거: 아동 수당 지원 대상과 금액을 확대하는 법안이 국회를 통과하여 정책 변화를 가져오므로 중요합니다.",
+      "whyImportant": "아동 복지 증진에 기여하고, 양육 가정의 경제적 부담을 경감할 수 있습니다.",
+      "importanceRationale": "근거: 아동수당법 개정안이 국회를 통과하여 정책 변화가 발생했으며, 이는 아동 복지 및 양육 지원에 직접적인 영향을 미칩니다.",
       "impactSignals": [],
-      "dedupeKey": "child_support_law_passed",
+      "dedupeKey": "child-allowance-law-amendment-passed",
       "clusterKey": "국회",
       "matchedTo": null,
       "sourceName": "한국방송뉴스",
@@ -187,15 +250,15 @@
       "isBreaking": false
     },
     {
-      "id": "2026-03-02_7",
+      "id": "2026-03-02_9",
       "date": "2026-03-02",
       "category": "정책",
       "title": "한전·한수원 '국제 중재' 국내로 이전될까…정부, 이관 권고",
       "summary": [
         "정부가 한국전력과 한국수력원자력의 국제 중재 사건을 국내로 이관하도록 권고했다.",
-        "이는 국제 중재에 대한 비용 부담을 줄이고, 국내 법률 및 절차를 활용하기 위한 조치로 풀이된다."
+        "이는 국제 중재에 대한 비용과 시간 소모를 줄이기 위한 조치로 풀이된다."
       ],
-      "whyImportant": "국제 중재 사건의 국내 이관은 관련 기업의 비용 절감 및 국내 법률 시스템 활용에 영향을 미칠 수 있다.",
+      "whyImportant": "국제 중재 사건의 국내 이관은 관련 기관의 비용 절감 및 효율성 증대에 기여할 수 있다.",
       "importanceRationale": "근거: 정부가 한전과 한수원의 국제 중재 사건을 국내로 이관하도록 권고함.",
       "impactSignals": [],
       "dedupeKey": "hanjeon-hansuryeok-international-arbitration-domestic-transfer-recommendation",
@@ -209,21 +272,21 @@
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 내용이 일치하며, 간결하게 요약되어 있습니다. / 근거부족",
+      "qualityReason": "기사 내용이 명확하고 간결하게 요약되어 있음. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-03-02_8",
+      "id": "2026-03-02_10",
       "date": "2026-03-02",
       "category": "경제",
-      "title": "OpenAI, 96조 5천억 원 규모의 자금 조달 완료, 기업 가치 1,000조 원",
+      "title": "OpenAI, 96조 5천억 원 규모의 자금 조달 완료, 기업 가치 1,014조 원으로 평가",
       "summary": [
-        "OpenAI가 1,100억 달러(약 143조 원) 규모의 자금 조달을 마무리했다.",
+        "OpenAI가 1,100억 달러(약 143조 원) 규모의 자금 조달을 완료했다.",
         "기업 가치는 7,300억 달러(약 965조 원)로 평가받았다."
       ],
-      "whyImportant": "OpenAI의 대규모 자금 조달은 AI 기술 개발 경쟁 심화를 의미합니다.",
-      "importanceRationale": "근거: OpenAI의 기업 가치와 투자 규모는 AI 산업에 대한 높은 기대감을 반영하며, 이는 정책 결정 및 기술 개발 방향에 중요한 영향을 미칠 수 있습니다.",
+      "whyImportant": "이번 자금 조달은 OpenAI의 성장과 AI 기술 개발에 중요한 영향을 미칠 수 있습니다.",
+      "importanceRationale": "근거: 대규모 자금 유치는 OpenAI가 AI 연구 및 개발에 더욱 집중하고, 새로운 프로젝트를 추진할 수 있는 기반을 마련해줍니다.",
       "impactSignals": [],
       "dedupeKey": "openai_110b_funding_730b_value",
       "clusterKey": "billion",
@@ -241,16 +304,16 @@
       "isBreaking": false
     },
     {
-      "id": "2026-03-02_9",
+      "id": "2026-03-02_11",
       "date": "2026-03-02",
       "category": "국제",
-      "title": "타협이냐 파국이냐: 이란 핵 협상 중 미국 도발 시 초강경 무력 대응 천명",
+      "title": "타협이냐 파국이냐, 이란 핵 협상 중 미 도발 시 초강경 무력 대응 천명",
       "summary": [
         "이란 핵 협상 중 미국이 도발할 경우 이란이 초강경 무력 대응을 천명했습니다.",
         "협상의 타결 여부에 따라 중동 지역의 안보 상황이 크게 달라질 수 있습니다."
       ],
-      "whyImportant": "이란 핵 협상과 관련된 잠재적 군사적 긴장 고조",
-      "importanceRationale": "근거: 이란의 강경한 입장은 협상 결과에 따라 지역 안보에 미치는 영향이 크기 때문입니다.",
+      "whyImportant": "이란 핵 협상 결과는 중동 지역 안보에 중요한 영향을 미치므로.",
+      "importanceRationale": "근거: 이란 핵 협상은 중동 지역의 안보와 국제 관계에 중요한 영향을 미치며, 협상 결과에 따라 지역 내 긴장이 고조되거나 완화될 수 있기 때문입니다.",
       "impactSignals": [],
       "dedupeKey": "iran_nuclear_talks_military_response",
       "clusterKey": "대응",
@@ -263,77 +326,54 @@
       "importance": 2,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 내용이 일치하며, 간결하게 요약되었습니다. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-03-02_10",
-      "date": "2026-03-02",
-      "category": "국제",
-      "title": "미국 무역대표, 301조항 발동…관세 협상 '고차 방정식'",
-      "summary": [
-        "미국 무역대표가 301조항을 발동하며 관세 협상이 복잡해질 것으로 예상됩니다.",
-        "이는 무역 분쟁의 심화를 의미할 수 있습니다."
-      ],
-      "whyImportant": "미국이 301조항을 발동한 것은 향후 무역 관계에 중요한 영향을 미칠 수 있습니다.",
-      "importanceRationale": "근거: 301조항 발동은 관세 협상에 직접적인 영향을 주며, 무역 분쟁을 심화시킬 수 있는 정책적 결정입니다.",
-      "impactSignals": [],
-      "dedupeKey": "301조항_관세협상",
-      "clusterKey": "301조",
-      "matchedTo": null,
-      "sourceName": "뉴스토마토",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBfaXliRTJaenpyYjBmWUs0QktMY01QTnJoTFhXb1ZqT21aeUphMlFyVzRYaE92WTBXMkl3RllnQUx4RTA5STB0Mld4THRsWUJNdkI1dXMwSDdaTHkzbnh3ZQ?oc=5",
-      "publishedAt": "2026-02-26T09:15:38.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 75,
-      "qualityLabel": "ok",
       "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었습니다. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-03-02_11",
-      "date": "2026-03-02",
-      "category": "경제",
-      "title": "반도체 월간 '역대 최대' 실적에…2월 수출 29%↑",
-      "summary": [
-        "반도체 월간 실적이 역대 최대를 기록했다.",
-        "2월 수출이 29% 증가했다."
-      ],
-      "whyImportant": "반도체 산업의 호황과 수출 증가를 보여주는 지표입니다.",
-      "importanceRationale": "근거: 반도체 월간 실적이 역대 최대를 기록하고 2월 수출이 29% 증가했다는 것은 해당 산업의 성장과 국가 경제에 긍정적인 영향을 미칠 수 있음을 시사한다.",
-      "impactSignals": [],
-      "dedupeKey": "semiconductor-export-20240304",
-      "clusterKey": "반도체/2월",
-      "matchedTo": null,
-      "sourceName": "인더스트리뉴스",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMickFVX3lxTE8wNzZSOGZUSU9ZdURpVTVMNDFTU1Q5cHRwTUowNG53WDU3dWtpd2hZT3J0a3RodmdabmJpazdseGVPWkJ5RUxuY2pyWWoycHNpSzBzWW5ULUN5Z1hNVG1ERU9YSUZxa2VuNk0wZUpRS0xnUQ?oc=5",
-      "publishedAt": "2026-03-01T09:25:22.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 75,
-      "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 핵심 정보를 전달합니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-03-02_12",
       "date": "2026-03-02",
-      "category": "경제",
-      "title": "Xcel Energy와 Google 데이터 센터, 성장 계획 및 가치 평가에 초점",
+      "category": "국제",
+      "title": "인도, 이스라엘과 4년 만에 FTA 협상 재개",
       "summary": [
-        "Xcel Energy와 Google 데이터 센터가 성장 계획 및 가치 평가에 집중하고 있습니다.",
-        "자세한 내용은 simplywall.st에서 확인할 수 있습니다."
+        "인도와 이스라엘이 4년여 만에 자유무역협정(FTA) 협상을 재개했다.",
+        "양국은 협상을 신속히 마무리할 방침이다."
       ],
-      "whyImportant": "Xcel Energy와 Google 데이터 센터의 성장 계획은 관련 산업에 영향을 미칠 수 있습니다.",
-      "importanceRationale": "근거: Xcel Energy와 Google 데이터 센터의 협력 및 투자는 에너지 및 데이터 센터 산업의 성장과 발전에 중요한 지표가 될 수 있기 때문입니다.",
+      "whyImportant": "인도와 이스라엘 간의 FTA 협상 재개는 양국 간의 경제 협력 강화에 중요한 계기가 될 수 있다.",
+      "importanceRationale": "근거: FTA는 무역 장벽을 낮추고 경제 통합을 촉진하여 양국 간의 교역 및 투자 확대를 가져올 수 있기 때문이다.",
       "impactSignals": [],
-      "dedupeKey": "xcel_google_growth_valuation",
+      "dedupeKey": "india-israel-fta-restart",
+      "clusterKey": "4년여만에",
+      "matchedTo": null,
+      "sourceName": "한국무역협회-KITA.NET",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQMWhBSFlEYnJnSUhGODhQUVBINy1QUkxDdUJYd2hlcWREYWJKSlhSblU3dHFIUUl2WjA3cFRMdjF0WVpVVmhwTmpQZnZFUkJrLUNrTF9XaENadmlmSExfY3B4SnVlaThGODc4RU9PM25PanFISWExN1M4aFJ1MFhjQ2ZWdDVsM2gyVzNDUFNhaUpvQlFzSERIai1JaUVCZ0lGdmFhRm5ITmhpamFXNHZGakVzUXlYbnRJS2MzVm9TVDlDNEIteTFwTm0wUlpuZFZMaHFSNQ?oc=5",
+      "publishedAt": "2026-02-27T06:34:26.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 63,
+      "qualityLabel": "ok",
+      "qualityReason": "기사 내용이 간결하고 명확함 / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-03-02_13",
+      "date": "2026-03-02",
+      "category": "경제",
+      "title": "Xcel 에너지와 구글 데이터 센터, 성장 계획 및 가치 평가에 집중",
+      "summary": [
+        "Xcel 에너지와 구글 데이터 센터가 성장 계획과 가치 평가에 집중하고 있습니다."
+      ],
+      "whyImportant": "Xcel 에너지와 구글 데이터 센터의 성장 계획 및 투자를 파악하는 것이 중요합니다.",
+      "importanceRationale": "근거: Xcel 에너지와 구글 데이터 센터의 성장 계획은 관련 산업에 대한 투자 및 경제적 영향을 미칠 수 있기 때문입니다.",
+      "impactSignals": [
+        {
+          "label": "capex",
+          "evidence": "Xcel Energy and Google Data Center put growth plans in focus."
+        }
+      ],
+      "dedupeKey": "Xcel_Google_Growth_Valuation",
       "clusterKey": "에너지/center",
       "matchedTo": null,
       "sourceName": "simplywall.st",
@@ -341,64 +381,10 @@
       "publishedAt": "2026-03-01T03:43:35.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 2,
+      "importance": 3,
       "importanceRaw": 50,
       "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 내용이 일치하며, 간결하게 요약되었습니다. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-03-02_13",
-      "date": "2026-03-02",
-      "category": "에너지",
-      "title": "미국 데이터 센터의 전력 소비, 2030년까지 두 배로 증가 전망",
-      "summary": [
-        "미국 데이터 센터의 전력 소비가 2030년까지 두 배로 증가할 것으로 예상됨.",
-        "이는 E&E News by POLITICO의 보도에 따른 것임."
-      ],
-      "whyImportant": "데이터 센터의 전력 소비 증가는 에너지 인프라 투자 및 정책 결정에 중요한 영향을 미칠 수 있습니다.",
-      "importanceRationale": "근거: 데이터 센터의 전력 소비 증가는 관련 산업의 투자 및 에너지 정책에 대한 고려를 필요로 하기 때문입니다.",
-      "impactSignals": [],
-      "dedupeKey": "data_center_electricity_2030",
-      "clusterKey": "centers",
-      "matchedTo": null,
-      "sourceName": "E&E News by POLITICO",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNS1VaTE4zNDZKV3Q2MktVYWlwTERLdlJkN21WaG9YUjdlUE50VTVHM1JEaUZUY3pzM09jeGdsX0dYR0h3THdpX21BRnhUaktwMmhvc25MQnhubnJWYlV1VnNMYllYQmotZGF3b19USnJyOWV4eHRubGZXckxXcm8wMnZWVWVJa2ZNUXdTQkJ0TUNDSFF6SkE?oc=5",
-      "publishedAt": "2026-02-26T12:00:00.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 63,
-      "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 정보가 명확합니다. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-03-02_14",
-      "date": "2026-03-02",
-      "category": "기술",
-      "title": "안정적인 리더십이 직장에 확실성을 제공하는 이유",
-      "summary": [
-        "안정적인 리더십은 직장에서 확실성을 제공합니다.",
-        "이는 공급 및 수요망 경영진에게 중요합니다."
-      ],
-      "whyImportant": "안정적인 리더십의 중요성",
-      "importanceRationale": "근거: 안정적인 리더십이 직장 내 확실성을 높이고 공급망 관리에 긍정적인 영향을 미칠 수 있다는 점을 강조합니다.",
-      "impactSignals": [],
-      "dedupeKey": "steady_leadership_workplace_certainty",
-      "clusterKey": "certainty",
-      "matchedTo": null,
-      "sourceName": "Supply & Demand Chain Executive",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPV3BHZVlabUQ3MnBMRDVNSGRYTjNvbEJCanNINlhUbUMzVlV6V3RaQWJaUEVFUmpMczBmTS1HNmh2ZDR4SkJKcjRJRUs3X2o5YjQ5SU9WOFhMM1V6SVkySHFmT2ZaMnZOMFFuQWZxbEFSWHM3WHFlUUh2Z1JWSkhnYi1UQXFoVnotTDBDaDAxZFF5RUpzSE5SWVJ5ZDRJeDNhQ1VlcmhOTVZNenozZzJ0MDJzb2VFY2w1a0NQLUlWLWJIVmdQdDRIMUN5TWFZWm1HMnpodERVaU1oVnJxWHdyUG9pS3BiNlloLTE1dnl3?oc=5",
-      "publishedAt": "2026-03-01T16:21:35.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 63,
-      "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 내용이 일치하며, 간결하게 요약되었습니다. / 근거부족",
+      "qualityReason": "The article provides a clear and concise statement about Xcel Energy and Google Data Center's focus on growth plans and valuation.",
       "isBriefing": false,
       "isBreaking": false
     }
