@@ -2,41 +2,37 @@
   "type": "metrics_summary",
   "date": "2026-03-03",
   "totalIn": 285,
-  "totalOut": 18,
-  "dropped": 267,
+  "totalOut": 17,
+  "dropped": 268,
   "dropReasons": {
-    "carry_over_duplicate": 38,
-    "outdated": 118,
+    "carry_over_duplicate": 37,
+    "outdated": 117,
     "hard_excluded_keyword": 5,
-    "duplicate_dedupe_key": 8,
+    "duplicate_dedupe_key": 6,
     "duplicate_title": 3,
     "excluded_keyword": 2,
-    "semantic_duplicate": 2,
-    "not_selected": 91,
-    "validation_dropped": 2
+    "semantic_duplicate": 3,
+    "not_selected": 95,
+    "validation_dropped": 3
   },
   "impactLabels": {
-    "policy": 2,
+    "security": 2,
     "capex": 2,
-    "security": 1,
     "earnings": 1
   },
   "sources": {
-    "한국경제": 1,
+    "한국경제": 2,
     "연합뉴스 한민족센터": 2,
     "About Amazon": 1,
     "한겨레": 2,
-    "에너지경제신문": 1,
+    "에너지경제신문": 2,
     "Morningstar Canada": 1,
-    "Reuters": 1,
-    "한국무역협회-KITA.NET": 2,
+    "WAMU": 1,
+    "한국방송뉴스": 1,
     "Inside Towers": 1,
-    "youthassembly.kr": 1,
-    "Vietnam.vn": 1,
     "프레시안": 1,
-    "KBS 뉴스": 1,
-    "Yahoo Finance": 1,
-    "Investing.com 한국어": 1
+    "한국무역협회-KITA.NET": 2,
+    "Yahoo Finance": 1
   },
   "topicStats": {
     "IT": {
@@ -61,8 +57,8 @@
     },
     "실적_가이던스": {
       "in": 24,
-      "out": 4,
-      "dropped": 20
+      "out": 1,
+      "dropped": 23
     },
     "반도체_공급망": {
       "in": 24,
@@ -71,13 +67,13 @@
     },
     "전력_인프라": {
       "in": 24,
-      "out": 5,
-      "dropped": 19
+      "out": 7,
+      "dropped": 17
     },
     "AI_저작권_데이터권리": {
       "in": 20,
-      "out": 1,
-      "dropped": 19
+      "out": 0,
+      "dropped": 20
     },
     "보안_취약점_패치": {
       "in": 20,
@@ -101,8 +97,8 @@
     },
     "국내_금융_통화정책": {
       "in": 15,
-      "out": 0,
-      "dropped": 15
+      "out": 1,
+      "dropped": 14
     },
     "국내_고용_내수": {
       "in": 12,
@@ -119,7 +115,7 @@
     },
     "비즈니스포스트": {
       "outdated": 2,
-      "not_selected": 2
+      "not_selected": 3
     },
     "매일경제": {
       "outdated": 2
@@ -193,7 +189,7 @@
       "outdated": 2
     },
     "ebn.co.kr": {
-      "outdated": 3
+      "outdated": 2
     },
     "포인트데일리": {
       "outdated": 2
@@ -201,7 +197,7 @@
     "한국경제": {
       "outdated": 4,
       "carry_over_duplicate": 2,
-      "not_selected": 4
+      "not_selected": 3
     },
     "edaily.co.kr": {
       "outdated": 1
@@ -228,7 +224,7 @@
     "MSCI": {
       "outdated": 1
     },
-    "Institute for Energy Economics and Financial Analysis (IEEFA)": {
+    "IEEFA | Institute for Energy Economics and Financial Analysis": {
       "outdated": 1
     },
     "ASEAN Centre for Energy": {
@@ -266,19 +262,22 @@
     },
     "마켓인": {
       "carry_over_duplicate": 3,
+      "duplicate_title": 1,
       "outdated": 2,
-      "not_selected": 4
+      "not_selected": 5
     },
     "연합뉴스 한민족센터": {
-      "carry_over_duplicate": 4,
-      "duplicate_dedupe_key": 1,
+      "carry_over_duplicate": 3,
       "semantic_duplicate": 1,
-      "not_selected": 3
+      "not_selected": 2
     },
     "남도일보": {
       "carry_over_duplicate": 1
     },
     "SBS Biz": {
+      "carry_over_duplicate": 1
+    },
+    "Just Security": {
       "carry_over_duplicate": 1
     },
     "Industrial Cyber": {
@@ -290,19 +289,12 @@
     "Boston Consulting Group": {
       "outdated": 1
     },
-    "Just Security": {
-      "carry_over_duplicate": 1
-    },
     "Apple": {
       "duplicate_dedupe_key": 1,
       "not_selected": 1
     },
     "Stock Titan": {
       "carry_over_duplicate": 1
-    },
-    "NVIDIA Newsroom": {
-      "duplicate_dedupe_key": 1,
-      "not_selected": 2
     },
     "KBS 뉴스": {
       "carry_over_duplicate": 1
@@ -317,6 +309,9 @@
     "TradingView": {
       "duplicate_title": 1
     },
+    "MarketBeat": {
+      "duplicate_dedupe_key": 1
+    },
     "Chosunbiz": {
       "outdated": 1
     },
@@ -330,7 +325,7 @@
     "한국무역협회-KITA.NET": {
       "carry_over_duplicate": 2,
       "outdated": 1,
-      "not_selected": 2
+      "not_selected": 3
     },
     "Information Technology and Innovation Foundation": {
       "outdated": 2
@@ -350,7 +345,7 @@
     "Congressman Michael McCaul (.gov)": {
       "outdated": 1
     },
-    "Center for a New American Security": {
+    "cnas.org": {
       "outdated": 1
     },
     "China-US Focus": {
@@ -362,25 +357,21 @@
     "한겨레": {
       "duplicate_title": 1,
       "carry_over_duplicate": 1,
-      "semantic_duplicate": 1
+      "semantic_duplicate": 1,
+      "not_selected": 2
     },
     "연합인포맥스": {
       "carry_over_duplicate": 1,
       "outdated": 4,
       "duplicate_dedupe_key": 1,
-      "not_selected": 4
-    },
-    "대한일보": {
-      "duplicate_dedupe_key": 1
+      "not_selected": 2,
+      "validation_dropped": 1
     },
     "ARLnow": {
       "carry_over_duplicate": 1
     },
     "WKAR": {
       "carry_over_duplicate": 1
-    },
-    "Fortune": {
-      "outdated": 1
     },
     "이코리아": {
       "carry_over_duplicate": 1
@@ -401,28 +392,28 @@
     "더에이아이": {
       "outdated": 1
     },
+    "IAPP": {
+      "outdated": 1
+    },
+    "Inside Global Tech": {
+      "outdated": 1
+    },
     "promarket.org": {
       "outdated": 1
     },
     "Tech Xplore": {
       "outdated": 1
     },
-    "Tech Policy Press": {
+    "Stanford HAI": {
       "outdated": 1
     },
-    "WilmerHale": {
+    "Tech Policy Press": {
       "outdated": 1
     },
     "U.S. Senate (.gov)": {
       "outdated": 1
     },
-    "City of Boise": {
-      "outdated": 1
-    },
-    "The National Law Review": {
-      "outdated": 1
-    },
-    "Mayer Brown": {
+    "Polytechnique Insights": {
       "outdated": 1
     },
     "SOC Prime": {
@@ -440,6 +431,9 @@
     "ktnv.com": {
       "carry_over_duplicate": 1
     },
+    "Rescana": {
+      "outdated": 1
+    },
     "The Cloudflare Blog": {
       "outdated": 1
     },
@@ -455,9 +449,6 @@
     "Crowell & Moring LLP": {
       "outdated": 1
     },
-    "Palo Alto Networks": {
-      "outdated": 1
-    },
     "인베스트조선": {
       "excluded_keyword": 1
     },
@@ -468,16 +459,10 @@
     "AlleyWatch": {
       "hard_excluded_keyword": 1
     },
-    "OpenAI": {
-      "duplicate_title": 1
-    },
     "The Tech Buzz": {
       "carry_over_duplicate": 1
     },
     "marketplace.org": {
-      "outdated": 1
-    },
-    "Crunchbase News": {
       "outdated": 1
     },
     "무등뉴스": {
@@ -535,12 +520,12 @@
       "outdated": 1
     },
     "itworld.co.kr": {
-      "not_selected": 1
+      "outdated": 1
+    },
+    "블로터": {
+      "semantic_duplicate": 1
     },
     "Edge Industry Review": {
-      "not_selected": 1
-    },
-    "KY3": {
       "not_selected": 1
     },
     "Cybercrime Magazine": {
@@ -552,34 +537,34 @@
     "GlobeNewswire": {
       "not_selected": 1
     },
-    "WIRED": {
-      "not_selected": 2
-    },
     "ING THINK economic and financial analysis | ING THINK": {
       "not_selected": 1
     },
+    "WIRED": {
+      "not_selected": 2
+    },
+    "NVIDIA Newsroom": {
+      "not_selected": 2
+    },
     "Forbes": {
+      "not_selected": 2
+    },
+    "Barron's": {
       "not_selected": 2
     },
     "Benzinga": {
       "not_selected": 1
     },
     "Investing.com 한국어": {
-      "not_selected": 6
+      "not_selected": 8
     },
     "디일렉": {
       "not_selected": 2
-    },
-    "Barron's": {
-      "not_selected": 1
     },
     "CX Today": {
       "not_selected": 1
     },
     "Central Nebraska Today": {
-      "not_selected": 1
-    },
-    "Inside Climate News": {
       "not_selected": 1
     },
     "El Paso Times": {
@@ -590,6 +575,12 @@
     },
     "Business Insider": {
       "not_selected": 1
+    },
+    "Crunchbase News": {
+      "not_selected": 1
+    },
+    "Vietnam.vn": {
+      "not_selected": 2
     },
     "DealSite경제TV": {
       "not_selected": 1
@@ -609,18 +600,18 @@
   },
   "categories": {
     "에너지": 3,
-    "국제": 4,
-    "경제": 5,
     "기술": 1,
+    "국제": 3,
+    "경제": 5,
     "정책": 5
   },
   "importanceDistribution": {
-    "2": 13,
+    "2": 12,
     "4": 4,
     "3.5": 1
   },
   "topDiversity": {
-    "uniqueSources": 15,
+    "uniqueSources": 12,
     "uniqueCategories": 5,
     "maxPerSource": 2
   }
