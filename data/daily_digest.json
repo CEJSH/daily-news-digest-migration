@@ -3,62 +3,26 @@
   "selectionCriteria": "① 내일도 영향이 남는 이슈 ② 과도한 감정 소모 제외 ③ 어제와 중복되는 뉴스 제외",
   "editorNote": "이 뉴스는 클릭 수가 아니라 오늘 이후에도 남는 정보만 기준으로 편집했습니다.",
   "question": "정보를 덜 보는 것이 오히려 더 똑똑한 소비일까?",
-  "lastUpdatedAt": "2026-03-02T21:53:08.616+09:00",
+  "lastUpdatedAt": "2026-03-02T22:59:08.181+09:00",
   "items": [
     {
       "id": "2026-03-02_1",
       "date": "2026-03-02",
-      "category": "기술",
-      "title": "아마존 AWS, UAE 데이터 센터가 '물체'에 부딪힌 후 장애 발생",
-      "summary": [
-        "아마존의 AWS는 UAE 데이터 센터가 '물체'에 부딪힌 후 장애가 발생했다고 발표했습니다.",
-        "이번 사고로 인해 AWS 서비스에 차질이 발생했습니다."
-      ],
-      "whyImportant": "UAE 데이터 센터의 장애는 아마존의 클라우드 서비스에 영향을 미칩니다.",
-      "importanceRationale": "근거: UAE 데이터 센터의 장애는 아마존의 클라우드 서비스의 가용성에 직접적인 영향을 미치며, 이는 해당 지역의 기업 및 사용자들에게 광범위한 영향을 줄 수 있습니다.",
-      "impactSignals": [
-        {
-          "label": "infra",
-          "evidence": "데이터 센터 인프라에 문제가 발생하여 서비스 중단이 발생했습니다."
-        }
-      ],
-      "dedupeKey": "amazon_aws_uae_outage_2024",
-      "clusterKey": "클라우드/after",
-      "matchedTo": null,
-      "sourceName": "Reuters",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObEZGODhUazJocmh0R05fQTZQbjMxS01KYXJITXhFX2lJTGdVSEF2aDdHMTFqemVTOHlscUFNaHBkMFBSR1YzZEtETzZ1Y2EzdWVoZW11UkFvOTNGUFlkVURwcGJ4bkxBTjZMSmpPRm4yUjhna2o4dUc0MWUyWnEteE1aWk9MN0UySUV4Y0ZBUTllQXIyNTFFOUlyWU5vZkRULWFLVWtyRzlIWjV4aHduRE5uU2dwUUdJUHgtVmdtdDFlWTBMVkE?oc=5",
-      "publishedAt": "2026-03-02T06:48:46.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 3.5,
-      "importanceRaw": 63,
-      "qualityLabel": "ok",
-      "qualityReason": "기사에 명확한 정보가 포함되어 있습니다.",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-03-02_2",
-      "date": "2026-03-02",
       "category": "에너지",
-      "title": "캐나다 캐피탈파워, 청정 에너지 규제 중단 로비...AI 데이터센터 기후 위기 가속화",
+      "title": "캐나다 전력회사 캐피탈파워, 청정 에너지 규제 중단 로비...AI 데이터센터 기후 위기 가속화",
       "summary": [
         "캐나다 전력회사 캐피탈파워가 청정 에너지 규제 중단을 위한 로비를 진행하고 있습니다.",
-        "이는 AI 데이터센터로 인한 기후 위기를 가속화할 수 있다는 우려를 낳고 있습니다."
+        "이는 AI 데이터센터의 증가로 인한 기후 위기를 가속화할 수 있다는 우려를 낳고 있습니다."
       ],
-      "whyImportant": "캐피탈파워의 로비 활동은 캐나다의 청정 에너지 정책에 영향을 미칠 수 있으며, AI 데이터센터의 에너지 소비 증가와 관련된 환경 문제에 대한 논쟁을 불러일으킬 수 있습니다.",
-      "importanceRationale": "근거: 캐피탈파워의 로비 활동은 정책(policy) 변화를 시도하며, 이는 AI 데이터센터 건설 투자(capex)와 관련된 에너지 규제에 직접적인 영향을 줄 수 있기 때문입니다.",
+      "whyImportant": "캐피탈파워의 로비 활동은 캐나다의 청정 에너지 정책에 영향을 미칠 수 있으며, AI 데이터센터의 에너지 소비 증가와 관련된 환경 문제에 대한 논쟁을 심화시킬 수 있습니다.",
+      "importanceRationale": "근거: 캐피탈파워는 캐나다의 주요 전력 회사로서, 이 회사의 정책 결정은 캐나다 전력 시장 전체에 영향을 줄 수 있습니다. 특히 AI 데이터센터의 에너지 소비 증가는 전력 수요 증가와 탄소 배출량 증가로 이어질 수 있어 환경적인 중요성이 높습니다.",
       "impactSignals": [
         {
           "label": "policy",
-          "evidence": "캐피탈파워의 로비 활동은 청정 에너지 규제 중단을 목표로 함."
-        },
-        {
-          "label": "capex",
-          "evidence": "AI 데이터센터 건설과 관련된 에너지 규제에 영향을 미칠 수 있음."
+          "evidence": "캐피탈파워의 로비 활동은 캐나다의 청정 에너지 규제 정책에 직접적인 영향을 줄 수 있습니다."
         }
       ],
-      "dedupeKey": "캐피탈파워_청정에너지_규제_중단_로비",
+      "dedupeKey": "캐나다 전력회사 캐피탈파워, 청정 에너지 규제 중단 로비...AI데이터센터 기후위기 가속화",
       "clusterKey": "에너지/규제",
       "matchedTo": null,
       "sourceName": "공정뉴스",
@@ -66,10 +30,37 @@
       "publishedAt": "2026-03-02T00:57:32.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 3.5,
-      "importanceRaw": 63,
+      "importance": 4,
+      "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 간결하게 요약되었습니다.",
+      "qualityReason": "기사 제목과 텍스트가 일치하며, 내용이 간결하고 명확합니다.",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-03-02_2",
+      "date": "2026-03-02",
+      "category": "국제",
+      "title": "아마존, 스페인에 데이터 센터 및 AI 투자로 210억 달러 추가 투자",
+      "summary": [
+        "아마존이 스페인에 데이터 센터와 인공지능(AI) 투자를 위해 210억 달러를 추가 투자할 예정이다.",
+        "이번 투자는 스페인의 디지털 인프라 강화에 기여할 것으로 예상된다."
+      ],
+      "whyImportant": "아마존의 대규모 투자는 스페인의 기술 경쟁력 강화와 경제 성장에 중요한 영향을 미칠 수 있다.",
+      "importanceRationale": "근거: 아마존이 스페인에 데이터 센터 및 AI 분야에 210억 달러를 추가 투자하는 것은 상당한 규모이며, 이는 스페인의 디지털 경제 발전에 큰 영향을 줄 수 있다.",
+      "impactSignals": [],
+      "dedupeKey": "amazon_spain_21b_investment",
+      "clusterKey": "additional",
+      "matchedTo": null,
+      "sourceName": "Reuters",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVVVmb0lZdVhGbElwd3Fzejl2RXJWYkJhVzJxb3B5d1hrZ0taYXd3XzBSMmYyeVVSZDBBa0o3VTJ3Q1VkaWozNGlFNUJzeFQ2LTMzQTdhQUhJLW1rM0NQTFByMGJQOGhUZ3p2bElGTzZ3WFJJSVNVd1l1SDhWaUdJNThRUkJZQ2V3LW1SQVhPVU5WWlNBbnNFOF9vV2RHa1dOY2RiQlpJd3JtWHF1TTB1VGNFSzROcFhESmc?oc=5",
+      "publishedAt": "2026-03-02T11:29:14.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 88,
+      "qualityLabel": "ok",
+      "qualityReason": "기사 내용이 간결하고 명확하며, 정보의 출처가 로이터 통신으로 신뢰할 만함. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -79,12 +70,11 @@
       "category": "경제",
       "title": "삼성 평택 공장, HBM4 생산 거점으로 최대 실적 기대",
       "summary": [
-        "삼성 평택 공장이 HBM4(고대역폭 메모리) 생산 거점으로 최대 실적을 기대하고 있다.",
-        "평택 공장은 HBM4 생산의 핵심 기지 역할을 수행할 예정이다.",
-        "이를 통해 삼성전자는 메모리 시장에서의 경쟁력을 강화할 것으로 예상된다."
+        "삼성 평택 공장이 HBM4(고대역폭 메모리) 생산 거점이 될 것으로 기대된다.",
+        "이를 통해 최대 실적을 달성할 수 있을 것으로 전망된다."
       ],
-      "whyImportant": "삼성 평택 공장이 HBM4 생산의 핵심 기지로 부상하면서 삼성전자의 실적 개선에 기여할 것으로 예상된다.",
-      "importanceRationale": "근거: 삼성 평택 공장이 HBM4 생산 거점이 되어 최대 실적을 기대한다는 기사 내용에 기반함.",
+      "whyImportant": "삼성 평택 공장이 HBM4 생산의 핵심 기지로서 중요한 역할을 할 것으로 예상된다.",
+      "importanceRationale": "근거: 삼성 평택 공장이 HBM4 생산 거점이 되어 최대 실적을 기대할 수 있다는 정보에 기반함.",
       "impactSignals": [],
       "dedupeKey": "samsung-pyeongtaek-hbm4-production",
       "clusterKey": "hbm4",
@@ -97,7 +87,7 @@
       "importance": 2,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "The article is a straightforward report of expectations for Samsung's plant. / 근거부족",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되어 있음. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -107,14 +97,14 @@
       "category": "국제",
       "title": "Wynn, 데이터 침해 관련 최근 소송에 대응",
       "summary": [
-        "Wynn은 데이터 침해에 대한 최근 소송에 대응했습니다."
+        "Wynn은 데이터 침해에 대한 최근 소송에 대응하고 있습니다."
       ],
-      "whyImportant": "데이터 보안 및 개인 정보 보호의 중요성을 강조합니다.",
-      "importanceRationale": "근거: 데이터 침해 소송은 기업의 데이터 보안 정책에 대한 관심과 법적 책임을 강조하며, 유사한 사건에 대한 선례를 만들 수 있습니다.",
+      "whyImportant": "데이터 보안 및 법적 책임 관련 문제",
+      "importanceRationale": "근거: Wynn의 데이터 침해 소송 대응은 기업의 데이터 보안 정책 및 법적 책임에 대한 중요성을 부각합니다.",
       "impactSignals": [
         {
           "label": "security",
-          "evidence": "데이터 침해는 보안 시스템의 취약점을 드러내고, 보안 강화의 필요성을 제기합니다."
+          "evidence": "데이터 침해는 보안 시스템의 취약점을 드러내고, 보안 강화의 필요성을 강조합니다."
         }
       ],
       "dedupeKey": "wynn_data_breach_lawsuit_response",
@@ -135,13 +125,44 @@
     {
       "id": "2026-03-02_5",
       "date": "2026-03-02",
+      "category": "에너지",
+      "title": "카타르, 이란 드론 공격으로 LNG 생산 중단",
+      "summary": [
+        "카타르가 이란의 드론 공격으로 인해 LNG 생산을 중단했다."
+      ],
+      "whyImportant": "카타르의 LNG 생산 중단은 세계 에너지 시장에 영향을 미칠 수 있다.",
+      "importanceRationale": "근거: 카타르는 주요 LNG 생산국이며, 생산 중단은 공급 차질을 야기하여 가격 상승을 유발할 수 있다.",
+      "impactSignals": [
+        {
+          "label": "security",
+          "evidence": "이란 드론 공격으로 인한 카타르 LNG 생산 중단"
+        }
+      ],
+      "dedupeKey": "20240118-카타르-이란-드론-공격-LNG-생산-중단",
+      "clusterKey": "lng",
+      "matchedTo": null,
+      "sourceName": "한국경제",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBVcnFONms1SHBONWI1a3RXTk1aQU9rSDRaQ1pLQjZDa3lxbXk5NEk3d1dyNWtSM0Jxb2F1YlhWWXkyelFYT2tWSzVIOWJqRFVMNGlZUjBQMURUQdIBVEFVX3lxTFBVNVdIU3M3aGR4aXU1VTRtX0lYZkpTR182RUVGWnYzWWNKV0lNZWJIWVlwR1RkbVZSdWRpVGo5SURHbzV0QXpUUWVWN2VFUkNIa2ozag?oc=5",
+      "publishedAt": "2026-03-02T13:38:20.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 4,
+      "importanceRaw": 75,
+      "qualityLabel": "ok",
+      "qualityReason": "기사에 명확한 정보가 포함되어 있음",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-03-02_6",
+      "date": "2026-03-02",
       "category": "국제",
       "title": "중동 체류자 1.7만명…정부, 육로 대피계획 수립",
       "summary": [
         "정부가 중동 체류자 1.7만 명을 위한 육로 대피 계획을 수립했다."
       ],
-      "whyImportant": "정부가 중동 체류자들을 위한 대피 계획을 세웠다는 것은 이 지역의 잠재적 위험에 대한 정부의 인식을 보여준다.",
-      "importanceRationale": "근거: 중동 지역의 불안정성이 높아짐에 따라, 정부가 자국민 보호를 위해 선제적으로 대피 계획을 수립한 것은 중요한 의미를 가진다.",
+      "whyImportant": "정부의 중동 체류자 대피 계획 수립은 중대한 정책 결정이다.",
+      "importanceRationale": "근거: 중동 지역의 불안정성이 높아지는 상황에서 자국민 보호를 위한 정부의 적극적인 대응을 보여준다.",
       "impactSignals": [],
       "dedupeKey": "중동체류자대피계획",
       "clusterKey": "7만명",
@@ -154,22 +175,21 @@
       "importance": 2,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며 간결하게 요약됨. / 근거부족",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약됨. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-03-02_6",
+      "id": "2026-03-02_7",
       "date": "2026-03-02",
       "category": "정책",
       "title": "[뉴스1번지] 미국-이란, 사흘째 군사 충돌…국회, 6일 현안 질의",
       "summary": [
         "미국과 이란이 사흘째 군사적으로 충돌하고 있습니다.",
-        "국회는 6일 현안 질의를 진행할 예정입니다.",
-        "연합뉴스 한민족센터에서 보도했습니다."
+        "국회는 6일 현안 질의를 진행할 예정입니다."
       ],
-      "whyImportant": "미국과 이란의 군사적 충돌과 국내 정치 현안에 대한 논의를 다루고 있습니다.",
-      "importanceRationale": "근거: 미국과 이란의 군사적 충돌은 국제 정세에 중요한 영향을 미치며, 국회의 현안 질의는 국내 정치의 주요 사안을 다루기 때문입니다.",
+      "whyImportant": "미국과 이란의 군사적 충돌과 이에 대한 국회의 현안 질의는 국내외 정치 및 안보에 중요한 영향을 미칠 수 있습니다.",
+      "importanceRationale": "근거: 미국과 이란의 군사적 충돌은 국제 정세 불안을 야기하며, 국회의 현안 질의는 정부의 외교 및 안보 정책에 대한 감시 역할을 수행합니다.",
       "impactSignals": [],
       "dedupeKey": "미국-이란 군사 충돌 및 국회 현안 질의",
       "clusterKey": "6일",
@@ -182,83 +202,29 @@
       "importance": 2,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "기사의 제목과 내용이 일치하며, 간결하게 요약되어 있습니다. / 근거부족",
+      "qualityReason": "제목과 텍스트가 일치하며, 간결하게 요약되었습니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
-    },
-    {
-      "id": "2026-03-02_7",
-      "date": "2026-03-02",
-      "category": "정책",
-      "title": "국회 외통위, 미국 이란 공습 관련 6일 긴급 현안 질의 예정",
-      "summary": [
-        "국회 외교통일위원회가 미국의 이란 공습과 관련하여 6일에 긴급 현안 질의를 진행할 예정입니다.",
-        "이번 질의는 최근 중동 지역의 긴장 고조에 대한 국회의 대응 차원으로 보입니다."
-      ],
-      "whyImportant": "미국과 이란 간의 갈등이 고조되는 상황에서 한국 국회가 긴급 현안 질의를 통해 외교적 해법을 모색할 수 있다는 점이 중요합니다.",
-      "importanceRationale": "근거: 외통위의 긴급 현안 질의는 한반도 안보 및 경제에 미칠 수 있는 잠재적 영향을 고려하여 정부의 외교적 노력을 촉구하는 계기가 될 수 있습니다.",
-      "impactSignals": [],
-      "dedupeKey": "20240105-국회 외통위, 美 이란 공습에 6일 긴급 현안질의",
-      "clusterKey": "6일",
-      "matchedTo": null,
-      "sourceName": "연합뉴스 한민족센터",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBRZnltNDZGVDN6UEdpLUNxVl9UME51OS1yeS1UejVIOEw4ZnJzYXJJdWJuNmxrcGRURWl2STZZNkwxTlhxdEg3SXZlVXJ5TTFKU1h3YlpFc1RNNmNXemUyVnVyaGNhWlBrTGRuT1kwLTJyajI2?oc=5",
-      "publishedAt": "2026-03-02T06:09:24.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 63,
-      "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 내용이 일치하며, 간결하게 요약되어 있습니다. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": true
     },
     {
       "id": "2026-03-02_8",
-      "date": "2026-03-02",
-      "category": "국제",
-      "title": "한·싱가포르, 통상·원전 협력 강화…FTA 개선협상 개시 합의",
-      "summary": [
-        "한국과 싱가포르가 통상 및 원자력 발전 협력을 강화한다.",
-        "양국은 자유무역협정(FTA) 개선 협상 개시에도 합의했다."
-      ],
-      "whyImportant": "이번 협력 강화는 양국 간 경제 관계를 더욱 공고히 하고, 새로운 협력 기회를 창출할 수 있다는 점에서 중요합니다.",
-      "importanceRationale": "근거: 한·싱가포르 FTA 개선 협상 개시 합의는 양국 간 무역 장벽을 낮추고 경제 협력을 증진시킬 수 있는 중요한 정책적 변화를 의미합니다.",
-      "impactSignals": [],
-      "dedupeKey": "20240614-한·싱가포르, 통상·원전 협력 강화…FTA 개선협상 개시 합의",
-      "clusterKey": "에너지/fta",
-      "matchedTo": null,
-      "sourceName": "한국경제",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBfOTdUNHJCQU9heVRmUWw4ZWhod0VRdldUNDB5SjVJLW0xc2ltOFdkbUpoaHdMTGlsSHN0TGZ0dElGWGRkV0lSZTFVUFZpUHZGcXB5VDlNZV9PUdIBVEFVX3lxTFBzakxLRm4tYjByamlnbi1aQmtvd1d3YUs2OHYzc0tfQ1ljUUUwSWZYaFNIeUlQOFRmTkw1OHVxcTR0TWd4YXV0UGZuaUs3YkdqNFZHOQ?oc=5",
-      "publishedAt": "2026-03-02T06:04:03.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 75,
-      "qualityLabel": "ok",
-      "qualityReason": "기사 내용이 명확하고 간결하며, 핵심 정보를 잘 전달하고 있습니다. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-03-02_9",
       "date": "2026-03-02",
       "category": "경제",
       "title": "유가 100달러 전망, 삼성전자·SK하이닉스 주가에 미칠 영향",
       "summary": [
         "KBS 뉴스에 따르면 유가가 100달러까지 오를 것이라는 전망이 나왔다.",
         "이는 삼성전자와 SK하이닉스의 주가에 영향을 미칠 수 있다.",
-        "자세한 내용은 뉴스 기사를 통해 확인할 수 있다."
+        "자세한 내용은 뉴스에서 확인할 수 있다."
       ],
-      "whyImportant": "유가 상승 전망이 국내 주요 기술 기업의 주가에 미칠 잠재적 영향 분석",
-      "importanceRationale": "근거: 유가 상승은 생산 비용 증가 및 수요 변화를 통해 기업 수익성에 영향을 줄 수 있으며, 특히 에너지 소비가 많은 반도체 산업의 삼성전자와 SK하이닉스에 대한 투자 심리에 영향을 줄 수 있기 때문임.",
+      "whyImportant": "유가 상승이 국내 주요 기술 기업의 주가에 미치는 잠재적 영향 분석",
+      "importanceRationale": "근거: 유가 상승 전망이 삼성전자와 SK하이닉스 주가에 미칠 수 있는 영향을 분석하므로 중요도가 높음.",
       "impactSignals": [
         {
           "label": "market-demand",
-          "evidence": "유가 상승이 소비 심리를 위축시켜 전반적인 시장 수요에 영향을 줄 수 있음"
+          "evidence": "유가 상승이 시장 수요에 미치는 잠재적 영향"
         }
       ],
-      "dedupeKey": "oil_price_impact_on_samsung_sk_hynix",
+      "dedupeKey": "oil_price_100_samsung_skhynix",
       "clusterKey": "100달러",
       "matchedTo": null,
       "sourceName": "KBS 뉴스",
@@ -269,48 +235,21 @@
       "importance": 3.5,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 간결하게 요약됨.",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약됨.",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-03-02_10",
+      "id": "2026-03-02_9",
       "date": "2026-03-02",
       "category": "기술",
-      "title": "이란 공격으로 인해 바레인, UAE 데이터 센터에서 문제 발생",
-      "summary": [
-        "아마존 클라우드 부문은 이란의 공격으로 인해 바레인과 UAE 데이터 센터에서 문제가 발생했다고 밝혔습니다.",
-        "데이터 센터의 정확한 피해 규모는 아직 알려지지 않았습니다."
-      ],
-      "whyImportant": "데이터 센터 운영에 차질이 생기면 클라우드 서비스를 이용하는 기업과 개인에게 광범위한 영향을 미칠 수 있습니다.",
-      "importanceRationale": "근거: 아마존 클라우드 서비스는 전 세계적으로 널리 사용되고 있으며, 데이터 센터 문제는 서비스 중단으로 이어질 수 있기 때문입니다.",
-      "impactSignals": [],
-      "dedupeKey": "amazon-bahrain-uae-iran-strikes",
-      "clusterKey": "클라우드/amazon",
-      "matchedTo": null,
-      "sourceName": "The Times of Israel",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNeVFOVmlxQXYwR0YycG5aUVBSMGRsc3hiYTA1ajBrSEhRYllxeGN1c1ZHX3pielVwcW1QckRLY2pVNHJ0RkhwR3JEMlB4a0o3SEdqc2VETkI0cEQtdGxrSktmUUNkdEFhNFFfT19wQXlsbGNQRnMtQjZqT1R6S1lJdXBvWG4tZVJVOUVnNkVwSDdxY2xIbEoycEFXaGZ1VVJLMUZXaUhGZnlKcXo3M05oTUFIbjU4Y1laRzBMWWpHUQ?oc=5",
-      "publishedAt": "2026-03-02T07:02:41.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 63,
-      "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 내용이 간결하고 명확합니다. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-03-02_11",
-      "date": "2026-03-02",
-      "category": "경제",
       "title": "VC, AI SaaS 펀딩에서 금지선 설정: 현재 투자 제외 대상",
       "summary": [
         "벤처 캐피털(VC)이 AI SaaS 펀딩에서 투자 제외 대상을 명확히 하고 있습니다.",
-        "특정 기준을 설정하여 투자 결정을 내리고 있습니다."
+        "이는 기술 업계의 중요한 변화를 의미합니다."
       ],
-      "whyImportant": "AI SaaS 분야 투자 트렌드 변화를 파악할 수 있습니다.",
-      "importanceRationale": "근거: VC의 투자 기준 변화는 AI SaaS 시장의 성장 방향과 투자 전략에 중요한 영향을 미칩니다.",
+      "whyImportant": "AI SaaS 분야 투자에 대한 VC의 신중한 접근 방식을 보여줍니다.",
+      "importanceRationale": "근거: VC의 투자 기준 변화는 AI SaaS 시장의 성장과 방향성에 중요한 영향을 미칠 수 있습니다.",
       "impactSignals": [],
       "dedupeKey": "VCDrawRedLinesInAISaaSFundingNow",
       "clusterKey": "draw",
@@ -323,12 +262,12 @@
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 내용이 일치하며, 핵심 내용을 요약했습니다. / 근거부족",
+      "qualityReason": "제목과 본문이 일치하며, 정보가 명확합니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-03-02_12",
+      "id": "2026-03-02_10",
       "date": "2026-03-02",
       "category": "기술",
       "title": "건강 보험 기술 제공업체 TriZetto, 2024년 데이터 침해로 3백만 명 이상 피해",
@@ -337,7 +276,7 @@
         "이번 침해는 Recorded Future News에서 보도했습니다."
       ],
       "whyImportant": "TriZetto의 데이터 침해는 개인 정보 보호 및 보안에 대한 우려를 제기합니다.",
-      "importanceRationale": "근거: 3백만 명 이상의 개인 정보가 침해되었으며, 이는 상당한 규모의 보안 사고입니다.",
+      "importanceRationale": "근거: 3백만 명 이상의 개인 정보가 침해되었을 가능성이 있으며, 이는 상당한 규모의 보안 사고입니다.",
       "impactSignals": [
         {
           "label": "security",
@@ -355,12 +294,44 @@
       "importance": 4,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "뉴스 보도에 기반한 사실 정보 제공",
+      "qualityReason": "The article provides a clear and concise summary of the data breach.",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-03-02_13",
+      "id": "2026-03-02_11",
+      "date": "2026-03-02",
+      "category": "경제",
+      "title": "Chart (NYSE:GTLS), 2025년 4분기 실적 발표에서 분석가 예상치를 밑도는 매출 보고",
+      "summary": [
+        "Chart (NYSE:GTLS)는 2025년 4분기 실적 발표에서 매출이 분석가 예상치를 하회했다고 발표했습니다.",
+        "TradingView에 따르면 Chart의 매출은 예상치를 밑돌았습니다."
+      ],
+      "whyImportant": "매출이 예상치를 하회한 것은 투자자와 시장에 중요한 신호입니다.",
+      "importanceRationale": "근거: 매출 부진은 기업의 성장 둔화 또는 시장 수요 감소를 의미할 수 있으며, 이는 주가에 부정적인 영향을 미칠 수 있습니다.",
+      "impactSignals": [
+        {
+          "label": "market-demand",
+          "evidence": "매출 부진은 시장 수요 감소를 의미할 수 있음"
+        }
+      ],
+      "dedupeKey": "GTLS_Q42025_Earnings",
+      "clusterKey": "analyst",
+      "matchedTo": null,
+      "sourceName": "TradingView",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNb0RfdnExSjZReS1IZS1iUWxOMHZRTkNKclVfQmZJN1dJQlNLTW9pT2YwNllLbTBRZlQ2UnVvcFU1aVAyeTVDbkg0YXAyeG9zY0hYbHRRd0kxb0tWUmZjaTVPUkNJbG94MV9jaWxCTjJGSzdPNVNLaGR0QTMwcy15LWZoMVIydmNfRlUzNVY0ZmhtYjlYblNCQVRORGY2RFRYbE5WWmdSd2FHWm1xOE9tRS1qczE2czducVdUM0pKMENaOWNOeU1pOElKQmFMR3djV3c?oc=5",
+      "publishedAt": "2026-03-02T12:44:03.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 3.5,
+      "importanceRaw": 63,
+      "qualityLabel": "ok",
+      "qualityReason": "기사에 제공된 정보는 명확하고 간결합니다.",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-03-02_12",
       "date": "2026-03-02",
       "category": "정책",
       "title": "[영상 뉴스] '전남광주통합특별시 특별법' 국회 통과, 강기정 시장 입장 발표",
@@ -368,8 +339,8 @@
         "전남광주통합특별시 특별법이 국회를 통과했습니다.",
         "강기정 광주시장이 이에 대한 입장을 발표했습니다."
       ],
-      "whyImportant": "전남과 광주 지역의 통합에 대한 법적 근거가 마련되어 지역 발전에 영향을 줄 수 있습니다.",
-      "importanceRationale": "근거: '전남광주통합특별시 특별법'의 국회 통과는 지역 통합 및 발전에 중요한 정책적 변화를 의미합니다.",
+      "whyImportant": "전남과 광주 지역의 통합에 대한 법적 근거가 마련되어 향후 지역 발전 및 통합 논의에 중요한 영향을 미칠 수 있습니다.",
+      "importanceRationale": "근거: '전남광주통합특별시 특별법'의 국회 통과는 정책 결정에 중요한 변화를 의미하며, 강기정 시장의 입장 발표는 향후 통합 과정에 대한 방향성을 제시할 수 있기 때문입니다.",
       "impactSignals": [],
       "dedupeKey": "전남광주통합특별시 특별법 국회 통과",
       "clusterKey": "강기정시장",
@@ -382,47 +353,21 @@
       "importance": 2,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었습니다. / 근거부족",
+      "qualityReason": "제목과 내용이 일치하며, 뉴스 기사의 핵심 내용을 요약적으로 잘 전달하고 있습니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-03-02_14",
-      "date": "2026-03-02",
-      "category": "정책",
-      "title": "행정통합, 여야 대립에 대구시·경상북도 국회 협조 요청",
-      "summary": [
-        "대구시와 경상북도는 행정통합에 대한 여야의 대립에 국회의 대승적인 협조를 요청했다."
-      ],
-      "whyImportant": "대구시와 경상북도의 행정통합 추진에 있어 국회의 협조가 중요한 변수가 될 수 있음을 시사한다.",
-      "importanceRationale": "근거: 행정통합은 관련 법률 제정 및 예산 확보 등 국회의 협력이 필수적이기 때문이다.",
-      "impactSignals": [],
-      "dedupeKey": "20240612-행정통합-여야-대립",
-      "clusterKey": "경북도",
-      "matchedTo": null,
-      "sourceName": "한겨레",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9DcXg4R1lLczhTdUc5RnlhNGhEN3dxTVpZYWNUa2ltYnl2aTFwUlcxSXNITzFvaDZEVDRGRDI3MVZIdHBxT09yZGRvd2I5ZnVSUGVDMVZjZzJncnU1MjN3cEFZUEQ?oc=5",
-      "publishedAt": "2026-03-02T07:51:00.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 63,
-      "qualityLabel": "ok",
-      "qualityReason": "기사 내용이 간결하고 명확하게 전달됨. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-03-02_15",
+      "id": "2026-03-02_13",
       "date": "2026-03-02",
       "category": "국제",
       "title": "이 대통령, 싱가포르 총리와 정상회담…20년 된 FTA 개선 협상 개시",
       "summary": [
         "이 대통령은 싱가포르 총리와 정상회담을 가졌다.",
-        "양국은 20년 된 FTA 개선 협상 개시를 논의했다."
+        "양국은 20년 된 FTA 개선 협상을 개시하기로 했다."
       ],
-      "whyImportant": "한-싱가포르 FTA 개선 협상 개시는 양국 간의 경제 협력을 강화하고 무역 관계를 발전시키는 데 중요한 계기가 될 수 있다.",
-      "importanceRationale": "근거: 20년 된 FTA 개선 협상 개시는 양국 간의 무역 장벽을 낮추고 새로운 경제 협력 기회를 창출할 수 있기 때문이다.",
+      "whyImportant": "한-싱가포르 FTA 개선 협상 개시는 양국 간 경제 협력을 강화하는 중요한 계기가 될 수 있다.",
+      "importanceRationale": "근거: 20년 된 FTA 개선 협상 개시는 무역 장벽을 낮추고 새로운 경제 협력 기회를 창출할 수 있기 때문이다.",
       "impactSignals": [],
       "dedupeKey": "lee-singapore-fta-negotiation",
       "clusterKey": "20년",
@@ -435,22 +380,22 @@
       "importance": 2,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "기사 내용이 명확하고 간결하며, 핵심 정보를 잘 전달하고 있다. / 근거부족",
+      "qualityReason": "기사 제목과 내용이 일치하며, 간결하게 요약되어 있음. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-03-02_16",
+      "id": "2026-03-02_14",
       "date": "2026-03-02",
       "category": "정책",
       "title": "국회예산정책처, 설탕 부담금이 대체당 및 고열량 제품의 풍선 효과를 유발할 수 있다고 경고",
       "summary": [
-        "국회예산정책처는 설탕 부담금이 대체당 사용 증가 및 고열량 제품 소비를 촉진할 수 있다고 분석했다.",
-        "이는 설탕 소비 감소를 목표로 하는 정책의 의도치 않은 결과로 이어진다는 지적이다.",
-        "예정처는 정책의 효과와 부작용을 면밀히 검토해야 한다고 강조했다."
+        "국회예산정책처는 설탕 부담금이 대체당 사용 증가 및 고열량 제품 소비 확대로 이어질 수 있다고 분석했습니다.",
+        "이는 설탕 소비 감소 효과를 상쇄하고, 새로운 건강 문제를 야기할 수 있다는 우려를 제기합니다.",
+        "예정처는 정책 설계 시 이러한 풍선 효과를 고려해야 한다고 강조했습니다."
       ],
-      "whyImportant": "설탕 부담금 정책의 잠재적 부작용에 대한 국회예산정책처의 분석은 정책 결정에 중요한 시사점을 제공한다.",
-      "importanceRationale": "근거: 설탕 부담금 정책이 의도와 달리 대체당 소비 증가나 고열량 제품 소비 증가를 유발할 수 있다는 점은 정책 효과를 저해할 수 있는 중요한 요소이다.",
+      "whyImportant": "설탕 부담금 정책의 잠재적 부작용에 대한 경고",
+      "importanceRationale": "근거: 국회예산정책처의 분석은 설탕 부담금 정책이 의도치 않은 결과를 초래할 수 있음을 지적하며, 정책 결정에 중요한 고려 사항을 제시합니다.",
       "impactSignals": [],
       "dedupeKey": "국회예산정책처_설탕부담금_풍선효과",
       "clusterKey": "고열량",
@@ -463,48 +408,78 @@
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "기사 내용이 명확하고, 정책 분석에 대한 정보를 제공한다. / 근거부족",
+      "qualityReason": "기사의 내용이 명확하고, 핵심 주장이 분명함 / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-03-02_15",
+      "date": "2026-03-02",
+      "category": "국제",
+      "title": "의료 데이터 침해 통계 동향",
+      "summary": [
+        "HIPAA 저널에 따르면 의료 데이터 침해 통계에 추세가 나타나고 있습니다."
+      ],
+      "whyImportant": "의료 데이터 침해는 환자 정보 유출로 이어질 수 있어 중요합니다.",
+      "importanceRationale": "근거: 의료 데이터 침해는 개인 정보 보호 및 보안에 직접적인 영향을 미치기 때문입니다.",
+      "impactSignals": [
+        {
+          "label": "security",
+          "evidence": "Healthcare data breach statistics indicate trends in security vulnerabilities."
+        }
+      ],
+      "dedupeKey": "healthcare_data_breach_trends",
+      "clusterKey": "breach",
+      "matchedTo": null,
+      "sourceName": "The HIPAA Journal",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9PMzZZbVJzWV9lV0JPWXBJOW9BSmI2eElLWHNxWVAtTkhyNnoydUdqTDRnNzE0X056UTE2WW9nakR1UTkxR0ZzX3pMVmdqb2Vjb095eHpIM1Bva0UtTXphRnh5bkpuaDBNQWNvamd5Z2E?oc=5",
+      "publishedAt": "2026-02-26T08:00:00.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 3.5,
+      "importanceRaw": 63,
+      "qualityLabel": "ok",
+      "qualityReason": "The article provides a factual statement about healthcare data breach statistics.",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-03-02_16",
+      "date": "2026-03-02",
+      "category": "정책",
+      "title": "국회 및 인민대표대회 선거: 통합 강화, 발전 시대의 획을 긋다",
+      "summary": [
+        "국회 및 인민대표대회 선거가 통합 강화와 발전 시대에 중요한 획을 긋고 있다."
+      ],
+      "whyImportant": "이 선거는 국가 통합을 강화하고 발전을 촉진하는 데 중요한 역할을 한다.",
+      "importanceRationale": "근거: 선거가 통합 강화와 발전 시대에 획을 긋는다고 명시적으로 언급됨.",
+      "impactSignals": [],
+      "dedupeKey": "국회 및 인민대표대회 선거: 통합 강화, 발전의 시대에 한 획을 긋다",
+      "clusterKey": "강화",
+      "matchedTo": null,
+      "sourceName": "Vietnam.vn",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTWtfYUZUNncxMU5QZEFHaVFxN3lFNVhDS08xQUJLZmNHZmtMcktoTmU4YjY3d0hVQXp2Q21jSW5hSlNRVXo0R19icFctYkc3OHdxR0RLTGJjSTh4ZHY1MDdrNjlNM3RFUHdqM1dnR3dHUlJDNmo2VVBBTGpYb2pJVXpwTGNHOW5vQ3JnZmhNbDcyQmJQczFtN3ZldkJ5c0k?oc=5",
+      "publishedAt": "2026-03-02T13:47:34.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 63,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되어 있음. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-03-02_17",
       "date": "2026-03-02",
-      "category": "경제",
-      "title": "[하메네이 사망] 금융위 \"필요시 100조＋α 시장안정프로그램 시행\" - 한국무역협회",
-      "summary": [
-        "금융위원회는 필요시 100조 원+α 규모의 시장안정 프로그램을 시행할 것이라고 밝혔습니다.",
-        "한국무역협회(KITA)가 관련 내용을 보도했습니다."
-      ],
-      "whyImportant": "금융 시장 안정에 대한 정부의 의지를 보여주는 정책 발표입니다.",
-      "importanceRationale": "근거: 금융위원회의 발표는 시장 불안 심리를 완화하고 투자자 신뢰를 회복하는 데 중요한 역할을 할 수 있습니다.",
-      "impactSignals": [],
-      "dedupeKey": "[하메네이 사망] 금융위 \"필요시 100조＋α 시장안정프로그램 시행\" - 한국무역협회",
-      "clusterKey": "100조",
-      "matchedTo": null,
-      "sourceName": "한국무역협회-KITA.NET",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOYmlQclF6dENYSGg0bEFQMGVNZ2V2dXpBNVkwTlhoLTBHUHFVeU55YzVUWk5WbFR5NTFpYkhyUHJrU1FuenhSenBlU2VWbERFZEtadktGVnp4WGZyRnV5YlBvSzZRR19HNEtaRWpCYUYyRjRycTRmRWZ6Z1c4V3M2eGxKaUVpcjhOTEVLZm1WcXA5SHNTUXk5MGd1NlAwZFNxbG5nZS1SLV9PNU9zSGZteEFhb25JZG5xc3RzbUx1ZWhLTHVLSTVkRHJMWkllMHJGdGt5Vg?oc=5",
-      "publishedAt": "2026-03-02T05:49:07.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 63,
-      "qualityLabel": "ok",
-      "qualityReason": "The article is a brief announcement from a credible source. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-03-02_18",
-      "date": "2026-03-02",
       "category": "국제",
       "title": "장기 소모전 가능성…이번 전쟁 전망은?",
       "summary": [
-        "KBS 뉴스는 이번 전쟁이 장기 소모전으로 이어질 가능성을 제기했다.",
-        "전쟁의 전망에 대한 분석이 보도되었다."
+        "이번 전쟁이 장기 소모전으로 이어질 가능성이 제기됨.",
+        "KBS 뉴스는 이번 전쟁의 전망에 대해 보도함."
       ],
-      "whyImportant": "전쟁의 장기화 가능성은 경제 및 사회 전반에 걸쳐 광범위한 영향을 미칠 수 있다.",
-      "importanceRationale": "근거: 전쟁의 장기화는 기업의 수익성에 부정적인 영향을 줄 수 있으며, 이는 투자 및 고용 감소로 이어질 수 있다.",
+      "whyImportant": "전쟁의 장기화 가능성은 국제 정세 및 경제에 큰 영향을 미칠 수 있습니다.",
+      "importanceRationale": "근거: 전쟁의 장기화는 자원 소모, 경제 제재, 그리고 지정학적 불안정을 심화시켜 세계 경제에 광범위한 영향을 미칠 수 있기 때문입니다.",
       "impactSignals": [],
       "dedupeKey": "장기 소모전 가능성…이번 전쟁 전망은?",
       "clusterKey": "kbs",
@@ -517,7 +492,34 @@
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되어 있습니다. / 근거부족",
+      "qualityReason": "제목과 내용이 일치하며 간결하게 요약됨. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-03-02_18",
+      "date": "2026-03-02",
+      "category": "경제",
+      "title": "OpenAI, 96조 6천억원 규모의 자금 조달 완료, 기업 가치 1,009조원 평가",
+      "summary": [
+        "OpenAI가 1,100억 달러(약 143조 원) 규모의 자금 조달을 마무리했다.",
+        "기업 가치는 7,300억 달러(약 966조 원)로 평가받았다."
+      ],
+      "whyImportant": "OpenAI의 대규모 자금 조달은 AI 기술 개발 경쟁 심화를 의미합니다.",
+      "importanceRationale": "근거: OpenAI의 기업 가치 평가는 AI 산업의 성장 가능성을 보여주며, 이는 관련 정책 및 투자 결정에 영향을 미칠 수 있습니다.",
+      "impactSignals": [],
+      "dedupeKey": "openai_110b_funding_730b_value",
+      "clusterKey": "billion",
+      "matchedTo": null,
+      "sourceName": "Yahoo Finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNRDN0WGQxTXpLOGsxSGZqNlNFWDJiZUhlUmNnQjF4WU5CT2FVaG96NEJxNFBxN2tuR25SdThoQ3d1eUdTYWtCd1lrTmxDZXdrVFM1NmdhaHZ1bXN4WEZsZnpfYlhJQmtxSDBkQk1iZmZXVDBmaloyZi14bU5lQjZEZE0wcHBHallvX0E?oc=5",
+      "publishedAt": "2026-02-27T17:26:17.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 75,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 본문이 일치하며, 정보가 간결하게 제공됨. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     }
