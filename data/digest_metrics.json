@@ -5,43 +5,42 @@
   "totalOut": 17,
   "dropped": 268,
   "dropReasons": {
-    "outdated": 119,
-    "carry_over_duplicate": 29,
+    "outdated": 117,
+    "carry_over_duplicate": 27,
     "hard_excluded_keyword": 5,
-    "duplicate_dedupe_key": 13,
+    "duplicate_dedupe_key": 12,
     "duplicate_title": 6,
     "excluded_keyword": 2,
-    "semantic_duplicate": 2,
-    "not_selected": 92,
+    "semantic_duplicate": 3,
+    "not_selected": 96,
     "validation_dropped": 3
   },
   "impactLabels": {
+    "policy": 1,
     "security": 3,
-    "capex": 2,
     "market-demand": 1
   },
   "sources": {
+    "Stocktwits": 1,
+    "공정뉴스": 1,
     "Fortune": 1,
+    "경기신문": 1,
     "ktnv.com": 1,
     "한국무역협회-KITA.NET": 2,
     "연합뉴스 한민족센터": 2,
-    "한국경제": 1,
+    "한국경제": 2,
     "KBS 뉴스": 1,
-    "Reuters": 1,
     "The Tech Buzz": 1,
     "ABC7 Los Angeles": 1,
     "The Record from Recorded Future News": 1,
-    "투데이신문": 1,
-    "남도일보": 1,
-    "Business Insider": 1,
-    "BBC": 1,
-    "openPR.com": 1
+    "한겨레": 1,
+    "Benzinga": 1
   },
   "topicStats": {
     "IT": {
       "in": 24,
-      "out": 0,
-      "dropped": 24
+      "out": 1,
+      "dropped": 23
     },
     "경제": {
       "in": 30,
@@ -50,8 +49,8 @@
     },
     "글로벌_정세": {
       "in": 24,
-      "out": 3,
-      "dropped": 21
+      "out": 2,
+      "dropped": 22
     },
     "글로벌_빅테크": {
       "in": 18,
@@ -75,8 +74,8 @@
     },
     "AI_저작권_데이터권리": {
       "in": 20,
-      "out": 1,
-      "dropped": 19
+      "out": 0,
+      "dropped": 20
     },
     "보안_취약점_패치": {
       "in": 20,
@@ -90,8 +89,8 @@
     },
     "국내_정책_규제": {
       "in": 15,
-      "out": 2,
-      "dropped": 13
+      "out": 3,
+      "dropped": 12
     },
     "국내_산업_공급망": {
       "in": 15,
@@ -121,11 +120,14 @@
       "outdated": 2
     },
     "인공지능신문": {
-      "outdated": 2
+      "outdated": 1
+    },
+    "뉴스토마토": {
+      "outdated": 1,
+      "not_selected": 4
     },
     "knn.co.kr": {
-      "outdated": 2,
-      "not_selected": 1
+      "outdated": 2
     },
     "스트레이트뉴스": {
       "outdated": 2
@@ -133,16 +135,10 @@
     "부산일보사": {
       "outdated": 1
     },
-    "쿠키뉴스": {
-      "outdated": 1
-    },
-    "KPI뉴스": {
-      "outdated": 1
-    },
-    "더에이아이": {
+    "전자신문": {
       "outdated": 2
     },
-    "아주경제": {
+    "쿠키뉴스": {
       "outdated": 1
     },
     "Rest of World": {
@@ -179,9 +175,6 @@
     "Brookings": {
       "outdated": 1
     },
-    "전자신문": {
-      "outdated": 1
-    },
     "뉴시스": {
       "outdated": 1
     },
@@ -191,7 +184,7 @@
     "한국경제": {
       "outdated": 3,
       "duplicate_title": 1,
-      "not_selected": 4
+      "not_selected": 5
     },
     "한스경제": {
       "outdated": 2
@@ -225,7 +218,8 @@
     },
     "Reuters": {
       "outdated": 2,
-      "carry_over_duplicate": 1
+      "carry_over_duplicate": 1,
+      "validation_dropped": 1
     },
     "MSCI": {
       "outdated": 1
@@ -270,7 +264,7 @@
       "carry_over_duplicate": 2,
       "duplicate_dedupe_key": 2,
       "duplicate_title": 1,
-      "not_selected": 2
+      "semantic_duplicate": 1
     },
     "SBS Biz": {
       "carry_over_duplicate": 1
@@ -294,23 +288,20 @@
     "Apple": {
       "outdated": 1
     },
-    "NVIDIA Newsroom": {
-      "carry_over_duplicate": 1
-    },
-    "Stocktwits": {
+    "Business Insider": {
       "duplicate_dedupe_key": 1
     },
     "meta.com": {
       "outdated": 1
     },
-    "About Amazon": {
+    "OpenAI": {
       "carry_over_duplicate": 1
     },
     "뉴스와이어": {
       "carry_over_duplicate": 1
     },
     "한겨레": {
-      "carry_over_duplicate": 3,
+      "carry_over_duplicate": 2,
       "semantic_duplicate": 1
     },
     "한국무역협회-KITA.NET": {
@@ -318,13 +309,15 @@
       "outdated": 1,
       "not_selected": 2
     },
-    "CNBC": {
-      "carry_over_duplicate": 1,
-      "hard_excluded_keyword": 1,
-      "validation_dropped": 1
+    "NVIDIA Newsroom": {
+      "duplicate_title": 1
     },
     "simplywall.st": {
       "carry_over_duplicate": 1
+    },
+    "CNBC": {
+      "hard_excluded_keyword": 1,
+      "not_selected": 1
     },
     "Finviz": {
       "duplicate_dedupe_key": 1
@@ -364,7 +357,7 @@
     "Congressman Michael McCaul (.gov)": {
       "outdated": 1
     },
-    "Center for a New American Security": {
+    "cnas.org": {
       "outdated": 1
     },
     "China-US Focus": {
@@ -383,7 +376,7 @@
       "outdated": 2,
       "carry_over_duplicate": 1,
       "semantic_duplicate": 1,
-      "not_selected": 3
+      "not_selected": 2
     },
     "디지털데일리": {
       "duplicate_dedupe_key": 1
@@ -417,6 +410,9 @@
       "not_selected": 2
     },
     "포인트경제": {
+      "outdated": 1
+    },
+    "더에이아이": {
       "outdated": 1
     },
     "IAPP": {
@@ -461,9 +457,6 @@
     "The HIPAA Journal": {
       "hard_excluded_keyword": 1
     },
-    "Rescana": {
-      "outdated": 1
-    },
     "The Cloudflare Blog": {
       "outdated": 1
     },
@@ -479,11 +472,11 @@
     "Crowell & Moring LLP": {
       "outdated": 1
     },
+    "Palo Alto Networks": {
+      "outdated": 1
+    },
     "인베스트조선": {
       "excluded_keyword": 1
-    },
-    "OpenAI": {
-      "duplicate_title": 1
     },
     "TechCrunch": {
       "duplicate_dedupe_key": 1
@@ -492,7 +485,7 @@
       "carry_over_duplicate": 1
     },
     "무등뉴스": {
-      "duplicate_dedupe_key": 1
+      "carry_over_duplicate": 1
     },
     "투데이에너지": {
       "outdated": 1
@@ -544,12 +537,6 @@
       "outdated": 1,
       "not_selected": 1
     },
-    "KY3": {
-      "not_selected": 1
-    },
-    "뉴스토마토": {
-      "not_selected": 4
-    },
     "DSV": {
       "not_selected": 1
     },
@@ -559,17 +546,23 @@
     "DefenseScoop": {
       "not_selected": 1
     },
-    "Benzinga": {
+    "BBC": {
       "not_selected": 1
+    },
+    "36 Kr": {
+      "not_selected": 1
+    },
+    "초이스스탁US": {
+      "not_selected": 2
     },
     "ER 이코노믹리뷰": {
       "not_selected": 1
     },
-    "디일렉": {
-      "not_selected": 3
-    },
     "Investing.com 한국어": {
-      "not_selected": 1
+      "not_selected": 2
+    },
+    "디일렉": {
+      "not_selected": 2
     },
     "AXA.com": {
       "not_selected": 1
@@ -578,9 +571,9 @@
       "not_selected": 1
     },
     "에너지경제신문": {
-      "not_selected": 3
+      "not_selected": 2
     },
-    "해사신문": {
+    "한국공공정책신문": {
       "not_selected": 2
     },
     "Forbes": {
@@ -605,7 +598,7 @@
       "validation_dropped": 1
     },
     "__others__": {
-      "not_selected": 38
+      "not_selected": 43
     }
   },
   "breakingSelection": {
@@ -615,20 +608,21 @@
     "selectedShare": 0.0588
   },
   "categories": {
+    "국제": 4,
+    "에너지": 2,
     "경제": 5,
-    "국제": 5,
     "정책": 4,
-    "기술": 3
+    "기술": 2
   },
   "importanceDistribution": {
-    "2": 11,
-    "4": 2,
+    "2": 12,
+    "4": 1,
     "3.5": 3,
     "4.5": 1
   },
   "topDiversity": {
-    "uniqueSources": 15,
-    "uniqueCategories": 4,
+    "uniqueSources": 14,
+    "uniqueCategories": 5,
     "maxPerSource": 2
   }
 }
