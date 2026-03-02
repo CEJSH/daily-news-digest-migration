@@ -3,32 +3,32 @@
   "selectionCriteria": "① 내일도 영향이 남는 이슈 ② 과도한 감정 소모 제외 ③ 어제와 중복되는 뉴스 제외",
   "editorNote": "이 뉴스는 클릭 수가 아니라 오늘 이후에도 남는 정보만 기준으로 편집했습니다.",
   "question": "정보를 덜 보는 것이 오히려 더 똑똑한 소비일까?",
-  "lastUpdatedAt": "2026-03-02T18:44:44.438+09:00",
+  "lastUpdatedAt": "2026-03-02T19:40:57.510+09:00",
   "items": [
     {
       "id": "2026-03-02_1",
       "date": "2026-03-02",
-      "category": "국제",
-      "title": "미국-이란 전쟁 고조 속 파업으로 화재 발생 후 아마존, UAE 데이터 센터 폐쇄: 소매 거래자들은 '기대할 것이 없다'고 전망",
+      "category": "기술",
+      "title": "아마존 AWS, UAE 데이터 센터가 '물체'에 부딪힌 후 장애 발생",
       "summary": [
-        "아마존이 미국-이란 전쟁이 고조되는 가운데 파업으로 인한 화재 발생 후 UAE 데이터 센터를 폐쇄했다.",
-        "소매 거래자들은 이러한 상황에 대해 '기대할 것이 없다'고 보고 있다."
+        "아마존의 AWS는 UAE 데이터 센터가 '물체'에 부딪힌 후 장애가 발생했다고 발표했습니다.",
+        "이번 사고로 인해 AWS 서비스에 차질이 발생했습니다."
       ],
-      "whyImportant": "데이터 센터 폐쇄는 지정학적 리스크와 관련된 사업 운영의 취약성을 보여준다.",
-      "importanceRationale": "근거: 데이터 센터 폐쇄는 사업 연속성에 직접적인 영향을 미치며, 지정학적 불안정이 기업 운영에 미치는 잠재적 위험을 시사한다.",
+      "whyImportant": "UAE 데이터 센터의 장애는 해당 지역의 AWS 서비스에 영향을 미치므로 중요합니다.",
+      "importanceRationale": "근거: 데이터 센터 장애는 클라우드 서비스의 가용성에 직접적인 영향을 미치며, 이는 기업 운영 및 최종 사용자 경험에 부정적인 결과를 초래할 수 있습니다.",
       "impactSignals": [],
-      "dedupeKey": "amazon_uae_datacenter_shutdown_strike_fire",
-      "clusterKey": "after",
+      "dedupeKey": "amazon_aws_uae_outage_objects",
+      "clusterKey": "클라우드/after",
       "matchedTo": null,
-      "sourceName": "Stocktwits",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNd283UlpHT0ZOOUd0d0tOSkQwRF84U3ZDZzE1ZElXSmgxUU9zVXdrYlhqMTlzYWdNZkxyOWVmS3JxUWZ2NF9hMTA4ZjFKOGoxbWN3RV80Qkdyak9kbzlVZzRFZUVfajd6Mi0zWnppTk9LV0pXcGJEMDJDQVlHMGctbDVzRl9sZWtWMzVsWENqRGE4di1zT3hHUzNRMTlxWXFzMHBVemlOMGVxX0MwNTNIOWR3ZDVUVC1TQjZGY0d3T1FhQUVKbEpsblhLYzdaV0JqclZ1ZkU5TE80bE5adE9rXzhuV3RJYlpTZzIzZWhDMWFpZFJmaTZxWnZPZGttWV9iYXhYemo0cUZzbHVwVkF5QTdTeTVfZw?oc=5",
-      "publishedAt": "2026-03-02T03:33:45.000Z",
+      "sourceName": "Reuters",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObEZGODhUazJocmh0R05fQTZQbjMxS01KYXJITXhFX2lJTGdVSEF2aDdHMTFqemVTOHlscUFNaHBkMFBSR1YzZEtETzZ1Y2EzdWVoZW11UkFvOTNGUFlkVURwcGJ4bkxBTjZMSmpPRm4yUjhna2o4dUc0MWUyWnEteE1aWk9MN0UySUV4Y0ZBUTllQXIyNTFFOUlyWU5vZkRULWFLVWtyRzlIWjV4aHduRE5uU2dwUUdJUHgtVmdtdDFlWTBMVkE?oc=5",
+      "publishedAt": "2026-03-02T06:48:00.000Z",
       "readTimeSec": 10,
       "status": "kept",
       "importance": 2,
-      "importanceRaw": 75,
+      "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 정보가 명확하게 제시됨. / 근거부족",
+      "qualityReason": "기사 제목과 내용이 일치하며, 정보가 명확합니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -42,13 +42,8 @@
         "이는 AI 데이터센터의 기후 위기 가속화와 관련이 있습니다."
       ],
       "whyImportant": "캐피탈파워의 로비 활동은 캐나다의 청정 에너지 정책에 영향을 미칠 수 있습니다.",
-      "importanceRationale": "근거: 캐피탈파워는 주요 전력 회사로서, 그들의 정책 로비는 캐나다의 에너지 규제 방향에 상당한 영향을 줄 수 있습니다. 특히 AI 데이터센터와 관련된 기후 위기 문제와 결합되어 정책적 중요성이 부각됩니다.",
-      "impactSignals": [
-        {
-          "label": "policy",
-          "evidence": "캐피탈파워의 청정 에너지 규제 중단 로비 활동"
-        }
-      ],
+      "importanceRationale": "근거: 캐피탈파워는 주요 전력 회사로서, 이 회사의 정책 결정은 캐나다 에너지 시장 전체에 파급 효과를 가져올 수 있습니다. 특히 AI 데이터센터의 에너지 소비 증가는 기후 변화에 미치는 영향이 크므로, 규제 완화 로비는 중요한 사안입니다.",
+      "impactSignals": [],
       "dedupeKey": "캐나다 전력회사 캐피탈파워, 청정 에너지 규제 중단 로비...AI데이터센터 기후위기 가속화",
       "clusterKey": "에너지/규제",
       "matchedTo": null,
@@ -57,10 +52,10 @@
       "publishedAt": "2026-03-02T00:57:32.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 4,
+      "importance": 2,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 내용이 일치하며, 정보가 명확합니다.",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었습니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -70,12 +65,22 @@
       "category": "경제",
       "title": "삼성 평택 공장, HBM4 생산 거점으로 최대 실적 기대",
       "summary": [
-        "삼성 평택 공장이 HBM4(고대역폭 메모리) 생산 거점이 될 것으로 기대된다.",
-        "이를 통해 최대 실적을 달성할 수 있을 것으로 예상된다."
+        "삼성 평택 공장이 HBM4(고대역폭 메모리) 생산 거점으로 최대 실적을 기대하고 있다.",
+        "평택 공장은 HBM4 생산의 핵심 기지 역할을 수행할 예정이다.",
+        "이번 HBM4 생산을 통해 삼성은 실적 향상을 기대하고 있다."
       ],
-      "whyImportant": "삼성 평택 공장이 HBM4 생산의 핵심 기지로서 중요한 역할을 할 것으로 예상된다.",
-      "importanceRationale": "근거: 삼성 평택 공장이 HBM4 생산 거점이 되어 최대 실적을 기대할 수 있다는 정보에 기반함.",
-      "impactSignals": [],
+      "whyImportant": "삼성 평택 공장이 HBM4 생산의 핵심 기지로 부상하면서 삼성의 실적에 중요한 영향을 미칠 것으로 예상된다.",
+      "importanceRationale": "근거: 삼성 평택 공장이 HBM4 생산 거점이 되면서, 삼성의 자본 지출(capex) 증가와 수익(earnings) 증가가 예상되기 때문이다.",
+      "impactSignals": [
+        {
+          "label": "capex",
+          "evidence": "HBM4 생산 거점으로서의 평택 공장 역할 강화"
+        },
+        {
+          "label": "earnings",
+          "evidence": "HBM4 생산을 통한 삼성의 실적 향상 기대"
+        }
+      ],
       "dedupeKey": "samsung-pyeongtaek-hbm4-production",
       "clusterKey": "hbm4",
       "matchedTo": null,
@@ -84,27 +89,55 @@
       "publishedAt": "2026-03-02T06:06:36.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 2,
-      "importanceRaw": 75,
+      "importance": 4.5,
+      "importanceRaw": 88,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하고 명확하게 핵심 정보를 전달한다. / 근거부족",
+      "qualityReason": "기사 제목과 내용이 일치하며, 핵심 내용을 잘 요약했습니다.",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-03-02_4",
       "date": "2026-03-02",
+      "category": "정책",
+      "title": "중국 매체, 일본 기업 대상 첫 감시 목록 조치에 '수출 통제 정밀화' 평가",
+      "summary": [
+        "한국무역협회에 따르면 중국 매체는 일본 기업을 겨냥한 첫 감시 목록 조치에 대해 수출 통제가 정밀해졌다고 평가했다.",
+        "이번 조치는 중국의 수출 통제 시스템 변화를 시사한다.",
+        "자세한 내용은 한국무역협회 KITA.NET에서 확인할 수 있다."
+      ],
+      "whyImportant": "이번 조치는 중국의 수출 통제 정책 변화를 보여주는 중요한 사례입니다.",
+      "importanceRationale": "근거: 중국이 일본 기업을 대상으로 처음으로 감시 목록 조치를 취한 것은 수출 통제 정책의 변화를 의미하며, 이는 국제 무역 관계에 영향을 미칠 수 있습니다.",
+      "impactSignals": [],
+      "dedupeKey": "중국, 일본기업 감시리스트 조치",
+      "clusterKey": "감시리스트",
+      "matchedTo": null,
+      "sourceName": "한국무역협회-KITA.NET",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPeGFxWnN0WERlZ0VBRExCNmk4WXNEMDR3Ul9OVG1vQk4zN2hkYWRPaXhsdXlqbTZKeE9wbFpfdDh0VXdqemc1c0RUMFZYVlhyaWxWaUlPRHBSS2hXb3NyRGh1bG1GTmJ3OTJwTkFhUjdRUFF0RGlyeGR6Y1lpSEJ6allZT2kwTDdjd2ZpcDMtRnoya0ZZYjdaUDEtYlBHZ0FIRTNPQkdtS3FPd2p2d2lDaXBnU3RYU0ZjSDYxMkNfRG9KZkxjcEFTbU1teVI5U2YtTktHNg?oc=5",
+      "publishedAt": "2026-02-26T03:31:24.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 75,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었습니다. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-03-02_5",
+      "date": "2026-03-02",
       "category": "국제",
       "title": "Wynn, 데이터 침해 관련 최근 소송에 대응",
       "summary": [
         "Wynn은 데이터 침해에 대한 최근 소송에 대응하고 있습니다."
       ],
-      "whyImportant": "데이터 보안 및 법적 책임 관련 문제",
-      "importanceRationale": "근거: Wynn의 데이터 침해 소송 대응은 기업의 데이터 보안 정책 및 법적 책임에 대한 중요성을 부각합니다.",
+      "whyImportant": "데이터 침해 소송에 대한 Wynn의 대응은 기업의 데이터 보안 정책 및 법적 책임에 대한 중요한 시사점을 제공합니다.",
+      "importanceRationale": "근거: 데이터 침해는 기업의 평판과 재정에 큰 영향을 미칠 수 있으며, 이에 대한 소송은 관련 정책 및 보안 강화의 필요성을 강조합니다.",
       "impactSignals": [
         {
           "label": "security",
-          "evidence": "데이터 침해는 보안 시스템의 취약점을 드러내고, 보안 강화의 필요성을 강조합니다."
+          "evidence": "데이터 침해는 보안 취약점을 드러내며, 이에 대한 소송은 보안 강화의 필요성을 강조합니다."
         }
       ],
       "dedupeKey": "wynn_data_breach_lawsuit_response",
@@ -118,72 +151,12 @@
       "importance": 3.5,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 내용이 일치하며, 간결하게 요약되었습니다.",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-03-02_5",
-      "date": "2026-03-02",
-      "category": "정책",
-      "title": "중국 매체, 일본 기업 대상 첫 감시 목록 조치에 '수출 통제 정밀화' 평가",
-      "summary": [
-        "중국 매체는 일본 기업을 겨냥한 첫 감시 목록 조치에 대해 수출 통제가 정밀해졌다고 평가했다.",
-        "한국무역협회(KITA)는 관련 내용을 보도했다."
-      ],
-      "whyImportant": "중국의 수출 통제 정책 변화와 그 영향을 파악하는 것이 중요합니다.",
-      "importanceRationale": "근거: 중국이 일본 기업을 대상으로 감시 목록 조치를 처음 시행한 것은 수출 통제 정책의 변화를 의미하며, 이는 국제 무역 관계에 영향을 미칠 수 있습니다.",
-      "impactSignals": [
-        {
-          "label": "sanctions",
-          "evidence": "감시 목록 등재는 잠재적인 제재로 이어질 수 있다."
-        }
-      ],
-      "dedupeKey": "중국수출통제_일본감시리스트",
-      "clusterKey": "감시리스트",
-      "matchedTo": null,
-      "sourceName": "한국무역협회-KITA.NET",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPeGFxWnN0WERlZ0VBRExCNmk4WXNEMDR3Ul9OVG1vQk4zN2hkYWRPaXhsdXlqbTZKeE9wbFpfdDh0VXdqemc1c0RUMFZYVlhyaWxWaUlPRHBSS2hXb3NyRGh1bG1GTmJ3OTJwTkFhUjdRUFF0RGlyeGR6Y1lpSEJ6allZT2kwTDdjd2ZpcDMtRnoya0ZZYjdaUDEtYlBHZ0FIRTNPQkdtS3FPd2p2d2lDaXBnU3RYU0ZjSDYxMkNfRG9KZkxjcEFTbU1teVI5U2YtTktHNg?oc=5",
-      "publishedAt": "2026-02-26T03:31:24.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 3.5,
-      "importanceRaw": 63,
-      "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 간결하게 요약되었습니다.",
+      "qualityReason": "기사 제목과 내용이 일치하며, 정보가 명확하게 전달됩니다.",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-03-02_6",
-      "date": "2026-03-02",
-      "category": "경제",
-      "title": "RHI Magnesita 2025년 전체 실적: 어려운 시장 환경 속에서 규율 있는 실행과 강력한 하반기 실적을 통해 탄력적인 수익 달성",
-      "summary": [
-        "RHI Magnesita의 2025년 전체 실적 발표.",
-        "어려운 시장 환경 속에서도 강력한 하반기 실적을 통해 탄력적인 수익을 달성함.",
-        "규율 있는 실행이 주효했음."
-      ],
-      "whyImportant": "RHI Magnesita의 실적은 관련 산업의 건전성을 나타내는 지표가 될 수 있습니다.",
-      "importanceRationale": "근거: RHI Magnesita는 내화물 산업의 주요 기업 중 하나이며, 그 실적은 시장 상황과 경영 전략의 효과성을 반영합니다.",
-      "impactSignals": [],
-      "dedupeKey": "RHI Magnesita 2025 Full Year Results",
-      "clusterKey": "disciplined",
-      "matchedTo": null,
-      "sourceName": "FinancialContent",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiugJBVV95cUxNb1JZMTlpSk11ZnR3T01pckU3azhHaHcwVk5UUG5HYVJxTXAtNU5hWUVtN3Ixd2pWbmZ3OG84YXNVWmpOUDg2VFptRGxMZ1hKQVgxUDY3SU81THV0UGpUVWVLVmtYTWNETkFZYnc3V3JoT0tCNUpWeWNzaDlUaEVWVHhPeHVoRmtkekFYaUZUYkg2dHB2SDduSFJydWtFRFgxQ08zanBRSUs5dy1Wb2VoczA0b1ZqbnZ2ZEdsMUc5dm9uNlA1cnppd242anE3VGgzVGZ2Y253VGdxUG5tSzVmQ193dUg1OGJYWVQwRkduby1TUXRibnFJclhtUVgwZzJQSk1lVVNTSThLNWl2QTlaS1lTYjF3YWlmZVF4UHg1NFNxZEVVQ1NBaEhXOUp0dHdxcnpDS0VyOWtvdw?oc=5",
-      "publishedAt": "2026-03-02T09:30:00.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 63,
-      "qualityLabel": "ok",
-      "qualityReason": "The article provides factual information about a company's financial results. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-03-02_7",
       "date": "2026-03-02",
       "category": "정책",
       "title": "[뉴스1번지] 미국-이란, 사흘째 군사 충돌…국회, 6일 현안 질의",
@@ -192,7 +165,7 @@
         "국회는 6일 현안 질의를 진행할 예정입니다."
       ],
       "whyImportant": "미국과 이란의 군사적 충돌은 국제 정세에 큰 영향을 미칠 수 있으며, 국회의 현안 질의는 이에 대한 정부의 대응을 점검하는 중요한 과정입니다.",
-      "importanceRationale": "근거: 미국과 이란의 군사적 충돌이 3일째 지속되고 있으며, 이에 대한 국회의 현안 질의가 예정되어 있다는 사실은 정책적 중요성을 시사합니다.",
+      "importanceRationale": "근거: 미국과 이란의 군사적 충돌이 3일째 지속되고 있으며, 이는 중동 지역의 불안정을 심화시킬 수 있습니다. 또한, 국회의 현안 질의는 정부의 외교 및 안보 정책에 대한 감시 기능을 수행합니다.",
       "impactSignals": [],
       "dedupeKey": "미국-이란 군사 충돌 및 국회 현안 질의",
       "clusterKey": "6일",
@@ -205,23 +178,23 @@
       "importance": 2,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "기사의 내용이 간결하고 명확하며, 뉴스 보도에 필요한 핵심 정보를 포함하고 있습니다. / 근거부족",
+      "qualityReason": "기사 제목과 내용이 일치하며, 간결하게 요약되어 있습니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-03-02_8",
+      "id": "2026-03-02_7",
       "date": "2026-03-02",
       "category": "국제",
       "title": "한·싱가포르, 통상·원전 협력 강화…FTA 개선협상 개시 합의",
       "summary": [
         "한국과 싱가포르는 통상 및 원자력 발전 협력을 강화하기로 합의했다.",
-        "양국은 자유무역협정(FTA) 개선 협상을 개시하기로 했다."
+        "양국은 자유무역협정(FTA) 개선 협상을 시작하기로 했다."
       ],
-      "whyImportant": "이번 협력 강화는 양국 간 경제 관계를 더욱 공고히 하고, 새로운 협력 분야를 모색하는 데 중요한 계기가 될 것이다.",
-      "importanceRationale": "근거: 한·싱가포르 간 통상 및 원전 협력 강화와 FTA 개선 협상 개시 합의는 양국 관계 발전에 중요한 정책적 변화를 의미한다.",
+      "whyImportant": "이번 합의는 한국과 싱가포르 간의 경제 협력을 더욱 증진시킬 수 있습니다.",
+      "importanceRationale": "근거: 통상 및 원전 협력 강화와 FTA 개선 협상 개시는 양국 간의 경제적 관계를 심화시키는 중요한 정책적 움직임입니다.",
       "impactSignals": [],
-      "dedupeKey": "20240516_한·싱가포르, 통상·원전 협력 강화…FTA 개선협상 개시 합의",
+      "dedupeKey": "20240118-한·싱가포르, 통상·원전 협력 강화…FTA 개선협상 개시 합의",
       "clusterKey": "에너지/fta",
       "matchedTo": null,
       "sourceName": "한국경제",
@@ -232,28 +205,28 @@
       "importance": 2,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 내용이 일치하며, 간결하게 요약되어 있습니다. / 근거부족",
+      "qualityReason": "기사 제목과 내용이 일치하며, 핵심 내용을 잘 요약했습니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-03-02_9",
+      "id": "2026-03-02_8",
       "date": "2026-03-02",
       "category": "경제",
-      "title": "유가 100달러 전망, 삼성전자·SK하이닉스 주가에 영향?",
+      "title": "유가 100달러 전망, 삼성전자·SK하이닉스 주가에 미칠 영향",
       "summary": [
-        "KBS 뉴스에 따르면 유가가 100달러까지 오를 것이라는 전망이 나오고 있다.",
-        "이는 삼성전자와 SK하이닉스의 주가에 영향을 미칠 수 있다는 분석이다."
+        "KBS 뉴스에 따르면 유가가 100달러까지 오를 것이라는 전망이 나왔다.",
+        "이는 삼성전자와 SK하이닉스 주가에 영향을 미칠 수 있다는 분석이다."
       ],
-      "whyImportant": "유가 상승은 주요 기술 기업의 주가에 잠재적인 영향을 미칠 수 있기 때문",
-      "importanceRationale": "근거: 유가 상승은 생산 비용 증가 및 수요 감소로 이어져 기업 수익성에 부정적인 영향을 줄 수 있으며, 이는 투자 심리 위축으로 이어져 주가 하락을 초래할 수 있음.",
+      "whyImportant": "유가 상승이 국내 주요 기술 기업의 주가에 미치는 잠재적 영향 분석",
+      "importanceRationale": "근거: 유가 상승 전망이 삼성전자와 SK하이닉스 주가에 미칠 수 있는 영향을 분석하므로 중요도가 높음.",
       "impactSignals": [
         {
           "label": "market-demand",
-          "evidence": "유가 상승이 수요 감소를 유발하여 기업 실적에 영향"
+          "evidence": "유가 상승에 따른 시장 수요 변동 가능성"
         }
       ],
-      "dedupeKey": "oil_price_100_samsung_sk_0724",
+      "dedupeKey": "유가상승-삼성전자-SK하이닉스-주가영향",
       "clusterKey": "100달러",
       "matchedTo": null,
       "sourceName": "KBS 뉴스",
@@ -264,7 +237,35 @@
       "importance": 3.5,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 간결하게 요약됨.",
+      "qualityReason": "제목과 본문이 일치하며, 간결하게 핵심 내용을 요약함.",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-03-02_9",
+      "date": "2026-03-02",
+      "category": "기술",
+      "title": "아마존 클라우드, 이란 공격으로 바레인, UAE 데이터 센터 문제 발생",
+      "summary": [
+        "아마존 클라우드 부문이 이란의 공격으로 인해 바레인과 UAE 데이터 센터에서 문제가 발생했다고 밝혔습니다.",
+        "정확한 피해 규모는 아직 알려지지 않았습니다.",
+        "아마존은 상황을 주시하며 필요한 조치를 취하고 있다고 밝혔습니다."
+      ],
+      "whyImportant": "중동 지역의 지정학적 불안정이 데이터 센터 운영에 미치는 영향을 보여주는 사례입니다.",
+      "importanceRationale": "근거: 아마존 클라우드 데이터 센터는 중요한 인프라 자산이며, 이 지역의 불안정은 추가적인 자본 지출(capex) 및 보안 강화로 이어질 수 있습니다.",
+      "impactSignals": [],
+      "dedupeKey": "amazon-cloud-iran-strikes-20240126",
+      "clusterKey": "클라우드/amazon",
+      "matchedTo": null,
+      "sourceName": "The Times of Israel",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNeVFOVmlxQXYwR0YycG5aUVBSMGRsc3hiYTA1ajBrSEhRYllxeGN1c1ZHX3pielVwcW1QckRLY2pVNHJ0RkhwR3JEMlB4a0o3SEdqc2VETkI0cEQtdGxrSktmUUNkdEFhNFFfT19wQXlsbGNQRnMtQjZqT1R6S1lJdXBvWG4tZVJVOUVnNkVwSDdxY2xIbEoycEFXaGZ1VVJLMUZXaUhGZnlKcXo3M05oTUFIbjU4Y1laRzBMWWpHUQ?oc=5",
+      "publishedAt": "2026-03-02T07:02:41.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 63,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 본문이 일치하며, 정보가 명확합니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -275,16 +276,11 @@
       "title": "VC, AI SaaS 펀딩에서 금지선 설정: 현재 투자 제외 대상",
       "summary": [
         "벤처 캐피털(VC)이 AI SaaS 펀딩에서 투자 제외 대상을 명확히 하고 있습니다.",
-        "이는 AI SaaS 분야 투자에 대한 VC의 신중한 접근 방식을 반영합니다."
+        "특정 기준을 설정하여 투자 결정을 내리고 있습니다."
       ],
-      "whyImportant": "AI SaaS 분야 투자에 대한 벤처 캐피털의 투자 전략 변화를 보여줍니다.",
-      "importanceRationale": "근거: VC들이 AI SaaS 펀딩에서 특정 영역을 제외하는 것은 투자 환경의 변화를 의미하며, 이는 관련 기업들의 자금 조달 전략에 영향을 미칠 수 있습니다.",
-      "impactSignals": [
-        {
-          "label": "capex",
-          "evidence": "AI SaaS 펀딩에 대한 VC의 투자 제외 대상 설정은 관련 기업의 자본 지출 계획에 영향을 줄 수 있습니다."
-        }
-      ],
+      "whyImportant": "AI SaaS 분야 투자에 대한 VC의 신중한 접근 방식을 보여줍니다.",
+      "importanceRationale": "근거: VC의 투자 기준 변화는 AI SaaS 시장의 성장과 방향성에 중요한 영향을 미칠 수 있습니다.",
+      "impactSignals": [],
       "dedupeKey": "VCDrawRedLinesInAISaaSFundingNow",
       "clusterKey": "draw",
       "matchedTo": null,
@@ -293,31 +289,31 @@
       "publishedAt": "2026-03-01T17:07:00.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 3.5,
+      "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 정보가 간결하게 제공됩니다.",
+      "qualityReason": "기사 제목과 내용이 일치하며, 핵심 내용을 요약했습니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-03-02_11",
       "date": "2026-03-02",
-      "category": "에너지",
+      "category": "국제",
       "title": "미국-이스라엘의 이란 공격: 중동 공격으로 글로벌 에너지 공급 차질 발생 후 시장 거래에서 유가 급등",
       "summary": [
-        "미국과 이스라엘의 이란 공격으로 중동 지역의 에너지 공급에 차질이 발생했습니다.",
-        "이로 인해 시장 거래에서 유가가 급등했습니다."
+        "미국과 이스라엘의 이란 공격 이후, 중동 지역의 공격으로 인해 글로벌 에너지 공급에 차질이 발생했다.",
+        "이로 인해 시장 거래에서 유가가 급등했다."
       ],
-      "whyImportant": "중동 지역의 지정학적 불안정은 세계 경제에 큰 영향을 미칠 수 있습니다.",
-      "importanceRationale": "근거: 미국-이스라엘의 이란 공격으로 에너지 공급 차질이 발생하고 유가가 급등했다는 직접적인 정보가 제공되었기 때문입니다.",
+      "whyImportant": "중동 지역의 지정학적 불안정이 심화되어 세계 경제에 미치는 영향이 커질 수 있다.",
+      "importanceRationale": "근거: 미국-이스라엘의 이란 공격으로 인해 중동 지역의 에너지 공급에 차질이 발생했으며, 이는 유가 급등으로 이어져 세계 경제에 직접적인 영향을 미칠 수 있기 때문이다.",
       "impactSignals": [
         {
           "label": "security",
-          "evidence": "미국과 이스라엘의 이란 공격으로 중동 지역의 안보 불안정성이 증가함."
+          "evidence": "US-Israel Attack on Iran disrupts global energy supply"
         }
       ],
-      "dedupeKey": "US-IsraelAttackOnIran:Oilpricesrise",
+      "dedupeKey": "US-Israel Attack on Iran: Oil prices rise sharply in market trading after attacks in Middle East disrupt global energy supply",
       "clusterKey": "에너지/attack",
       "matchedTo": null,
       "sourceName": "ABC7 Los Angeles",
@@ -328,75 +324,53 @@
       "importance": 4.5,
       "importanceRaw": 88,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 구체적인 사건과 그에 따른 시장 반응을 명확히 설명합니다.",
+      "qualityReason": "The article provides a clear and concise summary of a significant geopolitical event and its immediate economic impact.",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-03-02_12",
       "date": "2026-03-02",
-      "category": "경제",
-      "title": "유가 100달러 전망 속 오일쇼크 재발 우려",
+      "category": "기술",
+      "title": "건강 보험 기술 제공업체 TriZetto, 2024년 데이터 침해로 3백만 명 이상 피해",
       "summary": [
-        "유가가 100달러까지 오를 것이라는 전망이 나오는 가운데 오일쇼크 재발에 대한 우려가 제기되고 있습니다."
+        "건강 보험 기술 제공업체인 TriZetto는 2024년 데이터 침해로 인해 3백만 명 이상이 영향을 받았다고 밝혔습니다.",
+        "이번 침해는 Recorded Future News에서 보도했습니다."
       ],
-      "whyImportant": "유가 상승은 경제 전반에 걸쳐 광범위한 영향을 미칠 수 있습니다.",
-      "importanceRationale": "근거: 유가 급등은 기업의 수익성에 영향을 미치고, 시장 수요를 변화시킬 수 있으며, 이는 경제 불안으로 이어질 수 있습니다.",
-      "impactSignals": [],
-      "dedupeKey": "oil_price_100_shock_2024",
-      "clusterKey": "100달러",
+      "whyImportant": "TriZetto의 데이터 침해는 개인 정보 보호 및 보안에 대한 우려를 제기합니다.",
+      "importanceRationale": "근거: 3백만 명 이상의 개인 정보가 침해되었으며, 이는 상당한 규모의 보안 사고입니다.",
+      "impactSignals": [
+        {
+          "label": "security",
+          "evidence": "3 million individuals impacted by data breach"
+        }
+      ],
+      "dedupeKey": "TriZetto_breach_2024",
+      "clusterKey": "health",
       "matchedTo": null,
-      "sourceName": "투데이신문",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBEcEN2VURJWEcxTzlpb1J5ak93OFNIZ2JWYjdIYTRKX0J2QkhqYVFlREh6TUlyZEJhQ3ZFUHRzcmpZZUlOZEZUYUFhZ2YtVUMyZGcxMUhkQ2NGUTVqZ1hGamY3WjNWRkV4NnE40gFvQVVfeXFMTkYtQnozN0FPVHB1M1RzaUhfbDZNV3BXOGwtX3dNR2NvSU5HUnl1Q19hLVdWM284RGJkTFJhajY3ZUgyUVFFdDMxVjRXUm42SnNUNjB0TC1hOE9sVC1ZT1BmWlMwcVM0TGdoelMxcXpJ?oc=5",
-      "publishedAt": "2026-03-02T03:07:02.000Z",
+      "sourceName": "The Record from Recorded Future News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQR3pfQ1VQUnN4NHN2SW83cWsyRGI2S3VKQ2pkR3hjVS1PU2loTGhwVjFTRGx5UU5ta2YwQ1oxYTVtbjQ2ZFBwb2ZpVF95Q3BkQk92R29ESzBwMnk3bU1NNzJPYXZ2ajVpbnFORVNvMEMwNkV5c2YwM0ZfRVNKWmlKWg?oc=5",
+      "publishedAt": "2026-02-25T18:44:44.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 2,
-      "importanceRaw": 63,
+      "importance": 4,
+      "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었습니다. / 근거부족",
+      "qualityReason": "뉴스 보도에 기반한 사실 정보 제공",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-03-02_13",
       "date": "2026-03-02",
-      "category": "기술",
-      "title": "호르무즈 해협 폐쇄: 유황 공급망 차질 및 MHP 비용 영향",
-      "summary": [
-        "호르무즈 해협 폐쇄로 인해 유황 공급망에 차질이 발생할 수 있습니다.",
-        "이는 MHP(Mixed Hydroxide Precipitate) 비용에 영향을 미칠 수 있습니다.",
-        "상하이 금속 시장 분석에 따른 내용입니다."
-      ],
-      "whyImportant": "호르무즈 해협의 폐쇄는 글로벌 공급망에 미치는 영향이 크기 때문입니다.",
-      "importanceRationale": "근거: 호르무즈 해협은 주요 에너지 및 상품 수송로이며, 폐쇄 시 관련 산업에 광범위한 영향을 미칠 수 있습니다.",
-      "impactSignals": [],
-      "dedupeKey": "hormuz_strait_sulfur_mhp",
-      "clusterKey": "analysis",
-      "matchedTo": null,
-      "sourceName": "Shanghai Metals Market",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQVTBQQWFFSmpsdko4ZVJuUHBsMzhiZ2VUd1JRbVhMYXozU2VidnoxNFlvbzFRanlSMnp3M3NrSDBRWTMzLU9pV1RNbW9tUnN4bUJFcGtNa2xpOFBDVXdWMmxnWGlISWVpTE00QXhHbUVGUUdvUDNBcjdhSW56T3A1bFZvb3JSTFJTdW5KeEp1TUJpdlF2ajJsc3B4N1Bjd0tqNEdEek1LaE5lblBnaUhBUTdub1VTMmF3am1aZGNtVXN3UVpHZWdKWWQ5cHE?oc=5",
-      "publishedAt": "2026-03-02T09:06:33.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 75,
-      "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 정보가 간결하게 요약되어 있습니다. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-03-02_14",
-      "date": "2026-03-02",
       "category": "국제",
       "title": "이 대통령, 싱가포르 총리와 정상회담…20년 된 FTA 개선 협상 개시",
       "summary": [
         "이 대통령은 싱가포르 총리와 정상회담을 가졌다.",
-        "양국은 20년 된 FTA 개선 협상을 개시하기로 했다."
+        "양국은 20년 된 FTA 개선 협상 개시를 논의했다."
       ],
-      "whyImportant": "한-싱가포르 FTA 개선 협상 개시는 양국 간의 경제 협력을 강화하는 중요한 계기가 될 수 있다.",
-      "importanceRationale": "근거: 20년 된 FTA 개선 협상 개시는 양국 간의 무역 및 투자 관계에 긍정적인 영향을 미칠 수 있으며, 새로운 경제 협력 기회를 창출할 수 있다.",
+      "whyImportant": "한-싱가포르 FTA 개선 협상 개시는 양국 간 경제 협력을 강화하는 중요한 계기가 될 수 있다.",
+      "importanceRationale": "근거: 20년 된 FTA 개선 협상 개시는 양국 간의 무역 및 투자 관계에 긍정적인 영향을 미칠 수 있으며, 이는 경제적 파트너십을 심화시키는 데 기여할 수 있다.",
       "impactSignals": [],
       "dedupeKey": "lee-singapore-fta-negotiation",
       "clusterKey": "20년",
@@ -414,18 +388,44 @@
       "isBreaking": false
     },
     {
+      "id": "2026-03-02_14",
+      "date": "2026-03-02",
+      "category": "에너지",
+      "title": "전기 요금이 높은 이유와 그에 따른 반발이 트럼프에게 미칠 수 있는 영향",
+      "summary": [
+        "Inside Climate News에 따르면 전기 요금이 높은 이유와 그에 따른 반발이 트럼프에게 영향을 줄 수 있다고 합니다."
+      ],
+      "whyImportant": "전기 요금 상승의 원인과 정치적 파급 효과 분석",
+      "importanceRationale": "근거: 전기 요금 상승이 정치적 반발을 일으키고, 이는 특정 정치인에게 부정적인 영향을 미칠 수 있다는 점을 시사합니다.",
+      "impactSignals": [],
+      "dedupeKey": "electricity_bills_trump_20240110",
+      "clusterKey": "bills",
+      "matchedTo": null,
+      "sourceName": "Inside Climate News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNU9XbGZlS0FEN0JSNTJ2U1pOZUVjbWlXaTNDcmdEaU1UaUdMM1dsdEdzc3hHSjNoRXF1RllITzJ3YTlFRjVzeFhlSjRwZkxyazdfSVByVFNXeVRVby1PUzk3TFEwYksxS0t2UzZlMEdST1BBeTUwNTROUzlUdGhXeEI0RE16bDJyZTI0?oc=5",
+      "publishedAt": "2026-03-02T09:55:00.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 63,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었습니다. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
       "id": "2026-03-02_15",
       "date": "2026-03-02",
-      "category": "기술",
+      "category": "국제",
       "title": "아마존, UAE 데이터센터 화재 및 전력 중단 확인",
       "summary": [
         "아마존이 아랍에미리트(UAE) 데이터센터에서 화재 및 전력 중단을 확인했습니다.",
-        "이번 사고는 중동 교전의 여파로 발생했습니다."
+        "이번 사고는 중동 교전의 영향으로 발생했습니다."
       ],
-      "whyImportant": "아마존의 데이터센터 운영에 차질이 발생했습니다.",
-      "importanceRationale": "근거: UAE 데이터센터 화재 및 전력 중단은 아마존의 자본 지출(CAPEX)에 영향을 미치고, 중동 지역 서비스 제공에 단기적인 차질을 야기할 수 있습니다.",
+      "whyImportant": "데이터센터의 안정성은 클라우드 서비스 제공에 필수적이며, 중동 지역의 지정학적 불안정이 데이터센터 운영에 미치는 영향을 보여주는 사례입니다.",
+      "importanceRationale": "근거: 데이터센터는 현대 경제의 핵심 인프라로서, 그 가동 중단은 광범위한 경제적 영향을 초래할 수 있습니다. 특히 지정학적 리스크가 높은 지역에서는 데이터센터의 안정성이 더욱 중요합니다.",
       "impactSignals": [],
-      "dedupeKey": "amazon-uae-datacenter-fire",
+      "dedupeKey": "amazon-uae-datacenter-fire-power-outage",
       "clusterKey": "에너지/uae",
       "matchedTo": null,
       "sourceName": "Benzinga",
@@ -436,7 +436,64 @@
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "기사에 명확한 사실 정보가 포함되어 있습니다. / 근거부족",
+      "qualityReason": "제목과 본문이 일치하며, 내용이 간결하고 명확합니다. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-03-02_16",
+      "date": "2026-03-02",
+      "category": "경제",
+      "title": "국회, 환율 방어 시급성에도 불구 RIA 도입 지연",
+      "summary": [
+        "국회가 환율 방어의 시급성에도 불구하고 RIA(Regulatory Impact Assessment, 규제영향평가) 도입을 지연시키고 있다는 지적이 제기됨."
+      ],
+      "whyImportant": "환율 방어 정책의 효과적인 시행을 저해할 수 있습니다.",
+      "importanceRationale": "근거: RIA 도입 지연은 정책 결정 과정의 투명성과 효율성을 저해하여 환율 방어 정책의 효과를 감소시킬 수 있기 때문입니다.",
+      "impactSignals": [],
+      "dedupeKey": "환율방어 시급하다더니…RIA 도입 손놓은 국회",
+      "clusterKey": "ria",
+      "matchedTo": null,
+      "sourceName": "마켓인",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4tQWM5OEJ2OGtnNmIxVXVkdl9kQnVGTWdHTVI1cjlJQllULWd3T19RVk9YNzNtYlFwblh4anEyTENkYjQ2Yk4xSElhbHFDQXE1dUp3d08xUWZNVWhhQ2o5bFpwZ1B6aFoxbVA1azA2dGVld1U?oc=5",
+      "publishedAt": "2026-03-02T08:22:34.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 50,
+      "qualityLabel": "ok",
+      "qualityReason": "기사 제목과 내용이 일치하며, 간결하게 요약되었습니다. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-03-02_17",
+      "date": "2026-03-02",
+      "category": "경제",
+      "title": "LS에코에너지, 베트남 생산법인 2030년 매출 10억달러 목표",
+      "summary": [
+        "LS에코에너지는 베트남 생산법인의 2030년 매출 목표를 10억 달러로 설정했습니다."
+      ],
+      "whyImportant": "LS에코에너지의 성장 전략을 보여주는 지표입니다.",
+      "importanceRationale": "근거: LS에코에너지가 베트남 생산법인의 매출 목표를 구체적으로 제시함으로써, 향후 성장 가능성을 시사합니다.",
+      "impactSignals": [
+        {
+          "label": "earnings",
+          "evidence": "베트남 생산법인 2030년 매출 10억달러 목표"
+        }
+      ],
+      "dedupeKey": "LS에코에너지_베트남_생산법인_2030년_매출_10억달러_목표",
+      "clusterKey": "10억달러",
+      "matchedTo": null,
+      "sourceName": "디일렉",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5xTFpQOEN6Mno1SThINjJYRTJtQ0VTMHhyMG5Yb3g0OUF4UGY2d0I3RVVHUXFUVTAxaXdlRGNjV2puNWxmVGx2aHJLLU14TmJpWHhIZHJXNFc0S2N0eFZkd21PUHZvZw?oc=5",
+      "publishedAt": "2026-03-02T02:31:52.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 3,
+      "importanceRaw": 50,
+      "qualityLabel": "ok",
+      "qualityReason": "The article provides a clear and concise statement of fact.",
       "isBriefing": false,
       "isBreaking": false
     }
