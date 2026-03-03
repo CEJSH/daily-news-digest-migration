@@ -3,7 +3,7 @@
   "selectionCriteria": "① 내일도 영향이 남는 이슈 ② 과도한 감정 소모 제외 ③ 어제와 중복되는 뉴스 제외",
   "editorNote": "이 뉴스는 클릭 수가 아니라 오늘 이후에도 남는 정보만 기준으로 편집했습니다.",
   "question": "정보를 덜 보는 것이 오히려 더 똑똑한 소비일까?",
-  "lastUpdatedAt": "2026-03-04T01:43:00.012+09:00",
+  "lastUpdatedAt": "2026-03-04T02:41:06.172+09:00",
   "items": [
     {
       "id": "2026-03-04_1",
@@ -12,17 +12,17 @@
       "title": "빅테크도 불똥…아마존 중동 데이터센터 3곳 드론 공격 받아",
       "summary": [
         "아마존 중동 데이터센터 3곳이 드론 공격을 받았습니다.",
-        "이번 공격으로 빅테크 기업도 안전하지 않다는 우려가 제기되고 있습니다."
+        "이번 공격으로 데이터센터의 보안에 대한 우려가 제기되고 있습니다."
       ],
-      "whyImportant": "아마존 데이터센터에 대한 드론 공격은 중동 지역의 지정학적 불안정성을 시사하며, 데이터 보안 및 물리적 보안에 대한 우려를 증폭시킵니다.",
-      "importanceRationale": "근거: 아마존 데이터센터에 대한 공격은 기업의 자산 손실뿐만 아니라 데이터 보안 문제로 이어질 수 있으며, 이는 해당 지역의 투자 및 경제 활동에도 영향을 미칠 수 있습니다.",
+      "whyImportant": "아마존 데이터센터에 대한 드론 공격은 데이터 보안 및 인프라에 대한 잠재적 위협을 보여줍니다.",
+      "importanceRationale": "근거: 아마존의 데이터센터 공격은 물리적 보안의 중요성을 강조하며, 빅테크 기업의 인프라에 대한 새로운 위협 양상을 드러냅니다.",
       "impactSignals": [
         {
           "label": "security",
-          "evidence": "데이터센터에 대한 물리적 보안 위협 증가"
+          "evidence": "드론 공격으로 데이터센터 보안의 취약성 노출"
         }
       ],
-      "dedupeKey": "amazon_drone_attack_me_2024",
+      "dedupeKey": "amazon_drone_attack_me_001",
       "clusterKey": "클라우드/3곳",
       "matchedTo": null,
       "sourceName": "KBS 뉴스",
@@ -40,15 +40,15 @@
     {
       "id": "2026-03-04_2",
       "date": "2026-03-04",
-      "category": "기술",
-      "title": "엔비디아가 지원하는 시험에서 AI 데이터 센터가 거의 실시간으로 전력 사용량을 유연하게 조정할 수 있음을 보여주며, 이는 에너지 소비에 대한 전 세계적인 영향을 미칩니다. 하이퍼스케일러가 필요에 따라 소비를 줄여 피크 수요 동안 그리드가 과부하되지 않도록 할 수 있음을 시사합니다.",
+      "category": "에너지",
+      "title": "엔비디아가 지원하는 시험에서 AI 데이터 센터가 거의 실시간으로 전력 사용량을 유연하게 조정할 수 있음을 보여줌. 이는 에너지 소비에 대한 전 세계적인 영향을 미침 - 하이퍼스케일러가 필요에 따라 소비를 줄여 피크 수요 동안 그리드가 과부하되지 않도록 할 수 있음을 시사",
       "summary": [
-        "엔비디아가 지원하는 시험에서 AI 데이터 센터가 거의 실시간으로 전력 사용량을 유연하게 조정할 수 있음이 밝혀졌습니다.",
-        "이는 전 세계 에너지 소비에 중요한 영향을 미칠 수 있습니다.",
-        "하이퍼스케일러가 필요에 따라 소비를 줄여 전력망 과부하를 방지할 수 있음을 시사합니다."
+        "엔비디아가 지원하는 시험에서 AI 데이터 센터가 전력 사용량을 유연하게 조정할 수 있음이 입증되었습니다.",
+        "이는 에너지 소비에 대한 전 세계적인 영향을 미치며, 하이퍼스케일러가 필요에 따라 소비를 줄일 수 있음을 시사합니다.",
+        "이를 통해 피크 수요 동안 그리드가 과부하되지 않도록 할 수 있습니다."
       ],
-      "whyImportant": "AI 데이터 센터의 전력 사용량 조정 능력은 에너지 소비 관리 및 전력망 안정성에 중요한 영향을 미칩니다.",
-      "importanceRationale": "근거: AI 데이터 센터의 전력 사용량 조정 능력은 에너지 소비 관리 및 전력망 안정성에 중요한 영향을 미치기 때문입니다. 특히, 엔비디아가 지원하는 시험 결과는 하이퍼스케일러가 전력 소비를 유연하게 관리할 수 있음을 시사하여, 에너지 효율성 향상 및 전력망 부담 감소에 기여할 수 있습니다.",
+      "whyImportant": "AI 데이터 센터의 전력 사용량 조정 능력은 에너지 소비 관리 및 그리드 안정성에 중요한 영향을 미칩니다.",
+      "importanceRationale": "근거: AI 데이터 센터의 전력 사용량 조정 능력은 에너지 소비 관리 및 그리드 안정성에 중요한 영향을 미치기 때문입니다. 특히 하이퍼스케일러가 전력 소비를 유연하게 관리할 수 있다는 점은 에너지 효율성을 높이고 전력망 부담을 줄이는 데 기여할 수 있습니다.",
       "impactSignals": [
         {
           "label": "capex",
@@ -59,7 +59,7 @@
           "evidence": "전력 사용량 조정 능력은 에너지 효율적인 데이터 센터에 대한 시장 수요를 증가시킬 수 있습니다."
         }
       ],
-      "dedupeKey": "nvidia_ai_data_center_power_use",
+      "dedupeKey": "Nvidia-backed trial shows AI data centers can flexibly adjust power use in near real time",
       "clusterKey": "에너지/backed",
       "matchedTo": null,
       "sourceName": "Tom's Hardware",
@@ -70,7 +70,7 @@
       "importance": 4,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 내용이 일치하며, 핵심 내용을 잘 요약했습니다.",
+      "qualityReason": "기사 제목과 본문이 일치하며, 핵심 내용을 잘 반영하고 있습니다.",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -84,7 +84,7 @@
         "이는 데이터 센터 수요 증가에 따른 것이다."
       ],
       "whyImportant": "데이터 센터 전력 수요 증가에 대한 투자 계획을 보여준다.",
-      "importanceRationale": "근거: NextEra의 데이터 센터 전력 공급 확대 계획은 관련 시장의 성장 가능성을 시사하며, 에너지 및 기술 산업에 중요한 영향을 미칠 수 있다.",
+      "importanceRationale": "근거: NextEra의 대규모 전력 추가 계획은 데이터 센터 시장의 성장과 그에 따른 에너지 수요 증가를 시사한다.",
       "impactSignals": [
         {
           "label": "capex",
@@ -102,7 +102,7 @@
       "importance": 3.5,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 내용이 일치하며, 정보가 명확하다.",
+      "qualityReason": "제목과 본문이 일치하며, 정보가 명확하다.",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -115,8 +115,8 @@
         "유럽이 중동발 에너지 위기에 직면했다.",
         "이로 인해 금리 인상 전망도 제기되고 있다."
       ],
-      "whyImportant": "유럽의 에너지 위기는 경제적 불확실성을 심화시키고, 금리 인상 압력으로 이어진다.",
-      "importanceRationale": "근거: 중동 지역 불안정으로 인한 에너지 공급 차질 가능성과 그에 따른 금리 인상 전망을 종합적으로 고려함.",
+      "whyImportant": "중동 지역의 불안정으로 인한 에너지 공급 차질은 유럽 경제에 큰 영향을 미칠 수 있으며, 금리 인상 압력으로 이어질 수 있다.",
+      "importanceRationale": "근거: 중동발 에너지 위기는 유럽의 에너지 수급에 직접적인 영향을 미치며, 이는 물가 상승과 금리 인상 압력으로 이어져 경제 전반에 파급 효과를 가져올 수 있기 때문이다.",
       "impactSignals": [],
       "dedupeKey": "europe_mideast_energy_crisis_rate_hike",
       "clusterKey": "에너지/금리인상",
@@ -129,7 +129,7 @@
       "importance": 2,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 간결하게 요약됨. / 근거부족",
+      "qualityReason": "제목과 본문이 일치하며, 내용이 간결하고 명확함. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -140,10 +140,10 @@
       "title": "2025년 랜섬웨어 공격 건수 기록적인 수준으로 증가, 지불액은 감소: Chainalysis",
       "summary": [
         "Chainalysis에 따르면 2025년 랜섬웨어 공격 건수는 기록적인 수준으로 증가했지만, 지불액은 감소했다.",
-        "The Record from Recorded Future News에서 보도했다."
+        "Recorded Future News의 The Record에서 해당 내용을 보도했다."
       ],
       "whyImportant": "랜섬웨어 공격 동향을 파악하는 데 중요합니다.",
-      "importanceRationale": "근거: 랜섬웨어 공격의 빈도와 지불액 변화는 사이버 보안 전략 수립에 중요한 지표가 된다.",
+      "importanceRationale": "근거: 랜섬웨어 공격의 빈도와 지불액 변화는 사이버 보안 전략 수립에 중요한 지표가 될 수 있습니다.",
       "impactSignals": [
         {
           "label": "security",
@@ -161,7 +161,7 @@
       "importance": 3.5,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "기사 내용이 간결하고 명확함",
+      "qualityReason": "명확한 정보 제공",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -169,15 +169,42 @@
       "id": "2026-03-04_6",
       "date": "2026-03-04",
       "category": "국제",
-      "title": "히미노, 중립 정책으로의 잠재적 전환을 시사하면서 일본은행 금리가 중대한 변화에 직면",
+      "title": "2026년 2월 주요 데이터 유출",
       "summary": [
-        "히미노의 발언으로 일본은행의 금리 정책이 중립으로 전환될 가능성이 제기됨.",
-        "이는 일본은행 금리가 중대한 변화에 직면했음을 의미함."
+        "2026년 2월의 주요 데이터 유출 사건들이 발생했습니다.",
+        "securityboulevard.com에서 관련 내용을 확인할 수 있습니다."
       ],
-      "whyImportant": "일본은행의 통화 정책 변화 가능성은 금융 시장에 큰 영향을 미칠 수 있습니다.",
-      "importanceRationale": "근거: 히미노의 발언은 일본은행의 정책 변화 가능성을 시사하며, 이는 금융 시장의 변동성을 야기할 수 있기 때문입니다.",
+      "whyImportant": "데이터 유출은 개인 정보 보호 및 기업 보안에 심각한 영향을 미칩니다.",
+      "importanceRationale": "근거: 데이터 유출은 사용자 개인 정보의 노출, 금융 정보 유출, 기업의 평판 손상 등 심각한 결과를 초래할 수 있습니다.",
       "impactSignals": [],
-      "dedupeKey": "BOJ_Interest_Rates_Himino_Shift",
+      "dedupeKey": "202602_dataleak",
+      "clusterKey": "breaches",
+      "matchedTo": null,
+      "sourceName": "securityboulevard.com",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBRdkNEYjlOTDBjTVMwa3JUb2ZES0hSV2FTMzFFMGk1WkZ4Nlo4QVp6WUFmSFZmNElJSU85WnlhSURBTGJZQ21xaWZDd0JEOTVnS250SFhlb0kzM3AxQ2NmX3NxZ2ZiLVJYMk1aYVd2NWo3eTVNNldZeE5kSThwZw?oc=5",
+      "publishedAt": "2026-03-02T17:04:03.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 75,
+      "qualityLabel": "ok",
+      "qualityReason": "기사 제목과 내용이 일치하며, 정보가 간결하게 제공됨. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-03-04_7",
+      "date": "2026-03-04",
+      "category": "국제",
+      "title": "히미노, 중립 정책으로의 잠재적 전환 신호로 일본은행 금리, 중대한 변화에 직면",
+      "summary": [
+        "히미노의 신호로 일본은행의 금리 정책이 중립으로 전환될 가능성이 있습니다.",
+        "이는 일본은행의 금리 정책에 중대한 변화가 있을 수 있음을 시사합니다."
+      ],
+      "whyImportant": "일본은행의 통화 정책 변화 가능성을 시사합니다.",
+      "importanceRationale": "근거: 히미노의 발언은 일본은행이 중립적인 통화 정책으로 전환할 가능성을 내비치고 있으며, 이는 금리 변화를 포함한 중요한 정책 변화를 의미할 수 있습니다.",
+      "impactSignals": [],
+      "dedupeKey": "BOJ_Policy_Shift_Himino_Signal",
       "clusterKey": "금융/bank",
       "matchedTo": null,
       "sourceName": "Bitcoin world",
@@ -188,28 +215,23 @@
       "importance": 2,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "The article is concise and directly reflects the provided information. / 근거부족",
+      "qualityReason": "제목과 내용이 일치하며, 요약이 명확합니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-03-04_7",
+      "id": "2026-03-04_8",
       "date": "2026-03-04",
       "category": "에너지",
       "title": "데이터 센터 뉴스: DTE 에너지의 데이터 센터 파이프라인, 원자력 발전소 6개 규모의 전력 필요",
       "summary": [
         "DTE 에너지의 데이터 센터 파이프라인이 원자력 발전소 6개 규모의 전력을 필요로 할 수 있다는 소식입니다.",
-        "이는 데이터 센터 산업의 급속한 성장을 반영합니다."
+        "이는 데이터 센터의 전력 소비량이 상당함을 시사합니다."
       ],
-      "whyImportant": "데이터 센터 전력 수요 급증은 에너지 인프라에 대한 상당한 투자를 의미합니다.",
-      "importanceRationale": "근거: 데이터 센터 건설 및 운영에는 막대한 자본 지출이 필요하며, 이는 에너지 회사와 관련 산업에 큰 영향을 미칩니다.",
-      "impactSignals": [
-        {
-          "label": "capex",
-          "evidence": "데이터 센터 파이프라인이 원자력 발전소 6개 규모의 전력을 필요로 함"
-        }
-      ],
-      "dedupeKey": "DTE_Energy_data_center_power_demand",
+      "whyImportant": "데이터 센터의 전력 수요 급증은 에너지 인프라에 큰 부담을 줄 수 있습니다.",
+      "importanceRationale": "근거: 데이터 센터 구축에 필요한 막대한 전력량은 에너지 기업의 투자 및 인프라 확충을 가속화할 수 있으며, 이는 에너지 시장에 상당한 영향을 미칠 수 있습니다.",
+      "impactSignals": [],
+      "dedupeKey": "DTE_Energy_data_center_power_needs",
       "clusterKey": "에너지/center",
       "matchedTo": null,
       "sourceName": "Planet Detroit",
@@ -217,119 +239,59 @@
       "publishedAt": "2026-03-03T16:35:02.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 3.5,
-      "importanceRaw": 63,
-      "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 정보가 명확합니다.",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-03-04_8",
-      "date": "2026-03-04",
-      "category": "정책",
-      "title": "미국 전기 요금 상승 및 정책 해결 방안에 대한 데이터 기반 분석",
-      "summary": [
-        "미국 전기 요금 상승과 관련된 데이터 기반 분석이 발표되었습니다.",
-        "정책 해결 방안이 함께 제시되었습니다.",
-        "Clean Air Task Force에서 분석을 수행했습니다."
-      ],
-      "whyImportant": "미국 전기 요금 상승에 대한 정책적 해결책 모색에 기여할 수 있습니다.",
-      "importanceRationale": "근거: 미국 전기 요금 상승 문제와 정책 해결 방안을 다루고 있어 정책 결정에 영향을 줄 수 있습니다.",
-      "impactSignals": [],
-      "dedupeKey": "US_electricity_costs_policy_solutions",
-      "clusterKey": "costs",
-      "matchedTo": null,
-      "sourceName": "Clean Air Task Force",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNOFVxOEV0Y3ZBRnU3U2UtQ21OekJQMUJTR3FFNXM3SXlaUUlvbEE0YmRENDBCVV90SDVWM2VoZE9ETzlQbEFEdF9CM245QldWcjVCU1BoSGVxY1ZxZlVUOXhxWGFPbGNuRXMyS21RSUJELU1mbTBSbFpMMzFsZDhYMFdmYkU1czRzQ2dmOUE1TzItaTl1?oc=5",
-      "publishedAt": "2026-03-03T14:04:40.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었습니다. / 근거부족",
+      "qualityReason": "제목과 본문이 일치하며, 정보가 명확합니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-03-04_9",
       "date": "2026-03-04",
-      "category": "국제",
-      "title": "거대 기술 기업 Google, Hermantown의 논란이 되고 있는 데이터 센터 제안 배후에 있어",
+      "category": "정책",
+      "title": "ISBA, AI 콘텐츠 제작 가이드라인 공개… 브랜드 신뢰를 지키는 활용 원칙 제시",
       "summary": [
-        "Google은 Hermantown에 데이터 센터를 건설하려는 제안의 배후에 있습니다.",
-        "이 제안은 논란이 되고 있습니다.",
-        "이 데이터 센터 건설 제안은 MPR 뉴스에 의해 보도되었습니다."
+        "ISBA(영국 광고주 협회)가 AI 콘텐츠 제작 가이드라인을 발표했습니다.",
+        "이 가이드라인은 브랜드 신뢰도를 유지하면서 AI를 활용하는 원칙을 제시합니다.",
+        "AI 기술을 광고 및 콘텐츠 제작에 효과적으로 통합하기 위한 지침을 제공합니다."
       ],
-      "whyImportant": "Google의 데이터 센터 건설은 지역 경제에 상당한 자본 지출을 의미합니다.",
-      "importanceRationale": "근거: Google과 같은 거대 기술 기업의 데이터 센터 투자는 지역 경제 활성화와 관련 산업 성장에 기여할 수 있기 때문입니다.",
-      "impactSignals": [
-        {
-          "label": "capex",
-          "evidence": "Google의 데이터 센터 건설 제안은 상당한 자본 지출을 수반합니다."
-        }
-      ],
-      "dedupeKey": "google-hermantown-datacenter-0923",
-      "clusterKey": "behind",
+      "whyImportant": "AI 콘텐츠 제작 가이드라인은 광고 산업의 투명성과 윤리적 기준을 높이는 데 기여합니다.",
+      "importanceRationale": "근거: AI 기술의 발전으로 콘텐츠 제작 방식이 변화함에 따라, 브랜드 신뢰도를 유지하고 소비자에게 투명성을 제공하는 것이 중요해졌습니다. ISBA의 가이드라인은 이러한 요구에 부응하며, 업계 표준을 설정하는 데 중요한 역할을 할 수 있습니다.",
+      "impactSignals": [],
+      "dedupeKey": "ISBA_AI_guidelines_2024",
+      "clusterKey": "isba",
       "matchedTo": null,
-      "sourceName": "MPR News",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbGhqTmk2VERYM0hVby1oWXBWSDZOM0ZFMm5DZm1Cbmc2WHk0enV5RW1SX05LbE42d042eUM4eTBvNEo5R0FjbzVDNk5BUFRWMi1HUGRxeUFUQjhKbG1XaE41d21BZEVxM0NOMndYaG1PVEVaQmdoczVyYzlPcDlxdFVzdllJSTk0LWlUZFhxMC1qSWpoU3BaUWctVVQwV19DVmVob21n?oc=5",
-      "publishedAt": "2026-03-03T14:00:00.000Z",
+      "sourceName": "매드타임스",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5qcDcxS09RRHRDNkFtcXZ5MGZ3THZaZzVCN2s5eEtZOWlQZEFWQ0RMbWhfYnMtZzBSbmhUS0Naam1wZ2QzWDgtNFdYTVJwSlFZR3owLWYxY2R2WkpzSG0zOVhGeWdjRUVqdmtvZA?oc=5",
+      "publishedAt": "2026-03-03T15:00:00.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 3.5,
+      "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "The article provides a concise and factual summary of the data center proposal.",
+      "qualityReason": "기사의 내용이 명확하고, 정보 전달이 효과적입니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-03-04_10",
       "date": "2026-03-04",
-      "category": "경제",
-      "title": "데이터 센터 건설 붐 이해",
-      "summary": [
-        "데이터 센터 건설이 활발하게 진행 중입니다.",
-        "이는 디지털 경제의 성장과 데이터 수요 증가에 따른 현상입니다."
-      ],
-      "whyImportant": "데이터 센터 건설 붐의 원인과 영향을 파악하는 것이 중요합니다.",
-      "importanceRationale": "근거: 데이터 센터 건설은 디지털 경제의 핵심 인프라 투자와 관련되어 있으며, 경제 성장과 기술 발전에 중요한 영향을 미칩니다.",
-      "impactSignals": [],
-      "dedupeKey": "data_center_boom",
-      "clusterKey": "boom",
-      "matchedTo": null,
-      "sourceName": "Newswise",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbGRSbWlkMzcxME9QN3ViQkJzSmRfdTZUYVl6dkU1cEdUVzQ3OHd4aW5zTVZrcVJIVmZQQ3ZHVU5MNmJnV0F6WGM4TV9ESWhEUGRlNnNKVDFwSUxyc21MX3ByV1RsSW93UkF5ZU14b2o0dHJ3blpETHhNeHlRbUZ1SW4tc9IBgwFBVV95cUxQbGRSbWlkMzcxME9QN3ViQkJzSmRfdTZUYVl6dkU1cEdUVzQ3OHd4aW5zTVZrcVJIVmZQQ3ZHVU5MNmJnV0F6WGM4TV9ESWhEUGRlNnNKVDFwSUxyc21MX3ByV1RsSW93UkF5ZU14b2o0dHJ3blpETHhNeHlRbUZ1SW4tcw?oc=5",
-      "publishedAt": "2026-03-03T09:40:00.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 63,
-      "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 내용이 일치하며, 정보가 명확합니다. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-03-04_11",
-      "date": "2026-03-04",
       "category": "정책",
       "title": "교육부, 대학 인공지능 활용 윤리 가이드라인 초안 발표",
       "summary": [
-        "교육부가 대학의 인공지능 활용 윤리 가이드라인 초안을 발표했습니다.",
-        "이 가이드라인은 대학 내 인공지능의 윤리적 사용을 위한 기준을 제시합니다."
+        "교육부가 대학 내 인공지능 활용에 대한 윤리 가이드라인 초안을 발표했습니다.",
+        "이번 가이드라인은 인공지능의 교육적 활용에 대한 윤리적 기준을 제시합니다."
       ],
-      "whyImportant": "대학 내 인공지능 활용에 대한 윤리적 기준을 제시하는 첫걸음입니다.",
-      "importanceRationale": "근거: 교육부가 대학 인공지능 활용에 대한 윤리 가이드라인 초안을 발표함으로써, 향후 대학의 관련 투자 및 정책 결정에 영향을 미칠 수 있습니다.",
+      "whyImportant": "대학에서의 인공지능 활용에 대한 윤리적 기준을 제시하는 첫걸음입니다.",
+      "importanceRationale": "근거: 교육부가 대학 내 AI 활용에 대한 윤리 가이드라인을 처음으로 제시함으로써, 향후 교육 분야의 AI 도입 및 활용에 중요한 영향을 미칠 수 있습니다.",
       "impactSignals": [
         {
           "label": "capex",
           "evidence": "대학 인공지능 활용 윤리 가이드라인 시안 발표"
         }
       ],
-      "dedupeKey": "edu-ai-ethics-guideline-draft",
+      "dedupeKey": "교육부, 대학 인공지능 활용 윤리 가이드라인 시안 발표",
       "clusterKey": "ai/가이드라인",
       "matchedTo": null,
       "sourceName": "교수신문",
@@ -340,80 +302,27 @@
       "importance": 3.5,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 핵심 내용을 잘 반영하고 있습니다.",
+      "qualityReason": "기사 내용이 명확하고 간결하게 요약되어 있습니다.",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-03-04_12",
-      "date": "2026-03-04",
-      "category": "정책",
-      "title": "“이제는 개헌이다” 국민투표법 개정, 특위로 이어질까",
-      "summary": [
-        "국민투표법 개정 논의가 특별위원회 구성으로 이어질지 주목된다.",
-        "개헌 논의가 다시 수면 위로 떠오르고 있다."
-      ],
-      "whyImportant": "국민투표법 개정 논의는 헌법 개정 가능성을 시사한다.",
-      "importanceRationale": "근거: 국민투표법 개정 논의가 개헌으로 이어질 수 있다는 점을 강조하고 있다.",
-      "impactSignals": [
-        {
-          "label": "policy",
-          "evidence": "국민투표법 개정 논의가 특별위원회 구성으로 이어질 가능성"
-        }
-      ],
-      "dedupeKey": "constitutional_amendment_referendum_law_revision",
-      "clusterKey": "개정",
-      "matchedTo": null,
-      "sourceName": "매일노동뉴스",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBEYXJ4dHJ3b0lHcE10TjRIUnFlVWZzcW41X1R1MGpPZzFHX1JieVlxcDRPNzZPbkZ2ZXg2T2J3WGNqTnNCYkhHX0tQMUVuRHpIaGt1TktlbWpwa0xnYnZSbmZRRGZBMEpVVGJYOHlBYXg?oc=5",
-      "publishedAt": "2026-03-03T07:54:06.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 3.5,
-      "importanceRaw": 63,
-      "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며 간결하게 요약됨.",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-03-04_13",
-      "date": "2026-03-04",
-      "category": "정책",
-      "title": "국회도서관, '독일의 사이버보안 강화를 위한 입법례' 「최신외국입법정보」 발간",
-      "summary": [
-        "국회도서관에서 '독일의 사이버보안 강화를 위한 입법례'를 다룬 「최신외국입법정보」를 발간했습니다."
-      ],
-      "whyImportant": "독일의 사이버보안 강화 입법례를 통해 한국의 사이버보안 정책에 시사점을 제공할 수 있습니다.",
-      "importanceRationale": "근거: 국회도서관에서 독일의 사이버보안 강화 입법례를 분석한 정보를 제공하므로, 정책 결정에 영향을 줄 수 있습니다.",
-      "impactSignals": [],
-      "dedupeKey": "국회도서관_독일_사이버보안_입법례",
-      "clusterKey": "강화를",
-      "matchedTo": null,
-      "sourceName": "everynews.co.kr",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMibEFVX3lxTE41eDBmQW1hb3B1dHhnQjJtY2k2bTNkaVhlUWRzdEdVemxqSUFjR2tjYmcyaU1fZzBaejlBckk2TTZGY2U5cE1SVUJHeTdickQ0Zi1EcDAzM2pRa08tZkFjbXpBcmZtSHg1U1B4Wg?oc=5",
-      "publishedAt": "2026-03-03T07:19:09.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 63,
-      "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 정보의 출처가 명확합니다. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-03-04_14",
+      "id": "2026-03-04_11",
       "date": "2026-03-04",
       "category": "경제",
-      "title": "이억원 금융위원장, \"정부 정책 대응 능력 충분, 시장안정 조치 적극 시행\"",
+      "title": "금융위원장 이억원 \"정부 정책 대응 능력 충분, 시장안정 조치 적극 시행\"",
       "summary": [
         "이억원 금융위원장은 정부의 정책 대응 능력이 충분하며 시장 안정 조치를 적극적으로 시행할 것이라고 밝혔습니다."
       ],
       "whyImportant": "정부의 시장 안정 의지를 보여주는 발언입니다.",
       "importanceRationale": "근거: 금융위원장이 직접 시장 안정 조치 시행 의지를 표명했기 때문입니다.",
-      "impactSignals": [],
-      "dedupeKey": "이억원 금융위원장, 정부 정책 대응 능력 충분, 시장안정 조치 적극 시행",
+      "impactSignals": [
+        {
+          "label": "policy",
+          "evidence": "금융위원장의 시장 안정 조치 시행 발언"
+        }
+      ],
+      "dedupeKey": "finance-minister-market-stability-assurance",
       "clusterKey": "금융위원장",
       "matchedTo": null,
       "sourceName": "비즈니스포스트",
@@ -421,25 +330,25 @@
       "publishedAt": "2026-03-03T02:03:07.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 2,
+      "importance": 3.5,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며 간결하게 요약되었습니다. / 근거부족",
+      "qualityReason": "기사 내용이 명확하고 간결합니다.",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-03-04_15",
+      "id": "2026-03-04_12",
       "date": "2026-03-04",
       "category": "경제",
       "title": "삼성전자 테일러 공장 반도체 대량 양산, 내년으로 연기",
       "summary": [
         "삼성전자 테일러 공장의 반도체 대량 양산이 내년으로 연기되었습니다."
       ],
-      "whyImportant": "삼성전자 테일러 공장의 양산 연기는 반도체 시장에 영향을 미칠 수 있습니다.",
-      "importanceRationale": "근거: 삼성전자 테일러 공장의 반도체 대량 양산이 내년으로 연기되었다는 정보는 반도체 산업의 투자 및 생산 계획에 대한 중요한 변화를 의미합니다.",
+      "whyImportant": "삼성전자 테일러 공장 반도체 양산 연기는 반도체 산업에 영향을 미칩니다.",
+      "importanceRationale": "근거: 삼성전자 테일러 공장의 반도체 대량 양산이 내년으로 연기되었다는 정보는 반도체 산업 투자 및 생산 계획에 대한 중요한 변경 사항을 나타냅니다.",
       "impactSignals": [],
-      "dedupeKey": "samsung_taylor_delay_ko",
+      "dedupeKey": "samsung-taylor-delay-ko",
       "clusterKey": "반도체/공장",
       "matchedTo": null,
       "sourceName": "Korea JoongAng Daily",
@@ -450,23 +359,49 @@
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "정확한 정보에 기반한 뉴스 기사입니다. / 근거부족",
+      "qualityReason": "The article provides a concise and factual summary of the news. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-03-04_16",
+      "id": "2026-03-04_13",
+      "date": "2026-03-04",
+      "category": "정책",
+      "title": "미국 전기 요금 상승 및 정책 솔루션에 대한 데이터 기반 분석",
+      "summary": [
+        "Clean Air Task Force에서 미국 전기 요금 상승의 원인과 정책적 해결책을 데이터 기반으로 분석했습니다."
+      ],
+      "whyImportant": "미국 전기 요금 상승의 원인과 해결책을 제시합니다.",
+      "importanceRationale": "근거: 미국 전기 요금 상승에 대한 데이터 기반 분석 및 정책 솔루션 제시",
+      "impactSignals": [],
+      "dedupeKey": "US_ELECTRICITY_COSTS_POLICY_SOLUTIONS",
+      "clusterKey": "costs",
+      "matchedTo": null,
+      "sourceName": "Clean Air Task Force",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNOFVxOEV0Y3ZBRnU3U2UtQ21OekJQMUJTR3FFNXM3SXlaUUlvbEE0YmRENDBCVV90SDVWM2VoZE9ETzlQbEFEdF9CM245QldWcjVCU1BoSGVxY1ZxZlVUOXhxWGFPbGNuRXMyS21RSUJELU1mbTBSbFpMMzFsZDhYMFdmYkU1czRzQ2dmOUE1TzItaTl1?oc=5",
+      "publishedAt": "2026-03-03T14:04:40.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 50,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 내용이 일치하며, 정보가 명확합니다. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-03-04_14",
       "date": "2026-03-04",
       "category": "경제",
-      "title": "데이터 센터, 전기 요금 대폭 할인 받나? 정보는 공개되지 않음",
+      "title": "데이터 센터, 전기 요금 대폭 할인? 정보 공개는 기밀.",
       "summary": [
         "데이터 센터가 전기 요금을 대폭 할인 받고 있는지에 대한 정보가 공개되지 않았습니다.",
-        "Yale Climate Connections에 따르면 관련 내용이 수정되었습니다."
+        "Yale Climate Connections에 따르면 관련 내용은 기밀로 처리되었습니다."
       ],
-      "whyImportant": "데이터 센터의 전기 요금 할인 여부 정보는 에너지 정책 및 데이터 센터 산업에 영향을 미칠 수 있습니다.",
-      "importanceRationale": "근거: 데이터 센터의 전기 요금 할인은 데이터 센터 운영 비용에 직접적인 영향을 미치며, 이는 데이터 센터 투자(capex) 결정에도 영향을 줄 수 있습니다. 또한, 에너지 소비와 관련된 정책 결정에도 중요한 정보가 될 수 있습니다.",
+      "whyImportant": "데이터 센터의 전기 요금 할인은 에너지 소비 및 비용에 영향을 미칩니다.",
+      "importanceRationale": "근거: 데이터 센터의 전기 요금 할인은 데이터 센터 운영 비용과 에너지 사용량에 중요한 영향을 미치므로 관련 정보 공개 여부가 중요합니다.",
       "impactSignals": [],
-      "dedupeKey": "data_center_electricity_discount_redacted",
+      "dedupeKey": "data-center-electricity-discount-redacted",
       "clusterKey": "big",
       "matchedTo": null,
       "sourceName": "Yale Climate Connections",
@@ -477,7 +412,34 @@
       "importance": 2,
       "importanceRaw": 50,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 간결하게 요약되었습니다. / 근거부족",
+      "qualityReason": "기사 제목과 내용이 일치하며, 간결하게 요약되었습니다. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-03-04_15",
+      "date": "2026-03-04",
+      "category": "경제",
+      "title": "York Water (NASDAQ:YORW), 분기별 실적 발표, EPS 예상치 0.04달러 상회",
+      "summary": [
+        "York Water(NASDAQ:YORW)가 분기별 실적을 발표했습니다.",
+        "EPS가 예상치를 0.04달러 상회했습니다."
+      ],
+      "whyImportant": "기업의 실적 발표는 투자자와 시장에 중요한 정보입니다.",
+      "importanceRationale": "근거: York Water의 실적 발표는 기업의 재무 건전성과 성장 가능성을 평가하는 데 중요한 지표가 됩니다. 예상치를 상회하는 EPS는 긍정적인 신호로 해석될 수 있습니다.",
+      "impactSignals": [],
+      "dedupeKey": "YORW_earnings_2024",
+      "clusterKey": "issues",
+      "matchedTo": null,
+      "sourceName": "MarketBeat",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPaGloVXRmVkNxWVpwNUN0SWNyYXlOS1JEbHZzTk1tQXBFbkk5VVpiRTJlUjN3TE43SkE4MUQwM0dEQk5rV2EteDdaYW52WEdVM09kYTl4dFc3LWY5WWhaelBlbGk4a2o0WGNqX1ZPMHVWWVFYT3MtUGhrb3hOMXNZaTZpcGczNUMzQjJMVXlwYmI4RWRaS3NGV01ReGZJNWxZM3JJekJPdzMzNHlucFpybUpxZ0x6WkJPUG01aFFUNlFieWVKMFl6RUJYVHNPUzN5N2c?oc=5",
+      "publishedAt": "2026-03-03T16:18:13.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 63,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 본문이 일치하며, 정보가 명확합니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     }
