@@ -3,7 +3,7 @@
   "selectionCriteria": "① 내일도 영향이 남는 이슈 ② 과도한 감정 소모 제외 ③ 어제와 중복되는 뉴스 제외",
   "editorNote": "이 뉴스는 클릭 수가 아니라 오늘 이후에도 남는 정보만 기준으로 편집했습니다.",
   "question": "정보를 덜 보는 것이 오히려 더 똑똑한 소비일까?",
-  "lastUpdatedAt": "2026-03-03T15:46:49.741+09:00",
+  "lastUpdatedAt": "2026-03-03T16:40:15.051+09:00",
   "items": [
     {
       "id": "2026-03-03_1",
@@ -15,9 +15,9 @@
         "한국무역협회에 따르면 이번 사태로 인해 에너지 시장에 큰 변동이 예상된다."
       ],
       "whyImportant": "카타르 LNG 시설의 가동 중단은 국제 천연가스 시장에 상당한 영향을 미치므로 중요합니다.",
-      "importanceRationale": "근거: 카타르의 LNG 시설 중단은 아시아 및 유럽의 천연가스 가격 급등을 초래하며, 이는 에너지 수급 및 가격 안정성에 중요한 영향을 미칩니다.",
+      "importanceRationale": "근거: 카타르는 주요 LNG 공급국이며, 시설 중단은 아시아 및 유럽의 가격 급등을 초래할 수 있습니다.",
       "impactSignals": [],
-      "dedupeKey": "카타르LNG시설가동중단에아시아·유럽천연가스가격폭등",
+      "dedupeKey": "카타르 LNG 시설 가동 중단, 천연가스 가격 폭등",
       "clusterKey": "에너지/lng시설",
       "matchedTo": null,
       "sourceName": "한국무역협회-KITA.NET",
@@ -36,15 +36,20 @@
       "id": "2026-03-03_2",
       "date": "2026-03-03",
       "category": "국제",
-      "title": "아마존, 스페인 투자 337억 유로로 확대… 유럽 전역의 데이터 센터 인프라 확장 및 AI 혁신 추진",
+      "title": "아마존, 스페인 투자 337억 유로로 확대… 유럽 전역 데이터 센터 인프라 확장 및 AI 혁신 추진",
       "summary": [
-        "아마존이 스페인에 337억 유로를 투자하여 데이터 센터 인프라를 확장한다.",
-        "이번 투자는 유럽 전역의 인공지능(AI) 혁신을 가속화하는 데 기여할 것이다."
+        "아마존이 스페인에 대한 투자를 337억 유로로 늘려 데이터 센터 인프라를 확장한다.",
+        "이번 투자는 유럽 전역의 인공지능 혁신을 촉진하는 데 기여할 것이다."
       ],
-      "whyImportant": "아마존의 대규모 투자는 스페인의 데이터 센터 인프라를 강화하고 유럽 전역의 AI 기술 발전에 중요한 역할을 할 것이다.",
-      "importanceRationale": "근거: 아마존이 스페인에 337억 유로를 투자하여 데이터 센터 인프라를 확장하고 유럽 전역의 AI 혁신을 추진한다는 내용에서 중요성을 알 수 있다.",
-      "impactSignals": [],
-      "dedupeKey": "amazon_spain_investment_20240110",
+      "whyImportant": "아마존의 대규모 투자는 스페인의 데이터 센터 인프라를 강화하고 유럽의 AI 기술 발전에 중요한 역할을 할 수 있다.",
+      "importanceRationale": "근거: 아마존이 스페인에 337억 유로를 투자하여 유럽 전역의 데이터 센터 인프라 확장 및 AI 혁신을 추진한다는 내용.",
+      "impactSignals": [
+        {
+          "label": "capex",
+          "evidence": "데이터 센터 인프라 확장을 위한 337억 유로 투자"
+        }
+      ],
+      "dedupeKey": "amazon-spain-investment-33.7b-eur",
       "clusterKey": "amazon",
       "matchedTo": null,
       "sourceName": "About Amazon",
@@ -52,24 +57,57 @@
       "publishedAt": "2026-03-02T15:57:20.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 2,
+      "importance": 4,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "기사 내용이 명확하고 간결함 / 근거부족",
+      "qualityReason": "The article provides a clear and concise summary of Amazon's investment plans in Spain.",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-03-03_3",
       "date": "2026-03-03",
+      "category": "정책",
+      "title": "마이크로소프트, 워싱턴 데이터 센터 규정에 대한 주요 변경 촉구",
+      "summary": [
+        "마이크로소프트는 워싱턴 데이터 센터 규정 법안이 최종 투표에 가까워짐에 따라 주요 변경을 촉구하고 있다.",
+        "이는 데이터 센터 산업에 상당한 영향을 미칠 수 있다.",
+        "마이크로소프트의 이러한 움직임은 정책 결정에 중요한 변수로 작용할 것이다."
+      ],
+      "whyImportant": "워싱턴 주의 데이터 센터 규정 변경은 마이크로소프트뿐만 아니라 전체 데이터 센터 산업에 큰 영향을 미칠 수 있기 때문에 중요합니다.",
+      "importanceRationale": "근거: 마이크로소프트가 직접 규정 변경을 촉구하고 있으며, 이는 해당 규정이 기업 운영에 미치는 영향이 크다는 것을 시사합니다.",
+      "impactSignals": [
+        {
+          "label": "policy",
+          "evidence": "워싱턴 데이터 센터 규정 법안에 대한 변경 요구"
+        }
+      ],
+      "dedupeKey": "microsoft-washington-data-center-regulations",
+      "clusterKey": "center",
+      "matchedTo": null,
+      "sourceName": "GeekWire",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZVFhTEdfbmVLUmM2cnhfWk5TQ2V3TEVRUEY1WTdhWVJJZDRZOWplSEdRR3pqcEs5bFNMdHRpaWlrSEw0bi1rX2JkOG1TVDEteEx1b2lhM2hYMlFfazI0ejR1aS1hc19MMnZHOEhuR2g0a0JZM3VSM2tvbUdxYldPdnYwVjNGWVJKQzRnTHdlMll0dFBFQUhiLXJsc1FiWDY4MkpLcC10ZzJYNmoxNXdFdXFudFpNRGtNLTBwOTV3clo?oc=5",
+      "publishedAt": "2026-02-28T15:41:27.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 4,
+      "importanceRaw": 75,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 본문이 일치하며, 핵심 내용을 잘 요약했습니다.",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-03-03_4",
+      "date": "2026-03-03",
       "category": "경제",
       "title": "AI발 반도체 수요에 삼성‧SK하이닉스 증설 '분주'…반도체 장비기업도 '꿈틀'",
       "summary": [
-        "AI로 인한 반도체 수요 증가로 삼성전자와 SK하이닉스가 증설에 박차를 가하고 있다.",
-        "반도체 장비 기업들도 활기를 띠고 있다."
+        "AI로 인한 반도체 수요 증가에 따라 삼성전자와 SK하이닉스가 증설에 박차를 가하고 있다.",
+        "반도체 장비 기업들도 활발하게 움직이고 있다."
       ],
-      "whyImportant": "AI 기술 발전으로 인한 반도체 수요 증가가 국내 주요 반도체 기업의 투자 확대와 관련 산업 성장을 견인하고 있음을 보여준다.",
-      "importanceRationale": "근거: AI 기술 발전은 반도체 산업의 중요한 성장 동력이며, 삼성전자와 SK하이닉스의 증설 투자는 이러한 추세를 반영한다. 이는 반도체 장비 기업에도 긍정적인 영향을 미친다.",
+      "whyImportant": "AI 기술 발전으로 인한 반도체 수요 증가가 국내 주요 반도체 기업의 투자 확대로 이어지고 있음을 보여준다.",
+      "importanceRationale": "근거: AI 기술 발전은 반도체 산업의 성장을 견인하며, 이는 삼성전자와 SK하이닉스의 증설 투자와 반도체 장비 기업의 활동 증가로 이어진다.",
       "impactSignals": [],
       "dedupeKey": "AI반도체수요삼성SK하이닉스증설",
       "clusterKey": "반도체/sk하이닉스",
@@ -87,56 +125,29 @@
       "isBreaking": false
     },
     {
-      "id": "2026-03-03_4",
-      "date": "2026-03-03",
-      "category": "정책",
-      "title": "마이크로소프트, 워싱턴 데이터 센터 규정의 주요 변경 촉구",
-      "summary": [
-        "마이크로소프트는 워싱턴 데이터 센터 규정에 대한 주요 변경을 촉구했습니다.",
-        "이는 관련 법안이 최종 투표에 가까워짐에 따른 것입니다."
-      ],
-      "whyImportant": "워싱턴 데이터 센터 규정 변경에 대한 마이크로소프트의 요구는 데이터 센터 산업과 관련 정책에 영향을 미칠 수 있습니다.",
-      "importanceRationale": "근거: 마이크로소프트는 주요 기술 기업으로서 데이터 센터 규정에 대한 의견을 제시하고 있으며, 이는 정책 결정에 영향을 줄 수 있습니다.",
-      "impactSignals": [],
-      "dedupeKey": "microsoft-washington-data-center-regulations",
-      "clusterKey": "center",
-      "matchedTo": null,
-      "sourceName": "GeekWire",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZVFhTEdfbmVLUmM2cnhfWk5TQ2V3TEVRUEY1WTdhWVJJZDRZOWplSEdRR3pqcEs5bFNMdHRpaWlrSEw0bi1rX2JkOG1TVDEteEx1b2lhM2hYMlFfazI0ejR1aS1hc19MMnZHOEhuR2g0a0JZM3VSM2tvbUdxYldPdnYwVjNGWVJKQzRnTHdlMll0dFBFQUhiLXJsc1FiWDY4MkpLcC10ZzJYNmoxNXdFdXFudFpNRGtNLTBwOTV3clo?oc=5",
-      "publishedAt": "2026-02-28T15:41:27.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 63,
-      "qualityLabel": "ok",
-      "qualityReason": "제목과 기사 내용이 일치하며, 정보가 명확합니다. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
       "id": "2026-03-03_5",
       "date": "2026-03-03",
-      "category": "경제",
-      "title": "엔비디아, 사상 최고 실적에도 5.5% 급락… \"AI 거품 우려 재확산\"",
+      "category": "정책",
+      "title": "국회 내 윤석열 대통령 사진 철거, 우원식 국회의장 \"헌법 정신에 부합하지 않아\"",
       "summary": [
-        "엔비디아가 사상 최고 실적을 기록했음에도 불구하고 주가가 5.5% 급락했다.",
-        "이는 AI 거품에 대한 우려가 재확산된 결과로 분석된다."
+        "국회 내에 게시된 윤석열 대통령의 사진이 우원식 국회의장의 판단에 따라 철거됨.",
+        "우 의장은 대통령 사진 게시가 헌법 정신에 부합하지 않는다고 판단한 것으로 알려짐."
       ],
-      "whyImportant": "엔비디아의 주가 급락은 AI 시장 전반에 대한 투자 심리에 영향을 미칠 수 있다.",
-      "importanceRationale": "근거: 엔비디아는 AI 반도체 시장의 선두 주자이며, 주가 변동은 시장 전체의 투자 심리를 반영하는 지표로 활용될 수 있다.",
+      "whyImportant": "국회 내 대통령 사진 철거는 헌법 정신에 대한 해석과 관련된 중요한 결정입니다.",
+      "importanceRationale": "근거: 국회의장의 결정은 국회 운영의 독립성과 헌법적 가치에 대한 해석을 반영하며, 향후 유사 사례에 대한 선례가 될 수 있습니다.",
       "impactSignals": [],
-      "dedupeKey": "nvidia-stock-drop-20240229",
-      "clusterKey": "거품",
+      "dedupeKey": "20240617-국회-대통령사진-철거",
+      "clusterKey": "국회",
       "matchedTo": null,
-      "sourceName": "한국무역협회-KITA.NET",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOdDVzWWtGMjh1NURHdFMxMmY3Zy1saUZNOFBqT0Z0RGN0VzRPSG1GMGI3MHNaMHR5d18tU3lfVTd0NVA1NklNWC0wSzVKRUdacEw0cmlfaF9VUjBnLUZhZkhGcjFlY2RoTXVGanpHcFZFeGx4S0xPX0NjUWRFd1JSOVJFSXZqMXREbllzcHdFbnQyVGUwV2pVbWR0R0ctVkxwWDNMSDVXZmVWYTdZZkNFMU9GSTVuVUFhaEIzaHdtSVRld0pNazVtRU15LXZGdjNiNWhVaw?oc=5",
-      "publishedAt": "2026-03-03T01:35:23.000Z",
+      "sourceName": "한국경제",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE55a0JxcjhRSzQwdGN0SkYxb3oyZ1p2UDdPVWxPOEhkcnlIU0wzeHVQWFpvR2ZfVUIxM1NQX1NvS2JqRGN2Q045a1liUjZnaDlGYmtha19YbnVBQdIBVEFVX3lxTE05ZV9FbTNVSTdoVkZKQzh4UFRIUUxaRzNwNVg2SDJyMU9MYTlLLW9ScVBLS2M2NjByRVByazJsSnBtMGkxdEFvek1uRmFrVGNvWVZpMQ?oc=5",
+      "publishedAt": "2026-03-03T06:40:45.000Z",
       "readTimeSec": 10,
       "status": "kept",
       "importance": 2,
-      "importanceRaw": 63,
+      "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 간결하게 핵심 내용을 전달한다. / 근거부족",
+      "qualityReason": "제목과 본문이 일치하며, 간결하게 핵심 내용을 전달합니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -149,12 +160,12 @@
         "삼성 평택공장이 HBM(고대역폭메모리) 전진기지 역할을 수행한다.",
         "메모리 반도체와 파운드리 사업 간 시너지 확대가 기대된다."
       ],
-      "whyImportant": "삼성전자의 평택 공장이 HBM 생산의 핵심 기지가 됨으로써, 메모리 반도체 시장에서의 경쟁력 강화 및 파운드리 사업과의 시너지 효과를 창출할 수 있기 때문입니다.",
-      "importanceRationale": "근거: 삼성 평택공장이 HBM 생산의 핵심 기지로 발전하고, 이는 메모리 및 파운드리 사업 간 시너지 확대로 이어질 수 있다는 점을 고려했습니다.",
+      "whyImportant": "삼성전자의 평택 공장이 HBM 생산의 핵심 기지가 됨으로써, 메모리 반도체 시장에서의 경쟁력 강화 및 파운드리 사업과의 시너지 효과를 창출할 수 있기 때문에 중요합니다.",
+      "importanceRationale": "근거: 삼성 평택 공장이 HBM 생산의 중심 역할을 하며, 이는 메모리 반도체 시장에서의 삼성의 입지를 강화하고 파운드리 사업과의 협력을 촉진할 수 있습니다.",
       "impactSignals": [
         {
           "label": "capex",
-          "evidence": "평택공장이 HBM 전진기지로 활용됨에 따라 관련 설비 투자가 확대될 것으로 예상됨"
+          "evidence": "삼성 평택 공장이 HBM 전진기지로서의 역할 확대로 설비 투자 확대 예상"
         }
       ],
       "dedupeKey": "samsung-pyeongtaek-hbm-20240126",
@@ -168,7 +179,7 @@
       "importance": 4,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되어 있습니다.",
+      "qualityReason": "기사 내용이 간결하고 명확하며, 핵심 내용을 잘 전달하고 있습니다.",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -178,12 +189,12 @@
       "category": "경제",
       "title": "영원무역, 증권가 '성장 지속' 전망에 3% 상승",
       "summary": [
-        "영원무역 주가가 증권가의 성장 전망에 힘입어 3% 상승했다."
+        "영원무역이 증권가의 성장 지속 전망에 힘입어 3% 상승했다."
       ],
-      "whyImportant": "영원무역의 성장세 지속 전망이 투자 심리에 긍정적인 영향을 미치고 있습니다.",
-      "importanceRationale": "근거: 증권가의 긍정적인 전망이 주가 상승으로 이어진 것으로 보아, 시장의 신뢰를 얻고 있음을 알 수 있습니다.",
+      "whyImportant": "영원무역의 주가 상승 요인 분석",
+      "importanceRationale": "근거: 증권가의 긍정적인 성장 전망이 영원무역 주가에 긍정적인 영향을 미쳤다.",
       "impactSignals": [],
-      "dedupeKey": "youngone-2024-10-26",
+      "dedupeKey": "영원무역_주가_상승",
       "clusterKey": "상승",
       "matchedTo": null,
       "sourceName": "Chosunbiz",
@@ -194,23 +205,28 @@
       "importance": 2,
       "importanceRaw": 50,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되어 있습니다. / 근거부족",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약됨. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-03-03_8",
       "date": "2026-03-03",
-      "category": "기술",
+      "category": "경제",
       "title": "양자 컴퓨팅, 예상 수익 부합, 매출은 예상치 하회",
       "summary": [
         "양자 컴퓨팅의 수익은 예상치에 부합했으나 매출은 예상치를 밑돌았습니다.",
         "Investor's Business Daily에서 보도했습니다."
       ],
-      "whyImportant": "매출 부진에도 불구하고 수익이 예상치에 부합했다는 것은 비용 관리가 효과적이었음을 시사합니다.",
-      "importanceRationale": "근거: 수익과 매출은 회사의 재정적 건전성을 나타내는 핵심 지표입니다. 예상 수익 부합은 긍정적이지만, 매출 부진은 향후 성장 가능성에 대한 우려를 불러일으킬 수 있습니다.",
-      "impactSignals": [],
-      "dedupeKey": "QuantumComputing_Earnings_RevenueMisses",
+      "whyImportant": "양자 컴퓨팅 회사의 재무 성과는 기술 산업의 투자 및 성장 추세를 나타냅니다.",
+      "importanceRationale": "근거: 수익과 매출 데이터는 회사의 현재 재정 상태와 미래 성장 잠재력을 평가하는 데 중요합니다.",
+      "impactSignals": [
+        {
+          "label": "earnings",
+          "evidence": "수익은 예상치에 부합했지만 매출은 예상치를 하회했습니다."
+        }
+      ],
+      "dedupeKey": "QuantumComputingEarningsInLineRevenueMissesEstimates",
       "clusterKey": "computing",
       "matchedTo": null,
       "sourceName": "Investor's Business Daily",
@@ -218,42 +234,42 @@
       "publishedAt": "2026-03-02T22:08:00.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 2,
+      "importance": 3,
       "importanceRaw": 50,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었습니다. / 근거부족",
+      "qualityReason": "The article provides a concise report of the company's earnings and revenue.",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-03-03_9",
       "date": "2026-03-03",
-      "category": "경제",
-      "title": "OpenAI, 아마존, 엔비디아, 소프트뱅크의 지원으로 1,100억 달러 자금 조달 발표",
+      "category": "에너지",
+      "title": "이란 공격으로 카타르에너지 LNG 생산 중단...글로벌 가스 시장 초비상",
       "summary": [
-        "OpenAI가 아마존, 엔비디아, 소프트뱅크의 지원을 받아 1,100억 달러의 자금 조달을 발표했습니다.",
-        "이번 자금 조달은 OpenAI의 AI 기술 개발 및 확장에 기여할 것으로 예상됩니다."
+        "이란의 공격으로 카타르에너지의 LNG 생산이 중단되었습니다.",
+        "글로벌 가스 시장에 비상이 걸렸습니다."
       ],
-      "whyImportant": "OpenAI의 대규모 자금 조달은 AI 산업 전반에 걸쳐 상당한 영향을 미칠 수 있습니다.",
-      "importanceRationale": "근거: OpenAI는 AI 분야의 선두 주자이며, 이번 투자는 AI 기술 개발 경쟁을 더욱 심화시킬 수 있습니다.",
+      "whyImportant": "카타르에너지의 LNG 생산 중단은 글로벌 가스 시장에 큰 영향을 미칠 수 있습니다.",
+      "importanceRationale": "근거: 이란의 공격으로 카타르에너지의 LNG 생산이 중단되어 글로벌 가스 공급에 차질이 예상됩니다.",
       "impactSignals": [
         {
-          "label": "policy",
-          "evidence": "대규모 자금 조달은 AI 기술 개발 및 규제 정책에 영향을 미칠 수 있음"
+          "label": "security",
+          "evidence": "이란 공격으로 카타르에너지 LNG 생산 중단"
         }
       ],
-      "dedupeKey": "openai_110b_funding",
-      "clusterKey": "amazon",
+      "dedupeKey": "iran-attack-qatar-energy-lng-production-halt",
+      "clusterKey": "lng",
       "matchedTo": null,
-      "sourceName": "CNBC",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1KaU96T3RkQVdIMi1nRWxNNGtHV21CeEpSMjFUZjJ2QmVRc003Um14OHhDMXpEaXp1REI3Ymw3bmJYWDlmLVhBeXRMWktOblAteVF3TFM5TXl4cF92RFJ1ZlNkX1lWeGt1VXN3b1NrNnQySFHSAXhBVV95cUxNZ1JieU9sZFVUODZNUW9vRjJqc3FWdFp0NmplWTNsSWs3SlhZeEh2d1FSQjNQUW9zT183a21KTzFKel9iQ2oyU2R1SjNWVXFQUVdES0dIdzdmYXI1Vl9iTk96YWRJSDY5emZoOUFRdmFQMUhIUE5qR3E?oc=5",
-      "publishedAt": "2026-02-27T13:31:11.000Z",
+      "sourceName": "투데이에너지",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0tVkVtY2ZmbG9ZZ3RJZmZNai1BZ29IOF9CWHFqaEgtUEFHX2MxSEU1VTkzRjAzemtGai13NGVaQm5IZGxKblBTc0h3VzQ5SUFVbG4tekh5WWpZN2Y1bThzNEpvNmJOOEdVczZ4WQ?oc=5",
+      "publishedAt": "2026-03-03T05:18:56.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 4,
-      "importanceRaw": 75,
+      "importance": 4.5,
+      "importanceRaw": 88,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 정보가 명확합니다.",
+      "qualityReason": "The article provides a concise and factual report on a significant event.",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -264,12 +280,13 @@
       "title": "한-싱가포르 정상회담, FTA 개선 협상 개시 합의…소형모듈원전 공동개발",
       "summary": [
         "한국과 싱가포르가 자유무역협정(FTA) 개선 협상 개시를 합의했다.",
-        "양국은 소형모듈원전 공동 개발에도 협력하기로 했다."
+        "양국은 소형모듈원전(SMR) 공동 개발에도 협력하기로 했다.",
+        "이번 정상회담을 통해 양국 간 경제 협력이 더욱 강화될 것으로 기대된다."
       ],
-      "whyImportant": "이번 합의는 양국 간 경제 협력을 강화하고, 새로운 성장 동력을 창출하는 데 기여할 수 있다.",
-      "importanceRationale": "근거: 한-싱가포르 정상회담에서 FTA 개선 협상 개시와 소형모듈원전 공동 개발에 합의함.",
+      "whyImportant": "이번 합의는 한국과 싱가포르 간의 경제 협력을 심화시키고, 미래 에너지 기술 개발에 기여할 수 있기 때문에 중요합니다.",
+      "importanceRationale": "근거: FTA 개선 협상 개시와 소형모듈원전 공동 개발은 양국 간의 경제적, 기술적 협력을 강화하는 중요한 계기가 될 수 있습니다.",
       "impactSignals": [],
-      "dedupeKey": "20240103-한-싱가포르 정상회담, FTA 개선 협상 개시 합의…소형모듈원전 공동개발",
+      "dedupeKey": "한-싱가포르 정상회담, FTA 개선 협상 개시, 소형모듈원전 공동개발",
       "clusterKey": "fta",
       "matchedTo": null,
       "sourceName": "한겨레",
@@ -280,60 +297,66 @@
       "importance": 2,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약됨. / 근거부족",
+      "qualityReason": "기사 제목과 내용이 일치하며, 핵심 내용을 잘 요약했습니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-03-03_11",
       "date": "2026-03-03",
-      "category": "정책",
-      "title": "조희대, \"국회 입법 활동 존중…헌법이 부여한 소임 다할 것\"",
+      "category": "경제",
+      "title": "얼라인, 주주제안 거부한 가비아에 법적대응… \"이사보수 공개해야\"",
       "summary": [
-        "조희대는 국회의 입법 활동을 존중하며 헌법이 부여한 소임을 다하겠다고 밝혔다."
+        "얼라인은 주주제안을 거부한 가비아에 대해 법적 대응을 할 것이라고 밝혔습니다.",
+        "얼라인은 가비아 이사 보수 공개를 요구하고 있습니다."
       ],
-      "whyImportant": "조희대의 발언은 헌법적 책무에 대한 그의 의지를 보여준다.",
-      "importanceRationale": "근거: 조희대가 국회의 입법 활동을 존중하고 헌법에 따른 책임을 완수하겠다는 의지를 표명했기 때문이다.",
+      "whyImportant": "주주 권익 보호 및 기업 투명성 강화에 중요한 사안입니다.",
+      "importanceRationale": "근거: 얼라인파트너스의 법적 대응은 기업 지배구조 개선 및 주주 권리 행사에 대한 중요한 사례를 제시하며, 다른 주주 행동주의 펀드 및 투자자들에게 영향을 줄 수 있습니다.",
       "impactSignals": [],
-      "dedupeKey": "조희대_국회_입법활동_존중",
-      "clusterKey": "국회",
+      "dedupeKey": "align-gabia-legal-action-0924",
+      "clusterKey": "가비아에",
       "matchedTo": null,
-      "sourceName": "한국경제",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9NTzk4UzJKUzRaTVBscXhqZzFMWFRFWTdYTkZvSVluUjZpOV9xNXhxM3FmcWtLOG5KcC1TSDlJWlpmSDlHUHRlM2cwSWc0ZUFkeUNjdHg3enpQUdIBVEFVX3lxTE1uaE44d25LTE4zeGJqRHkzMXhrTjV5ZkFXUU5IVjJQRkF4M2gxVVgxLUxibjBnTGItOUhhVkxhZnA5Zm5acGxPSW90b3o3QjBWMjVTSw?oc=5",
-      "publishedAt": "2026-03-03T00:26:49.000Z",
+      "sourceName": "마켓인",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTFByUU9oeGhzVkFsZUVTUVNyWkpvc2FFd3JheUgySlFrNG93bFhPejlwNzNFY3FTNUhhR01hYTZhSnEybk1pcjFTa1k5V055Sm1hYWd0Wi01V1VCRzNMWHFtRXhWUGp5Z0o4THpYMHdyWTZabG8?oc=5",
+      "publishedAt": "2026-03-03T02:05:07.000Z",
       "readTimeSec": 10,
       "status": "kept",
       "importance": 2,
-      "importanceRaw": 50,
+      "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "기사에 정보가 명확하게 드러나 있다. / 근거부족",
+      "qualityReason": "기사 내용이 명확하고 간결하며, 핵심 정보를 잘 전달하고 있습니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-03-03_12",
       "date": "2026-03-03",
-      "category": "국제",
-      "title": "2026년 2월 주요 데이터 유출",
+      "category": "정책",
+      "title": "TEP, 도시의 전력망 인수 비용이 납세자에게 40억 달러에 달할 수 있다고 밝혀",
       "summary": [
-        "2026년 2월의 주요 데이터 유출 사건들이 발생했습니다.",
-        "Security Boulevard에서 관련 내용을 보도했습니다."
+        "TEP는 도시의 전력망 인수에 납세자 비용이 40억 달러가 소요될 수 있다고 발표했습니다.",
+        "이는 AZPM 뉴스를 통해 보도되었습니다."
       ],
-      "whyImportant": "데이터 유출은 개인 정보 및 기업 보안에 심각한 위협이 됩니다.",
-      "importanceRationale": "근거: 데이터 유출은 사용자 정보의 노출, 금전적 손실, 평판 하락 등 심각한 결과를 초래할 수 있기 때문입니다.",
-      "impactSignals": [],
-      "dedupeKey": "202602_databreach",
-      "clusterKey": "boulevard",
+      "whyImportant": "도시의 전력망 인수 비용은 시민들의 세금 부담에 직접적인 영향을 미치기 때문에 중요합니다.",
+      "importanceRationale": "근거: TEP의 발표에 따르면 전력망 인수 비용이 상당하며, 이는 결국 납세자에게 전가될 수 있습니다.",
+      "impactSignals": [
+        {
+          "label": "policy",
+          "evidence": "TEP says city takeover of electric grid could cost taxpayers $4 billion"
+        }
+      ],
+      "dedupeKey": "TEP_city_takeover_electric_grid_4billion",
+      "clusterKey": "에너지/city",
       "matchedTo": null,
-      "sourceName": "Security Boulevard",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBRdkNEYjlOTDBjTVMwa3JUb2ZES0hSV2FTMzFFMGk1WkZ4Nlo4QVp6WUFmSFZmNElJSU85WnlhSURBTGJZQ21xaWZDd0JEOTVnS250SFhlb0kzM3AxQ2NmX3NxZ2ZiLVJYMk1aYVd2NWo3eTVNNldZeE5kSThwZw?oc=5",
-      "publishedAt": "2026-03-02T17:04:03.000Z",
+      "sourceName": "AZPM News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMnB2RUhIVmJDZmFJaThDbU80SkREdVR5cnpXOWdfTmFocHNDM3JTQWhfaU5xTENvTmFuY3pCVHd1SE9aQmRMV0xJdVdFYUpNdmo5ekVXUjEzMEpXMWNrb0Nrdlg1VVBpM0JlZXVYdTE2c096MTBXVjNDNUpmY090czc5TG1NSWNVS2dGMkNRMG9tWmVUbk9kaTZxWFdqRmlwMTd0Wg?oc=5",
+      "publishedAt": "2026-03-02T22:39:29.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 2,
+      "importance": 4,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 정보가 명확합니다. / 근거부족",
+      "qualityReason": "The article provides a clear statement from a credible source (TEP) regarding a specific financial impact.",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -341,13 +364,39 @@
       "id": "2026-03-03_13",
       "date": "2026-03-03",
       "category": "정책",
+      "title": "국회도서관, '독일의 사이버보안 강화를 위한 입법례' 「최신외국입법정보」 발간",
+      "summary": [
+        "국회도서관에서 '독일의 사이버보안 강화를 위한 입법례'를 다룬 「최신외국입법정보」를 발간했습니다."
+      ],
+      "whyImportant": "독일의 사이버보안 강화 입법례를 통해 한국의 사이버보안 정책 수립에 참고할 수 있습니다.",
+      "importanceRationale": "근거: 국회도서관에서 발간한 자료는 독일의 사이버보안 강화 입법례를 분석하여 제공하므로, 국내 정책 결정에 시사점을 제공할 수 있습니다.",
+      "impactSignals": [],
+      "dedupeKey": "국회도서관, '독일의 사이버보안 강화를 위한 입법례' 「최신외국입법정보」 발간",
+      "clusterKey": "강화를",
+      "matchedTo": null,
+      "sourceName": "everynews.co.kr",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMibEFVX3lxTE41eDBmQW1hb3B1dHhnQjJtY2k2bTNkaVhlUWRzdEdVemxqSUFjR2tjYmcyaU1fZzBaejlBckk2TTZGY2U5cE1SVUJHeTdickQ0Zi1EcDAzM2pRa08tZkFjbXpBcmZtSHg1U1B4Wg?oc=5",
+      "publishedAt": "2026-03-03T07:19:09.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 63,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 텍스트가 일치하며, 정보가 명확합니다. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-03-03_14",
+      "date": "2026-03-03",
+      "category": "정책",
       "title": "치협, 국가구강검진 관련 국회토론회 개최",
       "summary": [
         "대한치과의사협회는 국가구강검진 관련 국회토론회를 개최했다.",
         "토론회는 구강검진의 중요성을 강조하고 정책 개선 방안을 모색하기 위해 마련되었다."
       ],
-      "whyImportant": "국가 구강검진 정책에 영향을 미칠 수 있는 토론회 개최",
-      "importanceRationale": "근거: 치과의사협회가 주최한 국회토론회는 구강검진 정책 방향에 대한 논의를 촉진하고, 정책 결정에 영향을 줄 수 있다.",
+      "whyImportant": "국가 구강검진 정책 방향에 영향을 줄 수 있는 토론회 개최 소식입니다.",
+      "importanceRationale": "근거: 치과의사협회가 주최하는 국회토론회는 관련 정책 결정에 영향을 미칠 수 있기 때문입니다.",
       "impactSignals": [],
       "dedupeKey": "치협, 국가구강검진 관련 국회토론회 개최",
       "clusterKey": "개최",
@@ -360,22 +409,22 @@
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약됨. / 근거부족",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었습니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-03-03_14",
+      "id": "2026-03-03_15",
       "date": "2026-03-03",
       "category": "국제",
       "title": "'대미투자특별법' 표류…K-산업, '관세 불확실성' 가중",
       "summary": [
-        "대미투자특별법이 표류하면서 한국 산업의 관세 불확실성이 가중되고 있다."
+        "'대미투자특별법'의 표류로 인해 K-산업의 '관세 불확실성'이 가중되고 있다."
       ],
-      "whyImportant": "대미투자특별법의 표류는 한국 산업에 대한 관세 불확실성을 높여 경제적 영향을 미칠 수 있다.",
-      "importanceRationale": "근거: 대미투자특별법의 표류가 K-산업의 관세 불확실성을 가중시킨다는 직접적인 언급이 기사에 나타나 있다.",
+      "whyImportant": "미국 투자 관련 특별법의 지연은 한국 산업에 관세 관련 불확실성을 증가시킵니다.",
+      "importanceRationale": "근거: '대미투자특별법' 표류로 K-산업의 '관세 불확실성'이 가중된다는 직접적인 언급이 있습니다.",
       "impactSignals": [],
-      "dedupeKey": "daemitojajibeop-pyoryu-k-saneop-gwanse-bulhwaksilseong-gajung",
+      "dedupeKey": "daemituja teukbyeolbeop pyoryu k-saneop gwanse bulhwaksilseong gajung",
       "clusterKey": "가중",
       "matchedTo": null,
       "sourceName": "매일일보",
@@ -386,66 +435,34 @@
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되어 있음. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-03-03_15",
-      "date": "2026-03-03",
-      "category": "정책",
-      "title": "베트남-그리스 국회, 협력 관계 강화 합의…EVIPA 비준 및 IUU 문제 해결 촉구",
-      "summary": [
-        "베트남과 그리스 국회가 협력 관계 강화에 합의했다.",
-        "양국은 EVIPA 비준과 불법, 비보고, 비규제(IUU) 어업 문제 해결을 촉구했다."
-      ],
-      "whyImportant": "베트남과 그리스 간의 협력 강화는 양국 관계 발전에 중요한 계기가 될 수 있습니다.",
-      "importanceRationale": "근거: 양국 국회가 EVIPA 비준과 IUU 문제 해결을 촉구하며 협력 관계를 강화하기로 합의했기 때문입니다.",
-      "impactSignals": [],
-      "dedupeKey": "베트남-그리스 국회, 협력 관계 강화 합의…EVIPA 비준‧IUU 문제 해결 촉구",
-      "clusterKey": "evipa",
-      "matchedTo": null,
-      "sourceName": "VOV World",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi3AZBVV95cUxNREJmNDZLZFl1YjYzUWpneFBzOFZkc3V3YV84Y3V5MFZZeGZobHpxcGhGNk1zaThrOFl0RU92ZkIwVENnMHI4RXJQOUI4TmV0dEpLdmRZNjdfVmZVc2sxT2lDLUhtUmg0TnlsYVZMS3hQM1oweVRGdWt1R2o0RzNvc2dsY3dTdkYtVnpYUHhBdGlMTW9FMnJKS3BkWkpUU1djbFFqbHJWdzR3T0lacGx2aEYxbGVTSk05YkhTSmJBcmdzbHlITXJQblFHaUlzWXNsRVJINUJnUXVyZVhCU1lSYVlBdXpDVjlXRF9hOEtibWJYQ29LckdCVFhZYmRCRU9DUkJaQUIwTl9hbFBLamNDRmZCSGZodlE2bW9OQ1VwaFhkZldHd01ucERCcFdxRE9Pa3Q3VEdQZ2k0UElhZ1NWS1EwX2VlUVFlRm1MYmR5U0dQS1A1bnQtckROMl9aS0hzVVp3SE5MWmM0djF4anpobzNhbVRWdUpHejlyOGRFMTdKa0dvUFZNZUkwcDBKMnEzYW1XbHE3d29kM3dzcnVKNFFIbGJJNlp4dzlEZ3Vjbnp1R1U0YWRMd2h2WTZDUTlIeXdTVV9hYWo1WnA0enpLaEk1Sm9nTWpZck1GN0JxNVloUzVHY2RCaDRaVTJlMFNxRGU2WjJJTURrRnhuWmR0WlVKTktJRk5wLVZaQlBWS3Z2M2lTcXVYMEtlbDJybjgwQk5vU2M3cVQ1WjhTQ0tmamlpN25zTnFSenRpVWVmejl6eGh4ZjhMZGhXTXNKTm9BN2VBb0FnbGl4MHg2SWlHTHE0UEduWTczZzlIaXk0NUlUb3ZJOTJXT0FDTzVvc19tVlBhR1BLbVNIbTF1SUZwWU9RSGU0aFpUY1dXUW44STdPbmVydWpadUVZby1VblF5ZXRmZ2lERUphZGZKM21TWHpwUXJYNWtEb2RfcmNSUlI1ZFdkUU9lQ19RZ0ZDdkozMW5UcHppUWk0RmNaVUstUGNlNlN3NHMwUkU0SGVRX0NQRUVqeE1SN3owYWJkcUs5bFlPQXFoclNsaUJQTWF2djM4dnFNZlo5TUxKMTFUZHZyZkxYLXVkTDdEdUNfOG56aGlWcHk4Q2o1VnRldWF3YWhUb0JCTTJiMjlPRw?oc=5",
-      "publishedAt": "2026-03-03T06:02:07.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 63,
-      "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 내용이 일치하며, 간결하게 요약되어 있습니다. / 근거부족",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었습니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-03-03_16",
       "date": "2026-03-03",
-      "category": "정책",
-      "title": "[공지] 검찰청 '간판갈이'에 그친 중수청·공소청 법안 기자설명회",
+      "category": "국제",
+      "title": "2026년 2월 주요 데이터 유출",
       "summary": [
-        "참여연대는 검찰청의 명칭만 바꾼 중수청 및 공소청 법안에 대한 기자설명회를 개최한다.",
-        "해당 법안은 실질적인 변화 없이 명칭만 변경되었다는 비판을 받고 있다."
+        "2026년 2월에 발생한 주요 데이터 유출 사고에 대한 보고서입니다.",
+        "Security Boulevard에서 관련 내용을 발표했습니다."
       ],
-      "whyImportant": "검찰 개혁 관련 법안에 대한 비판적 시각을 제시하는 내용입니다.",
-      "importanceRationale": "근거: 참여연대의 기자설명회 개최는 검찰 개혁 논의에 중요한 관점을 제공하며, 정책 결정에 영향을 줄 수 있다.",
-      "impactSignals": [
-        {
-          "label": "policy",
-          "evidence": "중수청 및 공소청 법안에 대한 기자설명회 개최"
-        }
-      ],
-      "dedupeKey": "20240118_검찰개혁법안기자설명회",
-      "clusterKey": "간판갈이",
+      "whyImportant": "데이터 유출은 개인 정보 및 기업 보안에 심각한 위협이 됩니다.",
+      "importanceRationale": "근거: 데이터 유출은 사용자 정보의 노출, 금전적 손실, 기업 이미지 손상 등 광범위한 부정적 결과를 초래할 수 있습니다.",
+      "impactSignals": [],
+      "dedupeKey": "202602_databreach",
+      "clusterKey": "boulevard",
       "matchedTo": null,
-      "sourceName": "참여연대",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE43TGY3TFhmdEt4OW1nR1h6V0RXbHcxUm5QU21lQWVwS3p3cjhFeGZBRERrRGNsbnZwVVpWajdDS3JxbkFsd2ZTUVc3anhRcURiakcxcm9jUU5EclU?oc=5",
-      "publishedAt": "2026-03-03T02:47:07.000Z",
+      "sourceName": "Security Boulevard",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBRdkNEYjlOTDBjTVMwa3JUb2ZES0hSV2FTMzFFMGk1WkZ4Nlo4QVp6WUFmSFZmNElJSU85WnlhSURBTGJZQ21xaWZDd0JEOTVnS250SFhlb0kzM3AxQ2NmX3NxZ2ZiLVJYMk1aYVd2NWo3eTVNNldZeE5kSThwZw?oc=5",
+      "publishedAt": "2026-03-02T17:04:03.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 3.5,
+      "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "기사 내용이 명확하고 간결하며, 핵심 정보를 잘 전달하고 있다.",
+      "qualityReason": "제목과 내용이 일치하며, 정보가 간결하게 요약되어 있습니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -453,15 +470,15 @@
       "id": "2026-03-03_17",
       "date": "2026-03-03",
       "category": "국제",
-      "title": "히미노, 중립 정책으로의 잠재적 전환 신호로 일본은행 금리, 중대한 변화에 직면",
+      "title": "히미노, 중립 정책으로의 잠재적 전환을 시사하면서 일본은행 금리가 중대한 변화에 직면",
       "summary": [
-        "히미노의 신호로 일본은행 금리가 중립 정책으로 전환될 가능성이 있습니다.",
-        "이는 일본은행 금리가 중대한 변화에 직면했음을 의미합니다."
+        "히미노의 발언으로 일본은행의 금리 정책이 중립으로 전환될 가능성이 제기됨.",
+        "이는 일본은행 금리가 중요한 변화에 직면했음을 의미함."
       ],
-      "whyImportant": "일본은행의 정책 변화 가능성은 금융 시장에 큰 영향을 미칠 수 있습니다.",
-      "importanceRationale": "근거: 히미노의 발언은 일본은행의 통화 정책 방향 전환 가능성을 시사하며, 이는 금리 및 전반적인 경제 상황에 영향을 줄 수 있습니다.",
+      "whyImportant": "일본은행의 통화 정책 변화 가능성은 금융 시장에 큰 영향을 미칠 수 있습니다.",
+      "importanceRationale": "근거: 히미노의 발언은 일본은행이 기존의 완화적인 통화 정책에서 벗어나 중립적인 정책으로 전환할 수 있음을 시사하며, 이는 금리 인상 가능성을 내포하고 있어 금융 시장에 즉각적인 영향을 줄 수 있습니다.",
       "impactSignals": [],
-      "dedupeKey": "boj_interest_rates_himino_20240130",
+      "dedupeKey": "BOJ_Policy_Shift_Himino_2024",
       "clusterKey": "금융/bank",
       "matchedTo": null,
       "sourceName": "Bitcoin world",
@@ -472,7 +489,7 @@
       "importance": 2,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 정보가 명확합니다. / 근거부족",
+      "qualityReason": "The article provides a clear and concise summary of a potentially significant policy shift. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     }
