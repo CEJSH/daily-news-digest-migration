@@ -3,7 +3,7 @@
   "selectionCriteria": "① 내일도 영향이 남는 이슈 ② 과도한 감정 소모 제외 ③ 어제와 중복되는 뉴스 제외",
   "editorNote": "이 뉴스는 클릭 수가 아니라 오늘 이후에도 남는 정보만 기준으로 편집했습니다.",
   "question": "정보를 덜 보는 것이 오히려 더 똑똑한 소비일까?",
-  "lastUpdatedAt": "2026-03-04T02:41:06.172+09:00",
+  "lastUpdatedAt": "2026-03-04T03:43:19.078+09:00",
   "items": [
     {
       "id": "2026-03-04_1",
@@ -14,15 +14,15 @@
         "아마존 중동 데이터센터 3곳이 드론 공격을 받았습니다.",
         "이번 공격으로 데이터센터의 보안에 대한 우려가 제기되고 있습니다."
       ],
-      "whyImportant": "아마존 데이터센터에 대한 드론 공격은 데이터 보안 및 인프라에 대한 잠재적 위협을 보여줍니다.",
-      "importanceRationale": "근거: 아마존의 데이터센터 공격은 물리적 보안의 중요성을 강조하며, 빅테크 기업의 인프라에 대한 새로운 위협 양상을 드러냅니다.",
+      "whyImportant": "아마존 데이터센터에 대한 드론 공격은 중동 지역의 지정학적 불안정성이 빅테크 기업의 인프라에 미치는 직접적인 영향을 보여줍니다.",
+      "importanceRationale": "근거: 아마존 데이터센터에 대한 공격은 물리적 보안의 중요성을 부각하며, 향후 유사한 공격에 대한 대비 필요성을 시사합니다.",
       "impactSignals": [
         {
           "label": "security",
-          "evidence": "드론 공격으로 데이터센터 보안의 취약성 노출"
+          "evidence": "데이터센터에 대한 드론 공격은 보안 취약점을 드러냄"
         }
       ],
-      "dedupeKey": "amazon_drone_attack_me_001",
+      "dedupeKey": "amazon_drone_attack_me",
       "clusterKey": "클라우드/3곳",
       "matchedTo": null,
       "sourceName": "KBS 뉴스",
@@ -33,22 +33,22 @@
       "importance": 4,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었습니다.",
+      "qualityReason": "제목과 본문이 일치하며, 간결하게 요약되었습니다.",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-03-04_2",
       "date": "2026-03-04",
-      "category": "에너지",
-      "title": "엔비디아가 지원하는 시험에서 AI 데이터 센터가 거의 실시간으로 전력 사용량을 유연하게 조정할 수 있음을 보여줌. 이는 에너지 소비에 대한 전 세계적인 영향을 미침 - 하이퍼스케일러가 필요에 따라 소비를 줄여 피크 수요 동안 그리드가 과부하되지 않도록 할 수 있음을 시사",
+      "category": "기술",
+      "title": "엔비디아가 지원하는 시험에서 AI 데이터 센터가 거의 실시간으로 전력 사용량을 유연하게 조정할 수 있음을 보여주며, 이는 에너지 소비에 대한 전 세계적인 영향을 미칩니다. 하이퍼스케일러가 필요에 따라 소비를 줄여 피크 수요 동안 그리드가 과부하되지 않도록 할 수 있음을 시사합니다.",
       "summary": [
-        "엔비디아가 지원하는 시험에서 AI 데이터 센터가 전력 사용량을 유연하게 조정할 수 있음이 입증되었습니다.",
-        "이는 에너지 소비에 대한 전 세계적인 영향을 미치며, 하이퍼스케일러가 필요에 따라 소비를 줄일 수 있음을 시사합니다.",
-        "이를 통해 피크 수요 동안 그리드가 과부하되지 않도록 할 수 있습니다."
+        "엔비디아가 지원하는 시험에서 AI 데이터 센터가 거의 실시간으로 전력 사용량을 유연하게 조정할 수 있음이 밝혀졌습니다.",
+        "이는 전 세계 에너지 소비에 중요한 영향을 미칠 수 있습니다.",
+        "하이퍼스케일러가 필요에 따라 소비를 줄여 피크 수요 시 그리드 과부하를 방지할 수 있음을 시사합니다."
       ],
       "whyImportant": "AI 데이터 센터의 전력 사용량 조정 능력은 에너지 소비 관리 및 그리드 안정성에 중요한 영향을 미칩니다.",
-      "importanceRationale": "근거: AI 데이터 센터의 전력 사용량 조정 능력은 에너지 소비 관리 및 그리드 안정성에 중요한 영향을 미치기 때문입니다. 특히 하이퍼스케일러가 전력 소비를 유연하게 관리할 수 있다는 점은 에너지 효율성을 높이고 전력망 부담을 줄이는 데 기여할 수 있습니다.",
+      "importanceRationale": "근거: AI 데이터 센터가 전력 사용량을 실시간으로 조정하여 에너지 소비를 최적화하고, 피크 수요 시 그리드 과부하를 방지할 수 있음을 시사합니다.",
       "impactSignals": [
         {
           "label": "capex",
@@ -70,7 +70,7 @@
       "importance": 4,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 본문이 일치하며, 핵심 내용을 잘 반영하고 있습니다.",
+      "qualityReason": "기사 제목과 내용이 일치하며, 핵심 내용을 잘 요약했습니다.",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -84,7 +84,7 @@
         "이는 데이터 센터 수요 증가에 따른 것이다."
       ],
       "whyImportant": "데이터 센터 전력 수요 증가에 대한 투자 계획을 보여준다.",
-      "importanceRationale": "근거: NextEra의 대규모 전력 추가 계획은 데이터 센터 시장의 성장과 그에 따른 에너지 수요 증가를 시사한다.",
+      "importanceRationale": "근거: NextEra의 데이터 센터 전력 공급 확대 계획은 관련 시장의 성장 가능성을 시사하며, 에너지 및 기술 산업에 중요한 영향을 미칠 수 있다.",
       "impactSignals": [
         {
           "label": "capex",
@@ -102,7 +102,7 @@
       "importance": 3.5,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 정보가 명확하다.",
+      "qualityReason": "기사 제목과 내용이 일치하며, 정보가 명확하다.",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -115,10 +115,10 @@
         "유럽이 중동발 에너지 위기에 직면했다.",
         "이로 인해 금리 인상 전망도 제기되고 있다."
       ],
-      "whyImportant": "중동 지역의 불안정으로 인한 에너지 공급 차질은 유럽 경제에 큰 영향을 미칠 수 있으며, 금리 인상 압력으로 이어질 수 있다.",
-      "importanceRationale": "근거: 중동발 에너지 위기는 유럽의 에너지 수급에 직접적인 영향을 미치며, 이는 물가 상승과 금리 인상 압력으로 이어져 경제 전반에 파급 효과를 가져올 수 있기 때문이다.",
+      "whyImportant": "중동의 지정학적 불안정이 유럽 에너지 시장에 미치는 영향과 그에 따른 금리 인상 가능성을 시사한다.",
+      "importanceRationale": "근거: 중동 불안정으로 인한 에너지 위기는 유럽 경제 전반에 걸쳐 파급 효과를 가져올 수 있으며, 이는 금리 정책에 직접적인 영향을 줄 수 있다.",
       "impactSignals": [],
-      "dedupeKey": "europe_mideast_energy_crisis_rate_hike",
+      "dedupeKey": "europe-middle-east-energy-crisis-interest-rate",
       "clusterKey": "에너지/금리인상",
       "matchedTo": null,
       "sourceName": "연합뉴스 한민족센터",
@@ -129,21 +129,48 @@
       "importance": 2,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 내용이 간결하고 명확함. / 근거부족",
+      "qualityReason": "제목과 본문이 일치하며, 내용이 간결하고 명확하다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-03-04_5",
       "date": "2026-03-04",
+      "category": "정책",
+      "title": "“이제는 개헌이다” 국민투표법 개정, 특위로 이어질까",
+      "summary": [
+        "국민투표법 개정 논의가 진행 중이다.",
+        "개헌 논의가 특위로 이어질지 주목된다."
+      ],
+      "whyImportant": "국민투표법 개정은 헌법 개정으로 이어질 수 있는 중요한 정책적 변화이다.",
+      "importanceRationale": "근거: 국민투표법 개정 논의는 곧 헌법 개정 가능성을 시사하며, 이는 정치, 사회 전반에 걸쳐 큰 영향을 미칠 수 있다.",
+      "impactSignals": [],
+      "dedupeKey": "constitution_referendum_law_revision",
+      "clusterKey": "개정",
+      "matchedTo": null,
+      "sourceName": "매일노동뉴스",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBEYXJ4dHJ3b0lHcE10TjRIUnFlVWZzcW41X1R1MGpPZzFHX1JieVlxcDRPNzZPbkZ2ZXg2T2J3WGNqTnNCYkhHX0tQMUVuRHpIaGt1TktlbWpwa0xnYnZSbmZRRGZBMEpVVGJYOHlBYXg?oc=5",
+      "publishedAt": "2026-03-03T07:54:06.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 75,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되어 있습니다. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-03-04_6",
+      "date": "2026-03-04",
       "category": "기술",
       "title": "2025년 랜섬웨어 공격 건수 기록적인 수준으로 증가, 지불액은 감소: Chainalysis",
       "summary": [
-        "Chainalysis에 따르면 2025년 랜섬웨어 공격 건수는 기록적인 수준으로 증가했지만, 지불액은 감소했다.",
-        "Recorded Future News의 The Record에서 해당 내용을 보도했다."
+        "Chainalysis에 따르면 2025년 랜섬웨어 공격 건수는 기록적인 수준으로 증가했습니다.",
+        "반면 랜섬웨어 지불액은 감소했습니다."
       ],
       "whyImportant": "랜섬웨어 공격 동향을 파악하는 데 중요합니다.",
-      "importanceRationale": "근거: 랜섬웨어 공격의 빈도와 지불액 변화는 사이버 보안 전략 수립에 중요한 지표가 될 수 있습니다.",
+      "importanceRationale": "근거: 랜섬웨어 공격 건수 증가와 지불액 감소는 사이버 보안 환경 변화를 나타내는 중요한 지표입니다.",
       "impactSignals": [
         {
           "label": "security",
@@ -161,12 +188,12 @@
       "importance": 3.5,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "명확한 정보 제공",
+      "qualityReason": "기사 내용이 명확하고 간결합니다.",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-03-04_6",
+      "id": "2026-03-04_7",
       "date": "2026-03-04",
       "category": "국제",
       "title": "2026년 2월 주요 데이터 유출",
@@ -174,8 +201,8 @@
         "2026년 2월의 주요 데이터 유출 사건들이 발생했습니다.",
         "securityboulevard.com에서 관련 내용을 확인할 수 있습니다."
       ],
-      "whyImportant": "데이터 유출은 개인 정보 보호 및 기업 보안에 심각한 영향을 미칩니다.",
-      "importanceRationale": "근거: 데이터 유출은 사용자 개인 정보의 노출, 금융 정보 유출, 기업의 평판 손상 등 심각한 결과를 초래할 수 있습니다.",
+      "whyImportant": "데이터 유출은 개인 정보 및 기업 보안에 심각한 위협이 됩니다.",
+      "importanceRationale": "근거: 데이터 유출은 사용자 정보의 노출, 금전적 손실, 기업 이미지 손상 등 광범위한 피해를 초래할 수 있기 때문입니다.",
       "impactSignals": [],
       "dedupeKey": "202602_dataleak",
       "clusterKey": "breaches",
@@ -188,23 +215,23 @@
       "importance": 2,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 내용이 일치하며, 정보가 간결하게 제공됨. / 근거부족",
+      "qualityReason": "기사 제목과 내용이 일치하며, 정보의 출처가 명확합니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-03-04_7",
+      "id": "2026-03-04_8",
       "date": "2026-03-04",
       "category": "국제",
-      "title": "히미노, 중립 정책으로의 잠재적 전환 신호로 일본은행 금리, 중대한 변화에 직면",
+      "title": "히미노, 중립 정책으로의 잠재적 전환을 시사하면서 일본은행 금리가 중대한 변화에 직면",
       "summary": [
-        "히미노의 신호로 일본은행의 금리 정책이 중립으로 전환될 가능성이 있습니다.",
-        "이는 일본은행의 금리 정책에 중대한 변화가 있을 수 있음을 시사합니다."
+        "히미노의 발언으로 일본은행의 금리 정책이 중립으로 전환될 가능성이 제기됨.",
+        "이는 일본은행 금리가 중요한 변화에 직면했음을 의미함."
       ],
-      "whyImportant": "일본은행의 통화 정책 변화 가능성을 시사합니다.",
-      "importanceRationale": "근거: 히미노의 발언은 일본은행이 중립적인 통화 정책으로 전환할 가능성을 내비치고 있으며, 이는 금리 변화를 포함한 중요한 정책 변화를 의미할 수 있습니다.",
+      "whyImportant": "일본은행의 통화 정책 변화 가능성은 금융 시장에 큰 영향을 미칠 수 있습니다.",
+      "importanceRationale": "근거: 히미노의 발언은 일본은행이 기존의 완화적인 통화 정책에서 벗어나 중립적인 정책으로 전환할 수 있음을 시사하며, 이는 금리 인상 가능성을 내포하고 있어 금융 시장에 상당한 영향을 줄 수 있습니다.",
       "impactSignals": [],
-      "dedupeKey": "BOJ_Policy_Shift_Himino_Signal",
+      "dedupeKey": "BOJ_Policy_Shift_Himino_2024",
       "clusterKey": "금융/bank",
       "matchedTo": null,
       "sourceName": "Bitcoin world",
@@ -215,23 +242,23 @@
       "importance": 2,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 요약이 명확합니다. / 근거부족",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었습니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-03-04_8",
+      "id": "2026-03-04_9",
       "date": "2026-03-04",
       "category": "에너지",
-      "title": "데이터 센터 뉴스: DTE 에너지의 데이터 센터 파이프라인, 원자력 발전소 6개 규모의 전력 필요",
+      "title": "데이터 센터 뉴스: DTE 에너지의 데이터 센터 파이프라인, 원자력 발전소 6개 용량의 전력 필요 가능성",
       "summary": [
-        "DTE 에너지의 데이터 센터 파이프라인이 원자력 발전소 6개 규모의 전력을 필요로 할 수 있다는 소식입니다.",
-        "이는 데이터 센터의 전력 소비량이 상당함을 시사합니다."
+        "DTE 에너지의 데이터 센터 파이프라인이 원자력 발전소 6개 용량의 전력을 필요로 할 수 있다는 소식입니다.",
+        "이는 데이터 센터의 전력 수요가 매우 크다는 것을 시사합니다."
       ],
-      "whyImportant": "데이터 센터의 전력 수요 급증은 에너지 인프라에 큰 부담을 줄 수 있습니다.",
-      "importanceRationale": "근거: 데이터 센터 구축에 필요한 막대한 전력량은 에너지 기업의 투자 및 인프라 확충을 가속화할 수 있으며, 이는 에너지 시장에 상당한 영향을 미칠 수 있습니다.",
+      "whyImportant": "데이터 센터의 전력 수요 급증은 에너지 인프라에 큰 영향을 미칠 수 있습니다.",
+      "importanceRationale": "근거: 데이터 센터 건설 및 운영에는 막대한 투자가 필요하며, 이는 관련 산업 및 경제에 상당한 영향을 미칩니다.",
       "impactSignals": [],
-      "dedupeKey": "DTE_Energy_data_center_power_needs",
+      "dedupeKey": "DTE_Energy_data_center_power_demand",
       "clusterKey": "에너지/center",
       "matchedTo": null,
       "sourceName": "Planet Detroit",
@@ -247,19 +274,19 @@
       "isBreaking": false
     },
     {
-      "id": "2026-03-04_9",
+      "id": "2026-03-04_10",
       "date": "2026-03-04",
       "category": "정책",
       "title": "ISBA, AI 콘텐츠 제작 가이드라인 공개… 브랜드 신뢰를 지키는 활용 원칙 제시",
       "summary": [
         "ISBA(영국 광고주 협회)가 AI 콘텐츠 제작 가이드라인을 발표했습니다.",
         "이 가이드라인은 브랜드 신뢰도를 유지하면서 AI를 활용하는 원칙을 제시합니다.",
-        "AI 기술을 광고 및 콘텐츠 제작에 효과적으로 통합하기 위한 지침을 제공합니다."
+        "AI 기술을 광고 및 콘텐츠 제작에 안전하게 통합하는 데 중점을 둡니다."
       ],
-      "whyImportant": "AI 콘텐츠 제작 가이드라인은 광고 산업의 투명성과 윤리적 기준을 높이는 데 기여합니다.",
-      "importanceRationale": "근거: AI 기술의 발전으로 콘텐츠 제작 방식이 변화함에 따라, 브랜드 신뢰도를 유지하고 소비자에게 투명성을 제공하는 것이 중요해졌습니다. ISBA의 가이드라인은 이러한 요구에 부응하며, 업계 표준을 설정하는 데 중요한 역할을 할 수 있습니다.",
+      "whyImportant": "AI 콘텐츠 제작 시 브랜드 신뢰도 유지에 대한 지침을 제공합니다.",
+      "importanceRationale": "근거: 광고주 협회가 AI 콘텐츠 제작 가이드라인을 발표하여, AI 기술 사용에 대한 중요한 기준을 제시하고 브랜드 신뢰도 유지에 대한 지침을 제공하므로 중요합니다.",
       "impactSignals": [],
-      "dedupeKey": "ISBA_AI_guidelines_2024",
+      "dedupeKey": "ISBA_AI_Guidelines",
       "clusterKey": "isba",
       "matchedTo": null,
       "sourceName": "매드타임스",
@@ -270,109 +297,20 @@
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "기사의 내용이 명확하고, 정보 전달이 효과적입니다. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-03-04_10",
-      "date": "2026-03-04",
-      "category": "정책",
-      "title": "교육부, 대학 인공지능 활용 윤리 가이드라인 초안 발표",
-      "summary": [
-        "교육부가 대학 내 인공지능 활용에 대한 윤리 가이드라인 초안을 발표했습니다.",
-        "이번 가이드라인은 인공지능의 교육적 활용에 대한 윤리적 기준을 제시합니다."
-      ],
-      "whyImportant": "대학에서의 인공지능 활용에 대한 윤리적 기준을 제시하는 첫걸음입니다.",
-      "importanceRationale": "근거: 교육부가 대학 내 AI 활용에 대한 윤리 가이드라인을 처음으로 제시함으로써, 향후 교육 분야의 AI 도입 및 활용에 중요한 영향을 미칠 수 있습니다.",
-      "impactSignals": [
-        {
-          "label": "capex",
-          "evidence": "대학 인공지능 활용 윤리 가이드라인 시안 발표"
-        }
-      ],
-      "dedupeKey": "교육부, 대학 인공지능 활용 윤리 가이드라인 시안 발표",
-      "clusterKey": "ai/가이드라인",
-      "matchedTo": null,
-      "sourceName": "교수신문",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBpdENKUkVSQksybmpCN0h3a2huZjhjWlVFM01IZUJMQkw1NHBiY25EenFlSW5SdGFNOXY3VU1KdnUxWUhZcnFFWEJtSnBXb3ctT2lNMEMxYlRKckYtVjZ4WWM0cndmdkE?oc=5",
-      "publishedAt": "2026-03-03T08:24:45.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 3.5,
-      "importanceRaw": 63,
-      "qualityLabel": "ok",
-      "qualityReason": "기사 내용이 명확하고 간결하게 요약되어 있습니다.",
+      "qualityReason": "기사 내용이 명확하고, 정보 전달이 효과적입니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-03-04_11",
       "date": "2026-03-04",
-      "category": "경제",
-      "title": "금융위원장 이억원 \"정부 정책 대응 능력 충분, 시장안정 조치 적극 시행\"",
-      "summary": [
-        "이억원 금융위원장은 정부의 정책 대응 능력이 충분하며 시장 안정 조치를 적극적으로 시행할 것이라고 밝혔습니다."
-      ],
-      "whyImportant": "정부의 시장 안정 의지를 보여주는 발언입니다.",
-      "importanceRationale": "근거: 금융위원장이 직접 시장 안정 조치 시행 의지를 표명했기 때문입니다.",
-      "impactSignals": [
-        {
-          "label": "policy",
-          "evidence": "금융위원장의 시장 안정 조치 시행 발언"
-        }
-      ],
-      "dedupeKey": "finance-minister-market-stability-assurance",
-      "clusterKey": "금융위원장",
-      "matchedTo": null,
-      "sourceName": "비즈니스포스트",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9DR0FVQmRGcXJoTVY4UVk1SHdpXzNKZnAzRzVnVlFzQXdYTUZzM29fTEdFY2xQamJ0bkR6ZDB3QU00ZEN0STI4TW5sWkZwUUo4WU1UV29wR1hoVC1KMkU3U3dETUQzY1J3ZUt5c3I1VDY0Z3M?oc=5",
-      "publishedAt": "2026-03-03T02:03:07.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 3.5,
-      "importanceRaw": 63,
-      "qualityLabel": "ok",
-      "qualityReason": "기사 내용이 명확하고 간결합니다.",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-03-04_12",
-      "date": "2026-03-04",
-      "category": "경제",
-      "title": "삼성전자 테일러 공장 반도체 대량 양산, 내년으로 연기",
-      "summary": [
-        "삼성전자 테일러 공장의 반도체 대량 양산이 내년으로 연기되었습니다."
-      ],
-      "whyImportant": "삼성전자 테일러 공장 반도체 양산 연기는 반도체 산업에 영향을 미칩니다.",
-      "importanceRationale": "근거: 삼성전자 테일러 공장의 반도체 대량 양산이 내년으로 연기되었다는 정보는 반도체 산업 투자 및 생산 계획에 대한 중요한 변경 사항을 나타냅니다.",
-      "impactSignals": [],
-      "dedupeKey": "samsung-taylor-delay-ko",
-      "clusterKey": "반도체/공장",
-      "matchedTo": null,
-      "sourceName": "Korea JoongAng Daily",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMisANBVV95cUxNbzA1OF9KdkRpaW1nb2Q1bDhlOENPbjdZbnJ1ZnRhclZ2Q0xEMEdGSlBJWXdyR2J4NFlRUEgxUk83eUZYRENDMzNtanZtZF9DcmxhTFRiRll0OHhxSi1nM3JIVExncTlFWW4tZXl0MlZDLUhFcTFEUGxtczJSYzkxRGtZY0NqeXIzTHZtRXRjdEdTWUVRRXUxeUF5V0stMnJtRjVwb09fRFNBc1ZBbnhsdzF1bWh3LXlwRjY5SU9maldJUzVIN1JkTDVNRExhb1ZiVXYxVnJEcHlRejlrM0NDdGpaNkw3QmlaMHl3WVZ6ejdORjhOQ3pkQ3dsNjJWRGFDLU90UWNCVTRKM2JVRVhCekYweUdLRDVJak5LYUdWazZJR2JpNUxDYjFWdzVCVFk4RzlseFlPcFI3bEhRVjhmQzk3cHFKcDZzRFhmeWx6OHFpdGQ3T3kzc2tLRTlvay1teWdBN0pGMlViVGxldDZXVS1lZEZKa0I2OFRrTTJHbl9MN1JtTi1GLVdKSWpsYXIweHI5U3VuX0pKNEdwdThsdlZWNk1UdUhnRkppV2JZRzA?oc=5",
-      "publishedAt": "2026-03-02T20:00:00.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 63,
-      "qualityLabel": "ok",
-      "qualityReason": "The article provides a concise and factual summary of the news. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-03-04_13",
-      "date": "2026-03-04",
       "category": "정책",
       "title": "미국 전기 요금 상승 및 정책 솔루션에 대한 데이터 기반 분석",
       "summary": [
-        "Clean Air Task Force에서 미국 전기 요금 상승의 원인과 정책적 해결책을 데이터 기반으로 분석했습니다."
+        "Clean Air Task Force에서 미국 전기 요금 상승과 정책 해결책에 대한 데이터 기반 분석을 발표했습니다."
       ],
-      "whyImportant": "미국 전기 요금 상승의 원인과 해결책을 제시합니다.",
-      "importanceRationale": "근거: 미국 전기 요금 상승에 대한 데이터 기반 분석 및 정책 솔루션 제시",
+      "whyImportant": "미국 전기 요금 상승에 대한 정책적 해결책 모색에 중요한 자료입니다.",
+      "importanceRationale": "근거: 미국 전기 요금 상승 문제에 대한 정책적 해결책을 모색하는 데 필요한 정보를 제공하므로 중요합니다.",
       "impactSignals": [],
       "dedupeKey": "US_ELECTRICITY_COSTS_POLICY_SOLUTIONS",
       "clusterKey": "costs",
@@ -383,9 +321,69 @@
       "readTimeSec": 10,
       "status": "kept",
       "importance": 2,
-      "importanceRaw": 50,
+      "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 정보가 명확합니다. / 근거부족",
+      "qualityReason": "기사 제목과 내용이 일치하며, 정보가 명확합니다. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-03-04_12",
+      "date": "2026-03-04",
+      "category": "국제",
+      "title": "거대 기술 기업 Google, Hermantown의 논란이 되고 있는 데이터 센터 제안 배후에 있어",
+      "summary": [
+        "Google은 Hermantown에 데이터 센터를 건설하려는 제안의 배후에 있습니다.",
+        "이 제안은 논란을 불러일으키고 있습니다.",
+        "이 데이터 센터 건설 제안은 MPR 뉴스에 의해 보도되었습니다."
+      ],
+      "whyImportant": "Google의 데이터 센터 건설은 지역 경제에 상당한 영향을 미칠 수 있습니다.",
+      "importanceRationale": "근거: Google과 같은 거대 기술 기업의 데이터 센터 투자는 상당한 자본 지출을 의미하며, 이는 지역 경제 활성화와 관련 산업 성장에 기여할 수 있습니다.",
+      "impactSignals": [
+        {
+          "label": "capex",
+          "evidence": "Google의 데이터 센터 건설은 상당한 자본 지출을 필요로 합니다."
+        }
+      ],
+      "dedupeKey": "google-hermantown-datacenter-20240130",
+      "clusterKey": "behind",
+      "matchedTo": null,
+      "sourceName": "MPR News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbGhqTmk2VERYM0hVby1oWXBWSDZOM0ZFMm5DZm1Cbmc2WHk0enV5RW1SX05LbE42d042eUM4eTBvNEo5R0FjbzVDNk5BUFRWMi1HUGRxeUFUQjhKbG1XaE41d21BZEVxM0NOMndYaG1PVEVaQmdoczVyYzlPcDlxdFVzdllJSTk0LWlUZFhxMC1qSWpoU3BaUWctVVQwV19DVmVob21n?oc=5",
+      "publishedAt": "2026-03-03T14:00:00.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 3.5,
+      "importanceRaw": 63,
+      "qualityLabel": "ok",
+      "qualityReason": "The article provides a concise and factual summary of the news.",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-03-04_13",
+      "date": "2026-03-04",
+      "category": "정책",
+      "title": "교육부, 대학 인공지능 활용 윤리 가이드라인 초안 발표",
+      "summary": [
+        "교육부는 대학 내 인공지능 활용에 대한 윤리 가이드라인 초안을 발표했습니다.",
+        "이번 가이드라인은 대학에서의 인공지능 활용에 대한 윤리적 기준을 제시합니다."
+      ],
+      "whyImportant": "대학 내 인공지능 활용에 대한 윤리적 기준을 제시하는 첫걸음입니다.",
+      "importanceRationale": "근거: 교육부가 대학 인공지능 활용에 대한 윤리 가이드라인 초안을 발표했다는 사실은, 교육 현장에서 인공지능 기술의 사용이 증가함에 따라 필요한 윤리적 고려 사항을 공식적으로 다루기 시작했다는 것을 의미합니다.",
+      "impactSignals": [],
+      "dedupeKey": "교육부, 대학 인공지능 활용 윤리 가이드라인 시안 발표",
+      "clusterKey": "ai/가이드라인",
+      "matchedTo": null,
+      "sourceName": "교수신문",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBpdENKUkVSQksybmpCN0h3a2huZjhjWlVFM01IZUJMQkw1NHBiY25EenFlSW5SdGFNOXY3VU1KdnUxWUhZcnFFWEJtSnBXb3ctT2lNMEMxYlRKckYtVjZ4WWM0cndmdkE?oc=5",
+      "publishedAt": "2026-03-03T08:24:45.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 63,
+      "qualityLabel": "ok",
+      "qualityReason": "기사 내용이 명확하고 간결하며, 핵심 정보를 잘 전달하고 있습니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -393,13 +391,129 @@
       "id": "2026-03-04_14",
       "date": "2026-03-04",
       "category": "경제",
-      "title": "데이터 센터, 전기 요금 대폭 할인? 정보 공개는 기밀.",
+      "title": "[진단_AI반도체 ②한미반도체] 곽동신 체제 한미반도체, HBM TC본더 의존 심화... CAPEX 사이클 둔화 시 이익 레버리지 역풍 우려",
       "summary": [
-        "데이터 센터가 전기 요금을 대폭 할인 받고 있는지에 대한 정보가 공개되지 않았습니다.",
-        "Yale Climate Connections에 따르면 관련 내용은 기밀로 처리되었습니다."
+        "한미반도체는 곽동신 체제 하에 HBM TC본더에 대한 의존도가 심화되고 있다.",
+        "CAPEX 사이클 둔화 시 이익 레버리지에 역풍이 불 수 있다는 우려가 제기된다."
       ],
-      "whyImportant": "데이터 센터의 전기 요금 할인은 에너지 소비 및 비용에 영향을 미칩니다.",
-      "importanceRationale": "근거: 데이터 센터의 전기 요금 할인은 데이터 센터 운영 비용과 에너지 사용량에 중요한 영향을 미치므로 관련 정보 공개 여부가 중요합니다.",
+      "whyImportant": "한미반도체의 HBM TC본더 의존 심화와 CAPEX 사이클 둔화 가능성은 투자자와 업계 관계자에게 중요한 정보이다.",
+      "importanceRationale": "근거: 기사는 한미반도체의 특정 제품 의존도가 높아지고 있으며, 이는 CAPEX 변동에 따라 실적에 부정적인 영향을 미칠 수 있음을 시사한다.",
+      "impactSignals": [],
+      "dedupeKey": "[진단_AI반도체 ②한미반도체] 곽동신 체제 한미반도체, HBM TC본더 의존 심화... CAPEX 사이클 둔화 시 이익 레버리지 역풍 우려",
+      "clusterKey": "반도체/ai반도체",
+      "matchedTo": null,
+      "sourceName": "뉴스워커",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1xeGQzLWR5R0NEc0xpaXlJc295ZG1iUjdpS2lWandPYVdMRVlHdHV0TG1VSGJ4RnNqbzd1R2dhdHR3SjhIemNKTHBTX3RXTEhjTEFxQU5hXzBXWjJteVhuc3BYc1cycXRTbVBQN3JEbnbSAXNBVV95cUxPLVR2TEJ2VjB6Nkt1a3p5V2VySzc4LXhPWjl1ckQzZ29tZGpqSUhrbmtyWjFEckUyVEdaSC1abDlKOVllR01wNHhvUmNiNG9xYlNhcXBSRU9rZEpKZXRqZldia0NKRVdidXJ2WmxSYXo3Zlp3?oc=5",
+      "publishedAt": "2026-03-03T04:30:17.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 63,
+      "qualityLabel": "ok",
+      "qualityReason": "The article directly reflects the title and provides a concise summary of the main point. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-03-04_15",
+      "date": "2026-03-04",
+      "category": "경제",
+      "title": "이억원 금융위원장, \"정부 정책 대응 능력 충분, 시장 안정 조치 적극 시행\"",
+      "summary": [
+        "이억원 금융위원장은 정부의 정책 대응 능력이 충분하며 시장 안정 조치를 적극적으로 시행할 것이라고 밝혔습니다."
+      ],
+      "whyImportant": "정부의 시장 안정 의지를 보여주는 발언입니다.",
+      "importanceRationale": "근거: 금융위원장의 직접적인 발언을 통해 정부의 정책 방향을 제시하고 시장에 대한 안정 의지를 표명하고 있습니다.",
+      "impactSignals": [
+        {
+          "label": "policy",
+          "evidence": "금융위원장의 시장 안정 조치 시행 발언"
+        }
+      ],
+      "dedupeKey": "20240118-금융위원장 이억원",
+      "clusterKey": "금융위원장",
+      "matchedTo": null,
+      "sourceName": "비즈니스포스트",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9DR0FVQmRGcXJoTVY4UVk1SHdpXzNKZnAzRzVnVlFzQXdYTUZzM29fTEdFY2xQamJ0bkR6ZDB3QU00ZEN0STI4TW5sWkZwUUo4WU1UV29wR1hoVC1KMkU3U3dETUQzY1J3ZUt5c3I1VDY0Z3M?oc=5",
+      "publishedAt": "2026-03-03T02:03:07.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 3.5,
+      "importanceRaw": 63,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 내용이 일치하며 간결하게 요약되었습니다.",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-03-04_16",
+      "date": "2026-03-04",
+      "category": "경제",
+      "title": "삼성전자 테일러 공장 반도체 대량 양산, 내년으로 연기",
+      "summary": [
+        "삼성전자 테일러 공장의 반도체 대량 양산이 내년으로 연기되었습니다."
+      ],
+      "whyImportant": "삼성전자 테일러 공장의 양산 연기는 반도체 시장에 영향을 미칠 수 있습니다.",
+      "importanceRationale": "근거: 삼성전자 테일러 공장의 반도체 대량 양산이 내년으로 연기되었다는 정보는 반도체 산업의 투자 및 생산 계획에 대한 중요한 변화를 의미합니다.",
+      "impactSignals": [],
+      "dedupeKey": "samsung_taylor_delay_ko",
+      "clusterKey": "반도체/공장",
+      "matchedTo": null,
+      "sourceName": "Korea JoongAng Daily",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMisANBVV95cUxNbzA1OF9KdkRpaW1nb2Q1bDhlOENPbjdZbnJ1ZnRhclZ2Q0xEMEdGSlBJWXdyR2J4NFlRUEgxUk83eUZYRENDMzNtanZtZF9DcmxhTFRiRll0OHhxSi1nM3JIVExncTlFWW4tZXl0MlZDLUhFcTFEUGxtczJSYzkxRGtZY0NqeXIzTHZtRXRjdEdTWUVRRXUxeUF5V0stMnJtRjVwb09fRFNBc1ZBbnhsdzF1bWh3LXlwRjY5SU9maldJUzVIN1JkTDVNRExhb1ZiVXYxVnJEcHlRejlrM0NDdGpaNkw3QmlaMHl3WVZ6ejdORjhOQ3pkQ3dsNjJWRGFDLU90UWNCVTRKM2JVRVhCekYweUdLRDVJak5LYUdWazZJR2JpNUxDYjFWdzVCVFk4RzlseFlPcFI3bEhRVjhmQzk3cHFKcDZzRFhmeWx6OHFpdGQ3T3kzc2tLRTlvay1teWdBN0pGMlViVGxldDZXVS1lZEZKa0I2OFRrTTJHbl9MN1JtTi1GLVdKSWpsYXIweHI5U3VuX0pKNEdwdThsdlZWNk1UdUhnRkppV2JZRzA?oc=5",
+      "publishedAt": "2026-03-02T20:00:00.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 63,
+      "qualityLabel": "ok",
+      "qualityReason": "정확한 정보에 기반한 요약 / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-03-04_17",
+      "date": "2026-03-04",
+      "category": "정책",
+      "title": "마이크로소프트 코파일럿, AI 끼워팔기 논란 확산…미국 연방거래위원회(FTC) 나서며 규제 리스크 우려",
+      "summary": [
+        "마이크로소프트의 코파일럿 AI 끼워팔기 논란이 확산되고 있다.",
+        "미국 연방거래위원회(FTC)가 조사에 착수하며 규제 리스크가 부각되고 있다."
+      ],
+      "whyImportant": "마이크로소프트의 AI 전략 및 관련 규제에 대한 중요한 지표가 될 수 있다.",
+      "importanceRationale": "근거: FTC의 개입은 마이크로소프트의 사업 모델에 직접적인 영향을 미칠 수 있으며, AI 기술의 시장 경쟁 환경에 대한 규제 방향을 제시할 수 있다.",
+      "impactSignals": [
+        {
+          "label": "policy",
+          "evidence": "FTC의 조사 착수는 정책 및 규제 변화 가능성을 시사한다."
+        }
+      ],
+      "dedupeKey": "microsoft-copilot-ftc-regulation",
+      "clusterKey": "ftc",
+      "matchedTo": null,
+      "sourceName": "itworld.co.kr",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMizAJBVV95cUxNaTkwZ0RSWTU0SDFvWFpyT1pDcmtzNzZjVFF5bmJrZm1CcUZfdlJSSElpZ0JWdjZHXzF1Si03a1VpY0cza3JzQ3NaSTJxcWdMUG8yRWVrcUZwU1BNOTBKU1ZWcVlmZTYtOGU4RlRXd2xwdEptUkhRbEJMdUZVWmhaQ1gwcWdzRkZZSW5STFhzcFJwbnN3RkNHM19kaEtvNnVNejVjcGF1TTBUcm9EbUNkN1VkM0Y4NFVKekxiQ2I4MW42d1Brb2t1VUJpMkpYcklGLWVJRE1ObHAwN21jZGs1RlZieEFibXZocnMta3dzTzhacDBrbGg1SmZtME9Xck02cjMwMjlVbTJGV2phNEVNWk1tNnUxZ0ZZaFVLOEhORGdYME1YdEFsVGRlWVpXT1VRVGhsUzJaa1NiVkxGSDBmTEVGNzRiNXMxQUVleQ?oc=5",
+      "publishedAt": "2026-02-25T08:20:51.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 4,
+      "importanceRaw": 75,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 내용이 일치하며, 핵심 내용을 잘 요약했다.",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-03-04_18",
+      "date": "2026-03-04",
+      "category": "경제",
+      "title": "데이터 센터, 전기 요금 대폭 할인? 내용은 공개되지 않음",
+      "summary": [
+        "데이터 센터가 전기 요금을 대폭 할인받고 있는지에 대한 정보가 공개되지 않았습니다.",
+        "Yale Climate Connections에 따르면 관련 내용이 수정되었습니다."
+      ],
+      "whyImportant": "데이터 센터의 전기 요금 할인 정보는 에너지 정책 및 관련 산업에 영향을 미칠 수 있습니다.",
+      "importanceRationale": "근거: 데이터 센터의 전기 요금 할인은 데이터 센터 운영 비용에 직접적인 영향을 미치며, 이는 데이터 센터 투자(capex) 결정에도 영향을 줄 수 있습니다.",
       "impactSignals": [],
       "dedupeKey": "data-center-electricity-discount-redacted",
       "clusterKey": "big",
@@ -412,34 +526,7 @@
       "importance": 2,
       "importanceRaw": 50,
       "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 내용이 일치하며, 간결하게 요약되었습니다. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-03-04_15",
-      "date": "2026-03-04",
-      "category": "경제",
-      "title": "York Water (NASDAQ:YORW), 분기별 실적 발표, EPS 예상치 0.04달러 상회",
-      "summary": [
-        "York Water(NASDAQ:YORW)가 분기별 실적을 발표했습니다.",
-        "EPS가 예상치를 0.04달러 상회했습니다."
-      ],
-      "whyImportant": "기업의 실적 발표는 투자자와 시장에 중요한 정보입니다.",
-      "importanceRationale": "근거: York Water의 실적 발표는 기업의 재무 건전성과 성장 가능성을 평가하는 데 중요한 지표가 됩니다. 예상치를 상회하는 EPS는 긍정적인 신호로 해석될 수 있습니다.",
-      "impactSignals": [],
-      "dedupeKey": "YORW_earnings_2024",
-      "clusterKey": "issues",
-      "matchedTo": null,
-      "sourceName": "MarketBeat",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPaGloVXRmVkNxWVpwNUN0SWNyYXlOS1JEbHZzTk1tQXBFbkk5VVpiRTJlUjN3TE43SkE4MUQwM0dEQk5rV2EteDdaYW52WEdVM09kYTl4dFc3LWY5WWhaelBlbGk4a2o0WGNqX1ZPMHVWWVFYT3MtUGhrb3hOMXNZaTZpcGczNUMzQjJMVXlwYmI4RWRaS3NGV01ReGZJNWxZM3JJekJPdzMzNHlucFpybUpxZ0x6WkJPUG01aFFUNlFieWVKMFl6RUJYVHNPUzN5N2c?oc=5",
-      "publishedAt": "2026-03-03T16:18:13.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 63,
-      "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 정보가 명확합니다. / 근거부족",
+      "qualityReason": "제목과 본문이 일치하며, 정보가 간결하게 요약됨. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     }
