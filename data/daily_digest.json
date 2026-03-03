@@ -3,36 +3,10 @@
   "selectionCriteria": "① 내일도 영향이 남는 이슈 ② 과도한 감정 소모 제외 ③ 어제와 중복되는 뉴스 제외",
   "editorNote": "이 뉴스는 클릭 수가 아니라 오늘 이후에도 남는 정보만 기준으로 편집했습니다.",
   "question": "정보를 덜 보는 것이 오히려 더 똑똑한 소비일까?",
-  "lastUpdatedAt": "2026-03-03T08:23:09.217+09:00",
+  "lastUpdatedAt": "2026-03-03T10:55:24.478+09:00",
   "items": [
     {
       "id": "2026-03-03_1",
-      "date": "2026-03-03",
-      "category": "기술",
-      "title": "아마존 UAE 데이터센터, 공격으로 서비스 중단",
-      "summary": [
-        "아마존의 아랍에미리트(UAE) 데이터센터가 공격을 받아 서비스가 중단되었습니다."
-      ],
-      "whyImportant": "아마존 데이터센터의 서비스 중단은 기업 운영에 차질을 초래할 수 있습니다.",
-      "importanceRationale": "근거: 데이터센터 공격으로 인한 서비스 중단은 기업의 IT 인프라 투자 및 보안 강화 필요성을 시사하며, 잠재적인 시장 수요 변화를 야기할 수 있습니다.",
-      "impactSignals": [],
-      "dedupeKey": "amazon-uae-datacenter-attack-2024",
-      "clusterKey": "클라우드/uae",
-      "matchedTo": null,
-      "sourceName": "한국경제",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE11RHFlUS1aLV9pWlZjc0QwaGlZNnY2b01pSFhVcld5ZlZmY1dMX2tzOXNadkl0WndGbTNtTXlET3hvNENSSlNCTkZhd2NDellRbWt0bXI5aEhrUdIBVEFVX3lxTFBtcDlJZWZac1VtSXVJelJKVzVZRzdIUEp4TC1YaXdoQUx6VDhPRjh2LW1SSGtyMnJMTHRGdk96MF9MeVByLVRSWEJ2b0dmN1NWRmt3Ug?oc=5",
-      "publishedAt": "2026-03-02T15:34:47.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 63,
-      "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 내용이 일치하며, 정보가 간결하게 제공됨. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-03-03_2",
       "date": "2026-03-03",
       "category": "국제",
       "title": "아마존, 스페인 투자 337억 유로로 확대… 유럽 전역 데이터 센터 인프라 확장 및 AI 혁신 추진",
@@ -56,32 +30,32 @@
       "publishedAt": "2026-03-02T15:57:20.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 4,
-      "importanceRaw": 75,
+      "importance": 4.5,
+      "importanceRaw": 88,
       "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 내용이 일치하며, 정보가 명확하게 전달됨.",
+      "qualityReason": "기사 제목과 본문이 일치하며, 내용이 간결하고 명확함.",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-03-03_3",
+      "id": "2026-03-03_2",
       "date": "2026-03-03",
       "category": "정책",
       "title": "마이크로소프트, 워싱턴 데이터 센터 규정에 대한 주요 변경 촉구",
       "summary": [
-        "마이크로소프트는 워싱턴 데이터 센터 규제 법안이 최종 투표에 가까워짐에 따라 주요 변경을 촉구하고 있다.",
+        "마이크로소프트는 워싱턴 데이터 센터 규정 법안이 최종 투표에 가까워짐에 따라 주요 변경을 촉구하고 있다.",
         "이 법안은 데이터 센터 운영에 영향을 미칠 수 있다.",
-        "마이크로소프트는 법안의 특정 조항에 대해 우려를 표명했다."
+        "마이크로소프트는 규정 변경을 통해 데이터 센터 운영의 효율성을 높이고자 한다."
       ],
-      "whyImportant": "워싱턴 주의 데이터 센터 규정 변경은 해당 지역의 데이터 센터 운영 환경에 상당한 영향을 미칠 수 있기 때문에 중요합니다.",
-      "importanceRationale": "근거: 마이크로소프트와 같은 주요 기업이 규정 변경을 요구하는 것은 산업에 미치는 잠재적 영향이 크다는 것을 시사합니다. 정책 변화와 자본 지출에 영향을 줄 수 있습니다.",
+      "whyImportant": "워싱턴 주의 데이터 센터 규정 변경은 마이크로소프트의 데이터 센터 운영 전략에 중요한 영향을 미칠 수 있다.",
+      "importanceRationale": "근거: 마이크로소프트가 직접 규정 변경을 촉구하고 있으며, 이는 데이터 센터 운영에 미치는 잠재적 영향이 크다는 것을 시사한다.",
       "impactSignals": [
         {
           "label": "policy",
           "evidence": "워싱턴 데이터 센터 규정 법안에 대한 변경 요구"
         }
       ],
-      "dedupeKey": "microsoft-washington-data-center-regulations",
+      "dedupeKey": "microsoft_washington_data_center_regulations",
       "clusterKey": "center",
       "matchedTo": null,
       "sourceName": "GeekWire",
@@ -92,7 +66,33 @@
       "importance": 3.5,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 기사 내용이 일치하며, 핵심 내용을 요약했습니다.",
+      "qualityReason": "제목과 본문이 일치하며, 핵심 내용을 잘 요약했습니다.",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-03-03_3",
+      "date": "2026-03-03",
+      "category": "경제",
+      "title": "영원무역, 증권가 '성장 지속' 전망에 3% 상승",
+      "summary": [
+        "영원무역이 증권가의 '성장 지속' 전망에 힘입어 3% 상승했다."
+      ],
+      "whyImportant": "영원무역의 성장세 지속 전망이 주가 상승에 긍정적인 영향을 미치고 있다.",
+      "importanceRationale": "근거: 증권가의 긍정적인 전망이 투자 심리를 자극하여 주가 상승을 견인했다.",
+      "impactSignals": [],
+      "dedupeKey": "영원무역_주가상승",
+      "clusterKey": "상승",
+      "matchedTo": null,
+      "sourceName": "Chosunbiz",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWHJKaXozM2FIbGFjRmZhc25rMFR1bTBrcnZKV2RvZ0NBWmhNRG16UVNMcEJEVDYtQnBTVVBJdUU0UDNxQWhaMllUVm9wbDZ2NmdkR01hZWV0TWRWSXBNUzctTFhfeUNlLWVnWUVsenhud2JhWnNaSEstclB2OV81bVEyODlWNnlO0gGcAUFVX3lxTE5EUUVienJBQXZoZzNtSFNOZE1BR2JfaHRQNFNIdGhIRlVaQm9YYnI3SEM5MGV4MVUtTUNKQUxSY2Fxc2wtclJQM01mTUNONTIwVTM5bDNRc0dLaEFtLVZjb2NmaTFSY1lYYV82emE5Y01idjNEN3M4Z2NMOUx4QXQxcXRDMmFyRVpEcW1FSGYxWXdsRm42OVdQM0hDcQ?oc=5",
+      "publishedAt": "2026-03-03T01:32:00.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 63,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되어 있습니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -103,10 +103,10 @@
       "title": "양자 컴퓨팅, 예상 수익 부합, 매출은 예상치 하회",
       "summary": [
         "양자 컴퓨팅의 수익은 예상치에 부합했으나 매출은 예상치를 밑돌았습니다.",
-        "투자자 비즈니스 데일리에 따르면 매출 부진이 있었습니다."
+        "Investor's Business Daily에서 보도했습니다."
       ],
-      "whyImportant": "양자 컴퓨팅 회사의 재무 성과는 기술 산업의 투자 및 성장 전망을 반영합니다.",
-      "importanceRationale": "근거: 수익과 매출은 회사의 재정적 건전성과 성장 잠재력을 나타내는 핵심 지표입니다.",
+      "whyImportant": "양자 컴퓨팅 회사의 재무 성과는 기술 산업의 투자 및 성장 추세를 나타냅니다.",
+      "importanceRationale": "근거: 수익과 매출 데이터는 회사의 현재 성과와 미래 성장 잠재력을 평가하는 데 중요하며, 이는 투자 결정에 영향을 미칩니다.",
       "impactSignals": [
         {
           "label": "capex",
@@ -124,7 +124,7 @@
       "importance": 3.5,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "The article provides a clear and concise summary of the earnings report.",
+      "qualityReason": "제목과 내용이 일치하며, 정보가 간결하게 제공됩니다.",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -134,10 +134,11 @@
       "category": "에너지",
       "title": "카타르 LNG 시설 가동 중단…천연가스 가격 비상",
       "summary": [
-        "카타르의 LNG 시설 가동이 중단되어 천연가스 가격에 비상이 걸렸습니다."
+        "카타르의 LNG 시설 가동이 중단되면서 천연가스 가격에 비상이 걸렸습니다.",
+        "이번 가동 중단은 천연가스 시장에 상당한 영향을 미칠 것으로 예상됩니다."
       ],
-      "whyImportant": "카타르 LNG 시설의 가동 중단은 세계 천연가스 공급에 차질을 초래할 수 있습니다.",
-      "importanceRationale": "근거: 카타르는 주요 LNG 공급국이며, 시설 중단은 직접적으로 공급 감소로 이어져 가격 상승을 유발할 수 있습니다.",
+      "whyImportant": "카타르 LNG 시설의 가동 중단은 세계 천연가스 공급에 차질을 초래하고 가격 상승을 유발할 수 있기 때문에 중요합니다.",
+      "importanceRationale": "근거: 카타르 LNG 시설의 가동 중단은 직접적으로 천연가스 공급량 감소를 의미하며, 이는 시장 가격 상승으로 이어질 수 있습니다.",
       "impactSignals": [],
       "dedupeKey": "카타르 LNG 시설 가동 중단…천연가스값 '비상'",
       "clusterKey": "lng시설",
@@ -160,18 +161,18 @@
       "category": "경제",
       "title": "삼성 평택공장, 'HBM 전진기지'로…메모리·파운드리 시너지 확대",
       "summary": [
-        "삼성 평택공장이 HBM(고대역폭 메모리) 전진기지 역할을 수행한다.",
-        "메모리 반도체와 파운드리(반도체 위탁생산) 간 시너지 확대가 기대된다."
+        "삼성 평택공장이 HBM(고대역폭메모리) 전진기지 역할을 수행한다.",
+        "메모리 및 파운드리 사업 간 시너지 확대가 기대된다."
       ],
-      "whyImportant": "삼성전자의 평택 공장이 HBM 생산의 핵심 기지가 됨으로써, 메모리 반도체 시장에서의 경쟁력 강화 및 파운드리 사업과의 시너지 효과를 창출할 수 있기 때문이다.",
-      "importanceRationale": "근거: 삼성 평택공장이 HBM 생산의 중심 역할을 하게 되면서, 삼성전자의 메모리 반도체 기술력과 생산 능력이 더욱 강화될 것으로 예상된다. 또한, 파운드리 사업과의 협력을 통해 고성능 반도체 시장에서의 입지를 확대할 수 있다.",
+      "whyImportant": "삼성전자의 평택 공장이 HBM 생산의 핵심 기지가 됨으로써, 메모리 반도체 시장에서의 경쟁력 강화에 중요한 역할을 할 것으로 예상됩니다.",
+      "importanceRationale": "근거: 삼성 평택 공장이 HBM 생산의 중심이 되면서, 관련 투자 및 생산 능력 확대가 예상되고, 이는 삼성전자의 시장 점유율 및 기술 리더십에 직접적인 영향을 미칠 수 있습니다.",
       "impactSignals": [
         {
           "label": "capex",
-          "evidence": "평택공장이 HBM 전진기지로서 메모리 및 파운드리 시너지 확대"
+          "evidence": "평택 공장이 HBM 전진기지로 활용됨에 따라 관련 설비 투자 확대가 예상됨"
         }
       ],
-      "dedupeKey": "삼성 평택공장 HBM 전진기지",
+      "dedupeKey": "samsung-pyeongtaek-hbm-2024",
       "clusterKey": "반도체/hbm",
       "matchedTo": null,
       "sourceName": "연합뉴스 한민족센터",
@@ -182,12 +183,71 @@
       "importance": 4,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 내용이 일치하며, 핵심 내용을 잘 요약했습니다.",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되어 있습니다.",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-03-03_7",
+      "date": "2026-03-03",
+      "category": "국제",
+      "title": "아마존, 공격적인 AI 투자 후폭풍으로 주가 월간 최악의 성적 기록",
+      "summary": [
+        "아마존이 공격적인 인공지능(AI) 투자로 인해 주가가 수년 만에 최악의 월간 성적을 기록했다.",
+        "이는 아마존의 AI 투자에 대한 시장의 우려를 반영하는 것으로 보인다."
+      ],
+      "whyImportant": "아마존의 AI 투자 전략과 그에 따른 주가 변동은 기술 산업 전반에 영향을 미칠 수 있다.",
+      "importanceRationale": "근거: 아마존은 주요 기술 기업으로서 AI 분야에 대한 투자는 시장의 관심사이며, 주가 하락은 투자 심리에 영향을 줄 수 있기 때문이다.",
+      "impactSignals": [],
+      "dedupeKey": "amazon_ai_investment_stock_performance",
+      "clusterKey": "공격적",
+      "matchedTo": null,
+      "sourceName": "한국경제",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1xNG9vYTRYT1FSUUplSlg0NkwzbHp5UE0wdHl6eHRDVTFwVkZ5bWk3M0o4TWFQY2FqTlpmbjlJbktLZmNoNkU3YS1tdDVKQVR4UGtfZUY0M01UUdIBVEFVX3lxTE1Mbk5lOUozSW9kaUFWTlo3VHFYcTJKaG5IaUJoQ21qSlVwRS1SazR4VVFDZjZ2ZUtMaU5QOUhWZnJEOEg4TkgxT0o3YnF3cXlNdWVKZg?oc=5",
+      "publishedAt": "2026-03-02T23:35:14.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 63,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 본문이 일치하며, 핵심 내용을 잘 요약했습니다. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-03-03_8",
+      "date": "2026-03-03",
+      "category": "에너지",
+      "title": "이란 공격으로 카타르 LNG 생산 중단, 유럽 천연가스 가격 급등",
+      "summary": [
+        "이란의 공격으로 카타르의 LNG 생산이 중단되었습니다.",
+        "이로 인해 유럽의 천연가스 가격이 폭등했습니다."
+      ],
+      "whyImportant": "카타르의 LNG 생산 중단은 유럽 에너지 시장에 큰 영향을 미치므로 중요합니다.",
+      "importanceRationale": "근거: 이란의 공격으로 인한 카타르 LNG 생산 중단은 유럽 천연가스 가격 폭등을 야기하며, 이는 에너지 안보에 직접적인 영향을 미칩니다.",
+      "impactSignals": [
+        {
+          "label": "security",
+          "evidence": "이란 공격으로 카타르 LNG 생산 중단"
+        }
+      ],
+      "dedupeKey": "20240130-이란-카타르-LNG-생산중단",
+      "clusterKey": "에너지/lng",
+      "matchedTo": null,
+      "sourceName": "연합인포맥스",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMicEFVX3lxTE94WmpyaVlSRm80VXJNMjhKb21QaVBxZV9mbzY1NVhfbEhKQUNOdHVDREo4YnpGMU5GcEhHSTNObHJaY05BZ1dXbEJHWUNWd1VYQ3Jfd3R0SDlqMkJCRWNIQU5WSVBrWmRwRzZEU0JFOGo?oc=5",
+      "publishedAt": "2026-03-02T18:09:41.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 4.5,
+      "importanceRaw": 88,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었습니다.",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-03-03_9",
       "date": "2026-03-03",
       "category": "국제",
       "title": "한-싱가포르 정상회담, FTA 개선 협상 개시 합의…소형모듈원전 공동개발",
@@ -196,9 +256,9 @@
         "양국은 소형모듈원전(SMR) 공동 개발에도 협력하기로 했다."
       ],
       "whyImportant": "이번 합의는 양국 간 경제 협력을 강화하고, 미래 에너지 기술 개발에 기여할 수 있기 때문에 중요합니다.",
-      "importanceRationale": "근거: FTA 개선은 무역 장벽을 낮추고 경제 교류를 촉진하며, SMR 공동 개발은 차세대 에너지 기술 경쟁력을 확보하는 데 도움이 될 수 있습니다.",
+      "importanceRationale": "근거: FTA 개선은 무역 장벽을 낮추고 경제 교류를 촉진하며, SMR 공동 개발은 차세대 에너지 기술 경쟁력을 확보하는 데 도움이 됩니다.",
       "impactSignals": [],
-      "dedupeKey": "20240612-한-싱가포르 정상회담, FTA 개선 협상 개시 합의…소형모듈원전 공동개발",
+      "dedupeKey": "20240617-한-싱가포르 정상회담",
       "clusterKey": "fta",
       "matchedTo": null,
       "sourceName": "한겨레",
@@ -209,24 +269,24 @@
       "importance": 2,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "기사 내용이 명확하고 사실에 기반하고 있습니다. / 근거부족",
+      "qualityReason": "기사 제목과 내용이 일치하며, 핵심 내용을 잘 요약했습니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-03-03_8",
+      "id": "2026-03-03_10",
       "date": "2026-03-03",
       "category": "경제",
       "title": "환율·유가 안정 덕에 물가 2% 유지 전망…중동 사태가 향후 변수",
       "summary": [
-        "환율과 유가 안정으로 물가 2% 유지가 전망되나, 중동 사태가 향후 변수로 작용할 수 있음."
+        "환율과 유가 안정으로 물가 2% 유지가 전망되나, 중동 사태가 향후 변수가 될 수 있음."
       ],
-      "whyImportant": "물가 안정 전망과 잠재적 위험 요소를 동시에 제시합니다.",
-      "importanceRationale": "근거: 환율 및 유가 안정이라는 긍정적 요인과 중동 사태라는 잠재적 위험 요인을 동시에 언급하여 경제 상황에 대한 균형 잡힌 시각을 제공.",
+      "whyImportant": "물가 안정 전망과 잠재적 위협 요인",
+      "importanceRationale": "근거: 환율 및 유가 안정이라는 긍정적 요인과 중동 사태라는 잠재적 위협 요인을 동시에 제시하여 경제 상황에 대한 균형 잡힌 시각을 제공함.",
       "impactSignals": [
         {
           "label": "market-demand",
-          "evidence": "물가 안정이 시장 수요에 미치는 영향"
+          "evidence": "물가 안정이 유지될 경우 시장 수요에 긍정적 영향을 줄 수 있음"
         }
       ],
       "dedupeKey": "환율·유가 안정 덕에 물가 2% 유지 전망…중동 사태가 향후 변수",
@@ -237,42 +297,175 @@
       "publishedAt": "2026-03-02T20:03:01.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 3,
-      "importanceRaw": 50,
+      "importance": 3.5,
+      "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목이 기사의 내용을 정확하게 반영하고 있습니다.",
+      "qualityReason": "제목과 본문이 일치하며, 간결하게 핵심 내용을 전달함.",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-03-03_9",
+      "id": "2026-03-03_11",
       "date": "2026-03-03",
       "category": "정책",
-      "title": "TEP, 전력망 도시 인수가 납세자에게 40억 달러의 비용을 초래할 수 있다고 밝혀",
+      "title": "조희대 \"국회 입법 활동 존중…헌법이 부여한 소임 다하겠다\"",
       "summary": [
-        "TEP는 도시의 전력망 인수가 납세자에게 40억 달러의 비용을 초래할 수 있다고 밝혔습니다.",
-        "이는 AZPM 뉴스를 통해 보도되었습니다."
+        "조희대 씨는 국회의 입법 활동을 존중하며 헌법이 부여한 소임을 다하겠다고 밝혔습니다."
       ],
-      "whyImportant": "전력망 인수 비용은 결국 시민들의 부담으로 이어질 수 있습니다.",
-      "importanceRationale": "근거: 도시의 전력망 인수에 드는 막대한 비용이 납세자에게 직접적인 재정적 부담을 줄 수 있다는 점을 시사합니다.",
+      "whyImportant": "조희대 씨의 발언은 헌법적 책무에 대한 의지를 표명한 것입니다.",
+      "importanceRationale": "근거: 조희대 씨가 국회의 입법 활동을 존중하고 헌법에 따른 책임을 다하겠다는 의지를 밝혔기 때문입니다.",
       "impactSignals": [],
-      "dedupeKey": "TEP_electric_grid_takeover_4B",
-      "clusterKey": "에너지/city",
+      "dedupeKey": "조희대_국회_입법활동_존중",
+      "clusterKey": "국회",
       "matchedTo": null,
-      "sourceName": "AZPM News",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMnB2RUhIVmJDZmFJaThDbU80SkREdVR5cnpXOWdfTmFocHNDM3JTQWhfaU5xTENvTmFuY3pCVHd1SE9aQmRMV0xJdVdFYUpNdmo5ekVXUjEzMEpXMWNrb0Nrdlg1VVBpM0JlZXVYdTE2c096MTBXVjNDNUpmY090czc5TG1NSWNVS2dGMkNRMG9tWmVUbk9kaTZxWFdqRmlwMTd0Wg?oc=5",
-      "publishedAt": "2026-03-02T22:39:29.000Z",
+      "sourceName": "한국경제",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9NTzk4UzJKUzRaTVBscXhqZzFMWFRFWTdYTkZvSVluUjZpOV9xNXhxM3FmcWtLOG5KcC1TSDlJWlpmSDlHUHRlM2cwSWc0ZUFkeUNjdHg3enpQUdIBVEFVX3lxTE1uaE44d25LTE4zeGJqRHkzMXhrTjV5ZkFXUU5IVjJQRkF4M2gxVVgxLUxibjBnTGItOUhhVkxhZnA5Zm5acGxPSW90b3o3QjBWMjVTSw?oc=5",
+      "publishedAt": "2026-03-03T00:26:49.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 50,
+      "qualityLabel": "ok",
+      "qualityReason": "기사의 내용이 명확하고 간결합니다. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-03-03_12",
+      "date": "2026-03-03",
+      "category": "국제",
+      "title": "2026년 2월 주요 데이터 유출",
+      "summary": [
+        "2026년 2월의 주요 데이터 유출 사건들이 발생했습니다.",
+        "Security Boulevard에서 관련 내용을 보도했습니다."
+      ],
+      "whyImportant": "데이터 유출은 개인 정보 보호 및 기업 보안에 심각한 영향을 미칩니다.",
+      "importanceRationale": "근거: 데이터 유출은 사용자 정보의 노출을 의미하며, 이는 개인 정보 침해 및 금융 사기로 이어질 수 있습니다. 기업은 데이터 유출로 인해 평판 손상 및 법적 책임에 직면할 수 있습니다.",
+      "impactSignals": [],
+      "dedupeKey": "202602_databreach",
+      "clusterKey": "boulevard",
+      "matchedTo": null,
+      "sourceName": "Security Boulevard",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBRdkNEYjlOTDBjTVMwa3JUb2ZES0hSV2FTMzFFMGk1WkZ4Nlo4QVp6WUFmSFZmNElJSU85WnlhSURBTGJZQ21xaWZDd0JEOTVnS250SFhlb0kzM3AxQ2NmX3NxZ2ZiLVJYMk1aYVd2NWo3eTVNNldZeE5kSThwZw?oc=5",
+      "publishedAt": "2026-03-02T17:04:03.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 75,
+      "qualityLabel": "ok",
+      "qualityReason": "기사 제목과 내용이 일치하며, 정보가 명확합니다. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-03-03_13",
+      "date": "2026-03-03",
+      "category": "경제",
+      "title": "버크셔 해서웨이, 저조한 4분기 실적 발표 후 주가 5% 가까이 하락",
+      "summary": [
+        "버크셔 해서웨이의 주가가 저조한 4분기 실적 발표 이후 약 5% 하락했다.",
+        "새로운 CEO 아벨의 과감한 행보가 없었던 점도 영향을 미쳤다."
+      ],
+      "whyImportant": "버크셔 해서웨이의 실적 부진은 투자 심리에 영향을 줄 수 있다.",
+      "importanceRationale": "근거: 버크셔 해서웨이는 투자 업계에서 중요한 위치를 차지하며, 그들의 실적은 시장 전반에 대한 투자자들의 신뢰도를 반영할 수 있다.",
+      "impactSignals": [],
+      "dedupeKey": "berkshire-hathaway-q4-earnings-drop",
+      "clusterKey": "after",
+      "matchedTo": null,
+      "sourceName": "CNBC",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPM2pCcHR1ZkxfRVhpbW9pZDQtdlRJZ1NhU3pJaTZLRlBqWGFPZ3lXVGx3U3A0TFIxcUh1WjdIQndieGhxM08ybnQ1aHc2ai1hMUtVM05zdXRHWmYxYk10UHpCUVllNTlBX0lTWDdfb3VEOWEtbkxMV2E2d0dkbTBnZ1laZDI2MmlOT1J0blFMdWgzMnVtdjJWdG1wNllLbERVcjVmWS1tbDRYczhVaUNz0gG0AUFVX3lxTE1JSnJoeGdWSlN4dUVpMUFoVmV0NXBvUGRXWjVrdmxNOWVNOVJGNHdjS2tiTXQ3VFVQcktXaXQ2cnpTSHVtT2pLeWx4dWREWWtGVjhFelVUOE9SS2s4a0hlcUxwbnRLdXBDZzV5QTNlTHdBd3NYTXpwWUIzMUNDTlJ2Q20tRC1xYXpZdDRXRXhRVEwwc3VmckRvSDdiOGdUTVdUbHJWM2ptaWZYYUk0NWpIcTQ5OQ?oc=5",
+      "publishedAt": "2026-03-02T17:53:39.000Z",
       "readTimeSec": 10,
       "status": "kept",
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "기사의 내용이 명확하고 간결하며, 핵심 정보를 잘 전달하고 있습니다. / 근거부족",
+      "qualityReason": "The article provides a clear and concise summary of the event. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-03-03_10",
+      "id": "2026-03-03_14",
+      "date": "2026-03-03",
+      "category": "정책",
+      "title": "조합원 이주비 이자 지원 개정 조례안 발의",
+      "summary": [
+        "조합원 이주비 이자 지원 개정 조례안이 발의되었습니다."
+      ],
+      "whyImportant": "조합원 이주비 지원 정책 변경에 대한 내용입니다.",
+      "importanceRationale": "근거: 조합원 이주비 이자 지원에 대한 정책 변경은 조합원들의 경제적 부담에 직접적인 영향을 미치므로 중요합니다.",
+      "impactSignals": [],
+      "dedupeKey": "조합원 이주비 이자 지원 개정조례안 발의",
+      "clusterKey": "개정조례안",
+      "matchedTo": null,
+      "sourceName": "한국주택경제신문",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ld0NjbG56TlE3Tjh5cDRLYVpSSVR1bVpzRk1pNFJjQVVPLU1aak0taklSZ0RXZHd3SE1iekhrVFVsY0pCdG1CUG5YYkVQUmhNNl8yODVVV1ZwcEdObEl3NHhROTZmUEZh?oc=5",
+      "publishedAt": "2026-03-03T01:07:48.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 63,
+      "qualityLabel": "ok",
+      "qualityReason": "기사 내용이 간결하고 명확합니다. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-03-03_15",
+      "date": "2026-03-03",
+      "category": "정책",
+      "title": "국민의힘, 2월 임시국회 마지막 날 TK 통합법 즉시 처리 요구",
+      "summary": [
+        "국민의힘이 2월 임시국회 마지막 날에 TK(대구·경북) 통합 관련 법안의 즉각적인 처리를 요구했다.",
+        "이는 임시국회 종료를 앞두고 법안 처리를 촉구한 것으로 보인다."
+      ],
+      "whyImportant": "TK 통합 법안의 처리는 지역 사회에 중요한 영향을 미칠 수 있는 정책 결정이다.",
+      "importanceRationale": "근거: 국민의힘이 TK 통합법의 즉각 처리를 요구함. 이는 해당 법안이 지역 정치 및 발전에 중요한 영향을 미칠 수 있음을 시사한다.",
+      "impactSignals": [],
+      "dedupeKey": "20240229-TK-integration-bill",
+      "clusterKey": "2월",
+      "matchedTo": null,
+      "sourceName": "프레시안",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA1bW5UMG01MEZfWlRzUlhiNUdvLXM2bE9ZcUpxUndRQUFGX0Qzdk8yRHVCYjNZblBSR3l0d3RzSHJheHBPbjhHSXh0cm9wdi1oUGNkQ3E0VTRXZUtfaGV1X24wNm01bnBKc244?oc=5",
+      "publishedAt": "2026-03-03T01:02:51.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 63,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 기사 내용이 일치하며 간결하게 요약됨 / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-03-03_16",
+      "date": "2026-03-03",
+      "category": "정책",
+      "title": "치협, 국가 구강검진 관련 국회 토론회 개최",
+      "summary": [
+        "대한치과의사협회는 국가 구강검진 관련 국회 토론회를 개최했다.",
+        "토론회는 구강검진의 중요성을 강조하고 정책 개선 방안을 모색하기 위해 마련되었다."
+      ],
+      "whyImportant": "국가 구강검진 정책 방향에 영향을 줄 수 있는 토론회 개최 소식입니다.",
+      "importanceRationale": "근거: 치과의사협회가 주최하는 국회 토론회는 관련 정책 결정에 중요한 영향을 미칠 수 있기 때문입니다.",
+      "impactSignals": [],
+      "dedupeKey": "치협, 국가구강검진 관련 국회토론회 개최",
+      "clusterKey": "개최",
+      "matchedTo": null,
+      "sourceName": "에너지경제신문",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBXRUctWmp1TWUxeVZySllBY0Y4LTlxejhjeHotbThNN0JvNWRGV1NmX3E5cDI0UU9yeUE2enRGcVdhdnV3TjVTVC1sRDU5R1dDbFFJNXNIcHg4bUluRlJnREZ2MA?oc=5",
+      "publishedAt": "2026-03-03T00:52:11.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 63,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었습니다. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-03-03_17",
       "date": "2026-03-03",
       "category": "경제",
       "title": "블랙스톤, AI 데이터센터 인수를 위해 상장 회사 설립 추진",
@@ -280,7 +473,7 @@
         "블랙스톤이 AI 데이터센터 인수를 위해 상장 회사 설립을 추진한다."
       ],
       "whyImportant": "블랙스톤의 AI 데이터센터 투자 전략을 보여주는 중요한 사례이다.",
-      "importanceRationale": "근거: 블랙스톤이 AI 데이터센터 인수를 위해 상장 회사를 설립하는 것은 해당 분야에 대한 대규모 투자 의지를 나타낸다.",
+      "importanceRationale": "근거: 블랙스톤이 AI 데이터센터 인수를 위해 상장 회사 설립을 추진하는 것은 해당 분야에 대한 대규모 투자 의지를 나타낸다.",
       "impactSignals": [
         {
           "label": "capex",
@@ -298,81 +491,23 @@
       "importance": 3.5,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며 간결하게 요약됨.",
+      "qualityReason": "The article provides a concise and factual summary of Blackstone's plan to establish a listed company for acquiring AI data centers.",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-03-03_11",
-      "date": "2026-03-03",
-      "category": "경제",
-      "title": "삼성전자 테일러 공장 반도체 대량 양산, 내년으로 연기",
-      "summary": [
-        "삼성전자 테일러 공장의 반도체 대량 양산이 내년으로 연기되었습니다."
-      ],
-      "whyImportant": "삼성전자 테일러 공장의 양산 연기는 반도체 시장에 영향을 줄 수 있습니다.",
-      "importanceRationale": "근거: 삼성전자 테일러 공장의 반도체 대량 양산이 내년으로 연기되었기 때문입니다.",
-      "impactSignals": [],
-      "dedupeKey": "samsung_taylor_delay_ko",
-      "clusterKey": "반도체/공장",
-      "matchedTo": null,
-      "sourceName": "Korea JoongAng Daily",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMisANBVV95cUxNbzA1OF9KdkRpaW1nb2Q1bDhlOENPbjdZbnJ1ZnRhclZ2Q0xEMEdGSlBJWXdyR2J4NFlRUEgxUk83eUZYRENDMzNtanZtZF9DcmxhTFRiRll0OHhxSi1nM3JIVExncTlFWW4tZXl0MlZDLUhFcTFEUGxtczJSYzkxRGtZY0NqeXIzTHZtRXRjdEdTWUVRRXUxeUF5V0stMnJtRjVwb09fRFNBc1ZBbnhsdzF1bWh3LXlwRjY5SU9maldJUzVIN1JkTDVNRExhb1ZiVXYxVnJEcHlRejlrM0NDdGpaNkw3QmlaMHl3WVZ6ejdORjhOQ3pkQ3dsNjJWRGFDLU90UWNCVTRKM2JVRVhCekYweUdLRDVJak5LYUdWazZJR2JpNUxDYjFWdzVCVFk4RzlseFlPcFI3bEhRVjhmQzk3cHFKcDZzRFhmeWx6OHFpdGQ3T3kzc2tLRTlvay1teWdBN0pGMlViVGxldDZXVS1lZEZKa0I2OFRrTTJHbl9MN1JtTi1GLVdKSWpsYXIweHI5U3VuX0pKNEdwdThsdlZWNk1UdUhnRkppV2JZRzA?oc=5",
-      "publishedAt": "2026-03-02T20:00:00.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 63,
-      "qualityLabel": "ok",
-      "qualityReason": "기사 내용이 명확하고 간결합니다. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-03-03_12",
-      "date": "2026-03-03",
-      "category": "경제",
-      "title": "문을 봉쇄하고 불을 껐음에도 불구하고 Pepco 요금이 거의 두 배로 증가",
-      "summary": [
-        "한 여성이 문을 봉쇄하고 불을 껐음에도 불구하고 Pepco 요금이 거의 두 배로 증가했습니다.",
-        "이는 에너지 절약 노력에도 불구하고 전기 요금이 상승한 사례입니다."
-      ],
-      "whyImportant": "전기 요금 상승은 가계 경제에 직접적인 영향을 미치므로 중요합니다.",
-      "importanceRationale": "근거: 에너지 요금 상승은 소비자 물가 상승의 주요 원인이며, 특히 저소득층 가계에 큰 부담을 줄 수 있습니다.",
-      "impactSignals": [
-        {
-          "label": "policy",
-          "evidence": "Pepco bill increase despite conservation efforts suggests potential issues with energy pricing policies."
-        }
-      ],
-      "dedupeKey": "Pepco bill nearly doubled despite energy saving measures",
-      "clusterKey": "doors",
-      "matchedTo": null,
-      "sourceName": "WAMU",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcVByQXdMTkpPOWVxM2s3bUR0QkFqNUR2V1daeXgxTF9FeEtfX1ZHZFlPMVZ0Z1Z4Unoybm9jMlp6YWxIX29ZV2RtUWdFcGthdHV0dXhMc2xJOThUTEo2aTZXaVd5M3JjVlRUaHhuZEhXRVVtNnBUV0JhbHQxdFkwMTV6UU5FejZXSVNid2VzT0hLQWc1TmFHamdrSTcweW1HZ0hxUF9pZnVvbjdTcWc?oc=5",
-      "publishedAt": "2026-03-02T15:41:58.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 3.5,
-      "importanceRaw": 63,
-      "qualityLabel": "ok",
-      "qualityReason": "The article presents a specific case of increased utility bills, which is a relevant and factual issue.",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-03-03_13",
+      "id": "2026-03-03_18",
       "date": "2026-03-03",
       "category": "국제",
       "title": "중동 분쟁으로 인한 국제 무역 위험에 대한 권고 사항",
       "summary": [
-        "중동 분쟁으로 인해 국제 무역 위험에 대한 권고 사항이 발표되었습니다.",
-        "Vietnam.vn에서 해당 내용이 보도되었습니다."
+        "중동 분쟁으로 인해 국제 무역에 위험이 발생하고 있습니다.",
+        "Vietnam.vn에서 관련 권고 사항을 발표했습니다."
       ],
-      "whyImportant": "중동 분쟁이 국제 무역에 미치는 잠재적 위험을 강조합니다.",
-      "importanceRationale": "근거: 중동 지역의 분쟁은 국제 무역 흐름에 상당한 혼란을 야기할 수 있으며, 이에 대한 권고 사항은 관련 기업과 정부 기관에 중요한 지침을 제공합니다.",
+      "whyImportant": "중동 분쟁이 국제 무역에 미치는 잠재적 영향에 대한 정보를 제공합니다.",
+      "importanceRationale": "근거: 중동 지역의 분쟁은 국제 무역 흐름에 직접적인 영향을 미칠 수 있으며, 이에 대한 권고 사항은 관련 기업 및 정부 기관에 중요합니다.",
       "impactSignals": [],
-      "dedupeKey": "중동분쟁국제무역위험권고",
+      "dedupeKey": "중동 분쟁 국제 무역 위험 권고",
       "clusterKey": "국제",
       "matchedTo": null,
       "sourceName": "Vietnam.vn",
@@ -383,112 +518,7 @@
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 정보가 명확하게 제시되어 있습니다. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-03-03_14",
-      "date": "2026-03-03",
-      "category": "정책",
-      "title": "백악관, 기술 기업에 AI 데이터 센터 전력 공급 의무화 발표",
-      "summary": [
-        "백악관은 기술 기업들에게 AI 데이터 센터에 전력을 공급하도록 의무화하는 정책을 발표했습니다.",
-        "이는 AI 기술 개발 경쟁 심화에 따른 데이터 센터의 에너지 소비 증가에 대한 대응으로 보입니다."
-      ],
-      "whyImportant": "AI 데이터 센터 전력 공급 의무화 정책은 기술 기업의 투자 및 운영 비용에 영향을 미칠 수 있습니다.",
-      "importanceRationale": "근거: 백악관의 정책 발표는 기술 기업의 데이터 센터 투자(capex)에 직접적인 영향을 미치며, AI 기술 개발 경쟁 환경에도 변화를 가져올 수 있기 때문입니다.",
-      "impactSignals": [],
-      "dedupeKey": "whitehouse_ai_datacenter_power_mandate",
-      "clusterKey": "에너지/companies",
-      "matchedTo": null,
-      "sourceName": "Inside Towers",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPYW5rTFdLanpXR3REUmhxWkdDVV91RVVYQm02NUdNLXRLd2llSGhTQzZCVlJkNjNvMTRiNzV5M2ZUMVVZTkY5MDljQmJPd3MtRHBRVzVEV1FEVWNMQ01nT3gtMXZLVkpudTZJcXhMQUlheFFxRVR6Y2pvak9UbmNZSmFnSEd4azFqbzhzSElGYTFWMTNw?oc=5",
-      "publishedAt": "2026-03-02T11:04:36.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 63,
-      "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 내용이 일치하며, 핵심 내용을 잘 요약했습니다. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-03-03_15",
-      "date": "2026-03-03",
-      "category": "정책",
-      "title": "국회 및 인민대표대회 선거: 총선일까지의 주요 일정",
-      "summary": [
-        "베트남 국회 및 인민대표대회 선거 관련 총선 일정이 발표됨."
-      ],
-      "whyImportant": "총선 일정 발표의 중요성",
-      "importanceRationale": "근거: 총선 일정은 정책 결정 및 정부 구성에 중요한 영향을 미치기 때문.",
-      "impactSignals": [],
-      "dedupeKey": "국회 및 인민대표대회 선거: 총선일까지의 주요 일정",
-      "clusterKey": "vietnam",
-      "matchedTo": null,
-      "sourceName": "Vietnam.vn",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWEVISnFHZl82VXNPTjRwWHVCSENia3VjMkhfSDZXRG5QckNvb1lmTmxPY0hOYU95X09XakdTZHJEMlNieHJ5ZzF5dHJNNG9KaFM1OFQtWTZkZUQ0b05vN0VhZDU3QUFtcjg0NlF6c1R0QlM3eDN6QVh1a3hMbkMzTVFhbmJ2TG9zMjdURnJESXI1MENESG54Y1hvWXNQQQ?oc=5",
-      "publishedAt": "2026-03-02T10:52:14.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 63,
-      "qualityLabel": "ok",
-      "qualityReason": "기사 내용이 명확하고 간결함. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-03-03_16",
-      "date": "2026-03-03",
-      "category": "정책",
-      "title": "전기 요금이 높은 이유와 그 반발이 트럼프에게 미칠 수 있는 영향",
-      "summary": [
-        "Inside Climate News에 따르면 전기 요금이 높은 이유와 그에 따른 반발이 트럼프 전 대통령에게 영향을 줄 수 있다고 합니다."
-      ],
-      "whyImportant": "높은 전기 요금의 원인과 정치적 영향 분석",
-      "importanceRationale": "근거: 기사 제목에서 전기 요금 상승의 원인과 그 정치적 파급 효과를 다루고 있음을 명시하고 있습니다.",
-      "impactSignals": [],
-      "dedupeKey": "electricity_bills_trump_20240110",
-      "clusterKey": "bills",
-      "matchedTo": null,
-      "sourceName": "Inside Climate News",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNU9XbGZlS0FEN0JSNTJ2U1pOZUVjbWlXaTNDcmdEaU1UaUdMM1dsdEdzc3hHSjNoRXF1RllITzJ3YTlFRjVzeFhlSjRwZkxyazdfSVByVFNXeVRVby1PUzk3TFEwYksxS0t2UzZlMEdST1BBeTUwNTROUzlUdGhXeEI0RE16bDJyZTI0?oc=5",
-      "publishedAt": "2026-03-02T09:55:00.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 63,
-      "qualityLabel": "ok",
-      "qualityReason": "제목과 짧은 텍스트 기반으로 판단했을 때, 정보가 명확합니다. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-03-03_17",
-      "date": "2026-03-03",
-      "category": "국제",
-      "title": "중동 정세 불확실성 확대…정부 “전력수급 영향 제한적”",
-      "summary": [
-        "정부는 중동 정세의 불확실성 확대에도 불구하고 전력 수급에 미치는 영향은 제한적이라고 밝혔습니다."
-      ],
-      "whyImportant": "중동 불안정이 국내 에너지 수급에 미치는 영향을 평가한 정부 발표입니다.",
-      "importanceRationale": "근거: 정부가 직접 발표한 내용으로, 에너지 정책 및 시장에 대한 중요한 시사점을 제공합니다.",
-      "impactSignals": [],
-      "dedupeKey": "중동정세불확실성-전력수급영향제한적",
-      "clusterKey": "불확실성",
-      "matchedTo": null,
-      "sourceName": "전기신문",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9MYXFiZkVWWWNUR29GSmJqVDRRc3VkTVo4U3V3eHUybURjdk1iVzM1a2VUSC1YTjNzekdzT0ZEVE50REtBUGMzMDYzdlVsRGt5MVN4S1RmWXVVLVVIdkN3QUNEaWxVSVlwQ0E3RUtqUjDSAXBBVV95cUxPTGFxYmZFVlljVEdvRkpialQ0UXN1ZE1aOFN1d3h1Mm1EY3ZNYlczNWtlVEgtWE4zc3pHc09GRFROdERLQVBjMzA2M3ZVbERreTFTeEtUZll1VS1VSHZDd0FDRGlsVUlZcENBN0VLalIw?oc=5",
-      "publishedAt": "2026-03-02T07:30:20.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 63,
-      "qualityLabel": "ok",
-      "qualityReason": "정부 발표 인용 / 근거부족",
+      "qualityReason": "제목과 내용이 일치하며, 정보가 명확합니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     }

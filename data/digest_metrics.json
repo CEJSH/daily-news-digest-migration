@@ -2,41 +2,43 @@
   "type": "metrics_summary",
   "date": "2026-03-03",
   "totalIn": 285,
-  "totalOut": 17,
-  "dropped": 268,
+  "totalOut": 18,
+  "dropped": 267,
   "dropReasons": {
-    "carry_over_duplicate": 26,
-    "outdated": 112,
-    "hard_excluded_keyword": 7,
-    "duplicate_dedupe_key": 12,
-    "duplicate_title": 1,
-    "excluded_keyword": 2,
+    "carry_over_duplicate": 22,
+    "outdated": 111,
+    "hard_excluded_keyword": 5,
+    "duplicate_dedupe_key": 10,
+    "excluded_keyword": 3,
+    "duplicate_title": 6,
     "semantic_duplicate": 1,
-    "not_selected": 106,
-    "validation_dropped": 3,
+    "not_selected": 108,
+    "validation_dropped": 2,
     "duplicate_similarity": 1
   },
   "impactLabels": {
     "capex": 4,
-    "policy": 2,
+    "policy": 1,
+    "security": 1,
     "market-demand": 1
   },
   "sources": {
-    "한국경제": 1,
     "About Amazon": 1,
     "GeekWire": 1,
+    "Chosunbiz": 1,
     "Investor's Business Daily": 1,
     "연합뉴스 한민족센터": 2,
+    "한국경제": 2,
+    "연합인포맥스": 1,
     "한겨레": 1,
     "마켓인": 1,
-    "AZPM News": 1,
+    "Security Boulevard": 1,
+    "CNBC": 1,
+    "한국주택경제신문": 1,
+    "프레시안": 1,
+    "에너지경제신문": 1,
     "SPI - 상업용 부동산 콘텐츠 & 데이터 애널리틱스": 1,
-    "Korea JoongAng Daily": 1,
-    "WAMU": 1,
-    "Vietnam.vn": 2,
-    "Inside Towers": 1,
-    "Inside Climate News": 1,
-    "전기신문": 1
+    "Vietnam.vn": 1
   },
   "topicStats": {
     "IT": {
@@ -61,18 +63,18 @@
     },
     "실적_가이던스": {
       "in": 24,
-      "out": 1,
-      "dropped": 23
+      "out": 3,
+      "dropped": 21
     },
     "반도체_공급망": {
       "in": 24,
-      "out": 2,
-      "dropped": 22
+      "out": 1,
+      "dropped": 23
     },
     "전력_인프라": {
       "in": 24,
-      "out": 6,
-      "dropped": 18
+      "out": 2,
+      "dropped": 22
     },
     "AI_저작권_데이터권리": {
       "in": 20,
@@ -81,8 +83,8 @@
     },
     "보안_취약점_패치": {
       "in": 20,
-      "out": 1,
-      "dropped": 19
+      "out": 2,
+      "dropped": 18
     },
     "투자_MA_IPO": {
       "in": 20,
@@ -91,8 +93,8 @@
     },
     "국내_정책_규제": {
       "in": 15,
-      "out": 1,
-      "dropped": 14
+      "out": 4,
+      "dropped": 11
     },
     "국내_산업_공급망": {
       "in": 15,
@@ -118,7 +120,8 @@
       "outdated": 1
     },
     "비즈니스포스트": {
-      "outdated": 2
+      "outdated": 2,
+      "not_selected": 2
     },
     "매일경제": {
       "outdated": 2
@@ -127,13 +130,10 @@
       "outdated": 2
     },
     "인공지능신문": {
-      "outdated": 2
+      "outdated": 1
     },
     "knn.co.kr": {
       "outdated": 2
-    },
-    "부산일보사": {
-      "outdated": 1
     },
     "쿠키뉴스": {
       "outdated": 1
@@ -143,6 +143,9 @@
     },
     "더에이아이": {
       "outdated": 1
+    },
+    "전자신문": {
+      "outdated": 2
     },
     "Rest of World": {
       "carry_over_duplicate": 1
@@ -156,9 +159,6 @@
     "TRENDS Research & Advisory": {
       "outdated": 1
     },
-    "Cornell Chronicle": {
-      "outdated": 1
-    },
     "Data Center Dynamics": {
       "outdated": 1,
       "not_selected": 1
@@ -169,11 +169,11 @@
     "Data Center Knowledge": {
       "outdated": 1
     },
-    "Davis Wright Tremaine": {
+    "Cornell Chronicle": {
       "outdated": 1
     },
-    "전자신문": {
-      "outdated": 2
+    "Davis Wright Tremaine": {
+      "outdated": 1
     },
     "뉴시스": {
       "outdated": 1
@@ -192,15 +192,12 @@
     },
     "ebn.co.kr": {
       "outdated": 2,
-      "not_selected": 1
+      "duplicate_title": 1
     },
     "한국경제": {
       "outdated": 4,
-      "carry_over_duplicate": 1,
+      "carry_over_duplicate": 2,
       "not_selected": 3
-    },
-    "edaily.co.kr": {
-      "outdated": 1
     },
     "인포스탁데일리": {
       "outdated": 1
@@ -208,18 +205,18 @@
     "브런치": {
       "outdated": 1
     },
-    "약업신문": {
-      "outdated": 1
+    "edaily.co.kr": {
+      "outdated": 1,
+      "not_selected": 1
     },
-    "히트뉴스": {
+    "약업신문": {
       "outdated": 1
     },
     "WWF EU": {
       "outdated": 1
     },
     "Reuters": {
-      "outdated": 2,
-      "duplicate_dedupe_key": 2
+      "outdated": 2
     },
     "MSCI": {
       "outdated": 1
@@ -260,17 +257,18 @@
     "RMI": {
       "outdated": 1
     },
-    "마켓인": {
-      "carry_over_duplicate": 1,
-      "outdated": 2,
-      "not_selected": 9
-    },
     "연합뉴스 한민족센터": {
-      "carry_over_duplicate": 3,
+      "carry_over_duplicate": 1,
+      "not_selected": 4
+    },
+    "마켓인": {
+      "carry_over_duplicate": 2,
+      "duplicate_dedupe_key": 1,
+      "outdated": 2,
       "not_selected": 3
     },
-    "미주한국일보": {
-      "carry_over_duplicate": 1
+    "KPMG": {
+      "outdated": 1
     },
     "남도일보": {
       "carry_over_duplicate": 1
@@ -287,41 +285,56 @@
     "Railway Age": {
       "hard_excluded_keyword": 1
     },
+    "Axios": {
+      "carry_over_duplicate": 1
+    },
     "PR Daily": {
       "carry_over_duplicate": 1
     },
     "TechCrunch": {
       "carry_over_duplicate": 1
     },
-    "Industrial Cyber": {
-      "hard_excluded_keyword": 1
-    },
     "Apple": {
       "duplicate_dedupe_key": 1,
       "not_selected": 1
     },
-    "CNN": {
+    "NVIDIA Newsroom": {
+      "duplicate_dedupe_key": 1,
+      "duplicate_title": 1
+    },
+    "연합인포맥스": {
+      "excluded_keyword": 1,
+      "outdated": 4,
+      "duplicate_dedupe_key": 1,
+      "not_selected": 7
+    },
+    "Archer Aviation - Investor Relations": {
       "duplicate_dedupe_key": 1
+    },
+    "Barron's": {
+      "duplicate_dedupe_key": 1
+    },
+    "Quiver Quantitative": {
+      "duplicate_dedupe_key": 2
+    },
+    "초이스스탁US": {
+      "duplicate_title": 1
     },
     "Chosunbiz": {
-      "duplicate_dedupe_key": 1,
-      "outdated": 1,
-      "not_selected": 1
-    },
-    "NVIDIA Newsroom": {
-      "duplicate_dedupe_key": 1
-    },
-    "CNBC": {
-      "carry_over_duplicate": 1,
       "outdated": 1,
       "not_selected": 2
     },
-    "Quiver Quantitative": {
-      "duplicate_dedupe_key": 3
+    "mstoday.co.kr": {
+      "outdated": 2
     },
     "뉴스투데이": {
       "duplicate_dedupe_key": 1,
       "outdated": 1
+    },
+    "한국무역협회-KITA.NET": {
+      "carry_over_duplicate": 2,
+      "outdated": 1,
+      "not_selected": 2
     },
     "디일렉": {
       "carry_over_duplicate": 1
@@ -329,33 +342,35 @@
     "Information Technology and Innovation Foundation": {
       "outdated": 2
     },
+    "Deloitte": {
+      "outdated": 1
+    },
     "CSIS | Center for Strategic and International Studies": {
       "outdated": 1
     },
     "Council on Foreign Relations": {
       "outdated": 1
     },
-    "Deloitte": {
-      "outdated": 1
-    },
     "War on the Rocks": {
       "outdated": 1
-    },
-    "The Motley Fool": {
-      "carry_over_duplicate": 1
     },
     "Congressman Michael McCaul (.gov)": {
       "outdated": 1
     },
+    "Center for a New American Security": {
+      "outdated": 1
+    },
     "China-US Focus": {
+      "outdated": 1
+    },
+    "Bloomsbury Intelligence and Security Institute (BISI)": {
       "outdated": 1
     },
     "The Foundation for American Innovation": {
       "outdated": 1
     },
     "한겨레": {
-      "duplicate_title": 1,
-      "carry_over_duplicate": 1,
+      "duplicate_title": 2,
       "semantic_duplicate": 1
     },
     "ARLnow": {
@@ -365,15 +380,15 @@
       "carry_over_duplicate": 1
     },
     "이로운넷": {
-      "outdated": 2
-    },
-    "KBS 뉴스": {
       "outdated": 1
     },
     "미디어오늘": {
       "outdated": 1
     },
     "특허뉴스": {
+      "outdated": 1
+    },
+    "IAPP": {
       "outdated": 1
     },
     "Inside Global Tech": {
@@ -385,6 +400,9 @@
     "Tech Xplore": {
       "outdated": 1
     },
+    "CNET": {
+      "outdated": 1
+    },
     "Tech Policy Press": {
       "outdated": 1
     },
@@ -394,42 +412,31 @@
     "Stanford HAI": {
       "outdated": 1
     },
-    "City of Boise": {
+    "케이벤치": {
       "outdated": 1
     },
-    "University of California": {
+    "SOC Prime": {
       "outdated": 1
-    },
-    "한국무역협회-KITA.NET": {
-      "carry_over_duplicate": 1,
-      "outdated": 1,
-      "not_selected": 5
-    },
-    "Indo-Pacific Defense FORUM": {
-      "hard_excluded_keyword": 1
-    },
-    "The HIPAA Journal": {
-      "carry_over_duplicate": 1
     },
     "Security Clearance Jobs": {
       "carry_over_duplicate": 1
     },
-    "Palo Alto Networks": {
+    "The HIPAA Journal": {
       "hard_excluded_keyword": 1
     },
     "ktnv.com": {
       "carry_over_duplicate": 1
     },
-    "The Cloudflare Blog": {
+    "Rescana": {
       "outdated": 1
     },
-    "CyberScoop": {
+    "The Cloudflare Blog": {
       "outdated": 1
     },
     "Baker Donelson": {
       "hard_excluded_keyword": 1
     },
-    "Halcyon": {
+    "CyberScoop": {
       "outdated": 1
     },
     "Bitsight": {
@@ -441,8 +448,12 @@
     "AlleyWatch": {
       "hard_excluded_keyword": 1
     },
-    "무등뉴스": {
-      "carry_over_duplicate": 1
+    "OpenAI": {
+      "outdated": 1
+    },
+    "매일경제TV": {
+      "duplicate_title": 1,
+      "outdated": 1
     },
     "투데이에너지": {
       "outdated": 1
@@ -456,12 +467,6 @@
     "에너지플랫폼뉴스": {
       "outdated": 1
     },
-    "연합인포맥스": {
-      "outdated": 3,
-      "duplicate_dedupe_key": 1,
-      "not_selected": 5,
-      "validation_dropped": 1
-    },
     "철강금속신문": {
       "outdated": 1
     },
@@ -474,25 +479,13 @@
     "데이터투자": {
       "outdated": 1
     },
+    "인사이트에너지뉴스": {
+      "outdated": 1
+    },
     "세무사신문": {
       "outdated": 1
     },
-    "mstoday.co.kr": {
-      "outdated": 1,
-      "not_selected": 2
-    },
     "DealSite경제TV": {
-      "outdated": 1,
-      "not_selected": 1
-    },
-    "한국보험신문": {
-      "outdated": 1
-    },
-    "CEO스코어데일리": {
-      "outdated": 1,
-      "not_selected": 1
-    },
-    "서울파이낸스": {
       "outdated": 1
     },
     "economidaily.com": {
@@ -510,15 +503,15 @@
     "포춘코리아": {
       "outdated": 1
     },
-    "매일경제TV": {
-      "outdated": 1
-    },
     "itworld.co.kr": {
-      "outdated": 1
+      "outdated": 1,
+      "not_selected": 2
+    },
+    "Edge Industry Review": {
+      "not_selected": 1
     },
     "뉴스토마토": {
-      "not_selected": 2,
-      "validation_dropped": 1
+      "not_selected": 2
     },
     "Cybercrime Magazine": {
       "not_selected": 1
@@ -526,25 +519,19 @@
     "Air Cargo News": {
       "not_selected": 1
     },
-    "9to5Mac": {
-      "not_selected": 1
-    },
-    "Barron's": {
-      "not_selected": 1
-    },
-    "뉴스1": {
+    "CNBC": {
       "not_selected": 2
     },
-    "Benzinga": {
-      "not_selected": 1
+    "뉴스1": {
+      "not_selected": 3
+    },
+    "히트뉴스": {
+      "not_selected": 2
     },
     "Investing.com 한국어": {
-      "not_selected": 5
+      "not_selected": 4
     },
-    "Archer Aviation - Investor Relations": {
-      "not_selected": 1
-    },
-    "CX Today": {
+    "Asana": {
       "not_selected": 1
     },
     "Yahoo Finance": {
@@ -553,26 +540,38 @@
     "bntnews.co.kr": {
       "not_selected": 1
     },
-    "Vietnam.vn": {
-      "not_selected": 2
+    "AZPM News": {
+      "not_selected": 1
+    },
+    "Inside Climate News": {
+      "not_selected": 1
     },
     "Biomass Magazine": {
+      "not_selected": 1
+    },
+    "Forbes": {
       "not_selected": 1
     },
     "Canary Media": {
       "not_selected": 1
     },
-    "딜사이트 플러스": {
-      "not_selected": 2
-    },
     "Business Insider": {
+      "not_selected": 1
+    },
+    "Crunchbase News": {
+      "not_selected": 1
+    },
+    "GamblingNews": {
       "not_selected": 1
     },
     "Environmental and Energy Study Institute (EESI)": {
       "validation_dropped": 1
     },
+    "블로터": {
+      "validation_dropped": 1
+    },
     "__others__": {
-      "not_selected": 45
+      "not_selected": 52
     }
   },
   "breakingSelection": {
@@ -582,20 +581,20 @@
     "selectedShare": 0
   },
   "categories": {
-    "기술": 2,
-    "국제": 4,
+    "국제": 5,
     "정책": 5,
-    "에너지": 1,
-    "경제": 5
+    "경제": 5,
+    "기술": 1,
+    "에너지": 2
   },
   "importanceDistribution": {
-    "2": 10,
-    "3": 1,
-    "4": 2,
+    "2": 11,
+    "4": 1,
+    "4.5": 2,
     "3.5": 4
   },
   "topDiversity": {
-    "uniqueSources": 15,
+    "uniqueSources": 16,
     "uniqueCategories": 5,
     "maxPerSource": 2
   }
