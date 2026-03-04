@@ -3,7 +3,7 @@
   "selectionCriteria": "① 내일도 영향이 남는 이슈 ② 과도한 감정 소모 제외 ③ 어제와 중복되는 뉴스 제외",
   "editorNote": "이 뉴스는 클릭 수가 아니라 오늘 이후에도 남는 정보만 기준으로 편집했습니다.",
   "question": "정보를 덜 보는 것이 오히려 더 똑똑한 소비일까?",
-  "lastUpdatedAt": "2026-03-04T08:24:44.119+09:00",
+  "lastUpdatedAt": "2026-03-04T10:49:43.532+09:00",
   "items": [
     {
       "id": "2026-03-04_1",
@@ -18,10 +18,10 @@
       "impactSignals": [
         {
           "label": "security",
-          "evidence": "천연 가스 시설에 대한 공격은 에너지 시설 보안의 중요성을 부각시킵니다."
+          "evidence": "천연 가스 시설에 대한 공격은 에너지 인프라 보안의 중요성을 강조합니다."
         }
       ],
-      "dedupeKey": "qatar_gas_attack_mass_energy",
+      "dedupeKey": "qatar-natural-gas-attack-mass-energy",
       "clusterKey": "에너지/attack",
       "matchedTo": null,
       "sourceName": "WCVB",
@@ -32,7 +32,7 @@
       "importance": 3.5,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "The article provides a concise and factual report on a potential energy security issue.",
+      "qualityReason": "The article is a brief announcement of a potential impact.",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -46,8 +46,8 @@
         "이는 데이터 센터 운영 비용에 영향을 미칠 수 있습니다.",
         "자세한 내용은 Technical.ly에서 확인할 수 있습니다."
       ],
-      "whyImportant": "데이터 센터의 운영 비용에 영향을 미칠 수 있는 정책 변경 가능성.",
-      "importanceRationale": "근거: 델라웨어 주에서 데이터 센터에 대한 새로운 전기 요금 정책이 도입될 가능성이 있으며, 이는 데이터 센터의 자본 지출(CAPEX) 및 시장 수요에 영향을 줄 수 있습니다.",
+      "whyImportant": "데이터 센터의 전기 요금 변경 가능성은 관련 산업에 영향을 미치므로 중요합니다.",
+      "importanceRationale": "근거: 델라웨어의 데이터 센터에 대한 새로운 전기 요금 정책은 해당 산업의 자본 지출(capex) 및 시장 수요에 영향을 미칠 수 있습니다. 정책(policy) 변경은 기업의 운영 비용 및 투자 결정에 직접적인 영향을 미치기 때문입니다.",
       "impactSignals": [
         {
           "label": "policy",
@@ -65,49 +65,21 @@
       "importance": 3.5,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 내용이 일치하며, 정보가 명확합니다.",
+      "qualityReason": "기사 제목과 요약이 명확하고 간결합니다.",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-03-04_3",
       "date": "2026-03-04",
-      "category": "정책",
-      "title": "상원 PUC 예산 청문회: PUC 의장, PJM 시장 경매가 데이터 센터 수요를 위해 설계되지 않았다고 발언",
-      "summary": [
-        "상원 PUC 예산 청문회에서 PUC 의장은 PJM 시장 경매가 데이터 센터 수요를 충족하도록 설계되지 않았다고 밝혔습니다.",
-        "펜실베이니아주는 전력 생산에 사용되는 연료를 다양화해야 한다고 강조했습니다.",
-        "자체 전력 확보의 중요성도 언급되었습니다."
-      ],
-      "whyImportant": "데이터 센터 전력 수요 증가에 대한 정책적 논의 필요",
-      "importanceRationale": "근거: 데이터 센터의 전력 수요 급증은 기존 전력 시장 시스템에 부담을 줄 수 있으며, 이는 전력 공급 안정성 및 가격에 영향을 미칠 수 있습니다. 따라서 관련 시장 설계 및 연료 다변화에 대한 논의는 중요합니다.",
-      "impactSignals": [],
-      "dedupeKey": "PUC_PJM_DataCenter",
-      "clusterKey": "에너지/budget",
-      "matchedTo": null,
-      "sourceName": "PA Environment Digest Blog",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPR0lOZG9iYnZ1M09fYl9VYVdLSWZ1RV9mbC1SbjdxOURGYk9xaGQ4eE1jWldMWGRxZFBFZ2FWaF9ibDVnblFaMmhHaDRoNmJhT2JybHJvaUdlVWhucFo2VmFpRTdGY3U1ZU9vU2otakJqMDFtSlJGV2JlOGVCdmJ6ZERBcjFOaE55ZHJmUmU1bjQzRjJVX3c?oc=5",
-      "publishedAt": "2026-03-03T22:27:00.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 75,
-      "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 내용이 일치하며, 핵심 내용을 잘 요약했습니다. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-03-04_4",
-      "date": "2026-03-04",
       "category": "경제",
-      "title": "효성중공업, 고가 수주분 매출 전환 및 증설 본격화…목표가↑-유안타",
+      "title": "효성중공업, 고가 수주 물량 매출 전환 및 증설 본격화…목표가↑-유안타",
       "summary": [
-        "효성중공업이 고가 수주분의 매출 전환과 증설을 본격화하고 있다.",
-        "유안타증권은 효성중공업의 목표가를 상향 조정했다."
+        "유안타증권은 효성중공업의 고가 수주 물량의 매출 전환과 증설 본격화를 전망했다.",
+        "이에 따라 목표 주가를 상향 조정했다."
       ],
-      "whyImportant": "효성중공업의 실적 개선 및 성장 가능성을 시사한다.",
-      "importanceRationale": "근거: 고가 수주분의 매출 전환과 증설은 효성중공업의 수익성 개선 및 시장 경쟁력 강화로 이어질 수 있다.",
+      "whyImportant": "효성중공업의 실적 개선 및 성장 가능성을 시사합니다.",
+      "importanceRationale": "근거: 고가 수주 물량의 매출 전환과 증설은 효성중공업의 수익성 개선과 생산 능력 확대로 이어질 수 있으며, 이는 기업 가치 상승으로 이어질 가능성이 높습니다.",
       "impactSignals": [],
       "dedupeKey": "hyosung-heavy-industries-capex-earnings",
       "clusterKey": "고단가",
@@ -118,14 +90,14 @@
       "readTimeSec": 10,
       "status": "kept",
       "importance": 2,
-      "importanceRaw": 63,
+      "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 텍스트가 일치하며, 정보가 명확하다. / 근거부족",
+      "qualityReason": "The article provides a concise summary of analyst expectations for the company. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-03-04_5",
+      "id": "2026-03-04_4",
       "date": "2026-03-04",
       "category": "경제",
       "title": "CrowdStrike 4분기 실적, 매출액 추정치 소폭 상회, 가이던스는 대체로 부합",
@@ -135,14 +107,14 @@
         "가이던스는 대체로 시장 예상치에 부합하는 수준입니다."
       ],
       "whyImportant": "CrowdStrike의 실적은 사이버 보안 산업의 건전성을 나타내는 지표입니다.",
-      "importanceRationale": "근거: CrowdStrike는 사이버 보안 분야의 주요 기업 중 하나이며, 실적은 해당 산업 전반에 대한 투자 및 성장 전망에 영향을 미칠 수 있습니다.",
+      "importanceRationale": "근거: CrowdStrike는 사이버 보안 분야의 주요 기업 중 하나이며, 실적은 해당 산업 전반의 투자 및 성장 추세를 반영합니다.",
       "impactSignals": [
         {
           "label": "capex",
-          "evidence": "CrowdStrike의 투자 지출 관련 정보 (실적 발표 내용 기반)"
+          "evidence": "CrowdStrike의 실적 발표는 사이버 보안 투자 동향을 반영합니다."
         }
       ],
-      "dedupeKey": "CrowdStrike_Q4_Earnings_2024",
+      "dedupeKey": "CrowdStrike_Q4_Earnings_Revenue_Edge_By_Estimates_Amid_Roughly_In-Line_Guidance",
       "clusterKey": "amid",
       "matchedTo": null,
       "sourceName": "Investor's Business Daily",
@@ -153,7 +125,39 @@
       "importance": 3.5,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 정보가 간결하게 요약되어 있습니다.",
+      "qualityReason": "The article provides factual information about CrowdStrike's earnings and revenue.",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-03-04_5",
+      "date": "2026-03-04",
+      "category": "에너지",
+      "title": "AI 데이터 센터, 수요에 따라 전력 소비 줄일 수 있어",
+      "summary": [
+        "AI 데이터 센터는 수요에 따라 전력 소비를 줄일 수 있다는 연구 결과가 나왔다.",
+        "이는 데이터 센터의 에너지 효율성을 높이는 데 기여할 수 있다."
+      ],
+      "whyImportant": "AI 데이터 센터의 전력 소비 효율성 향상 가능성을 제시합니다.",
+      "importanceRationale": "근거: AI 데이터 센터가 수요에 따라 전력 소비를 줄일 수 있다는 연구 결과는 에너지 효율성 개선 및 관련 기술 개발에 대한 투자를 촉진할 수 있습니다.",
+      "impactSignals": [
+        {
+          "label": "market-demand",
+          "evidence": "전력 소비를 줄이는 AI 데이터 센터에 대한 시장 수요가 증가할 수 있음"
+        }
+      ],
+      "dedupeKey": "AI_data_centers_power_draw_demand",
+      "clusterKey": "에너지/centers",
+      "matchedTo": null,
+      "sourceName": "Engadget",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONk1KeTBpNmFmRnkyM1ByUlFYWER2YnF3NXlLWVlGMlJtWGNqQVBLLUNUV09MNHRLc0JZSzFJMnZyN0UzU2hqaW1Pb1Q0ZzNGc0NaTkJRSWQ1T0VGcmJTbG1zU3dUNE94LWJFSVN4bzFwallMT2dhV3BtX19UM25FWk1PZ2wxUVM5QjROUjk5S0c0VzhwVzc3M1h1MjFvRF9rZTgyNFd3?oc=5",
+      "publishedAt": "2026-03-03T18:06:28.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 3.5,
+      "importanceRaw": 63,
+      "qualityLabel": "ok",
+      "qualityReason": "기사 제목과 내용이 일치하며, 간결하게 요약되었습니다.",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -161,63 +165,59 @@
       "id": "2026-03-04_6",
       "date": "2026-03-04",
       "category": "국제",
-      "title": "아마존 UAE 데이터 센터, 드론 공격으로 은행 및 결제 서비스 중단",
+      "title": "샘 알트만, OpenAI 직원들에게 군의 '작전 결정'은 정부에 달려 있다고 밝혀",
       "summary": [
-        "아마존 UAE 데이터 센터가 드론 공격을 받아 은행 및 결제 서비스에 차질이 발생했다.",
-        "CNBC에 따르면 이번 공격으로 인해 관련 서비스들이 중단되었다.",
-        "정확한 피해 규모와 복구 시점은 아직 알려지지 않았다."
+        "샘 알트만은 OpenAI 직원들에게 군사 작전 결정은 정부의 책임이라고 말했다.",
+        "이는 OpenAI의 기술이 군사적으로 사용될 수 있는 상황에 대한 내부 논의에서 나온 발언이다.",
+        "알트만은 정부의 역할을 강조하며, OpenAI는 정책 결정에 관여하지 않을 것임을 시사했다."
       ],
-      "whyImportant": "데이터 센터 공격으로 인한 금융 서비스 중단은 경제적 혼란을 야기할 수 있기 때문에 중요합니다.",
-      "importanceRationale": "근거: 아마존의 데이터 센터는 은행 및 결제 서비스의 핵심 인프라를 제공하며, 이러한 시설에 대한 공격은 직접적인 서비스 중단으로 이어져 광범위한 영향을 미칠 수 있습니다.",
-      "impactSignals": [
-        {
-          "label": "security",
-          "evidence": "드론 공격으로 데이터 센터 보안에 대한 우려가 커지고 있다."
-        }
-      ],
-      "dedupeKey": "amazon_uae_drone_attack_2024",
-      "clusterKey": "after",
+      "whyImportant": "OpenAI의 기술이 군사적으로 사용될 가능성과 관련된 정책적 함의를 내포하고 있다.",
+      "importanceRationale": "근거: 샘 알트만이 군사 작전 결정이 정부에 달려 있다고 언급한 것은 OpenAI의 기술 사용에 대한 정책적 책임을 명확히 하려는 의도로 해석될 수 있다.",
+      "impactSignals": [],
+      "dedupeKey": "sam-altman-military-operational-decisions",
+      "clusterKey": "altman",
       "matchedTo": null,
       "sourceName": "CNBC",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMl93VU9VUGMyeWVIV0JqMmNJNDBkdWJwVG9KNFdTeXQydFd6ZUx5THo2XzhsVWRIMS1LSHB5Ym5mTHFIbUwzbUF5bWJodkVfRDFBMXFXZ3FhQzJpY2RWZ0N6OW13dUJwRlRDMjZCR0p5NEROQTVjUU5FY2xULV82bmdQZVdnc3PSAYwBQVVfeXFMUF9XVTVfYmVVME5kZmFOUTUtUDJER3hQY2RHRWpUNm0wcXQ1YmVNc0tzVF9nXzVyTnd1NW4yajRoWHVGWnZFTWVYVHRrVTBjLXlpdHRENXVnWnJBR0xrRHpJS1JvZUZXckZEejM2cUNnRUpoWG9hblRSTmJJRUdpdEMxT3RReWhDS2tNM3A?oc=5",
-      "publishedAt": "2026-03-03T16:51:37.000Z",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWTIwLTVlOHcxWEVWcThCNEpiWFpKUkpHanRhZ3k4WklpUlVqb01fUnBqOFktYmVXWWRoRmZoM3ppcldRbHB3ZWFsbTltMXlYWEE2ejdnR3piYzZGekZ0cmJLSnBHSkxOeTlVTlZxc1N5UlRXYnBfSnZHS2hpQTQ2Z0JNR2Y5aGxzRWZaMjAzMl9IanM3RFdVZEp4NW1mLUh6Q1VTT0RMdDTSAa4BQVVfeXFMTlAwcHM5cldkNmFCWGNlMVl2Y2lSSXRGeWRXTGFNQnFpQ2w2NGdTcHd0by1HUmxGc2lmbmQ5NmhIVEw3dGNTcEVBSXdrX0R1aGNHY3FlVVFLMEVSN3pQbU5tODBoN2NmMDVxTzNnU0F2RlRpTE9TcF91S3A0UlpJUWFxU3JTTEU0cjJza1M2VzdlbFEtYWYyQ2JETmJ6eDYyVnFzd3hROHFVQ2xLTTRR?oc=5",
+      "publishedAt": "2026-03-03T22:52:40.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 4,
-      "importanceRaw": 75,
+      "importance": 2,
+      "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "기사에 명확한 사실 정보가 포함되어 있습니다.",
+      "qualityReason": "기사의 내용이 명확하고 간결하며, 핵심 정보를 잘 전달하고 있다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-03-04_7",
       "date": "2026-03-04",
-      "category": "경제",
-      "title": "기정원, 스마트공장 참여 기업 투자 유치 지원…'IR 브릿지' 추진",
+      "category": "에너지",
+      "title": "NextEra, 2035년까지 데이터 센터에 최대 30기가와트의 전력 추가 예상",
       "summary": [
-        "기정원이 스마트공장 참여 기업의 투자 유치를 지원하기 위해 'IR 브릿지'를 추진합니다."
+        "NextEra는 2035년까지 데이터 센터에 최대 30기가와트의 전력을 추가할 것으로 예상했다.",
+        "이는 데이터 센터의 전력 수요 증가에 따른 것이다."
       ],
-      "whyImportant": "스마트공장 참여 기업의 투자 유치 기회 확대",
-      "importanceRationale": "근거: 기정원이 스마트공장 참여 기업을 대상으로 투자 유치를 지원하는 'IR 브릿지'를 추진함으로써, 관련 기업들의 투자 유치 가능성을 높일 수 있기 때문입니다.",
+      "whyImportant": "데이터 센터 전력 수요 증가에 대한 투자 계획을 보여준다.",
+      "importanceRationale": "근거: NextEra의 데이터 센터 전력 공급 확대 계획은 관련 시장의 성장 가능성을 시사하며, 에너지 및 기술 산업에 중요한 영향을 미칠 수 있다.",
       "impactSignals": [
         {
           "label": "capex",
-          "evidence": "스마트공장 참여 기업 투자 유치 지원"
+          "evidence": "NextEra expects to add up to 30 gigawatts of power for data centers by 2035"
         }
       ],
-      "dedupeKey": "기정원, 스마트공장 참여기업 투자유치 지원…'IR 브릿지' 추진",
-      "clusterKey": "기정원",
+      "dedupeKey": "NextEra_data_center_power_2035",
+      "clusterKey": "에너지/add",
       "matchedTo": null,
-      "sourceName": "서울경제TV",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBvRl9lUVhyRThHWjF1WFFRbkRIdk5ZeTFQWXdtdm1LdnhVV2tvQzhMNEkxdlh3STlLNWY0V2wyTE9NRVJHTUthOE1zN0pUR2tCNnZHTkVwZ0poOG9CS1NjMVE5OW0?oc=5",
-      "publishedAt": "2026-03-03T23:19:42.000Z",
+      "sourceName": "Reuters",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQOWl0Zm9lSlk2YWZTd1lUNnFxLS1NLWZaaTZOc2FJQUhSOUh4XzYtdVRUaElEdUMwaWh2bWVKbjF4YnlVWDM3YmZSQldOQXdQajU5YWllRTliN0ZIRkhQRXRFUXJyaDNIaW9ubnhvdXNrM1p1TlE4bW1XMjRMb29teGhNQTY3cGlid3pqSE5IczZHVHBQLUJxZ2prWHRwT2xXdlE5Rk5kOG0zaW9QWnlVV3VIR0w?oc=5",
+      "publishedAt": "2026-03-03T16:01:25.000Z",
       "readTimeSec": 10,
       "status": "kept",
       "importance": 3.5,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되어 있습니다.",
+      "qualityReason": "제목과 내용이 일치하며, 정보가 명확하다.",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -225,89 +225,58 @@
       "id": "2026-03-04_8",
       "date": "2026-03-04",
       "category": "경제",
-      "title": "기금형 퇴직연금 도입 시 EMP 수요 확대 전망",
+      "title": "앤두릴, 신규 자금 조달 라운드에서 600억 달러 가치 평가 목표",
       "summary": [
-        "기금형 퇴직연금 도입으로 EMP(일임형 자산관리) 수요가 확대될 것으로 전망됩니다."
+        "앤두릴이 새로운 자금 조달 라운드에서 600억 달러의 가치 평가를 목표로 하고 있다.",
+        "이는 TechCrunch에 의해 보도되었다."
       ],
-      "whyImportant": "기금형 퇴직연금 도입이 자산 관리 시장에 미치는 영향",
-      "importanceRationale": "근거: 기금형 퇴직연금 도입이 EMP 수요 확대로 이어질 수 있다는 전망은 자산 관리 업계의 중요한 변화를 시사합니다.",
-      "impactSignals": [
-        {
-          "label": "market-demand",
-          "evidence": "기금형 퇴직연금 도입으로 EMP 수요 확대 전망"
-        }
-      ],
-      "dedupeKey": "기금형 퇴직연금 도입 시 EMP 수요 확대 전망",
-      "clusterKey": "emp",
+      "whyImportant": "앤두릴의 기업 가치 상승은 방위 산업의 투자 동향을 보여주는 지표가 될 수 있다.",
+      "importanceRationale": "근거: 앤두릴의 기업 가치 평가는 투자 유치 규모와 함께 회사의 성장 가능성을 나타내며, 이는 관련 산업 전반에 영향을 미칠 수 있다.",
+      "impactSignals": [],
+      "dedupeKey": "anduril_60b_valuation",
+      "clusterKey": "aims",
       "matchedTo": null,
-      "sourceName": "이투데이",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1fRl9HNUYtSG5oTFY4X25qQVI4bEJBYjY5N0hEY3pabV9LM3ZOVTg5VVFLT0FWNHdhWURtQWhWZTFNd3A5aDBBdW5XejNPb19UcWxGRWNlenR4dw?oc=5",
-      "publishedAt": "2026-03-03T22:00:00.000Z",
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQeUdSYlRsek1xdzRLRVRkSUNENVFMcldJTG5oQnZ6NGhFOHFrbUZUQjU4WWZMeUo2M2lNSmhqVzdIaHJrT2FyX1kteVBHdmFoVWptQ254WHhNMWM1a084cW1XTjk5NEgwRlFpUTdfWHFmTEsyclRETk84X251V0RWZjZxeVpGVVBXQi16M2dCZWJFenpTdkow?oc=5",
+      "publishedAt": "2026-03-03T20:06:45.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 3.5,
+      "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "The article provides a clear and concise statement about the expected impact of introducing a fund-type retirement pension on the demand for EMP.",
+      "qualityReason": "The article provides a concise and factual summary of the news. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-03-04_9",
       "date": "2026-03-04",
-      "category": "정책",
-      "title": "오늘 스테이블코인법 정부안 최종 논의…발의 임박",
+      "category": "경제",
+      "title": "오늘의 Pick : \"에이피알, 가이던스 상회 가능성 높아\"",
       "summary": [
-        "오늘 스테이블코인법 정부안에 대한 최종 논의가 진행될 예정입니다.",
-        "법안 발의가 임박했습니다."
+        "에이피알의 가이던스 상회 가능성이 높다는 분석이 나왔다.",
+        "한국경제에서 보도됨."
       ],
-      "whyImportant": "스테이블코인 규제 법안의 윤곽이 드러날 수 있습니다.",
-      "importanceRationale": "근거: 스테이블코인 법안은 디지털 자산 시장에 중요한 영향을 미치며, 정책 방향을 제시할 수 있기 때문입니다.",
+      "whyImportant": "에이피알의 실적 전망에 대한 긍정적 신호입니다.",
+      "importanceRationale": "근거: 에이피알의 가이던스 상회 가능성이 높다는 한국경제의 보도에 기반함.",
       "impactSignals": [],
-      "dedupeKey": "20240614-스테이블코인법",
-      "clusterKey": "마켓인",
+      "dedupeKey": "에이피알, 가이던스 상회 가능성 높아",
+      "clusterKey": "pick",
       "matchedTo": null,
-      "sourceName": "마켓인",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5UT2hyMnp3bGE4ZjczYWtyUGx3NDBtZ28wTldfcGlEVVRJNE8yT2JhM1lIcVIxeTY4ZVU1NVpYU1ZzWUVpVWtCWnR2azktZzRNNURfTXNONjZMUkd2OHNObHlPZGxvdHcyUm9qaGs4U1FvUVU?oc=5",
-      "publishedAt": "2026-03-03T22:23:58.000Z",
+      "sourceName": "한국경제",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5RcUd4VE8wcm1SVW0wdWtXb3VKal9zb2NJSkhEVUJDalNKbGMyWFdnanZPaWtKYlN1LUM3aVJZc3pkUG5FVWlzTkM5b1luTlc1SmMtbEtEeHN6UdIBVEFVX3lxTE1BZXo2Rkw5UDk4OEFOSzMtYWV6SC1ZVlpzTi1FaHF6ZWtFY2NwUFZtdUExVDc4Zk5CMU1jTlBtaU9fazMyVTZOYnI5c3NPRURETWZGeA?oc=5",
+      "publishedAt": "2026-03-03T23:57:57.000Z",
       "readTimeSec": 10,
       "status": "kept",
       "importance": 2,
-      "importanceRaw": 75,
+      "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었습니다. / 근거부족",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약됨. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-03-04_10",
-      "date": "2026-03-04",
-      "category": "경제",
-      "title": "앤두릴, 40억 달러 자금 조달로 기업 가치 두 배로 증가 예상",
-      "summary": [
-        "앤두릴이 40억 달러의 자금 조달 라운드를 통해 기업 가치를 두 배로 늘릴 것으로 예상된다고 소식통이 밝혔습니다.",
-        "이는 앤두릴의 성장과 시장에서의 입지 강화를 의미합니다."
-      ],
-      "whyImportant": "앤두릴의 기업 가치 증가는 방위 산업에서의 중요성을 시사합니다.",
-      "importanceRationale": "근거: 40억 달러의 대규모 자금 조달은 앤두릴의 기술력과 성장 잠재력에 대한 시장의 높은 평가를 반영합니다.",
-      "impactSignals": [],
-      "dedupeKey": "anduril_4b_funding",
-      "clusterKey": "anduril",
-      "matchedTo": null,
-      "sourceName": "Yahoo Finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMXBCMXA4VUZjcElSUXE2Sm9YZ19JSEc3THJfSFBCODFtUk9VeWxxODF5MHBOeGxFcFM4aXBiclRzT2l2OWt3ZHozUzlWcjJhdGlLT05qRVdEcTVKZUdxak95OVhzVlpDMkp6ZTcwM2M5LWhveGlaSDBNNTRPT3Z6ZnR3?oc=5",
-      "publishedAt": "2026-03-03T19:27:55.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 75,
-      "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 정보가 간결하고 명확합니다. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-03-04_11",
       "date": "2026-03-04",
       "category": "국제",
       "title": "2026년 2월 주요 데이터 유출",
@@ -315,10 +284,10 @@
         "2026년 2월의 주요 데이터 유출 사건들이 발생했습니다.",
         "securityboulevard.com에서 관련 내용을 확인할 수 있습니다."
       ],
-      "whyImportant": "데이터 유출은 개인 정보 및 기업 보안에 심각한 위협이 됩니다.",
-      "importanceRationale": "근거: 데이터 유출은 사용자 정보의 노출, 금전적 손실, 기업 이미지 손상 등 광범위한 피해를 초래할 수 있기 때문입니다.",
+      "whyImportant": "데이터 유출은 개인 정보 보호 및 기업 보안에 심각한 영향을 미칩니다.",
+      "importanceRationale": "근거: 데이터 유출은 개인 정보 도용, 금융 사기, 기업 평판 손상 등 다양한 문제를 야기할 수 있기 때문입니다.",
       "impactSignals": [],
-      "dedupeKey": "202602_dataleak",
+      "dedupeKey": "202602_databreach",
       "clusterKey": "breaches",
       "matchedTo": null,
       "sourceName": "securityboulevard.com",
@@ -329,23 +298,23 @@
       "importance": 2,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 내용이 일치하며, 정보의 출처가 명확합니다. / 근거부족",
+      "qualityReason": "기사 제목과 내용이 일치하며, 정보가 간결하게 제공됨. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-03-04_12",
+      "id": "2026-03-04_11",
       "date": "2026-03-04",
       "category": "국제",
-      "title": "히미노, 중립 정책으로의 잠재적 전환을 시사하면서 일본은행 금리가 중대한 변화에 직면",
+      "title": "히미노, 중립 정책으로의 잠재적 전환을 시사하며 일본은행 금리, 중대한 변화에 직면",
       "summary": [
         "히미노의 발언으로 일본은행의 금리 정책이 중립으로 전환될 가능성이 제기됨.",
         "이는 일본은행 금리가 중대한 변화에 직면했음을 의미함."
       ],
       "whyImportant": "일본은행의 통화 정책 변화 가능성은 금융 시장에 큰 영향을 미칠 수 있습니다.",
-      "importanceRationale": "근거: 히미노의 발언은 일본은행의 정책 변화 가능성을 시사하며, 이는 금융 시장에 중요한 신호로 해석될 수 있습니다.",
+      "importanceRationale": "근거: 히미노의 발언은 일본은행이 기존의 완화적인 통화 정책에서 벗어나 중립적인 정책으로 전환할 가능성을 시사하며, 이는 금리 인상 또는 양적 완화 축소로 이어질 수 있기 때문입니다.",
       "impactSignals": [],
-      "dedupeKey": "BOJ_Interest_Rates_Himino_Signals_Neutral_Policy",
+      "dedupeKey": "BOJ_Policy_Shift_Himino_2024",
       "clusterKey": "금융/bank",
       "matchedTo": null,
       "sourceName": "Bitcoin world",
@@ -356,7 +325,33 @@
       "importance": 2,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었습니다. / 근거부족",
+      "qualityReason": "제목과 내용이 일치하며, 핵심 정보를 요약했습니다. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-03-04_12",
+      "date": "2026-03-04",
+      "category": "정책",
+      "title": "조희대 \"국회 입법 존중…국민에게 해가 없는지 심사숙고 부탁\"",
+      "summary": [
+        "조희대는 국회의 입법을 존중하며, 국민에게 해가 없는지 심사숙고를 부탁했다."
+      ],
+      "whyImportant": "조희대의 발언은 향후 국회 입법 과정에 대한 존중과 함께 국민에게 미치는 영향에 대한 신중한 고려를 강조했다는 점에서 중요하다.",
+      "importanceRationale": "근거: 조희대 법무부 장관이 국회 입법에 대한 존중을 표하면서도 국민에게 해가 되지 않는지 심사숙고를 당부한 발언은 향후 법안 심의 과정에서 중요한 고려 사항이 될 수 있음을 시사한다.",
+      "impactSignals": [],
+      "dedupeKey": "조희대_국회_입법_존중",
+      "clusterKey": "국민에",
+      "matchedTo": null,
+      "sourceName": "매일일보",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9yVGhkOXlFVVJrY2JNTmwzMFFSZGhpR2RNZ0VpNERHeVRfcWRZelo1RU1oQk5YUkJlcFJXUUhPV2V5aHBBQVV1X2o4dzVVallETnl6V0Rnd01KZjZsU1d5RnpFZk8?oc=5",
+      "publishedAt": "2026-03-03T23:56:46.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 63,
+      "qualityLabel": "ok",
+      "qualityReason": "기사 내용이 간결하고 명확하며, 제목과 내용이 일치한다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -372,7 +367,7 @@
       "whyImportant": "이번 임시국회 무산은 향후 정책 결정에 영향을 미칠 수 있습니다.",
       "importanceRationale": "근거: 여야의 합의 불발로 주요 법안 처리가 지연될 가능성이 높으며, 이는 정책 추진의 불확실성을 증가시킬 수 있습니다.",
       "impactSignals": [],
-      "dedupeKey": "20240503-리포트-2월 임시국회 처리 무산⋯여야 입장 평행선",
+      "dedupeKey": "20240429-리포트-2월 임시국회 처리 무산⋯여야 입장 평행선",
       "clusterKey": "2월",
       "matchedTo": null,
       "sourceName": "대전MBC",
@@ -383,7 +378,7 @@
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "기사 내용이 간결하고 명확하게 전달됨. / 근거부족",
+      "qualityReason": "기사 제목과 내용이 일치하며, 간결하게 요약되어 있습니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -391,25 +386,25 @@
       "id": "2026-03-04_14",
       "date": "2026-03-04",
       "category": "정책",
-      "title": "전남도·광주시, 통합특별법 국회 통과 기념 시도민 보고대회 개최",
+      "title": "K-미술 가치 알리는 전시회 국회에서 개최",
       "summary": [
-        "전라남도와 광주시는 통합특별법의 국회 통과를 기념하여 시도민 보고대회를 개최했다."
+        "K-미술의 가치를 알리는 전시회가 국회에서 열렸습니다."
       ],
-      "whyImportant": "전라남도와 광주시의 통합특별법 통과는 지역 발전에 중요한 정책적 변화를 의미한다.",
-      "importanceRationale": "근거: 통합특별법의 국회 통과는 해당 지역에 대한 정책적 지원과 발전을 촉진할 수 있기 때문이다.",
+      "whyImportant": "국회에서 K-미술의 가치를 알리는 전시회가 개최되어 정책적 관심과 지원을 받을 가능성이 높아졌습니다.",
+      "importanceRationale": "근거: K-미술의 가치를 알리는 전시회가 국회에서 개최되었다는 사실은 해당 분야에 대한 정책적 관심이 높아질 수 있음을 시사합니다.",
       "impactSignals": [],
-      "dedupeKey": "전남도·광주시, 통합특별법 국회 통과 기념 시도민 보고대회 개최",
-      "clusterKey": "광주시",
+      "dedupeKey": "K-미술 전시회, 국회 개최",
+      "clusterKey": "knn",
       "matchedTo": null,
-      "sourceName": "매일일보",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA0SW9JWXd0eHJ5ci1fQ1BJM3hUV1lsaHItYXp1Sy1YUlVNM3hqWlhtOG44NV9DaEIxdEhUZ1lkYVZIQXpsYlhyeEp2UzlqeXYtdGp3bV9rX2N4aFJyeFJHZjBGS0s?oc=5",
-      "publishedAt": "2026-03-03T23:00:00.000Z",
+      "sourceName": "knn.co.kr",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1oWGZXYnF6WjkxRkZvZUNIakppZzRkTVFMbW9IWmtUSXJ6Y0xsQVJLd0NIYktUbW1hSmhIT2xUYVpTWDlQU2I1Y3huLVhzT1NadzVTUw?oc=5",
+      "publishedAt": "2026-03-03T22:48:00.000Z",
       "readTimeSec": 10,
       "status": "kept",
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "기사 내용이 명확하고 간결하게 전달됨 / 근거부족",
+      "qualityReason": "제목과 내용이 일치하며 간결하게 요약되었습니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -421,8 +416,8 @@
       "summary": [
         "미국 제조업 연맹은 탄력적인 핵심 광물 공급망 재건의 국가 안보 논리를 제시했습니다."
       ],
-      "whyImportant": "핵심 광물 공급망 재건은 국가 안보와 직결됩니다.",
-      "importanceRationale": "근거: 핵심 광물은 다양한 산업 분야에서 필수적이며, 안정적인 공급망은 국가 경제와 안보에 중요합니다.",
+      "whyImportant": "핵심 광물 공급망 재건의 중요성",
+      "importanceRationale": "근거: 국가 안보와 관련된 핵심 광물 공급망의 중요성을 강조합니다.",
       "impactSignals": [],
       "dedupeKey": "national_security_critical_minerals",
       "clusterKey": "critical",
@@ -435,7 +430,7 @@
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 내용이 일치하며, 핵심 정보를 포함하고 있습니다. / 근거부족",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었습니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -447,8 +442,8 @@
       "summary": [
         "데이터 센터 붐으로 인해 천연 가스가 그리드의 주요 동력원으로 계속 사용되고 있습니다."
       ],
-      "whyImportant": "데이터 센터의 에너지 수요 증가에 따른 천연 가스의 역할 변화를 보여줍니다.",
-      "importanceRationale": "근거: 데이터 센터 증가로 인한 에너지 인프라의 변화를 시사합니다.",
+      "whyImportant": "데이터 센터의 에너지 수요 증가와 천연 가스의 역할 변화를 파악하는 데 중요합니다.",
+      "importanceRationale": "근거: 데이터 센터의 급증으로 인해 에너지 인프라에서 천연 가스의 지속적인 중요성이 강조되고 있습니다.",
       "impactSignals": [],
       "dedupeKey": "natural_gas_data_center_boom",
       "clusterKey": "에너지/boom",
@@ -468,27 +463,27 @@
     {
       "id": "2026-03-04_17",
       "date": "2026-03-04",
-      "category": "에너지",
-      "title": "데이터 센터 뉴스: DTE 에너지의 데이터 센터 파이프라인, 원자력 발전소 6개 규모의 전력 필요",
+      "category": "경제",
+      "title": "KFC, 작년 매출과 영업이익 역대 최대 기록",
       "summary": [
-        "DTE 에너지의 데이터 센터 파이프라인이 원자력 발전소 6개 규모의 전력을 필요로 할 수 있다는 소식입니다.",
-        "이는 데이터 센터의 전력 소비량이 상당함을 시사합니다."
+        "KFC가 작년 매출과 영업이익에서 역대 최대치를 기록했다.",
+        "자세한 내용은 연합뉴스 한민족센터에서 확인할 수 있다."
       ],
-      "whyImportant": "데이터 센터의 전력 수요 급증은 에너지 인프라에 큰 부담을 줄 수 있습니다.",
-      "importanceRationale": "근거: 데이터 센터 건설 및 운영에는 막대한 전력이 소모되며, 이는 에너지 공급망에 대한 투자 필요성을 증가시킵니다.",
+      "whyImportant": "KFC의 매출 및 영업이익 증가는 외식 산업의 동향을 파악하는 데 중요한 지표가 된다.",
+      "importanceRationale": "근거: KFC의 매출 및 영업이익 증가는 소비자 트렌드 변화 및 외식 시장의 경쟁 환경을 반영하는 중요한 지표로 작용할 수 있다.",
       "impactSignals": [],
-      "dedupeKey": "DTE_Energy_Data_Center_Power_Needs",
-      "clusterKey": "에너지/center",
+      "dedupeKey": "KFC_record_sales_profit",
+      "clusterKey": "kfc",
       "matchedTo": null,
-      "sourceName": "Planet Detroit",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTE02dkM4aHBtUEVfQ1BVVU9iWGZ6dXVZbnRRdjhMWHhWSkdROVpwQUJsV2lvOHZRbzVEelgwaXFOVkI5a0tVTE9wUXRYMXVMWHlCMjVPazRHZGNuaTM5d0k4MmFZQzRoNjFKWjlB?oc=5",
-      "publishedAt": "2026-03-03T16:35:02.000Z",
+      "sourceName": "연합뉴스 한민족센터",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9rbXhsWFU5eWc5aVROckQtUEFweFBOS2ZSYkEzTXplVlhWS2NYYkZrWWhaVUllTksyQWJEYWRpWlI2cXc3ZkRtYzgwNXhPR1pURk1iUkdxb1YzaGs2cWp6aGVIS1Y5MWFlcjE3NGhsdGYyRGc?oc=5",
+      "publishedAt": "2026-03-04T01:15:17.000Z",
       "readTimeSec": 10,
       "status": "kept",
       "importance": 2,
-      "importanceRaw": 63,
+      "importanceRaw": 50,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 정보가 명확합니다. / 근거부족",
+      "qualityReason": "기사 제목과 내용이 일치하며, 핵심 정보를 간결하게 전달한다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -496,55 +491,28 @@
       "id": "2026-03-04_18",
       "date": "2026-03-04",
       "category": "기술",
-      "title": "AI 시대, '뜨거운 물'이 데이터센터 경쟁력 결정",
+      "title": "OpenAI, 마이크로소프트 GitHub의 대안 개발 중",
       "summary": [
-        "AI 시대에 데이터센터의 경쟁력을 결정하는 요소로 '뜨거운 물'이 부상하고 있다.",
-        "이는 데이터센터의 효율적인 냉각 시스템과 관련이 있다."
+        "OpenAI가 마이크로소프트의 GitHub에 대한 대안을 개발 중이라고 The Information이 보도했습니다.",
+        "이는 OpenAI가 자체적인 코드 저장 및 협업 플랫폼을 구축하려는 시도로 보입니다."
       ],
-      "whyImportant": "데이터센터의 냉각 기술 경쟁력 확보가 중요해지고 있다.",
-      "importanceRationale": "근거: AI 시대에 데이터센터의 효율적인 운영을 위한 냉각 시스템의 중요성이 부각되고 있기 때문이다.",
+      "whyImportant": "OpenAI의 GitHub 대안 개발은 AI 개발 생태계에 영향을 미칠 수 있습니다.",
+      "importanceRationale": "근거: OpenAI가 자체 코드 저장소를 구축하면 AI 모델 개발 및 공유 방식에 변화를 가져올 수 있으며, 이는 업계 경쟁 구도에 영향을 줄 수 있습니다.",
       "impactSignals": [],
-      "dedupeKey": "AI 시대, ‘뜨거운 물’이 데이터센터 경쟁력 결정한다",
-      "clusterKey": "클라우드/m이코노미뉴스",
+      "dedupeKey": "openai-github-alternative",
+      "clusterKey": "alternative",
       "matchedTo": null,
-      "sourceName": "M이코노미뉴스",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Db2NublhFLW52bUY5SkxJTUV6Zkw2MXNiY0tuWTVjdFcxX29VZXd4NEk3NWFhMGs3SS1HMW81Z214ZHFpRFltblBmZVpZaDVLUXgxWGpDcGpSaGpXdTg2T0cxX2VGQUk?oc=5",
-      "publishedAt": "2026-03-03T14:56:51.000Z",
+      "sourceName": "Reuters",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQd0E3SUN0UlNVSHlqVmh1UlRfNW5GaENPXzFTREN4aXpLcWl4YUtQV1ByR2VfOFFjcERtazhreDUxeTlwNG9uNTNOaWYzRHBBQS1xc25NX2ppY2tiMUdqTmwxUmVld3FMal96dnlXRHRPM3I1Q3dCWWk2R2J0YXFKQWpWR1pSa2U1M3cyQnhvRjMtdzJCaW9JYlVzOWJSU2dKLWdHeEZrUkU5VlQ0Y1VIT0pjZjZVUQ?oc=5",
+      "publishedAt": "2026-03-03T22:50:29.000Z",
       "readTimeSec": 10,
       "status": "kept",
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "기사 내용이 명확하고 간결하게 작성됨. / 근거부족",
+      "qualityReason": "기사 내용이 간결하고 명확함. / 근거부족",
       "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-03-04_19",
-      "date": "2026-03-04",
-      "category": "기술",
-      "title": "Armada, VAST Data와 협력하여 분산된 독립적 AI 인프라 구축",
-      "summary": [
-        "Armada는 VAST Data와 협력하여 분산된 독립적 AI 인프라를 구축합니다.",
-        "이는 엣지 산업 검토의 일환으로 진행됩니다."
-      ],
-      "whyImportant": "AI 인프라 구축 협력",
-      "importanceRationale": "근거: Armada와 VAST Data의 협력은 분산된 AI 인프라 구축에 중요한 역할을 합니다.",
-      "impactSignals": [],
-      "dedupeKey": "ArmadaVASTDataAIinfrastructure",
-      "clusterKey": "armada",
-      "matchedTo": null,
-      "sourceName": "Edge Industry Review",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORFZLcE5BWVI4T194MG5hakJIS2FZYi1xYTJuYXZBR3ZaMEF4dy1Pb3F1M204NDQtNnVJR2hKcnlsSUR6Nk04ZUtDVDNhaXNoUmt1UkszdWxxSWVBRUFjTzI5M1JPRmhyYnNSQjdIajI0bjU3UUtRTGh5MS1DWGlhbi04N0hfVXZVc0xzeUVNZkczQmVpcVFDWVhMNWVCZWdJZlA0ejV0cGdtQnVfcURkVA?oc=5",
-      "publishedAt": "2026-03-02T15:36:11.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 63,
-      "qualityLabel": "ok",
-      "qualityReason": "기사 내용이 명확하고 간결함 / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
+      "isBreaking": true
     }
   ]
 }
