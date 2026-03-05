@@ -3,23 +3,56 @@
   "selectionCriteria": "① 내일도 영향이 남는 이슈 ② 과도한 감정 소모 제외 ③ 어제와 중복되는 뉴스 제외",
   "editorNote": "이 뉴스는 클릭 수가 아니라 오늘 이후에도 남는 정보만 기준으로 편집했습니다.",
   "question": "정보를 덜 보는 것이 오히려 더 똑똑한 소비일까?",
-  "lastUpdatedAt": "2026-03-05T18:40:08.547+09:00",
+  "lastUpdatedAt": "2026-03-05T19:36:27.147+09:00",
   "items": [
     {
       "id": "2026-03-05_1",
+      "date": "2026-03-05",
+      "category": "에너지",
+      "title": "트럼프, 높은 공공요금에 대한 유권자 반발 속에서 데이터 센터 공약 발표",
+      "summary": [
+        "트럼프는 높은 공공요금에 대한 유권자들의 반발이 거세지는 가운데 데이터 센터 건설을 약속했다.",
+        "이는 유권자들의 불만을 잠재우고 표심을 얻기 위한 전략으로 풀이된다.",
+        "워싱턴 포스트에 따르면, 이번 공약은 트럼프의 경제 정책의 중요한 부분을 차지할 것으로 보인다."
+      ],
+      "whyImportant": "트럼프의 데이터 센터 건설 공약은 유권자들의 표심에 영향을 미칠 수 있는 중요한 정책 발표이다.",
+      "importanceRationale": "근거: 높은 공공요금에 대한 유권자들의 불만이 큰 상황에서 데이터 센터 건설을 통한 경제 활성화 약속은 표심을 움직일 수 있다. 또한, 워싱턴 포스트와 같은 주요 언론에서 보도될 정도로 주목받는 사안이다.",
+      "impactSignals": [
+        {
+          "label": "capex",
+          "evidence": "데이터 센터 건설은 상당한 자본 지출을 필요로 한다."
+        }
+      ],
+      "dedupeKey": "trump-data-center-pledge-voter-backlash",
+      "clusterKey": "에너지/amid",
+      "matchedTo": null,
+      "sourceName": "The Washington Post",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaUxRS1NtVE1YRmpjd0hsT1FuaDl3WTNkdFhlUXNBMUNRNENmTXhZbExFV0pmeGVDUE00NFNUTGx5NExMeC0zbHh2SmhOb0NQNDFMc21YLXVlcVkxQkRxeEFGV0dqS19XY3ZkdTBYYnRMc2h6dG1md0dKMnBWblNET0hFdkExWmdhXy1B?oc=5",
+      "publishedAt": "2026-03-05T07:52:49.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 4,
+      "importanceRaw": 75,
+      "qualityLabel": "ok",
+      "qualityReason": "기사의 내용이 명확하고 간결하며, 정보의 출처가 분명하다.",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-03-05_2",
       "date": "2026-03-05",
       "category": "국제",
       "title": "인권위, 정신병원 환자 강제 기저귀 착용 인권침해로 판단… 시정 권고",
       "summary": [
         "국가인권위원회는 정신병원 환자에게 강제적으로 기저귀를 착용시키는 행위가 인권침해에 해당한다고 판단했다.",
-        "인권위는 해당 병원에 대해 시정을 권고했다."
+        "인권위는 해당 병원에 시정을 권고했다."
       ],
       "whyImportant": "정신병원 내 환자 인권 보호의 중요성을 강조하는 결정입니다.",
-      "importanceRationale": "근거: 정신병원 내 환자들의 기본적인 인권 문제에 대한 사회적 관심과 개선 필요성을 제기하며, 유사 사례 방지를 위한 제도 개선의 중요성을 부각합니다.",
+      "importanceRationale": "근거: 정신병원 환자의 기본적인 인권 보호에 대한 사회적 관심과 관련된 사안이며, 유사 사례 방지를 위한 중요한 선례가 될 수 있습니다.",
       "impactSignals": [
         {
           "label": "security",
-          "evidence": "정신병원 환자의 인권 침해 문제 발생"
+          "evidence": "정신병원 내 환자 인권 침해 문제 발생"
         }
       ],
       "dedupeKey": "인권위, 정신병원 환자 강제 기저귀 착용 인권침해",
@@ -33,12 +66,12 @@
       "importance": 4,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 내용이 일치하며, 핵심 내용을 잘 요약했습니다.",
+      "qualityReason": "제목과 본문이 일치하며, 내용이 간결하고 명확합니다.",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-03-05_2",
+      "id": "2026-03-05_3",
       "date": "2026-03-05",
       "category": "경제",
       "title": "브로드컴, AI 매출 두 배 증가…맞춤형 칩 수요가 실적 견인",
@@ -51,70 +84,70 @@
       "impactSignals": [
         {
           "label": "market-demand",
-          "evidence": "맞춤형 칩 수요 증가는 AI 시장의 성장과 함께 특정 분야에 대한 수요가 증가하고 있음을 나타낸다."
+          "evidence": "맞춤형 칩 수요 증가는 AI 시장의 성장과 함께 특정 분야에 대한 수요 증가를 나타낸다."
         }
       ],
       "dedupeKey": "broadcom_ai_sales_double",
       "clusterKey": "ai매출",
       "matchedTo": null,
       "sourceName": "한국경제",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1wMmc2UW1oWGt3N1E0akhjejQ1T1dYR1N3S1JxekN3TkpBMHVaajRUS0pVNFMzczhpTGZtejdLTmFlUjlrMWU3M1dPc1FZMXR6S1JhdlA3VE5GUQ?oc=5",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1wMmc2UW1oWGt3N1E0akhjejQ1T1dYR1N3S1JxekN3TkpBMHVaajRUS0pVNFMzczhpTGZtejdLTmFlUjlrMWU3M1dPc1FZMXR6S1JhdlA3VE5GUdIBVEFVX3lxTE5iRmdUU3FLNDBCWjBjM1U5YnVOMGJQd1pUS0ZKalRVY2htYUxIbDdETWpEamIyNUt6Ujc1OWFwcTYxclRleTNqRmE0VGFQYWM0UmY3aQ?oc=5",
       "publishedAt": "2026-03-05T09:06:20.000Z",
       "readTimeSec": 10,
       "status": "kept",
       "importance": 4,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 간결하게 핵심 내용을 전달한다.",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-03-05_3",
-      "date": "2026-03-05",
-      "category": "국제",
-      "title": "AI 패권 경쟁 심화: 규제, 반도체, 데이터센터가 글로벌 산업 지형을 재편",
-      "summary": [
-        "AI 패권 경쟁이 심화되고 있다.",
-        "규제, 반도체, 데이터센터가 글로벌 산업 판도를 재편하고 있다."
-      ],
-      "whyImportant": "AI 경쟁 심화와 관련된 규제, 반도체, 데이터센터의 중요성을 강조합니다.",
-      "importanceRationale": "근거: AI 패권 경쟁이 심화됨에 따라 규제, 반도체, 데이터센터가 산업에 미치는 영향이 커지고 있기 때문입니다.",
-      "impactSignals": [
-        {
-          "label": "policy",
-          "evidence": "AI 패권 경쟁 심화에 따른 규제 변화"
-        }
-      ],
-      "dedupeKey": "AI패권경쟁심화",
-      "clusterKey": "반도체/격화",
-      "matchedTo": null,
-      "sourceName": "브랜드경제신문",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE8xbHpMeDBrdXBOaHBqVW5hOXc3S1JsREdYcVBEVWM0N0taZURDaUhjNjhOb1lUQ1JfVnhKUEkwTGJ0bmU0Qm1GUmNxMWg?oc=5",
-      "publishedAt": "2026-03-05T03:37:21.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 3.5,
-      "importanceRaw": 63,
-      "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 간결하게 요약되었습니다.",
+      "qualityReason": "제목과 본문이 일치하며, 간결하게 요약되어 있음.",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-03-05_4",
       "date": "2026-03-05",
-      "category": "정책",
-      "title": "매사추세츠, 첫 하이퍼스케일 AI 데이터 센터 준비 중... 공공요금 상승 우려 고조",
+      "category": "국제",
+      "title": "AI 패권 경쟁 심화: 규제, 반도체, 데이터센터가 글로벌 산업 지형을 재편",
       "summary": [
-        "매사추세츠주가 첫 번째 하이퍼스케일 인공지능 데이터 센터를 준비하면서 공공요금 상승에 대한 우려가 커지고 있다.",
-        "주거용 전기 요금 사용자들이 비용을 부담하게 될지에 대한 의문이 제기되고 있다.",
-        "페이스북 관련 내용이 언급되었다."
+        "AI 패권 경쟁이 심화되고 있다.",
+        "규제, 반도체, 데이터센터가 글로벌 산업 판도를 새롭게 쓰고 있다."
       ],
-      "whyImportant": "AI 데이터 센터 건설로 인한 공공요금 인상 가능성 및 주거용 전기 요금에 미치는 영향에 대한 우려를 제기한다.",
-      "importanceRationale": "근거: 하이퍼스케일 AI 데이터 센터 건설은 막대한 전력 소비를 유발하여 공공요금 인상으로 이어질 수 있으며, 이는 주거용 전기 요금 사용자에게 직접적인 부담으로 작용할 수 있기 때문이다.",
+      "whyImportant": "AI 경쟁 심화에 따른 산업 재편 가능성.",
+      "importanceRationale": "근거: AI 패권 경쟁의 심화가 규제, 반도체, 데이터센터를 통해 글로벌 산업 판도를 재편하고 있다는 점을 강조하고 있다.",
       "impactSignals": [],
-      "dedupeKey": "massachusetts_ai_datacenter_utility_costs",
+      "dedupeKey": "AI 패권 경쟁 격화…규제·반도체·데이터센터가 글로벌 산업 판도 다시 쓴다",
+      "clusterKey": "반도체/격화",
+      "matchedTo": null,
+      "sourceName": "유스연합",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1wY2pBSlota2hwLVZHZVdXQXJ5eDZPalROdFpwZ1p0NzBZd2pmNDBNWnhsdGdndHpreEthNG9pX2ljZ1UydU41MnpRZFY0T3FnT0E?oc=5",
+      "publishedAt": "2026-03-05T03:37:21.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 63,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되어 있음. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-03-05_5",
+      "date": "2026-03-05",
+      "category": "정책",
+      "title": "매사추세츠, 첫 하이퍼스케일 AI 데이터 센터 준비 중, 공공요금 상승 우려 증가",
+      "summary": [
+        "매사추세츠주가 첫 하이퍼스케일 인공지능 데이터 센터를 준비하면서 공공요금 상승에 대한 우려가 커지고 있다.",
+        "주거용 전기 요금 사용자들이 비용을 부담하게 될지에 대한 의문이 제기되고 있다.",
+        "데이터 센터 건설로 인한 정책 및 자본 지출 변화가 예상된다."
+      ],
+      "whyImportant": "매사추세츠 주의 첫 하이퍼스케일 AI 데이터 센터 건설은 지역 경제 및 에너지 정책에 중요한 영향을 미칠 수 있다.",
+      "importanceRationale": "근거: 데이터 센터 건설은 막대한 자본 지출을 유발하며, 이는 공공요금 인상으로 이어져 주거용 전기 요금 사용자에게 부담을 줄 수 있다. 또한, 새로운 데이터 센터 건설은 관련 정책 변화를 야기할 수 있다.",
+      "impactSignals": [
+        {
+          "label": "capex",
+          "evidence": "하이퍼스케일 데이터 센터 건설에 따른 자본 지출 증가"
+        }
+      ],
+      "dedupeKey": "massachusetts_hyperscale_ai_data_center_utility_costs",
       "clusterKey": "에너지/artificial",
       "matchedTo": null,
       "sourceName": "facebook.com",
@@ -122,15 +155,15 @@
       "publishedAt": "2026-03-05T03:36:54.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 2,
+      "importance": 3.5,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 본문이 일치하며, 요약이 간결하고 명확함. / 근거부족",
+      "qualityReason": "기사 제목과 내용이 일치하며, 핵심 내용을 잘 요약했습니다.",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-03-05_5",
+      "id": "2026-03-05_6",
       "date": "2026-03-05",
       "category": "경제",
       "title": "정부, '100조 원 규모 시장 안정' 카드 신속 추진, 환율·유가 동반 상승 속 유동성 조절 딜레마",
@@ -157,55 +190,29 @@
       "isBreaking": false
     },
     {
-      "id": "2026-03-05_6",
-      "date": "2026-03-05",
-      "category": "경제",
-      "title": "리얼 브로커리지, 2025년 매출 20억 달러 달성",
-      "summary": [
-        "리얼 브로커리지의 매출이 2025년에 20억 달러에 도달했습니다."
-      ],
-      "whyImportant": "부동산 시장의 성장과 관련된 중요한 지표입니다.",
-      "importanceRationale": "근거: 리얼 브로커리지의 매출 증가는 부동산 시장의 활황을 반영하며, 관련 정책 및 기업 실적에 영향을 미칠 수 있습니다.",
-      "impactSignals": [],
-      "dedupeKey": "real_brokerage_2025_revenue",
-      "clusterKey": "billion",
-      "matchedTo": null,
-      "sourceName": "HousingWire",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA5QVN0U2tVWkRVbTNfQjZxWElTcUdhUTFWTk9OOFZCOWZUZkxZZzhOa3NGQkotdUl4d3czLXh2ZGFUcXc4a3VCRzZNYUM0ODNzOUllOHZZNHUtX1dIUWNPQUhRWWF0R2RYS2c?oc=5",
-      "publishedAt": "2026-03-05T05:41:39.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 63,
-      "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 정보가 명확합니다. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
       "id": "2026-03-05_7",
       "date": "2026-03-05",
       "category": "경제",
-      "title": "Wixcom WIX 분기별 손실, 낙관적인 마진 확대 내러티브 시험",
+      "title": "엔비디아, 중국 판매 제한으로 TSMC 칩 생산 능력 전환",
       "summary": [
-        "Wixcom의 분기별 손실이 발생했습니다.",
-        "이는 낙관적인 마진 확대 내러티브를 시험하는 계기가 됩니다."
+        "엔비디아가 중국 수출 제한으로 인해 TSMC 칩 생산 능력을 다른 곳으로 전환하고 있습니다.",
+        "이는 중국 시장에 대한 수출 규제가 엔비디아의 생산 전략에 영향을 미치고 있음을 보여줍니다."
       ],
-      "whyImportant": "Wixcom의 재무 건전성과 미래 전망에 대한 투자자들의 신뢰에 영향을 미칠 수 있습니다.",
-      "importanceRationale": "근거: 분기별 손실은 기업의 수익성에 직접적인 영향을 미치며, 이는 투자 결정에 중요한 요소입니다. 특히 마진 확대에 대한 기대가 있는 상황에서 손실 발생은 투자 심리에 부정적인 영향을 줄 수 있습니다.",
+      "whyImportant": "중국 시장에 대한 수출 규제가 엔비디아의 생산 전략에 미치는 영향을 보여주는 사례입니다.",
+      "importanceRationale": "근거: 엔비디아가 중국 수출 제한으로 인해 TSMC 칩 생산 능력을 전환하고 있다는 사실은, 미국의 대중국 반도체 수출 규제가 엔비디아와 같은 기업의 생산 및 시장 전략에 직접적인 영향을 미치고 있음을 시사합니다.",
       "impactSignals": [],
-      "dedupeKey": "Wixcom_WIX_Quarterly_Loss_Tests_Bullish_Margin_Expansion_Narrative",
-      "clusterKey": "bullish",
+      "dedupeKey": "nvidia_tsmc_china_export_curbs",
+      "clusterKey": "반도체/capacity",
       "matchedTo": null,
-      "sourceName": "simplywall.st",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNT3J5RlVtamg5YUpjOGdoTGc1d0xwbFhxeVpEZjFrT2RuV21aTERIZHZJS21HOXVxbWZyRGctMTU0enRCWENMQVdpMHlzbmxLdHc5VnBCNmhiZVRRMWtULS11NVp4ZS1JUHNrNVo4amFlQmU3OUxhcVVKLVlFTDVGRjJXeWxMX2xrUV9jV3V3TVkyUFI2aHRxa1AtaW9WdXgzQ1N6bGJvVld4Y2JuMzgwUnpGSDA4eTVsYk5kYnFkbFNwQdIBxwFBVV95cUxPNk42NWp3ZktBY0lraVV3MnhGc3pDS0RnRTJJSGNKSG1WaXFUN3VCWkliSFozdkZac1VTenQ2ejBrcjd1Nnk4cEZTWW1iLUI1WjVHWkptMGlNU3JHXzZicnlkRjZ3TzdsNUF1aEZIRmN2UkVZa0ZTR3VsckcxcVdMWl9QbFdibktMcWRfWFFPOFo1OUJHLUlFazAyZURpd1hSNENnZ3JUQ3VVNWZNenpjQU45bjF1M2xaV2pnZmFEOU41Y0lrWTBB?oc=5",
-      "publishedAt": "2026-03-05T05:41:09.000Z",
+      "sourceName": "Meyka",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVWlfaGE2V2JEb0FyNWJNaTg3Sy13c1ByZFdOYmMwVTZEaXRWR3UxUG90bUFuSFBZM1V4MHBBdURNOFJIU3p5S1hTWkVYc1Azck85S0F2Tld3M1J0a0l4U0N0cHBJSzM4UXltQVZHcTVhbHlmN3gxWDJSQmp1X2NjeE9oMVRobUhpc0JLMkc0dzJGUXBnRXN6R2YxUlk?oc=5",
+      "publishedAt": "2026-03-05T09:45:00.000Z",
       "readTimeSec": 10,
       "status": "kept",
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 간결하게 핵심 내용을 전달합니다. / 근거부족",
+      "qualityReason": "기사 제목과 내용이 일치하며, 핵심 내용을 잘 요약했습니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -213,13 +220,12 @@
       "id": "2026-03-05_8",
       "date": "2026-03-05",
       "category": "국제",
-      "title": "국제 유가 안정세: 미국-이란 협상 추이 주목",
+      "title": "국제 유가 안정세, 미국-이란 협상 추이 주목",
       "summary": [
-        "국제 유가가 안정세를 보이고 있습니다.",
-        "미국과 이란의 협상 추이가 유가에 영향을 미칠 것으로 예상됩니다."
+        "국제 유가가 안정세를 보이는 가운데, 시장은 미국과 이란의 협상 방향을 주시하고 있습니다."
       ],
-      "whyImportant": "미국과 이란의 협상 결과는 국제 유가에 직접적인 영향을 미치므로 중요합니다.",
-      "importanceRationale": "근거: 미국과 이란의 협상 향방이 국제 유가에 미치는 영향에 대한 시장의 관심이 높음.",
+      "whyImportant": "미국과 이란의 협상 결과는 국제 유가에 큰 영향을 미칠 수 있습니다.",
+      "importanceRationale": "근거: 미국과 이란의 협상 결과에 따라 원유 공급량 변화가 예상되며, 이는 국제 유가 변동으로 이어질 수 있기 때문입니다.",
       "impactSignals": [],
       "dedupeKey": "international_oil_prices_us_iran_negotiations",
       "clusterKey": "국제유가",
@@ -232,48 +238,21 @@
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되어 있습니다. / 근거부족",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었습니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-03-05_9",
       "date": "2026-03-05",
-      "category": "정책",
-      "title": "디지털 주권 강화로 클라우드 및 AI 인프라에 대한 정부 통제 격차 드러나",
-      "summary": [
-        "Info-Tech Research Group에 따르면 디지털 주권 강화로 인해 클라우드 및 AI 인프라에 대한 정부 통제에 격차가 드러났습니다.",
-        "이는 정부가 데이터와 기술에 대한 통제력을 강화하려는 움직임과 관련이 있습니다."
-      ],
-      "whyImportant": "디지털 주권 강화는 데이터 및 기술 주권 확보에 중요한 영향을 미칩니다.",
-      "importanceRationale": "근거: 디지털 주권 강화는 정부의 클라우드 및 AI 인프라 통제에 직접적인 영향을 미치며, 이는 국가 안보 및 경제적 경쟁력과 관련된 중요한 문제입니다.",
-      "impactSignals": [],
-      "dedupeKey": "digital-sovereignty-cloud-ai-control-gaps",
-      "clusterKey": "클라우드/cloud",
-      "matchedTo": null,
-      "sourceName": "The AI Journal",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZjFOQzF5RVp3SW1URVdPQWh0ZGlDdllZZTFneDlYOWpGd3htQWF3dXk2OWUxel9mOFR0Y3UyaWlIbnFnaWk0SW9YV3NEOVduRU9fRzVaNENvNnBYbksyelpvTjQzNzQxT2JQclI4RFBWdnQ1eW1Db3I0QldQYUJXcC1hYlBrSXN6YU42cHE5WTk4bFlqaEJGNEZtXzNQRDZpMTAwd09FTG9LcEVaeVRfdEFIZV9MejRhS1hNX1p6OGVFNW9QLUdDajluVDZUWnZ1MjROaWxoM0o?oc=5",
-      "publishedAt": "2026-03-04T20:34:26.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 75,
-      "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 정보가 명확합니다. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-03-05_10",
-      "date": "2026-03-05",
       "category": "기술",
-      "title": "글로벌 연합, 초기 접근 및 대규모 온라인 사칭의 주요 동인인 Tycoon 2FA 파괴",
+      "title": "글로벌 연합, 초기 접근 및 대규모 온라인 사칭의 주요 동인인 Tycoon 2FA 차단",
       "summary": [
-        "글로벌 연합이 초기 접근 및 대규모 온라인 사칭의 주요 동인인 Tycoon 2FA를 파괴했습니다.",
-        "이번 조치는 온라인 보안을 강화하는 데 중요한 역할을 할 것으로 기대됩니다."
+        "글로벌 연합이 초기 접근 및 대규모 온라인 사칭의 주요 동인인 Tycoon 2FA를 차단했습니다.",
+        "이번 차단은 온라인 보안을 강화하는 데 중요한 역할을 할 것으로 기대됩니다."
       ],
-      "whyImportant": "Tycoon 2FA 파괴는 온라인 사칭 및 초기 접근을 방지하는 데 중요한 진전입니다.",
-      "importanceRationale": "근거: Tycoon 2FA는 대규모 온라인 사칭의 주요 원인이었으며, 이를 파괴함으로써 온라인 보안 환경을 개선할 수 있습니다.",
+      "whyImportant": "Tycoon 2FA 차단은 온라인 사칭 및 초기 접근을 방지하여 보안을 강화합니다.",
+      "importanceRationale": "근거: Tycoon 2FA는 초기 접근 및 대규모 온라인 사칭의 주요 동인이었으며, 이를 차단함으로써 상당한 보안 개선 효과를 기대할 수 있습니다.",
       "impactSignals": [],
       "dedupeKey": "tycoon2fa_disrupted",
       "clusterKey": "2fa",
@@ -286,92 +265,94 @@
       "importance": 2,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "The article provides a clear and concise summary of an event. / 근거부족",
+      "qualityReason": "기사 제목과 내용이 일치하며, 정보가 명확합니다. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-03-05_10",
+      "date": "2026-03-05",
+      "category": "경제",
+      "title": "브로드컴, 맞춤형 AI 수요 폭발로 1분기 '깜짝 실적' 발표…시간 외 주가 상승",
+      "summary": [
+        "브로드컴이 맞춤형 AI 수요 폭발에 힘입어 1분기 '깜짝 실적'을 발표했다.",
+        "실적 발표 후 시간 외 주가가 상승했다."
+      ],
+      "whyImportant": "브로드컴의 실적은 AI 반도체 시장의 성장세를 보여주는 지표가 될 수 있다.",
+      "importanceRationale": "근거: 브로드컴의 실적은 맞춤형 AI 반도체 수요 증가를 반영하며, 이는 AI 시장의 성장과 관련 기업들의 실적에 영향을 미칠 수 있기 때문이다.",
+      "impactSignals": [],
+      "dedupeKey": "broadcom_ai_q1_earnings",
+      "clusterKey": "깜짝",
+      "matchedTo": null,
+      "sourceName": "마켓인",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBxWWlGelM1Z1RJNnFTc2xtSlpIQ3d3Ri1WVl9LNk1MaTlUYXpVeVVTd3E4UXlxS0JBbEtfTERzb3FER0RmUUtWTEU5ekg0V0Nub1BxODd2dnlTOGptZDU1RW1wdEVseXBzd1BKc0NGREVZSXM?oc=5",
+      "publishedAt": "2026-03-04T21:39:00.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 75,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 본문이 일치하며, 간결하게 요약되어 있음. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-03-05_11",
       "date": "2026-03-05",
-      "category": "경제",
-      "title": "Target, 또 다른 부진한 분기 후 매출 부진 종료 궤도에 올랐다고 밝혀",
+      "category": "국제",
+      "title": "엔비디아, 중국행 H200 생산 중단 및 TSMC 생산 능력 베라 루빈으로 전환 - FT 보고서",
       "summary": [
-        "Target은 또 다른 부진한 분기 이후 매출 부진을 끝낼 궤도에 올랐다고 밝혔습니다.",
-        "CNBC 보도에 따르면 Target의 매출 부진이 지속되고 있습니다."
+        "엔비디아가 중국으로 향하는 H200 생산을 중단했다.",
+        "TSMC 생산 능력을 베라 루빈으로 전환했다.",
+        "FT가 이 내용을 보도했다."
       ],
-      "whyImportant": "Target의 실적 부진 지속 여부를 파악하는 것이 중요합니다.",
-      "importanceRationale": "근거: Target의 실적은 소매업계 전반의 추세를 반영하며, 투자자와 시장 참여자에게 중요한 지표가 됩니다.",
+      "whyImportant": "엔비디아의 전략 변화는 반도체 시장에 중요한 영향을 미칠 수 있습니다.",
+      "importanceRationale": "근거: 엔비디아가 중국 시장을 겨냥한 생산을 중단하고 다른 프로젝트로 생산 능력을 전환한 것은 엔비디아의 전략적 우선순위 변화를 의미하며, 이는 반도체 시장의 경쟁 구도와 기술 개발 방향에 영향을 줄 수 있습니다.",
       "impactSignals": [],
-      "dedupeKey": "target_sales_slump_q3_2024",
-      "clusterKey": "after",
+      "dedupeKey": "nvidia_halts_h200_china_20240612",
+      "clusterKey": "반도체/bound",
       "matchedTo": null,
-      "sourceName": "CNBC",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMickFVX3lxTE5scENjUzhJZ1A1M0VzeWpzajB4X1VDQXpwUFl0c0FzcU80ZGY3ci1DR1ZkS0plU211dzFWSXBfV1U0RUFUaVNjajRzV3ZIbDZrYUw1am4zTzczeVNPSXEzb1RwWDZJU2VydjloZy1OQ2xaUdIBd0FVX3lxTE1pZTRVZUhGMmh4RXFqYW5pZnN1UjJvMTA2ZktJTnpaci1JYXB4aENnMk81djd2RVRIT2RyU3FQLU9iang2OW1mV0twckl3MmwtajlpMUNzQ3B1TWtMTWNIYkYwRkpZSFVRZEFDMjAwX2NYMXlNTnpB?oc=5",
-      "publishedAt": "2026-03-03T05:01:01.000Z",
+      "sourceName": "Reuters",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQR0JMMXNVcXdkMWE5MlJIWWtMMTdhMlpQTzZVWGljb2RMV1FzNU1kdUIzOUtqYmswR3h0VjlaZDV0d1VmcUZDa1NEUHZESVcyaDNFbUNTeUZzZWxIckhGV2d5ZGduTmNXejBhelotVGV3blZROC1hdDU3bDNKdl9RYl85MUlJLU1aMXZtNVgzdTVrVHh0MGpwc01aQ1dVcFdGNFNFTVgwNmxfUVpBN3NNNm1yUzNrZEN5eHZDQTNGNFI?oc=5",
+      "publishedAt": "2026-03-05T05:12:00.000Z",
       "readTimeSec": 10,
       "status": "kept",
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "The article provides a concise summary of Target's current sales performance. / 근거부족",
+      "qualityReason": "The article is a concise report from Reuters summarizing an FT article. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-03-05_12",
       "date": "2026-03-05",
-      "category": "국제",
-      "title": "'대미 관세협상 후속 입법 논의' 대미투자특별법특위 재가동",
+      "category": "정책",
+      "title": "디지털 주권 강화로 클라우드 및 AI 인프라에 대한 정부 통제 격차 드러나",
       "summary": [
-        "대미 관세협상 후속 입법 논의를 위해 대미투자특별법특위가 재가동됩니다.",
-        "연합뉴스 한민족센터에서 관련 소식을 보도했습니다."
+        "Info-Tech Research Group에 따르면 디지털 주권 강화로 인해 클라우드 및 AI 인프라에 대한 정부 통제에 격차가 드러났습니다.",
+        "이는 정부가 클라우드 및 AI 기술에 대한 통제력을 강화해야 할 필요성을 시사합니다."
       ],
-      "whyImportant": "미국과의 관세 협상 후속 조치에 대한 입법 논의가 재개되어 정책 변화에 영향을 줄 수 있습니다.",
-      "importanceRationale": "근거: 대미 관세 협상 후속 입법 논의를 위한 특별위원회의 재가동은 무역 정책 및 투자 관련 법규에 직접적인 영향을 미칠 수 있기 때문입니다.",
+      "whyImportant": "디지털 주권 강화의 필요성을 강조하고 정부의 클라우드 및 AI 인프라 통제 격차 문제를 제기합니다.",
+      "importanceRationale": "근거: 디지털 주권 강화 추세 속에서 정부의 클라우드 및 AI 인프라 통제 미흡이 드러났다는 Info-Tech Research Group의 발표를 기반으로 합니다.",
       "impactSignals": [],
-      "dedupeKey": "daemi-gwanseseopseong-husu-ibbeop-nonui-daemituja-teukbyeolbeopteukwi-jaegadong",
-      "clusterKey": "관세협상",
+      "dedupeKey": "digital_sovereignty_cloud_ai_control_gaps",
+      "clusterKey": "클라우드/cloud",
       "matchedTo": null,
-      "sourceName": "연합뉴스 한민족센터",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5ZSHZfcjVhN1FxZnQ4U2NSU2VpSlp4dE5tcTd1N2VfWGRsLTBBTGt5VWFLRXVnWG9BbHZkdTI1cEQzNktETU5zaWFyYXZVYWRhRGw3ZFNFejQwX0k0WEw5S29Fa29wcjc3bFd5M2FKaEl6bmZO?oc=5",
-      "publishedAt": "2026-03-04T01:44:28.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 75,
-      "qualityLabel": "ok",
-      "qualityReason": "The article provides a clear and concise statement of facts. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-03-05_13",
-      "date": "2026-03-05",
-      "category": "기술",
-      "title": "셀렉트스타, LLM 취약점 찾는 MWC 26 ‘AI 레드팀 챌린지’ 성공적으로 완료",
-      "summary": [
-        "셀렉트스타가 LLM(대규모 언어 모델)의 취약점을 찾는 MWC 26 ‘AI 레드팀 챌린지’를 성공적으로 완료했습니다."
-      ],
-      "whyImportant": "LLM의 보안 취약점 점검 및 개선에 기여합니다.",
-      "importanceRationale": "근거: 셀렉트스타의 AI 레드팀 챌린지는 LLM의 잠재적 보안 문제를 식별하고 해결하는 데 중요한 역할을 합니다.",
-      "impactSignals": [],
-      "dedupeKey": "셀렉트스타, LLM 취약점 찾는 MWC 26 ‘AI 레드팀 챌린지’ 성료",
-      "clusterKey": "ai/llm",
-      "matchedTo": null,
-      "sourceName": "매일경제",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5xT0R1YWVSOG44d1NIckF0V2REVEVVODNEXzd1Sy1ycWdOMEhxZjBQMHl6dHBBdFlobTJVWExhSlIycWpqSXBfWDVnYjRBQQ?oc=5",
-      "publishedAt": "2026-03-04T23:43:59.000Z",
+      "sourceName": "The AI Journal",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZjFOQzF5RVp3SW1URVdPQWh0ZGlDdllZZTFneDlYOWpGd3htQWF3dXk2OWUxel9mOFR0Y3UyaWlIbnFnaWk0SW9YV3NEOVduRU9fRzVaNENvNnBYbksyelpvTjQzNzQxT2JQclI4RFBWdnQ1eW1Db3I0QldQYUJXcC1hYlBrSXN6YU42cHE5WTk4bFlqaEJGNEZtXzNQRDZpMTAwd09FTG9LcEVaeVRfdEFIZV9MejRhS1hNX1p6OGVFNW9QLUdDajluVDZUWnZ1MjROaWxoM0o?oc=5",
+      "publishedAt": "2026-03-04T20:34:26.000Z",
       "readTimeSec": 10,
       "status": "kept",
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 정보가 간결하게 제공됨. / 근거부족",
+      "qualityReason": "제목과 본문이 일치하며, 정보가 명확하게 전달됨. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-03-05_14",
+      "id": "2026-03-05_13",
       "date": "2026-03-05",
       "category": "기술",
       "title": "트럼프, 중간 선거 앞두고 AI 데이터 센터 문제 직면 - 쉬운 해결책 없어",
@@ -380,7 +361,7 @@
         "이 문제에 대한 쉬운 해결책은 없는 상황이다."
       ],
       "whyImportant": "AI 데이터 센터 문제는 정치적, 경제적 영향을 미칠 수 있다.",
-      "importanceRationale": "근거: 기사 제목에서 중간 선거를 앞두고 AI 데이터 센터 문제가 발생했음을 명시하고 있으며, 이는 정치적 중요성을 시사한다. 또한, 데이터 센터는 막대한 자본 투자를 필요로 하므로 경제적 영향 또한 고려해야 한다.",
+      "importanceRationale": "근거: 기사 제목에서 트럼프 전 대통령과 중간 선거를 직접 언급하며, AI 데이터 센터 문제가 해결하기 어렵다고 명시하고 있다.",
       "impactSignals": [],
       "dedupeKey": "trump-ai-data-center-midterms",
       "clusterKey": "ahead",
@@ -393,23 +374,54 @@
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 짧은 텍스트 기반으로 정보가 제한적이지만, 주장을 뒷받침하는 정보가 부족하지 않음. / 근거부족",
+      "qualityReason": "제목과 짧은 텍스트 기반으로 정보가 명확함 / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-03-05_14",
+      "date": "2026-03-05",
+      "category": "정책",
+      "title": "AI 기술 악용 의사 사칭 허위, 과장 광고 규제 입법 찬성",
+      "summary": [
+        "한국의약통신에 따르면 AI 기술을 악용한 의사 사칭 허위, 과장 광고 규제 입법이 찬성되고 있다."
+      ],
+      "whyImportant": "AI 기술 악용으로 인한 의료 광고의 문제점을 해결하고 소비자 보호를 강화하는 데 중요한 역할을 한다.",
+      "importanceRationale": "근거: AI 기술을 악용한 허위, 과장 광고로부터 소비자를 보호하고 의료 서비스의 신뢰성을 높이는 데 기여할 수 있기 때문이다.",
+      "impactSignals": [
+        {
+          "label": "policy",
+          "evidence": "AI 기술 악용 의사 사칭 허위, 과장 광고 규제 입법"
+        }
+      ],
+      "dedupeKey": "AI기술악용의사사칭허위,과장광고규제입법찬성",
+      "clusterKey": "ai기술",
+      "matchedTo": null,
+      "sourceName": "한국의약통신",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9GQ3R1ODB1UnA3ZTJoeEkwRWhSZXZUUWN1VG1QWVpiN2xHWGtLUmxtb2hBc0NJRzRQMXBzUloyV0tFNjE0SGhEaEhsZFFvdjM5b0EzN2pKSG9oT1JxamxvRlJVM2ZIbjZIc0dF?oc=5",
+      "publishedAt": "2026-03-05T07:09:54.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 4,
+      "importanceRaw": 75,
+      "qualityLabel": "ok",
+      "qualityReason": "기사 제목과 내용이 일치하며, 핵심 내용을 잘 반영하고 있다.",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-03-05_15",
       "date": "2026-03-05",
-      "category": "기술",
+      "category": "정책",
       "title": "백악관, 아마존, 구글, 메타, 마이크로소프트 등 기술 기업으로부터 AI 데이터 센터 전력 공급 자금 지원 약속 받아내",
       "summary": [
-        "백악관은 아마존, 구글, 메타, 마이크로소프트를 포함한 기술 기업들로부터 AI 데이터 센터에 전력을 공급하기 위한 자금 지원 약속을 받았습니다.",
-        "이러한 투자는 AI 기술 개발에 필요한 데이터 센터의 전력 수요를 충족시키는 데 기여할 것입니다."
+        "백악관이 아마존, 구글, 메타, 마이크로소프트 등 기술 기업으로부터 AI 데이터 센터 전력 공급 자금 지원 약속을 받았습니다.",
+        "이는 AI 기술 개발에 필요한 전력 확보를 위한 투자입니다."
       ],
-      "whyImportant": "AI 데이터 센터 전력 공급을 위한 기술 기업들의 투자 결정은 AI 기술 발전과 데이터 센터 인프라 확장에 중요한 영향을 미칩니다.",
-      "importanceRationale": "근거: AI 데이터 센터는 막대한 전력을 소비하며, 안정적인 전력 공급은 AI 기술 개발의 핵심 요소입니다. 주요 기술 기업들의 투자는 이러한 전력 공급 문제를 해결하고 AI 기술 혁신을 가속화할 수 있습니다.",
+      "whyImportant": "AI 데이터 센터 전력 공급을 위한 투자를 확보했다는 점에서 중요합니다.",
+      "importanceRationale": "근거: AI 기술 경쟁 심화 속에서 데이터 센터의 안정적인 전력 공급은 AI 개발의 핵심 요소이기 때문입니다.",
       "impactSignals": [],
-      "dedupeKey": "whitehouse_ai_datacenter_power_pledge",
+      "dedupeKey": "whitehouse_ai_power_pledge",
       "clusterKey": "에너지/firms",
       "matchedTo": null,
       "sourceName": "R&D World",
@@ -420,7 +432,7 @@
       "importance": 2,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 내용이 일치하며, 정보가 명확합니다. / 근거부족",
+      "qualityReason": "제목과 본문이 일치하며, 내용이 간결하고 명확합니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -434,14 +446,14 @@
         "테라파워의 '나트륨' 원전은 2031년 이후 가동될 예정입니다."
       ],
       "whyImportant": "차세대 원전 기술 개발 및 상용화의 중요한 이정표입니다.",
-      "importanceRationale": "근거: 미국 최초의 상업용 차세대 원전 건설 허가로, 향후 원전 산업에 미치는 영향이 클 것으로 예상됩니다.",
+      "importanceRationale": "근거: 미국 최초의 상업용 차세대 원전 건설 허가로, 원자력 에너지 분야의 기술 혁신과 발전에 중요한 영향을 미칠 수 있습니다.",
       "impactSignals": [
         {
           "label": "capex",
           "evidence": "테라파워의 나트륨 원전 건설은 상당한 자본 지출을 수반합니다."
         }
       ],
-      "dedupeKey": "미국, 최초 상업용 차세대 원전 건설 허가…테라파워 '나트륨' 원전 2031년 이후 가동",
+      "dedupeKey": "미국, 최초 상업용 차세대 원전 건설 허가…테라파워 ‘나트륨’ 원전 2031년 이후 가동",
       "clusterKey": "에너지/2031년",
       "matchedTo": null,
       "sourceName": "동아사이언스",
@@ -452,7 +464,7 @@
       "importance": 4,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었습니다.",
+      "qualityReason": "제목과 본문이 일치하며, 간결하게 핵심 내용을 전달합니다.",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -465,8 +477,8 @@
         "더불어민주당은 중동 현안 및 대미 관세 협상 관련 긴급 간담회를 개최했다.",
         "간담회는 M이코노미뉴스에서 보도되었다."
       ],
-      "whyImportant": "이번 간담회는 중동 지역의 불안정과 미국의 관세 정책 변화에 대한 더불어민주당의 대응을 보여준다.",
-      "importanceRationale": "근거: 더불어민주당이 중동 현안 및 대미 관세 협상이라는 중요한 외교·경제적 문제에 대해 긴급 간담회를 개최했다는 사실은, 이러한 문제에 대한 당의 정책적 관심과 대응 의지를 나타낸다.",
+      "whyImportant": "더불어민주당의 중동 현안 및 대미 관세 협상에 대한 논의 방향을 파악할 수 있다.",
+      "importanceRationale": "근거: 더불어민주당이 중동 현안 및 대미 관세 협상과 같은 중요한 외교 및 경제 문제에 대해 긴급 간담회를 개최했다는 사실은, 향후 정책 결정에 영향을 미칠 수 있는 당의 입장을 엿볼 수 있게 한다.",
       "impactSignals": [],
       "dedupeKey": "더불어민주당, 중동 현안 및 대미 관세 협상 관련 긴급 간담회",
       "clusterKey": "m포토",
@@ -486,31 +498,27 @@
     {
       "id": "2026-03-05_18",
       "date": "2026-03-05",
-      "category": "정책",
-      "title": "AI 기술 악용 의사 사칭 허위, 과장 광고 규제 입법 찬성",
+      "category": "경제",
+      "title": "워크데이, 작년 영업이익 7억 2100만 달러 기록…전년 대비 173% 증가",
       "summary": [
-        "한국의약통신에 따르면 AI 기술을 악용한 의사 사칭 허위, 과장 광고 규제 입법이 찬성되고 있다."
+        "워크데이는 작년 영업이익이 7억 2100만 달러를 기록했다고 발표했습니다.",
+        "이는 전년 대비 173% 증가한 수치입니다."
       ],
-      "whyImportant": "AI 기술 악용에 대한 규제 강화 움직임",
-      "importanceRationale": "근거: AI 기술을 악용한 허위, 과장 광고에 대한 규제 입법 찬성 증가는 관련 시장에 대한 정책적 변화를 예고한다.",
-      "impactSignals": [
-        {
-          "label": "policy",
-          "evidence": "AI 기술 악용 의사 사칭 허위, 과장 광고 규제 입법"
-        }
-      ],
-      "dedupeKey": "AI기술악용규제입법찬성",
-      "clusterKey": "ai기술",
+      "whyImportant": "워크데이의 영업이익 급증은 기업 성장을 보여주는 중요한 지표입니다.",
+      "importanceRationale": "근거: 워크데이의 영업이익이 전년 대비 173% 증가한 것은 회사의 수익성이 크게 개선되었음을 나타냅니다.",
+      "impactSignals": [],
+      "dedupeKey": "워크데이, 작년 영업이익 7억2100만달러…전년比 173%↑",
+      "clusterKey": "7억2100만달러",
       "matchedTo": null,
-      "sourceName": "한국의약통신",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9GQ3R1ODB1UnA3ZTJoeEkwRWhSZXZUUWN1VG1QWVpiN2xHWGtLUmxtb2hBc0NJRzRQMXBzUloyV0tFNjE0SGhEaEhsZFFvdjM5b0EzN2pKSG9oT1JxamxvRlJVM2ZIbjZIc0dF?oc=5",
-      "publishedAt": "2026-03-05T07:09:54.000Z",
+      "sourceName": "서울경제TV",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE50OXNjLUJIRzdzZGtJZV9ZNEhOMDBzVmdQZ3BsVy1CX1VxeXVfeG9yRG9nRm1xV0FQcWdDRTRRQzBhM1VIX1dBNHVFSEpNRkNRZHZkLTZfN0NfZ1BLTllSTW9oV1Q?oc=5",
+      "publishedAt": "2026-03-05T06:13:08.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 3.5,
+      "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "기사 내용이 명확하고 간결함",
+      "qualityReason": "The article provides a clear and concise report of Workday's operating profit. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -518,46 +526,20 @@
       "id": "2026-03-05_19",
       "date": "2026-03-05",
       "category": "정책",
-      "title": "가상자산거래소 지분규제, 위헌 논란 속 입법 방향성 주목",
+      "title": "법무법인 지평, 송도영 변호사 영입...AI·개인정보·데이터·신산업 규제 대응 역량 강화",
       "summary": [
-        "가상자산거래소 지분 규제가 위헌 논란 속에 입법 방향성에 대한 관심이 집중되고 있다.",
-        "규제 관련 최종 단계에서 진통을 겪고 있다."
+        "법무법인 지평이 AI, 개인정보, 데이터, 신산업 규제 대응 역량 강화를 위해 송도영 변호사를 영입했습니다.",
+        "송 변호사는 해당 분야에서 전문성을 인정받고 있습니다."
       ],
-      "whyImportant": "가상자산 거래소 지분 규제는 시장에 큰 영향을 미칠 수 있는 정책 변경 사항이다.",
-      "importanceRationale": "근거: 가상자산 거래소의 지분 규제는 시장의 안정성과 투자자 보호에 중요한 영향을 미치므로 정책적 중요성이 높다.",
-      "impactSignals": [],
-      "dedupeKey": "가상자산거래소 지분규제 위헌 논란",
-      "clusterKey": "가상자산거래소",
-      "matchedTo": null,
-      "sourceName": "비즈니스포스트",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5rVUNaVHhKMHVkM2dUU0k4OE5xalpDdEtTS3l5OUtVVlBNaGJtRzJJQUZQMkFMX1prS1ZwSVl1VXBkNHVlQWhuTkRnLVNlQ2NZNEdJb1pRcWExLXhPYzVQY1RBeXBPeHRUbHdKZGswUzUtam8?oc=5",
-      "publishedAt": "2026-03-05T06:24:46.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 63,
-      "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 내용이 간결하고 명확하다. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-03-05_20",
-      "date": "2026-03-05",
-      "category": "정책",
-      "title": "지평, 송도영 변호사 영입...AI·개인정보·데이터·신산업 규제 대응 역량 강화",
-      "summary": [
-        "법무법인 지평이 AI, 개인정보, 데이터, 신산업 규제 대응을 위해 송도영 변호사를 영입했다."
-      ],
-      "whyImportant": "지평이 AI 및 데이터 규제 대응 역량을 강화했습니다.",
-      "importanceRationale": "근거: 송도영 변호사 영입을 통해 AI, 개인정보, 데이터, 신산업 규제에 대한 법률 자문 능력을 향상시켰기 때문입니다.",
+      "whyImportant": "지평이 AI, 개인정보, 데이터, 신산업 규제에 대한 법률 자문 역량을 강화하는 데 중요한 움직임입니다.",
+      "importanceRationale": "근거: 법무법인의 인력 보강은 특정 분야에 대한 전문성 강화 의지를 나타내며, 이는 곧 해당 분야의 법률 서비스 수요 증가에 대한 대응으로 해석될 수 있습니다.",
       "impactSignals": [
         {
           "label": "policy",
           "evidence": "AI, 개인정보, 데이터, 신산업 규제 대응 역량 강화"
         }
       ],
-      "dedupeKey": "ji-pyeong-yeong-ib-song-do-yeong-byeonho-sa",
+      "dedupeKey": "ji-pyeong-recruits-song-do-young",
       "clusterKey": "개인정보",
       "matchedTo": null,
       "sourceName": "아주경제",
@@ -568,7 +550,7 @@
       "importance": 3.5,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "기사 내용이 간결하고 명확하며, 정보의 출처가 분명합니다.",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었습니다.",
       "isBriefing": false,
       "isBreaking": false
     }
