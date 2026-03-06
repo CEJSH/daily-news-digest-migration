@@ -3,7 +3,7 @@
   "selectionCriteria": "① 내일도 영향이 남는 이슈 ② 과도한 감정 소모 제외 ③ 어제와 중복되는 뉴스 제외",
   "editorNote": "이 뉴스는 클릭 수가 아니라 오늘 이후에도 남는 정보만 기준으로 편집했습니다.",
   "question": "정보를 덜 보는 것이 오히려 더 똑똑한 소비일까?",
-  "lastUpdatedAt": "2026-03-07T05:28:36.398+09:00",
+  "lastUpdatedAt": "2026-03-07T06:27:20.265+09:00",
   "items": [
     {
       "id": "2026-03-07_1",
@@ -13,12 +13,12 @@
       "summary": [
         "엠브라에르가 316억 달러의 기록적인 수주 잔고를 달성했습니다.",
         "이는 Forecast International의 예측을 뛰어넘는 수치입니다.",
-        "2025년 수익 지침 또한 초과 달성했습니다."
+        "또한 2025년 수익 지침을 초과 달성했습니다."
       ],
       "whyImportant": "엠브라에르의 재정적 건전성과 미래 성장 전망을 보여주는 지표입니다.",
-      "importanceRationale": "근거: 기록적인 수주 잔고와 수익 지침 초과는 엠브라에르의 사업 성과가 강력하며, 미래에도 지속적인 성장이 가능함을 시사합니다.",
+      "importanceRationale": "근거: 기록적인 수주 잔고와 수익 지침 초과는 회사의 사업 성과가 강력하며, 미래에도 지속적인 성장이 기대됨을 시사합니다.",
       "impactSignals": [],
-      "dedupeKey": "embraer_record_backlog_2024",
+      "dedupeKey": "embraer_record_backlog_2025_revenue",
       "clusterKey": "achieves",
       "matchedTo": null,
       "sourceName": "Forecast International",
@@ -29,7 +29,7 @@
       "importance": 2,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "Title and article text are consistent and factual. / 근거부족",
+      "qualityReason": "The article provides a clear and concise summary of Embraer's financial achievements. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -37,13 +37,40 @@
       "id": "2026-03-07_2",
       "date": "2026-03-07",
       "category": "경제",
+      "title": "Ark, 2월 수익, 예상치 7백만 달러 초과",
+      "summary": [
+        "Ark의 2월 수익이 예상치를 7백만 달러 초과했습니다.",
+        "자세한 내용은 아직 공개되지 않았습니다."
+      ],
+      "whyImportant": "수익 증가는 회사의 성장과 시장에서의 위치를 나타냅니다.",
+      "importanceRationale": "근거: Ark의 수익이 예상치를 상회했다는 직접적인 정보는 회사의 재정적 건전성과 투자 매력도를 시사합니다.",
+      "impactSignals": [],
+      "dedupeKey": "Ark_Revenue_Beats_Forecast_Feb_2024",
+      "clusterKey": "ark",
+      "matchedTo": null,
+      "sourceName": "Law360",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNOFN5MFR1b0dWRWlydEZGZkk1ZWdhaHB3VEtsUld2QWd5WFdNVTY4YWJ3d0UyMkM2TU96RlF2Wnd0cy1DVFVRaVg4emZ4S2dmN19YOWhlT21hSVJSRzVtbzIyTFpPNnlEaGd3T0g4LVR3b00xQURLZDF3YTdsY25pNG1VS21wVlF5NnlUbdIBaEFVX3lxTFBrMWpzUFA5VVAzTkExZC1HdnRjY1JtY0dDRzRMTVpSdmxTVUM2LVUwdndRUFdHQUN4Q3phVzFXTHNHbjRHalZZUlVHZlFaYnlZVHYxb1ltVGtqNlp4b0l0SU40eDA4Z2J1?oc=5",
+      "publishedAt": "2026-03-06T19:28:00.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 63,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 본문이 일치하며, 정보가 명확합니다. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-03-07_3",
+      "date": "2026-03-07",
+      "category": "경제",
       "title": "코스트코 실적: 마진 확대 및 회원 증가가 빛나다",
       "summary": [
         "코스트코의 실적 발표에서 마진 확대와 회원 증가가 두드러졌습니다.",
-        "자세한 내용은 공개되지 않았습니다."
+        "자세한 내용은 Morningstar의 분석을 통해 확인할 수 있습니다."
       ],
-      "whyImportant": "코스트코의 재무 건전성과 성장세를 보여주는 지표입니다.",
-      "importanceRationale": "근거: 마진 확대는 수익성 개선을, 회원 증가는 고객 충성도 및 미래 수익 확보를 의미합니다.",
+      "whyImportant": "코스트코의 재무 건전성과 성장세를 파악하는 데 중요합니다.",
+      "importanceRationale": "근거: 마진 확대와 회원 증가는 기업의 수익성과 성장 잠재력을 나타내는 핵심 지표입니다.",
       "impactSignals": [],
       "dedupeKey": "costco_earnings_margin_membership",
       "clusterKey": "costco",
@@ -61,55 +88,28 @@
       "isBreaking": false
     },
     {
-      "id": "2026-03-07_3",
-      "date": "2026-03-07",
-      "category": "경제",
-      "title": "Ark, 2월 수익, 예상치 7백만 달러 초과",
-      "summary": [
-        "Ark의 2월 수익이 예상치를 7백만 달러 초과했습니다.",
-        "자세한 내용은 Law360에서 확인할 수 있습니다."
-      ],
-      "whyImportant": "수익 증가는 회사의 재정적 건전성을 나타냅니다.",
-      "importanceRationale": "근거: 2월 수익이 예상치를 초과했다는 직접적인 정보는 회사의 현재 성과가 긍정적임을 시사합니다.",
-      "impactSignals": [],
-      "dedupeKey": "Ark_Revenue_Beats_Forecast_Feb",
-      "clusterKey": "ark",
-      "matchedTo": null,
-      "sourceName": "Law360",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNOFN5MFR1b0dWRWlydEZGZkk1ZWdhaHB3VEtsUld2QWd5WFdNVTY4YWJ3d0UyMkM2TU96RlF2Wnd0cy1DVFVRaVg4emZ4S2dmN19YOWhlT21hSVJSRzVtbzIyTFpPNnlEaGd3T0g4LVR3b00xQURLZDF3YTdsY25pNG1VS21wVlF5NnlUbdIBaEFVX3lxTFBrMWpzUFA5VVAzTkExZC1HdnRjY1JtY0dDRzRMTVpSdmxTVUM2LVUwdndRUFdHQUN4Q3phVzFXTHNHbjRHalZZUlVHZlFaYnlZVHYxb1ltVGtqNlp4b0l0SU40eDA4Z2J1?oc=5",
-      "publishedAt": "2026-03-06T19:28:00.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 50,
-      "qualityLabel": "ok",
-      "qualityReason": "제목과 텍스트가 일치하며, 정보가 명확합니다. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
       "id": "2026-03-07_4",
       "date": "2026-03-07",
-      "category": "경제",
-      "title": "미국 1월 소매 판매 0.2% 감소, 시장 전망 상회",
+      "category": "정책",
+      "title": "검찰개혁단, 형사소송법 개정 정부안 상반기 마련 및 6월 이후 입법 예고",
       "summary": [
-        "미국 1월 소매 판매가 0.2% 감소했습니다.",
-        "이는 시장 전망을 상회하는 수치입니다."
+        "검찰개혁단은 형사소송법 개정 정부안을 상반기 내에 마련할 계획이라고 발표했습니다.",
+        "정부안은 6월 이후 입법 예고될 예정입니다."
       ],
-      "whyImportant": "미국 소매 판매 지표는 경제 상황을 파악하는 데 중요한 지표입니다.",
-      "importanceRationale": "근거: 소매 판매 데이터는 소비자 지출을 반영하며, 이는 경제 활동의 중요한 부분을 차지합니다.",
+      "whyImportant": "형사소송법 개정은 검찰 개혁의 중요한 부분입니다.",
+      "importanceRationale": "근거: 검찰개혁단에서 형사소송법 개정 정부안 마련 및 입법 예고를 발표했기 때문입니다.",
       "impactSignals": [
         {
-          "label": "market-demand",
-          "evidence": "소매 판매 데이터는 시장 수요를 나타냅니다."
+          "label": "policy",
+          "evidence": "형사소송법 개정 정부안 마련 및 입법 예고"
         }
       ],
-      "dedupeKey": "미국 1월 소매판매 0.2% 감소",
-      "clusterKey": "1월",
+      "dedupeKey": "20240517_검찰개혁단_형사소송법개정",
+      "clusterKey": "6월",
       "matchedTo": null,
-      "sourceName": "연합인포맥스",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMicEFVX3lxTE51MkluUTRDT2ZUWmtrNWlZd3RZUDNzSDloTElwRDh3cHE3NXlJUHZJeGRiYlhXUnRpVm5aYXMxR043ZWRjSnFZd2ZrdVlDLUlkN2FVT0Mzd1dyQjc0bzhuTzJ0T19YOXFReXRZTVVZLWw?oc=5",
-      "publishedAt": "2026-03-06T16:11:10.000Z",
+      "sourceName": "연합뉴스 한민족센터",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5TZ21YdHdnc3lPeW9tRG9QaVB4NHZPUlhWeEFPMFcwT2h3YXVBdEphaVpPY1pOWVhwWWJMRk1PUDZnd0RjY2sweDhkQzhkcjk2TU1VZDBjeGN1YXcxNVhRSTQ2eWFENWVsanNlaEo4amNVdVJR?oc=5",
+      "publishedAt": "2026-03-06T09:35:33.000Z",
       "readTimeSec": 10,
       "status": "kept",
       "importance": 3.5,
@@ -122,16 +122,80 @@
     {
       "id": "2026-03-07_5",
       "date": "2026-03-07",
+      "category": "경제",
+      "title": "Canfor 실적: 북미 목재 수요 부진이 실적에 지속적인 악영향",
+      "summary": [
+        "Canfor의 실적 발표에 따르면 북미 지역의 목재 수요 부진이 지속되고 있습니다.",
+        "이는 Canfor의 수익에 부정적인 영향을 미치고 있습니다."
+      ],
+      "whyImportant": "목재 산업의 수요 변화를 파악하는 데 중요합니다.",
+      "importanceRationale": "근거: Canfor의 실적은 북미 목재 시장의 수요를 반영하며, 이는 관련 산업 전반에 영향을 미칠 수 있습니다.",
+      "impactSignals": [],
+      "dedupeKey": "Canfor_Earnings_Weak_North_American_Lumber_Demand_Continues_to_Hurt_Results",
+      "clusterKey": "american",
+      "matchedTo": null,
+      "sourceName": "Morningstar Canada",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRHNTOWktTFY1d25meWFXby01Q3dVSVFBODhxWGRkMmhDazQ2ZWFCVks3eUt2dThLTGRMSnhnbEJobEFvT1JRRWROUXpjWVgyTm1MclNfUzBZS0pURVB0ZUdBaXNjTjlrazVfdGZueHFrUndzNmw2V0xmUVNTdEFHNHFOdGlNSDk5c3R2dUNUU0Q3RDJVeGwxZlBodUVjczItVDEtVVZ4cHNKMzRRS3kydEtEb2t3a3c?oc=5",
+      "publishedAt": "2026-03-06T21:06:23.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 63,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 본문이 일치하며, 정보가 명확합니다. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-03-07_6",
+      "date": "2026-03-07",
+      "category": "경제",
+      "title": "미국 1월 소매 판매 0.2% 감소, 시장 전망 상회",
+      "summary": [
+        "미국 1월 소매 판매가 0.2% 감소했습니다.",
+        "이는 시장 전망을 상회하는 수치입니다."
+      ],
+      "whyImportant": "미국 소매 판매 지표는 경제 상황을 파악하는 데 중요한 지표입니다.",
+      "importanceRationale": "근거: 소매 판매 데이터는 소비자 지출을 반영하며, 이는 경제 활동의 중요한 부분을 차지합니다.",
+      "impactSignals": [
+        {
+          "label": "market-demand",
+          "evidence": "소매 판매 감소는 시장 수요 변화를 나타낼 수 있습니다."
+        }
+      ],
+      "dedupeKey": "US_Retail_Sales_Jan_2024",
+      "clusterKey": "1월",
+      "matchedTo": null,
+      "sourceName": "연합인포맥스",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMicEFVX3lxTE51MkluUTRDT2ZUWmtrNWlZd3RZUDNzSDloTElwRDh3cHE3NXlJUHZJeGRiYlhXUnRpVm5aYXMxR043ZWRjSnFZd2ZrdVlDLUlkN2FVT0Mzd1dyQjc0bzhuTzJ0T19YOXFReXRZTVVZLWw?oc=5",
+      "publishedAt": "2026-03-06T16:11:10.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 3.5,
+      "importanceRaw": 63,
+      "qualityLabel": "ok",
+      "qualityReason": "기사에 명확한 정보가 포함되어 있습니다.",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-03-07_7",
+      "date": "2026-03-07",
       "category": "국제",
       "title": "CVE-2026-21385: 구글, 안드로이드 공격에 악용된 퀄컴 제로데이 패치",
       "summary": [
         "구글이 안드로이드 공격에 악용된 퀄컴 제로데이 취약점 CVE-2026-21385에 대한 패치를 발표했습니다.",
         "이 취약점은 특정 안드로이드 공격에서 악용되었습니다."
       ],
-      "whyImportant": "제로데이 취약점 악용으로 인한 안드로이드 기기 보안 위협",
-      "importanceRationale": "근거: 제로데이 취약점이 악용되었다는 것은 공격자가 이미 해당 취약점을 이용하여 시스템에 침투하고 있다는 의미이며, 이는 사용자 데이터 유출 및 기기 제어 탈취 등의 심각한 보안 위협으로 이어질 수 있습니다.",
-      "impactSignals": [],
-      "dedupeKey": "CVE-2026-21385_google_qualcomm_zero-day_patch",
+      "whyImportant": "퀄컴 제로데이 취약점 악용으로 인한 안드로이드 기기 보안 위협 증가",
+      "importanceRationale": "근거: 퀄컴 제로데이 취약점이 실제 안드로이드 공격에 악용되었으며, 이는 사용자 보안에 직접적인 위협이 됩니다.",
+      "impactSignals": [
+        {
+          "label": "security",
+          "evidence": "안드로이드 공격에 악용된 퀄컴 제로데이 취약점"
+        }
+      ],
+      "dedupeKey": "CVE-2026-21385: 구글, 안드로이드 공격에 악용된 퀄컴 제로데이 패치",
       "clusterKey": "cve",
       "matchedTo": null,
       "sourceName": "SOC Prime",
@@ -139,25 +203,26 @@
       "publishedAt": "2026-03-04T15:28:23.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 2,
+      "importance": 4.5,
       "importanceRaw": 88,
       "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 내용이 일치하며, 핵심 정보를 포함하고 있습니다. / 근거부족",
+      "qualityReason": "기사 제목과 내용이 일치하며, 핵심 정보를 포함하고 있습니다.",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-03-07_6",
+      "id": "2026-03-07_8",
       "date": "2026-03-07",
       "category": "국제",
       "title": "'대미 관세협상 후속 입법 논의' 대미투자특별법특위 재가동",
       "summary": [
-        "대미 관세협상 후속 입법 논의를 위해 대미투자특별법특위가 재가동됩니다."
+        "대미 관세협상 후속 입법 논의를 위해 대미투자특별법특위가 재가동됩니다.",
+        "연합뉴스 한민족센터에서 관련 소식을 보도했습니다."
       ],
-      "whyImportant": "미국과의 관세 협상 후속 조치에 대한 입법 논의가 시작되었음을 알립니다.",
-      "importanceRationale": "근거: 대미 관세협상 후속 입법 논의를 위한 특별위원회가 재가동됨.",
+      "whyImportant": "미국과의 관세 협상 후속 조치에 대한 입법 논의가 재개되어 정책 변화에 영향을 줄 수 있습니다.",
+      "importanceRationale": "근거: 대미 관세 협상 후속 입법 논의를 위한 특별위원회의 재가동은 정책 결정 과정에 중요한 영향을 미치므로.",
       "impactSignals": [],
-      "dedupeKey": "daemi-gwanseseobsang-hubog-ibbeob-nonui-daemitujajukbyeolbeobteugwi-jaegadong",
+      "dedupeKey": "daemi-gwanseseopseong-husu-ibbeop-nonui-daemituja-teukbyeolbeopteukwi-jaegadong",
       "clusterKey": "관세협상",
       "matchedTo": null,
       "sourceName": "연합뉴스 한민족센터",
@@ -173,45 +238,18 @@
       "isBreaking": false
     },
     {
-      "id": "2026-03-07_7",
-      "date": "2026-03-07",
-      "category": "정책",
-      "title": "대부분의 기업, GDPR 압박 증가에 따른 AI 규정 미비",
-      "summary": [
-        "대부분의 기업들이 GDPR 압박 증가에 따라 인공지능(AI) 규정에 대한 준비가 미흡한 것으로 나타났습니다.",
-        "IT Brief UK에 따르면, 많은 기업들이 강화되는 데이터 보호 규제에 제대로 대처하지 못하고 있습니다."
-      ],
-      "whyImportant": "AI 규정 준수 실패는 법적 문제와 기업 이미지 손상으로 이어질 수 있습니다.",
-      "importanceRationale": "근거: GDPR과 같은 데이터 보호 규정의 압박이 커짐에 따라 AI 기술 사용에 대한 규제가 강화되고 있으며, 이에 대한 기업들의 준비 부족은 심각한 위험을 초래할 수 있습니다.",
-      "impactSignals": [],
-      "dedupeKey": "AI_규정_미비_GDPR",
-      "clusterKey": "brief",
-      "matchedTo": null,
-      "sourceName": "IT Brief UK",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQOVRhOTVhNGI4VnJQdDdRLXhmOE9RV0RXM1VOVXJtSmJxR3lKLUJwY1VNeWgyb1NfZzJOb1laZllnb2xMV0h0aGNFWFY4Z1lKVTJ1MEZJanBXdGJHdXl3a2NYbTJnZzlBRWpHOHVsYXFEbVd6djN6SElXdzliVmI4eTMtMFRWS2RDMDBSTG9B?oc=5",
-      "publishedAt": "2026-03-06T09:35:00.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 75,
-      "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 내용이 일치하며, 핵심 내용을 잘 반영하고 있습니다. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-03-07_8",
+      "id": "2026-03-07_9",
       "date": "2026-03-07",
       "category": "정책",
       "title": "미국, 동맹국에도 AI 반도체 수출 통제…새로운 통상 압박 카드로 활용",
       "summary": [
-        "미국이 동맹국에 대해서도 AI 반도체 수출을 통제하며 새로운 통상 압박 카드로 활용하고 있다.",
-        "이는 관세 대신 사용될 수 있는 정책적 움직임으로 해석된다."
+        "미국이 동맹국에 대해서도 AI 반도체 수출 통제를 강화하며 새로운 통상 압박 카드로 활용하고 있다.",
+        "이는 관세를 대신하는 새로운 무역 장벽으로 작용할 수 있다."
       ],
-      "whyImportant": "미국의 AI 반도체 수출 통제는 글로벌 반도체 시장과 관련국 경제에 영향을 미칠 수 있다.",
-      "importanceRationale": "근거: 미국의 AI 반도체 수출 통제 정책은 동맹국을 포함한 광범위한 국가에 영향을 미치며, 이는 무역 관계 및 기술 경쟁 구도에 중요한 변화를 가져올 수 있기 때문이다.",
+      "whyImportant": "미국의 AI 반도체 수출 통제 강화는 글로벌 반도체 시장과 국제 관계에 중요한 영향을 미칠 수 있다.",
+      "importanceRationale": "근거: 미국의 정책 변화는 관련 산업에 직접적인 영향을 미치며, 특히 동맹국과의 관계에 미묘한 변화를 가져올 수 있기 때문이다.",
       "impactSignals": [],
-      "dedupeKey": "AI_semiconductor_export_control_by_US",
+      "dedupeKey": "AI_semiconductor_export_control_to_allies",
       "clusterKey": "반도체/sedaily",
       "matchedTo": null,
       "sourceName": "sedaily.com",
@@ -222,24 +260,24 @@
       "importance": 2,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "기사 내용이 명확하고 간결하게 요약되어 있으며, 정책적 중요성을 잘 드러내고 있다. / 근거부족",
+      "qualityReason": "기사 제목과 내용이 일치하며, 핵심 내용을 잘 요약했습니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-03-07_9",
+      "id": "2026-03-07_10",
       "date": "2026-03-07",
       "category": "국제",
       "title": "보안 사각지대 노리는 제로데이 공격…절반이 기업 타깃",
       "summary": [
-        "보안 사각지대를 노리는 제로데이 공격이 발생하고 있으며, 절반이 기업을 타깃으로 하고 있다."
+        "보안 사각지대를 노리는 제로데이 공격이 증가하고 있으며, 절반이 기업을 타깃으로 하고 있다."
       ],
-      "whyImportant": "기업 보안에 대한 경각심을 높이고 제로데이 공격에 대한 대비가 필요하다.",
-      "importanceRationale": "근거: 제로데이 공격은 보안 취약점을 이용하므로 기업의 보안 시스템에 큰 위협이 될 수 있다. 특히 절반이 기업을 타깃으로 한다는 점에서 그 중요성이 강조된다.",
+      "whyImportant": "제로데이 공격은 기업 보안에 심각한 위협이 될 수 있다.",
+      "importanceRationale": "근거: 제로데이 공격은 보안 취약점이 알려지기 전에 이루어지기 때문에 방어하기 어렵고, 기업의 데이터 유출 및 시스템 마비로 이어질 수 있다.",
       "impactSignals": [
         {
           "label": "security",
-          "evidence": "제로데이 공격이 기업을 타깃으로 한다는 내용에서 보안 관련 중요성을 알 수 있다."
+          "evidence": "제로데이 공격이 기업을 타깃으로 한다는 것은 기업 보안에 직접적인 위협이 된다."
         }
       ],
       "dedupeKey": "zeroday-attack-targets-enterprises",
@@ -253,23 +291,23 @@
       "importance": 4,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 내용이 일치하며, 간결하게 핵심 내용을 전달한다.",
+      "qualityReason": "The article provides a clear and concise summary of a security threat.",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-03-07_10",
+      "id": "2026-03-07_11",
       "date": "2026-03-07",
       "category": "국제",
-      "title": "2025년, 제로데이 공격 대상 기업으로 본격 전환…'역대 최고 비중'",
+      "title": "2025년 제로데이 공격, 기업 타겟으로 본격 전환…역대 최고 비중",
       "summary": [
-        "2025년부터 기업이 제로데이 공격의 주요 대상이 될 것으로 예상됨.",
+        "2025년부터 제로데이 공격이 기업을 주요 대상으로 전환될 것으로 예상됨.",
         "이는 역대 최고 비중을 차지할 것으로 전망됨."
       ],
-      "whyImportant": "기업 보안 강화의 필요성이 커지고 있습니다.",
-      "importanceRationale": "근거: 제로데이 공격의 대상이 기업으로 전환되면서 기업의 보안 시스템에 대한 위협이 증가하고 있기 때문입니다.",
+      "whyImportant": "기업 보안에 대한 위협 증가를 시사하며, 사전 대비책 마련이 중요해짐.",
+      "importanceRationale": "근거: 제로데이 공격의 대상이 기업으로 집중됨에 따라 기업의 보안 시스템 강화 필요성이 커지고, 잠재적 피해 규모가 증가할 수 있음.",
       "impactSignals": [],
-      "dedupeKey": "2025년 제로데이 공격 타깃 기업으로 본격 전환…“역대 최고 비중”",
+      "dedupeKey": "2025zerodayattack",
       "clusterKey": "2025년",
       "matchedTo": null,
       "sourceName": "테크월드뉴스",
@@ -280,12 +318,12 @@
       "importance": 2,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 정보가 명확합니다. / 근거부족",
+      "qualityReason": "제목과 내용이 일치하며, 요약이 적절함. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-03-07_11",
+      "id": "2026-03-07_12",
       "date": "2026-03-07",
       "category": "정책",
       "title": "'전력망 알박기 무려 7GW'…정부, 허수 사업자에 칼 빼들었다",
@@ -293,8 +331,8 @@
         "정부가 전력망 '알박기'를 막기 위해 허수 사업자에 대한 규제를 강화합니다.",
         "현재 7GW에 달하는 전력망 알박기 문제를 해결하기 위한 조치입니다."
       ],
-      "whyImportant": "정부의 전력망 알박기 규제 강화는 에너지 정책의 효율성을 높이고, 실제 전력 수요에 부합하는 사업을 촉진하는 데 중요합니다.",
-      "importanceRationale": "근거: 전력망 알박기 문제를 해결하고, 허수 사업자를 규제하여 에너지 정책의 효율성을 높이기 때문입니다.",
+      "whyImportant": "정부의 전력망 알박기 규제 강화는 에너지 정책의 효율성을 높이고, 실제 전력 수요에 부합하는 전력망 구축을 가능하게 합니다.",
+      "importanceRationale": "근거: 정부가 7GW에 달하는 전력망 알박기 문제 해결을 위해 허수 사업자에 대한 규제를 강화하기 때문입니다.",
       "impactSignals": [],
       "dedupeKey": "powergrid_speculation_regulation",
       "clusterKey": "에너지/7gw",
@@ -312,23 +350,23 @@
       "isBreaking": false
     },
     {
-      "id": "2026-03-07_12",
+      "id": "2026-03-07_13",
       "date": "2026-03-07",
       "category": "국제",
-      "title": "기업 인프라 대상 제로데이 공격 급증… 보안 경계 장비가 새로운 표적",
+      "title": "기업 인프라 노린 제로데이 공격 급증… 보안 경계 장비가 새로운 표적",
       "summary": [
-        "기업 인프라를 겨냥한 제로데이 공격이 급증하고 있습니다.",
+        "기업 인프라를 노린 제로데이 공격이 급증하고 있습니다.",
         "기업 보안 경계 장비가 새로운 표적이 되고 있습니다."
       ],
-      "whyImportant": "기업 보안에 대한 위협이 증가하고 있으며, 특히 제로데이 공격에 대한 대비가 중요해졌습니다.",
-      "importanceRationale": "근거: 기업 인프라를 대상으로 하는 제로데이 공격이 증가하고 있으며, 보안 경계 장비가 새로운 표적이 되고 있다는 점은 기업 보안에 대한 심각한 위협을 시사합니다.",
+      "whyImportant": "기업 보안에 대한 위협이 증가하고 있어, 제로데이 공격에 대한 대비가 중요합니다.",
+      "importanceRationale": "근거: 기업 인프라를 직접적으로 겨냥하는 제로데이 공격의 증가는 기업의 보안 시스템에 심각한 위협을 제기하며, 특히 보안 경계 장비가 새로운 표적이 되고 있다는 점은 방어 전략의 재검토 필요성을 시사합니다.",
       "impactSignals": [
         {
           "label": "security",
-          "evidence": "제로데이 공격 급증 및 기업 보안 경계 장비가 새로운 표적으로 부상"
+          "evidence": "제로데이 공격이 기업 보안 경계 장비를 새로운 표적으로 삼고 있어 보안 위협이 증가함"
         }
       ],
-      "dedupeKey": "zeroday_attack_on_enterprise_infrastructure",
+      "dedupeKey": "zeroday-attack-on-enterprise-infrastructure",
       "clusterKey": "겨냥",
       "matchedTo": null,
       "sourceName": "지티티코리아",
@@ -344,55 +382,23 @@
       "isBreaking": false
     },
     {
-      "id": "2026-03-07_13",
-      "date": "2026-03-07",
-      "category": "경제",
-      "title": "에이콘, 2025년 4분기 실적 발표: 기록적인 실적에 주가 11% 급등",
-      "summary": [
-        "에이콘이 2025년 4분기 실적을 발표했다.",
-        "기록적인 실적 발표에 주가가 11% 급등했다."
-      ],
-      "whyImportant": "에이콘의 실적 발표는 투자자와 시장에 중요한 영향을 미친다.",
-      "importanceRationale": "근거: 기록적인 실적 발표로 주가가 급등했으며, 이는 회사의 재무 건전성과 성장 가능성을 시사한다.",
-      "impactSignals": [
-        {
-          "label": "earnings",
-          "evidence": "기록적인 실적 발표에 주가 11% 급등"
-        }
-      ],
-      "dedupeKey": "acorn_2025_q4_earnings",
-      "clusterKey": "2025년",
-      "matchedTo": null,
-      "sourceName": "Investing.com 한국어",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMicEFVX3lxTE02UVktWGIwZkNLR043WkhJenJkYTlVYzlnSGVIZ1M2SDFqclUyM3dZZ1pTRFBYNnJvU1hxNUxSWVhEb00tME1BMUxBdkFRWlZlazgzc1BSbzdoaVEtM2RVRjktUFhNd2U5bkg5Z0VrNzI?oc=5",
-      "publishedAt": "2026-03-06T17:30:00.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 4.5,
-      "importanceRaw": 88,
-      "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 정보가 명확하게 전달됨.",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
       "id": "2026-03-07_14",
       "date": "2026-03-07",
       "category": "정책",
-      "title": "영국, 저작권 약화가 아닌 라이선스 기반 AI 추구해야 한다고 의원들 정부에 경고",
+      "title": "백악관 발표: 빅테크 기업, 신규 AI 데이터센터 전기 요금 부담",
       "summary": [
-        "영국 의원들이 정부에 저작권 약화 대신 라이선스 기반 AI를 추구해야 한다고 경고했습니다.",
-        "이는 AI 개발과 관련된 저작권 문제에 대한 우려를 반영합니다."
+        "백악관은 빅테크 기업들이 새로운 인공지능 데이터 센터의 전기 요금을 부담할 것이라고 발표했습니다.",
+        "이는 관련 투자를 촉진하기 위한 조치로 풀이됩니다."
       ],
-      "whyImportant": "AI 정책 방향에 대한 정부와 의회의 이견을 보여주는 내용입니다.",
-      "importanceRationale": "근거: 영국 의회가 AI 개발 방식에 대한 정부 정책에 이의를 제기하며, 라이선스 기반 접근 방식을 요구하고 있습니다.",
+      "whyImportant": "AI 데이터 센터 구축 비용에 대한 기업 부담을 명확히 함.",
+      "importanceRationale": "근거: 백악관 발표를 통해 빅테크 기업의 AI 데이터 센터 투자 관련 비용 부담에 대한 정책 방향을 제시하고 있습니다.",
       "impactSignals": [],
-      "dedupeKey": "UK_AI_licensing_copyright_lawmakers_warn",
-      "clusterKey": "based",
+      "dedupeKey": "bigtech_electricity_ai_datacenter",
+      "clusterKey": "big",
       "matchedTo": null,
-      "sourceName": "MLex",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeS10NTdFaHY5YjJlbnJMWk90NGZnSEJ3YkZhaTdKdDFsQjdPUC1RbkhnTVNRcjJzU0d3MUtMR2M1RnRwOEFxM2lOdjVZYk5fODN1UV9RcE1MQzBGdEFsVmprTWxEaVRFQ1JwVllxRGJ5aW5HS2REX1hWQ3ZIblVXUEVuMlJxckRPVi1jZFBGamk1Y2JSTU9yZ2dKNk1lR2NRc1NtbkxKMmVOY2pQamNyM0NueWh0SE50d0lTMGp3dWLSAVpBVV95cUxNWnQ0NVFNZHdQeDRIcmktcklSR2dHdk02a3pTM2lielpNZnhOTTBpVmZQQ2NQXzB3amhqNzlBUHBrbjdqRE1TbmJLMzFyNk9VSnI2MzJGMjNGQWc?oc=5",
-      "publishedAt": "2026-03-06T11:28:00.000Z",
+      "sourceName": "Scripps News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNSkhiS1NHSW1wZHZtU2dQV0xERTMwZVVYckgxWkZnU05jd19FVjNUX0lZMmJIc2NVVEp1WXBoQWNWYVE5LXJ4dVI3d1A3c0lMeDFDc1Q2Z3o4b0RqbkQwQXZVcUVpc0hnNnl6bmFnVEpTc29KdlpUSDYweWNzRWhoWE12WEh1SDJfMXZia3EzYlhPckUyYVNmZmNvWFdpRWIwZ1pzOFFFdE5zcEIxY2hvZnpOSlFUVUVhQVQzQk9vX05aeU9XTXUtQWJrTlRPc3BDa21sd1gwS3hjOTJOdG9yVHFpV1I?oc=5",
+      "publishedAt": "2026-03-06T20:29:44.000Z",
       "readTimeSec": 10,
       "status": "kept",
       "importance": 2,
@@ -406,26 +412,26 @@
       "id": "2026-03-07_15",
       "date": "2026-03-07",
       "category": "정책",
-      "title": "EU·인도도 중단한 미국과의 협상, 한국만 ‘강탈 기폭제’ 입법 강행",
+      "title": "영국, 저작권 약화가 아닌 라이선스 기반 AI 추구해야 한다고 의원들 정부에 경고",
       "summary": [
-        "EU와 인도도 중단한 미국과의 협상을 한국만 강행하고 있다는 보도이다.",
-        "해당 협상은 ‘강탈 기폭제’ 입법으로 이어진다는 비판이 제기되었다."
+        "영국 의원들이 정부에 저작권 약화 대신 라이선스 기반 AI를 추구해야 한다고 경고했다.",
+        "이는 AI 개발 및 사용에 대한 규제 방안의 일환으로 제시되었다."
       ],
-      "whyImportant": "한국이 EU와 인도와 달리 미국과의 협상을 강행하는 배경과 그 결과에 대한 분석이 필요하다.",
-      "importanceRationale": "근거: EU와 인도도 중단한 협상을 한국만 강행한다는 사실은 이례적이며, 그 배경과 결과에 대한 분석이 필요하다. 특히 ‘강탈 기폭제’ 입법이라는 비판은 정책적 함의를 내포한다.",
+      "whyImportant": "영국 정부의 AI 정책 방향에 대한 중요한 논쟁점이다.",
+      "importanceRationale": "근거: 영국 의원들이 정부에 AI 관련 정책 방향을 제시하며, 이는 향후 AI 규제 및 산업 발전에 영향을 미칠 수 있다.",
       "impactSignals": [],
-      "dedupeKey": "EU·인도도 멈춘 대미협상... 한국만 ‘갈취 기폭제’ 입법 강행",
-      "clusterKey": "갈취",
+      "dedupeKey": "UK_AI_licensing_copyright",
+      "clusterKey": "based",
       "matchedTo": null,
-      "sourceName": "현장언론 민플러스",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMibkFVX3lxTE15V1RldVpZZzhLbmVnR3ZmYTRFVUNhRHJTbUMwV0Z6T2ZuQzhJX0dZRk03QU55QzlqMHQ1eW5oZ3hzNDliU19rejg4YzhHU2lFUUdpZVFhdGVqTUEwbUx1aVJ6LWhfZU5FNk1KS29B?oc=5",
-      "publishedAt": "2026-03-06T09:31:51.000Z",
+      "sourceName": "MLex",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeS10NTdFaHY5YjJlbnJMWk90NGZnSEJ3YkZhaTdKdDFsQjdPUC1RbkhnTVNRcjJzU0d3MUtMR2M1RnRwOEFxM2lOdjVZYk5fODN1UV9RcE1MQzBGdEFsVmprTWxEaVRFQ1JwVllxRGJ5aW5HS2REX1hWQ3ZIblVXUEVuMlJxckRPVi1jZFBGamk1Y2JSTU9yZ2dKNk1lR2NRc1NtbkxKMmVOY2pQamNyM0NueWh0SE50d0lTMGp3dWLSAVpBVV95cUxNWnQ0NVFNZHdQeDRIcmktcklSR2dHdk02a3pTM2lielpNZnhOTTBpVmZQQ2NQXzB3amhqNzlBUHBrbjdqRE1TbmJLMzFyNk9VSnI2MzJGMjNGQWc?oc=5",
+      "publishedAt": "2026-03-06T11:28:00.000Z",
       "readTimeSec": 10,
       "status": "kept",
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되어 있음. / 근거부족",
+      "qualityReason": "제목과 본문이 일치하며, 핵심 내용을 잘 반영하고 있다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -438,12 +444,12 @@
         "미국 테라파워가 첫 상업용 SMR 건설 승인을 받았습니다.",
         "이에 따라 'K-원전 연합군'의 수혜가 기대됩니다."
       ],
-      "whyImportant": "테라파워의 SMR 건설 승인은 원전 시장에 중요한 이정표가 될 수 있습니다.",
-      "importanceRationale": "근거: 테라파워의 SMR 건설 승인은 원전 산업의 성장 가능성을 보여주며, 'K-원전 연합군'에게 새로운 사업 기회를 제공할 수 있기 때문입니다.",
+      "whyImportant": "미국 내 소형모듈원전(SMR) 시장 확대 및 국내 원전 산업에 미치는 영향.",
+      "importanceRationale": "근거: 테라파워의 SMR 건설 승인은 미국 SMR 시장의 성장 가능성을 보여주며, 이는 국내 원전 기업들에게 새로운 사업 기회를 제공할 수 있기 때문입니다.",
       "impactSignals": [
         {
           "label": "capex",
-          "evidence": "테라파워의 SMR 건설은 대규모 자본 투자를 의미하며, 관련 산업에 파급 효과를 가져올 수 있습니다."
+          "evidence": "테라파워의 SMR 건설 승인은 대규모 자본 투자를 유발할 수 있습니다."
         }
       ],
       "dedupeKey": "20240516_테라파워 SMR 건설 승인",
@@ -457,7 +463,7 @@
       "importance": 3.5,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 핵심 내용을 잘 요약했습니다.",
+      "qualityReason": "제목과 본문이 일치하며, 간결하게 핵심 내용을 전달합니다.",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -467,13 +473,12 @@
       "category": "기술",
       "title": "셀렉트스타, MWC에서 'AI 레드팀 챌린지' 개최…통신 LLM 취약점 점검",
       "summary": [
-        "셀렉트스타가 MWC에서 'AI 레드팀 챌린지'를 개최한다.",
-        "이번 챌린지는 통신 LLM의 취약점을 점검하는 것을 목표로 한다."
+        "셀렉트스타가 MWC에서 'AI 레드팀 챌린지'를 개최하여 통신 LLM의 취약점을 점검한다."
       ],
-      "whyImportant": "통신 분야의 AI 모델 보안 강화에 기여할 수 있습니다.",
-      "importanceRationale": "근거: 통신 LLM의 취약점을 점검하여 잠재적인 보안 위협을 사전에 식별하고 대응할 수 있도록 돕기 때문입니다.",
+      "whyImportant": "통신 LLM의 보안 취약점 점검을 통해 잠재적 위험을 사전에 방지할 수 있다.",
+      "importanceRationale": "근거: 셀렉트스타가 MWC에서 AI 레드팀 챌린지를 개최하여 통신 LLM의 취약점을 점검하는 것은 통신 시스템의 보안 강화에 기여할 수 있기 때문이다.",
       "impactSignals": [],
-      "dedupeKey": "셀렉트스타_AI_레드팀_챌린지_MWC",
+      "dedupeKey": "셀렉트스타 MWC AI 레드팀 챌린지",
       "clusterKey": "ai/llm",
       "matchedTo": null,
       "sourceName": "유니콘팩토리",
@@ -484,7 +489,7 @@
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "기사 내용이 명확하고 간결하며, 핵심 정보를 잘 전달하고 있습니다. / 근거부족",
+      "qualityReason": "기사 내용이 간결하고 명확하며, 핵심 정보를 포함하고 있다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -497,9 +502,14 @@
         "와이오밍 공영 미디어에 따르면 요금 납부자 보호 서약은 데이터 센터 붐 속에서 에너지 비용을 낮추는 것을 목표로 한다.",
         "이 서약은 에너지 비용 상승을 억제하기 위한 것이다."
       ],
-      "whyImportant": "데이터 센터 증가로 인한 에너지 비용 상승 가능성을 억제하기 위한 노력이다.",
-      "importanceRationale": "근거: 데이터 센터 붐으로 인해 에너지 비용이 상승할 수 있는 상황에서, 요금 납부자 보호 서약은 에너지 비용을 낮추는 것을 목표로 한다.",
-      "impactSignals": [],
+      "whyImportant": "데이터 센터 증가로 인한 에너지 비용 상승 가능성에 대한 우려를 해소하기 위한 노력이다.",
+      "importanceRationale": "근거: 데이터 센터의 증가는 에너지 소비를 증가시키고, 이는 요금 납부자에게 부담을 줄 수 있다. 이 서약은 그러한 잠재적 부담을 완화하려는 시도이다.",
+      "impactSignals": [
+        {
+          "label": "capex",
+          "evidence": "데이터 센터 건설 붐으로 인한 에너지 인프라 투자 증가 예상"
+        }
+      ],
       "dedupeKey": "RatepayerProtectionPledge_datacenterboom",
       "clusterKey": "에너지/aims",
       "matchedTo": null,
@@ -508,10 +518,10 @@
       "publishedAt": "2026-03-06T19:21:00.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 2,
+      "importance": 3,
       "importanceRaw": 50,
       "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 내용이 일치하며, 정보가 명확함. / 근거부족",
+      "qualityReason": "제목과 본문이 일치하며, 정보가 명확함.",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -519,15 +529,15 @@
       "id": "2026-03-07_19",
       "date": "2026-03-07",
       "category": "기술",
-      "title": "AI 시대, '뜨거운 물'이 데이터센터 경쟁력 결정",
+      "title": "AI 시대, '뜨거운 물'이 데이터센터 경쟁력 결정한다",
       "summary": [
-        "AI 시대에 데이터센터 경쟁력을 결정하는 요소로 '뜨거운 물'이 부상하고 있다.",
+        "AI 시대에 데이터센터의 경쟁력을 결정하는 요소로 '뜨거운 물'이 부상하고 있다.",
         "이는 데이터센터의 효율적인 냉각 시스템과 관련이 있다."
       ],
-      "whyImportant": "데이터센터의 냉각 기술 경쟁력은 AI 시대의 핵심 인프라 경쟁력과 직결된다.",
-      "importanceRationale": "근거: AI 시대에 데이터센터의 효율적인 냉각 시스템이 중요해짐에 따라, 냉각 기술 경쟁력이 데이터센터의 경쟁력을 결정짓는 핵심 요소로 부상하고 있다.",
+      "whyImportant": "데이터센터의 냉각 기술은 AI 시대의 핵심 경쟁력이다.",
+      "importanceRationale": "근거: 데이터센터의 효율적인 운영과 에너지 소비 감소에 직접적인 영향을 미치기 때문이다.",
       "impactSignals": [],
-      "dedupeKey": "AI_데이터센터_경쟁력_뜨거운물",
+      "dedupeKey": "AI 시대, '뜨거운 물'이 데이터센터 경쟁력 결정한다",
       "clusterKey": "클라우드/m이코노미뉴스",
       "matchedTo": null,
       "sourceName": "M이코노미뉴스",
@@ -538,7 +548,7 @@
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 내용이 일치하며, 핵심 내용을 잘 요약했습니다. / 근거부족",
+      "qualityReason": "기사 내용이 명확하고 정보 전달력이 우수함. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -546,14 +556,14 @@
       "id": "2026-03-07_20",
       "date": "2026-03-07",
       "category": "기술",
-      "title": "양자 컴퓨팅 주식, 긍정적 산업 전망 및 기술적 진전에 힘입어 일제히 상승",
+      "title": "양자 컴퓨팅 주식, 긍정적 산업 전망 및 기술 진전에 힘입어 일제히 상승",
       "summary": [
         "양자 컴퓨팅 관련 주식이 긍정적인 산업 전망과 기술적 진전으로 인해 일제히 상승했습니다."
       ],
       "whyImportant": "양자 컴퓨팅 산업의 성장 가능성을 시사합니다.",
-      "importanceRationale": "근거: 긍정적인 산업 전망과 기술적 진전이 주가 상승으로 이어진 것은 투자자들의 기대감을 반영합니다.",
+      "importanceRationale": "근거: 긍정적 산업 전망과 기술적 진전이라는 직접적인 요인이 주가 상승으로 이어졌기 때문입니다.",
       "impactSignals": [],
-      "dedupeKey": "quantum_computing_stocks_rise",
+      "dedupeKey": "quantum-computing-stock-surge",
       "clusterKey": "긍정적",
       "matchedTo": null,
       "sourceName": "마켓인",
