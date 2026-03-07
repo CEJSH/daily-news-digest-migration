@@ -3,21 +3,26 @@
   "selectionCriteria": "① 내일도 영향이 남는 이슈 ② 과도한 감정 소모 제외 ③ 어제와 중복되는 뉴스 제외",
   "editorNote": "이 뉴스는 클릭 수가 아니라 오늘 이후에도 남는 정보만 기준으로 편집했습니다.",
   "question": "정보를 덜 보는 것이 오히려 더 똑똑한 소비일까?",
-  "lastUpdatedAt": "2026-03-07T14:02:57.340+09:00",
+  "lastUpdatedAt": "2026-03-07T15:36:36.804+09:00",
   "items": [
     {
       "id": "2026-03-07_1",
       "date": "2026-03-07",
-      "category": "에너지",
-      "title": "롤러 의원과 에너지 장관, 인디언 포인트 방문, 원자력 시설 재건 및 재개방 촉구",
+      "category": "정책",
+      "title": "롤러 의원과 에너지 장관, 인디언 포인트 방문 및 원자력 시설 재건 및 재개 촉구",
       "summary": [
         "마이크 롤러 의원과 에너지 장관 크리스 라이트가 인디언 포인트를 방문했다.",
-        "이들은 원자력 시설의 재건과 재개방을 촉구했다."
+        "이들은 원자력 시설의 재건 및 재개를 촉구했다."
       ],
-      "whyImportant": "원자력 발전소 재개방은 에너지 정책에 중요한 영향을 미칠 수 있습니다.",
-      "importanceRationale": "근거: 원자력 시설의 재건 및 재개방 촉구는 에너지 정책 방향에 대한 논의를 촉발하고, 관련 투자 및 정책 결정에 영향을 미칠 수 있기 때문입니다.",
-      "impactSignals": [],
-      "dedupeKey": "lawler_indian_point_reopen",
+      "whyImportant": "원자력 발전소 재개는 에너지 정책에 중요한 영향을 미칠 수 있습니다.",
+      "importanceRationale": "근거: 원자력 시설 재건 및 재개에 대한 요구는 에너지 정책 방향에 대한 논의를 촉발하고, 관련 투자 및 규제 변화를 야기할 수 있기 때문입니다.",
+      "impactSignals": [
+        {
+          "label": "capex",
+          "evidence": "원자력 시설 재건은 상당한 자본 지출을 필요로 합니다."
+        }
+      ],
+      "dedupeKey": "LawlerIndianPointReopen",
       "clusterKey": "에너지/chris",
       "matchedTo": null,
       "sourceName": "Congressman Mike Lawler (.gov)",
@@ -25,10 +30,10 @@
       "publishedAt": "2026-03-06T21:24:55.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 2,
+      "importance": 3.5,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 내용이 일치하며, 핵심 정보를 포함하고 있습니다. / 근거부족",
+      "qualityReason": "기사 제목과 내용이 일치하며, 간결하게 요약되어 있습니다.",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -38,13 +43,13 @@
       "category": "경제",
       "title": "엠브라에르, 316억 달러의 기록적인 수주잔고 달성 및 2025년 수익 지침 초과",
       "summary": [
-        "엠브라에르가 316억 달러의 기록적인 수주잔고를 달성했다.",
-        "이는 2025년 수익 지침을 초과하는 실적이다."
+        "엠브라에르가 316억 달러의 기록적인 수주잔고를 달성했습니다.",
+        "2025년 수익 지침을 초과 달성했습니다."
       ],
       "whyImportant": "엠브라에르의 재정적 건전성과 미래 성장 전망을 보여주는 지표입니다.",
-      "importanceRationale": "근거: 기록적인 수주잔고와 수익 지침 초과는 회사의 사업 확장과 수익성 개선을 의미합니다.",
+      "importanceRationale": "근거: 기록적인 수주잔고와 수익 지침 초과는 회사의 사업 성과가 강력함을 시사하며, 투자자와 시장에 긍정적인 신호로 작용할 수 있습니다.",
       "impactSignals": [],
-      "dedupeKey": "embraer_record_backlog_2025_revenue",
+      "dedupeKey": "embraer_record_backlog_revenue_2025",
       "clusterKey": "achieves",
       "matchedTo": null,
       "sourceName": "Forecast International",
@@ -55,7 +60,7 @@
       "importance": 2,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 정보가 명확합니다. / 근거부족",
+      "qualityReason": "The article provides a clear and concise overview of Embraer's financial achievements. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -66,12 +71,12 @@
       "title": "'개인정보유출' 쿠팡, 실적 최악 구간 지났지만… \"소비심리·유가 변수 여전\"",
       "summary": [
         "쿠팡은 개인 정보 유출에도 불구하고 최악의 실적 구간을 벗어났다고 평가받는다.",
-        "그러나 소비 심리와 유가 변수가 여전히 쿠팡의 실적에 영향을 미칠 수 있다."
+        "그러나 소비 심리와 유가 변수가 여전히 존재한다."
       ],
-      "whyImportant": "쿠팡의 실적 회복 가능성과 잠재적 위험 요인을 동시에 보여준다.",
-      "importanceRationale": "근거: 기사는 쿠팡의 실적 개선에도 불구하고 소비 심리 및 유가와 같은 외부 변수가 여전히 중요하다는 점을 강조한다.",
+      "whyImportant": "쿠팡의 실적 회복 가능성과 관련된 변수를 제시합니다.",
+      "importanceRationale": "근거: 기사는 쿠팡의 실적에 영향을 미치는 주요 요인들을 분석하고 있어 중요합니다.",
       "impactSignals": [],
-      "dedupeKey": "coupang-earnings-20240124",
+      "dedupeKey": "coupang-performance-20240110",
       "clusterKey": "개인정보유출",
       "matchedTo": null,
       "sourceName": "마켓인",
@@ -96,7 +101,7 @@
         "이는 SMR(소형모듈원자로) 관련주로서의 기대감이 반영된 결과로 보인다."
       ],
       "whyImportant": "현대건설의 주가 급등은 SMR 시장에 대한 투자자들의 높은 관심을 보여준다.",
-      "importanceRationale": "근거: 현대건설이 SMR 관련주로 분류되며 주가가 급등한 것은 SMR 시장의 성장 가능성에 대한 투자자들의 기대감을 반영한다.",
+      "importanceRationale": "근거: 현대건설이 SMR 관련주로 분류되며 주가가 급등한 것은 SMR 시장의 성장 가능성과 현대건설의 역할에 대한 시장의 기대감을 반영한다.",
       "impactSignals": [],
       "dedupeKey": "smr_hyundai_stock_surge",
       "clusterKey": "smr",
@@ -117,14 +122,15 @@
       "id": "2026-03-07_5",
       "date": "2026-03-07",
       "category": "경제",
-      "title": "코스트코 실적: 마진 확대와 회원 증가가 빛나다",
+      "title": "코스트코 실적: 마진 확대 및 회원 증가가 빛나다",
       "summary": [
-        "코스트코의 실적 발표에서 마진 확대와 회원 증가가 두드러졌습니다."
+        "코스트코의 실적 발표에서 마진 확대와 회원 증가가 두드러졌습니다.",
+        "자세한 내용은 공개되지 않았습니다."
       ],
       "whyImportant": "코스트코의 재무 건전성과 성장세를 보여주는 지표입니다.",
-      "importanceRationale": "근거: 마진 확대는 수익성 개선을, 회원 증가는 지속적인 성장 가능성을 시사합니다.",
+      "importanceRationale": "근거: 마진 확대와 회원 증가는 기업의 수익성과 성장 잠재력을 시사하며, 투자자와 시장 참여자에게 중요한 정보입니다.",
       "impactSignals": [],
-      "dedupeKey": "costco-earnings-margin-membership",
+      "dedupeKey": "costco_earnings_margin_membership",
       "clusterKey": "costco",
       "matchedTo": null,
       "sourceName": "Morningstar",
@@ -135,12 +141,45 @@
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었습니다. / 근거부족",
+      "qualityReason": "제목과 텍스트가 일치하며, 정보가 간결하게 요약되었습니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-03-07_6",
+      "date": "2026-03-07",
+      "category": "정책",
+      "title": "머스크, xAI에 타격 우려되는 캘리포니아 데이터 공개법 막지 못해",
+      "summary": [
+        "일론 머스크가 캘리포니아 데이터 공개법을 막으려 했으나 실패했습니다.",
+        "머스크는 이 법이 자신의 AI 회사인 xAI를 망칠 것을 우려하고 있습니다.",
+        "해당 법안은 데이터 투명성을 강화하는 내용을 담고 있습니다."
+      ],
+      "whyImportant": "캘리포니아 데이터 공개법이 시행되면 xAI의 경쟁력에 부정적인 영향을 미칠 수 있습니다.",
+      "importanceRationale": "근거: 머스크가 직접 해당 법안이 xAI에 부정적인 영향을 줄 것이라고 언급했기 때문입니다.",
+      "impactSignals": [
+        {
+          "label": "policy",
+          "evidence": "캘리포니아 데이터 공개법 시행으로 xAI에 영향"
+        }
+      ],
+      "dedupeKey": "musk_fails_california_data_disclosure_law_xai",
+      "clusterKey": "block",
+      "matchedTo": null,
+      "sourceName": "Ars Technica",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcFlFWUt4Slk2eFIwSjM1a1VQNXkxaHhCQ3ZWTHE4OUxVWkl5V2U1VmZxc20xUEY0ck82UVdMdDZ4ZENQMWlvb3pLR1RPZTNYYjVwX1ZOQzJUZVJOcnlESTQ5ZGVBTTZjX0tYQ0hEVlJTeHROZnJQN28tWGRHVU1OX1hNQ3JzVl8yRkVVcVZ3V2s2OEhINUlZLXpOLS1CYmNtYUpoSl9RT3d3RTZEM01fYjdfVURhY21zTGc?oc=5",
+      "publishedAt": "2026-03-06T18:21:42.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 3.5,
+      "importanceRaw": 63,
+      "qualityLabel": "ok",
+      "qualityReason": "기사 내용이 명확하고 간결하게 전달됨",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-03-07_7",
       "date": "2026-03-07",
       "category": "국제",
       "title": "오픈AI·오라클, 텍사스 데이터센터 확장 계획 철회…메타 입주 관측",
@@ -148,8 +187,8 @@
         "오픈AI와 오라클이 텍사스 데이터센터 확장 계획을 철회했다.",
         "메타가 해당 데이터센터에 입주할 것이라는 관측이 제기되고 있다."
       ],
-      "whyImportant": "데이터센터 확장 계획 철회 및 메타 입주 가능성은 관련 기업의 투자 및 전략 변화를 시사한다.",
-      "importanceRationale": "근거: 오픈AI와 오라클의 데이터센터 확장 계획 철회는 해당 기업의 투자 전략 변화를 의미하며, 메타의 입주 가능성은 데이터센터 시장의 경쟁 구도 변화를 암시한다.",
+      "whyImportant": "데이터센터 확장 계획 철회 및 메타 입주 가능성은 관련 업계에 영향을 미칠 수 있다.",
+      "importanceRationale": "근거: 오픈AI와 오라클의 데이터센터 확장 계획 철회는 해당 지역의 데이터센터 시장에 변화를 가져올 수 있으며, 메타의 입주 가능성은 경쟁 구도에 영향을 줄 수 있기 때문이다.",
       "impactSignals": [
         {
           "label": "capex",
@@ -164,118 +203,26 @@
       "publishedAt": "2026-03-06T23:43:39.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 3.5,
-      "importanceRaw": 63,
+      "importance": 3,
+      "importanceRaw": 50,
       "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 내용이 일치하며, 핵심 내용을 요약하여 전달한다.",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-03-07_7",
-      "date": "2026-03-07",
-      "category": "정책",
-      "title": "머스크, xAI에 타격 우려되는 캘리포니아 데이터 공개법 막지 못해",
-      "summary": [
-        "일론 머스크가 캘리포니아 데이터 공개법을 막으려 했으나 실패했습니다.",
-        "머스크는 이 법이 자신의 AI 회사인 xAI를 망칠 것을 우려하고 있습니다.",
-        "해당 법안은 데이터 공개를 의무화하는 내용을 담고 있습니다."
-      ],
-      "whyImportant": "캘리포니아 데이터 공개법이 시행되면 xAI의 경쟁력에 부정적인 영향을 미칠 수 있습니다.",
-      "importanceRationale": "근거: 머스크가 직접 해당 법안이 xAI에 부정적인 영향을 줄 것이라고 언급했기 때문입니다.",
-      "impactSignals": [],
-      "dedupeKey": "musk_xai_california_data_law",
-      "clusterKey": "block",
-      "matchedTo": null,
-      "sourceName": "Ars Technica",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcFlFWUt4Slk2eFIwSjM1a1VQNXkxaHhCQ3ZWTHE4OUxVWkl5V2U1VmZxc20xUEY0ck82UVdMdDZ4ZENQMWlvb3pLR1RPZTNYYjVwX1ZOQzJUZVJOcnlESTQ5ZGVBTTZjX0tYQ0hEVlJTeHROZnJQN28tWGRHVU1OX1hNQ3JzVl8yRkVVcVZ3V2s2OEhINUlZLXpOLS1CYmNtYUpoSl9RT3d3RTZEM01fYjdfVURhY21zTGc?oc=5",
-      "publishedAt": "2026-03-06T18:21:42.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 63,
-      "qualityLabel": "ok",
-      "qualityReason": "기사 내용이 명확하고 간결하게 전달됨 / 근거부족",
+      "qualityReason": "기사 제목과 내용이 일치하며, 간결하게 요약되어 있다.",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-03-07_8",
       "date": "2026-03-07",
-      "category": "국제",
-      "title": "기업 인프라를 겨냥한 제로데이 공격 급증… 기업 보안 경계 장비가 새로운 표적",
-      "summary": [
-        "기업 인프라를 겨냥한 제로데이 공격이 급증하고 있습니다.",
-        "기업 보안 경계 장비가 새로운 표적이 되고 있습니다."
-      ],
-      "whyImportant": "기업 보안에 대한 위협이 증가하고 있으며, 특히 제로데이 공격에 대한 대비가 중요해지고 있습니다.",
-      "importanceRationale": "근거: 기업 인프라를 직접 겨냥하는 제로데이 공격의 증가는 기업의 보안 시스템에 심각한 위협을 제기하며, 보안 경계 장비가 새로운 공격 대상으로 부상함에 따라 기업의 보안 전략 재검토가 필요합니다.",
-      "impactSignals": [
-        {
-          "label": "security",
-          "evidence": "제로데이 공격 급증 및 기업 보안 경계 장비가 새로운 표적으로 부상"
-        }
-      ],
-      "dedupeKey": "zeroday_attack_on_enterprise_infrastructure",
-      "clusterKey": "겨냥",
-      "matchedTo": null,
-      "sourceName": "지티티코리아",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1vT1JsUTg3Y1FJVlVRWkFJdXppZ05qVEItXy1Jb3hPMGRQR0lGZG4waE5UUXJZc2lNaDZtaVhhamY4b2ZKRC1nRlM3YUl5MzdPalFHMVB4eWloT2pIQkdFS2YxbEsxdHBYZ0E?oc=5",
-      "publishedAt": "2026-03-06T03:14:19.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 4.5,
-      "importanceRaw": 88,
-      "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 내용이 일치하며, 요약이 명확하고 간결합니다.",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-03-07_9",
-      "date": "2026-03-07",
-      "category": "경제",
-      "title": "미국 1월 소매 판매 0.2% 감소, 시장 전망 상회",
-      "summary": [
-        "미국 1월 소매 판매가 0.2% 감소했습니다.",
-        "이는 시장 전망을 상회하는 수치입니다."
-      ],
-      "whyImportant": "미국 소매 판매 지표는 경제 상황을 파악하는 데 중요한 지표입니다.",
-      "importanceRationale": "근거: 소매 판매 데이터는 소비자 지출을 반영하며, 이는 경제 활동의 중요한 부분을 차지합니다.",
-      "impactSignals": [
-        {
-          "label": "market-demand",
-          "evidence": "소매 판매 감소는 시장 수요 변화를 나타낼 수 있습니다."
-        }
-      ],
-      "dedupeKey": "US_Retail_Sales_Jan_2024",
-      "clusterKey": "1월",
-      "matchedTo": null,
-      "sourceName": "연합인포맥스",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMicEFVX3lxTE51MkluUTRDT2ZUWmtrNWlZd3RZUDNzSDloTElwRDh3cHE3NXlJUHZJeGRiYlhXUnRpVm5aYXMxR043ZWRjSnFZd2ZrdVlDLUlkN2FVT0Mzd1dyQjc0bzhuTzJ0T19YOXFReXRZTVVZLWw?oc=5",
-      "publishedAt": "2026-03-06T16:11:10.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 3.5,
-      "importanceRaw": 63,
-      "qualityLabel": "ok",
-      "qualityReason": "기사에 명확한 정보가 포함되어 있습니다.",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-03-07_10",
-      "date": "2026-03-07",
       "category": "정책",
-      "title": "애플도 즉시 베껴라' 논란... 국회 발칵 뒤집은 '갤S26'",
+      "title": "애플도 즉시 베껴라' 논란...국회 발칵 뒤집은 '갤S26'",
       "summary": [
-        "국회에서 '갤S26'에 대한 논란이 일고 있다.",
-        "기사 제목은 \"애플도 즉시 베껴라' 논란... 국회 발칵 뒤집은 '갤S26'\"이다."
+        "국회에서 '갤S26' 디자인에 대한 논란이 일고 있다.",
+        "기사 제목은 \"애플도 즉시 베껴라' 논란...국회 발칵 뒤집은 '갤S26'\"이다."
       ],
-      "whyImportant": "국회에서 논란이 되고 있는 '갤S26'에 대한 관심이 높아질 수 있다.",
-      "importanceRationale": "근거: 기사 제목에서 '국회 발칵 뒤집은'이라는 표현을 사용하여 사건의 중요성을 강조하고 있다.",
+      "whyImportant": "국회에서 특정 제품 디자인에 대한 논란이 발생했다는 점이 중요합니다.",
+      "importanceRationale": "근거: 국회에서 '갤S26' 디자인에 대한 논란이 발생했다는 내용이 기사에 언급되어 있기 때문입니다.",
       "impactSignals": [],
-      "dedupeKey": "apple-s26-controversy",
+      "dedupeKey": "apple-copy-s26-korea",
       "clusterKey": "갤s26",
       "matchedTo": null,
       "sourceName": "한국경제",
@@ -286,60 +233,29 @@
       "importance": 2,
       "importanceRaw": 50,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 간결하게 요약되었다. / 근거부족",
+      "qualityReason": "제목과 본문이 일치하며, 간결하게 핵심 내용을 전달합니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-03-07_11",
-      "date": "2026-03-07",
-      "category": "국제",
-      "title": "일본, 미국에 5500억 달러 투자 본격화…원전 10기 건설 추진 등",
-      "summary": [
-        "일본이 미국에 5500억 달러 투자를 본격화한다.",
-        "원자력 발전소 10기 건설 추진 등이 포함된다."
-      ],
-      "whyImportant": "일본의 대규모 투자는 미국 경제에 상당한 영향을 미칠 수 있다.",
-      "importanceRationale": "근거: 5500억 달러 규모의 투자와 원전 건설 추진은 미국 경제 활성화 및 에너지 산업 발전에 기여할 수 있기 때문이다.",
-      "impactSignals": [
-        {
-          "label": "capex",
-          "evidence": "5500억 달러 투자 및 원전 10기 건설 추진"
-        }
-      ],
-      "dedupeKey": "jp-us-550b-investment",
-      "clusterKey": "에너지/10기",
-      "matchedTo": null,
-      "sourceName": "마켓인",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBLWFpQWWs1OHN0UllpdjNkSjJqcjBiRjRJcy1rUDhBQ0FKVWwteGU0Tk4zUHFVT0ZpeW1MVWp0NWdaeGk2bnlMYTNEVGplekZWU1drNHNyMlJVUUJWdnQxQjR0RktUaXBQcXByQW8xNzVxcEk?oc=5",
-      "publishedAt": "2026-03-07T02:11:50.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 4,
-      "importanceRaw": 75,
-      "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약됨.",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-03-07_12",
+      "id": "2026-03-07_9",
       "date": "2026-03-07",
       "category": "정책",
-      "title": "'돌봄은 국가 핵심 인프라'… 국회, 저출생 대응 통합 돌봄체계 논의",
+      "title": "산업부, 미국과 고위급 협상…관세 합의 준수 및 쿠팡 영향 최소화 목표",
       "summary": [
-        "국회에서 저출생 문제 해결을 위한 통합 돌봄체계 구축 논의가 진행 중이다.",
-        "돌봄을 국가 핵심 인프라로 인식하고 관련 정책을 모색한다."
+        "산업통상자원부가 미국과의 고위급 협상을 통해 관세 합의 준수를 강조할 예정이다.",
+        "이번 협상에서는 쿠팡에 대한 잠재적 영향 최소화 방안도 논의될 것으로 보인다.",
+        "정부는 미국과의 협력을 강화하여 무역 관련 불확실성을 해소하고자 한다."
       ],
-      "whyImportant": "저출생 문제 해결을 위한 국가적 차원의 돌봄 시스템 구축 논의는 사회적으로 중요한 의미를 가진다.",
-      "importanceRationale": "근거: 저출생은 국가 존립과 관련된 심각한 문제이며, 이를 해결하기 위한 정책 논의는 사회 전반에 큰 영향을 미칠 수 있다.",
+      "whyImportant": "미국과의 무역 관계 안정화 및 국내 기업 보호를 위한 정부의 노력.",
+      "importanceRationale": "근거: 산업통상자원부가 미국의 관세 합의 준수를 요청하고 쿠팡에 대한 영향을 최소화하기 위해 미국과 고위급 협상을 진행하는 것은, 양국 간의 무역 관계에서 중요한 정책적 결정 사항을 다루고 있음을 나타낸다.",
       "impactSignals": [],
-      "dedupeKey": "돌봄은 국가 핵심 인프라… 국회 저출생 대응 통합 돌봄체계 논의",
-      "clusterKey": "국가",
+      "dedupeKey": "관세합의_쿠팡_산업부_미국협상",
+      "clusterKey": "고위급",
       "matchedTo": null,
-      "sourceName": "세이프타임즈",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBUdVZTa19MbnFaUlU3QzVuQXIxZ3d3YW1IeWlEa2dScVhsbFVKZXdZY3NobzFVYXlaXzZmZG1WcU5kdlN2dXVqcFhNWFY0SEp1cjlGTmdqdGFTcXRNSG1nMERrMGt1UkFfM1A5ck81d9IBc0FVX3lxTFB5UElFcFRJR1NZcnd0TV9wb3ZYMkpWTzFEMEwtNXZ4c05KMnB2VHpUT0t5S25vSklrVjd2WjlJZExZOUxiZmpQX1UtUjI2T0htcHA2cTA1TmVDMlk2eDVPc1hiaHdBUVVIaENXSWZGcU5hbEU?oc=5",
-      "publishedAt": "2026-03-07T01:40:36.000Z",
+      "sourceName": "연합인포맥스",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1hSTJqRm5vVGt1dXNhVEo4SVBvWlpfRy1LTlU5VWxEWDNrZTJiQTJUZWlMTGRrVDVBQmZJYnotU09GcF9lVksxZ2U5WlpSOExsTG5EMjdDaVVBVHdIcERjUjhxZVdrUXdpREV3NUc2TXk?oc=5",
+      "publishedAt": "2026-03-07T06:00:31.000Z",
       "readTimeSec": 10,
       "status": "kept",
       "importance": 2,
@@ -350,39 +266,7 @@
       "isBreaking": false
     },
     {
-      "id": "2026-03-07_13",
-      "date": "2026-03-07",
-      "category": "정책",
-      "title": "인프라 타격 및 반도체 수출 규제: 빅테크 기업의 AI 붐 위협",
-      "summary": [
-        "인프라 손상과 반도체 수출 규제가 빅테크 기업에 이중고를 안겨주고 있습니다.",
-        "이는 AI 기술 성장에 부정적인 영향을 미칠 수 있다는 분석이 제기됩니다."
-      ],
-      "whyImportant": "빅테크 기업의 AI 개발 및 성장에 미치는 잠재적 영향",
-      "importanceRationale": "근거: 인프라 손상과 반도체 수출 규제가 동시에 발생하여 빅테크 기업의 AI 기술 개발에 필요한 자원 확보 및 기술 접근성을 제한할 수 있기 때문입니다.",
-      "impactSignals": [
-        {
-          "label": "policy",
-          "evidence": "반도체 수출 규제가 빅테크 기업의 AI 기술 개발에 필요한 반도체 확보를 어렵게 만들 수 있습니다."
-        }
-      ],
-      "dedupeKey": "infrastructre_and_semi_export_ban",
-      "clusterKey": "반도체/규제까지",
-      "matchedTo": null,
-      "sourceName": "Benzinga",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMisgJBVV95cUxPNk5RdDdvRERLV2JtajR4SmF6RWJYSHZTaTFQRGtyWFhYejZydC1SUzZYTWREOHZpT1VsWWM0YmcxeWREem1Yc0pFSHVya1hra2ZnWjZLS3FrUWNHMFo3R0ctUWJJUHhtV0hwS2pXTmdxTGxtSEdRNmdXallkemphVWRUbEtnQ3JGR0sxbjQ2MXVEUFhkQnZKZ3ZpZG1WbGowX1hkM2NrLVBnQTFMSEZKTmlQQWRKQk1oU2RqUGlJSlNNUFp3SDh1NTJiRUNOMmczZl8yUU9QZEhPU1JrN012Mmo1dzZPNVVDcVhTWGxQUTM4Xy01ZkhtMjBGcDcyTzloZ1RqajRUN3RWUTI4VEhDaTd1amhZcnN3RVIxenVscnhqLVJsMm1PNi05MXJ1U2I1UVE?oc=5",
-      "publishedAt": "2026-03-07T01:29:22.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 4,
-      "importanceRaw": 75,
-      "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 핵심 내용을 잘 요약했습니다.",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-03-07_14",
+      "id": "2026-03-07_10",
       "date": "2026-03-07",
       "category": "국제",
       "title": "웜 악성코드 재등장?...'패치 지연'이 최대 취약점",
@@ -394,26 +278,112 @@
       "impactSignals": [
         {
           "label": "security",
-          "evidence": "웜 악성코드의 재등장은 보안 위협을 증가시킴"
+          "evidence": "웜 악성코드의 재등장은 보안 위협을 증가시킴."
         }
       ],
-      "dedupeKey": "worm_malware_resurfaces_patch_delay",
+      "dedupeKey": "웜 악성코드 재등장, 패치 지연 취약점",
       "clusterKey": "mtn",
       "matchedTo": null,
       "sourceName": "MTN 머니투데이방송",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE43dFBqRmp1Rl9ZU2hlOWxLamtoVm5iWklEd0lVU1g5VjN6ekZGMFltclNsa0FhREVhcERHa0hralpvMDV1RW45TUw5OWxsT0NndXlveWN6WHdLS1p4YWg0bXFTbUQ?oc=5",
-      "publishedAt": "2026-03-06T19:16:34.000Z",
+      "publishedAt": "2026-03-07T05:55:40.000Z",
       "readTimeSec": 10,
       "status": "kept",
       "importance": 4,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 내용이 일치하며, 간결하게 요약됨.",
+      "qualityReason": "기사 제목과 내용이 일치하며, 핵심 내용을 잘 요약했습니다.",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-03-07_15",
+      "id": "2026-03-07_11",
+      "date": "2026-03-07",
+      "category": "정책",
+      "title": "백악관 발표: 빅테크 기업, 신규 AI 데이터센터 전기 요금 부담",
+      "summary": [
+        "백악관은 빅테크 기업들이 새로운 AI 데이터센터의 전기 요금을 부담할 것이라고 발표했습니다.",
+        "이는 데이터센터 운영 비용 증가에 대한 책임을 기업에 지우는 조치입니다."
+      ],
+      "whyImportant": "AI 데이터센터 구축 및 운영 비용 부담 증가에 대한 정책적 변화를 시사합니다.",
+      "importanceRationale": "근거: 백악관의 공식 발표이며, 빅테크 기업의 AI 데이터센터 투자 및 운영 방식에 직접적인 영향을 미칩니다.",
+      "impactSignals": [],
+      "dedupeKey": "bigtech-electricity-ai-datacenter",
+      "clusterKey": "big",
+      "matchedTo": null,
+      "sourceName": "Scripps News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNSkhiS1NHSW1wZHZtU2dQV0xERTMwZVVYckgxWkZnU05jd19FVjNUX0lZMmJIc2NVVEp1WXBoQWNWYVE5LXJ4dVI3d1A3c0lMeDFDc1Q2Z3o4b0RqbkQwQXZVcUVpc0hnNnl6bmFnVEpTc29KdlpUSDYweWNzRWhoWE12WEh1SDJfMXZia3EzYlhPckUyYVNmZmNvWFdpRWIwZ1pzOFFFdE5zcEIxY2hvZnpOSlFUVUVhQVQzQk9vX05aeU9XTXUtQWJrTlRPc3BDa21sd1gwS3hjOTJOdG9yVHFpV1I?oc=5",
+      "publishedAt": "2026-03-07T02:29:44.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 75,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 본문이 일치하며, 사실에 기반한 정보 제공. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-03-07_12",
+      "date": "2026-03-07",
+      "category": "국제",
+      "title": "일본, 미국에 5500억 달러 투자 본격화…원전 10기 건설 추진 등",
+      "summary": [
+        "일본이 미국에 5500억 달러 투자를 본격화한다.",
+        "원자력 발전소 10기 건설 추진 등이 포함된다."
+      ],
+      "whyImportant": "일본의 대규모 미국 투자는 경제적, 전략적 중요성을 가진다.",
+      "importanceRationale": "근거: 일본의 대규모 투자는 미국의 에너지 인프라 구축에 기여하고, 양국 경제 협력을 강화할 수 있다.",
+      "impactSignals": [],
+      "dedupeKey": "jp-us-550b-investment",
+      "clusterKey": "에너지/10기",
+      "matchedTo": null,
+      "sourceName": "마켓인",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBLWFpQWWs1OHN0UllpdjNkSjJqcjBiRjRJcy1rUDhBQ0FKVWwteGU0Tk4zUHFVT0ZpeW1MVWp0NWdaeGk2bnlMYTNEVGplekZWU1drNHNyMlJVUUJWdnQxQjR0RktUaXBQcXByQW8xNzVxcEk?oc=5",
+      "publishedAt": "2026-03-07T02:11:50.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 75,
+      "qualityLabel": "ok",
+      "qualityReason": "기사 내용이 명확하고 간결함 / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-03-07_13",
+      "date": "2026-03-07",
+      "category": "국제",
+      "title": "캘리포니아 소송, 메타가 AI 안경으로 촬영된 나체 영상을 직원들에게 전송했다고 비난",
+      "summary": [
+        "캘리포니아에서 메타가 AI 안경을 통해 촬영된 나체 영상을 직원들에게 전송했다는 소송이 제기되었습니다.",
+        "SFGATE에 따르면, 해당 영상은 개인 정보 보호 및 데이터 보안에 대한 우려를 불러일으키고 있습니다."
+      ],
+      "whyImportant": "이번 소송은 메타의 개인 정보 보호 정책 및 AI 기술 사용에 대한 중요한 법적 도전입니다.",
+      "importanceRationale": "근거: 나체 영상 유출 주장은 심각한 개인 정보 침해에 해당하며, 메타의 AI 제품 사용 방식에 대한 광범위한 조사를 촉발할 수 있습니다.",
+      "impactSignals": [
+        {
+          "label": "policy",
+          "evidence": "나체 영상 유출 주장은 메타의 개인 정보 보호 정책 위반 가능성을 제기하며, 향후 정책 변경 및 규제 강화로 이어질 수 있습니다."
+        }
+      ],
+      "dedupeKey": "meta-nude-video-lawsuit",
+      "clusterKey": "accuses",
+      "matchedTo": null,
+      "sourceName": "SFGATE",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBQZzNISUQ1YkM4V2JJcFJVZnZKSmlncC1qTlVvc3d6UTcxZndxcGpsQjZYUktLNHhpY1BpSnhOSWtJd2pDUVU2LWZrb0xnMXJHUE9PTktnT3NVR2tjLW40NnlVRWhJLVEzeVZHNlBYSDhlWjJ5OFo1SkcyRXk?oc=5",
+      "publishedAt": "2026-03-06T23:58:28.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 4,
+      "importanceRaw": 75,
+      "qualityLabel": "ok",
+      "qualityReason": "기사 제목과 내용이 일치하며, 핵심 내용을 잘 요약했습니다.",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-03-07_14",
       "date": "2026-03-07",
       "category": "국제",
       "title": "'대미 관세협상 후속 입법 논의' 대미투자특별법특위 재가동",
@@ -422,7 +392,7 @@
         "연합뉴스 한민족센터에서 해당 소식을 보도했습니다."
       ],
       "whyImportant": "미국과의 관세 협상 후속 조치에 대한 입법 논의가 시작되었음을 알립니다.",
-      "importanceRationale": "근거: 대미 관세 협상 후속 입법 논의를 위한 특별위원회가 재가동됨으로써, 관련 정책 변화 가능성을 시사합니다.",
+      "importanceRationale": "근거: 대미 관세 협상 후속 입법 논의를 위한 특별위원회가 재가동됨으로써, 향후 관련 정책 변화에 영향을 줄 수 있습니다.",
       "impactSignals": [],
       "dedupeKey": "daemi-gwanseseopseong-hu-sok-ibbeop-nonui-daemi-tuja-teukbyeolbeopteukwi-jaegadong",
       "clusterKey": "관세협상",
@@ -435,55 +405,23 @@
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 내용이 간결하고 명확합니다. / 근거부족",
+      "qualityReason": "제목과 본문이 일치하며, 간결하게 핵심 내용을 전달합니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-03-07_16",
-      "date": "2026-03-07",
-      "category": "정책",
-      "title": "AI 칩 수출에 대한 새로운 규제 검토",
-      "summary": [
-        "AI 칩 수출에 대한 새로운 규제가 검토되고 있습니다.",
-        "미국 AI에 대한 투자도 고려되고 있습니다."
-      ],
-      "whyImportant": "AI 칩 수출 규제는 기술 산업에 영향을 미칩니다.",
-      "importanceRationale": "근거: AI 칩 수출 규제는 기술 산업 전반에 걸쳐 중요한 정책적 변화를 의미하며, 기업의 투자 결정에 영향을 줄 수 있습니다.",
-      "impactSignals": [
-        {
-          "label": "policy",
-          "evidence": "AI 칩 수출에 대한 새로운 규제 검토"
-        }
-      ],
-      "dedupeKey": "AI_chip_export_regulation_review",
-      "clusterKey": "ai에",
-      "matchedTo": null,
-      "sourceName": "OBS경인TV",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1HM29OVVdzNDBrbXEzYzhGZFhSYzlWNVFhNkJpR2lhbjFsN0t2endoUWV2ckl6RVdyMTZPbFVDYjZPQndvZmRqYlhseVc5LS1rZVF6NlRFb1hNdWJZdDU3SlhIcHJhdzlnbU92X253?oc=5",
-      "publishedAt": "2026-03-06T11:52:00.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 4,
-      "importanceRaw": 75,
-      "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었습니다.",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-03-07_17",
+      "id": "2026-03-07_15",
       "date": "2026-03-07",
       "category": "에너지",
       "title": "국가 보안 시설의 심부가 열린다! 신한울1호기가 숨을 고르는 3개월, ‘원전 파수꾼’들의 사투",
       "summary": [
-        "신한울1호기가 가동을 준비하는 3개월 동안 '원전 파수꾼'들의 사투가 벌어지고 있다.",
-        "국가 보안 시설의 핵심부가 공개된다."
+        "신한울1호기가 가동을 멈춘 3개월 동안 국가 보안 시설의 내부가 공개됩니다.",
+        "이 기간 동안 '원전 파수꾼'들의 노력이 집중될 것입니다."
       ],
-      "whyImportant": "신한울1호기의 가동 준비 과정과 보안의 중요성을 보여준다.",
-      "importanceRationale": "근거: 신한울1호기 가동 준비 과정은 국가 기반 시설의 안정적인 운영과 보안 유지에 중요한 의미를 가진다.",
+      "whyImportant": "원자력 발전소의 안전과 보안 유지에 대한 이해를 높일 수 있습니다.",
+      "importanceRationale": "근거: 신한울1호기의 유지보수 과정과 보안 시스템 운영에 대한 정보를 제공하여 원자력 시설의 중요성을 강조합니다.",
       "impactSignals": [],
-      "dedupeKey": "shinhanul-1-preparations",
+      "dedupeKey": "shinhanul-1-security",
       "clusterKey": "에너지/고르는",
       "matchedTo": null,
       "sourceName": "MyloveKBS",
@@ -494,22 +432,22 @@
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 내용이 일치하며, 핵심 내용을 잘 요약했다. / 근거부족",
+      "qualityReason": "기사 내용이 명확하고 간결하게 요약되어 있습니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-03-07_18",
+      "id": "2026-03-07_16",
       "date": "2026-03-07",
       "category": "에너지",
       "title": "[에너지안보 점검] 재생에너지로 중동발 위기 돌파…“전동화·시장개편·ESS 함께 가야”",
       "summary": [
         "에너지경제신문 기사입니다.",
-        "재생에너지를 통해 중동발 위기를 돌파해야 합니다.",
-        "전동화, 시장개편, ESS가 함께 진행되어야 합니다."
+        "중동발 위기를 재생에너지로 돌파해야 합니다.",
+        "전동화, 시장개편, ESS가 함께 가야 합니다."
       ],
-      "whyImportant": "에너지 안보 강화 및 중동 지역 위기 대응 방안 모색",
-      "importanceRationale": "근거: 중동발 에너지 위기에 대한 해결책으로 재생에너지의 중요성을 강조하고 있으며, 전동화, 시장 개편, ESS의 필요성을 언급하고 있습니다.",
+      "whyImportant": "에너지 안보를 위한 재생에너지의 중요성을 강조합니다.",
+      "importanceRationale": "근거: 중동발 위기 상황에서 재생에너지의 역할이 부각되고 있으며, 전동화, 시장개편, ESS와 같은 요소들이 함께 고려되어야 함을 제시합니다.",
       "impactSignals": [],
       "dedupeKey": "[에너지안보 점검] 재생에너지로 중동발 위기 돌파…“전동화·시장개편·ESS 함께 가야”",
       "clusterKey": "돌파",
@@ -527,43 +465,16 @@
       "isBreaking": false
     },
     {
-      "id": "2026-03-07_19",
-      "date": "2026-03-07",
-      "category": "에너지",
-      "title": "에너지 산업, 백악관 데이터 센터 약속에 무관심",
-      "summary": [
-        "에너지 업계는 백악관의 데이터 센터 관련 약속에 냉담한 반응을 보였습니다.",
-        "Latitude Media에 따르면 에너지 업계는 백악관의 약속에 큰 기대를 걸지 않고 있습니다."
-      ],
-      "whyImportant": "데이터 센터 관련 투자가 에너지 산업에 미치는 영향을 파악하는 것이 중요합니다.",
-      "importanceRationale": "근거: 백악관의 약속에 대한 에너지 산업의 반응은 향후 데이터 센터 투자 및 에너지 소비에 대한 중요한 지표가 될 수 있습니다.",
-      "impactSignals": [],
-      "dedupeKey": "energy-white-house-data-center-shrug",
-      "clusterKey": "에너지/center",
-      "matchedTo": null,
-      "sourceName": "Latitude Media",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMzBudVFEQUU0Y0w2ZG4wN2NHYTh3dmlZUktvckpvM1N2VXB0NUlveUdZeEgwcFZ3Wk8yUldfWmc4RU9JYlY4U2U4Z0RIRDd2RmItblVVdEx1ZU9mU3JiRWdPSjQwYmVNWkZVVkRFekV4VElKSmJMS2xDNjVRbmVYbmtJaEZWWTktd2V1ZlNnWnJHR1FsMnlMdlZRWGV5SFdtbGc?oc=5",
-      "publishedAt": "2026-03-06T21:34:32.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 50,
-      "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 내용이 일치하며, 핵심 내용을 요약했습니다. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-03-07_20",
+      "id": "2026-03-07_17",
       "date": "2026-03-07",
       "category": "에너지",
       "title": "데이터 센터 붐 속에서 에너지 비용 절감을 목표로 하는 요금 납부자 보호 서약",
       "summary": [
-        "와이오밍 공영 미디어에 따르면 요금 납부자 보호 서약은 데이터 센터 붐 속에서 에너지 비용을 낮추는 것을 목표로 한다.",
-        "이 서약은 에너지 비용 상승을 억제하기 위한 것이다."
+        "데이터 센터의 급증 속에서 에너지 비용을 낮게 유지하기 위한 요금 납부자 보호 서약이 발표되었습니다.",
+        "이 서약은 데이터 센터 증가로 인한 잠재적인 비용 증가로부터 요금 납부자를 보호하는 것을 목표로 합니다."
       ],
-      "whyImportant": "데이터 센터 증가로 인한 에너지 비용 상승 가능성에 대한 우려를 해소하기 위한 노력이다.",
-      "importanceRationale": "근거: 데이터 센터의 증가는 에너지 소비를 증가시키고, 이는 결국 요금 납부자들에게 부담으로 이어질 수 있다. 이 서약은 이러한 잠재적 부담을 완화하려는 시도이다.",
+      "whyImportant": "데이터 센터 개발과 관련된 에너지 비용 상승에 대한 우려를 해결합니다.",
+      "importanceRationale": "근거: 데이터 센터의 증가는 에너지 수요를 증가시켜 요금 납부자에게 비용 부담을 줄 수 있으며, 이 서약은 그러한 잠재적 영향을 완화하려고 합니다.",
       "impactSignals": [],
       "dedupeKey": "ratepayer_protection_pledge_data_center_boom",
       "clusterKey": "에너지/aims",
@@ -574,9 +485,90 @@
       "readTimeSec": 10,
       "status": "kept",
       "importance": 2,
+      "importanceRaw": 63,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 본문이 일치하며, 정보가 명확합니다. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-03-07_18",
+      "date": "2026-03-07",
+      "category": "경제",
+      "title": "빅테크, 데이터센터 인근 에너지 비용 절감 서약 체결",
+      "summary": [
+        "주요 기술 기업들이 데이터센터 인근 지역의 에너지 비용 절감을 위한 서약에 서명했습니다.",
+        "이번 서약은 데이터센터 운영에 따른 에너지 비용 부담을 완화하는 데 목적이 있습니다."
+      ],
+      "whyImportant": "데이터센터 에너지 비용 절감 노력은 관련 산업의 지속가능성에 중요한 영향을 미칩니다.",
+      "importanceRationale": "근거: 데이터센터 운영 비용 중 에너지 비용이 상당 부분을 차지하며, 이는 기업의 투자 결정과 지역 경제에 영향을 줄 수 있습니다.",
+      "impactSignals": [],
+      "dedupeKey": "bigtech_energy_pledge",
+      "clusterKey": "에너지/big",
+      "matchedTo": null,
+      "sourceName": "GovTech",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMzk1Y1ZkaDhrVXUyRUNBSV9UNVdFR2o4MlRZZmViN0JWY08yTlkwc0hCLWg4eFl2MVg3NHdXRTZrQTF6N213eTJtNzBpTmp4aW9uQlZpUTUxa1NzZ0k3UkkwcklxQ2t5bHl6SDBPbHZ5aENSNVRKVkEzUGJtMG9iMGV5RW5PLTVEODhtWVFmc3lRVXpSdlJTeQ?oc=5",
+      "publishedAt": "2026-03-06T18:58:20.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 63,
+      "qualityLabel": "ok",
+      "qualityReason": "기사 내용이 간결하고 명확합니다. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-03-07_19",
+      "date": "2026-03-07",
+      "category": "기술",
+      "title": "헬스테크 스타트업 임파워 헬스, 신임 CEO 선임 및 50만 달러 벤처 자금 유치",
+      "summary": [
+        "헬스테크 스타트업 임파워 헬스가 새로운 CEO를 선임했습니다.",
+        "또한 50만 달러의 벤처 캐피탈 자금 유치에 성공했습니다."
+      ],
+      "whyImportant": "임파워 헬스의 성장 가능성을 보여주는 지표입니다.",
+      "importanceRationale": "근거: 신임 CEO 선임과 벤처 자금 유치는 기업 성장의 중요한 동력으로 작용할 수 있습니다.",
+      "impactSignals": [],
+      "dedupeKey": "ImpowerHealth_CEO_Funding",
+      "clusterKey": "금융/builds",
+      "matchedTo": null,
+      "sourceName": "Silicon Prairie News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPQ0hYcXdaOW45Q3d6ZE0tSUpVSm9CbGpjaDVhYkFtdUhmeUhzcXJWWWFVVjFaQ3FFVkZtVTV4OURSM0xZVUIwRWQ4U0huZFFzcWV2VmNfekVQcENQU21VLUY0TDllWGY2SUh3ZGhZTEJOTlNsbXlyS1BMVlB6VnVockpSci1uOUpib2xqZUU4RHprbXJRTVoxaTlzUE5SU1NkYnJWZEs5NjhEa2lmb3ZHZVktOXdpempyUUV0OFBUMHVfSWtyZVBnYzJ5QXlodXhQU1ZMVw?oc=5",
+      "publishedAt": "2026-03-06T15:00:00.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
       "importanceRaw": 50,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 정보가 명확함. / 근거부족",
+      "qualityReason": "제목과 본문이 일치하며, 정보가 명확합니다. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-03-07_20",
+      "date": "2026-03-07",
+      "category": "에너지",
+      "title": "에너지 산업, 백악관 데이터 센터 약속에 무관심",
+      "summary": [
+        "에너지 산업은 백악관의 데이터 센터 관련 약속에 냉담한 반응을 보였습니다.",
+        "이번 반응은 Latitude Media에서 보도되었습니다."
+      ],
+      "whyImportant": "데이터 센터 관련 정책 방향을 엿볼 수 있습니다.",
+      "importanceRationale": "근거: 에너지 산업의 반응은 향후 데이터 센터 투자 및 정책 결정에 영향을 미칠 수 있습니다.",
+      "impactSignals": [],
+      "dedupeKey": "energy-whitehouse-data-center-shrug",
+      "clusterKey": "에너지/center",
+      "matchedTo": null,
+      "sourceName": "Latitude Media",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMzBudVFEQUU0Y0w2ZG4wN2NHYTh3dmlZUktvckpvM1N2VXB0NUlveUdZeEgwcFZ3Wk8yUldfWmc4RU9JYlY4U2U4Z0RIRDd2RmItblVVdEx1ZU9mU3JiRWdPSjQwYmVNWkZVVkRFekV4VElKSmJMS2xDNjVRbmVYbmtJaEZWWTktd2V1ZlNnWnJHR1FsMnlMdlZRWGV5SFdtbGc?oc=5",
+      "publishedAt": "2026-03-06T21:34:32.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2.5,
+      "importanceRaw": 38,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었습니다.",
       "isBriefing": false,
       "isBreaking": false
     }
