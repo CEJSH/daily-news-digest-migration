@@ -3,42 +3,10 @@
   "selectionCriteria": "① 내일도 영향이 남는 이슈 ② 과도한 감정 소모 제외 ③ 어제와 중복되는 뉴스 제외",
   "editorNote": "이 뉴스는 클릭 수가 아니라 오늘 이후에도 남는 정보만 기준으로 편집했습니다.",
   "question": "정보를 덜 보는 것이 오히려 더 똑똑한 소비일까?",
-  "lastUpdatedAt": "2026-03-09T05:22:43.648+09:00",
+  "lastUpdatedAt": "2026-03-09T06:20:38.115+09:00",
   "items": [
     {
       "id": "2026-03-09_1",
-      "date": "2026-03-09",
-      "category": "정책",
-      "title": "\"저작권 침해 강력 제재\"... 베트남, 보호·집행 강화 시행령 전면 시행",
-      "summary": [
-        "베트남에서 저작권 침해에 대한 강력한 제재를 가하는 시행령이 전면 시행됩니다.",
-        "이는 베트남의 저작권 보호 및 집행 강화를 위한 조치입니다."
-      ],
-      "whyImportant": "베트남의 저작권 보호 정책 변화를 보여주는 중요한 사례입니다.",
-      "importanceRationale": "근거: 베트남 정부가 저작권 침해에 대한 제재를 강화하는 시행령을 발표하고 시행함으로써, 지적 재산권 보호에 대한 정책적 의지를 드러내고 있습니다.",
-      "impactSignals": [
-        {
-          "label": "policy",
-          "evidence": "저작권 보호 및 집행 강화 시행령 시행"
-        }
-      ],
-      "dedupeKey": "베트남 저작권 침해 제재 강화 시행령",
-      "clusterKey": "강력",
-      "matchedTo": null,
-      "sourceName": "특허뉴스",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5VUzJzYWtjZ0ZFLUhxOE85ZTZVSE9yY1UtNVhqcGpZT2NVOGxkZzUzbWlUY2YtYWFzaFZfZ3dJYTBLbEdIaXFFeg?oc=5",
-      "publishedAt": "2026-03-07T12:25:00.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 4,
-      "importanceRaw": 75,
-      "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었습니다.",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-03-09_2",
       "date": "2026-03-09",
       "category": "국제",
       "title": "AI 패권 경쟁 심화: 규제, 반도체, 데이터센터가 글로벌 산업 지형을 재편",
@@ -47,46 +15,41 @@
         "규제, 반도체, 데이터센터가 글로벌 산업 판도를 재편하고 있다."
       ],
       "whyImportant": "AI 경쟁 심화와 관련된 규제, 반도체, 데이터센터의 중요성을 강조합니다.",
-      "importanceRationale": "근거: AI 패권 경쟁의 심화는 관련 산업에 대한 규제 강화, 반도체 기술 경쟁 심화, 데이터센터 투자 확대로 이어져 글로벌 산업 지형에 큰 영향을 미치기 때문입니다.",
+      "importanceRationale": "근거: AI 패권 경쟁의 심화는 산업 전반에 걸쳐 큰 영향을 미치며, 규제, 반도체, 데이터센터는 이러한 경쟁의 핵심 요소입니다.",
       "impactSignals": [
         {
           "label": "policy",
-          "evidence": "AI 패권 경쟁 심화에 따른 규제 변화"
+          "evidence": "AI 규제가 산업 판도에 영향을 미침"
         }
       ],
-      "dedupeKey": "AI패권경쟁심화",
+      "dedupeKey": "AI_COMPETITION_REGULATION_SEMICONDUCTOR_DATACENTER",
       "clusterKey": "반도체/격화",
       "matchedTo": null,
-      "sourceName": "유스연합",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1wY2pBSlota2hwLVZHZVdXQXJ5eDZPalROdFpwZ1p0NzBZd2pmNDBNWnhsdGdndHpreEthNG9pX2ljZ1UydU41MnpRZFY0T3FnT0E?oc=5",
+      "sourceName": "브랜드경제신문",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE8xbHpMeDBrdXBOaHBqVW5hOXc3S1JsREdYcVBEVWM0N0taZURDaUhjNjhOb1lUQ1JfVnhKUEkwTGJ0bmU0Qm1GUmNxMWg?oc=5",
       "publishedAt": "2026-03-05T03:37:21.000Z",
       "readTimeSec": 10,
       "status": "kept",
       "importance": 4,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되어 있습니다.",
+      "qualityReason": "제목과 내용이 일치하며, 핵심 내용을 잘 요약했습니다.",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-03-09_3",
+      "id": "2026-03-09_2",
       "date": "2026-03-09",
       "category": "정책",
       "title": "AI 전력 비용은 누가 부담하나? 캘리포니아 감시 단체, 새로운 데이터 센터 규정 촉구",
       "summary": [
-        "캘리포니아 감시 단체가 AI 전력 소비 증가에 따른 새로운 데이터 센터 규정을 촉구했습니다.",
-        "이는 AI 기술 발전에 따른 전력 수요 증가에 대한 우려를 반영합니다.",
-        "새로운 규정은 데이터 센터의 에너지 효율성을 높이고 전력 소비를 줄이는 데 초점을 맞출 것으로 예상됩니다."
+        "캘리포니아 감시 단체가 AI 전력 사용량 증가에 따른 새로운 데이터 센터 규정을 촉구했다.",
+        "이는 AI 기술 발전에 따른 전력 소비 문제에 대한 우려를 반영한다.",
+        "새로운 규정은 데이터 센터의 에너지 효율성을 높이고, 전력 사용에 대한 책임을 강화하는 데 초점을 맞출 것으로 예상된다."
       ],
-      "whyImportant": "AI 기술 발전과 데이터 센터 증가에 따른 전력 소비 문제에 대한 정책적 대응을 시사합니다.",
-      "importanceRationale": "근거: 캘리포니아 주의 감시 단체가 AI 전력 소비에 대한 새로운 데이터 센터 규정을 촉구했다는 사실은, AI 기술 발전과 데이터 센터 운영에 따른 에너지 소비 문제가 심각한 사회적, 환경적 문제로 인식되고 있음을 보여줍니다. 이는 관련 정책 및 투자 결정에 중요한 영향을 미칠 수 있습니다.",
-      "impactSignals": [
-        {
-          "label": "policy",
-          "evidence": "California watchdog urges new data center rules"
-        }
-      ],
+      "whyImportant": "AI 기술 발전과 데이터 센터의 에너지 소비 증가에 대한 정책적 대응의 필요성을 보여준다.",
+      "importanceRationale": "근거: 캘리포니아 감시 단체가 AI 전력 사용량 증가에 따른 새로운 데이터 센터 규정을 촉구했다는 사실은, AI 기술 발전이 에너지 소비 및 환경에 미치는 영향에 대한 정책적 관심이 높아지고 있음을 시사한다.",
+      "impactSignals": [],
       "dedupeKey": "AI_power_california_datacenter_rules",
       "clusterKey": "에너지/california",
       "matchedTo": null,
@@ -95,10 +58,41 @@
       "publishedAt": "2026-03-05T13:30:00.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 4,
+      "importance": 2,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "The article is a factual report of an event.",
+      "qualityReason": "기사 제목과 내용이 일치하며, 핵심 내용을 잘 요약했습니다. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-03-09_3",
+      "date": "2026-03-09",
+      "category": "정책",
+      "title": "\"저작권 침해 강력 제재\"... 베트남, 보호·집행 강화 시행령 전면 시행",
+      "summary": [
+        "베트남에서 저작권 침해에 대한 강력한 제재를 가하는 보호·집행 강화 시행령이 전면 시행된다."
+      ],
+      "whyImportant": "베트남의 저작권 보호 정책 강화는 콘텐츠 산업에 중요한 영향을 미칠 수 있다.",
+      "importanceRationale": "근거: 베트남의 저작권 보호 및 집행 강화 시행령이 발효됨에 따라, 관련 산업의 법적 환경 변화가 예상된다.",
+      "impactSignals": [
+        {
+          "label": "policy",
+          "evidence": "베트남의 저작권 보호 및 집행 강화 시행령 전면 시행"
+        }
+      ],
+      "dedupeKey": "vietnam-copyright-law-enforcement",
+      "clusterKey": "강력",
+      "matchedTo": null,
+      "sourceName": "특허뉴스",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5VUzJzYWtjZ0ZFLUhxOE85ZTZVSE9yY1UtNVhqcGpZT2NVOGxkZzUzbWlUY2YtYWFzaFZfZ3dJYTBLbEdIaXFFeg?oc=5",
+      "publishedAt": "2026-03-07T12:25:00.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 3.5,
+      "importanceRaw": 63,
+      "qualityLabel": "ok",
+      "qualityReason": "기사 내용이 명확하고 간결하게 요약되어 있음.",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -112,9 +106,9 @@
         "연합뉴스 한민족센터에서 관련 소식을 보도했다."
       ],
       "whyImportant": "정부 차원에서 AI 전환을 지원함으로써 공공 서비스 혁신과 효율성 증대가 기대된다.",
-      "importanceRationale": "근거: 과기정통부와 행안부가 협력하여 범정부 AI 전환을 지원하는 것은 정부의 정책적 의지를 보여주는 중요한 사례이다.",
+      "importanceRationale": "근거: 과기정통부와 행안부가 협력하여 범정부 AI 전환을 지원하는 정책적 움직임은 공공 부문의 디지털 전환을 가속화하고, AI 기술의 활용을 촉진할 수 있기 때문이다.",
       "impactSignals": [],
-      "dedupeKey": "AI 전환 지원, 과기정통부·행안부",
+      "dedupeKey": "AI_TRANSFORMATION_GOV_SUPPORT",
       "clusterKey": "과기정통부",
       "matchedTo": null,
       "sourceName": "연합뉴스 한민족센터",
@@ -125,23 +119,55 @@
       "importance": 2,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약됨. / 근거부족",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 핵심 내용을 전달한다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-03-09_5",
       "date": "2026-03-09",
+      "category": "경제",
+      "title": "엔비디아, 중국 판매 제한으로 TSMC 칩 생산 능력 전환",
+      "summary": [
+        "엔비디아가 중국 수출 제한으로 인해 TSMC 칩 생산 능력을 다른 곳으로 전환하고 있습니다.",
+        "이는 중국 시장에 대한 수출 규제가 엔비디아의 생산 전략에 영향을 미치고 있음을 보여줍니다."
+      ],
+      "whyImportant": "엔비디아의 전략 변화는 반도체 산업과 국제 무역에 중요한 영향을 미칩니다.",
+      "importanceRationale": "근거: 중국 수출 규제로 인해 엔비디아가 TSMC 칩 생산 능력을 전환하고 있다는 사실은, 무역 정책 변화가 기업의 생산 및 시장 전략에 미치는 직접적인 영향을 보여줍니다.",
+      "impactSignals": [
+        {
+          "label": "market-demand",
+          "evidence": "중국 수출 제한으로 인한 시장 수요 변화"
+        }
+      ],
+      "dedupeKey": "nvidia_tsmc_china_export_curbs",
+      "clusterKey": "반도체/capacity",
+      "matchedTo": null,
+      "sourceName": "Meyka",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVWlfaGE2V2JEb0FyNWJNaTg3Sy13c1ByZFdOYmMwVTZEaXRWR3UxUG90bUFuSFBZM1V4MHBBdURNOFJIU3p5S1hTWkVYc1Azck85S0F2Tld3M1J0a0l4U0N0cHBJSzM4UXltQVZHcTVhbHlmN3gxWDJSQmp1X2NjeE9oMVRobUhpc0JLMkc0dzJGUXBnRXN6R2YxUlk?oc=5",
+      "publishedAt": "2026-03-05T09:47:49.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 4,
+      "importanceRaw": 75,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 본문이 일치하며, 정보가 명확합니다.",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-03-09_6",
+      "date": "2026-03-09",
       "category": "정책",
       "title": "베트남 일부 특구, 제16대 국회 및 각급 인민의회 의원 조기 선거 실시",
       "summary": [
         "베트남 일부 특구에서 제16대 국회 및 각급 인민의회 의원 조기 선거가 실시됩니다.",
-        "이는 베트남의 정치적 결정과 관련된 사안입니다."
+        "이는 베트남의 정치적 결정에 따른 것입니다."
       ],
-      "whyImportant": "베트남의 정치적 변화를 나타내는 지표입니다.",
-      "importanceRationale": "근거: 베트남의 국회 및 인민의회 의원 선거는 정책 결정에 중요한 영향을 미치므로, 조기 선거 실시는 정치적 변화의 중요한 신호로 해석될 수 있습니다.",
+      "whyImportant": "베트남의 정치적 변화를 보여주는 중요한 사건입니다.",
+      "importanceRationale": "근거: 베트남의 국회 및 인민의회 의원 선거는 국가 정책 결정에 중요한 영향을 미치며, 조기 선거는 이례적인 상황 변화를 의미합니다.",
       "impactSignals": [],
-      "dedupeKey": "베트남 일부 특구, 제16대 국회 및 각급 인민의회 의원 조기 선거 실시",
+      "dedupeKey": "vietnam-early-election-20240123",
       "clusterKey": "각급",
       "matchedTo": null,
       "sourceName": "the voice of vietnam",
@@ -152,23 +178,23 @@
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 정보가 명확합니다. / 근거부족",
+      "qualityReason": "기사 제목과 내용이 일치하며, 간결하게 요약되었습니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-03-09_6",
+      "id": "2026-03-09_7",
       "date": "2026-03-09",
       "category": "기술",
       "title": "애플, 맥북 네오 출시 후 '울트라' 제품 확장 예정",
       "summary": [
-        "애플이 맥북 네오 출시 이후 '울트라' 제품 라인 확장을 준비 중이다.",
-        "블룸버그 통신이 이 소식을 보도했다."
+        "애플이 맥북 네오 출시 이후 '울트라' 제품군 확장을 준비 중이다.",
+        "블룸버그 통신에 따르면 애플은 고성능 제품 라인업을 강화할 계획이다."
       ],
-      "whyImportant": "애플의 제품 전략 변화를 보여주는 신호탄이다.",
-      "importanceRationale": "근거: 애플이 고성능 '울트라' 제품군을 확장함으로써 고가 시장에서의 경쟁력을 강화하려는 전략적 움직임으로 해석될 수 있다.",
+      "whyImportant": "애플의 고성능 제품 전략 변화를 보여주는 신호탄이다.",
+      "importanceRationale": "근거: 애플이 '울트라' 제품군 확장을 통해 고성능 시장에서의 경쟁력을 강화하려는 움직임을 보이고 있기 때문이다.",
       "impactSignals": [],
-      "dedupeKey": "apple_ultra_expansion_2024",
+      "dedupeKey": "apple_ultra_expansion_after_macbook_neo",
       "clusterKey": "after",
       "matchedTo": null,
       "sourceName": "Bloomberg.com",
@@ -179,52 +205,107 @@
       "importance": 2,
       "importanceRaw": 50,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 간결하게 핵심 내용을 전달한다. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-03-09_7",
-      "date": "2026-03-09",
-      "category": "정책",
-      "title": "[교육타파] \"2만 학교 중복 심의\" 현장 반발, 결국 법 개정으로 이어져",
-      "summary": [
-        "2만 학교의 중복 심의에 대한 현장 반발이 법 개정으로 이어졌습니다.",
-        "전북미래교육신문에서 보도했습니다."
-      ],
-      "whyImportant": "학교 현장의 불만을 야기했던 중복 심의 문제가 법 개정을 통해 해결될 가능성이 있습니다.",
-      "importanceRationale": "근거: 학교 현장의 반발을 야기했던 중복 심의 문제가 법 개정으로 이어졌다는 점은 교육 정책에 중요한 변화를 의미합니다.",
-      "impactSignals": [
-        {
-          "label": "policy",
-          "evidence": "법 개정을 통해 학교 중복 심의 문제 해결 시도"
-        }
-      ],
-      "dedupeKey": "[교육타파] \"2만 학교 중복 심의\" 현장 반발, 결국 법 개정으로 이어져",
-      "clusterKey": "2만",
-      "matchedTo": null,
-      "sourceName": "전북미래교육신문",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1NczFHbkNwdm5uMmdiWjRQTm5vdHUyZkUtZDJCTExSbVgtT3ZJOVZvODlsSm14UllqLW5Cd3UxSExoVUJJMzhKNUF4bmdQSEtyUFhLVWE4Vmg4djVlNGZF?oc=5",
-      "publishedAt": "2026-03-08T17:08:31.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 4,
-      "importanceRaw": 75,
-      "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었습니다.",
+      "qualityReason": "기사 제목과 내용이 일치하며, 간결하게 요약되어 있다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-03-09_8",
       "date": "2026-03-09",
+      "category": "정책",
+      "title": "미국, 엔비디아, AMD의 글로벌 AI 칩 판매에 대한 허가 요구 고려",
+      "summary": [
+        "미국이 엔비디아와 AMD의 글로벌 AI 칩 판매에 대한 허가 요구를 고려하고 있다고 블룸버그가 보도했다.",
+        "이는 AI 칩 시장에 영향을 미칠 수 있는 정책적 변화로 보인다."
+      ],
+      "whyImportant": "미국 정부의 AI 칩 수출 통제 강화 가능성",
+      "importanceRationale": "근거: 엔비디아와 AMD는 AI 칩 시장의 주요 공급업체이며, 이들의 글로벌 판매에 대한 허가 요구는 시장 수요에 상당한 영향을 미칠 수 있다.",
+      "impactSignals": [
+        {
+          "label": "market-demand",
+          "evidence": "엔비디아와 AMD의 AI 칩 판매에 대한 허가 요구는 시장 수요에 직접적인 영향을 줄 수 있다."
+        }
+      ],
+      "dedupeKey": "US_AI_CHIP_PERMIT",
+      "clusterKey": "반도체/amd",
+      "matchedTo": null,
+      "sourceName": "Bloomberg.com",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUnJ0TG94MWlQU1RNTFNObUQzMkN3ekFVMkExRUhidlNyZ2xBNmZxc2VwZHF3aG5MR1lyWTlJQ09MbzRMQUNNcjdJTm5UUURYMUJhN1RJRDc3aTU5a0RRcDZBcTJVaF95c2lHeF8xVW95TG9jWmoxT0Y0RlNjTVpDZ3p6WWpMcnRManE1QmNMWE1ZVmhTUTQwQnJONWpBRXQ5MFhKVWVXc1V1dkwyVFlQX2J3?oc=5",
+      "publishedAt": "2026-03-06T03:50:00.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 4,
+      "importanceRaw": 75,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약됨.",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-03-09_9",
+      "date": "2026-03-09",
+      "category": "국제",
+      "title": "[중국증시 주간 포인트] 2월 물가∙수출입∙금융지표, 중동 변수, 3∙15 완후이, 기술주 이벤트, 홍콩 스테이블코인 라이선스, AI∙신에너지 대장주 실적발표",
+      "summary": [
+        "이번 주 중국 증시는 2월 물가, 수출입, 금융 지표 발표를 앞두고 있습니다.",
+        "중동 변수와 3∙15 완후이, 기술주 이벤트도 주목할 부분입니다.",
+        "AI 및 신에너지 대장주 실적 발표와 홍콩 스테이블코인 라이선스 관련 소식도 중요하게 다뤄질 예정입니다."
+      ],
+      "whyImportant": "이번 주 중국 증시에 영향을 미칠 주요 경제 지표 발표 및 이벤트들을 요약했습니다.",
+      "importanceRationale": "근거: 제시된 제목과 텍스트는 중국 증시에 영향을 줄 수 있는 다양한 경제 지표 발표, 지정학적 변수, 기술 관련 이벤트, 그리고 주요 기업들의 실적 발표를 포함하고 있어 투자자들에게 중요한 정보가 될 수 있습니다.",
+      "impactSignals": [],
+      "dedupeKey": "china_stock_market_weekly_points_20240304",
+      "clusterKey": "2월",
+      "matchedTo": null,
+      "sourceName": "네이버 프리미엄콘텐츠",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0wZVRHbXlxYnczWjByTExYUlVYR1ZJbjNsdDVaNmExRk9FUlNJaWlyZ0dxc05BYUtMMzdqMGtwQ01ZMTlJMmQteTE5WTVVd3pHVjZ6Z1FGN192b0tadDVGRzdrYV9PZmJmWWpoSzRLenZKQXNwWGJ2Q29uNA?oc=5",
+      "publishedAt": "2026-03-08T15:02:00.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 75,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 텍스트가 일치하며, 정보가 명확하게 제시되어 있습니다. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-03-09_10",
+      "date": "2026-03-09",
+      "category": "경제",
+      "title": "인프라 타격 및 반도체 수출 규제: 빅테크 기업의 AI 붐 위협",
+      "summary": [
+        "인프라 손상과 반도체 수출 규제가 빅테크 기업에 이중고를 안겨주고 있습니다.",
+        "이는 AI 기술 성장에 부정적인 영향을 미칠 수 있다는 분석이 제기됩니다."
+      ],
+      "whyImportant": "빅테크 기업의 AI 개발 및 성장에 잠재적인 차질을 초래할 수 있습니다.",
+      "importanceRationale": "근거: 인프라 손상과 반도체 수출 규제가 동시에 발생하여 빅테크 기업의 운영 환경이 악화되고 있으며, 이는 AI 기술 개발에 필요한 자원 확보에 어려움을 줄 수 있습니다.",
+      "impactSignals": [],
+      "dedupeKey": "infrastructre_and_semiconductor_export_restrictions_threaten_big_tech_ai_boom",
+      "clusterKey": "반도체/규제까지",
+      "matchedTo": null,
+      "sourceName": "Benzinga",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMisgJBVV95cUxPNk5RdDdvRERLV2JtajR4SmF6RWJYSHZTaTFQRGtyWFhYejZydC1SUzZYTWREOHZpT1VsWWM0YmcxeWREem1Yc0pFSHVya1hra2ZnWjZLS3FrUWNHMFo3R0ctUWJJUHhtV0hwS2pXTmdxTGxtSEdRNmdXallkemphVWRUbEtnQ3JGR0sxbjQ2MXVEUFhkQnZKZ3ZpZG1WbGowX1hkM2NrLVBnQTFMSEZKTmlQQWRKQk1oU2RqUGlJSlNNUFp3SDh1NTJiRUNOMmczZl8yUU9QZEhPU1JrN012Mmo1dzZPNVVDcVhTWGxQUTM4Xy01ZkhtMjBGcDcyTzloZ1RqajRUN3RWUTI4VEhDaTd1amhZcnN3RVIxenVscnhqLVJsMm1PNi05MXJ1U2I1UVE?oc=5",
+      "publishedAt": "2026-03-07T01:29:22.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 63,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 내용이 일치하며, 핵심 내용을 요약했습니다. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-03-09_11",
+      "date": "2026-03-09",
       "category": "경제",
       "title": "SA 질문: 현재 최고의 데이터 센터 전력 주식은 무엇인가?",
       "summary": [
-        "Seeking Alpha에서 현재 최고의 데이터 센터 전력 주식에 대한 질문이 제기되었습니다."
+        "Seeking Alpha에서 최고의 데이터 센터 전력 주식에 대한 질문이 제기되었습니다."
       ],
       "whyImportant": "데이터 센터 전력 관련 주식 시장 동향 파악에 중요합니다.",
-      "importanceRationale": "근거: 데이터 센터 전력 주식에 대한 투자자들의 관심사를 나타냅니다.",
+      "importanceRationale": "근거: 데이터 센터 전력 주식에 대한 투자자들의 관심사를 보여주며, 관련 시장의 동향을 파악하는 데 중요한 정보입니다.",
       "impactSignals": [],
       "dedupeKey": "SA_Data_Center_Power_Stocks",
       "clusterKey": "에너지/asks",
@@ -237,48 +318,21 @@
       "importance": 2,
       "importanceRaw": 50,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 정보가 간결하게 제공됨. / 근거부족",
+      "qualityReason": "제목과 텍스트가 일치하며, 정보가 명확합니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-03-09_9",
+      "id": "2026-03-09_12",
       "date": "2026-03-09",
       "category": "국제",
-      "title": "관세에 대한 공급망 책임자들의 대응 방식",
+      "title": "트럼프 대통령, AI 데이터센터 전기요금 보호 서약 체결…빅테크 기업, 전력 비용 직접 부담",
       "summary": [
-        "공급망 책임자들이 관세에 적응하고 있습니다.",
-        "자세한 내용은 Chain Store Age에서 확인할 수 있습니다."
-      ],
-      "whyImportant": "공급망 관리 전략 변화를 파악하는 데 중요합니다.",
-      "importanceRationale": "근거: 관세는 공급망에 직접적인 영향을 미치므로, 책임자들의 대응 방식은 기업 전략 및 시장 변화를 예측하는 데 중요한 지표가 됩니다.",
-      "impactSignals": [],
-      "dedupeKey": "tariff-supply-chain-execs-adjusting",
-      "clusterKey": "adjusting",
-      "matchedTo": null,
-      "sourceName": "Chain Store Age",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQa3NLWkZ1OXdGR2lsRHo4QnJJeWY3akxMWXBFQ0Y2ZlF3VHRuVUVmaFJtN3E1SXE3d01Hc0pmQ3EyZlpvcmFocnYzTGZHckgyVEtCNUxFNDAwLXZXbUx2TGVjMHJMeWNsZVFiazk4Zk9zNHpEQjVMWlM1d1JsWjgyM3ZB?oc=5",
-      "publishedAt": "2026-03-06T14:49:34.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 63,
-      "qualityLabel": "ok",
-      "qualityReason": "제목과 텍스트가 일치하며, 내용이 간결합니다. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-03-09_10",
-      "date": "2026-03-09",
-      "category": "국제",
-      "title": "트럼프 대통령, 'AI 데이터센터 전기요금 보호 서약' 체결…빅테크 기업, 전력 비용 직접 부담",
-      "summary": [
-        "미국 트럼프 대통령이 'AI 데이터센터 전기요금 보호 서약'을 체결했다.",
+        "트럼프 미국 대통령이 'AI 데이터센터 전기요금 보호 서약'을 체결했다.",
         "이에 따라 빅테크 기업들은 데이터센터의 전력 비용을 직접 부담하게 된다."
       ],
-      "whyImportant": "AI 데이터센터의 전력 비용 부담 주체가 변경되어 빅테크 기업의 투자 및 운영 전략에 영향을 줄 수 있다.",
-      "importanceRationale": "근거: 트럼프 대통령의 서약 체결로 빅테크 기업이 AI 데이터센터의 전력 비용을 직접 부담하게 되었으며, 이는 기업의 자본 지출(capex)에 직접적인 영향을 미친다.",
+      "whyImportant": "AI 데이터센터의 전력 비용 부담 주체가 변경되어 빅테크 기업의 투자 결정에 영향을 줄 수 있습니다.",
+      "importanceRationale": "근거: 빅테크 기업이 AI 데이터센터의 전력 비용을 직접 부담하게 되면서, 관련 투자 및 운영 비용에 대한 재검토가 필요할 수 있기 때문입니다.",
       "impactSignals": [],
       "dedupeKey": "trump-ai-datacenter-electricity-pledge",
       "clusterKey": "에너지/대통령",
@@ -291,12 +345,12 @@
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 핵심 내용을 잘 요약했습니다. / 근거부족",
+      "qualityReason": "제목과 본문이 일치하며, 내용이 간결하고 명확합니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-03-09_11",
+      "id": "2026-03-09_13",
       "date": "2026-03-09",
       "category": "경제",
       "title": "데이터 센터 붐으로 개인소비지출(PCE) 인플레이션의 전기료 비중 증가 예상",
@@ -304,8 +358,8 @@
         "댈러스 연방준비은행은 데이터 센터 붐으로 인해 개인소비지출(PCE) 인플레이션의 전기료 비중이 증가할 것으로 예상했다.",
         "데이터 센터의 전력 소비 증가가 인플레이션에 영향을 미칠 수 있다는 분석이다."
       ],
-      "whyImportant": "데이터 센터 증가가 경제에 미치는 잠재적 영향",
-      "importanceRationale": "근거: 데이터 센터의 전력 소비 증가는 인플레이션에 영향을 줄 수 있으며, 이는 경제 정책 결정에 중요한 요소가 될 수 있다.",
+      "whyImportant": "데이터 센터 증가가 인플레이션에 미치는 잠재적 영향을 강조합니다.",
+      "importanceRationale": "근거: 데이터 센터의 전력 소비 증가는 경제 전반의 물가 상승에 영향을 줄 수 있으며, 이는 경제 정책 결정에 중요한 고려 사항입니다.",
       "impactSignals": [],
       "dedupeKey": "data_center_pce_inflation",
       "clusterKey": "금융/boom",
@@ -318,53 +372,21 @@
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 내용이 일치하며, 핵심 내용을 잘 요약했습니다. / 근거부족",
+      "qualityReason": "제목과 내용이 일치하며, 정보가 간결하고 명확합니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-03-09_12",
-      "date": "2026-03-09",
-      "category": "경제",
-      "title": "주요 사실: 휴렛팩커드 엔터프라이즈, 3월 9일 4분기 실적 발표; 19.1% 매출 성장 예상",
-      "summary": [
-        "휴렛팩커드 엔터프라이즈(HPE)는 3월 9일에 4분기 실적을 발표할 예정이다.",
-        "매출은 19.1% 성장할 것으로 예상된다."
-      ],
-      "whyImportant": "HPE의 실적 발표는 기술 산업의 건전성을 나타내는 지표가 될 수 있다.",
-      "importanceRationale": "근거: HPE의 매출 성장률은 IT 인프라 및 서비스에 대한 수요를 반영하며, 이는 관련 기업들의 투자 결정에 영향을 미칠 수 있다.",
-      "impactSignals": [
-        {
-          "label": "earnings",
-          "evidence": "휴렛팩커드 엔터프라이즈의 4분기 실적 발표 예정"
-        }
-      ],
-      "dedupeKey": "HPE_Q4_Earnings_March_9",
-      "clusterKey": "enterprise",
-      "matchedTo": null,
-      "sourceName": "TradingView",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNbVNkZlpYZFBmSExIaDJ3eDBEX1FHRkhkN0NYa1BoZGd4WmdiNTFYWmZXV2FlN29jUzR4Z2UtTVhKMy1scGExczRIZzhfR2RSa1ZRUGRJYkpEd0pJcDl1U0pqRWtDVGc3UjdIZHlBVHBjNVN4OGJDN05RX3c5V1QyMnZnRWRyS1dEaE9PY0xETWFLaEVPaGhKWENKaXJmUnlORE1Wa2tiY2NKQUN2Y3duVngwOWdLQUltc3l0OTdxekRmMzJGSktPLUdNVlNGNndsVUlIeW55SFU5QXJQanpYcHVIeWY?oc=5",
-      "publishedAt": "2026-03-08T20:02:58.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 3.5,
-      "importanceRaw": 63,
-      "qualityLabel": "ok",
-      "qualityReason": "The article provides factual information about an upcoming earnings report.",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-03-09_13",
+      "id": "2026-03-09_14",
       "date": "2026-03-09",
       "category": "기술",
       "title": "실적 발표, 영업권 손상, 배당 재확인 후 Stepan(SCL) 가치 평가 분석",
       "summary": [
         "Stepan(SCL)의 실적 발표 후 가치 평가에 대한 분석이 나왔습니다.",
-        "이번 분석은 영업권 손상과 배당 재확인을 반영했습니다."
+        "이번 분석은 영업권 손상과 배당 재확인을 고려했습니다."
       ],
-      "whyImportant": "Stepan의 재무적 건전성과 투자 매력도를 평가하는 데 중요합니다.",
-      "importanceRationale": "근거: 실적 발표, 영업권 손상, 배당 정책은 기업 가치에 직접적인 영향을 미치므로 투자자에게 중요한 정보입니다.",
+      "whyImportant": "기업의 재무 상태와 투자 매력도를 평가하는 데 중요한 정보입니다.",
+      "importanceRationale": "근거: 실적 발표, 영업권 손상, 배당 정책은 기업 가치에 직접적인 영향을 미치므로 투자자에게 중요한 지표가 됩니다.",
       "impactSignals": [],
       "dedupeKey": "SCL_earnings_valuation",
       "clusterKey": "after",
@@ -377,33 +399,65 @@
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 텍스트가 일치하며, 정보가 명확합니다. / 근거부족",
+      "qualityReason": "제목과 텍스트가 일치하며, 정보가 간결하게 제공됨. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-03-09_14",
+      "id": "2026-03-09_15",
       "date": "2026-03-09",
-      "category": "경제",
-      "title": "리버티 라이브, 추적 주식 데뷔 후 첫 실적 발표 임박",
+      "category": "기술",
+      "title": "헬스테크 스타트업 임파워 헬스, 신임 CEO 선임 및 50만 달러 벤처 자금 조달",
       "summary": [
-        "리버티 라이브가 추적 주식 데뷔 후 첫 실적 발표를 앞두고 있습니다."
+        "헬스테크 스타트업 임파워 헬스가 새로운 CEO를 선임했습니다.",
+        "50만 달러의 벤처 캐피탈 자금 조달에도 성공했습니다."
       ],
-      "whyImportant": "리버티 라이브의 실적은 투자자들에게 중요한 정보입니다.",
-      "importanceRationale": "근거: 기업의 실적 발표는 주가에 직접적인 영향을 미치며, 투자 결정에 중요한 지표가 됩니다.",
+      "whyImportant": "임파워 헬스의 성장 가능성을 보여주는 지표입니다.",
+      "importanceRationale": "근거: 신임 CEO 선임과 벤처 자금 유치는 기업 성장의 중요한 동력입니다.",
       "impactSignals": [],
-      "dedupeKey": "liberty-live-earnings-announcement",
-      "clusterKey": "데뷔",
+      "dedupeKey": "Impower Health CEO funding",
+      "clusterKey": "금융/builds",
       "matchedTo": null,
-      "sourceName": "Investing.com 한국어",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBkeHRwOHJJRjlkcVZkaGQ2cHJuNndRRklIVU9hQXRiMkROelVBaHNBOFNOa24wZTNRaWtEcE5BZWRETWVVcWIyTlFyWnVUdzRBbkJOUV9pNTlBNjl0dXR2NXdual9FdjhOdXRN?oc=5",
-      "publishedAt": "2026-03-08T13:51:00.000Z",
+      "sourceName": "Silicon Prairie News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPQ0hYcXdaOW45Q3d6ZE0tSUpVSm9CbGpjaDVhYkFtdUhmeUhzcXJWWWFVVjFaQ3FFVkZtVTV4OURSM0xZVUIwRWQ4U0huZFFzcWV2VmNfekVQcENQU21VLUY0TDllWGY2SUh3ZGhZTEJOTlNsbXlyS1BMVlB6VnVockpSci1uOUpib2xqZUU4RHprbXJRTVoxaTlzUE5SU1NkYnJWZEs5NjhEa2lmb3ZHZVktOXdpempyUUV0OFBUMHVfSWtyZVBnYzJ5QXlodXhQU1ZMVw?oc=5",
+      "publishedAt": "2026-03-06T15:00:00.000Z",
       "readTimeSec": 10,
       "status": "kept",
       "importance": 2,
-      "importanceRaw": 63,
+      "importanceRaw": 50,
       "qualityLabel": "ok",
-      "qualityReason": "기사 내용이 간결하고 명확함. / 근거부족",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었습니다. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-03-09_16",
+      "date": "2026-03-09",
+      "category": "에너지",
+      "title": "성광벤드, 2026년 LNG 프로젝트 수요 확보 기대",
+      "summary": [
+        "성광벤드는 2026년 LNG 프로젝트 수요 확보를 기대하고 있다."
+      ],
+      "whyImportant": "LNG 프로젝트 관련 수요 증가 가능성",
+      "importanceRationale": "근거: 성광벤드가 2026년 LNG 프로젝트 수요 확보를 기대한다고 철강금속신문이 보도함.",
+      "impactSignals": [
+        {
+          "label": "market-demand",
+          "evidence": "2026년 LNG 프로젝트 수요 확보 기대"
+        }
+      ],
+      "dedupeKey": "성광벤드, 2026년 LNG 프로젝트 수요 확보 기대",
+      "clusterKey": "2026년",
+      "matchedTo": null,
+      "sourceName": "철강금속신문",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBJQ0NmNGdJdUt4WkFybE9qbHRkcEljNTBadER6UF9EVnpyZkZmSnI1czFnRkd5QkJodmJ2Uk5WSmZsS0VEUkxhdGRsN2taS3E5UUtLRlBvVjZIWWo5T2c1UjhFWHJOa05E?oc=5",
+      "publishedAt": "2026-03-07T08:08:44.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 3,
+      "importanceRaw": 50,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약됨.",
       "isBriefing": false,
       "isBreaking": false
     }
