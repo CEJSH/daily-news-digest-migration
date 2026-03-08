@@ -3,7 +3,7 @@
   "selectionCriteria": "① 내일도 영향이 남는 이슈 ② 과도한 감정 소모 제외 ③ 어제와 중복되는 뉴스 제외",
   "editorNote": "이 뉴스는 클릭 수가 아니라 오늘 이후에도 남는 정보만 기준으로 편집했습니다.",
   "question": "정보를 덜 보는 것이 오히려 더 똑똑한 소비일까?",
-  "lastUpdatedAt": "2026-03-09T07:20:40.659+09:00",
+  "lastUpdatedAt": "2026-03-09T08:21:03.911+09:00",
   "items": [
     {
       "id": "2026-03-09_1",
@@ -15,7 +15,7 @@
         "규제, 반도체, 데이터센터가 글로벌 산업 판도를 재편하고 있습니다."
       ],
       "whyImportant": "AI 경쟁 심화와 관련된 규제, 반도체, 데이터센터의 중요성을 강조합니다.",
-      "importanceRationale": "근거: AI 패권 경쟁의 심화는 관련 산업에 대한 규제 강화, 반도체 기술 경쟁 심화, 데이터센터 투자 확대를 야기하며, 이는 글로벌 산업 판도에 큰 영향을 미치기 때문입니다.",
+      "importanceRationale": "근거: AI 패권 경쟁의 심화는 관련 산업에 대한 규제 강화, 반도체 기술 경쟁 심화, 데이터센터 투자 확대로 이어지며 글로벌 산업 지형에 큰 영향을 미칩니다.",
       "impactSignals": [
         {
           "label": "policy",
@@ -43,14 +43,13 @@
       "category": "정책",
       "title": "AI 전력 비용은 누가 부담하나? 캘리포니아 감시 단체, 새로운 데이터 센터 규정 촉구",
       "summary": [
-        "캘리포니아 감시 단체가 AI 전력 사용량 증가에 따른 데이터 센터 규정 강화를 촉구했다.",
-        "이는 AI 기술 발전에 따른 전력 소비 문제에 대한 우려를 반영한다.",
-        "새로운 규정은 데이터 센터의 에너지 효율성을 높이고, 전력 사용에 대한 책임을 강화하는 데 초점을 맞출 것으로 예상된다."
+        "캘리포니아 감시 단체가 AI 전력 사용량 증가에 따른 새로운 데이터 센터 규정을 촉구했습니다.",
+        "이는 AI 기술 발전에 따른 전력 소비 문제에 대한 우려를 반영합니다."
       ],
-      "whyImportant": "AI 기술 발전과 데이터 센터 확장에 따른 전력 소비 증가에 대한 규제 논의는 에너지 정책 및 관련 산업에 중요한 영향을 미친다.",
-      "importanceRationale": "근거: 캘리포니아는 AI 기술의 중심지로서, 이곳의 데이터 센터 규정 변화는 다른 지역에도 영향을 줄 수 있다. 정책(policy) 및 자본 지출(capex) 관련 논의가 활발하게 이루어질 수 있다.",
+      "whyImportant": "AI 기술 발전과 데이터 센터 운영에 대한 정책적 논의를 촉발할 수 있습니다.",
+      "importanceRationale": "근거: 캘리포니아 감시 단체의 규정 촉구는 AI 전력 소비 문제에 대한 정책적 대응의 필요성을 제기하며, 데이터 센터 투자 및 운영 방식에 영향을 미칠 수 있습니다.",
       "impactSignals": [],
-      "dedupeKey": "AI_power_California_datacenter_rules",
+      "dedupeKey": "AI_power_California_watchdog_data_center_rules",
       "clusterKey": "에너지/california",
       "matchedTo": null,
       "sourceName": "CalMatters",
@@ -59,9 +58,9 @@
       "readTimeSec": 10,
       "status": "kept",
       "importance": 2,
-      "importanceRaw": 75,
+      "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 내용이 일치하며, 요약이 명확하다. / 근거부족",
+      "qualityReason": "기사 제목과 내용이 일치하며, 핵심 내용을 잘 요약했습니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -75,9 +74,9 @@
         "연합뉴스 한민족센터에서 관련 소식을 보도했다."
       ],
       "whyImportant": "정부 차원에서 AI 전환을 지원함으로써 공공 서비스 혁신과 효율성 증대가 기대된다.",
-      "importanceRationale": "근거: 과기정통부와 행안부가 협력하여 범정부 AI 전환을 지원하는 것은 정부 정책의 중요한 변화를 의미한다.",
+      "importanceRationale": "근거: 과기정통부와 행안부가 협력하여 범정부 AI 전환을 지원하는 정책적 움직임은 공공 부문의 디지털 전환을 가속화하고, AI 기술의 활용을 촉진할 수 있기 때문이다.",
       "impactSignals": [],
-      "dedupeKey": "AI 전환 지원, 과기정통부·행안부",
+      "dedupeKey": "AI_TRANSFORMATION_GOV_SUPPORT",
       "clusterKey": "과기정통부",
       "matchedTo": null,
       "sourceName": "연합뉴스 한민족센터",
@@ -95,15 +94,48 @@
     {
       "id": "2026-03-09_4",
       "date": "2026-03-09",
+      "category": "국제",
+      "title": "반도체 장비 소재 이트륨 가격 1년 만에 140배 상승, 중국 희토류 수출 통제 영향",
+      "summary": [
+        "반도체 장비 소재로 사용되는 이트륨 가격이 1년 만에 140배 상승했다.",
+        "이는 중국의 희토류 수출 통제로 인한 공급 불안정 때문으로 분석된다."
+      ],
+      "whyImportant": "이트륨 가격 급등은 반도체 장비 제조 비용 상승으로 이어져 반도체 산업 전반에 영향을 미칠 수 있다.",
+      "importanceRationale": "근거: 이트륨은 반도체 장비의 핵심 소재이며, 가격 급등은 생산 비용 증가를 초래하여 반도체 산업에 직접적인 영향을 줄 수 있다. 중국의 희토류 수출 통제는 공급망 불안정을 심화시켜 가격 상승을 더욱 부추길 수 있다.",
+      "impactSignals": [
+        {
+          "label": "market-demand",
+          "evidence": "반도체 장비 소재 이트륨 가격 1년 만에 140배 상승"
+        }
+      ],
+      "dedupeKey": "이트륨 가격 급등, 중국 희토류 수출 통제",
+      "clusterKey": "반도체/140배",
+      "matchedTo": null,
+      "sourceName": "비즈니스포스트",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1WY2ZPeG45RTV3R21qcXBHMnpqczBKUVphSm8yOUE4R2gwTDVNX0t6OFdRVUxKa3ZudmEtMmFKRHVGcHcyRzBIMFpucTVJOUxjRDhvTU1wRUc3NmNQZUQ0Rzg0bGhGYWFIWE9PaGxkZnJycTQ?oc=5",
+      "publishedAt": "2026-03-06T02:36:35.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 4,
+      "importanceRaw": 75,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 본문이 일치하며, 핵심 내용을 잘 요약했습니다.",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-03-09_5",
+      "date": "2026-03-09",
       "category": "정책",
       "title": "베트남 일부 특구, 제16대 국회 및 각급 인민의회 의원 조기 선거 실시",
       "summary": [
-        "베트남 일부 특구에서 제16대 국회 및 각급 인민의회 의원 조기 선거가 실시됩니다."
+        "베트남 일부 특구에서 제16대 국회 및 각급 인민의회 의원 조기 선거가 실시됩니다.",
+        "이는 베트남의 정치적 결정에 따른 것입니다."
       ],
-      "whyImportant": "베트남의 정치적 의사 결정 과정에 영향을 미칩니다.",
-      "importanceRationale": "근거: 일부 특구에서 국회 및 인민의회 의원 조기 선거가 실시됨으로써 해당 지역의 정책 결정과 대표성에 변화가 예상됩니다.",
+      "whyImportant": "베트남의 정치적 변화를 보여주는 중요한 사건입니다.",
+      "importanceRationale": "근거: 베트남의 국회 및 인민의회 의원 선거는 국가 정책 결정에 중요한 영향을 미치기 때문입니다.",
       "impactSignals": [],
-      "dedupeKey": "베트남_조기선거_20240130",
+      "dedupeKey": "vietnam-early-election-20240130",
       "clusterKey": "각급",
       "matchedTo": null,
       "sourceName": "the voice of vietnam",
@@ -112,22 +144,23 @@
       "readTimeSec": 10,
       "status": "kept",
       "importance": 2,
-      "importanceRaw": 50,
+      "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 내용이 일치하며, 간결하게 요약되었습니다. / 근거부족",
+      "qualityReason": "제목과 본문이 일치하며, 정보가 명확합니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-03-09_5",
+      "id": "2026-03-09_6",
       "date": "2026-03-09",
       "category": "기술",
-      "title": "Apple, MacBook Neo 출시 후 'Ultra' 제품 확장 예정",
+      "title": "애플, 맥북 네오 출시 후 '울트라' 제품 확장 예정",
       "summary": [
-        "Apple이 MacBook Neo 출시 후 'Ultra' 제품 라인 확장을 계획하고 있다고 Bloomberg.com이 보도했습니다."
+        "애플이 맥북 네오 출시 이후 '울트라' 제품 라인 확장을 준비 중이다.",
+        "블룸버그 통신이 이 소식을 보도했다."
       ],
-      "whyImportant": "Apple의 고성능 제품 전략 방향을 보여주는 신호입니다.",
-      "importanceRationale": "근거: Apple이 'Ultra'라는 새로운 제품군을 확장하려는 움직임은 고성능을 요구하는 사용자층을 겨냥한 투자를 의미하며, 이는 회사의 Capex 전략과 관련됩니다.",
+      "whyImportant": "애플의 고성능 제품 전략 변화를 보여주는 신호탄이다.",
+      "importanceRationale": "근거: 애플이 '울트라' 라인업을 확장하여 고성능 컴퓨팅 시장에서의 입지를 강화하려는 움직임을 시사한다.",
       "impactSignals": [],
       "dedupeKey": "apple_ultra_expansion_2024",
       "clusterKey": "after",
@@ -138,27 +171,117 @@
       "readTimeSec": 10,
       "status": "kept",
       "importance": 2,
-      "importanceRaw": 50,
+      "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 간결하게 핵심 내용을 전달합니다. / 근거부족",
+      "qualityReason": "제목과 본문이 일치하며, 간결하게 핵심 내용을 전달한다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-03-09_6",
+      "id": "2026-03-09_7",
+      "date": "2026-03-09",
+      "category": "기술",
+      "title": "글로벌 연합, 초기 접근 및 대규모 온라인 사칭의 주요 동인인 Tycoon 2FA 방해",
+      "summary": [
+        "글로벌 연합이 초기 접근 및 대규모 온라인 사칭의 주요 동인인 Tycoon 2FA를 방해했습니다.",
+        "이번 조치는 온라인 보안을 강화하는 데 기여할 것으로 예상됩니다."
+      ],
+      "whyImportant": "Tycoon 2FA 방해는 온라인 사칭 및 초기 접근 공격을 줄이는 데 중요합니다.",
+      "importanceRationale": "근거: Tycoon 2FA는 초기 접근 및 대규모 온라인 사칭의 주요 동인이었으며, 이를 방해함으로써 온라인 보안을 강화할 수 있습니다.",
+      "impactSignals": [
+        {
+          "label": "security",
+          "evidence": "Tycoon 2FA 방해로 온라인 사칭 및 초기 접근 공격 감소 기대"
+        }
+      ],
+      "dedupeKey": "tycoon2fa_disrupted",
+      "clusterKey": "2fa",
+      "matchedTo": null,
+      "sourceName": "The Official Microsoft Blog",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONW5tQ0dpX2VDOG5jd0lVY2hFMGVvVWFMTS1GUl9OMmNlY2hNSW1tOF94MVVHRWUtUmU5M1oxNnpwQUlTcTdNSTZCdXBfbDhQS0hBZjA1X25zYVh2WjZFNmZlUjFDSUF1VUFJTWluS3lmOHM3bkF6T3JJQzFEeDNuUzhOQTA3T3RhRDJQajZuc096QmdlSkxzXw?oc=5",
+      "publishedAt": "2026-03-04T16:04:33.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 4,
+      "importanceRaw": 75,
+      "qualityLabel": "ok",
+      "qualityReason": "The article provides a clear and concise summary of an event.",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-03-09_8",
+      "date": "2026-03-09",
+      "category": "경제",
+      "title": "외국인, 차익 실현 후 건설주 매수한 이유는?",
+      "summary": [
+        "외국인이 차익 실현 후 건설주를 매수했다는 소식입니다.",
+        "자세한 이유는 아직 알려지지 않았습니다."
+      ],
+      "whyImportant": "외국인 투자자의 건설주 매수 배경을 파악하는 것이 중요합니다.",
+      "importanceRationale": "근거: 외국인 투자자의 투자 동향은 시장에 중요한 영향을 미치며, 건설주 매수 배경에 따라 추가적인 투자 또는 시장 변화를 예측할 수 있습니다.",
+      "impactSignals": [
+        {
+          "label": "capex",
+          "evidence": "외국인 투자자의 건설주 매수는 건설 경기 활성화에 대한 기대를 반영할 수 있습니다."
+        }
+      ],
+      "dedupeKey": "외국인건설주매수",
+      "clusterKey": "건설주",
+      "matchedTo": null,
+      "sourceName": "한국경제",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBfR1E4OHdaZHRTOHA5TXJRZXptMURsbVVnTm1SZWpGb1YxbjN1RG53NldEZGRETmlIaDQ0TlE1YXFjV0dNcDFoVVExcTFndWhFR2tFQUNRSW9yQdIBVEFVX3lxTFA3dFVBcTY0MUdzSWlWcVZRM29OTlVLcUF2QUQwVFFUVnN5NGRBVW5lbTBMSTd6ZkUtQ1ZURU1VMjlJRWlRVXZqWUV6RmQ0N3YxbVMyYQ?oc=5",
+      "publishedAt": "2026-03-08T22:42:13.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 3,
+      "importanceRaw": 50,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 본문이 일치하며, 정보가 간결하게 요약되어 있습니다.",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-03-09_9",
+      "date": "2026-03-09",
+      "category": "경제",
+      "title": "BGF리테일, 편의점 업황 회복 시 최대 수혜 전망 - 상상인",
+      "summary": [
+        "상상인은 BGF리테일이 편의점 업황 회복 시 최대 수혜를 볼 것으로 전망했다."
+      ],
+      "whyImportant": "BGF리테일의 향후 실적에 대한 긍정적 전망을 제시합니다.",
+      "importanceRationale": "근거: 상상인의 분석을 바탕으로 BGF리테일이 편의점 업황 회복 시 최대 수혜를 받을 것으로 예상되기 때문입니다.",
+      "impactSignals": [],
+      "dedupeKey": "BGF리테IL_CONVENIENCE_STORE_RECOVERY",
+      "clusterKey": "bgf리테일",
+      "matchedTo": null,
+      "sourceName": "한국경제",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBVVVY1LXB0Qm9Ld2pnaVd6NGxrRF9XOFZBbFl0OW5PQmJFTUZOOHlhOW5PZUtMTXRWeHJCVmZteGFPbktzUk5Ka3ltS3Jia0N5M2JBa0E5OVY0d9IBVEFVX3lxTFA5MnEzVUJUampqQWxnMHNaQ2ZyM2dYSFNMZUQwSWZsWXhjQ1FyWWdWWWNnUlZ4QjhXSjlIenRVNFN6Nkk1Y3NreV9iVzZaU2RaMFFDMw?oc=5",
+      "publishedAt": "2026-03-08T23:07:44.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 63,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되어 있습니다. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-03-09_10",
       "date": "2026-03-09",
       "category": "정책",
       "title": "미국, 엔비디아, AMD의 글로벌 AI 칩 판매에 대한 허가 요구 고려",
       "summary": [
-        "미국이 엔비디아와 AMD의 글로벌 AI 칩 판매에 대한 허가 요구를 고려하고 있다고 블룸버그가 보도했다.",
-        "이는 해당 기업들의 AI 칩 판매에 영향을 미칠 수 있다."
+        "미국 정부가 엔비디아와 AMD의 글로벌 AI 칩 판매에 대한 허가 요구를 고려하고 있다고 블룸버그가 보도했다.",
+        "이는 AI 칩 시장에 영향을 미칠 수 있는 정책 변화로 보인다."
       ],
-      "whyImportant": "미국의 규제 강화 가능성은 AI 칩 시장에 큰 영향을 미칠 수 있습니다.",
-      "importanceRationale": "근거: 엔비디아와 AMD는 AI 칩 시장의 주요 공급업체이며, 이들의 글로벌 판매에 대한 허가 요구는 시장의 수요와 공급에 직접적인 영향을 줄 수 있기 때문입니다.",
+      "whyImportant": "미국 정부의 AI 칩 수출 통제 강화 가능성",
+      "importanceRationale": "근거: 엔비디아와 AMD는 AI 칩 시장의 주요 기업이며, 이들의 글로벌 판매에 대한 허가 요구는 시장 수요에 직접적인 영향을 미칠 수 있다.",
       "impactSignals": [
         {
           "label": "market-demand",
-          "evidence": "엔비디아와 AMD의 AI 칩 판매에 대한 허가 요구는 시장 수요에 직접적인 영향을 줄 수 있음"
+          "evidence": "엔비디아와 AMD의 AI 칩 판매에 대한 허가 요구는 시장 수요에 직접적인 영향을 미칠 수 있다."
         }
       ],
       "dedupeKey": "US_AI_CHIP_PERMIT",
@@ -172,120 +295,44 @@
       "importance": 4,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 간결하게 요약되었습니다.",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-03-09_7",
-      "date": "2026-03-09",
-      "category": "정책",
-      "title": "서울시교육청, '인간 중심 AI 교육' 가이드라인 배포... 안전한 공교육 도입 모색",
-      "summary": [
-        "서울시교육청이 '인간 중심 AI 교육' 가이드라인을 배포했습니다.",
-        "이는 안전한 공교육 도입을 모색하기 위함입니다."
-      ],
-      "whyImportant": "서울시 교육청의 AI 교육 방향성을 제시합니다.",
-      "importanceRationale": "근거: 서울시교육청이 AI 교육 가이드라인을 배포하여 공교육에 AI를 안전하게 도입하려는 움직임을 보이고 있기 때문입니다.",
-      "impactSignals": [],
-      "dedupeKey": "서울시교육청, '인간 중심 AI 교육' 가이드라인 배포",
-      "clusterKey": "가이드라인",
-      "matchedTo": null,
-      "sourceName": "교육을 비추다",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9PQTFBRUJUWVcxLW1TZDViWWptYTFadGhwcmU1Q3V5Q1Rha2ZDYkt2RUgzaDZIVEtzUFhIWlRGWmc3R3VHR0dsTHBVdXR2OGd1NTNabDFkczBTSDhmVlBVRTVEZkZOQQ?oc=5",
-      "publishedAt": "2026-03-08T15:53:05.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 63,
-      "qualityLabel": "ok",
-      "qualityReason": "기사 내용이 명확하고 간결합니다. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-03-09_8",
-      "date": "2026-03-09",
-      "category": "경제",
-      "title": "너도 나도 '두쫀쿠' 판매 후 작년 4분기 베이커리 매출 급증",
-      "summary": [
-        "작년 4분기에 '두쫀쿠' 판매가 늘면서 베이커리 매출이 크게 증가했습니다.",
-        "많은 업체들이 '두쫀쿠' 판매에 뛰어들었습니다."
-      ],
-      "whyImportant": "베이커리 업계의 매출 변화를 보여주는 지표입니다.",
-      "importanceRationale": "근거: '두쫀쿠'라는 특정 제품의 판매가 베이커리 전체 매출에 상당한 영향을 미쳤다는 것을 나타냅니다.",
-      "impactSignals": [],
-      "dedupeKey": "20240118-두쫀쿠매출",
-      "clusterKey": "4분기",
-      "matchedTo": null,
-      "sourceName": "한국경제",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE54R0pySzZMVmFfemdxTFhremVSMklZTEVkd0ZzaWdqdTQ0UF9BQVo4MVVSd2xXZWZTWG9CWmNvaW5FN2Fmd3hTVHJFUTlWWjRqWDdMcFlvd2dkd9IBVEFVX3lxTFBkTG1IcVVob1puWFc4MC1kdFJvTkxfRDByMDdaa3pnb1F3WnlhQzVGMVRVeUpTVFJvWWZHSUFDNHE2dEkteThvV2REUzBxOW1GNTQtZQ?oc=5",
-      "publishedAt": "2026-03-08T21:43:59.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 50,
-      "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 핵심 내용을 요약했습니다. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-03-09_9",
-      "date": "2026-03-09",
-      "category": "국제",
-      "title": "구글, 인앱 결제 수수료 인하… K-게임 실적 회복에 청신호",
-      "summary": [
-        "구글이 인앱 결제 수수료를 인하하여 국내 게임 업계의 수수료 부담이 줄어들 것으로 예상된다.",
-        "이번 조치는 K-게임의 실적 회복에 긍정적인 영향을 미칠 것으로 보인다."
-      ],
-      "whyImportant": "구글의 인앱 결제 수수료 인하는 국내 게임 업계의 수익성에 직접적인 영향을 미치므로 중요하다.",
-      "importanceRationale": "근거: 구글의 수수료 정책 변경은 게임 개발사의 수익 구조에 큰 영향을 미치며, 이는 곧 실적 개선으로 이어질 수 있기 때문이다.",
-      "impactSignals": [],
-      "dedupeKey": "google_app_fee_reduction_kgame",
-      "clusterKey": "게임",
-      "matchedTo": null,
-      "sourceName": "CEO스코어데일리",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBhbzNsQ0RGQks0NTlEc2RnSEY5bzJBaWZBWHNqa1ZGMFdWSWdlbzZxOVd0TTRiZWFrUERMUkhPSVhKU0tpZDdmSXlYb25SSFAxc3hndTdqNDF5RFFTdmp0bUJYeGMzdmhv?oc=5",
-      "publishedAt": "2026-03-08T22:00:00.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 75,
-      "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 핵심 내용을 잘 요약했습니다. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-03-09_10",
-      "date": "2026-03-09",
-      "category": "국제",
-      "title": "중국 JD.com, 보조금 효과 감소로 매출 추정치 하회",
-      "summary": [
-        "중국의 전자상거래 기업 JD.com이 매출 추정치를 하회했다.",
-        "이는 보조금 효과가 줄어들었기 때문으로 분석된다."
-      ],
-      "whyImportant": "JD.com의 실적 부진은 중국 전자상거래 시장의 성장 둔화를 시사할 수 있습니다.",
-      "importanceRationale": "근거: JD.com은 중국 주요 전자상거래 기업 중 하나이며, 실적은 시장 전반의 상황을 반영하는 지표가 될 수 있습니다.",
-      "impactSignals": [],
-      "dedupeKey": "JD.com_revenue_miss_2024",
-      "clusterKey": "boost",
-      "matchedTo": null,
-      "sourceName": "Reuters",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNN2xRNlp6Zll6S0o4aDAzOXdpVGpNMG9HVHZjalUtUFNBWTBZaGtWVnE0cEFPb3lnOC1sWXozUXZ4OC03U0Z5cTNlaUp4Xy1nbjViOV9wZGRNdTRJRS1kMWRiTXJvRTY3aWktcGN4WWlOeWx4NGFOeWpfZ1E2UHhtUTU3aEFQSGN6b1NfUHZSVVZsVnptYlNlcTVOTnc3UFo0SG5SMXhURmFLbUE5?oc=5",
-      "publishedAt": "2026-03-05T10:06:59.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 63,
-      "qualityLabel": "ok",
-      "qualityReason": "기사 내용이 명확하고 간결하게 작성되었습니다. / 근거부족",
+      "qualityReason": "기사 제목과 내용이 일치하며, 핵심 내용을 잘 요약했습니다.",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-03-09_11",
+      "date": "2026-03-09",
+      "category": "정책",
+      "title": "베트남 화장품 관리 규정 전면 개편… 7월부터 신규 시행령 적용",
+      "summary": [
+        "베트남의 화장품 관리 규정이 전면 개편되어 7월부터 새로운 시행령이 적용될 예정입니다.",
+        "이번 개편은 베트남 화장품 산업에 큰 영향을 미칠 것으로 예상됩니다."
+      ],
+      "whyImportant": "베트남 화장품 시장 진출 기업은 새로운 규정을 준수해야 합니다.",
+      "importanceRationale": "근거: 베트남의 화장품 관리 규정 변경은 해당 시장에 진출한 기업들의 정책 준수 및 사업 전략에 영향을 미치므로 중요합니다.",
+      "impactSignals": [
+        {
+          "label": "policy",
+          "evidence": "베트남 화장품 관리 규정의 전면 개편 및 7월부터의 신규 시행령 적용"
+        }
+      ],
+      "dedupeKey": "vietnam_cosmetics_regulation_revamp_july_2024",
+      "clusterKey": "7월부터",
+      "matchedTo": null,
+      "sourceName": "금융경제플러스",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ULUEtZmJuWVpyYmNsaHdOR1BVeFpFVWdIOGkwUTZTRjdNRFI2dUpwdTBwcEwzYVZNMG5iZ3hXWFZDOV9SZFFUaC05ZTBuQTNDRF9OY2Uzd1dtcjczZjhXd3g1TmhRSjdtbTJfRg?oc=5",
+      "publishedAt": "2026-03-08T22:25:06.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 3.5,
+      "importanceRaw": 63,
+      "qualityLabel": "ok",
+      "qualityReason": "기사 내용이 명확하고 정책 변화에 대한 정보를 제공합니다.",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-03-09_12",
       "date": "2026-03-09",
       "category": "경제",
       "title": "HD건설기계, 엔진 사업 확대를 위해 올해 투자 1500억원으로 증액",
@@ -311,23 +358,23 @@
       "isBreaking": false
     },
     {
-      "id": "2026-03-09_12",
+      "id": "2026-03-09_13",
       "date": "2026-03-09",
       "category": "경제",
       "title": "데이터 센터 붐으로 개인소비지출(PCE) 인플레이션의 전기료 비중 증가 예상",
       "summary": [
         "댈러스 연방준비은행은 데이터 센터 붐으로 인해 개인소비지출(PCE) 인플레이션의 전기료 비중이 증가할 것으로 예상했다.",
-        "데이터 센터의 전력 소비 증가가 인플레이션에 영향을 미칠 수 있다는 분석이다."
+        "데이터 센터의 증가가 전기 소비를 늘려 인플레이션에 영향을 미칠 수 있다는 분석이다."
       ],
-      "whyImportant": "데이터 센터 증가가 인플레이션에 미치는 잠재적 영향을 시사한다.",
-      "importanceRationale": "근거: 댈러스 연방준비은행의 분석에 따르면 데이터 센터 붐으로 인해 전기료가 PCE 인플레이션에 미치는 영향이 커질 수 있다.",
+      "whyImportant": "데이터 센터 증가가 인플레이션에 미치는 잠재적 영향",
+      "importanceRationale": "근거: 데이터 센터 붐으로 인한 전기 소비 증가가 PCE 인플레이션의 전기료 비중을 높일 수 있다는 댈러스 연방준비은행의 분석.",
       "impactSignals": [
         {
           "label": "capex",
-          "evidence": "데이터 센터 건설 붐으로 인한 설비 투자 증가가 예상된다."
+          "evidence": "데이터 센터 건설 붐으로 인한 자본 지출 증가가 예상됨"
         }
       ],
-      "dedupeKey": "datacenter_pce_inflation",
+      "dedupeKey": "data_center_pce_inflation",
       "clusterKey": "금융/boom",
       "matchedTo": null,
       "sourceName": "Federal Reserve Bank of Dallas",
@@ -338,89 +385,62 @@
       "importance": 3.5,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "The article is a concise summary of a specific economic forecast.",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-03-09_13",
-      "date": "2026-03-09",
-      "category": "경제",
-      "title": "Snap의 4분기 실적 호조와 Snapchat+ 급증, 투자자들의 대응 필요?",
-      "summary": [
-        "Snap의 4분기 실적이 예상치를 상회했습니다.",
-        "Snapchat+ 가입자 수가 급증했습니다.",
-        "이러한 실적 호조가 투자자들에게 어떤 행동을 요구하는지 분석합니다."
-      ],
-      "whyImportant": "Snap의 실적 변화는 투자 전략에 영향을 미칠 수 있습니다.",
-      "importanceRationale": "근거: Snap의 4분기 실적 발표와 Snapchat+의 성장은 기업의 현재 상황과 미래 전망에 대한 중요한 지표를 제공합니다.",
-      "impactSignals": [],
-      "dedupeKey": "SNAP_Q4_EARNINGS_SURGE",
-      "clusterKey": "action",
-      "matchedTo": null,
-      "sourceName": "simplywall.st",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQaW5PTkV0WmplLXllUGlmV3pxMzYxWTVZVkdBOTREQnFTRF9JUk0yU3FzRkVaVmtYRjFCN25kUmVVUEpZZmpLb2drVXd2YklZa3V4dUxPcFQxR3c3aS1TY2NjZG1LQzhYM2FET0U3Nm9PVG1HN1NVSEZ4dWhYa3R4VXRFaE9XZmx1SEhPQUp1UGRvMlhSMmRpLTk2cEQxUmJ2QkkzSHJIN04zUDU3c1otamNmTUREYUh0M3fSAb8BQVVfeXFMUE1GbFpVVGt0ZkhlNEowNG16MjdDcXZ4R2hCOW1WSml4dlhXQnRjME9xdjhmTl8zSlk2MEd3c3NtdlpjaG9UelNYbEk2MkpzZTZvU0RIUEZWT2tnSlUzMzhiX1V1QVhETVRwVU1BRTZWMl91SVoyZS1CMFhRU1ViR25SSTNMSVlYcE9CTlNJVGJpQ2dQMVRkN3ZQTmVYbmt5eVJpc1hXdDZtdHVUWEFYODY0UjVlbGx4akJHeHFPcHM?oc=5",
-      "publishedAt": "2026-03-08T20:42:33.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 63,
-      "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 정보가 간결하게 제공됨. / 근거부족",
+      "qualityReason": "The article is a factual report from Federal Reserve Bank of Dallas.",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-03-09_14",
       "date": "2026-03-09",
-      "category": "기술",
-      "title": "실적 발표, 영업권 손상, 배당 재확인 후 Stepan(SCL) 가치 평가 분석",
+      "category": "국제",
+      "title": "구글, 인앱 결제 수수료 인하… K-게임 실적 회복에 청신호",
       "summary": [
-        "Stepan(SCL)의 실적 발표 후 가치 평가에 대한 분석이 나왔습니다.",
-        "이번 분석은 영업권 손상과 배당 재확인 이후의 상황을 반영합니다."
+        "구글이 인앱 결제 수수료를 인하한다.",
+        "K-게임 업계는 수수료 부담을 덜고 실적 회복에 대한 기대감이 높아지고 있다."
       ],
-      "whyImportant": "기업의 재무 상태와 투자 가치에 대한 정보를 제공합니다.",
-      "importanceRationale": "근거: 실적 발표, 영업권 손상, 배당 재확인은 기업의 현재 가치를 평가하는 데 중요한 요소입니다.",
+      "whyImportant": "구글의 인앱 결제 수수료 인하는 K-게임 업계의 수익성 개선에 긍정적인 영향을 미칠 수 있다.",
+      "importanceRationale": "근거: 구글의 인앱 결제 수수료 인하로 K-게임 기업들의 수수료 부담이 줄어들어 실적 개선에 도움이 될 수 있다는 내용이 기사에 명시되어 있음.",
       "impactSignals": [],
-      "dedupeKey": "SCL_earnings_valuation",
-      "clusterKey": "after",
+      "dedupeKey": "google_inapp_fee_cut_kgame",
+      "clusterKey": "게임",
       "matchedTo": null,
-      "sourceName": "simplywall.st",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcUF6VWJIQ25ab1dkdmtTemF2TURnaWtsRE9EYUwtTGMwSkhIY21FWlJOZHV6aUdwVmUwNkxvVWUtR3pSdVJtMTlwd0RPZXZXakFjTXRFZU1zVnAySk04TDhCb204bmlCUHVGSXBoS2JLT254X1NJa1J1MnkzNXpHakNOU2h3c1dHZjViOWpNRkR5dERFd3QtTnZYQ0JwRzFjWU96b0F0aFFURkdGYVN1eDFFUHplR2k1OXY4X19mRTDSAcYBQVVfeXFMTUlzQTBPRjlfendJZTNLTjBoSGxjdVFscVBrNE5sWVpvUUcxMkQ3bG1JdmFDUTBEemJkemo0emdBbkFBWnAyaUdYb2Y4bmtDeTVPMmlrcmsyTTkxaUFGaFRURGh3UlJMN2Vuc1JpaURpTTlraDkwOHhIR2dTeHFJNE9YZnVtcllDaEVqQ0xEbGk2T3VLcW50ZFRqeVRKSktkVndDN2o1dTcyVHlScDctbjluUnFzVmhXb3V4d0pBdXBvbld6RkF3?oc=5",
-      "publishedAt": "2026-03-08T18:25:38.000Z",
+      "sourceName": "CEO스코어데일리",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBhbzNsQ0RGQks0NTlEc2RnSEY5bzJBaWZBWHNqa1ZGMFdWSWdlbzZxOVd0TTRiZWFrUERMUkhPSVhKU0tpZDdmSXlYb25SSFAxc3hndTdqNDF5RFFTdmp0bUJYeGMzdmhv?oc=5",
+      "publishedAt": "2026-03-08T22:00:00.000Z",
       "readTimeSec": 10,
       "status": "kept",
       "importance": 2,
-      "importanceRaw": 63,
+      "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 텍스트가 일치하며, 정보가 명확합니다. / 근거부족",
+      "qualityReason": "The article is a straightforward report of a business development. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-03-09_15",
       "date": "2026-03-09",
-      "category": "국제",
-      "title": "주요 애널리스트 AI 전망 5가지: 삼성 주가 하락 시 매수, 엔비디아 최고 칩 종목 복귀",
+      "category": "기술",
+      "title": "오픈AI 임원, 펜타곤 계약 관련 안전장치 미비 지적하며 사임",
       "summary": [
-        "Investing.com에 따르면 주요 애널리스트들은 삼성 주가 하락 시 매수를 추천했다.",
-        "또한 엔비디아가 최고의 칩 종목으로 복귀할 것이라는 전망도 제시되었다."
+        "오픈AI의 한 임원이 펜타곤과의 계약에 대한 안전장치 부족을 지적하며 사임했다.",
+        "이번 사임은 펜타곤 계약을 둘러싼 논란이 확산되는 가운데 발생했다.",
+        "해당 임원은 안전장치 없이 성급하게 계약이 진행되었다고 비판했다."
       ],
-      "whyImportant": "AI 관련 투자 전략에 대한 전문가 의견을 제공합니다.",
-      "importanceRationale": "근거: 애널리스트들의 전망은 투자자들의 의사 결정에 중요한 영향을 미칠 수 있으며, 특히 삼성전자와 엔비디아와 같은 주요 기술 기업에 대한 평가는 시장의 관심도가 높습니다.",
+      "whyImportant": "오픈AI의 펜타곤 계약 관련 내부 비판 및 임원 사임은 인공지능 기술의 군사적 활용에 대한 윤리적 논쟁을 심화시킬 수 있다.",
+      "importanceRationale": "근거: 오픈AI 임원의 사임은 단순한 개인의 결정이 아닌, 인공지능 기술의 윤리적 사용에 대한 내부 이견과 우려를 보여준다. 이는 향후 유사한 계약에 대한 기업 및 정부의 정책 결정에 영향을 미칠 수 있으며, 기술 윤리에 대한 사회적 논의를 촉발할 수 있다.",
       "impactSignals": [],
-      "dedupeKey": "analyst_ai_predictions_samsung_nvidia",
-      "clusterKey": "5가지",
+      "dedupeKey": "openai-pentagon-resignation",
+      "clusterKey": "계약",
       "matchedTo": null,
-      "sourceName": "Investing.com 한국어",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMicEFVX3lxTE82SkJULUhQYnFEM0p3TTZSWnZKTXV2b3BxVDFhWjN6Qi16UThxbHo0LUVkRDZHVlhSNnM2ajN4bUQ1OW5RcDA5SEl2b2oxNlE3OHRiVXZ6clZSVUlCTG9PTm9ITUpzZGd4SnVsQzZzVFI?oc=5",
-      "publishedAt": "2026-03-08T09:00:00.000Z",
+      "sourceName": "한겨레",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5BSjFtUmdGUUNqTXVuWWdheklqZ3VLNW1FdXJyeWFyVnk0M2Yzal9fbTItRG1zXzh1dmJvQXJQQUJtdkpEZWx3eDFPUnZqZ1A2OTJiZ0FGTU5JMExmRFkzcg?oc=5",
+      "publishedAt": "2026-03-08T11:01:00.000Z",
       "readTimeSec": 10,
       "status": "kept",
       "importance": 2,
-      "importanceRaw": 63,
+      "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 간결하게 요약되었습니다. / 근거부족",
+      "qualityReason": "기사 제목과 내용이 일치하며, 핵심 내용을 잘 요약했습니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     }
