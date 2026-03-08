@@ -3,7 +3,7 @@
   "selectionCriteria": "① 내일도 영향이 남는 이슈 ② 과도한 감정 소모 제외 ③ 어제와 중복되는 뉴스 제외",
   "editorNote": "이 뉴스는 클릭 수가 아니라 오늘 이후에도 남는 정보만 기준으로 편집했습니다.",
   "question": "정보를 덜 보는 것이 오히려 더 똑똑한 소비일까?",
-  "lastUpdatedAt": "2026-03-08T21:41:57.833+09:00",
+  "lastUpdatedAt": "2026-03-08T22:38:00.756+09:00",
   "items": [
     {
       "id": "2026-03-08_1",
@@ -12,10 +12,10 @@
       "title": "카타르 LNG 시설 가동 중단으로 아시아·유럽 천연가스 가격 폭등",
       "summary": [
         "카타르의 LNG 시설 가동 중단으로 아시아와 유럽의 천연가스 가격이 폭등했다.",
-        "한국무역협회에 따르면 이번 사태로 인해 에너지 시장에 큰 변동이 발생했다."
+        "한국무역협회에 따르면 이번 사태로 인해 에너지 시장에 큰 변동이 예상된다."
       ],
       "whyImportant": "카타르 LNG 시설의 가동 중단은 국제 천연가스 시장에 상당한 영향을 미치므로 중요합니다.",
-      "importanceRationale": "근거: 카타르의 LNG 시설은 아시아 및 유럽 천연가스 공급에 중요한 역할을 담당하고 있으며, 가동 중단은 가격 급등을 초래하여 관련 시장에 직접적인 영향을 미치기 때문입니다.",
+      "importanceRationale": "근거: 카타르는 주요 LNG 공급국이며, 시설 중단은 아시아 및 유럽의 가격 급등을 초래할 수 있습니다.",
       "impactSignals": [],
       "dedupeKey": "카타르 LNG 시설 가동 중단, 천연가스 가격 폭등",
       "clusterKey": "에너지/lng시설",
@@ -28,12 +28,39 @@
       "importance": 2,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 간결하게 요약되었습니다. / 근거부족",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었습니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-03-08_2",
+      "date": "2026-03-08",
+      "category": "국제",
+      "title": "중동 변수로 인한 2% 성장 전망의 불안정성… 반도체 산업의 취약성 - 한국무역협회",
+      "summary": [
+        "중동 지역의 불안정으로 인해 올해 2% 성장 전망에 대한 우려가 제기됨.",
+        "한국무역협회는 이러한 상황과 더불어 반도체 산업의 취약성을 지적함."
+      ],
+      "whyImportant": "중동 지정학적 리스크와 반도체 산업의 불확실성이 한국 경제 성장에 미치는 잠재적 영향.",
+      "importanceRationale": "근거: 중동 지역의 불안정은 에너지 가격 상승 및 공급망 차질을 유발하여 경제 성장에 부정적인 영향을 미칠 수 있으며, 반도체 산업의 취약성은 수출 감소로 이어질 수 있기 때문.",
+      "impactSignals": [],
+      "dedupeKey": "중동_변수_2%_성장전망_반도체_불안_한국무역협회",
+      "clusterKey": "반도체도",
+      "matchedTo": null,
+      "sourceName": "한국무역협회-KITA.NET",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOTTVsMi1NcjBpUzhPa21BZ3paVVFqRXdKQUdLRExCc2Qzb3lKZG9JeFJtd1J5R1h6YzJBdlJ6a2JiS1F1YXV2UVlTOERnUUxwa1l1X2llM0ZoZjlxUlhQQXhhcTZGU0JWWXEzeS1kbW5tb1ROZEdBbVk4Q0QtSEtzQlZLZnJ1dTZuLVlsVGFCRkZFdGU5MEN5OU1FVDR2RjhJMHpaeFZqYXFqR3FpaGJmMHZLTGtwNnlrdWJ4aTRJdlJSakhPQTIzdVFyXzFEdjZZa3dxdQ?oc=5",
+      "publishedAt": "2026-03-08T01:58:17.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 75,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 본문이 일치하며, 간결하게 요약됨. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-03-08_3",
       "date": "2026-03-08",
       "category": "경제",
       "title": "일본, AI 수요 확대에 따른 반도체 재건 가속화…2040년 매출 376조원 목표",
@@ -42,9 +69,9 @@
         "2040년까지 반도체 매출 376조 원을 목표로 하고 있다."
       ],
       "whyImportant": "일본의 반도체 산업 재건 노력은 글로벌 반도체 시장의 경쟁 구도에 영향을 미칠 수 있다.",
-      "importanceRationale": "근거: 일본의 AI 수요 확대에 따른 반도체 산업 재건 추진 및 2040년 매출 목표 설정은 해당 산업의 성장 가능성을 시사한다.",
+      "importanceRationale": "근거: AI 수요 증가에 따른 일본의 반도체 산업 투자 확대는 관련 시장의 성장 가능성을 시사하며, 이는 경제적 파급 효과를 가져올 수 있다.",
       "impactSignals": [],
-      "dedupeKey": "jp-ai-semi-rebuild-20240118",
+      "dedupeKey": "jp-ai-semi-rebuild-2024",
       "clusterKey": "반도체/2040년",
       "matchedTo": null,
       "sourceName": "연합뉴스 한민족센터",
@@ -55,12 +82,12 @@
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "The article provides a concise summary of Japan's semiconductor industry plans. / 근거부족",
+      "qualityReason": "The article provides a concise overview of Japan's semiconductor industry plans. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-03-08_3",
+      "id": "2026-03-08_4",
       "date": "2026-03-08",
       "category": "국제",
       "title": "정부, 중동 7개국 여행경보 '철수 권고'로 상향 조정",
@@ -68,9 +95,9 @@
         "정부가 중동 7개국에 대한 여행경보를 '철수 권고'로 상향 조정했습니다."
       ],
       "whyImportant": "이번 여행경보 상향 조정은 해당 지역의 안전 상황이 악화되었음을 의미합니다.",
-      "importanceRationale": "근거: 정부가 중동 7개국에 대한 여행경보를 '철수 권고'로 상향 조정한 것은 해당 지역의 위험이 높아졌음을 나타냅니다.",
+      "importanceRationale": "근거: 정부가 중동 7개국에 대한 여행경보를 '철수 권고'로 상향 조정한 것은 해당 지역의 위험이 증가했음을 나타냅니다.",
       "impactSignals": [],
-      "dedupeKey": "중동7개국여행경보상향조정",
+      "dedupeKey": "중동7개국여행경보상향",
       "clusterKey": "7개국",
       "matchedTo": null,
       "sourceName": "연합뉴스 한민족센터",
@@ -81,21 +108,22 @@
       "importance": 2,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었습니다. / 근거부족",
+      "qualityReason": "기사 제목과 내용이 일치하며, 간결하게 요약되었습니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-03-08_4",
+      "id": "2026-03-08_5",
       "date": "2026-03-08",
       "category": "경제",
       "title": "베일 리조트 2026년 2분기 실적 미리보기: 매출 감소 예상",
       "summary": [
         "베일 리조트의 2026년 2분기 실적 발표에서 매출 감소가 예상됩니다.",
-        "이는 뉴스 및 통계 제공업체인 IndexBox의 분석에 따른 것입니다."
+        "이는 뉴스 및 통계 지표를 통해 예측되었습니다.",
+        "IndexBox에서 관련 정보를 제공합니다."
       ],
       "whyImportant": "매출 감소는 기업의 투자 및 수익성에 영향을 미칠 수 있습니다.",
-      "importanceRationale": "근거: 매출 감소는 자본 지출 계획에 영향을 미치고, 미래 수익성에 대한 전망을 어둡게 할 수 있기 때문입니다.",
+      "importanceRationale": "근거: 매출 감소는 자본 지출(capex) 계획 및 향후 수익(earnings)에 대한 전망을 재검토하게 할 수 있기 때문입니다.",
       "impactSignals": [],
       "dedupeKey": "VailResorts_Q2_2026_Earnings_Preview",
       "clusterKey": "decline",
@@ -113,76 +141,18 @@
       "isBreaking": false
     },
     {
-      "id": "2026-03-08_5",
-      "date": "2026-03-08",
-      "category": "국제",
-      "title": "중동 변수로 인한 2% 성장 전망의 불안정… 반도체 산업의 취약성 - 한국무역협회",
-      "summary": [
-        "한국무역협회에 따르면 중동 지역의 불안정으로 인해 올해 2% 성장 전망이 흔들리고 있다.",
-        "반도체 산업의 취약성 또한 경제 성장에 부정적인 영향을 미칠 수 있다."
-      ],
-      "whyImportant": "중동 지정학적 리스크와 반도체 산업의 불확실성이 한국 경제 성장에 미치는 잠재적 영향.",
-      "importanceRationale": "근거: 중동 지역의 불안정은 에너지 가격 상승 및 공급망 차질을 야기하여 경제 성장을 저해할 수 있으며, 반도체 산업의 부진은 수출 감소로 이어져 경제에 부정적인 영향을 줄 수 있기 때문.",
-      "impactSignals": [],
-      "dedupeKey": "중동_변수_반도체_불안_한국무역협회",
-      "clusterKey": "반도체도",
-      "matchedTo": null,
-      "sourceName": "한국무역협회-KITA.NET",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOTTVsMi1NcjBpUzhPa21BZ3paVVFqRXdKQUdLRExCc2Qzb3lKZG9JeFJtd1J5R1h6YzJBdlJ6a2JiS1F1YXV2UVlTOERnUUxwa1l1X2llM0ZoZjlxUlhQQXhhcTZGU0JWWXEzeS1kbW5tb1ROZEdBbVk4Q0QtSEtzQlZLZnJ1dTZuLVlsVGFCRkZFdGU5MEN5OU1FVDR2RjhJMHpaeFZqYXFqR3FpaGJmMHZLTGtwNnlrdWJ4aTRJdlJSakhPQTIzdVFyXzFEdjZZa3dxdQ?oc=5",
-      "publishedAt": "2026-03-08T01:58:17.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 63,
-      "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 내용이 간결하고 명확함. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
       "id": "2026-03-08_6",
-      "date": "2026-03-08",
-      "category": "경제",
-      "title": "TYM, '증설 없는 고마진 전략'으로 불황 극복할까",
-      "summary": [
-        "TYM은 추가적인 설비 확장 없이 고마진 전략을 통해 불황을 극복하고자 한다.",
-        "이 전략이 성공할 수 있을지 주목된다."
-      ],
-      "whyImportant": "TYM의 고마진 전략이 불황을 극복하는 데 효과적인지 여부가 중요합니다.",
-      "importanceRationale": "근거: TYM의 전략이 회사의 수익성과 지속 가능성에 직접적인 영향을 미치기 때문입니다.",
-      "impactSignals": [
-        {
-          "label": "capex",
-          "evidence": "증설 없이 기존 설비를 활용하여 비용 효율성을 높임"
-        }
-      ],
-      "dedupeKey": "TYM_high_margin_strategy",
-      "clusterKey": "tym",
-      "matchedTo": null,
-      "sourceName": "뉴스1",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBIbGZQQ0pXdUIxTHNCRzVzRExEcHVzV0EtakVoV2lvY2ZDb1BpdllZeWRtYVBGekZUN2JXNDlqZEw4TWkwcm1iak5NTUtzNkx6dHQxbjh3LXEtaFEt?oc=5",
-      "publishedAt": "2026-03-07T21:45:00.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 3.5,
-      "importanceRaw": 63,
-      "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 핵심 내용을 요약했습니다.",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-03-08_7",
       "date": "2026-03-08",
       "category": "정책",
       "title": "자동차 의무보험 '깜깜이 회계' 차단 추진",
       "summary": [
-        "자동차 의무보험의 불투명한 회계를 막기 위한 조치가 추진된다."
+        "자동차 의무보험의 불투명한 회계를 막기 위한 조치가 추진됩니다.",
+        "국회에서 관련 논의가 진행될 예정입니다."
       ],
-      "whyImportant": "자동차 보험 소비자 보호 강화 및 보험 산업 투명성 제고에 기여할 수 있다.",
-      "importanceRationale": "근거: 자동차 의무보험 회계 투명성 강화는 소비자 신뢰도 향상과 보험 시장의 건전한 발전을 위해 중요하다.",
+      "whyImportant": "자동차 보험 시장의 투명성을 높이고 소비자 신뢰를 제고할 수 있습니다.",
+      "importanceRationale": "근거: 자동차 의무보험 회계 투명성 강화는 정책적으로 중요한 사안이며, 소비자 보호와 시장 건전성에 기여할 수 있습니다.",
       "impactSignals": [],
-      "dedupeKey": "자동차 의무보험 회계 투명성 강화 추진",
+      "dedupeKey": "자동차 의무보험 ‘깜깜이 회계’ 차단 추진",
       "clusterKey": "국회",
       "matchedTo": null,
       "sourceName": "매일경제TV",
@@ -191,9 +161,36 @@
       "readTimeSec": 10,
       "status": "kept",
       "importance": 2,
+      "importanceRaw": 75,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 핵심 내용을 전달합니다. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-03-08_7",
+      "date": "2026-03-08",
+      "category": "경제",
+      "title": "TYM, '증설 없는 고마진 전략'으로 불황 극복할까",
+      "summary": [
+        "TYM은 추가 증설 없이 고마진 전략을 통해 불황을 극복하고자 한다.",
+        "이 전략이 성공할 수 있을지 주목된다."
+      ],
+      "whyImportant": "TYM의 고마진 전략의 성공 여부가 중요합니다.",
+      "importanceRationale": "근거: TYM의 전략은 농기계 산업의 불황 속에서 수익성을 유지하는 데 중요한 역할을 할 수 있기 때문입니다.",
+      "impactSignals": [],
+      "dedupeKey": "TYM_high_margin_strategy",
+      "clusterKey": "tym",
+      "matchedTo": null,
+      "sourceName": "뉴스1",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBIbGZQQ0pXdUIxTHNCRzVzRExEcHVzV0EtakVoV2lvY2ZDb1BpdllZeWRtYVBGekZUN2JXNDlqZEw4TWkwcm1iak5NTUtzNkx6dHQxbjh3LXEtaFEt?oc=5",
+      "publishedAt": "2026-03-07T21:45:00.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 내용이 일치하며, 핵심 내용을 잘 반영하고 있다. / 근거부족",
+      "qualityReason": "기사 제목과 내용이 일치하며, 핵심 내용을 잘 반영하고 있습니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -203,29 +200,56 @@
       "category": "정책",
       "title": "AI, 전쟁 무기로 활용…정부·국회의 '국방 AI' 논의 현황",
       "summary": [
-        "AI가 전쟁 무기로 사용되는 가운데, 정부와 국회에서 '국방 AI' 관련 논의가 진행되고 있다.",
+        "AI가 전쟁 무기로 활용되는 가운데, 정부와 국회에서 '국방 AI'에 대한 논의가 진행되고 있다.",
         "현재까지의 논의 상황에 대한 분석이 필요하다."
       ],
-      "whyImportant": "국방 분야에서 AI 기술의 활용은 군사 전략 및 안보에 중요한 영향을 미치므로.",
-      "importanceRationale": "근거: AI 기술이 국방에 미치는 영향이 크고, 정부와 국회의 논의는 정책 결정에 중요한 지표가 되기 때문이다.",
+      "whyImportant": "국방 분야에서 AI 기술의 활용은 군사 전략 및 안보에 중요한 영향을 미칠 수 있다.",
+      "importanceRationale": "근거: AI 기술이 국방에 미치는 영향이 크고, 정부와 국회의 관련 논의가 진행 중이기 때문이다.",
       "impactSignals": [],
       "dedupeKey": "AI_military_discussion",
       "clusterKey": "국방",
       "matchedTo": null,
       "sourceName": "한겨레",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE03Y1hOaWY0TUdwRE12S3M0akljRWtPeXRPUnBKQTAtYjJhZVgwUFpvY0lkS1pSeGctRVd0X0RpLTRuU0d3eVcwUWl2X1hkckZlRDNVM0lFYkhMNUxzaEV2ZQ?oc=5",
-      "publishedAt": "2026-03-08T12:37:00.000Z",
+      "publishedAt": "2026-03-08T12:45:00.000Z",
       "readTimeSec": 10,
       "status": "kept",
       "importance": 2,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 기사 내용이 일치하며, 핵심 내용을 잘 반영하고 있다. / 근거부족",
+      "qualityReason": "제목과 내용이 일치하며, 핵심 내용을 요약적으로 전달한다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-03-08_9",
+      "date": "2026-03-08",
+      "category": "정책",
+      "title": "주 정부, 새로운 정책으로 AI 전력 급증 문제 해결에 나서다",
+      "summary": [
+        "주 정부들이 인공지능으로 인한 전력 수요 급증에 대처하기 위해 새로운 정책을 도입하고 있습니다.",
+        "이는 AI 기술 확산에 따른 에너지 소비 증가에 대한 선제적 대응으로 풀이됩니다."
+      ],
+      "whyImportant": "AI 기술 발전과 함께 급증하는 전력 수요에 대한 정책적 대응을 보여주는 사례입니다.",
+      "importanceRationale": "근거: AI 기술 확산에 따른 전력 소비 증가는 에너지 정책 및 인프라에 중요한 영향을 미치므로, 주 정부의 정책적 대응은 시사하는 바가 큽니다.",
+      "impactSignals": [],
+      "dedupeKey": "AI_electricity_surge_policy",
+      "clusterKey": "electricity",
+      "matchedTo": null,
+      "sourceName": "State Affairs",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZ1d3bmh1dDNWeWhMTERrSzN6NnFNbHRvRnpUOWF5QURRVEJQMW1IYmFUb2lOODh2Q0hHOTZyTU5NZWVMV3BqYnA0TEV0M0hqNnZtOVhpMW5md0tfR3YtUHNEc3h0SkhGcGpHa08tcHlhdVhvQmpJNVJILU1CdWhhWDN0SWhnUzFHeWI2NEZTUThzUXJLamlpU2JlM1lWWjdKbUhkTWRB?oc=5",
+      "publishedAt": "2026-03-08T09:13:41.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 75,
+      "qualityLabel": "ok",
+      "qualityReason": "기사 제목과 내용이 일치하며, 핵심 내용을 잘 요약했습니다. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-03-08_10",
       "date": "2026-03-08",
       "category": "기술",
       "title": "앤트로픽·모질라, AI로 파이어폭스 보안 취약점 22개 발견…14개 ‘고위험’ 판정",
@@ -234,49 +258,21 @@
         "이 중 14개는 '고위험'으로 판정되었다.",
         "한국정보기술진흥원에서 발표했다."
       ],
-      "whyImportant": "AI를 활용한 보안 취약점 발견 사례로, 소프트웨어 보안 강화에 기여할 수 있다.",
-      "importanceRationale": "근거: AI를 이용한 보안 취약점 발견은 소프트웨어 보안의 새로운 가능성을 제시하며, 특히 고위험 취약점 발견은 즉각적인 대응을 필요로 하기 때문에 중요도가 높다.",
+      "whyImportant": "파이어폭스 사용자의 보안을 강화하는 데 기여할 수 있습니다.",
+      "importanceRationale": "근거: AI를 활용하여 발견된 파이어폭스 보안 취약점 정보이며, 고위험으로 판정된 취약점이 다수 포함되어 있어 보안 강화에 중요한 시사점을 제공합니다.",
       "impactSignals": [],
-      "dedupeKey": "anthropic_mozilla_firefox_security_vulnerability_22_found",
+      "dedupeKey": "AI_파이어폭스_보안_취약점_22개_발견",
       "clusterKey": "22개",
       "matchedTo": null,
       "sourceName": "한국정보기술진흥원",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi4wVBVV95cUxNSEFaS0ljcll5TFV3QnNNUkhHZnlFTGtuVkp5cTJtaTc5LWNsVHZCRzZ0TEhwVnh1eF9fS2ljZVJ1eWpGNXBVdVdRVTZOaEdKMTExRmRGYW85SFhGMlRNUFpDRGNoeExkS1RnNGlHUDdKTEt5TDU2cmpoOG1OVTVhTUFqdXdsOVFabnVCMWN6MEc4M01hLWZNZGprLXpiR3RLb1BpR3FoWXBTdnhHZl9JaEp0bUJzUkJUUDdVTVlObzRwMFBsN3V5Y0NjMHkybVR4WktwVTJXcEF2eTJxeWlDZV9xMjhzSndYNjVWeDBJUm5WdXlRVjIxZGRkRkc3ejNDa1N0ME41T0RFdXhRQmVHZnVYTEh2YmZXN2c0SHVfLU85OFFwYmJsN1FJYjIwWlNlV0xtUXhiSWtOSUk2NF85V1VWZ0JPMTVWQkt3OV8zZTVOY0w5UldIZXE4OGFHb3RvbFUtWm10MTRJSFV5XzJZc1ZhOHVWTDlaUW9Sak9LUlRTOV8zaS1mOUpCSnJkenFDeGVoU2U3cG85Q3FDNjc1RGM1d09VMUhTbzlPYnhaQUhvZVN0Mktka1RJYlFSWUY1WTE5czNvX19EeEZCWnFjbVMwSFBOYk1mYlc3ZV9kSE0yN09jUTROTWhoMmJRQzI4bE4tNmlFMEJFc2hJYlZZUGpfSi1LNXBlNEVFTGg0bzMtNG02Yk9RT3l6YlM3aEoyWlJFaWJXcVJEOXFOQ0ZIY09VcEdTVzhBN1dnN3ZNR1RHdzVqNWl5bF9DZGNYZEtkMjU1aTlPMVhLd2tCZjc0RDVvR2s1bGNKc1N6MDJSSWQ0ZkhlTFFVZGtxcVA3ZXlwQmxqajEwV0F6Wm1QcU5HR3R4V1hCeG4zTUYzNlNMX0pxTTY3TWRJNzd2ME1YRzgxSy1SckdxOUlPZ1RjRXF4dWNTNkVYRmVJV3FudEh6bVpSRld0M3d3MWlfMWQ0all1OGpF?oc=5",
-      "publishedAt": "2026-03-08T07:18:45.000Z",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi7AVBVV95cUxPdkwzaFRoSWpiVG5GN1JJQzVrY3FWbDd3TFNZd3dxLWprVlplUW81SkltTDRWcWNXVlBCWEdSeFBiSzc3UEJhaGRHaTlFR2taRzhOb1dac0drSGQ4ckpERkQ1THZmQ2pKdk9UQ1d3dzdHb21VakI0Tk94OFA1T1hFOFB0c2c3MUFqbG11ekdaWThSa3ZoUV95VGwteFBrSWs1eGRSSHFUVDV3QUtTWTRRUDhuRkUtX2FES0pRNDVHOVJBRzF0MlNTM09Vb0VqeG8zZUxobHBmZHRiak8tUHZSUjYxQ2xINnZQYVUwVmNIcGdVZy1oLUIyS25wbS12TzRVN2xXREdieVFuNjFCYk9lYzE1bk1SbGRoV0FlQk1QMjNMVW1uOEN4VEdjc3RYZWNtamg1dHVJWFBUSFFzeUY3dC1TZWlMUXBNSnhteXNpWXhQaExLR2tuSjQyNkktZVA4ajIxV2VKYWs0SFJBVDA5VUxRN1lIcVlMUWxoczg1VU4zQnlUbW52ZXR5N3JzX3I1bEdHM3BlZHljbWhMNVplU2JibXZCc0EzVTVlX255V1JDQ2NHV0VoSTdlLUdveXFmaFUwN3pwWjM4MXM1SG85UFAzRklNMlgzWGJmYXlZeXUyNjhzOU9QbjlreHVyLTFfbUUzdVppOFJTSVJLaWcyYTlHcUdickh3Nm1FVUw3NXhRWUdORVVTcVBBdWhnNXdJbW84cEhHc2plQ0o2b0p0STFGQ3NJdkk2OEY1b3pwV3ZZSjJ5ajVFVlctczRxY0ZXU1VtZndBOWdtalZvRDNYaEt3OVVHUjF5ZWt4cGlvNjBKVWZ6R21INWw2UElmbUs4a1NTT19oQ3F1Q2d4Um9IZXpsNXRILUJCYUNWZ3Q2U1RCdHVMZFhiQXJLVzZjZkpNZktQMUV3algweXFVZ2VCbkwtWkN1eG0zamVKWldsQmpqbHl5RDdkaDhUN0xVSkktVnlZVVZCdjIwN01K?oc=5",
+      "publishedAt": "2026-03-08T03:05:43.000Z",
       "readTimeSec": 10,
       "status": "kept",
       "importance": 2,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 내용이 간결하고 명확하다. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-03-08_10",
-      "date": "2026-03-08",
-      "category": "기술",
-      "title": "AI로 인한 고전압 전력선 확장, 토지 소유주와 지역 주민 반발",
-      "summary": [
-        "AI 기술 발전으로 인해 고전압 전력선이 대규모로 확장되고 있다.",
-        "이에 토지 소유주와 지역 주민들이 반발하고 있다.",
-        "ABC 뉴스는 이러한 갈등 상황을 보도했다."
-      ],
-      "whyImportant": "AI 기술 발전이 전력 인프라 확장을 촉진하고 있으며, 이는 지역 사회에 큰 영향을 미칠 수 있다.",
-      "importanceRationale": "근거: AI 기술 발전으로 인한 전력 수요 증가가 고전압 전력선 확장의 주요 원인이며, 이는 토지 수용 및 환경 문제와 관련된 지역 사회의 반발을 야기할 수 있다.",
-      "impactSignals": [],
-      "dedupeKey": "AI_power_lines_expansion_resistance",
-      "clusterKey": "에너지/big",
-      "matchedTo": null,
-      "sourceName": "ABC News",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNaFN0c1d0RGEtaXgyekt4Ulhwa2ZRYi1UaTZoTGZJLTM4dUZjelZucG5ybnV1RmM4Mm1qOERFd1MzeWxibEZwUnU3bWJZZ0NHMkJWVG5acXNXbGNEZEZ3a1ZpTTUyaFhIR0xrTDJxQVhuQU9UbkkzQURyWlB6YmMyYXZXTDJnUXZfbTRGaFlVaTVJU0Q4ZXBVY1JyNHpiVTJBUXFJ0gGoAUFVX3lxTE50SjNiMnEybFVYZ0tfZUdMR3kzQzhfRHg0NnI2Zk82Z2xGa3ZMN2JMNTRFbVhqM1N0eWZOaFBwN0NxRC0tazRrQVcxOUN5YmlzclE3TEFCVUc2OE9vaGI1bjh0X2dJenBpTDl0UmF0VnR6d1owX2tDQlJTa0Z2T3VXRmhUMzYxYUYxLW44ZG5zdXV4UHVOdTJWSG5acUItQmFJNTY1cWEyOQ?oc=5",
-      "publishedAt": "2026-03-08T05:51:05.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 75,
-      "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 내용이 일치하며, 핵심 내용을 잘 요약했다. / 근거부족",
+      "qualityReason": "기사 내용이 명확하고 간결하며, 정보의 출처가 제시되어 있습니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -288,12 +284,12 @@
       "summary": [
         "SK와 한국수력원자력이 투자한 테라파워가 미국 최초로 첨단 원전 건설 승인을 받았습니다."
       ],
-      "whyImportant": "테라파워의 첨단 원전 건설 승인은 미국 에너지 시장에 중요한 변화를 가져올 수 있습니다.",
-      "importanceRationale": "근거: SK와 한수원이 투자한 테라파워가 미국 최초로 첨단 원전 건설 승인을 받았다는 사실은 에너지 산업에 미치는 잠재적 영향력이 크다고 판단됩니다.",
+      "whyImportant": "테라파워의 첨단 원전 건설 승인은 차세대 에너지 기술 개발에 중요한 이정표입니다.",
+      "importanceRationale": "근거: SK와 한수원의 투자를 받은 테라파워가 미국 최초로 첨단 원전 건설 승인을 획득했다는 사실은 에너지 산업에 미치는 잠재적 영향력이 크다고 판단됩니다.",
       "impactSignals": [
         {
           "label": "capex",
-          "evidence": "테라파워의 첨단 원전 건설 승인은 대규모 자본 지출을 수반합니다."
+          "evidence": "테라파워의 첨단 원전 건설 승인은 대규모 자본 지출을 수반하는 프로젝트입니다."
         }
       ],
       "dedupeKey": "SK·한수원_테라파워_미국_최초_첨단_원전_건설_승인",
@@ -307,7 +303,7 @@
       "importance": 4,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "기사 내용이 간결하고 명확하며, 핵심 정보를 잘 전달하고 있습니다.",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었습니다.",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -315,20 +311,20 @@
       "id": "2026-03-08_12",
       "date": "2026-03-08",
       "category": "국제",
-      "title": "CVE-2026-21385: 구글, 안드로이드 공격에 악용된 퀄컴 제로데이 패치",
+      "title": "CVE-2026-21385: 구글, 안드로이드 표적 공격에 악용된 퀄컴 제로데이 취약점 패치",
       "summary": [
-        "구글이 안드로이드 공격에 악용된 퀄컴 제로데이 취약점 CVE-2026-21385에 대한 패치를 발표했습니다.",
-        "이 취약점은 특정 안드로이드 공격에서 악용되었습니다."
+        "구글이 안드로이드 표적 공격에 악용된 퀄컴 제로데이 취약점 CVE-2026-21385를 패치했습니다.",
+        "SOC Prime에서 해당 내용을 발표했습니다."
       ],
       "whyImportant": "퀄컴 제로데이 취약점 악용으로 인한 안드로이드 기기 보안 위협",
-      "importanceRationale": "근거: 안드로이드 기기를 대상으로 하는 제로데이 공격에 퀄컴 칩의 취약점이 악용되었다는 것은 사용자 보안에 직접적인 위협이 된다는 것을 의미합니다.",
+      "importanceRationale": "근거: 안드로이드 기기를 대상으로 하는 제로데이 공격은 사용자 데이터 유출 및 기기 제어 권한 탈취로 이어질 수 있어 심각한 보안 문제임.",
       "impactSignals": [
         {
           "label": "security",
-          "evidence": "안드로이드 공격에 악용된 퀄컴 제로데이 패치"
+          "evidence": "안드로이드 제로데이 공격에 악용된 퀄컴 취약점"
         }
       ],
-      "dedupeKey": "CVE-2026-21385_google_qualcomm_zero_day_patch",
+      "dedupeKey": "CVE-2026-21385: 구글, 안드로이드 표적 공격에 악용된 퀄컴 제로데이 취약점 패치",
       "clusterKey": "cve",
       "matchedTo": null,
       "sourceName": "SOC Prime",
@@ -339,7 +335,7 @@
       "importance": 4.5,
       "importanceRaw": 88,
       "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 내용이 일치하며, 정보가 명확합니다.",
+      "qualityReason": "제목과 본문이 일치하며, 정보가 명확함.",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -349,12 +345,13 @@
       "category": "정책",
       "title": "생성형 AI 개인정보 처리방침 '미흡'…정부, 기업들과 개선 논의",
       "summary": [
-        "정부가 생성형 AI 개인정보 처리방침의 미흡함을 지적하며 기업들과 개선 방안을 논의할 예정이다."
+        "정부가 생성형 AI 개인정보 처리방침의 미흡함을 지적하며 기업들과 개선 방안을 논의할 예정이다.",
+        "이번 논의는 생성형 AI 서비스의 개인정보 보호를 강화하기 위한 조치로 풀이된다."
       ],
-      "whyImportant": "개인정보 보호 강화 및 관련 정책 방향 설정에 중요한 사안입니다.",
-      "importanceRationale": "근거: 정부가 직접 나서서 생성형 AI의 개인정보 처리 문제에 대한 개선을 논의한다는 것은 정책적 변화를 예고하며, 기업들의 개인정보 보호 노력에 영향을 미칠 수 있기 때문입니다.",
+      "whyImportant": "이번 논의는 생성형 AI 서비스의 개인정보 보호를 강화하는 데 중요한 계기가 될 수 있다.",
+      "importanceRationale": "근거: 정부가 직접 나서서 기업들과 개인정보 처리방침 개선을 논의하는 것은 정책적 변화를 예고하며, 이는 관련 산업에 상당한 영향을 미칠 수 있다.",
       "impactSignals": [],
-      "dedupeKey": "generated_ai_privacy_policy_concerns",
+      "dedupeKey": "생성형 AI 개인정보 처리방침 개선 논의",
       "clusterKey": "개선",
       "matchedTo": null,
       "sourceName": "전자신문",
@@ -365,7 +362,7 @@
       "importance": 2,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되어 있습니다. / 근거부족",
+      "qualityReason": "기사 제목과 내용이 일치하며, 핵심 내용을 잘 요약했습니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -399,15 +396,48 @@
     {
       "id": "2026-03-08_15",
       "date": "2026-03-08",
-      "category": "국제",
-      "title": "2025년 제로데이 공격, 기업 타깃으로 본격 전환…역대 최고 비중",
+      "category": "기술",
+      "title": "AI로 인한 고전압 전력선 대규모 확장, 토지 소유주와 지역 주민 반발",
       "summary": [
-        "2025년부터 제로데이 공격이 기업을 주요 대상으로 전환될 것으로 예상됨.",
+        "AI 기술 발전으로 고전압 전력선이 대규모로 확장되고 있다.",
+        "이에 토지 소유주와 지역 주민들이 반발하고 있다.",
+        "ABC 뉴스가 이 소식을 보도했다."
+      ],
+      "whyImportant": "AI 기술 발전이 전력 인프라 확장을 촉진하고 있으며, 이는 지역 사회에 영향을 미치고 있다.",
+      "importanceRationale": "근거: AI 기술 발전으로 인한 전력 수요 증가가 고전압 전력선 확장을 야기하고 있으며, 이는 토지 수용 및 환경 문제와 관련된 지역 사회의 반발을 초래하고 있다.",
+      "impactSignals": [],
+      "dedupeKey": "AI_power_lines_expansion",
+      "clusterKey": "에너지/big",
+      "matchedTo": null,
+      "sourceName": "ABC News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNaFN0c1d0RGEtaXgyekt4Ulhwa2ZRYi1UaTZoTGZJLTM4dUZjelZucG5ybnV1RmM4Mm1qOERFd1MzeWxibEZwUnU3bWJZZ0NHMkJWVG5acXNXbGNEZEZ3a1ZpTTUyaFhIR0xrTDJxQVhuQU9UbkkzQURyWlB6YmMyYXZXTDJnUXZfbTRGaFlVaTVJU0Q4ZXBVY1JyNHpiVTJBUXFJ0gGoAUFVX3lxTE50SjNiMnEybFVYZ0tfZUdMR3kzQzhfRHg0NnI2Zk82Z2xGa3ZMN2JMNTRFbVhqM1N0eWZOaFBwN0NxRC0tazRrQVcxOUN5YmlzclE3TEFCVUc2OE9vaGI1bjh0X2dJenBpTDl0UmF0VnR6d1owX2tDQlJTa0Z2T3VXRmhUMzYxYUYxLW44ZG5zdXV4UHVOdTJWSG5acUItQmFJNTY1cWEyOQ?oc=5",
+      "publishedAt": "2026-03-08T05:51:05.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 63,
+      "qualityLabel": "ok",
+      "qualityReason": "기사 제목과 내용이 일치하며, 간결하게 요약되어 있다. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-03-08_16",
+      "date": "2026-03-08",
+      "category": "국제",
+      "title": "2025년, 제로데이 공격 대상 기업으로 본격 전환…'역대 최고 비중'",
+      "summary": [
+        "2025년부터 기업이 제로데이 공격의 주요 타겟이 될 것으로 예상됨.",
         "이는 역대 최고 비중을 차지할 것으로 전망됨."
       ],
-      "whyImportant": "기업의 보안 강화 필요성이 더욱 중요해짐.",
-      "importanceRationale": "근거: 제로데이 공격의 주요 타깃이 기업으로 전환됨에 따라, 기업은 더욱 강력한 보안 시스템 구축 및 유지에 힘써야 함.",
-      "impactSignals": [],
+      "whyImportant": "기업 보안에 대한 경각심을 높이고, 제로데이 공격에 대한 대비책 마련이 시급함을 강조합니다.",
+      "importanceRationale": "근거: 제로데이 공격의 대상이 기업으로 전환되며 그 비중이 역대 최고를 기록할 것이라는 전망은 기업 보안 전략에 중요한 변화를 요구합니다.",
+      "impactSignals": [
+        {
+          "label": "security",
+          "evidence": "제로데이 공격 타겟 전환 및 역대 최고 비중"
+        }
+      ],
       "dedupeKey": "2025zerodayattack",
       "clusterKey": "2025년",
       "matchedTo": null,
@@ -416,31 +446,25 @@
       "publishedAt": "2026-03-06T07:13:04.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 2,
+      "importance": 4,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 정보가 명확함. / 근거부족",
+      "qualityReason": "제목과 내용이 일치하며, 요약이 명확합니다.",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-03-08_16",
+      "id": "2026-03-08_17",
       "date": "2026-03-08",
       "category": "경제",
       "title": "HBM 경쟁 심화 속 삼성전자 반도체 공장 가동 중단 가능성",
       "summary": [
-        "HBM(고대역폭 메모리) 경쟁이 심화되는 가운데 삼성전자 반도체 공장 가동이 중단될 수 있다는 보도가 나왔다.",
-        "이는 삼성전자의 투자 계획에 영향을 미칠 수 있음을 시사한다."
+        "HBM 경쟁 심화에도 불구하고 삼성전자 반도체 공장 가동이 중단될 가능성이 제기됨."
       ],
-      "whyImportant": "삼성전자의 반도체 생산 전략 변화 가능성을 보여주는 중요한 지표입니다.",
-      "importanceRationale": "근거: HBM 경쟁 심화는 삼성전자의 투자 및 생산 결정에 직접적인 영향을 미치며, 이는 반도체 시장 전체에 파급 효과를 가져올 수 있기 때문입니다.",
-      "impactSignals": [
-        {
-          "label": "capex",
-          "evidence": "반도체 공장 가동 중단 가능성은 삼성전자의 자본 지출 계획에 영향을 줄 수 있음"
-        }
-      ],
-      "dedupeKey": "HBM_competition_samsung_fab_halt",
+      "whyImportant": "삼성전자의 반도체 생산 전략 변화 가능성을 시사.",
+      "importanceRationale": "근거: 삼성전자의 HBM 경쟁 심화 속 공장 가동 중단 가능성은 향후 투자 및 생산 전략에 중요한 변화를 가져올 수 있기 때문.",
+      "impactSignals": [],
+      "dedupeKey": "HBM_competition_samsung_factory_halt",
       "clusterKey": "반도체/hbm",
       "matchedTo": null,
       "sourceName": "연합인포맥스",
@@ -448,36 +472,10 @@
       "publishedAt": "2026-03-08T00:55:32.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 3.5,
-      "importanceRaw": 63,
-      "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 정보가 간결하게 요약되어 있습니다.",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-03-08_17",
-      "date": "2026-03-08",
-      "category": "정책",
-      "title": "황명석 경북행정부지사 \"대구·경북 통합, 국회서 진통… 더는 못 기다린다.\"",
-      "summary": [
-        "황명석 경북행정부지사는 대구·경북 통합이 국회에서 진통을 겪고 있어 더 이상 기다릴 수 없다고 밝혔다."
-      ],
-      "whyImportant": "대구·경북 통합 추진에 대한 경상북도 입장 표명.",
-      "importanceRationale": "근거: 황명석 경북행정부지사가 직접 대구·경북 통합에 대한 입장을 밝힘.",
-      "impactSignals": [],
-      "dedupeKey": "황명석 경북행정부지사, 대구·경북 통합 발언",
-      "clusterKey": "경북",
-      "matchedTo": null,
-      "sourceName": "다경뉴스",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5DM0ZxYktnaUtkcndHdWV0MERfemplM1lVakZtZS12NUNKZnNHTXNnSjI5cmRmTDBqYldVWVJPZTAxN0x4?oc=5",
-      "publishedAt": "2026-03-07T23:59:00.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "기사 내용이 간결하고 명확함. / 근거부족",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약됨. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -487,13 +485,19 @@
       "category": "국제",
       "title": "미국 투자 시 AI 반도체 판매 허용, 미국 수출 규제 검토에 업계 주목",
       "summary": [
-        "미국이 미국에 투자하는 기업에 대해 AI 반도체 판매를 허용하는 수출 규제를 검토 중이다.",
-        "이는 업계의 큰 관심을 끌고 있다."
+        "미국이 자국 투자 기업에 인공지능(AI) 반도체 판매를 허용하는 수출 규제를 검토 중이다.",
+        "이는 미국 투자 유치와 동시에 기술 통제를 강화하려는 움직임으로 해석된다.",
+        "업계는 미국의 정책 변화에 촉각을 곤두세우고 있다."
       ],
-      "whyImportant": "미국의 AI 반도체 수출 정책 변화 가능성",
-      "importanceRationale": "근거: 미국의 AI 반도체 수출 규제 검토는 관련 기업의 투자 및 사업 전략에 중요한 영향을 미칠 수 있기 때문이다.",
-      "impactSignals": [],
-      "dedupeKey": "AI 반도체 수출 규제 검토",
+      "whyImportant": "미국의 AI 반도체 수출 규제는 관련 기업의 경영 전략에 중요한 영향을 미칠 수 있다.",
+      "importanceRationale": "근거: 미국의 AI 반도체 수출 정책은 글로벌 반도체 시장의 판도를 바꿀 수 있는 중요한 변수이며, 특히 미국에 투자하는 기업에게 미치는 영향이 크기 때문이다.",
+      "impactSignals": [
+        {
+          "label": "policy",
+          "evidence": "미국이 AI 반도체 수출 규제를 검토하고 있다는 내용"
+        }
+      ],
+      "dedupeKey": "AI반도체수출규제",
       "clusterKey": "반도체/미국에",
       "matchedTo": null,
       "sourceName": "mt.co.kr",
@@ -501,10 +505,10 @@
       "publishedAt": "2026-03-06T02:30:17.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 2,
+      "importance": 4,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 간결하게 요약됨. / 근거부족",
+      "qualityReason": "제목과 본문이 일치하며, 간결하게 요약되어 있음.",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -544,13 +548,13 @@
       "id": "2026-03-08_20",
       "date": "2026-03-08",
       "category": "경제",
-      "title": "전쟁 8일째, 유가 급등과 불안정한 주식 시장...전망은?",
+      "title": "전쟁 8일째, 기름값 폭등과 주식 시장 변동…전망은?",
       "summary": [
-        "전쟁 8일째, 유가 급등과 주식 시장의 변동성이 커지고 있습니다.",
+        "전쟁 8일째, 기름값이 폭등하고 주식 시장이 크게 변동했습니다.",
         "향후 시장 전망에 대한 불확실성이 커지고 있습니다."
       ],
-      "whyImportant": "전쟁으로 인한 경제적 파급 효과를 보여주는 지표입니다.",
-      "importanceRationale": "근거: 전쟁 장기화에 따른 유가 상승과 주식 시장 불안정은 투자 심리 위축 및 실물 경제에 부정적 영향을 미칠 수 있습니다.",
+      "whyImportant": "전쟁으로 인한 경제적 파장을 보여주는 지표입니다.",
+      "importanceRationale": "근거: 전쟁으로 인한 에너지 가격 급등과 금융 시장의 불안정성이 심화되고 있음을 나타냅니다.",
       "impactSignals": [],
       "dedupeKey": "war_oil_stock_market",
       "clusterKey": "8일째",
