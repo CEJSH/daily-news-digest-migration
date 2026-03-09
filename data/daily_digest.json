@@ -3,42 +3,10 @@
   "selectionCriteria": "① 내일도 영향이 남는 이슈 ② 과도한 감정 소모 제외 ③ 어제와 중복되는 뉴스 제외",
   "editorNote": "이 뉴스는 클릭 수가 아니라 오늘 이후에도 남는 정보만 기준으로 편집했습니다.",
   "question": "정보를 덜 보는 것이 오히려 더 똑똑한 소비일까?",
-  "lastUpdatedAt": "2026-03-09T10:54:45.936+09:00",
+  "lastUpdatedAt": "2026-03-09T13:15:32.242+09:00",
   "items": [
     {
       "id": "2026-03-09_1",
-      "date": "2026-03-09",
-      "category": "국제",
-      "title": "'반도체 장비 소재' 이트륨 가격 1년 만에 140배 상승, 중국 희토류 수출 통제로 인한 공급 불안 영향",
-      "summary": [
-        "반도체 장비 소재로 사용되는 이트륨 가격이 1년 만에 140배 상승했다.",
-        "이는 중국의 희토류 수출 통제로 인한 공급 불안이 영향을 미친 것으로 분석된다."
-      ],
-      "whyImportant": "반도체 산업에 필수적인 소재 가격 급등은 생산 비용 증가와 공급망 불안정을 야기할 수 있다.",
-      "importanceRationale": "근거: 이트륨은 반도체 장비의 핵심 소재이며, 가격 급등은 반도체 산업 전반에 걸쳐 파급 효과를 가져올 수 있다. 특히 중국의 수출 통제는 공급망 리스크를 더욱 심화시킨다.",
-      "impactSignals": [
-        {
-          "label": "market-demand",
-          "evidence": "반도체 장비 소재인 이트륨 가격 급등"
-        }
-      ],
-      "dedupeKey": "yttrium_price_surge_due_to_china_export_control",
-      "clusterKey": "반도체/140배",
-      "matchedTo": null,
-      "sourceName": "비즈니스포스트",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1WY2ZPeG45RTV3R21qcXBHMnpqczBKUVphSm8yOUE4R2gwTDVNX0t6OFdRVUxKa3ZudmEtMmFKRHVGcHcyRzBIMFpucTVJOUxjRDhvTU1wRUc3NmNQZUQ0Rzg0bGhGYWFIWE9PaGxkZnJycTQ?oc=5",
-      "publishedAt": "2026-03-06T02:36:35.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 4.5,
-      "importanceRaw": 88,
-      "qualityLabel": "ok",
-      "qualityReason": "기사 내용이 명확하고 간결하며, 핵심 정보를 잘 요약하고 있다.",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-03-09_2",
       "date": "2026-03-09",
       "category": "국제",
       "title": "AI 패권 경쟁 심화: 규제, 반도체, 데이터센터가 글로벌 산업 지형을 재편",
@@ -46,37 +14,47 @@
         "AI 패권 경쟁이 심화되고 있습니다.",
         "규제, 반도체, 데이터센터가 글로벌 산업 판도를 재편하고 있습니다."
       ],
-      "whyImportant": "AI 경쟁 심화에 따른 산업 재편 가능성",
-      "importanceRationale": "근거: AI 패권 경쟁 심화, 규제, 반도체, 데이터센터의 역할 변화 언급.",
-      "impactSignals": [],
-      "dedupeKey": "AI 패권 경쟁 격화…규제·반도체·데이터센터가 글로벌 산업 판도 다시 쓴다",
+      "whyImportant": "AI 경쟁 심화와 관련된 규제, 반도체, 데이터센터의 중요성을 강조합니다.",
+      "importanceRationale": "근거: AI 패권 경쟁의 심화는 관련 산업에 대한 규제 강화, 반도체 기술 경쟁 심화, 데이터센터 투자 확대로 이어지며 글로벌 산업 지형에 큰 영향을 미치기 때문입니다.",
+      "impactSignals": [
+        {
+          "label": "policy",
+          "evidence": "AI 패권 경쟁 심화에 따른 규제 변화"
+        },
+        {
+          "label": "capex",
+          "evidence": "AI 패권 경쟁 심화에 따른 데이터센터 투자 확대"
+        }
+      ],
+      "dedupeKey": "AI_competition_regulation_semiconductor_datacenter",
       "clusterKey": "반도체/격화",
       "matchedTo": null,
-      "sourceName": "브랜드경제신문",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE8xbHpMeDBrdXBOaHBqVW5hOXc3S1JsREdYcVBEVWM0N0taZURDaUhjNjhOb1lUQ1JfVnhKUEkwTGJ0bmU0Qm1GUmNxMWg?oc=5",
+      "sourceName": "유스연합",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1wY2pBSlota2hwLVZHZVdXQXJ5eDZPalROdFpwZ1p0NzBZd2pmNDBNWnhsdGdndHpreEthNG9pX2ljZ1UydU41MnpRZFY0T3FnT0E?oc=5",
       "publishedAt": "2026-03-05T03:37:21.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 2,
-      "importanceRaw": 63,
+      "importance": 4,
+      "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며 간결하게 요약됨. / 근거부족",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 핵심 내용을 전달합니다.",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-03-09_3",
+      "id": "2026-03-09_2",
       "date": "2026-03-09",
       "category": "정책",
       "title": "AI 전력 비용은 누가 부담하나? 캘리포니아 감시 단체, 새로운 데이터 센터 규정 촉구",
       "summary": [
-        "캘리포니아의 한 감시 단체가 AI 전력 사용량 증가에 따라 새로운 데이터 센터 규정을 촉구했습니다.",
-        "이는 AI 기술 발전에 따른 전력 소비 문제에 대한 우려를 반영합니다."
+        "캘리포니아 감시 단체가 AI 전력 사용량 증가에 따른 새로운 데이터 센터 규정을 촉구했다.",
+        "이는 AI 기술 발전에 따른 전력 소비 문제에 대한 우려를 반영한다.",
+        "새로운 규정은 데이터 센터의 에너지 효율성을 높이고 전력 사용에 대한 책임을 강화하는 데 초점을 맞출 것으로 예상된다."
       ],
-      "whyImportant": "AI 기술 발전과 데이터 센터 운영에 대한 정책적 논의를 촉발할 수 있습니다.",
-      "importanceRationale": "근거: 캘리포니아 감시 단체의 규정 촉구는 AI 전력 소비 문제에 대한 정책적 대응의 필요성을 강조하며, 데이터 센터 투자 및 운영 방식에 영향을 미칠 수 있습니다.",
+      "whyImportant": "AI 기술 확산에 따른 데이터 센터 전력 소비 증가 문제에 대한 정책적 대응을 시사한다.",
+      "importanceRationale": "근거: 캘리포니아 감시 단체가 데이터 센터 규정 강화를 촉구한 것은 AI 전력 사용량 증가에 대한 우려를 나타내며, 이는 향후 관련 정책 변화 및 투자에 영향을 미칠 수 있다.",
       "impactSignals": [],
-      "dedupeKey": "AI_power_California_watchdog_data_center_rules",
+      "dedupeKey": "AI_power_california_datacenter_rules",
       "clusterKey": "에너지/california",
       "matchedTo": null,
       "sourceName": "CalMatters",
@@ -87,23 +65,82 @@
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 내용이 간결하고 명확합니다. / 근거부족",
+      "qualityReason": "제목과 본문이 일치하며, 핵심 내용을 잘 반영하고 있다. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-03-09_3",
+      "date": "2026-03-09",
+      "category": "경제",
+      "title": "예상 수익 증가와 매장 확장 기대감이 Casey's General Stores (CASY) 투자자들에게 조치를 요구하는가?",
+      "summary": [
+        "Casey's General Stores의 예상 수익 증가와 매장 확장 기대감이 투자자들의 관심을 끌고 있다.",
+        "투자자들은 이러한 요인들을 고려하여 투자 결정을 내려야 할 수 있다.",
+        "Simplywall.st에서 관련 내용을 확인할 수 있다."
+      ],
+      "whyImportant": "Casey's General Stores의 투자 결정에 영향을 미칠 수 있는 요인들을 제시합니다.",
+      "importanceRationale": "근거: 예상 수익 증가와 매장 확장이라는 두 가지 긍정적인 지표가 투자자들에게 중요한 고려 사항임을 시사한다.",
+      "impactSignals": [],
+      "dedupeKey": "CASY_earnings_expansion",
+      "clusterKey": "expansion",
+      "matchedTo": null,
+      "sourceName": "simplywall.st",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNdEVtbkg0NXRjWlQwTjVMelFweFNaWnRxOXJDM2g2T1pxMjVac2RqN09Icll2WnFUbG1HakNZQ21RbU1oZmN3bEMybW5qNmEwbzlxYTg3MHEwd0xQV2VyN2VST0ptVlR0Snl1VGg1dDZtWlJxdEIyUGNfN0tmbE5YTmVzMWphdlFKN2NhSkJTS0N4YVhaSFVNX1Ewa2p5Z2drVnpSaGtHVDFhTzM1WVBvNnRFaF9WY3E5Z3V6UXJhejhNckZmODg0blZZb1c0ZmVKY1RqRzAxbTBqYVFjeDBuNmU3bTLSAeoBQVVfeXFMTVZHVWh4VVhkNU5rU2VwWExyczZUNEhWcXB4NEllNkU5WU5IbGRGb3R3VnUzaDBLWGhIbDBUaGhQNGVpbms5MnpGTjZ0S1Y0Yk5Gd0U2VENROUV6MWlkakQ1WVI0ZlhQR3NBOGZLQlpuSGdvSWZ6dHNFQV85Q0lNUV92S0JXUTFaSnlNOWhORTVpZmRmNGhVV2xFRkdUbDhCTDdaR1gyV0R4RG1OOHljTlBtVnpmVThJR0hkaGJxbEZueTlLNUhyR2lNQ0syZWxxVURlQzJORjhDSGp1c082YjhELW50ck11TVdB?oc=5",
+      "publishedAt": "2026-03-09T02:18:24.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 63,
+      "qualityLabel": "ok",
+      "qualityReason": "The article directly references a financial event and provides a clear, concise summary. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-03-09_4",
       "date": "2026-03-09",
+      "category": "경제",
+      "title": "[유가 100달러] 고공행진 전망이 기름부었다…'원정주유'·대중교통 출근",
+      "summary": [
+        "유가 100달러 시대가 전망되면서 '원정 주유'와 대중교통 출근이 늘고 있다."
+      ],
+      "whyImportant": "유가 상승으로 인한 소비자 행동 변화를 보여준다.",
+      "importanceRationale": "근거: 유가 상승 전망이 소비자들의 주유 방식과 출근 방식에 영향을 미치고 있다는 직접적인 정보를 제공한다.",
+      "impactSignals": [
+        {
+          "label": "market-demand",
+          "evidence": "유가 상승에 따른 원정 주유 및 대중교통 이용 증가"
+        }
+      ],
+      "dedupeKey": "oil-price-100-20240229",
+      "clusterKey": "100달러",
+      "matchedTo": null,
+      "sourceName": "연합뉴스 한민족센터",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMidEFVX3lxTE04RXR5MkE4TTBQOENfRVdBZFlTa2V5c1llcl9iOWdLSy1MSkNLbzVRbVNOTGVsem1DcnF4NnFiSHdoSDBpSzlBN0xBbGhJRUFhMkpFMGVtVFlqYUoxSEl4OUZmbUtQZUpwbktmT25ZMXpHMUNW?oc=5",
+      "publishedAt": "2026-03-09T02:28:21.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 3,
+      "importanceRaw": 50,
+      "qualityLabel": "ok",
+      "qualityReason": "기사 제목과 내용이 일치하며, 간결하게 요약되어 정보 전달력이 높음.",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-03-09_5",
+      "date": "2026-03-09",
       "category": "정책",
       "title": "과기정통부·행안부, 범정부 AI 전환 본격 지원",
       "summary": [
         "과학기술정보통신부와 행정안전부가 범정부 AI 전환을 본격적으로 지원한다.",
-        "연합뉴스 한민족센터에서 관련 소식을 보도했다."
+        "이번 지원은 정부 전체의 인공지능 도입 및 활용 확대를 목표로 한다."
       ],
-      "whyImportant": "정부 차원에서 AI 전환을 지원함으로써 공공 서비스 혁신과 효율성 증대가 기대된다.",
-      "importanceRationale": "근거: 과기정통부와 행안부가 협력하여 범정부 AI 전환을 지원하는 것은 정부의 정책적 의지를 보여주는 중요한 사례이다.",
+      "whyImportant": "정부의 AI 도입 및 활용 확대를 촉진하는 정책적 움직임이다.",
+      "importanceRationale": "근거: 과기정통부와 행안부가 협력하여 범정부 AI 전환을 지원함으로써 정부 서비스 및 업무 효율성을 향상시킬 수 있다.",
       "impactSignals": [],
-      "dedupeKey": "AI 전환 지원, 과기정통부·행안부",
+      "dedupeKey": "AI_TRANSFORMATION_SUPPORT",
       "clusterKey": "과기정통부",
       "matchedTo": null,
       "sourceName": "연합뉴스 한민족센터",
@@ -114,39 +151,7 @@
       "importance": 2,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되어 있음. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-03-09_5",
-      "date": "2026-03-09",
-      "category": "경제",
-      "title": "외국인, 차익 실현 후 건설주 매수한 이유는?",
-      "summary": [
-        "외국인이 차익 실현 후 건설주를 매수했다는 소식입니다.",
-        "자세한 이유는 아직 밝혀지지 않았습니다."
-      ],
-      "whyImportant": "외국인 투자자의 건설주 매수 배경을 파악하는 것이 중요합니다.",
-      "importanceRationale": "근거: 외국인 투자자의 움직임은 시장에 큰 영향을 미칠 수 있으며, 건설 경기 전망과 관련된 중요한 신호일 수 있습니다.",
-      "impactSignals": [
-        {
-          "label": "capex",
-          "evidence": "외국인 투자자의 건설주 매수는 자본 지출 증가에 대한 기대를 반영할 수 있습니다."
-        }
-      ],
-      "dedupeKey": "foreign-investors-buying-construction-stocks",
-      "clusterKey": "건설주",
-      "matchedTo": null,
-      "sourceName": "한국경제",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBfR1E4OHdaZHRTOHA5TXJRZXptMURsbVVnTm1SZWpGb1YxbjN1RG53NldEZGRETmlIaDQ0TlE1YXFjV0dNcDFoVVExcTFndWhFR2tFQUNRSW9yQdIBVEFVX3lxTFA3dFVBcTY0MUdzSWlWcVZRM29OTlVLcUF2QUQwVFFUVnN5NGRBVW5lbTBMSTd6ZkUtQ1ZURU1VMjlJRWlRVXZqWUV6RmQ0N3YxbVMyYQ?oc=5",
-      "publishedAt": "2026-03-08T22:42:13.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 3.5,
-      "importanceRaw": 63,
-      "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 정보가 간결하게 제공됩니다.",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 핵심 내용을 전달한다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -156,29 +161,61 @@
       "category": "기술",
       "title": "애플, 맥북 네오 출시 후 '울트라' 제품 확장 예정",
       "summary": [
-        "애플이 맥북 네오 출시 후 '울트라' 제품 라인 확장을 계획하고 있다고 블룸버그가 보도했다.",
-        "이는 애플의 고성능 제품군 강화 전략의 일환으로 풀이된다."
+        "애플이 맥북 네오 출시 이후 '울트라' 제품 라인 확장을 준비 중이다.",
+        "블룸버그 통신이 이 소식을 보도했다."
       ],
-      "whyImportant": "애플의 '울트라' 제품군 확장은 고성능 컴퓨팅 시장에서의 경쟁 심화를 의미합니다.",
-      "importanceRationale": "근거: 애플이 '울트라' 제품군에 대한 투자를 늘리는 것은 해당 시장의 성장 가능성을 높게 보고 있다는 것을 시사하며, 이는 관련 부품 및 기술 개발에 대한 투자 확대로 이어질 수 있습니다.",
+      "whyImportant": "애플의 고성능 제품 전략 방향을 보여주는 신호탄이다.",
+      "importanceRationale": "근거: 애플이 '울트라' 라인업 확장을 통해 고성능 컴퓨팅 시장에서의 입지를 강화하려는 움직임을 시사한다.",
       "impactSignals": [],
-      "dedupeKey": "apple_ultra_expansion_20240126",
+      "dedupeKey": "apple_ultra_expansion_20240110",
       "clusterKey": "after",
       "matchedTo": null,
       "sourceName": "Bloomberg.com",
       "sourceUrl": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZlBiSGZxVE9kTlFEUW9UU2ZTMlZEcEw5U2tQRy1lOUg5WGJScE9GMnd4WVhSLWhKSHNaZXNZT1hVQWVtdVBjanBiLU5fM2dSS2RDMkJRLXBoQThjNVlKTHBnT1o1a2plaVl2Sm1pbjFsc3RjRUdaSVdZV3BIb0tLNUlxVVJOSlF5R2MxZWV1eVY4SUV0UlB2aHJyM0lPNmhEOWtKeGUwS0J0Ukh6WGZ5T0puQURwM1ZGMG5vcS0zT1JYWXRJZzJWSk1zb2VPbm80YnJnWQ?oc=5",
-      "publishedAt": "2026-03-08T12:00:01.000Z",
+      "publishedAt": "2026-03-09T04:10:12.000Z",
       "readTimeSec": 10,
       "status": "kept",
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 정보가 간결하고 명확하게 전달됨. / 근거부족",
+      "qualityReason": "제목과 본문이 일치하며, 간결하게 핵심 내용을 전달한다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-03-09_7",
+      "date": "2026-03-09",
+      "category": "기술",
+      "title": "마이크로소프트: 해커들이 인공지능을 이용해 피싱 이메일을 작성하고 악성 소프트웨어를 개발하여 전 세계적인 사이버 공격을 가속화하고 있습니다.",
+      "summary": [
+        "마이크로소프트는 해커들이 인공지능을 활용해 피싱 이메일 작성, 악성 소프트웨어 개발, 사이버 공격 가속화에 나서고 있다고 밝혔습니다.",
+        "이는 전 세계적인 사이버 보안에 대한 심각한 위협으로 간주됩니다."
+      ],
+      "whyImportant": "인공지능을 이용한 사이버 공격의 증가",
+      "importanceRationale": "근거: 마이크로소프트의 발표에 따르면 해커들이 인공지능을 활용하여 사이버 공격을 더욱 정교하고 빠르게 수행하고 있어, 사이버 보안에 대한 새로운 위협이 되고 있습니다.",
+      "impactSignals": [
+        {
+          "label": "security",
+          "evidence": "해커들이 인공지능을 이용해 사이버 공격을 가속화하고 있다는 마이크로소프트의 발표"
+        }
+      ],
+      "dedupeKey": "microsoft_ai_cyberattacks",
+      "clusterKey": "마이크로소프트",
+      "matchedTo": null,
+      "sourceName": "Vietnam.vn",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQM29RMVdndGdlUEFRNlZuMFlCYnU4QUtRWk10dWswbUZaX3BUbXZzazBsU21yZjlIRmM1T2w0cFpGYk9Ea2pLa3NPVU5Mc0hTM29JV2QxVDVuLUZtbHdId1FmVkg0SHdYaUZ3cExjTkZXdXN5b3lXRVllMzI3ZTZLNW96bE9wNVJ6U3k2aVc1QmFBWXVySTJMa3FJdnFRRWc3d1NWYTVCeHpUT1BNN0JzTEpYLS1CVlV2UUs0cQ?oc=5",
+      "publishedAt": "2026-03-09T03:34:55.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 4.5,
+      "importanceRaw": 88,
+      "qualityLabel": "ok",
+      "qualityReason": "The article is a direct report of Microsoft's statement, making it a reliable source of information.",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-03-09_8",
       "date": "2026-03-09",
       "category": "기술",
       "title": "글로벌 연합, 초기 접근 및 대규모 온라인 사칭의 주요 동인인 Tycoon 2FA 파괴",
@@ -187,11 +224,11 @@
         "이번 조치는 온라인 보안을 강화하는 데 기여할 것으로 예상됩니다."
       ],
       "whyImportant": "Tycoon 2FA 파괴는 온라인 사칭 및 초기 접근 공격을 방어하는 데 중요한 진전입니다.",
-      "importanceRationale": "근거: Tycoon 2FA는 대규모 온라인 사칭 및 초기 접근의 주요 동인이었으며, 이를 파괴함으로써 관련 공격 위험을 감소시켰습니다.",
+      "importanceRationale": "근거: Tycoon 2FA는 대규모 온라인 사칭 및 초기 접근의 주요 원인이었으며, 이를 파괴함으로써 관련 공격 위험을 크게 줄일 수 있습니다.",
       "impactSignals": [
         {
           "label": "security",
-          "evidence": "Tycoon 2FA 파괴는 온라인 사칭 및 초기 접근 공격 방어에 기여합니다."
+          "evidence": "Tycoon 2FA 파괴로 온라인 사칭 및 초기 접근 공격 방어"
         }
       ],
       "dedupeKey": "tycoon2fa_disrupted",
@@ -205,39 +242,7 @@
       "importance": 4,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "The article provides a clear and concise summary of a significant event in online security.",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-03-09_8",
-      "date": "2026-03-09",
-      "category": "정책",
-      "title": "정부 부처 공무원노조, 공무원노조법 개정 논의 시작…국회 입법 절차 착수",
-      "summary": [
-        "정부 부처 공무원노조가 공무원노조법 개정 논의를 시작했다.",
-        "국회에서 입법 절차가 착수될 예정이다."
-      ],
-      "whyImportant": "공무원노조법 개정 논의의 시작을 알리는 중요한 신호탄이다.",
-      "importanceRationale": "근거: 공무원노조법 개정 논의가 시작되었고, 이는 국회 입법 절차로 이어질 수 있다.",
-      "impactSignals": [
-        {
-          "label": "policy",
-          "evidence": "공무원노조법 개정 논의 및 국회 입법 절차 착수"
-        }
-      ],
-      "dedupeKey": "정부부처 공무원노조, 공무원노조법 개정 논의 물꼬…국회 입법 절차 착수",
-      "clusterKey": "개정",
-      "matchedTo": null,
-      "sourceName": "livesnews.com",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9PbzJ5VEYtUHA5clZKS3kxUF9yNjladlFyNjhBQ0ZmR2N0ZkJkVFBCX0tpaV90LTJOZ3hJT1lXOUVGN2ktREUycTdySVUtenA2OWlGTHFWRm5uQXQz?oc=5",
-      "publishedAt": "2026-03-09T01:02:46.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 4,
-      "importanceRaw": 75,
-      "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되어 있음.",
+      "qualityReason": "기사 제목과 내용이 일치하며, 정보가 명확합니다.",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -245,52 +250,56 @@
       "id": "2026-03-09_9",
       "date": "2026-03-09",
       "category": "국제",
-      "title": "미국, 중국 기업당 엔비디아 H200 7만 5천 개로 공급 제한 검토",
+      "title": "트럼프, 사이버 전략 강화 발표…AI 및 규제 완화 강조",
       "summary": [
-        "미국이 중국 기업에 대한 엔비디아 H200 공급을 기업당 7만 5천 개로 제한하는 방안을 검토 중이다.",
-        "이는 한국무역협회를 통해 알려졌다."
+        "트럼프 대통령이 인공지능과 규제 완화를 전면에 내세운 강화된 사이버 전략을 발표했습니다."
       ],
-      "whyImportant": "미국의 대중국 반도체 수출 규제 강화 가능성을 보여주는 사례이다.",
-      "importanceRationale": "근거: 미국이 특정 기업에 대한 엔비디아 H200 공급량을 제한하는 정책을 고려하고 있다는 정보는, 미중 기술 경쟁 심화와 그에 따른 무역 환경 변화를 시사한다.",
+      "whyImportant": "트럼프 행정부의 사이버 보안 정책 방향을 보여주는 중요한 발표입니다.",
+      "importanceRationale": "근거: 트럼프 대통령의 사이버 전략 발표는 미국의 사이버 보안 정책의 우선순위와 방향을 명확히 제시하며, AI와 규제 완화에 대한 강조는 향후 관련 산업과 정책 결정에 영향을 미칠 수 있습니다.",
       "impactSignals": [],
-      "dedupeKey": "미국, 중국 기업당 엔비디아 H200 7만5천개로 공급 제한 검토",
-      "clusterKey": "미중/7만5천개로",
+      "dedupeKey": "trump-cyber-strategy-ai-deregulation",
+      "clusterKey": "강화한",
       "matchedTo": null,
-      "sourceName": "한국무역협회-KITA.NET",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxONzViTzM4RWozYkdPclZLLURsd0ZWT3JhdWpNX1EyVEdiZDFTVldhWjNjelY1OThpVmdLcE9GT082cVpLREVyN1g3VDQzZ04zY1ZPU2hxVUlERzk5dnZ6VlQxZ3NseWF5dHkyQ0loN1U0RFZUcy16VzN6d3NteHBBOU9zbHFjc2xmLVRhODR4RFREVTBvcFgzZThBdmZhcDE5dUNMOGN6Q0NmRjJ4dzNjckhWUl9OVGlUcXZWaDRYakZXb0RfanI1SmpuSEg2cmQ3SVZ2NQ?oc=5",
-      "publishedAt": "2026-03-08T21:01:06.000Z",
+      "sourceName": "cio.com",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiygJBVV95cUxPZFdNZ1JWdl9aZVA5RTM3UWNKTVZNLS13a2xnNDlpTi1ORFQ5V1pXRFAtZ0YzZXV0dzhaMnVyWnRrc0FjZHFqYms3dUJMcXNYRjVTSWJadkp5ZUtGV0h5NnY0Ymt3OFNoYllUc05mSG1kS3ZFeWtRR2pNN1pDNGNUUE1ORng4bmZ3S0xneXVTdVFIOEZHWGVWVkt5UkhIRFJPdFZ0RnZDQTlUUmltcUczUTRUVDBpRE83ZGV5V2ZpVFIyX0lUbWJQdmt6dU9OdWJPUHRUYkJPM2ZIX3ZWRmlJZnprM2EySHRVbG5Dd1JJbGw3c1NLQWdYZXQxcE5mUkZZUGFBZGo5aG85Um9lMjNCN0RPMjNkZzlXTWstTVZ6Q0Y5TkxDaWlURUt5MjhLMlpmdmlDU1dzN3c1dERUZzdOb0hZRWplWEVXdlE?oc=5",
+      "publishedAt": "2026-03-09T02:42:26.000Z",
       "readTimeSec": 10,
       "status": "kept",
       "importance": 2,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 정보가 간결하게 제공됨. / 근거부족",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었습니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-03-09_10",
       "date": "2026-03-09",
-      "category": "경제",
-      "title": "BGF리테일, 편의점 업황 회복 시 최대 수혜 전망 - 상상인",
+      "category": "국제",
+      "title": "기업 대상 제로데이 공격, 작년 크게 증가",
       "summary": [
-        "상상인은 BGF리테일이 편의점 업황 회복 시 최대 수혜를 볼 것으로 전망했다."
+        "지난해 기업을 노린 제로데이 공격이 크게 증가했습니다."
       ],
-      "whyImportant": "BGF리테일의 향후 실적에 대한 긍정적 전망을 제시합니다.",
-      "importanceRationale": "근거: 상상인의 분석에 따른 편의점 업황 회복 시 BGF리테일의 최대 수혜 전망.",
-      "impactSignals": [],
-      "dedupeKey": "BGF리테일, 편의점 업황 회복 시 최대 수혜 전망",
-      "clusterKey": "bgf리테일",
+      "whyImportant": "기업 보안에 대한 위협이 증가하고 있음을 시사합니다.",
+      "importanceRationale": "근거: 제로데이 공격 증가는 기업의 IT 보안 시스템에 대한 직접적인 위협 증가를 의미하며, 잠재적인 데이터 유출 및 시스템 손상으로 이어질 수 있습니다.",
+      "impactSignals": [
+        {
+          "label": "security",
+          "evidence": "제로데이 공격 증가는 기업 보안에 직접적인 영향을 미칩니다."
+        }
+      ],
+      "dedupeKey": "zeroday_attack_increase_2023",
+      "clusterKey": "it비즈뉴스",
       "matchedTo": null,
-      "sourceName": "한국경제",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBVVVY1LXB0Qm9Ld2pnaVd6NGxrRF9XOFZBbFl0OW5PQmJFTUZOOHlhOW5PZUtMTXRWeHJCVmZteGFPbktzUk5Ka3ltS3Jia0N5M2JBa0E5OVY0d9IBVEFVX3lxTFA5MnEzVUJUampqQWxnMHNaQ2ZyM2dYSFNMZUQwSWZsWXhjQ1FyWWdWWWNnUlZ4QjhXSjlIenRVNFN6Nkk1Y3NreV9iVzZaU2RaMFFDMw?oc=5",
-      "publishedAt": "2026-03-08T23:07:44.000Z",
+      "sourceName": "IT비즈뉴스",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5nOHg4cUtrUjdPS3NUaTJXZ0lxWGR0cGFkSkhVLWtTb1VwTndqaEdWOXdkVkd5Rk4tc2hqV24zMGpneTduTC1KeUtvTjBKLXFoeWdmSkNwa1ZIbmhYbHBtaVY1NkZPWnVZZk45OA?oc=5",
+      "publishedAt": "2026-03-09T02:00:00.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 2,
-      "importanceRaw": 63,
+      "importance": 4,
+      "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었습니다. / 근거부족",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었습니다.",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -300,10 +309,10 @@
       "category": "경제",
       "title": "미래에셋생명, '보증형 실적배당보험' 판매액 500억 돌파",
       "summary": [
-        "미래에셋생명이 판매하는 '보증형 실적배당보험'의 판매액이 500억 원을 돌파했습니다."
+        "미래에셋생명이 판매하는 '보증형 실적배당보험'의 판매액이 500억 원을 돌파했다."
       ],
-      "whyImportant": "미래에셋생명의 보증형 실적배당보험 판매액이 500억을 돌파한 것은 해당 상품에 대한 시장 수요가 높다는 것을 의미합니다.",
-      "importanceRationale": "근거: 미래에셋생명의 특정 상품 판매액 증가는 회사의 수익에 긍정적인 영향을 미치며, 시장 수요를 반영하는 지표로 활용될 수 있습니다.",
+      "whyImportant": "미래에셋생명의 보증형 실적배당보험 판매액이 500억을 돌파한 것은 해당 상품에 대한 시장 수요가 높다는 것을 시사한다.",
+      "importanceRationale": "근거: 미래에셋생명의 특정 상품 판매액 증가는 수익 증대와 시장 수요를 나타낸다.",
       "impactSignals": [],
       "dedupeKey": "미래에셋생명, '보증형 실적배당보험' 판매액 500억 돌파",
       "clusterKey": "500억",
@@ -316,7 +325,7 @@
       "importance": 2,
       "importanceRaw": 50,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었습니다. / 근거부족",
+      "qualityReason": "제목과 내용이 일치하며 간결하게 요약됨. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -326,18 +335,18 @@
       "category": "정책",
       "title": "미국, 엔비디아, AMD의 글로벌 AI 칩 판매에 대한 허가 요구 고려",
       "summary": [
-        "미국 정부가 엔비디아와 AMD의 글로벌 AI 칩 판매에 대한 허가 요건을 고려 중이다.",
-        "이는 해당 칩의 중국 판매를 제한하려는 노력의 일환으로 보인다."
+        "미국이 엔비디아와 AMD의 글로벌 AI 칩 판매에 대한 허가 요구를 고려하고 있다고 블룸버그가 보도했다.",
+        "이는 AI 칩 시장에 영향을 미칠 수 있는 정책적 변화로 보인다."
       ],
-      "whyImportant": "미국 정부의 규제 강화 가능성은 AI 칩 시장에 큰 영향을 미칠 수 있습니다.",
-      "importanceRationale": "근거: 엔비디아와 AMD는 AI 칩 시장의 주요 공급업체이며, 이들의 판매 제한은 시장 수요와 공급에 직접적인 영향을 줄 수 있습니다.",
+      "whyImportant": "미국의 AI 칩 수출 통제 강화 가능성",
+      "importanceRationale": "근거: 미국의 엔비디아, AMD AI 칩 판매 허가 요구 고려는 글로벌 AI 칩 시장의 판도를 바꿀 수 있는 중요한 정책 변화의 신호탄이 될 수 있다.",
       "impactSignals": [
         {
           "label": "market-demand",
-          "evidence": "엔비디아와 AMD의 AI 칩 판매에 대한 허가 요건은 시장 수요에 직접적인 영향을 줄 수 있음"
+          "evidence": "AI 칩 판매에 대한 허가 요구 고려"
         }
       ],
-      "dedupeKey": "US_CONSIDER_AI_CHIP_PERMIT",
+      "dedupeKey": "US_AI_Chip_Permits",
       "clusterKey": "반도체/amd",
       "matchedTo": null,
       "sourceName": "Bloomberg.com",
@@ -348,7 +357,7 @@
       "importance": 4,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 내용이 일치하며, 핵심 정보를 잘 요약했습니다.",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약됨.",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -356,13 +365,40 @@
       "id": "2026-03-09_13",
       "date": "2026-03-09",
       "category": "정책",
-      "title": "“모두를 위한 관광” 접근성 개선 토론회, 11일 국회에서 개최",
+      "title": "민주당 TF와 금융위, 스테이블 코인 발행 주체 확대 합의…정부, 지자체, 핀테크 참여 가능성",
+      "summary": [
+        "민주당 TF와 금융위원회가 스테이블 코인 발행 주체 확대를 합의했다.",
+        "정부, 지방자치단체, 핀테크 기업의 참여 가능성이 열렸다."
+      ],
+      "whyImportant": "스테이블 코인 발행 주체 확대에 대한 정책적 결정으로, 관련 시장에 영향을 줄 수 있다.",
+      "importanceRationale": "근거: 민주당 TF와 금융위가 스테이블 코인 발행 주체 확대에 합의함에 따라 정부, 지자체, 핀테크 기업의 참여 가능성이 제시되었다.",
+      "impactSignals": [],
+      "dedupeKey": "민주당TF·금융위, 스테이블코인 발행 주체 확대 합의…정부·지자체·핀테크 참여 가능성",
+      "clusterKey": "금융위",
+      "matchedTo": null,
+      "sourceName": "블루밍비트",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4wZVF5ZHJhUmNrQnVhZTJwWDVuN0JqZ0xYYTdJTE1TSjJsU2xoVmR3eFpTYTJ6NVR1RGRCNmh4NWhRaGFJZzZSeTl4MEhKT0J6?oc=5",
+      "publishedAt": "2026-03-09T02:50:04.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 63,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 핵심 내용을 전달한다. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-03-09_14",
+      "date": "2026-03-09",
+      "category": "정책",
+      "title": "“모두를 위한 관광” 접근성 개선 토론회 11일 국회서 개최",
       "summary": [
         "“모두를 위한 관광” 접근성 개선 토론회가 11일 국회에서 개최됩니다.",
-        "이번 토론회는 관광 접근성 개선을 논의하기 위해 마련되었습니다."
+        "복지타임즈에 따르면 이번 토론회는 관광 접근성 개선을 목표로 합니다."
       ],
-      "whyImportant": "관광 접근성 개선 정책 방향을 제시할 수 있습니다.",
-      "importanceRationale": "근거: 토론회가 국회에서 개최되어 정책 결정에 영향을 줄 수 있으며, '모두를 위한 관광'이라는 포괄적인 목표를 설정하여 사회적 의미가 큽니다.",
+      "whyImportant": "관광 접근성 개선을 위한 정책 논의의 시작을 알리는 행사입니다.",
+      "importanceRationale": "근거: 국회에서 개최되는 토론회이며, '모두를 위한 관광'이라는 포괄적인 목표를 가지고 있어 정책적 중요성을 가집니다.",
       "impactSignals": [],
       "dedupeKey": "모두를 위한 관광 접근성 개선 토론회 11일 국회서 개최",
       "clusterKey": "11일",
@@ -375,21 +411,53 @@
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되어 있습니다. / 근거부족",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었습니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-03-09_14",
+      "id": "2026-03-09_15",
+      "date": "2026-03-09",
+      "category": "경제",
+      "title": "루닛·뷰노·코어라인, 상장 후 지속적인 시장 조달…자생력 확보 필요",
+      "summary": [
+        "루닛, 뷰노, 코어라인 등은 상장 이후에도 지속적으로 시장에서 자금을 조달하고 있다.",
+        "이는 기업들이 자생력을 갖추기 위한 노력의 일환으로 해석된다."
+      ],
+      "whyImportant": "상장 이후에도 시장 조달을 지속하는 기업들의 자생력 확보 노력은 투자 및 시장에 중요한 지표가 될 수 있다.",
+      "importanceRationale": "근거: 상장 후 지속적인 시장 조달은 기업의 성장 전략 및 재정 상태를 나타내는 중요한 지표이며, 이는 투자 결정에 영향을 미칠 수 있다.",
+      "impactSignals": [
+        {
+          "label": "capex",
+          "evidence": "상장 후 지속적인 시장 조달은 기업의 자본 지출(CAPEX) 활동과 관련될 수 있다."
+        }
+      ],
+      "dedupeKey": "루닛·뷰노·코어라인_상장후_시장조달",
+      "clusterKey": "갖추려면",
+      "matchedTo": null,
+      "sourceName": "마켓인",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1UdFJUOWJHUWNfSk5mWUZ6MkE0WUZILWFCTHhrd3lCWFc4VmlpX1dMRHNmYUZlNVV6Ymtva2czazFSRzF1aGo5ZDZMWFBWSmhKQjd0ZHJkWE1odGtCOXhOUnRlUHFFNHNNd2ZyQS1JcjdsZWM?oc=5",
+      "publishedAt": "2026-03-08T23:21:02.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 3.5,
+      "importanceRaw": 63,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 본문이 일치하며, 내용이 간결하고 명확함.",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-03-09_16",
       "date": "2026-03-09",
       "category": "경제",
       "title": "[하메네이 사망] 금융위 \"필요시 100조＋α 시장안정프로그램 시행\" - 한국무역협회",
       "summary": [
         "금융위원회는 필요시 100조 원+α 규모의 시장안정 프로그램을 시행할 것이라고 밝혔습니다.",
-        "한국무역협회(KITA)가 관련 내용을 보도했습니다."
+        "이는 시장의 안정을 도모하기 위한 조치입니다."
       ],
-      "whyImportant": "시장 안정화 조치에 대한 정부의 의지를 보여주는 발표입니다.",
-      "importanceRationale": "근거: 금융위원회의 발표는 시장 불안 심리를 완화하고, 필요한 경우 즉각적인 조치를 취할 준비가 되어 있음을 시사합니다.",
+      "whyImportant": "금융 시장 안정화 정책 발표",
+      "importanceRationale": "근거: 금융위원회가 시장 안정을 위해 대규모 시장안정 프로그램 시행을 발표했기 때문입니다.",
       "impactSignals": [],
       "dedupeKey": "[하메네이 사망] 금융위 \"필요시 100조＋α 시장안정프로그램 시행\" - 한국무역협회",
       "clusterKey": "100조",
@@ -402,66 +470,7 @@
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었습니다. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-03-09_15",
-      "date": "2026-03-09",
-      "category": "국제",
-      "title": "중국 JD.com, 보조금 효과 감소로 매출 추정치 하회",
-      "summary": [
-        "중국의 전자상거래 기업 JD.com이 매출 추정치를 하회했다.",
-        "이는 보조금 효과가 줄어들었기 때문으로 분석된다."
-      ],
-      "whyImportant": "JD.com의 실적 부진은 중국 전자상거래 시장의 성장 둔화를 시사할 수 있다.",
-      "importanceRationale": "근거: JD.com은 중국의 주요 전자상거래 기업 중 하나이며, 실적은 시장 전반의 상황을 반영하는 지표가 될 수 있다.",
-      "impactSignals": [],
-      "dedupeKey": "JD.com_misses_revenue_estimates_as_subsidy_boost_tapers",
-      "clusterKey": "boost",
-      "matchedTo": null,
-      "sourceName": "Reuters",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNN2xRNlp6Zll6S0o4aDAzOXdpVGpNMG9HVHZjalUtUFNBWTBZaGtWVnE0cEFPb3lnOC1sWXozUXZ4OC03U0Z5cTNlaUp4Xy1nbjViOV9wZGRNdTRJRS1kMWRiTXJvRTY3aWktcGN4WWlOeWx4NGFOeWpfZ1E2UHhtUTU3aEFQSGN6b1NfUHZSVVZsVnptYlNlcTVOTnc3UFo0SG5SMXhURmFLbUE5?oc=5",
-      "publishedAt": "2026-03-05T10:06:59.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 63,
-      "qualityLabel": "ok",
-      "qualityReason": "The article is a factual report from Reuters. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-03-09_16",
-      "date": "2026-03-09",
-      "category": "경제",
-      "title": "인프라 타격 및 반도체 수출 규제: 빅테크 기업의 AI 붐 위협",
-      "summary": [
-        "인프라 손상과 반도체 수출 규제가 빅테크 기업에 이중고를 안겨주고 있습니다.",
-        "이는 AI 기술 성장에 부정적인 영향을 미칠 수 있다는 분석이 제기됩니다."
-      ],
-      "whyImportant": "AI 기술 개발 및 확장에 차질이 생길 수 있습니다.",
-      "importanceRationale": "근거: 인프라 손상과 반도체 수출 규제가 동시에 발생하여 빅테크 기업의 AI 관련 사업 운영에 어려움을 가중시키기 때문입니다.",
-      "impactSignals": [
-        {
-          "label": "policy",
-          "evidence": "반도체 수출 규제가 AI 기술 개발에 필요한 하드웨어 접근성을 제한합니다."
-        }
-      ],
-      "dedupeKey": "infrastruct_semiconduct_bigtech_ai",
-      "clusterKey": "반도체/규제까지",
-      "matchedTo": null,
-      "sourceName": "Benzinga",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMisgJBVV95cUxPNk5RdDdvRERLV2JtajR4SmF6RWJYSHZTaTFQRGtyWFhYejZydC1SUzZYTWREOHZpT1VsWWM0YmcxeWREem1Yc0pFSHVya1hra2ZnWjZLS3FrUWNHMFo3R0ctUWJJUHhtV0hwS2pXTmdxTGxtSEdRNmdXallkemphVWRUbEtnQ3JGR0sxbjQ2MXVEUFhkQnZKZ3ZpZG1WbGowX1hkM2NrLVBnQTFMSEZKTmlQQWRKQk1oU2RqUGlJSlNNUFp3SDh1NTJiRUNOMmczZl8yUU9QZEhPU1JrN012Mmo1dzZPNVVDcVhTWGxQUTM4Xy01ZkhtMjBGcDcyTzloZ1RqajRUN3RWUTI4VEhDaTd1amhZcnN3RVIxenVscnhqLVJsMm1PNi05MXJ1U2I1UVE?oc=5",
-      "publishedAt": "2026-03-07T01:29:22.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 3.5,
-      "importanceRaw": 63,
-      "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 핵심 내용을 잘 반영하고 있습니다.",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 핵심 내용을 전달합니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -469,14 +478,41 @@
       "id": "2026-03-09_17",
       "date": "2026-03-09",
       "category": "국제",
+      "title": "통상본부장, 메르코수르 주한대사들과 무역협정 협상 재개 논의",
+      "summary": [
+        "통상본부장이 메르코수르 주한대사들과 무역협정 협상 재개에 대해 논의했다.",
+        "한국무역협회(KITA)는 이번 논의를 통해 무역협정 협상이 진전될 것으로 기대하고 있다."
+      ],
+      "whyImportant": "한국과 메르코수르 간의 무역 협상 재개 가능성을 시사합니다.",
+      "importanceRationale": "근거: 통상본부장이 직접 메르코수르 주한대사들과 만나 무역협정 협상 재개를 논의했다는 사실은, 해당 협정이 한국의 무역 정책에 있어 중요한 우선순위임을 나타낸다.",
+      "impactSignals": [],
+      "dedupeKey": "통상본부장, 메르코수르 주한대사들과 무역협정 협상 재개 논의",
+      "clusterKey": "kita",
+      "matchedTo": null,
+      "sourceName": "한국무역협회-KITA.NET",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQWlIxcTJpRVBTX3dnT3kycjdtYlh0UFU5aU1NZkpiemRQUTF2MGlpb3hMSzlvMlBhYjFWbG1zSGV1ZEZTcC0tWEhpbTJvOF9kQThLTEh2cVlDampPZmt4VmlfUlpDYWk4cHdaZ0ctallCZm1hOTB6aDRtaDNZVHREd0ZXSFRkWWNTNktnTnJJTEc4QXBJeGNJS3FkUDdnRVdiMFFvNktkWklSVXhDQi1sa2xGR2lGMl9uY3BndFpzekxFOHFqbDFnUlB4Mkdaek9JMmVCVw?oc=5",
+      "publishedAt": "2026-03-05T03:42:26.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 63,
+      "qualityLabel": "ok",
+      "qualityReason": "기사 제목과 내용이 일치하며, 간결하게 요약되어 있습니다. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-03-09_18",
+      "date": "2026-03-09",
+      "category": "국제",
       "title": "[주간경제전망] TSMC 2월 매출 발표, 삼성전자·SK하이닉스도 주목",
       "summary": [
         "이번 주간 경제 전망에서는 TSMC의 2월 매출 발표에 삼성전자와 SK하이닉스도 주목하고 있다."
       ],
-      "whyImportant": "TSMC의 매출 발표는 반도체 산업 전반에 대한 중요한 지표가 될 수 있다.",
-      "importanceRationale": "근거: TSMC는 세계 최대의 파운드리 기업이며, 그 실적은 반도체 시장의 수요와 공급 상황을 반영하기 때문이다.",
+      "whyImportant": "TSMC의 매출 발표는 반도체 산업 전반에 대한 중요한 지표를 제공한다.",
+      "importanceRationale": "근거: TSMC의 실적은 반도체 시장의 수요와 공급 상황을 반영하며, 이는 삼성전자와 SK하이닉스와 같은 경쟁사에게도 영향을 미친다.",
       "impactSignals": [],
-      "dedupeKey": "TSMC_revenue_feb_2024",
+      "dedupeKey": "TSMC_매출_발표_삼성전자_SK하이닉스_주목",
       "clusterKey": "반도체/2월",
       "matchedTo": null,
       "sourceName": "Investing.com 한국어",
@@ -487,33 +523,7 @@
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "The article directly references a specific economic event and companies. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-03-09_18",
-      "date": "2026-03-09",
-      "category": "기술",
-      "title": "글로우 AI 스튜디오, 기업용 저작권 리스크 관리를 위한 ‘제작 공정 확인서’ 발급",
-      "summary": [
-        "글로우 AI 스튜디오가 기업용 저작권 리스크 관리를 위한 ‘제작 공정 확인서’를 발급합니다."
-      ],
-      "whyImportant": "기업의 저작권 리스크 관리 강화에 기여할 수 있습니다.",
-      "importanceRationale": "근거: 글로우 AI 스튜디오가 기업용 저작권 리스크 관리를 위한 확인서를 발급한다는 직접적인 사실에 기반합니다.",
-      "impactSignals": [],
-      "dedupeKey": "글로우 AI 스튜디오, 기업용 저작권 리스크 관리 확인서 발급",
-      "clusterKey": "관리",
-      "matchedTo": null,
-      "sourceName": "서울경제TV",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9oenpHSUFoSGNtaVlCekh6M05DNkpMV2NNUFJjUFpTQ0RkQXlvc25CMFVhN19vN2lXRVhNdXZUT25NcnBDN1d5QzJES2h1NjZQMFloZEpDaGFhSmtwcWtiVy1uLUU?oc=5",
-      "publishedAt": "2026-03-09T00:00:04.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 50,
-      "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었습니다. / 근거부족",
+      "qualityReason": "제목과 본문이 일치하며, 경제 전망에 대한 정보를 제공한다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     }
