@@ -3,7 +3,7 @@
   "selectionCriteria": "① 내일도 영향이 남는 이슈 ② 과도한 감정 소모 제외 ③ 어제와 중복되는 뉴스 제외",
   "editorNote": "이 뉴스는 클릭 수가 아니라 오늘 이후에도 남는 정보만 기준으로 편집했습니다.",
   "question": "정보를 덜 보는 것이 오히려 더 똑똑한 소비일까?",
-  "lastUpdatedAt": "2026-03-09T18:45:56.439+09:00",
+  "lastUpdatedAt": "2026-03-09T19:42:32.767+09:00",
   "items": [
     {
       "id": "2026-03-09_1",
@@ -12,11 +12,16 @@
       "title": "엔비디아, AI 데이터 센터 스타트업 Nscale 지원, 기업 가치 146억 달러 달성",
       "summary": [
         "엔비디아가 AI 데이터 센터 스타트업인 Nscale을 지원하며, Nscale의 기업 가치가 146억 달러에 달했다.",
-        "이번 투자는 AI 데이터 센터 시장의 성장 가능성을 보여준다."
+        "Nvidia의 투자는 AI 데이터 센터 시장의 성장 가능성을 보여준다."
       ],
-      "whyImportant": "엔비디아의 투자는 AI 데이터 센터 시장의 성장 가능성을 시사하며, Nscale의 기업 가치 상승은 시장의 관심을 끈다.",
-      "importanceRationale": "근거: 엔비디아의 지원과 Nscale의 기업 가치 증가는 AI 데이터 센터 시장의 성장과 투자 유치에 긍정적인 신호로 해석될 수 있다.",
-      "impactSignals": [],
+      "whyImportant": "AI 데이터 센터 시장에 대한 엔비디아의 전략적 투자로, 시장 경쟁 심화 및 기술 혁신 가속화가 예상된다.",
+      "importanceRationale": "근거: 엔비디아의 투자는 AI 데이터 센터 시장의 성장 가능성을 높게 평가한 것으로 해석될 수 있으며, 이는 관련 시장의 경쟁 심화 및 기술 혁신을 가속화할 수 있다.",
+      "impactSignals": [
+        {
+          "label": "capex",
+          "evidence": "AI data center startup Nscale as it hits $14.6 billion valuation"
+        }
+      ],
       "dedupeKey": "nvidia_nscale_14.6b",
       "clusterKey": "backs",
       "matchedTo": null,
@@ -25,10 +30,10 @@
       "publishedAt": "2026-03-09T08:21:24.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 2,
-      "importanceRaw": 63,
+      "importance": 4,
+      "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 내용이 간결하고 명확하다. / 근거부족",
+      "qualityReason": "기사 제목과 본문이 일치하며, 정보가 명확하다.",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -38,13 +43,22 @@
       "category": "국제",
       "title": "AI 패권 경쟁 심화: 규제, 반도체, 데이터센터가 글로벌 산업 지형을 재편",
       "summary": [
-        "AI 패권 경쟁이 심화되고 있다.",
-        "규제, 반도체, 데이터센터가 글로벌 산업 판도를 재편하고 있다."
+        "AI 패권 경쟁이 심화되고 있습니다.",
+        "규제, 반도체, 데이터센터가 글로벌 산업 판도를 재편하고 있습니다."
       ],
-      "whyImportant": "AI 경쟁 심화와 관련된 규제, 반도체, 데이터센터의 중요성을 강조합니다.",
-      "importanceRationale": "근거: AI 패권 경쟁의 심화는 산업 전반에 걸쳐 큰 영향을 미치며, 규제, 반도체, 데이터센터는 이러한 경쟁의 핵심 요소입니다.",
-      "impactSignals": [],
-      "dedupeKey": "AI_competition_regulation_semiconductor_datacenter",
+      "whyImportant": "AI 경쟁 심화에 따른 산업 재편과 관련된 정책 및 투자 방향을 파악하는 것이 중요합니다.",
+      "importanceRationale": "근거: AI 패권 경쟁 심화는 관련 산업에 대한 규제 강화 및 투자 확대로 이어질 수 있으며, 이는 글로벌 산업 지형에 큰 영향을 미칠 수 있습니다.",
+      "impactSignals": [
+        {
+          "label": "policy",
+          "evidence": "AI 패권 경쟁 심화에 따른 규제 변화 가능성"
+        },
+        {
+          "label": "capex",
+          "evidence": "AI 경쟁 심화에 따른 반도체 및 데이터센터 투자 확대 가능성"
+        }
+      ],
+      "dedupeKey": "AI 패권 경쟁 격화…규제·반도체·데이터센터가 글로벌 산업 판도 다시 쓴다",
       "clusterKey": "반도체/격화",
       "matchedTo": null,
       "sourceName": "브랜드경제신문",
@@ -52,43 +66,15 @@
       "publishedAt": "2026-03-05T03:37:21.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 2,
+      "importance": 4,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 핵심 내용을 잘 요약했습니다. / 근거부족",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 핵심 내용을 전달합니다.",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-03-09_3",
-      "date": "2026-03-09",
-      "category": "정책",
-      "title": "AI 전력 비용은 누가 부담하나? 캘리포니아 감시 단체, 새로운 데이터 센터 규정 촉구",
-      "summary": [
-        "캘리포니아 감시 단체가 AI 전력 사용량 증가에 따른 새로운 데이터 센터 규정을 촉구했습니다.",
-        "이는 AI 기술 발전에 따른 전력 소비 문제에 대한 우려를 반영합니다.",
-        "새로운 규정은 데이터 센터의 에너지 효율성을 높이고 전력 사용에 대한 책임을 강화하는 데 초점을 맞출 것으로 예상됩니다."
-      ],
-      "whyImportant": "AI 기술 발전과 데이터 센터 확장에 따른 전력 소비 증가 문제에 대한 정책적 대응을 촉구하는 내용입니다.",
-      "importanceRationale": "근거: AI 기술 발전으로 인한 데이터 센터의 전력 소비량 증가 추세와 이에 대한 규제 필요성을 제기하고 있어 정책적 중요성이 높습니다.",
-      "impactSignals": [],
-      "dedupeKey": "AI_power_california_datacenter_rules",
-      "clusterKey": "에너지/california",
-      "matchedTo": null,
-      "sourceName": "CalMatters",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTWJPelU5NHhxTWVEa3J5OUpROHpJNHp6eEtldGZMcVhMSnJWdk11bFl6UU11SUxpMDVSbTVUZW5CVDZ5S1AxVGFLdlluM1J1eldXZHFENlY4YlBtVHktUzVhSjVkT04zaWpmQWpzWjAtUk50UFEzQzdzaGdBSmJ3elR2UUtDR2tY?oc=5",
-      "publishedAt": "2026-03-05T13:30:00.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 75,
-      "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 핵심 내용을 잘 요약했습니다. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-03-09_4",
       "date": "2026-03-09",
       "category": "경제",
       "title": "엔비디아, 사상 최고 실적에도 5.5% 급락…AI 거품 우려 재확산",
@@ -96,10 +82,10 @@
         "엔비디아가 사상 최고 실적을 기록했음에도 불구하고 주가가 5.5% 급락했다.",
         "이는 AI 거품에 대한 우려가 재확산된 결과로 분석된다."
       ],
-      "whyImportant": "엔비디아의 주가 급락은 AI 시장 전반에 대한 투자 심리 위축으로 이어질 수 있다.",
-      "importanceRationale": "근거: 엔비디아는 AI 반도체 시장의 선두 주자이며, 주가 변동은 시장 전체에 영향을 미칠 수 있다.",
+      "whyImportant": "엔비디아의 주가 급락은 AI 시장에 대한 투자 심리 변화를 시사한다.",
+      "importanceRationale": "근거: 엔비디아는 AI 산업을 선도하는 기업으로, 주가 변동은 전체 시장에 미치는 영향이 크다.",
       "impactSignals": [],
-      "dedupeKey": "nvidia_stock_drop_ai_bubble",
+      "dedupeKey": "nvidia-stock-drop-20240223",
       "clusterKey": "거품",
       "matchedTo": null,
       "sourceName": "한국무역협회-KITA.NET",
@@ -110,7 +96,34 @@
       "importance": 2,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 간결하게 요약됨 / 근거부족",
+      "qualityReason": "제목과 본문이 일치하며, 간결하게 핵심 내용을 전달한다. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-03-09_4",
+      "date": "2026-03-09",
+      "category": "정책",
+      "title": "AI 전력 비용은 누가 부담하나? 캘리포니아 감시 단체, 새로운 데이터 센터 규정 촉구",
+      "summary": [
+        "캘리포니아 감시 단체가 AI 전력 사용량 증가에 따른 데이터 센터 규정 강화를 촉구했습니다.",
+        "이는 AI 기술 발전에 따른 전력 소비 문제에 대한 우려를 반영합니다."
+      ],
+      "whyImportant": "AI 기술 발전과 데이터 센터 운영에 대한 정책적 논의를 촉발할 수 있습니다.",
+      "importanceRationale": "근거: 캘리포니아 감시 단체의 데이터 센터 규정 강화 촉구는 AI 전력 소비 문제에 대한 정책적 대응의 필요성을 제기하며, 이는 관련 산업 투자 및 정책 결정에 영향을 미칠 수 있습니다.",
+      "impactSignals": [],
+      "dedupeKey": "AI_power_california_datacenter_rules",
+      "clusterKey": "에너지/california",
+      "matchedTo": null,
+      "sourceName": "CalMatters",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTWJPelU5NHhxTWVEa3J5OUpROHpJNHp6eEtldGZMcVhMSnJWdk11bFl6UU11SUxpMDVSbTVUZW5CVDZ5S1AxVGFLdlluM1J1eldXZHFENlY4YlBtVHktUzVhSjVkT04zaWpmQWpzWjAtUk50UFEzQzdzaGdBSmJ3elR2UUtDR2tY?oc=5",
+      "publishedAt": "2026-03-05T13:30:00.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 63,
+      "qualityLabel": "ok",
+      "qualityReason": "기사 제목과 내용이 일치하며, 핵심 내용을 잘 반영하고 있습니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -120,13 +133,13 @@
       "category": "경제",
       "title": "4분기 실적 분석: Ameresco (NYSE:AMRC), 다른 건설 및 엔지니어링 주식과의 비교",
       "summary": [
-        "Ameresco의 4분기 실적 발표.",
-        "건설 및 엔지니어링 주식 맥락에서 분석됨."
+        "Ameresco의 4분기 실적 발표가 있었습니다.",
+        "이번 실적 발표는 다른 건설 및 엔지니어링 주식과 비교 분석되었습니다."
       ],
-      "whyImportant": "Ameresco의 재무적 성과와 시장 내 위치를 파악하는 데 중요.",
-      "importanceRationale": "근거: Ameresco의 실적은 건설 및 엔지니어링 산업의 전반적인 건전성을 나타내는 지표가 될 수 있으며, 투자자와 시장 참여자에게 중요한 정보 제공.",
+      "whyImportant": "Ameresco의 실적은 건설 및 엔지니어링 산업 전반의 동향을 파악하는 데 중요합니다.",
+      "importanceRationale": "근거: Ameresco의 실적은 해당 산업의 투자 및 수익성에 대한 중요한 지표를 제공하며, 다른 기업과의 비교를 통해 산업 내에서의 위치를 평가할 수 있습니다.",
       "impactSignals": [],
-      "dedupeKey": "AMRC_Q4_Earnings_Construction_Engineering",
+      "dedupeKey": "AMRC_Q4_Earnings",
       "clusterKey": "ameresco",
       "matchedTo": null,
       "sourceName": "StockStory",
@@ -137,7 +150,7 @@
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 정보가 명확하게 제시됨. / 근거부족",
+      "qualityReason": "The article directly relates to the provided title and offers basic information. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -147,11 +160,11 @@
       "category": "경제",
       "title": "엔비디아, 중국 판매 제한으로 TSMC 칩 생산 능력 전환",
       "summary": [
-        "엔비디아가 중국 수출 제한으로 인해 TSMC의 칩 생산 능력을 다른 곳으로 전환하고 있다.",
-        "이는 중국 시장에 대한 수출 규제가 엔비디아의 생산 전략에 영향을 미치고 있음을 보여준다."
+        "엔비디아가 중국 수출 제한으로 인해 TSMC의 칩 생산 능력을 다른 곳으로 전환하고 있습니다.",
+        "이는 중국 시장에 대한 수출 규제가 엔비디아의 생산 전략에 영향을 미치고 있음을 보여줍니다."
       ],
-      "whyImportant": "중국 시장에 대한 수출 규제가 엔비디아의 생산 전략에 미치는 영향을 파악하는 것이 중요합니다.",
-      "importanceRationale": "근거: 엔비디아가 TSMC의 칩 생산 능력을 전환하는 것은 중국 시장의 중요성과 수출 규제의 직접적인 영향을 나타냅니다.",
+      "whyImportant": "미국 정부의 대중국 수출 규제 강화로 인해 엔비디아의 생산 전략에 변화가 생겼다는 점이 중요합니다.",
+      "importanceRationale": "근거: 엔비디아가 TSMC의 칩 생산 능력을 전환하는 것은 중국 시장에 대한 수출 규제가 엔비디아의 사업 운영에 직접적인 영향을 미치고 있음을 시사합니다.",
       "impactSignals": [
         {
           "label": "market-demand",
@@ -169,7 +182,7 @@
       "importance": 4,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 정보가 명확합니다.",
+      "qualityReason": "기사 제목과 내용이 일치하며, 핵심 내용을 잘 요약했습니다.",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -179,7 +192,7 @@
       "category": "경제",
       "title": "유가 급등으로 항공권 가격 급등, 항공사 실적에 '빨간불'",
       "summary": [
-        "유가 급등으로 인해 미국행 항공권은 45만원, 일본행은 7만원까지 가격이 상승했다.",
+        "유가 급등으로 인해 미국행 항공권은 45만원, 일본행 항공권은 7만원까지 가격이 상승했다.",
         "항공사들의 실적에 부정적인 영향을 미칠 것으로 예상된다."
       ],
       "whyImportant": "유가 상승이 항공권 가격에 미치는 영향과 항공사 실적에 대한 우려를 보여준다.",
@@ -187,10 +200,10 @@
       "impactSignals": [
         {
           "label": "market-demand",
-          "evidence": "항공권 가격 상승은 항공 여행 수요에 영향을 줄 수 있다."
+          "evidence": "항공권 가격 상승이 시장 수요에 영향을 줄 수 있음"
         }
       ],
-      "dedupeKey": "oil-price-spike-and-airline-performance",
+      "dedupeKey": "유가 급등 항공권 가격 상승 항공사 실적",
       "clusterKey": "45만원",
       "matchedTo": null,
       "sourceName": "뉴스1",
@@ -201,53 +214,22 @@
       "importance": 4,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 핵심 내용을 잘 요약했다.",
+      "qualityReason": "제목과 본문이 일치하며, 간결하게 요약되어 있음.",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-03-09_8",
       "date": "2026-03-09",
-      "category": "경제",
-      "title": "주택 건설업체 주식의 4분기 실적 반영: TopBuild (NYSE:BLD)",
-      "summary": [
-        "TopBuild (NYSE:BLD)의 4분기 실적에 대한 분석 기사입니다."
-      ],
-      "whyImportant": "TopBuild의 실적은 주택 건설 시장의 건전성을 나타내는 지표가 될 수 있습니다.",
-      "importanceRationale": "근거: TopBuild는 주택 건설 관련 기업이며, 실적은 해당 산업의 투자 및 전반적인 경제 상황을 반영합니다.",
-      "impactSignals": [
-        {
-          "label": "capex",
-          "evidence": "TopBuild의 실적은 주택 건설 투자를 반영합니다."
-        }
-      ],
-      "dedupeKey": "TopBuild_Q4_Earnings_Reflection",
-      "clusterKey": "bld",
-      "matchedTo": null,
-      "sourceName": "StockStory",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQYzk4TWgxNk5VRWxrd0ljMFBnZnhEYWNHemRTbFd2U2d0N0dONVVUbU5CeGJ2X3RmcFNWYk5uaVhkUUtOc3lRUy1faXlXdlFueFRrVFV4LV9lcFZjYU1taHdQZjBfMTlFMXhQV2NmZmZjbE45dnJ2eGpxWng0VnVKZUN0OS1vVjZMY19KVC13bkYwdWNOZnRwZGdqclU0d3l6eXN6dE5oLUdabmpDZ2hYVGg0VW5DdkFyWVVv?oc=5",
-      "publishedAt": "2026-03-09T09:19:32.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 3,
-      "importanceRaw": 50,
-      "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었습니다.",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-03-09_9",
-      "date": "2026-03-09",
       "category": "정책",
       "title": "과기정통부·행안부, 범정부 AI 전환 본격 지원 시작",
       "summary": [
         "과학기술정보통신부와 행정안전부가 범정부 AI 전환을 본격적으로 지원한다.",
         "이번 지원은 정부 전체의 인공지능 도입 및 활용 확대를 목표로 한다.",
-        "YTN 사이언스 보도 내용임."
+        "AI 기술을 통해 공공 서비스의 효율성을 높이고 국민 편의를 증진할 것으로 기대된다."
       ],
-      "whyImportant": "정부의 AI 전환 정책 지원 시작은 공공 서비스 혁신과 효율성 증대에 기여할 수 있다.",
-      "importanceRationale": "근거: 과기정통부와 행안부가 범정부 AI 전환을 본격적으로 지원하기 시작했다는 사실은 정부 차원에서 AI 기술 도입 및 활용을 적극적으로 추진하고 있음을 나타낸다.",
+      "whyImportant": "정부의 AI 전환 정책 지원 시작",
+      "importanceRationale": "근거: 과학기술정보통신부와 행정안전부가 범정부 AI 전환을 본격적으로 지원하기 시작했다는 사실은 정부의 정책적 의지를 보여주며, AI 기술 발전과 공공 서비스 혁신에 중요한 영향을 미칠 수 있다.",
       "impactSignals": [
         {
           "label": "policy",
@@ -265,7 +247,34 @@
       "importance": 4,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되어 있음.",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 핵심 내용을 전달한다.",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-03-09_9",
+      "date": "2026-03-09",
+      "category": "기술",
+      "title": "챗봇 소송, AI 안전 싸움을 법정으로 확대",
+      "summary": [
+        "챗봇 관련 소송이 인공지능 안전 문제를 법정으로 가져가고 있습니다.",
+        "이는 AI 기술의 책임과 안전성에 대한 논쟁을 심화시킬 것으로 예상됩니다."
+      ],
+      "whyImportant": "AI 안전 문제에 대한 법적 책임 소재를 가리는 중요한 계기가 될 수 있습니다.",
+      "importanceRationale": "근거: 챗봇 관련 소송이 증가함에 따라 AI 안전에 대한 정책적, 법적 논의가 더욱 활발해질 것으로 예상됩니다.",
+      "impactSignals": [],
+      "dedupeKey": "chatbot_lawsuits_ai_safety",
+      "clusterKey": "axios",
+      "matchedTo": null,
+      "sourceName": "Axios",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQVE9XZGNDYmxhbTZPM0pQZnBFc2dxb1hEM2ZfQVl0V2I3SVcxUEJKeDhxN0tOWERYQ0dubWhpeU41dEtzM0pfcDZpUUE2YVctaWRadHdRcHQ3d2JPYktFaTVjeXB5YzNJNkpfaEt6MWgzOGhQdFlkLWJmdW5lVHA0U3A0LU1OY1BDeHc?oc=5",
+      "publishedAt": "2026-03-09T08:27:31.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 75,
+      "qualityLabel": "ok",
+      "qualityReason": "기사 제목과 내용이 일치하며, 핵심 내용을 잘 요약했습니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -279,9 +288,9 @@
         "이는 유럽 역사상 최대 규모의 시리즈 C 투자입니다."
       ],
       "whyImportant": "Nscale의 대규모 투자 유치는 유럽 기술 시장에 대한 투자자들의 높은 관심을 보여줍니다.",
-      "importanceRationale": "근거: Nscale의 시리즈 C 투자 규모가 유럽 역사상 최대이며, 이는 회사의 성장 잠재력과 시장의 신뢰를 반영합니다.",
+      "importanceRationale": "근거: Nscale의 시리즈 C 투자 규모가 유럽 역사상 최대이며, 이는 회사의 성장 잠재력과 시장의 긍정적인 반응을 시사합니다.",
       "impactSignals": [],
-      "dedupeKey": "nscale-2b-series-c",
+      "dedupeKey": "nscale_2b_series_c",
       "clusterKey": "billion",
       "matchedTo": null,
       "sourceName": "Nscale",
@@ -292,7 +301,7 @@
       "importance": 2,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "기사의 내용이 명확하고 사실적입니다. / 근거부족",
+      "qualityReason": "기사 제목과 내용이 일치하며, 정보가 명확합니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -300,79 +309,84 @@
       "id": "2026-03-09_11",
       "date": "2026-03-09",
       "category": "정책",
-      "title": "청주동물원, 국회에서 진료 체험 등 ‘동물 복지 본보기’ 선보여",
+      "title": "대미투자특별법, 국회 특위서 여야 만장일치 통과…12일 본회의 처리",
       "summary": [
-        "청주동물원이 국회에서 진료 체험 등 동물 복지 모델을 선보였다.",
-        "이는 동물원 운영의 모범 사례를 보여주는 것이다."
+        "대미투자특별법이 국회 특위에서 여야 만장일치로 통과되었다.",
+        "12일 본회의에서 처리될 예정이다."
       ],
-      "whyImportant": "청주동물원의 동물 복지 모델이 국회에서 소개되어 정책적 관심을 받을 수 있다.",
-      "importanceRationale": "근거: 청주동물원의 사례가 국회에서 소개된 것은 동물 복지에 대한 정책적 논의를 촉진할 수 있기 때문이다.",
-      "impactSignals": [],
-      "dedupeKey": "청주동물원_국회_동물복지",
-      "clusterKey": "국회서",
+      "whyImportant": "대미 투자 활성화 정책의 시작을 알리는 신호탄이다.",
+      "importanceRationale": "근거: 여야 합의로 통과되었으며, 곧 본회의 처리를 앞두고 있어 정책 실행 가능성이 높다.",
+      "impactSignals": [
+        {
+          "label": "policy",
+          "evidence": "대미투자특별법이 국회 특위에서 여야 만장일치로 통과"
+        }
+      ],
+      "dedupeKey": "daemitoojateukbyeolbeop-gukhoe-teukwieseo-yeoya-manjangilchi-tonggwa-12il-bonhoeui-cheori",
+      "clusterKey": "12일",
       "matchedTo": null,
-      "sourceName": "한겨레",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Xc0RCdGpYZTM1N2IxQjlQMnJ2UTlORm9DS1ZoR1dsWmpzdjFyTFB3WWZZTmU1eFhkNXNzYWl1ZXZTUi1lZGF1Nm92MnE5YnpTNzlzeV84X3BiNzZWdDA3aFZPTUhsckxy?oc=5",
-      "publishedAt": "2026-03-09T06:49:00.000Z",
+      "sourceName": "인더스트리뉴스",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMickFVX3lxTFAzNUJYdTM2VlFRM2VveFhZcVFtWVR4Rk9EVXZJWlJ3ZFJmdG9PSGl3Q1JmczdRbWZnRV9tSGZacFVlekVNS2xraHhPTFgyR3VXYlUyQkZweFB6THJQN2EzVTFJaHgxXy1hb2FJTUNwQjBIQQ?oc=5",
+      "publishedAt": "2026-03-09T07:41:19.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 2,
-      "importanceRaw": 63,
+      "importance": 4,
+      "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "기사의 내용이 명확하고 간결하게 전달됨. / 근거부족",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 핵심 내용을 전달한다.",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-03-09_12",
       "date": "2026-03-09",
-      "category": "정책",
-      "title": "대미투자특별법, 국회 특위 통과···경제계 \"통상 리스크 완화 기반 마련\"",
+      "category": "국제",
+      "title": "트럼프, 사이버 전략 강화 발표…AI 및 규제 완화 강조",
       "summary": [
-        "대미투자특별법이 국회 특위를 통과했다.",
-        "경제계는 이를 통해 통상 리스크 완화 기반이 마련되었다고 평가했다."
+        "트럼프 대통령이 인공지능과 규제 완화를 전면에 내세운 강화된 사이버 전략을 발표했습니다."
       ],
-      "whyImportant": "대미 투자 및 통상 환경에 중요한 변화를 가져올 수 있는 법안이다.",
-      "importanceRationale": "근거: 대미투자특별법의 국회 특위 통과는 향후 미국 투자 및 통상 관계에 긍정적인 영향을 미칠 수 있는 정책적 변화를 의미한다.",
+      "whyImportant": "트럼프 행정부의 사이버 보안 정책 방향을 보여주는 중요한 발표입니다.",
+      "importanceRationale": "근거: 트럼프 대통령의 사이버 전략 발표는 미국의 사이버 보안 정책의 변화를 예고하며, 특히 AI와 규제 완화에 대한 강조는 관련 산업 및 정책 결정에 영향을 미칠 수 있습니다.",
       "impactSignals": [],
-      "dedupeKey": "daemi-teukbyeolbeop-gukhoe-teukwi-tonggwa",
-      "clusterKey": "경제계",
+      "dedupeKey": "trump-cyber-strategy-ai-deregulation",
+      "clusterKey": "강화한",
       "matchedTo": null,
-      "sourceName": "서울파이낸스",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1lM0dNWGdqVzkzaTFWWm5kWEExLThXbmRTTHoxem1wa2ttYnBjanl3ekxCX1hEM0FaWS1uNDJBWjl1MnJYMHBQS1Q0Y3pLc3pWVVhjcEY4RklEWWZXaDlhamJoS0laR1FPcUE?oc=5",
-      "publishedAt": "2026-03-09T06:09:09.000Z",
+      "sourceName": "cio.com",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiygJBVV95cUxPZFdNZ1JWdl9aZVA5RTM3UWNKTVZNLS13a2xnNDlpTi1ORFQ5V1pXRFAtZ0YzZXV0dzhaMnVyWnRrc0FjZHFqYms3dUJMcXNYRjVTSWJadkp5ZUtGV0h5NnY0Ymt3OFNoYllUc05mSG1kS3ZFeWtRR2pNN1pDNGNUUE1ORng4bmZ3S0xneXVTdVFIOEZHWGVWVkt5UkhIRFJPdFZ0RnZDQTlUUmltcUczUTRUVDBpRE83ZGV5V2ZpVFIyX0lUbWJQdmt6dU9OdWJPUHRUYkJPM2ZIX3ZWRmlJZnprM2EySHRVbG5Dd1JJbGw3c1NLQWdYZXQxcE5mUkZZUGFBZGo5aG85Um9lMjNCN0RPMjNkZzlXTWstTVZ6Q0Y5TkxDaWlURUt5MjhLMlpmdmlDU1dzN3c1dERUZzdOb0hZRWplWEVXdlE?oc=5",
+      "publishedAt": "2026-03-09T02:42:26.000Z",
       "readTimeSec": 10,
       "status": "kept",
       "importance": 2,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약됨. / 근거부족",
+      "qualityReason": "기사 내용이 명확하고 간결하게 요약되어 있습니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-03-09_13",
       "date": "2026-03-09",
-      "category": "국제",
-      "title": "기업 대상 제로데이 공격, 작년 크게 증가",
+      "category": "경제",
+      "title": "빗썸, 미신고 해외 사업자와 거래로 ‘6개월 일부 영업정지’ 등 중징계 전망",
       "summary": [
-        "지난해 기업을 노린 제로데이 공격이 크게 증가했습니다."
+        "빗썸이 미신고 해외 사업자와 거래한 사실이 드러나 중징계를 받을 것으로 예상된다.",
+        "예상되는 징계는 '6개월 일부 영업정지' 등이다."
       ],
-      "whyImportant": "기업 보안에 대한 위협이 증가하고 있음을 시사합니다.",
-      "importanceRationale": "근거: 제로데이 공격 증가는 기업의 IT 보안 시스템에 대한 직접적인 위협 증가를 의미하며, 잠재적인 데이터 유출 및 시스템 손상으로 이어질 수 있습니다.",
+      "whyImportant": "빗썸의 영업 활동에 상당한 제약이 가해질 수 있는 중대한 사안이다.",
+      "importanceRationale": "근거: 미신고 해외 사업자와의 거래는 금융 당국의 규제 위반에 해당하며, 이는 빗썸의 수익성에 직접적인 영향을 미칠 수 있다.",
       "impactSignals": [],
-      "dedupeKey": "zeroday_attack_increase_2023",
-      "clusterKey": "it비즈뉴스",
+      "dedupeKey": "bithumb-sanction-2024",
+      "clusterKey": "6개월",
       "matchedTo": null,
-      "sourceName": "IT비즈뉴스",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5nOHg4cUtrUjdPS3NUaTJXZ0lxWGR0cGFkSkhVLWtTb1VwTndqaEdWOXdkVkd5Rk4tc2hqV24zMGpneTduTC1KeUtvTjBKLXFoeWdmSkNwa1ZIbmhYbHBtaVY1NkZPWnVZZk45OA?oc=5",
-      "publishedAt": "2026-03-09T02:00:00.000Z",
+      "sourceName": "KBS 뉴스",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5jRnpfT2xOQkRfVzNTZjJySEsyemZhdTVGUU5WVmRTNlpaZFdBOUtYY0Utam9HN2g4akNOam1ybzRiY2tGOWwxQWNid3lsVEZ6Q0dqWUVpNjdQN2s?oc=5",
+      "publishedAt": "2026-03-09T06:25:00.000Z",
       "readTimeSec": 10,
       "status": "kept",
       "importance": 2,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며 간결하게 요약되었습니다. / 근거부족",
+      "qualityReason": "제목과 본문이 일치하며, 간결하게 요약됨. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -386,7 +400,7 @@
         "약사공론에 따르면 해당 안건이 논의될 예정입니다."
       ],
       "whyImportant": "품절약에 대한 성분명 처방 방법이 논의될 예정입니다.",
-      "importanceRationale": "근거: 품절약 성분명 처방 방법안이 국회 상임위 소위에 상정되어 정책적 변화 가능성이 있습니다.",
+      "importanceRationale": "근거: 품절약 성분명 처방 방법안이 국회 상임위 소위에 상정되어 정책 변화 가능성이 있습니다.",
       "impactSignals": [],
       "dedupeKey": "품절약 성분명 처방 방법안, 11일 국회 상임위 소위 상정",
       "clusterKey": "11일",
@@ -399,52 +413,79 @@
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었습니다. / 근거부족",
+      "qualityReason": "제목과 본문이 일치하며, 간결하게 핵심 내용을 전달합니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-03-09_15",
       "date": "2026-03-09",
-      "category": "기술",
-      "title": "챗봇 소송, AI 안전 싸움을 법정으로 확대",
+      "category": "정책",
+      "title": "【회장 동정】 국회 국토교통위원회 이종욱 간사(국토법안심사소위원장)와 간담회",
       "summary": [
-        "챗봇 관련 소송이 인공지능 안전 문제를 법정으로 가져가고 있습니다.",
-        "이는 AI 기술의 책임과 안전성에 대한 논쟁을 심화시킬 것으로 예상됩니다."
+        "대한건축사협회 회장이 국회 국토교통위원회 이종욱 간사(국토법안심사소위원장)와 간담회를 가졌다.",
+        "자세한 내용은 건축사신문에서 확인할 수 있다."
       ],
-      "whyImportant": "AI 안전 문제에 대한 법적 책임 소재를 가리는 중요한 계기가 될 수 있습니다.",
-      "importanceRationale": "근거: 챗봇 관련 소송이 증가함에 따라 AI 안전에 대한 법적 및 정책적 논의가 더욱 활발해질 가능성이 높습니다.",
+      "whyImportant": "국회 국토교통위원회 간사와의 간담회는 건축 정책에 영향을 미칠 수 있다.",
+      "importanceRationale": "근거: 국토교통위원회는 건축 관련 법안을 심의하고 결정하는 중요한 역할을 수행하며, 간사와의 협력은 건축사협회의 정책 반영에 기여할 수 있다.",
       "impactSignals": [],
-      "dedupeKey": "chatbot_lawsuits_ai_safety_courts",
-      "clusterKey": "axios",
+      "dedupeKey": "회장 동정: 국회 국토교통위원회 이종욱 간사 간담회",
+      "clusterKey": "간담회",
       "matchedTo": null,
-      "sourceName": "Axios",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQVE9XZGNDYmxhbTZPM0pQZnBFc2dxb1hEM2ZfQVl0V2I3SVcxUEJKeDhxN0tOWERYQ0dubWhpeU41dEtzM0pfcDZpUUE2YVctaWRadHdRcHQ3d2JPYktFaTVjeXB5YzNJNkpfaEt6MWgzOGhQdFlkLWJmdW5lVHA0U3A0LU1OY1BDeHc?oc=5",
-      "publishedAt": "2026-03-09T08:27:31.000Z",
+      "sourceName": "대한건축사협회 건축사신문",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1WYk9OZ2o1QWVyWmFMWDM1eTRmNzF3MXlsSTV2ZHBCd0ZmYm1wRWtGZHJlQW1MU05MX05GRU1zOXo1bXBIZGNUYWNUUkpfekpnSk91Q1pJTVRtdTJwRVo4amhJTk9XTW8?oc=5",
+      "publishedAt": "2026-03-09T09:10:49.000Z",
       "readTimeSec": 10,
       "status": "kept",
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "기사 내용이 명확하고 간결함. / 근거부족",
+      "qualityReason": "기사 내용이 간결하고 명확함. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-03-09_16",
       "date": "2026-03-09",
+      "category": "기술",
+      "title": "헬스테크 스타트업 임파워 헬스, 신임 CEO 선임 및 50만 달러 벤처 자금 유치",
+      "summary": [
+        "헬스테크 스타트업 임파워 헬스가 새로운 CEO를 선임했습니다.",
+        "또한 50만 달러의 벤처 캐피탈 자금 유치에 성공했습니다."
+      ],
+      "whyImportant": "임파워 헬스의 성장 가능성을 보여주는 지표입니다.",
+      "importanceRationale": "근거: 신임 CEO 선임과 벤처 자금 유치는 기업 성장의 중요한 동력으로 작용할 수 있습니다.",
+      "impactSignals": [],
+      "dedupeKey": "ImpowerHealth_CEO_Funding",
+      "clusterKey": "금융/builds",
+      "matchedTo": null,
+      "sourceName": "Silicon Prairie News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPQ0hYcXdaOW45Q3d6ZE0tSUpVSm9CbGpjaDVhYkFtdUhmeUhzcXJWWWFVVjFaQ3FFVkZtVTV4OURSM0xZVUIwRWQ4U0huZFFzcWV2VmNfekVQcENQU21VLUY0TDllWGY2SUh3ZGhZTEJOTlNsbXlyS1BMVlB6VnVockpSci1uOUpib2xqZUU4RHprbXJRTVoxaTlzUE5SU1NkYnJWZEs5NjhEa2lmb3ZHZVktOXdpempyUUV0OFBUMHVfSWtyZVBnYzJ5QXlodXhQU1ZMVw?oc=5",
+      "publishedAt": "2026-03-06T15:00:00.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 50,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 본문이 일치하며, 정보가 명확합니다. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-03-09_17",
+      "date": "2026-03-09",
       "category": "에너지",
-      "title": "중동 전쟁으로 인한 LNG 공급 차질로 유럽 가스 가격 급등",
+      "title": "중동 전쟁으로 인한 LNG 공급 차질, 유럽 가스 가격 급등",
       "summary": [
         "중동 전쟁으로 인해 LNG 공급에 차질이 발생했습니다.",
         "이로 인해 유럽의 가스 가격이 급등했습니다."
       ],
-      "whyImportant": "중동 지역의 불안정이 유럽 에너지 시장에 미치는 영향을 보여주는 사례입니다.",
-      "importanceRationale": "근거: 중동 전쟁으로 인한 공급 차질이 유럽 가스 가격 급등으로 이어진 직접적인 연관성을 보여주며, 에너지 시장의 변동성을 시사합니다.",
+      "whyImportant": "중동 지역의 분쟁이 유럽 에너지 시장에 미치는 직접적인 영향을 보여주는 사례입니다.",
+      "importanceRationale": "근거: 중동 전쟁으로 인한 공급 차질이 유럽 가스 가격 급등으로 이어졌다는 직접적인 인과관계를 보여주므로 중요합니다.",
       "impactSignals": [
         {
           "label": "market-demand",
-          "evidence": "중동 전쟁으로 인한 LNG 공급 차질이 유럽 가스 가격 급등을 초래함"
+          "evidence": "중동 전쟁으로 인한 LNG 공급 차질이 유럽 가스 가격 급등을 야기함"
         }
       ],
       "dedupeKey": "중동전쟁LNG공급차질유럽가스가격급등",
@@ -458,63 +499,36 @@
       "importance": 4,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 핵심 내용을 요약했습니다.",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-03-09_17",
-      "date": "2026-03-09",
-      "category": "기술",
-      "title": "엔비디아 주식이 백만장자가 되는 티켓이 될 수 있을까?",
-      "summary": [
-        "엔비디아 주식이 백만장자가 되는 티켓이 될 수 있는지에 대한 기사입니다.",
-        "The Motley Fool에서 제공되었습니다."
-      ],
-      "whyImportant": "엔비디아 주식 투자에 대한 정보 제공",
-      "importanceRationale": "근거: 엔비디아 주식 투자가 개인의 자산 증식에 미치는 잠재적 영향에 대한 정보를 제공하므로 중요합니다.",
-      "impactSignals": [],
-      "dedupeKey": "nvidia_millionaire_ticket",
-      "clusterKey": "becoming",
-      "matchedTo": null,
-      "sourceName": "The Motley Fool",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTGVmVEh3QVZseHoxemMwLUV3TXkxR3ZxVTlDRUpDZFJFMnN6UEtrT0tkWEMyR2dFaUYxYmlTN1dGcGx1Qk1NbE9WdUFnVWloaUxvRzJkYmsxQ205LWtISVBVb0N3Vjd4VGp5eUlqTksyQXhsTUpOVWd3SUhDVDVoQTBKdHZ0TzZXWFNCeTBoaDZYS0w0dllXag?oc=5",
-      "publishedAt": "2026-03-09T09:21:01.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 50,
-      "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었습니다. / 근거부족",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 핵심 내용을 전달합니다.",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-03-09_18",
       "date": "2026-03-09",
-      "category": "에너지",
-      "title": "11조 원 규모의 원전 해체 시장 개방…두산 대 한전KPS '2파전'",
+      "category": "기술",
+      "title": "CrashFix, 공급망 보안 및 CMMC 1단계 관련 속보 – Anna Pham, David Zendzian, Jacob Horne – ESW #449",
       "summary": [
-        "11조 원 규모의 원전 해체 시장이 개방될 예정이다.",
-        "두산과 한전KPS가 시장을 두고 경쟁할 것으로 예상된다."
+        "CrashFix, 공급망 보안 및 CMMC 1단계에 대한 최신 정보가 발표되었습니다.",
+        "Anna Pham, David Zendzian, Jacob Horne이 ESW #449에서 관련 내용을 다루었습니다."
       ],
-      "whyImportant": "원전 해체 시장의 경쟁 구도 변화를 보여주는 사건이다.",
-      "importanceRationale": "근거: 11조 원 규모의 시장 개방과 두산, 한전KPS 간의 경쟁은 에너지 산업에 중요한 영향을 미칠 수 있다.",
+      "whyImportant": "보안 및 규정 준수 업데이트를 제공합니다.",
+      "importanceRationale": "근거: CrashFix, 공급망 보안 및 CMMC 1단계는 기업 보안 및 규정 준수에 중요한 영향을 미치기 때문입니다.",
       "impactSignals": [],
-      "dedupeKey": "11조 원전 해체시장 열린다…두산 vs 한전KPS '2파전'",
-      "clusterKey": "에너지/2파전",
+      "dedupeKey": "CrashFix, 공급망 보안 및 CMMC 1단계 관련 속보",
+      "clusterKey": "anna",
       "matchedTo": null,
-      "sourceName": "한국경제",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1mQ3ZkQnRibXFrUXF3YmdBR3BUbTJ5NDVrTXgxYWlJR1pOYWs3amJJc1U2RzdTUGk4UWNBMFhBNTlQaS1TeUN2ODdfdVdOcnk1bTdnaUtUU2lTZ9IBVEFVX3lxTE9xbEh3YXhXSzdkQm1xR2RWaUpZWVBpVTFsYnFJQlQyQTJ3NWhQc3ZjQzE0R0thQl9WZTNOZnhueGZNZ3hRYWdCTjBwc0NHTHJ1OXJMbg?oc=5",
-      "publishedAt": "2026-03-09T08:29:42.000Z",
+      "sourceName": "SC Media",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQdm1iUm1XSFNpODJpT0RFRW5FUXdwN2FSQ21ITGhBLXA3STl5Yi00b0NHU3lwdTczeGsyNXhTR1BkMTZiR19tOU1Gc25nLWVKeXpNTXA0d05XMmxKdkxiUWF5RngzS2JNVWxJM3RkUjQ0M1FmRTkzWFFjcHRyQjZBTDFGWU44OTJ2aDRpOUJlQS1GREFhUFRoZ195VDFOZlFmMWFhSUpweDluc2hIeG5iay15bTNLcUpQQVVlLWN5blJwN21lcUJEdDBzOVc1M0hhNXpObnplTF9SYmozU29UbHpCUlNpMVdwTmlN?oc=5",
+      "publishedAt": "2026-03-09T09:00:00.000Z",
       "readTimeSec": 10,
       "status": "kept",
       "importance": 2,
-      "importanceRaw": 63,
+      "importanceRaw": 50,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되어 있음. / 근거부족",
+      "qualityReason": "제목과 내용이 일치하며, 정보가 간결하게 요약되어 있습니다. / 근거부족",
       "isBriefing": false,
-      "isBreaking": false
+      "isBreaking": true
     }
   ]
 }
