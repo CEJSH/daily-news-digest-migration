@@ -3,10 +3,107 @@
   "selectionCriteria": "① 내일도 영향이 남는 이슈 ② 과도한 감정 소모 제외 ③ 어제와 중복되는 뉴스 제외",
   "editorNote": "이 뉴스는 클릭 수가 아니라 오늘 이후에도 남는 정보만 기준으로 편집했습니다.",
   "question": "정보를 덜 보는 것이 오히려 더 똑똑한 소비일까?",
-  "lastUpdatedAt": "2026-03-10T02:47:02.280+09:00",
+  "lastUpdatedAt": "2026-03-10T03:49:15.558+09:00",
   "items": [
     {
       "id": "2026-03-10_1",
+      "date": "2026-03-10",
+      "category": "정책",
+      "title": "미국 상무부의 새로운 AI 수출 규제, CSP 및 데이터 센터 운영자에게 큰 변화 예고",
+      "summary": [
+        "미국 상무부의 새로운 AI 수출 규제가 CSP와 데이터 센터 운영자에게 큰 영향을 미칠 수 있습니다.",
+        "미국산 GPU를 대규모로 구매하는 것은 미국 내 인프라 구축에 대한 약속을 의미합니다."
+      ],
+      "whyImportant": "미국 상무부의 AI 수출 규제 변화와 그에 따른 데이터 센터 산업의 잠재적 변화를 파악하는 것이 중요합니다.",
+      "importanceRationale": "근거: 새로운 규제가 미국 내 인프라 투자에 미치는 영향과 데이터 센터 운영 방식의 변화 가능성을 시사합니다.",
+      "impactSignals": [
+        {
+          "label": "policy",
+          "evidence": "미국 상무부의 새로운 AI 수출 규제"
+        }
+      ],
+      "dedupeKey": "AI_export_rules_data_centers",
+      "clusterKey": "change",
+      "matchedTo": null,
+      "sourceName": "Tom's Hardware",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixwJBVV95cUxQaDR4NFVyNEJlZTRUWHBOR25XNk9DaktlaDhjRl9WZld0aVBhN2h3ZEV1TTJHLWgxeGRsZnI3U3BLLUhwb3ZEcDUwTVdSUmxnaTMyLUNITUgza0RWQUVmY1JPQnd5V3F4NlBVY2czMUZva01uNFh2N3FDSUptVnM1Um53MDNlbElwTThDb0hlbmdXOFN4Q1psVk40MmljcHhHdERwZmlkQ2dhMWNucmpUV1JoT0syTkprOU9kNEVOcWlSdTYybEFHTUdhckVMa0xYZnVrU1JvTjBKZDJLaFYxQ2dTWUNPZ1FXbE9DV2NFM2lKMUgtcUdXN0trYlpyZEhJNXpFQXhfV0RFSllTaVhpak1ETHBEMDV3RVl3T2J5STlwNlFuaXZ4aFRsZWtFT1ZLcklMdnZBa3ItTzdycEFfMFhWTU5Sam8?oc=5",
+      "publishedAt": "2026-03-09T17:43:44.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 4,
+      "importanceRaw": 75,
+      "qualityLabel": "ok",
+      "qualityReason": "기사 제목과 내용이 일치하며, 핵심 내용을 잘 요약했습니다.",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-03-10_2",
+      "date": "2026-03-10",
+      "category": "정책",
+      "title": "개인정보 유출 시 '최대 매출 10% 과징금': CEO·CPO 책임 강화",
+      "summary": [
+        "개인정보 유출 시 최대 매출의 10%까지 과징금이 부과될 수 있습니다.",
+        "CEO와 CPO의 책임이 강화됩니다."
+      ],
+      "whyImportant": "개인 정보 보호 규정 위반에 대한 기업의 책임을 강화하고 있습니다.",
+      "importanceRationale": "근거: 개인정보 유출 시 과징금 부과 기준 강화 및 경영진 책임 강화는 기업의 데이터 보안 투자 및 관리 방식에 큰 영향을 미칠 수 있기 때문입니다.",
+      "impactSignals": [
+        {
+          "label": "earnings",
+          "evidence": "최대 매출 10% 과징금 부과 가능성"
+        }
+      ],
+      "dedupeKey": "personal_data_breach_fine_increase",
+      "clusterKey": "ceo",
+      "matchedTo": null,
+      "sourceName": "한국방송뉴스",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9hRFJrRFBxam1zZUttVDFOaHp6Uk9Xdnk5c3c1S3dmNmtfZFBnOVpXX2J2Z2Y4OUNzaWNaVW5oVGE2bXQtcXRBamNoNWlOd2tNS3dYeGdWOFF6UWJUSGc?oc=5",
+      "publishedAt": "2026-03-09T18:12:58.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 4,
+      "importanceRaw": 75,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 내용이 일치하며, 핵심 내용을 잘 요약했습니다.",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-03-10_3",
+      "date": "2026-03-10",
+      "category": "국제",
+      "title": "미국, 'AI 칩 수출' 새로운 규제 검토… 외국 기업의 미국 투자 조건 저울질(종합)",
+      "summary": [
+        "미국이 인공지능(AI) 칩 수출에 대한 새로운 규제를 검토 중이다.",
+        "외국 기업의 미국 투자 조건에 대한 저울질도 함께 이루어지고 있다.",
+        "이는 미국의 기술 경쟁력 강화와 관련된 정책적 움직임으로 해석된다."
+      ],
+      "whyImportant": "미국의 AI 칩 수출 규제는 글로벌 기술 시장에 큰 영향을 미칠 수 있으며, 특히 AI 기술 경쟁에서 중요한 변수로 작용할 수 있다.",
+      "importanceRationale": "근거: 미국의 AI 칩 수출 규제 검토는 기술 패권 경쟁 심화와 관련된 중요한 정책 변화를 예고하며, 이는 관련 기업들의 투자 및 사업 전략에 직접적인 영향을 줄 수 있다.",
+      "impactSignals": [
+        {
+          "label": "policy",
+          "evidence": "미국의 AI 칩 수출 규제 검토 및 외국 기업의 미국 투자 조건 저울질"
+        }
+      ],
+      "dedupeKey": "AI_chip_export_regulation_review",
+      "clusterKey": "ai칩",
+      "matchedTo": null,
+      "sourceName": "연합뉴스 한민족센터",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5HLTBLNDJ4MExreGNPVHAydThXWFRvWGR0enpuUjNBZ3ZGbmx5eGR3akJUS2VyejlyWTVHYXZRMGtJSElMY3FRSnBXcnRVTGVOQ3k0ZGotVEZVZ1B5TUFMYk5pNU9BWWpyMkxBdmxjZ2hIeVYt?oc=5",
+      "publishedAt": "2026-03-05T23:33:45.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 4.5,
+      "importanceRaw": 88,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 본문이 일치하며, 내용이 간결하고 명확하게 전달됨.",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-03-10_4",
       "date": "2026-03-10",
       "category": "정책",
       "title": "과기정통부·행안부, 범정부 AI 전환 본격 지원",
@@ -15,9 +112,9 @@
         "연합뉴스 한민족센터에서 관련 소식을 보도했다."
       ],
       "whyImportant": "정부 차원에서 AI 전환을 지원함으로써 공공 서비스 혁신과 효율성 증대가 기대된다.",
-      "importanceRationale": "근거: 과기정통부와 행안부가 협력하여 범정부 AI 전환을 지원하는 정책적 움직임은 공공 부문의 디지털 전환을 가속화하고, AI 기술의 활용을 장려하여 사회 전반에 걸쳐 긍정적인 영향을 미칠 수 있다.",
+      "importanceRationale": "근거: 과기정통부와 행안부가 협력하여 범정부 AI 전환을 지원하는 것은 정부 정책의 중요한 변화를 의미하며, 공공 부문에 미치는 영향이 클 것으로 예상된다.",
       "impactSignals": [],
-      "dedupeKey": "AI 전환 지원, 과기정통부·행안부",
+      "dedupeKey": "과기정통부·행안부, 범정부 AI 전환 본격 지원",
       "clusterKey": "과기정통부",
       "matchedTo": null,
       "sourceName": "연합뉴스 한민족센터",
@@ -28,12 +125,44 @@
       "importance": 2,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되어 있음. / 근거부족",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 핵심 내용을 전달한다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-03-10_2",
+      "id": "2026-03-10_5",
+      "date": "2026-03-10",
+      "category": "경제",
+      "title": "Aware 주식, 매출 감소로 4분기 실적 발표 후 하락",
+      "summary": [
+        "Aware 주식이 4분기 실적 발표 후 하락했습니다.",
+        "매출이 전년 대비 감소했습니다."
+      ],
+      "whyImportant": "매출 감소는 투자 심리에 부정적인 영향을 미칠 수 있습니다.",
+      "importanceRationale": "근거: 매출 감소는 기업의 성장 둔화를 의미할 수 있으며, 이는 투자자들의 우려를 자아낼 수 있습니다.",
+      "impactSignals": [
+        {
+          "label": "earnings",
+          "evidence": "4분기 실적 발표 후 주가 하락은 수익 감소를 반영합니다."
+        }
+      ],
+      "dedupeKey": "Aware_Stock_Declines_Post_Q4_Earnings",
+      "clusterKey": "aware",
+      "matchedTo": null,
+      "sourceName": "Yahoo Finance Singapore",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOTVlMRHB4bHZqOFVMLU5aYkhxaDgxSW81dWZvNmpFandGeU5OY0dSUzdTRy1GRG1IYmZ3YXZLLThORFhxMHJQMFRncnBKQ0dEOWdldjkxRHBHUm5XMmZmOVd2TFlmVkhTVVVYWUdBN1JSWE5LRjZBRndFUXdzcVNxUm5EMA?oc=5",
+      "publishedAt": "2026-03-09T16:53:00.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 3,
+      "importanceRaw": 50,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 본문이 일치하며, 정보가 간결하게 제공됨.",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-03-10_6",
       "date": "2026-03-10",
       "category": "정책",
       "title": "한국 국회, 3,500억 달러 규모의 대미 투자 특별법에 합의",
@@ -41,8 +170,8 @@
         "한국 국회 특별위원회가 3,500억 달러 규모의 대미 투자 특별법에 합의했습니다.",
         "해당 법안은 12일 국회 본회의에서 표결될 예정입니다."
       ],
-      "whyImportant": "미국 투자를 촉진하고 경제 협력을 강화하는 데 중요한 법안입니다.",
-      "importanceRationale": "근거: 한국 국회가 막대한 규모의 대미 투자 특별법에 합의했으며, 이는 양국 경제 관계에 상당한 영향을 미칠 수 있습니다.",
+      "whyImportant": "미국 투자를 장려하는 정책 변화를 나타냅니다.",
+      "importanceRationale": "근거: 한국 국회가 막대한 규모의 대미 투자 특별법에 합의하고, 곧 표결을 앞두고 있다는 사실은 양국 경제 관계에 중요한 정책적 변화를 의미합니다.",
       "impactSignals": [],
       "dedupeKey": "korea-us-investment-bill-350b",
       "clusterKey": "3천500억",
@@ -55,22 +184,23 @@
       "importance": 2,
       "importanceRaw": 88,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 내용이 간결하고 명확합니다. / 근거부족",
+      "qualityReason": "기사에 명확한 사실 정보가 담겨 있습니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-03-10_3",
+      "id": "2026-03-10_7",
       "date": "2026-03-10",
       "category": "경제",
-      "title": "Korn Ferry (NYSE:KFY), 2025년 4분기 매출 예상치 상회",
+      "title": "콘 페리(NYSE:KFY), 2025년 4분기 매출 예상치 상회",
       "summary": [
-        "Korn Ferry (NYSE:KFY)가 2025년 4분기 매출 예상치를 상회했습니다."
+        "콘 페리(NYSE:KFY)가 2025년 4분기 매출 예상치를 상회했습니다.",
+        "자세한 내용은 StockStory에서 확인할 수 있습니다."
       ],
       "whyImportant": "매출 실적은 회사의 건전성과 성장 잠재력을 나타내는 중요한 지표입니다.",
-      "importanceRationale": "근거: 매출 예상치 상회는 투자자와 시장에 긍정적인 신호로 작용하여 주가 상승 및 투자 심리 개선에 기여할 수 있습니다.",
+      "importanceRationale": "근거: 콘 페리의 매출 예상치 상회는 시장 수요가 견조하며 회사의 사업 전략이 효과적임을 시사합니다.",
       "impactSignals": [],
-      "dedupeKey": "Korn Ferry beats sales expectations Q4 2025",
+      "dedupeKey": "KFY_Q4_2025_Sales_Beat",
       "clusterKey": "beats",
       "matchedTo": null,
       "sourceName": "StockStory",
@@ -81,38 +211,12 @@
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "The article directly states that the company beat sales expectations. / 근거부족",
+      "qualityReason": "The article concisely reports a financial result. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-03-10_4",
-      "date": "2026-03-10",
-      "category": "정책",
-      "title": "정부, 비리튬계 ESS 확대 추진으로 '전력망 안전성' 강화",
-      "summary": [
-        "정부가 전력망 안전성 강화를 위해 비리튬계 에너지 저장 시스템(ESS) 확대를 추진합니다."
-      ],
-      "whyImportant": "전력망 안정성을 높이고 특정 자원에 대한 의존도를 줄이기 위한 정책적 움직임입니다.",
-      "importanceRationale": "근거: 정부가 직접 비리튬계 ESS 확대를 추진함으로써 전력망 안전성을 강화하려는 정책적 의지를 보여주기 때문입니다.",
-      "impactSignals": [],
-      "dedupeKey": "gov_ess_non_lithium",
-      "clusterKey": "에너지/ess",
-      "matchedTo": null,
-      "sourceName": "인사이트N파워",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9mZjRZZjdTRW5iQXduTzVXUUc5MTdpLWNOT2t6cEtHb3VWT1V0TFRSbU1KcVdFVDdNWHI1SFJVRWVXaWphUEx0cEhrZEhvNVd0YmVJM3hqektlVEkwMThJOTlSQ3JCdw?oc=5",
-      "publishedAt": "2026-03-09T16:46:09.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 75,
-      "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 핵심 내용을 전달합니다. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-03-10_5",
+      "id": "2026-03-10_8",
       "date": "2026-03-10",
       "category": "국제",
       "title": "Nscale, 시리즈 C에서 20억 달러 조달 - 유럽 역사상 최대 규모",
@@ -139,18 +243,50 @@
       "isBreaking": false
     },
     {
-      "id": "2026-03-10_6",
+      "id": "2026-03-10_9",
+      "date": "2026-03-10",
+      "category": "국제",
+      "title": "일반 의사, 데이터 침해 소송 해결 위해 250만 달러 지불",
+      "summary": [
+        "일반 의사가 데이터 침해 소송을 해결하기 위해 250만 달러를 지불했습니다.",
+        "이번 합의는 HIPAA 저널에 의해 보도되었습니다."
+      ],
+      "whyImportant": "데이터 보안 침해에 대한 책임이 강화되고 있음을 보여줍니다.",
+      "importanceRationale": "근거: 데이터 침해로 인한 소송 해결 금액이 상당하며, 의료 기관의 데이터 보안 중요성이 부각됩니다.",
+      "impactSignals": [
+        {
+          "label": "security",
+          "evidence": "데이터 침해 소송 해결금 250만 달러"
+        }
+      ],
+      "dedupeKey": "data_breach_settlement_2.5M",
+      "clusterKey": "breach",
+      "matchedTo": null,
+      "sourceName": "The HIPAA Journal",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBXbFhLVTY3MmFBV1Y5NlIyczN6Vld6SXBLN3UtZUZVdXN5azh3cU9NNy1KZW1DVS1Pdm5SNFllcWJtdmNCaVhrWlA2ZlAwbGNFbEtfNFgzQ0ItX0ZGaTIzaDlEVERZdUM0UFdpd2tFQXg0Q0VoWVM4VElB?oc=5",
+      "publishedAt": "2026-03-04T15:15:54.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 3.5,
+      "importanceRaw": 63,
+      "qualityLabel": "ok",
+      "qualityReason": "기사 제목과 내용이 일치하며, 정보가 명확합니다.",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-03-10_10",
       "date": "2026-03-10",
       "category": "경제",
-      "title": "이더리움 87만 개 보유한 샤프링크, 2조 원 손실 속 실적 발표 주목",
+      "title": "87만 개의 이더리움을 보유한 샤프링크, 2조 원 손실 속 실적 발표 주목",
       "summary": [
-        "샤프링크가 87만 개의 이더리움을 보유하고 있어 2조 원의 손실을 기록 중이다.",
-        "이번 실적 발표에 시장의 관심이 쏠리고 있다."
+        "샤프링크가 87만 개의 이더리움을 보유하고 있다.",
+        "2조 원의 손실을 기록 중인 가운데 실적 발표에 관심이 쏠리고 있다."
       ],
-      "whyImportant": "샤프링크의 대규모 이더리움 보유량과 손실 규모가 투자자들의 관심사이기 때문",
-      "importanceRationale": "근거: 샤프링크의 실적 발표가 시장에 미치는 영향이 클 수 있으며, 암호화폐 시장 전반에 대한 투자 심리에도 영향을 줄 수 있다.",
+      "whyImportant": "샤프링크의 실적 발표가 암호화폐 시장에 미치는 영향.",
+      "importanceRationale": "근거: 샤프링크는 대량의 이더리움을 보유하고 있어, 실적 결과에 따라 시장에 상당한 변동성을 초래할 수 있기 때문.",
       "impactSignals": [],
-      "dedupeKey": "sharplink_ethereum_loss_earnings",
+      "dedupeKey": "sharplink_ethereum_earnings",
       "clusterKey": "2조원",
       "matchedTo": null,
       "sourceName": "한국경제",
@@ -161,22 +297,21 @@
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 정보가 간결하게 요약되어 있음. / 근거부족",
+      "qualityReason": "기사 제목과 내용이 일치하며, 정보가 명확함. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-03-10_7",
+      "id": "2026-03-10_11",
       "date": "2026-03-10",
       "category": "경제",
       "title": "빗썸, 미신고 해외 사업자와 거래로 ‘6개월 일부 영업정지’ 등 중징계 전망",
       "summary": [
-        "빗썸이 미신고 해외 사업자와 거래한 사실이 드러나 중징계를 받을 것으로 예상됩니다.",
-        "예상되는 징계는 '6개월 일부 영업정지' 등입니다.",
-        "KBS 뉴스가 단독 보도했습니다."
+        "빗썸이 미신고 해외 사업자와 거래한 사실이 드러나 중징계를 받을 것으로 예상된다.",
+        "예상되는 징계는 '6개월 일부 영업정지' 등이다."
       ],
-      "whyImportant": "빗썸의 영업 활동에 중대한 제약이 발생할 수 있습니다.",
-      "importanceRationale": "근거: 빗썸의 영업정지는 수익 감소로 이어질 수 있으며, 이는 빗썸의 재무 건전성에 부정적인 영향을 미칠 수 있습니다.",
+      "whyImportant": "빗썸의 영업 활동에 상당한 제약이 가해질 수 있는 중대한 사안이다.",
+      "importanceRationale": "근거: 빗썸의 영업정지는 사용자 신뢰도 하락 및 거래량 감소로 이어져 수익에 직접적인 영향을 줄 수 있다.",
       "impactSignals": [],
       "dedupeKey": "bithumb-sanction-2024",
       "clusterKey": "6개월",
@@ -189,21 +324,20 @@
       "importance": 2,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 핵심 내용을 잘 요약했습니다. / 근거부족",
+      "qualityReason": "제목과 본문이 일치하며, 간결하게 요약됨. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-03-10_8",
+      "id": "2026-03-10_12",
       "date": "2026-03-10",
       "category": "국제",
-      "title": "엔비디아, AI 데이터센터 스타트업 엔스케일에 투자",
+      "title": "엔비디아, AI 데이터센터 스타트업 엔스케일 투자",
       "summary": [
-        "엔비디아가 AI 데이터센터 스타트업인 엔스케일에 투자했다.",
-        "투자 금액 및 조건은 공개되지 않았다."
+        "엔비디아가 AI 데이터센터 스타트업인 엔스케일에 투자했다."
       ],
-      "whyImportant": "AI 데이터센터 시장 경쟁 심화 및 엔비디아의 시장 확장 전략을 보여주는 사례.",
-      "importanceRationale": "근거: 엔비디아가 AI 데이터센터 스타트업에 투자한 것은 해당 시장의 성장 가능성을 높게 보고, 자사의 영향력을 확대하려는 전략으로 해석될 수 있다.",
+      "whyImportant": "엔비디아의 AI 데이터센터 투자 결정.",
+      "importanceRationale": "근거: 엔비디아가 AI 데이터센터 스타트업에 투자함으로써 해당 분야의 성장 가능성을 높이고, 자사의 기술력을 활용한 시너지 효과를 창출할 수 있기 때문이다.",
       "impactSignals": [],
       "dedupeKey": "nvidia-enskale-investment",
       "clusterKey": "클라우드/데이터센터",
@@ -216,74 +350,21 @@
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 정보가 간결하게 요약되어 있음. / 근거부족",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되어 있습니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-03-10_9",
-      "date": "2026-03-10",
-      "category": "경제",
-      "title": "국제 유가 급등에 환율 1500원 턱밑…코스피 급락 속 금융시장 불안 확산",
-      "summary": [
-        "국제 유가 급등으로 환율이 1500원 선에 육박하며 금융 시장의 불안이 확산되고 있다.",
-        "코스피는 급락세를 보였다."
-      ],
-      "whyImportant": "국제 유가 상승과 환율 급등은 국내 경제에 부정적인 영향을 미칠 수 있다.",
-      "importanceRationale": "근거: 국제 유가 급등과 환율 상승은 수입 물가 상승을 유발하고, 이는 국내 물가 상승으로 이어질 수 있다. 또한, 코스피 급락은 투자 심리를 위축시켜 경제 전반에 부정적인 영향을 미칠 수 있다.",
-      "impactSignals": [],
-      "dedupeKey": "국제유가 급등환율1500원턱밑코스피급락",
-      "clusterKey": "1500원",
-      "matchedTo": null,
-      "sourceName": "데일리연합",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE41NVBmZFpzSEpjeUFLa3FFWHdsX2VNai1vT2xRMU9Lei1Xa1JVcE4tcTZXLWNMdzVqblNnT3NLZGdlUEZmLUFJLWo0TEtBUXhrU1g0NHpQWTJLTjA?oc=5",
-      "publishedAt": "2026-03-09T15:20:23.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 75,
-      "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 간결하게 핵심 내용을 전달한다. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-03-10_10",
-      "date": "2026-03-10",
-      "category": "경제",
-      "title": "일본 시장 공략 성공…국내 보안 기업 매출 급증",
-      "summary": [
-        "국내 보안 기업들이 일본 시장 공략에 성공하여 매출이 크게 증가했다."
-      ],
-      "whyImportant": "국내 보안 기업의 해외 시장 진출 성공 사례를 보여준다.",
-      "importanceRationale": "근거: 국내 보안 기업의 일본 시장 공략 성공은 매출 증가로 이어진 중요한 성과이다.",
-      "impactSignals": [],
-      "dedupeKey": "일본 시장 공략 성공…국내 보안 기업 매출 급증",
-      "clusterKey": "공략",
-      "matchedTo": null,
-      "sourceName": "전자신문",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9JRS04dkZCRXRxaWNnaEs2WW5lRUMyLV9PTV82M01QSk9TWlA4bFFPdmVqN3hoMmhFZkhEYmRVWXY2ZFJCdEJqYlkxU3BOUQ?oc=5",
-      "publishedAt": "2026-03-09T08:00:00.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 63,
-      "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약됨. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-03-10_11",
+      "id": "2026-03-10_13",
       "date": "2026-03-10",
       "category": "기술",
       "title": "기술 기업, 펜실베이니아 데이터 센터에 전력 공급 가능할까?",
       "summary": [
         "기술 기업들이 펜실베이니아 주의 데이터 센터에 전력을 공급할 수 있을지에 대한 의문이 제기되고 있다.",
-        "포코노 레코드에 따르면 관련 논의가 진행 중이다."
+        "포코노 레코드에 따르면, 데이터 센터 전력 공급에 대한 논의가 진행 중이다."
       ],
-      "whyImportant": "데이터 센터 전력 공급 가능성은 기술 기업의 투자 결정에 영향을 미칠 수 있다.",
-      "importanceRationale": "근거: 데이터 센터는 막대한 전력을 소비하며, 안정적인 전력 공급은 데이터 센터 운영의 핵심 요소이다.",
+      "whyImportant": "데이터 센터의 전력 공급 문제는 기술 기업의 투자 및 운영에 중요한 영향을 미치므로.",
+      "importanceRationale": "근거: 데이터 센터는 막대한 전력을 소비하며, 안정적인 전력 공급은 데이터 센터 운영의 핵심 요소이다. 전력 공급 가능성은 기술 기업의 투자 결정에 직접적인 영향을 미친다.",
       "impactSignals": [],
       "dedupeKey": "tech-companies-electricity-pennsylvania",
       "clusterKey": "에너지/bring",
@@ -294,79 +375,110 @@
       "readTimeSec": 10,
       "status": "kept",
       "importance": 2,
-      "importanceRaw": 50,
-      "qualityLabel": "ok",
-      "qualityReason": "기사에 제목과 본문이 모두 포함되어 있습니다. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-03-10_12",
-      "date": "2026-03-10",
-      "category": "기술",
-      "title": "BETA Technologies (NYSE:BETA), 분기별 실적 발표, 주당 순이익 예상치 1.55달러 하회",
-      "summary": [
-        "BETA Technologies (NYSE:BETA)는 분기별 실적을 발표했습니다.",
-        "주당 순이익이 예상치를 1.55달러 하회했습니다."
-      ],
-      "whyImportant": "BETA Technologies의 실적 발표는 투자자와 시장 분석가에게 중요한 정보입니다.",
-      "importanceRationale": "근거: 예상치를 하회하는 실적은 주가에 부정적인 영향을 미칠 수 있으며, 회사의 재무 건전성과 미래 전망에 대한 우려를 불러일으킬 수 있습니다.",
-      "impactSignals": [],
-      "dedupeKey": "BETA_Technologies_Earnings_Miss_Q",
-      "clusterKey": "announces",
-      "matchedTo": null,
-      "sourceName": "MarketBeat",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOdzRlR0owZ0lnZmtUbVB4ZEFQWklITlBWLWROYjI0Z0JUblpaV2ZSbnBvbV9pLXN1blJqRXl6QnhiNS1adUE1VzRJQU1wQkhDb0tneFppczZubnpkQUpJc2R6NmdNNXk4OWhGVWdIVmZCYlVNVUNPb2JibEJfZTNtQzByN0x6YnRFOHhHUlRlcjB0UTREbGtXYTZkR1F1MkRsUW1wZWJjdktsQTRBUWdQUEdmTnpYZll4dmtxQUpISi14WGRPOEVYYVpkWjlvZUxxd3Faa3h1akNZTWZWUmhqMnhn?oc=5",
-      "publishedAt": "2026-03-09T13:19:32.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 정보가 명확합니다. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-03-10_13",
-      "date": "2026-03-10",
-      "category": "기술",
-      "title": "헬스테크 스타트업 임파워 헬스, 신임 CEO 선임 및 50만 달러 벤처 자금 유치",
-      "summary": [
-        "헬스테크 스타트업 임파워 헬스가 새로운 CEO를 선임했습니다.",
-        "또한 50만 달러의 벤처 캐피탈 자금 유치에 성공했습니다."
-      ],
-      "whyImportant": "임파워 헬스의 성장 가능성을 보여주는 지표입니다.",
-      "importanceRationale": "근거: 신임 CEO 선임과 벤처 자금 유치는 기업 성장의 중요한 동력으로 작용할 수 있습니다.",
-      "impactSignals": [],
-      "dedupeKey": "ImpowerHealth_CEO_Funding",
-      "clusterKey": "금융/builds",
-      "matchedTo": null,
-      "sourceName": "Silicon Prairie News",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPQ0hYcXdaOW45Q3d6ZE0tSUpVSm9CbGpjaDVhYkFtdUhmeUhzcXJWWWFVVjFaQ3FFVkZtVTV4OURSM0xZVUIwRWQ4U0huZFFzcWV2VmNfekVQcENQU21VLUY0TDllWGY2SUh3ZGhZTEJOTlNsbXlyS1BMVlB6VnVockpSci1uOUpib2xqZUU4RHprbXJRTVoxaTlzUE5SU1NkYnJWZEs5NjhEa2lmb3ZHZVktOXdpempyUUV0OFBUMHVfSWtyZVBnYzJ5QXlodXhQU1ZMVw?oc=5",
-      "publishedAt": "2026-03-06T15:00:00.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 50,
-      "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 정보가 명확합니다. / 근거부족",
+      "qualityReason": "제목과 본문이 내용적으로 일치하며, 핵심 내용을 잘 반영하고 있다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-03-10_14",
       "date": "2026-03-10",
+      "category": "기술",
+      "title": "생성형 AI 영상 확산에 넷플릭스·유튜브 가이드라인으로 대응",
+      "summary": [
+        "넷플릭스와 유튜브는 생성형 AI 영상 확산에 대한 가이드라인을 발표했다."
+      ],
+      "whyImportant": "생성형 AI 기술의 발전과 함께 영상 콘텐츠 시장의 변화에 대한 대응을 보여준다.",
+      "importanceRationale": "근거: 넷플릭스와 유튜브와 같은 주요 플랫폼이 생성형 AI 영상에 대한 가이드라인을 설정함으로써, 콘텐츠 제작 및 유통 방식에 영향을 미칠 수 있다.",
+      "impactSignals": [],
+      "dedupeKey": "생성형 AI 영상 확산에 넷플릭스·유튜브 가이드라인으로 대응",
+      "clusterKey": "mstoday",
+      "matchedTo": null,
+      "sourceName": "mstoday.co.kr",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1naXR6b08tVlVSX3ZFOHVzYVlEYkJCcE5fS2ZlNWdNNGl3X216b0g5S0tSSzI3NDQzdGlsRldvYzQyb21kODhXWWNfOVI1bG9ETlZTQmtJOW1YaTFReFI4ZC1OSHVhT21kSFJTSA?oc=5",
+      "publishedAt": "2026-03-09T05:55:29.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 63,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 본문이 일치하며, 핵심 내용을 간결하게 요약했습니다. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-03-10_15",
+      "date": "2026-03-10",
+      "category": "경제",
+      "title": "\"친구 돈 1200만원으로 시작\"… 고시텔 청년, 232억원 매출 사장님으로",
+      "summary": [
+        "고시텔 청년이 친구 돈 1200만원으로 시작하여 232억원 매출을 올리는 사장님이 되었다."
+      ],
+      "whyImportant": "청년 창업 성공 사례를 보여주는 기사입니다.",
+      "importanceRationale": "근거: 청년이 적은 자본으로 시작하여 큰 성공을 거둔 사례는 다른 청년들에게 동기 부여가 될 수 있으며, 창업 관련 논의를 활성화할 수 있습니다.",
+      "impactSignals": [],
+      "dedupeKey": "\"친구 돈 1200만원으로 시작\"… 고시텔 청년, 232억원 매출 사장님으로",
+      "clusterKey": "1200만원으로",
+      "matchedTo": null,
+      "sourceName": "조선일보",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNTTlrc0VCSDlJVzF6V0F0SkFiXzdjSGdCQ2tuaVpFX0M5QXBmdXBFU0ZNZ0JGTUhWdk0wMEZGQUhvZVVWVEFYMkRfT2l3YkFmeDFzR29SdV9qejdHRXIwMFZ2WGRKYmhhdnQ0VThncGRYWXlxUzkzbWV5TG1aVEI2WHlraEZJaUVlT3h5dEctYw?oc=5",
+      "publishedAt": "2026-03-09T18:00:00.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 63,
+      "qualityLabel": "ok",
+      "qualityReason": "기사의 내용이 명확하고 간결하게 전달됩니다. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-03-10_16",
+      "date": "2026-03-10",
+      "category": "기술",
+      "title": "에어팟 프로 3, 아마존에서 연말 할인가로 다시 판매",
+      "summary": [
+        "아마존에서 에어팟 프로 3가 연말 할인가로 다시 판매됩니다.",
+        "9to5Toys에 따르면 이번 할인은 일시적인 것으로 보입니다."
+      ],
+      "whyImportant": "에어팟 프로 3를 저렴하게 구매할 기회입니다.",
+      "importanceRationale": "근거: 아마존에서 에어팟 프로 3의 가격이 일시적으로 연말 할인가로 인하되었기 때문입니다.",
+      "impactSignals": [
+        {
+          "label": "market-demand",
+          "evidence": "에어팟 프로 3의 할인은 소비자 수요를 자극할 수 있습니다."
+        }
+      ],
+      "dedupeKey": "airpods-pro-3-amazon-sale",
+      "clusterKey": "airpods",
+      "matchedTo": null,
+      "sourceName": "9to5Toys",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMidEFVX3lxTE02NHllSFlKZGw0MnZjeVNkUFVvMkNTQXdQem8xYkNNUTBzUUxnTHJza29fbGRWS0gzNnprR1NrSDlEXzdnanliWXZZZ0MtQ1RTTkx5QlRqeXhxNTUxS2hCUHNkY045aFpoTGtlN2dpcWsxZGpV?oc=5",
+      "publishedAt": "2026-03-09T16:36:47.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 3,
+      "importanceRaw": 50,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 본문이 일치하며, 정보가 간결하게 제공됩니다.",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-03-10_17",
+      "date": "2026-03-10",
       "category": "경제",
       "title": "한국 '원전' 해체에 대한 관심 폭발…11조 '블루오션' 경쟁 시작",
       "summary": [
-        "한국의 원자력 발전소 해체 시장에 대한 관심이 급증하고 있다.",
-        "총 11조 원 규모의 '블루오션' 시장을 놓고 경쟁이 치열해질 것으로 예상된다."
+        "한국의 원자력 발전소 해체 시장에 대한 관심이 폭발적으로 증가하고 있다.",
+        "해당 시장은 11조 원 규모의 '블루오션'으로 평가받고 있다.",
+        "치열한 경쟁이 예상된다."
       ],
-      "whyImportant": "원전 해체 시장은 새로운 성장 동력이 될 수 있으며, 관련 기술 개발 및 산업 육성에 중요한 영향을 미친다.",
-      "importanceRationale": "근거: 원전 해체 시장은 막대한 경제적 가치를 지니며, 한국 경제에 새로운 기회를 제공할 수 있다.",
+      "whyImportant": "원전 해체 시장의 성장과 경쟁 심화는 관련 산업 발전과 기술 혁신을 촉진할 수 있다.",
+      "importanceRationale": "근거: 기사는 한국 원전 해체 시장에 대한 높은 관심과 11조 원 규모의 시장 경쟁을 다루고 있어, 경제적 중요성과 산업적 파급력을 가진다.",
       "impactSignals": [],
-      "dedupeKey": "원전해체_11조블루오션",
+      "dedupeKey": "원전해체_관심폭발_11조블루오션",
       "clusterKey": "에너지/11조",
       "matchedTo": null,
       "sourceName": "한국경제",
@@ -377,7 +489,39 @@
       "importance": 2,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 간결하게 핵심 내용을 전달한다. / 근거부족",
+      "qualityReason": "제목과 내용이 일치하며, 간결하고 명확하게 핵심 내용을 전달한다. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-03-10_18",
+      "date": "2026-03-10",
+      "category": "기술",
+      "title": "Microsoft, AI 에이전트 추진을 위해 Anthropic과 Copilot Cowork 협력",
+      "summary": [
+        "Microsoft는 AI 에이전트 개발을 위해 Anthropic과 Copilot Cowork에서 협력합니다.",
+        "이번 협력은 Microsoft의 AI 역량 강화에 기여할 것으로 예상됩니다."
+      ],
+      "whyImportant": "Microsoft가 AI 에이전트 시장에서 경쟁력을 강화하는 데 중요한 역할을 합니다.",
+      "importanceRationale": "근거: Microsoft가 Anthropic과의 협력을 통해 AI 에이전트 개발을 추진하고 있으며, 이는 AI 시장에서의 경쟁력 강화로 이어질 수 있습니다.",
+      "impactSignals": [
+        {
+          "label": "market-demand",
+          "evidence": "AI 에이전트 시장에 대한 수요 증가에 따라 Microsoft가 Anthropic과 협력하여 관련 기술 개발을 추진합니다."
+        }
+      ],
+      "dedupeKey": "microsoft-anthropic-copilot-cowork-ai-agents",
+      "clusterKey": "agents",
+      "matchedTo": null,
+      "sourceName": "Reuters",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQR0x1SjlzVm5GbnNYZTNMblFLN2ppQ1gtZ0xMdFd6eUhVMmhSWHJlV1BadnFyTjdXZUtqcF8yZ1V0ZjZLM1dtSExEN2g3OERiMG1hNEgtel9WNEtobmdtel9aMXpWdWNHR3FtM2k1d25VenMza3dtWWxzMEk1UERyYkc1SDBWNG1wQ3RSSzNLbVpsUEpqeHptZ1dMaGNicTRR?oc=5",
+      "publishedAt": "2026-03-09T13:01:53.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 3.5,
+      "importanceRaw": 63,
+      "qualityLabel": "ok",
+      "qualityReason": "기사 내용이 간결하고 명확하며, 핵심 정보를 잘 전달합니다.",
       "isBriefing": false,
       "isBreaking": false
     }
