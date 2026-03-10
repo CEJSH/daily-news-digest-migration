@@ -3,10 +3,69 @@
   "selectionCriteria": "① 내일도 영향이 남는 이슈 ② 과도한 감정 소모 제외 ③ 어제와 중복되는 뉴스 제외",
   "editorNote": "이 뉴스는 클릭 수가 아니라 오늘 이후에도 남는 정보만 기준으로 편집했습니다.",
   "question": "정보를 덜 보는 것이 오히려 더 똑똑한 소비일까?",
-  "lastUpdatedAt": "2026-03-10T17:37:57.871+09:00",
+  "lastUpdatedAt": "2026-03-10T18:40:44.751+09:00",
   "items": [
     {
       "id": "2026-03-10_1",
+      "date": "2026-03-10",
+      "category": "기술",
+      "title": "얀 르쿤의 AMI Labs, 세계 모델 구축 위해 10억 3천만 달러 투자 유치",
+      "summary": [
+        "얀 르쿤의 AMI Labs가 세계 모델 구축을 위해 10억 3천만 달러의 투자를 유치했습니다.",
+        "TechCrunch에 따르면 이번 투자는 AMI Labs의 세계 모델 개발에 큰 힘이 될 것으로 예상됩니다."
+      ],
+      "whyImportant": "AMI Labs의 대규모 투자 유치는 AI 모델 개발 경쟁 심화를 의미합니다.",
+      "importanceRationale": "근거: 10억 달러가 넘는 대규모 투자는 AI 분야에서 중요한 사건이며, 특히 얀 르쿤과 같은 저명한 인물이 이끄는 연구소의 투자 유치는 기술 개발 방향에 큰 영향을 미칠 수 있습니다.",
+      "impactSignals": [
+        {
+          "label": "capex",
+          "evidence": "AMI Labs의 10억 3천만 달러 투자 유치"
+        }
+      ],
+      "dedupeKey": "yann_lecun_ami_labs_1.03b",
+      "clusterKey": "ami",
+      "matchedTo": null,
+      "sourceName": "TechCrunch",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxObER1eGxPbkVSWG5oVExEXzIxZHUxbDJkc2puSk1GM3NqRE1malBDT0FHTUU1b2xROFRYZ2RsZW5MazF1U1FObi1sVnpWb3dIVXAxYnFaLW9pa013THcwZmUzT3dDWEN1XzlCQVBQd1F6ZlBpMDRmQ0t6ZXNNOHFlNmYwcjV5R0MtM0M2WWEzenh4Y05LWUVlLXhJOHJJdw?oc=5",
+      "publishedAt": "2026-03-10T05:00:00.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 4,
+      "importanceRaw": 75,
+      "qualityLabel": "ok",
+      "qualityReason": "기사 제목과 내용이 일치하며, 정보가 명확합니다.",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-03-10_2",
+      "date": "2026-03-10",
+      "category": "정책",
+      "title": "미국 상무부의 새로운 AI 수출 규정, CSP 및 데이터 센터 운영자에게 큰 변화 예고",
+      "summary": [
+        "미국 상무부의 새로운 AI 수출 규정으로 인해 대규모 미국산 GPU 구매는 미국 내 인프라 구축으로 이어질 수 있습니다.",
+        "이는 CSP(클라우드 서비스 제공업체) 및 데이터 센터 운영자에게 큰 변화를 가져올 수 있습니다."
+      ],
+      "whyImportant": "미국산 GPU 구매와 미국 내 인프라 구축 간의 연계 가능성",
+      "importanceRationale": "근거: 새로운 AI 수출 규정으로 인해 미국산 GPU를 대규모로 구매하는 기업은 미국 내 인프라 구축에 투자해야 할 수 있습니다.",
+      "impactSignals": [],
+      "dedupeKey": "AI_export_rules_CSPs_data_centers",
+      "clusterKey": "change",
+      "matchedTo": null,
+      "sourceName": "Tom's Hardware",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixwJBVV95cUxQaDR4NFVyNEJlZTRUWHBOR25XNk9DaktlaDhjRl9WZld0aVBhN2h3ZEV1TTJHLWgxeGRsZnI3U3BLLUhwb3ZEcDUwTVdSUmxnaTMyLUNITUgza0RWQUVmY1JPQnd5V3F4NlBVY2czMUZva01uNFh2N3FDSUptVnM1Um53MDNlbElwTThDb0hlbmdXOFN4Q1psVk40MmljcHhHdERwZmlkQ2dhMWNucmpUV1JoT0syTkprOU9kNEVOcWlSdTYybEFHTUdhckVMa0xYZnVrU1JvTjBKZDJLaFYxQ2dTWUNPZ1FXbE9DV2NFM2lKMUgtcUdXN0trYlpyZEhJNXpFQXhfV0RFSllTaVhpak1ETHBEMDV3RVl3T2J5STlwNlFuaXZ4aFRsZWtFT1ZLcklMdnZBa3ItTzdycEFfMFhWTU5Sam8?oc=5",
+      "publishedAt": "2026-03-09T17:43:44.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 75,
+      "qualityLabel": "ok",
+      "qualityReason": "기사 제목과 내용을 충실히 반영함 / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-03-10_3",
       "date": "2026-03-10",
       "category": "국제",
       "title": "폭스바겐, 관세 및 중국 경쟁 심화로 이익 절반 감소",
@@ -14,8 +73,8 @@
         "폭스바겐이 관세와 중국 시장에서의 경쟁 심화로 인해 이익이 절반으로 줄었다.",
         "이번 이익 감소는 폭스바겐에 큰 타격을 준 것으로 보인다."
       ],
-      "whyImportant": "폭스바겐의 이익 감소는 자동차 산업 전반에 영향을 미칠 수 있는 중요한 지표이다.",
-      "importanceRationale": "근거: 관세 및 중국 시장 경쟁 심화가 폭스바겐의 이익에 직접적인 영향을 미쳤으며, 이는 다른 자동차 제조업체에도 유사한 영향을 줄 수 있음을 시사한다.",
+      "whyImportant": "폭스바겐의 이익 감소는 자동차 산업 전반에 영향을 미칠 수 있다.",
+      "importanceRationale": "근거: 폭스바겐은 세계적인 자동차 제조업체이며, 이익 감소는 경영 환경 악화 및 경쟁 심화를 반영한다.",
       "impactSignals": [],
       "dedupeKey": "volkswagen-profit-halves-tariffs-china",
       "clusterKey": "battle",
@@ -26,62 +85,25 @@
       "readTimeSec": 10,
       "status": "kept",
       "importance": 2,
-      "importanceRaw": 75,
+      "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 내용이 일치하며, 간결하게 요약되어 있음. / 근거부족",
+      "qualityReason": "기사 제목과 내용이 일치하며, 요약이 간결하고 명확하다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-03-10_2",
-      "date": "2026-03-10",
-      "category": "정책",
-      "title": "미국 상무부의 새로운 AI 수출 규제, CSP 및 데이터 센터 운영자에게 큰 변화 예고",
-      "summary": [
-        "미국 상무부의 새로운 AI 수출 규제가 CSP와 데이터 센터 운영자에게 큰 영향을 미칠 수 있음.",
-        "미국산 GPU를 대규모로 구매하는 것은 미국 내 인프라 구축에 대한 약속을 의미함."
-      ],
-      "whyImportant": "미국산 GPU 구매와 미국 내 인프라 구축 간의 연계는 데이터 센터 산업에 중요한 정책적, 자본적 영향을 미칩니다.",
-      "importanceRationale": "근거: 새로운 수출 규제가 미국 내 인프라 투자와 연결되어 데이터 센터 운영 방식에 변화를 가져올 수 있기 때문입니다.",
-      "impactSignals": [
-        {
-          "label": "policy",
-          "evidence": "미국 상무부의 새로운 AI 수출 규제"
-        }
-      ],
-      "dedupeKey": "new_commerce_ai_export_rules_20240129",
-      "clusterKey": "change",
-      "matchedTo": null,
-      "sourceName": "Tom's Hardware",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMixwJBVV95cUxQaDR4NFVyNEJlZTRUWHBOR25XNk9DaktlaDhjRl9WZld0aVBhN2h3ZEV1TTJHLWgxeGRsZnI3U3BLLUhwb3ZEcDUwTVdSUmxnaTMyLUNITUgza0RWQUVmY1JPQnd5V3F4NlBVY2czMUZva01uNFh2N3FDSUptVnM1Um53MDNlbElwTThDb0hlbmdXOFN4Q1psVk40MmljcHhHdERwZmlkQ2dhMWNucmpUV1JoT0syTkprOU9kNEVOcWlSdTYybEFHTUdhckVMa0xYZnVrU1JvTjBKZDJLaFYxQ2dTWUNPZ1FXbE9DV2NFM2lKMUgtcUdXN0trYlpyZEhJNXpFQXhfV0RFSllTaVhpak1ETHBEMDV3RVl3T2J5STlwNlFuaXZ4aFRsZWtFT1ZLcklMdnZBa3ItTzdycEFfMFhWTU5Sam8?oc=5",
-      "publishedAt": "2026-03-09T17:43:44.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 4,
-      "importanceRaw": 75,
-      "qualityLabel": "ok",
-      "qualityReason": "기사의 내용이 명확하고 요약이 가능함.",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-03-10_3",
+      "id": "2026-03-10_4",
       "date": "2026-03-10",
       "category": "정책",
       "title": "“유출 반복 시 매출 10% 과징금”…개인정보 보호법 10일 공포",
       "summary": [
-        "개인정보 보호법이 10일 공포되었습니다.",
-        "유출이 반복될 경우 매출의 10%까지 과징금이 부과될 수 있습니다."
+        "개인정보 보호법이 10일 공포되었다.",
+        "유출이 반복될 경우 매출의 10%까지 과징금이 부과될 수 있다."
       ],
-      "whyImportant": "개인 정보 유출에 대한 기업의 책임이 강화됩니다.",
-      "importanceRationale": "근거: 반복적인 개인 정보 유출 시 매출액의 상당 부분을 과징금으로 부과하여 기업의 보안 책임 의식을 높일 수 있습니다.",
-      "impactSignals": [
-        {
-          "label": "earnings",
-          "evidence": "매출액의 최대 10%까지 과징금 부과 가능"
-        }
-      ],
-      "dedupeKey": "Repeated Leakage Fine of 10% of Sales...Personal Information Protection Act Promulgated on the 10th",
+      "whyImportant": "개인 정보 유출에 대한 기업의 책임이 강화되었습니다.",
+      "importanceRationale": "근거: 개인 정보 유출 반복 시 매출액의 상당 부분을 과징금으로 부과하여 기업의 보안 책임을 강화하고, 잠재적으로 기업 수익에 영향을 줄 수 있기 때문입니다.",
+      "impactSignals": [],
+      "dedupeKey": "유출 반복 땐 매출 10% 과징금 개인정보 보호법 10일 공포",
       "clusterKey": "10일",
       "matchedTo": null,
       "sourceName": "농민신문",
@@ -89,24 +111,24 @@
       "publishedAt": "2026-03-09T20:00:00.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 4,
+      "importance": 2,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 핵심 내용을 잘 요약했습니다.",
+      "qualityReason": "제목과 본문이 일치하며, 간결하게 핵심 내용을 전달합니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-03-10_4",
+      "id": "2026-03-10_5",
       "date": "2026-03-10",
-      "category": "기술",
-      "title": "Masterflex, 예비 수치에 따르면 2025 회계 연도 예측에 부합 – 또 다시 기록적인 수익",
+      "category": "경제",
+      "title": "Masterflex, 예비 수치에 따르면 2025 회계 연도 예측과 일치 – 또 다시 기록적인 수익",
       "summary": [
-        "Masterflex는 예비 수치에 따르면 2025 회계 연도에 대한 예측에 부합합니다.",
-        "이번 실적은 또 다시 기록적인 수익을 달성한 결과입니다."
+        "Masterflex는 예비 수치에 따르면 2025 회계 연도에 대한 예측과 일치합니다.",
+        "이번 회계 연도에 또 다시 기록적인 수익을 달성했습니다."
       ],
-      "whyImportant": "Masterflex의 실적은 회사의 재정적 건전성과 성장 잠재력을 나타냅니다.",
-      "importanceRationale": "근거: Masterflex가 2025 회계 연도 예측에 부합하며 기록적인 수익을 달성했다는 점은 회사의 투자 및 운영 효율성을 시사합니다.",
+      "whyImportant": "Masterflex의 재무 성과와 관련된 정보입니다.",
+      "importanceRationale": "근거: Masterflex가 2025 회계 연도에 대한 예측을 충족하고 기록적인 수익을 달성했다는 것은 회사의 재무 건전성과 성장 잠재력을 시사합니다.",
       "impactSignals": [],
       "dedupeKey": "Masterflex_2025_earnings",
       "clusterKey": "according",
@@ -119,21 +141,31 @@
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "The article provides a concise and factual report on Masterflex's financial performance. / 근거부족",
+      "qualityReason": "The article provides factual information about Masterflex's financial performance. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-03-10_5",
+      "id": "2026-03-10_6",
       "date": "2026-03-10",
       "category": "경제",
       "title": "위스콘신 PSC, Alliant-Meta 데이터 센터 계약 세부 정보 주문",
       "summary": [
-        "위스콘신 PSC(공공 서비스 위원회)는 Alliant Energy와 Meta 간의 데이터 센터 계약에 대한 세부 정보를 주문했습니다."
+        "위스콘신 공공 서비스 위원회(PSC)는 Alliant Energy와 Meta 간의 데이터 센터 계약에 대한 세부 정보를 요구했습니다.",
+        "이 계약은 데이터 센터 건설과 관련된 것으로 보입니다."
       ],
-      "whyImportant": "Alliant Energy와 Meta 간의 데이터 센터 계약의 세부 사항을 파악하는 데 중요합니다.",
-      "importanceRationale": "근거: 데이터 센터 건설 및 운영은 지역 경제에 상당한 영향을 미칠 수 있으며, 에너지 소비 및 인프라 투자와 관련된 중요한 고려 사항을 포함합니다.",
-      "impactSignals": [],
+      "whyImportant": "데이터 센터 건설은 지역 경제에 상당한 영향을 미칠 수 있습니다.",
+      "importanceRationale": "근거: 데이터 센터 건설은 막대한 자본 지출을 수반하며, 이는 지역 경제 활성화와 일자리 창출로 이어질 수 있습니다. 또한 Meta와 같은 대기업의 투자는 해당 지역의 기술 허브로서의 위상을 강화할 수 있습니다.",
+      "impactSignals": [
+        {
+          "label": "capex",
+          "evidence": "데이터 센터 건설 계약은 상당한 자본 지출을 의미합니다."
+        },
+        {
+          "label": "market-demand",
+          "evidence": "Meta의 데이터 센터 투자는 데이터 저장 및 처리 수요 증가를 반영합니다."
+        }
+      ],
       "dedupeKey": "wisconsin_psc_alliant_meta_data_center_deal",
       "clusterKey": "alliant",
       "matchedTo": null,
@@ -142,90 +174,69 @@
       "publishedAt": "2026-03-09T22:09:13.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 2,
+      "importance": 3.5,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었습니다. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-03-10_6",
-      "date": "2026-03-10",
-      "category": "경제",
-      "title": "메모리 가격 상승에도 AI 수요 지속… HPE, 실적 전망 시장 기대치 상회",
-      "summary": [
-        "메모리 가격 상승에도 불구하고 AI 수요가 지속되고 있다.",
-        "HPE의 실적 전망이 시장 기대치를 상회했다."
-      ],
-      "whyImportant": "HPE의 실적 전망이 시장 기대치를 상회한 것은 AI 수요가 메모리 가격 상승에도 불구하고 견조함을 시사한다.",
-      "importanceRationale": "근거: HPE의 실적 전망은 AI 시장의 수요 강세를 반영하며, 이는 관련 산업 전반에 긍정적인 영향을 미칠 수 있다.",
-      "impactSignals": [],
-      "dedupeKey": "HPE_earnings_AI_demand_20240612",
-      "clusterKey": "hpe",
-      "matchedTo": null,
-      "sourceName": "Chosunbiz",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNNEV3UnJKLTlNTEFOMzRCMVJ5SFN5djhLSzB0VVdJR1ZxbUlVQzZaaUJrS1ExcUJMVElUVW91VWVwS3Qwb19wdTl4cW9lZWFIN08tTWJqaXpiN1VTem91SzVUTmpZa2FoemhmYjViTC1aVjhPWFJYY2NIc1ljWlVGNmFB0gGWAUFVX3lxTE5ZOXREY2V5dk1EWVBaR0J3R1ZXY1NpRG5sNnBFRDB3U3g2a1p4T1ZYb0liMHRHdVpTNGk2ZEJQRHRNeVh6WTg2X1lGaV84TUxxSGhxN3QzQXdxWV9JOVlTMVdCQk9XODBhV05wQ2ZYUjhVeWcxc2JVdlVFVW1aOVQ0cjJXS2lSNGxvMlo1VG9EREtEa1owdw?oc=5",
-      "publishedAt": "2026-03-10T06:11:56.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 75,
-      "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 내용이 일치하며, 핵심 내용을 잘 요약했습니다. / 근거부족",
+      "qualityReason": "제목과 본문이 일치하며, 정보가 간결하고 명확합니다.",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-03-10_7",
       "date": "2026-03-10",
-      "category": "경제",
-      "title": "국회에서 대구 경제 대변할 '선수'가 없다",
+      "category": "기술",
+      "title": "엔비디아, 기업용 오픈소스 AI 에이전트 플랫폼 'NemoClaw' 계획: Wired",
       "summary": [
-        "국회에서 대구 경제를 대변할 '선수'가 없다는 지적이 제기됨."
+        "엔비디아가 기업을 위한 오픈소스 AI 에이전트 플랫폼 'NemoClaw'를 계획하고 있다고 Wired가 보도했습니다.",
+        "CNBC도 이 내용을 보도했습니다."
       ],
-      "whyImportant": "국회에서 지역 경제를 대변할 인물이 부족하다는 점은 지역 경제 발전에 부정적인 영향을 미칠 수 있습니다.",
-      "importanceRationale": "근거: 국회에서 특정 지역의 경제적 이익을 대변할 인물이 부족하다는 것은 해당 지역의 정책 반영에 어려움을 야기할 수 있기 때문입니다.",
+      "whyImportant": "기업들이 자체 AI 에이전트를 구축하고 관리하는 데 도움이 될 수 있습니다.",
+      "importanceRationale": "근거: 엔비디아가 오픈소스 AI 에이전트 플랫폼을 통해 기업의 AI 기술 접근성을 높이고, 자체적인 AI 에이전트 구축을 지원할 계획입니다.",
       "impactSignals": [],
-      "dedupeKey": "국회,대구경제,대변,선수부족",
-      "clusterKey": "경제",
+      "dedupeKey": "Nvidia_NemoClaw_OpenSource_AI_Agent_Platform",
+      "clusterKey": "agent",
       "matchedTo": null,
-      "sourceName": "한국경제",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5QdzFnQ0N6dzJHTzIwdmtkdF9QLTA4YXVURmFNdkZjMTlkOVlaSmF2V0EzXy1EMzlFWEhSZ05KMnZKekZoTFNfRVBVRnU0OWUtSE5uOTMyTjFqQdIBVEFVX3lxTFAxS1phQUc0WF9VYm4tRDNhd2g3V1dMMnpWYTBXMUFWcnpOa3phR3dGeVdCRmNuXzlpRGZrR0E0eHppODJTM2RWQ3g3LWh1Yy03RGF5SA?oc=5",
-      "publishedAt": "2026-03-10T07:56:35.000Z",
+      "sourceName": "CNBC",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPem9IblQ1R1llUGU3LS1HNF9UREFHT00xZUVRUmNVZTNhVzBHSXhydVowbXdVaXpqcmNYN3NDRElHNTd5Ulh4RTV1ZWM4NWtqNVpYN3A3dmYyRzRITEVnLXNxRDVqX1BUSFdWV3k3dlFkV1NFZEFXczYyVTU4eUFSMkhBR1BoMElRcUF3T21XREt1X3Q2cjg3akhtdi1SLUlMaExOVVB1TXZqeDFCQktlbmtmbi03ZHpQTVVXa0dtTm5yR1dOcEo40gHMAUFVX3lxTE5TeXFRbTRWQTVKd1FVcXZTQl9SR0t1UDN3YUZpTmswOUYzQnZxYi1SeXBvYjNJbjdGenhreFA1anBXdzFReEJpNUhFRWgwQjhwaXd0bmw4eU5yZ1gyOUF0MEJSdVBWUEpCYkthbmQwUks3YWNmQkF0Vm9YcWM4djBZYTk4bVByR2tkYmZVNlRNSWFwVnpvc19PWFg3MXNPNGh3OXg2aXJHU0s4UERSbFNXZE4zUVFFemsyaTd1S2RRWkhlb0ZtUlI2dEVPOA?oc=5",
+      "publishedAt": "2026-03-10T05:52:16.000Z",
       "readTimeSec": 10,
       "status": "kept",
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "기사 내용이 간결하고 명확함. / 근거부족",
+      "qualityReason": "The article is concise and directly states the main point. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-03-10_8",
       "date": "2026-03-10",
-      "category": "기술",
-      "title": "전 메타 AI 책임자 얀 르쿤의 AMI, 대안적인 AI 접근 방식을 위해 10억 3천만 달러 모금",
+      "category": "에너지",
+      "title": "일론 머스크의 xAI, 미시시피에 발전소 건설 추진",
       "summary": [
-        "전 메타 AI 책임자 얀 르쿤의 AMI가 대안적인 AI 접근 방식을 위해 10억 3천만 달러를 모금했습니다.",
-        "이번 투자는 AI 분야의 새로운 접근 방식에 대한 관심을 보여줍니다."
+        "일론 머스크의 xAI가 미시시피에 발전소 건설을 추진하고 있습니다.",
+        "규제 당국은 선거일에 중요한 회의를 계획하고 있습니다."
       ],
-      "whyImportant": "AI 기술 개발의 새로운 투자 동향을 보여주는 사례입니다.",
-      "importanceRationale": "근거: 얀 르쿤이라는 저명한 인물이 주도하는 AMI가 상당한 금액의 투자를 유치했다는 점은 AI 기술 개발의 새로운 방향에 대한 시장의 관심을 반영합니다.",
-      "impactSignals": [],
-      "dedupeKey": "ex-meta-ai-chief-yann-lecun-ami-raises-1.03-billion",
-      "clusterKey": "alternative",
+      "whyImportant": "xAI의 발전소 건설 계획은 에너지 인프라 투자와 관련되어 있습니다.",
+      "importanceRationale": "근거: xAI의 발전소 건설은 대규모 자본 지출(capex)을 수반하며, 지역 경제 및 에너지 공급에 영향을 미칠 수 있습니다.",
+      "impactSignals": [
+        {
+          "label": "capex",
+          "evidence": "xAI의 발전소 건설 계획은 상당한 자본 지출을 필요로 합니다."
+        }
+      ],
+      "dedupeKey": "xai_mississippi_powerplant",
+      "clusterKey": "에너지/build",
       "matchedTo": null,
-      "sourceName": "Reuters",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTUFjdVdaX0o2RkZ5VXdYbERvZmlVQy1Oc3lMeW9yb3JRUUJYNjk5d21oVVllVkZpNTducDVGMko2YnNlclNEMmY4ZGxLVlBkdmVWaUdSOXB0UllhbU9mTVkwWXVBWnF6eWxMRDJWRmdOYkVoUFoxc0ZNOWRoSzlldlZDSEhHb3RvQkZ2SnVOajFVU3VPQzFKNUxGaGcwU2lweWVyREt1Um9LSFVXSGhrY1k4S3RndW0yeFlrYQ?oc=5",
-      "publishedAt": "2026-03-10T05:01:00.000Z",
+      "sourceName": "CNBC",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZVpMSzQyVEt0SS1sbmxDZlN0MmJuMmdNOUc3el9yYXpRZlZOUkROWXpNOHZOZEIxNnRORVB4TFhCTXZpZ0RmNFFXR3JLblhGbVpjRXNtMGJycFM2Q3BNbExIY0IxM3N3N3lPeGlFV1J0ZVlQUEVocnhPVW1ZWXpONFQ5czJDbW43MkZhQmF5TXJkeGJGLXkyR2ZremN3RTlNbHpmSdIBqgFBVV95cUxNc095NV9aR3FLNjE3WUgzQkx2eExGMkRoTVVYWjJWSGFoY2lTbVd2c0RqOHM2THQ0eVdyN0xPQ3ktVjVQdU80RGVjX0xyZi1hUWVnWUprTFpuZ1IxQU1kOUh4eHVOLWJPU0dySnV0REZ4MkNPLTVKcVNZcFBwb0V2ZVhHdWZQZ0NXSGlkR2JIY09MbVJaRlVrNGw3Zk9OVDJON2xfWS0xbFhPZw?oc=5",
+      "publishedAt": "2026-03-09T23:57:08.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 2,
+      "importance": 3.5,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "기사 내용이 간결하고 명확합니다. / 근거부족",
+      "qualityReason": "제목과 본문이 일치하며, 정보가 간결하게 제공됨.",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -235,11 +246,11 @@
       "category": "국제",
       "title": "멕시코, 5월부터 미국에 이어 캐나다와 무역 협상 예고",
       "summary": [
-        "멕시코가 미국에 이어 캐나다와 5월부터 무역 협상을 시작할 예정이다.",
-        "이번 협상은 멕시코의 무역 다변화 전략의 일환으로 풀이된다."
+        "멕시코가 미국에 이어 캐나다와 5월부터 무역 협상을 시작할 예정입니다.",
+        "이번 협상은 멕시코의 무역 다변화 전략의 일환으로 풀이됩니다."
       ],
-      "whyImportant": "멕시코가 캐나다와 새로운 무역 협상을 시작하는 것은 북미 지역의 무역 관계에 중요한 변화를 가져올 수 있다.",
-      "importanceRationale": "근거: 멕시코가 미국에 이어 캐나다와 무역 협상을 진행함으로써, 북미 지역의 무역 역학 관계에 영향을 미칠 수 있기 때문이다.",
+      "whyImportant": "멕시코가 미국에 이어 캐나다와 무역 협상을 시작하는 것은 북미 무역 관계에 중요한 변화를 가져올 수 있습니다.",
+      "importanceRationale": "근거: 멕시코가 주요 교역국인 캐나다와의 무역 협상을 통해 새로운 무역 관계를 모색하고 있으며, 이는 북미 지역의 경제 및 정치적 역학 관계에 영향을 미칠 수 있습니다.",
       "impactSignals": [],
       "dedupeKey": "mexico-canada-trade-talks-may",
       "clusterKey": "5월부터",
@@ -252,7 +263,7 @@
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 내용이 일치하며, 간결하게 요약되어 있음. / 근거부족",
+      "qualityReason": "기사 제목과 내용이 일치하며, 사실에 기반하여 작성되었습니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -260,26 +271,26 @@
       "id": "2026-03-10_10",
       "date": "2026-03-10",
       "category": "정책",
-      "title": "문형배, \"법 왜곡죄, 국회 입법 존중해야…나도 여러 번 고발당했다\"",
+      "title": "문형배, '법 왜곡죄' 국회 입법 존중 필요…본인도 여러 번 고발당해",
       "summary": [
-        "문형배는 법 왜곡죄에 대해 국회 입법을 존중해야 한다고 발언했다.",
-        "그는 자신도 여러 번 고발당한 경험이 있다고 밝혔다."
+        "문형배는 '법 왜곡죄'에 대한 국회 입법을 존중해야 한다고 밝혔다.",
+        "문형배는 본인도 여러 번 고발당한 경험이 있다고 언급했다."
       ],
-      "whyImportant": "법 왜곡죄 관련 논의에 대한 주요 인사의 입장 표명.",
-      "importanceRationale": "근거: 문형배의 발언은 법 왜곡죄에 대한 국회 입법 논의에 영향을 미칠 수 있으며, 관련 정책 방향 설정에 중요한 지표가 될 수 있다.",
+      "whyImportant": "법 왜곡죄 관련 논의에 대한 입법 방향을 제시하고 있어 중요합니다.",
+      "importanceRationale": "근거: 문형배의 발언은 법 왜곡죄에 대한 국회의 입법 과정에 영향을 미칠 수 있으며, 관련 논의에 대한 중요한 관점을 제공합니다.",
       "impactSignals": [],
-      "dedupeKey": "문형배_법왜곡죄_국회입법존중",
+      "dedupeKey": "문형배_법왜곡죄_국회_입법_존중",
       "clusterKey": "고발",
       "matchedTo": null,
       "sourceName": "한겨레",
       "sourceUrl": "https://news.google.com/rss/articles/CBMickFVX3lxTFAtMzFUOXYtOVV6QlBXa09zU3U4X2JQVmcwT2dUSnF6V2prcE55SFloTmp6T1o2WTliVVpTSXRRakNMaHpHbFhOcnktUFFFdmhCNW5UdUw4Q2pOTFNsR0I5VEpMT1luVFllSVJ6TGxBa2NUZw?oc=5",
-      "publishedAt": "2026-03-10T06:05:30.000Z",
+      "publishedAt": "2026-03-10T08:57:00.000Z",
       "readTimeSec": 10,
       "status": "kept",
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "기사 내용이 간결하고 명확하며, 정보의 출처가 분명하다. / 근거부족",
+      "qualityReason": "기사의 내용이 명확하고 사실에 기반하고 있습니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -287,26 +298,26 @@
       "id": "2026-03-10_11",
       "date": "2026-03-10",
       "category": "정책",
-      "title": "지역 의사 선발 10% 이상 의무화… ‘지역 의사제’ 시행령 국무회의 의결",
+      "title": "지역 의사 선발 비율 및 의무 복무 기준 마련…'지역 의사제' 시행령 의결",
       "summary": [
-        "지역 의사 선발이 10% 이상 의무화된다.",
-        "‘지역 의사제’ 시행령이 국무회의에서 의결되었다."
+        "지역 의사 선발 비율과 의무 복무 기준이 마련되었습니다.",
+        "이는 '지역 의사제' 시행령 의결에 따른 것입니다."
       ],
-      "whyImportant": "지역 의료 서비스 개선에 기여할 수 있는 정책 변경 사항입니다.",
-      "importanceRationale": "근거: 지역 의사 선발 의무화는 의료 인력의 지역적 불균형 해소에 직접적인 영향을 미치므로 중요합니다.",
+      "whyImportant": "지역 의사제 시행을 위한 구체적인 기준이 마련되어 정책 실행의 기반이 마련되었습니다.",
+      "importanceRationale": "근거: 지역 의사 선발 비율 및 의무 복무 기준 설정은 지역 의료 서비스 개선을 위한 정책의 중요한 단계입니다.",
       "impactSignals": [],
-      "dedupeKey": "지역 의사 선발 10% 이상 의무화",
-      "clusterKey": "국무회의",
+      "dedupeKey": "지역의사제 시행령 의결",
+      "clusterKey": "기준",
       "matchedTo": null,
-      "sourceName": "후생신보",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9OOHlvUVlVdnZ5VGVWZXl1ODZLZk5kbF95cm1wVDd4STA1MkJwWTZmaHBmUlAtWll2akNHMk10OFBYVXE1ZUZxMEJPUVp4ck1W?oc=5",
-      "publishedAt": "2026-03-10T04:38:00.000Z",
+      "sourceName": "한국방송뉴스",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB4QXZSY3NiUWNOclVhb0Y0RGR2eFZWLWpYODdfN1R3RFMwNkNEaEM5cmZJNzh5Zm53dnZlclNheW5xVWpIcFlDTTJtdGxPODFHVnMzc2lnZWhpeU5Pcmc?oc=5",
+      "publishedAt": "2026-03-10T08:54:29.000Z",
       "readTimeSec": 10,
       "status": "kept",
       "importance": 2,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 기사 내용이 일치하며, 핵심 내용을 잘 반영하고 있습니다. / 근거부족",
+      "qualityReason": "기사 내용이 명확하고 정책 시행에 대한 정보를 제공합니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -314,26 +325,26 @@
       "id": "2026-03-10_12",
       "date": "2026-03-10",
       "category": "기술",
-      "title": "OpenAI 및 Google 직원, 국방부 소송에서 Anthropic 지원에 나서",
+      "title": "LGU+, 크립토랩과 협력하여 '철통 보안' AI 생태계 구축",
       "summary": [
-        "OpenAI와 Google 직원들이 Anthropic을 옹호하기 위해 국방부 소송에 참여했습니다.",
-        "TechCrunch에 따르면 이들은 Anthropic을 지지하고 있습니다."
+        "LGU+는 해킹 피해를 원천 차단하기 위해 크립토랩과 협력한다.",
+        "양사는 '철통 보안' AI 생태계를 구축할 예정이다."
       ],
-      "whyImportant": "Anthropic에 대한 지지는 기술 업계의 중요한 연대를 보여줍니다.",
-      "importanceRationale": "근거: OpenAI와 Google 직원들이 국방부 소송에서 Anthropic을 옹호하는 것은 이 회사가 기술 업계에서 중요한 위치를 차지하고 있음을 시사합니다.",
+      "whyImportant": "LGU+가 크립토랩과의 협력을 통해 보안을 강화하고 AI 생태계를 구축하는 것은 통신 보안 분야에서 중요한 발전이다.",
+      "importanceRationale": "근거: LGU+가 크립토랩과의 협력을 통해 해킹 피해를 원천 차단하고 보안이 강화된 AI 생태계를 구축하려는 노력을 기울이고 있기 때문이다.",
       "impactSignals": [],
-      "dedupeKey": "openai_google_anthropic_dod_lawsuit",
-      "clusterKey": "anthropic",
+      "dedupeKey": "LGU+_크립토랩_AI_보안",
+      "clusterKey": "lgu",
       "matchedTo": null,
-      "sourceName": "TechCrunch",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPaXk3MGI4SkVvZmg0VkxWeXQtWHlCaFNmRzUtUHpSbXBjTnh5dXp0SFNzQ0JROXljc0hnU0pPdHRYSEgyNUZUZm1YWGdFZS1pdnk4cTlGVUJFLUhWWXN0dU10dUZqUW9pV1VVMlRlXzVHY1dKNlJLdmFMdTk3NE1sMU9VX2lfMV9TazZIcFFUVUdRNVl3WDVBSnpJcTg3Sk91NmpMaE1Ubw?oc=5",
-      "publishedAt": "2026-03-09T21:15:17.000Z",
+      "sourceName": "edaily.co.kr",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZFVEUEZ3NjRKNUZaRXFCQi1iZ2RSY3NDWE10N2RhN1ozMWQ3d0MtQ3RwWU1LYkVnbWJObnByb3JpSGhISW96ZnJ2MmZyeXlwYldYZk0wN3ZjMjFFd0dNZnJYMXRJMkNyQU8xV09odGhDM1FRY3NlMHUtYU9JNFg3cQ?oc=5",
+      "publishedAt": "2026-03-10T00:08:57.000Z",
       "readTimeSec": 10,
       "status": "kept",
       "importance": 2,
-      "importanceRaw": 63,
+      "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "기사에 명확한 정보가 포함되어 있습니다. / 근거부족",
+      "qualityReason": "기사 제목과 내용이 일치하며, 간결하게 요약되어 정보 전달력이 높음. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -341,32 +352,30 @@
       "id": "2026-03-10_13",
       "date": "2026-03-10",
       "category": "경제",
-      "title": "[생생한 주식쇼 생쇼] 유가 급락에 따른 증시 반전 및 원전·반도체 주도주 전략",
+      "title": "기업 88%, \"AI 도입이 매출 증가에 도움\"",
       "summary": [
-        "유가 급락에 따른 증시 반전 전략이 제시됨.",
-        "원자력 발전 및 반도체 관련 주도주 전략이 논의됨.",
-        "매일경제TV에서 관련 내용이 방송됨."
+        "한국경제에 따르면 기업의 88%가 인공지능(AI) 도입이 매출 증가에 도움이 된다고 응답했습니다."
       ],
-      "whyImportant": "유가 급락에 따른 투자 전략 변화와 원전·반도체 주도주 전략에 대한 정보를 제공합니다.",
-      "importanceRationale": "근거: 유가 급락이라는 시장 변화에 따른 투자 전략과 특정 산업(원전, 반도체)에 대한 투자 방향성을 제시하므로 투자자들에게 중요합니다.",
+      "whyImportant": "AI 도입이 기업 매출에 미치는 긍정적인 영향을 보여주는 자료입니다.",
+      "importanceRationale": "근거: 기업의 대다수가 AI 도입 후 매출 증가를 경험했다는 직접적인 데이터는 AI 기술 투자의 잠재적 수익성을 시사합니다.",
       "impactSignals": [
         {
-          "label": "market-demand",
-          "evidence": "유가 급락에 따른 증시 반전 및 원전·반도체 주도주 전략 제시"
+          "label": "earnings",
+          "evidence": "기업 88%가 AI 도입 후 매출 증가를 경험함"
         }
       ],
-      "dedupeKey": "[생생한 주식쇼 생쇼] 유가 급락에 따른 증시 반전 및 원전·반도체 주도주 전략",
-      "clusterKey": "에너지/급락에",
+      "dedupeKey": "AI도입매출증가",
+      "clusterKey": "기업",
       "matchedTo": null,
-      "sourceName": "매일경제TV",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAtX0poQXotYU1XQldQck1MY2RpZWkwU3M2cXJBSTRlNTQzLVNkb2RLTGliTl9DMFFTRjNNMGU1MDIxMEZZakRrOFRwTHVRS1ktVXFBU3kwVkpEekREbjhSRUx0ODVKbWND?oc=5",
-      "publishedAt": "2026-03-10T05:12:00.000Z",
+      "sourceName": "한국경제",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9qbUV0aVFmUEhaTlV6NXVraUUtRG5jbVo4Wmc2ZndzQkdBMlVXTDg2QW5rc2V3c015WEEycFBzVENuYlhjOW9GMlVsTWE0Q2xmYUc1Uno1OUFrZ9IBVEFVX3lxTE9WZTZER25pMTNpaG9PVE0ybFZ3QU1nVlBKOGlxTnZXNU40LWo5TFdTLTdkQUd3eWVKSEJwNkFLdWM5Y3VIa1J2R1RBLWJoRUMwYmt4Rg?oc=5",
+      "publishedAt": "2026-03-10T08:26:15.000Z",
       "readTimeSec": 10,
       "status": "kept",
       "importance": 3.5,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 텍스트가 일치하며, 정보가 명확하게 전달됨.",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 핵심 내용을 전달합니다.",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -374,20 +383,47 @@
       "id": "2026-03-10_14",
       "date": "2026-03-10",
       "category": "경제",
+      "title": "[생생한 주식쇼 생쇼] 유가 급락에 따른 증시 반전 및 원전·반도체 주도주 전략",
+      "summary": [
+        "유가 급락에 따른 증시 반전 전략이 제시됨.",
+        "원전 및 반도체 주도주 전략이 논의됨."
+      ],
+      "whyImportant": "유가 급락에 따른 투자 전략 변화를 시사합니다.",
+      "importanceRationale": "근거: 유가 급락이 증시에 미치는 영향과 그에 따른 투자 전략을 제시하고 있어 투자자들에게 중요합니다.",
+      "impactSignals": [
+        {
+          "label": "market-demand",
+          "evidence": "유가 급락에 따른 증시 및 특정 주도주 전략 제시"
+        }
+      ],
+      "dedupeKey": "[생생한 주식쇼 생쇼] 유가 급락에 따른 증시 반전 및 원전·반도체 주도주 전략",
+      "clusterKey": "에너지/급락에",
+      "matchedTo": null,
+      "sourceName": "매일경제TV",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBldUNkVFMzSHpVYktLNHJVRGdaanFYdFBhTGoyT2huNWlld3RTOE10SFJBMXlvY3JXYUlVSzJ1cjRaZTEzTUI3TlhlaDAwQkdnMHZoRWZCRWlrZDVfSlFLbDBCc0JITmFS?oc=5",
+      "publishedAt": "2026-03-10T05:12:00.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 3.5,
+      "importanceRaw": 63,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었습니다.",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-03-10_15",
+      "date": "2026-03-10",
+      "category": "경제",
       "title": "“AI 사용하라는 건가, 말라는 건가”…금감원 가이드라인 논란",
       "summary": [
         "금융감독원의 AI 가이드라인을 두고 논란이 일고 있다.",
-        "가이드라인이 AI 사용을 장려하는지, 규제하는지 불분명하다는 지적이다."
+        "가이드라인이 AI 사용을 장려하는 것인지, 규제하는 것인지 불분명하다는 지적이다."
       ],
-      "whyImportant": "금융감독원의 AI 가이드라인에 대한 논란은 금융 산업의 AI 도입 및 활용 방향에 중요한 영향을 미칠 수 있다.",
-      "importanceRationale": "근거: 금융감독원의 가이드라인은 금융회사의 AI 투자 및 서비스 개발 전략에 직접적인 영향을 미치며, 이는 금융 시장 전체의 혁신 속도와 경쟁 환경을 결정할 수 있기 때문이다.",
-      "impactSignals": [
-        {
-          "label": "capex",
-          "evidence": "금융감독원의 AI 가이드라인은 금융회사의 AI 투자 결정에 영향을 미칠 수 있다."
-        }
-      ],
-      "dedupeKey": "AI가이드라인논란",
+      "whyImportant": "금융감독원의 AI 가이드라인에 대한 논란은 AI 기술 도입에 대한 금융기관의 투자 결정에 영향을 미칠 수 있기 때문에 중요하다.",
+      "importanceRationale": "근거: 금융감독원의 가이드라인은 금융기관의 AI 도입 및 활용 방향을 제시하며, 이는 관련 기술 투자 및 전략 수립에 중요한 영향을 미친다.",
+      "impactSignals": [],
+      "dedupeKey": "AI 가이드라인 논란",
       "clusterKey": "가이드라인",
       "matchedTo": null,
       "sourceName": "스트레이트뉴스",
@@ -395,34 +431,34 @@
       "publishedAt": "2026-03-10T07:38:36.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 3.5,
+      "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "기사의 제목과 내용이 일치하며, 핵심 내용을 요약하여 전달한다.",
+      "qualityReason": "기사 제목과 내용이 일치하며, 핵심 내용을 요약적으로 전달한다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-03-10_15",
+      "id": "2026-03-10_16",
       "date": "2026-03-10",
       "category": "국제",
-      "title": "AI 패권 경쟁 본격화: 한국 규제, 미국 칩 통제, 중국 인프라 확장",
+      "title": "AI 패권 경쟁 본격화…한국 규제·미국 칩 통제·중국 인프라 확장",
       "summary": [
         "AI 패권 경쟁이 본격화되고 있다.",
-        "한국은 규제를, 미국은 칩 통제를, 중국은 인프라 확장을 추진하고 있다."
+        "한국은 규제를, 미국은 칩 통제를, 중국은 인프라 확장을 추진 중이다."
       ],
-      "whyImportant": "AI 기술 경쟁 심화와 각국의 전략적 대응을 보여준다.",
-      "importanceRationale": "근거: AI 패권 경쟁의 심화와 관련된 각국의 정책적 움직임을 요약적으로 보여주기 때문이다.",
+      "whyImportant": "AI 기술 경쟁 심화와 각국의 대응 전략을 보여준다.",
+      "importanceRationale": "근거: AI 패권 경쟁의 심화와 관련된 한국, 미국, 중국의 정책 방향을 간략하게 요약했다.",
       "impactSignals": [
         {
           "label": "policy",
           "evidence": "한국 규제, 미국 칩 통제, 중국 인프라 확장"
         }
       ],
-      "dedupeKey": "AI패권경쟁,한국규제,미국칩통제,중국인프라확장",
+      "dedupeKey": "AI 패권 경쟁 본격화…한국 규제·미국 칩 통제·중국 인프라 확장",
       "clusterKey": "한미/경쟁",
       "matchedTo": null,
-      "sourceName": "한국공공정책신문",
+      "sourceName": "knpp.co.kr",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1rb0R6MjhtZXYtSGd0bThnMk45WTQ1SkhqTEVvYmJEcDZWX29NSDcxVFlMSEk1LWR1d2xtak5MeDM4OWs?oc=5",
       "publishedAt": "2026-03-10T05:21:18.000Z",
       "readTimeSec": 10,
@@ -430,23 +466,28 @@
       "importance": 3.5,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되어 있음.",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약됨.",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-03-10_16",
+      "id": "2026-03-10_17",
       "date": "2026-03-10",
       "category": "에너지",
-      "title": "중동 위기로 민간 발전사 긴급 소집",
+      "title": "중동 위기로 민간 발전사 긴급 소집, LNG 역할 기대",
       "summary": [
-        "중동 위기에 대응하기 위해 민간 발전사들이 긴급 소집되었다.",
-        "평상시에는 LNG 사용 억제, 위기 시 역할 기대."
+        "중동 위기에 대응하기 위해 민간 발전사들이 긴급 소집되었습니다.",
+        "평소에는 LNG 사용 억제 정책이 시행되지만, 위기 시에는 민간 발전사들의 역할이 중요해질 것으로 기대됩니다."
       ],
-      "whyImportant": "중동 위기 상황에 대한 에너지 공급 안정성 확보 노력.",
-      "importanceRationale": "근거: 중동 지역의 불안정성이 에너지 시장에 미치는 잠재적 영향을 고려, 민간 발전사들의 역할이 중요해짐.",
-      "impactSignals": [],
-      "dedupeKey": "중동 위기 민간 발전사 긴급 소집",
+      "whyImportant": "중동 위기 상황에서 국내 에너지 수급 안정성을 확보하기 위한 정부의 노력.",
+      "importanceRationale": "근거: 중동 지역의 불안정성이 심화됨에 따라 에너지 공급 차질 가능성에 대비하고, 민간 발전사들의 역할을 재조명하여 위기 대응 능력을 강화하려는 움직임으로 해석됩니다.",
+      "impactSignals": [
+        {
+          "label": "market-demand",
+          "evidence": "위기 시 LNG 발전 수요 증가 예상"
+        }
+      ],
+      "dedupeKey": "중동위기-민간발전사-긴급소집",
       "clusterKey": "lng",
       "matchedTo": null,
       "sourceName": "에너지경제신문",
@@ -454,10 +495,10 @@
       "publishedAt": "2026-03-10T02:04:30.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 2,
+      "importance": 3.5,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약됨. / 근거부족",
+      "qualityReason": "제목과 본문이 일치하며, 내용이 간결하고 명확합니다.",
       "isBriefing": false,
       "isBreaking": true
     }
