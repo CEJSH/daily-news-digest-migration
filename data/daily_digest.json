@@ -3,7 +3,7 @@
   "selectionCriteria": "① 내일도 영향이 남는 이슈 ② 과도한 감정 소모 제외 ③ 어제와 중복되는 뉴스 제외",
   "editorNote": "이 뉴스는 클릭 수가 아니라 오늘 이후에도 남는 정보만 기준으로 편집했습니다.",
   "question": "정보를 덜 보는 것이 오히려 더 똑똑한 소비일까?",
-  "lastUpdatedAt": "2026-03-11T06:26:54.467+09:00",
+  "lastUpdatedAt": "2026-03-11T07:25:59.398+09:00",
   "items": [
     {
       "id": "2026-03-11_1",
@@ -11,18 +11,18 @@
       "category": "국제",
       "title": "현대차그룹, 미국 관세에도 불구하고 폭스바겐을 제치고 영업이익 글로벌 2위 달성",
       "summary": [
-        "현대차그룹이 미국의 관세 부과에도 불구하고 폭스바겐을 제치고 영업이익에서 글로벌 2위를 기록했습니다.",
+        "현대차그룹이 미국의 관세 장벽에도 불구하고 폭스바겐을 넘어 영업이익 기준 글로벌 2위를 기록했습니다.",
         "이는 현대차그룹의 뛰어난 실적을 보여주는 결과입니다."
       ],
       "whyImportant": "현대차그룹의 글로벌 경쟁력 강화",
-      "importanceRationale": "근거: 현대차그룹이 어려운 시장 환경 속에서도 폭스바겐을 넘어 영업이익 2위를 달성했다는 것은, 현대차그룹의 경쟁력이 강화되었음을 시사합니다.",
+      "importanceRationale": "근거: 현대차그룹이 어려운 시장 환경 속에서도 폭스바겐을 제치고 영업이익 2위를 달성했다는 것은, 현대차그룹의 경쟁력이 강화되었음을 시사합니다.",
       "impactSignals": [
         {
           "label": "earnings",
-          "evidence": "폭스바겐을 누르고 영업이익 글로벌 2위 달성"
+          "evidence": "폭스바겐을 제치고 영업이익 글로벌 2위 달성"
         }
       ],
-      "dedupeKey": "hyundai_tops_vw_profit",
+      "dedupeKey": "현대차그룹, 美관세에도 폭스바겐 누르고 영업이익 글로벌 '톱2'",
       "clusterKey": "관세에도",
       "matchedTo": null,
       "sourceName": "연합뉴스 한민족센터",
@@ -33,78 +33,54 @@
       "importance": 4,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 정보가 명확합니다.",
+      "qualityReason": "Title and text are consistent and factual.",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-03-11_2",
       "date": "2026-03-11",
-      "category": "국제",
-      "title": "오라클, AI 수요 증가로 분기별 수익 추정치 상회, 주가 상승",
+      "category": "기술",
+      "title": "법률 AI 스타트업 레고라, 미국 확장 가속화를 위해 5억 5천만 달러 투자 유치",
       "summary": [
-        "오라클이 AI 수요 증가에 힘입어 분기별 수익 추정치를 상회했다.",
-        "이로 인해 오라클의 주가가 상승했다."
+        "법률 AI 스타트업 레고라가 미국 시장 확장을 위해 5억 5천만 달러의 투자를 유치했습니다.",
+        "이번 투자를 통해 레고라는 미국 내 사업 확장에 박차를 가할 예정입니다."
       ],
-      "whyImportant": "오라클의 실적은 AI 기술 수요의 바로미터가 될 수 있습니다.",
-      "importanceRationale": "근거: 오라클의 수익 증가는 AI 기술에 대한 시장 수요가 증가하고 있음을 시사하며, 이는 관련 산업 전반에 긍정적인 영향을 미칠 수 있다.",
-      "impactSignals": [],
-      "dedupeKey": "oracle-beats-revenue-ai-demand-shares-rise",
-      "clusterKey": "beats",
+      "whyImportant": "레고라의 대규모 투자 유치는 법률 AI 시장의 성장 가능성을 보여줍니다.",
+      "importanceRationale": "근거: 레고라의 투자 유치 금액이 상당하며, 이는 미국 시장 확장에 중요한 자금으로 활용될 것입니다.",
+      "impactSignals": [
+        {
+          "label": "capex",
+          "evidence": "5억 5천만 달러 투자 유치를 통해 미국 확장 가속화"
+        }
+      ],
+      "dedupeKey": "legora-550m-us-expansion",
+      "clusterKey": "expansion",
       "matchedTo": null,
       "sourceName": "Reuters",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTnFQaE82TkR5ODJWU1JrSU1HUXdHWWVCMHR4ZjhUMHY3YnFVYV9ialhfdElQbUhsOEdrWmVXRWxaX3FIWkhlejlNR0E1cTNIVWVmdnhvdTBYX0czOGhTem52dnpkX1dqLXpKVDQyZ0owRVhXTjl5R25mYldHX1Nqam0yVkNrWXFYX0pCN2poRVc?oc=5",
-      "publishedAt": "2026-03-10T20:09:12.000Z",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOeERTYTlBN051aDRabHlSQ2JvcjVDWktpMU45bzBvM2FxeWhBU1VLUFBWS0FrYWpqdDNkVWhZUUw1ZzNMb1NhNTJZU2VuTHBvaXpNaGVqenhYZDhWQjF1RU5XN2Mzb3VmRUNSZHRxeGNUSGdOekJFQmRpQk44T3d0Nk5vRFhNN0lBTVRBRF90TEFsUkxEVWxXN2trd05kTmdnbHlST2tET0xBRnVSRzNnVkx5Nl9sbnBW?oc=5",
+      "publishedAt": "2026-03-10T12:48:00.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 2,
+      "importance": 3.5,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "뉴스 제목과 내용이 일치하며, 간결하게 핵심 정보를 전달합니다. / 근거부족",
+      "qualityReason": "제목과 본문이 일치하며, 정보가 명확합니다.",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-03-11_3",
       "date": "2026-03-11",
-      "category": "에너지",
-      "title": "트럼프의 압박에도 불구하고 뉴욕, 인디언 포인트 원자력 발전소 재개장 반대",
-      "summary": [
-        "트럼프의 압박에도 불구하고 뉴욕 주가 인디언 포인트 원자력 발전소의 재개장에 반대하고 있다.",
-        "로이터 통신에 따르면, 뉴욕 주는 안전 문제와 경제적 타당성을 이유로 재개장을 반대하고 있다.",
-        "인디언 포인트 원자력 발전소는 과거 여러 차례 안전 문제로 논란이 된 바 있다."
-      ],
-      "whyImportant": "원자력 발전소 재개장 여부는 에너지 정책 및 지역 경제에 중요한 영향을 미친다.",
-      "importanceRationale": "근거: 원자력 발전소 재개장은 에너지 공급, 환경, 안전, 그리고 지역 경제에 미치는 영향이 크기 때문에 중요한 사안이다.",
-      "impactSignals": [],
-      "dedupeKey": "IndianPointNuclearPowerPlantReopening",
-      "clusterKey": "에너지/despite",
-      "matchedTo": null,
-      "sourceName": "Reuters",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPcDJ2LUJaQTdZODNPOWZDSVVURkVyUExwMlQxaXpZd3VFZ1ljSWFUc1VhVkVBWVZyTFNPV3c1Z1VHQ3JORGRWY2sxXzF0ZXgwRjVMNWxEV1NqcTlOTXNIQkFwY0d5UFN1T3VoUndvYUpvSFlPR3l4V29RTkZ6dUp0UUlkUFRJM1daVkduc2NOUXNVdzR4UXktT0YtS1NUS3UxVHd1cm0yOEFhVjc4TnpiTl9oRUoxNWJlTWptekxCUFNTdTV6U1lLYzB3?oc=5",
-      "publishedAt": "2026-03-10T17:16:23.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 63,
-      "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 내용이 일치하며, 핵심 내용을 잘 요약했다. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-03-11_4",
-      "date": "2026-03-11",
       "category": "기술",
       "title": "오픈AI, 프롬프트푸 인수로 LLM 취약점 탐지 강화",
       "summary": [
-        "오픈AI가 프롬프트푸 인수를 통해 LLM(대규모 언어 모델)의 취약점 탐지 능력을 강화합니다.",
-        "이번 인수는 LLM의 보안성을 높이는 데 기여할 것으로 예상됩니다."
+        "오픈AI가 프롬프트푸 인수를 통해 LLM(대규모 언어 모델)의 취약점 탐지 능력을 강화합니다."
       ],
-      "whyImportant": "오픈AI의 LLM 보안 강화는 업계 전반의 신뢰도 향상에 중요합니다.",
-      "importanceRationale": "근거: LLM의 취약점은 보안 문제로 이어질 수 있으며, 이를 사전에 탐지하고 해결하는 것은 서비스의 안정성과 사용자 신뢰를 확보하는 데 필수적입니다.",
+      "whyImportant": "LLM의 보안 강화에 기여할 수 있습니다.",
+      "importanceRationale": "근거: 오픈AI가 프롬프트푸를 인수하여 LLM의 취약점 탐지 능력을 강화한다는 내용에서 LLM 보안 강화에 대한 중요성을 알 수 있습니다.",
       "impactSignals": [],
-      "dedupeKey": "openai_promptfoo_acquisition_20240229",
+      "dedupeKey": "openai-promptfoo-acquisition-llm-vulnerability-detection",
       "clusterKey": "ai/llm",
       "matchedTo": null,
       "sourceName": "디일렉",
@@ -115,21 +91,85 @@
       "importance": 2,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 정보가 명확합니다. / 근거부족",
+      "qualityReason": "기사 제목과 내용이 일치하며, 핵심 내용을 잘 반영하고 있습니다. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-03-11_4",
+      "date": "2026-03-11",
+      "category": "경제",
+      "title": "오라클, AI 수요 증가로 분기별 수익 추정치 상회, 주가 상승",
+      "summary": [
+        "오라클이 AI 수요 증가에 힘입어 분기별 수익 추정치를 넘어섰습니다.",
+        "이러한 실적 호조에 힘입어 오라클의 주가가 상승했습니다."
+      ],
+      "whyImportant": "오라클의 실적은 AI 기술에 대한 시장 수요를 반영합니다.",
+      "importanceRationale": "근거: 오라클의 수익 증가는 AI 기술에 대한 투자와 시장의 관심을 나타냅니다.",
+      "impactSignals": [
+        {
+          "label": "market-demand",
+          "evidence": "AI 기반 수요 증가가 수익 증가의 주요 원인입니다."
+        }
+      ],
+      "dedupeKey": "oracle-beats-revenue-q3-2024",
+      "clusterKey": "beats",
+      "matchedTo": null,
+      "sourceName": "WKZO",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMHdNRnJldUVmaE9UZXhCTHhSZnZib0NrU2VqNzFmbEE0TGZJQk1wZy1rSTV3eEQ2Z1pmcFlxck9UMkhsanRWU3p3SVhBUVNpVXpYdFl0MFF3UUx5aU5USGdnZTBGWWFJblZrSGNqS2RTTjg3dUp2cUJSa2ZpN3p1QkVoT2dFVzNwZzBQeDd4b2VjbnhndFJGTFpmOG9TVkszLVJZ?oc=5",
+      "publishedAt": "2026-03-10T22:02:30.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 3.5,
+      "importanceRaw": 63,
+      "qualityLabel": "ok",
+      "qualityReason": "The article provides a concise and factual report on Oracle's earnings.",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-03-11_5",
       "date": "2026-03-11",
+      "category": "경제",
+      "title": "오라클 주식, 클라우드 매출 44% 증가에 힘입어 실적 호조 및 가이던스 상향으로 9% 급등",
+      "summary": [
+        "오라클 주가가 실적 발표 후 9% 상승했다.",
+        "클라우드 매출이 44% 증가하며 실적 개선을 이끌었다.",
+        "향후 전망도 상향 조정되었다."
+      ],
+      "whyImportant": "오라클의 주가 급등은 클라우드 시장에서의 성장 가능성을 시사한다.",
+      "importanceRationale": "근거: 오라클의 클라우드 매출 급증과 그에 따른 주가 상승은 투자자들의 긍정적인 반응을 보여주며, 이는 클라우드 시장의 성장 잠재력을 반영한다.",
+      "impactSignals": [
+        {
+          "label": "earnings",
+          "evidence": "클라우드 매출 44% 증가 및 실적 호조"
+        }
+      ],
+      "dedupeKey": "oracle_stock_jump_2024",
+      "clusterKey": "클라우드/beat",
+      "matchedTo": null,
+      "sourceName": "CNBC",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9yWDhkNjJ2NXdTVThjTlcycXNzNmN6SEVqV3JDdnlqT1Q3Q1Rxd3diaDd2NkcybWFhUG9xaWM5UjJ6cGhoMkdJVmZMbk1POGtaQkt5aW43ZFBHZ3kwdTQxZXJVSW5ZbGRZWEVKUDU1aV9fcjdQT0RCR0oyRnfSAYIBQVVfeXFMUEJSX3N1elE0Z1plRDd3MUVrb3F5cERIS0lHMF9ZbDdINXdNRUl3TlROc3p0RE16N2YtalhZaF80dklSR1llbzJteDJUSGhaNDh4U0hrSzdWU2JfNThpcVZjblFuc2Utc25kQUhucFJiQ19xUlVGbkgxc3pSY2xDX0lDZw?oc=5",
+      "publishedAt": "2026-03-10T20:11:29.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 4,
+      "importanceRaw": 75,
+      "qualityLabel": "ok",
+      "qualityReason": "The article provides a concise and factual report on Oracle's stock performance and revenue growth.",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-03-11_6",
+      "date": "2026-03-11",
       "category": "정책",
       "title": "국회 문턱 넘는 '성분명 처방'과 건정심 테이블 위 '약가 개편'",
       "summary": [
-        "국회에서 '성분명 처방'이 논의되고 있다.",
-        "건강보험정책심의위원회(건정심)에서는 '약가 개편'이 테이블 위에 올려져 논의될 예정이다."
+        "국회에서 '성분명 처방'이 논의되고 있으며, 건강보험정책심의위원회(건정심)에서는 '약가 개편'이 테이블 위에 오르고 있다."
       ],
-      "whyImportant": "약가 정책 변화에 따른 제약업계 및 환자에게 미치는 영향.",
-      "importanceRationale": "근거: 성분명 처방 도입과 약가 개편은 제약 시장과 환자들의 약 접근성에 큰 영향을 미칠 수 있는 정책 변화이기 때문이다.",
+      "whyImportant": "성분명 처방 도입과 약가 개편은 제약 산업 및 환자 치료 접근성에 큰 영향을 미칠 수 있는 정책 변화이다.",
+      "importanceRationale": "근거: 성분명 처방은 의약품 선택에 영향을 미치고, 약가 개편은 제약회사의 수익성과 환자의 약값 부담에 직접적인 영향을 줄 수 있기 때문이다.",
       "impactSignals": [],
       "dedupeKey": "성분명 처방 및 약가 개편 논의",
       "clusterKey": "건정심",
@@ -142,72 +182,65 @@
       "importance": 2,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 핵심 내용을 전달한다. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-03-11_6",
-      "date": "2026-03-11",
-      "category": "국제",
-      "title": "중소기업을 위험에 빠뜨리는 5대 보안 취약점",
-      "summary": [
-        "중소기업을 위협하는 5가지 주요 보안 취약점이 발견되었습니다.",
-        "지티티코리아는 이러한 취약점을 강조하며 보안 강화의 필요성을 제기했습니다."
-      ],
-      "whyImportant": "중소기업은 사이버 공격에 취약하며, 보안 강화가 시급합니다.",
-      "importanceRationale": "근거: 중소기업은 대기업에 비해 보안 시스템 투자 및 전문 인력 확보가 어렵기 때문에 사이버 공격의 주요 대상이 될 수 있습니다.",
-      "impactSignals": [],
-      "dedupeKey": "SME_security_vulnerabilities",
-      "clusterKey": "5대",
-      "matchedTo": null,
-      "sourceName": "지티티코리아",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5HSGVmNk5SLU1XbWJYdXJFODJubDdfTXJVSmRfU1RBb2JPQzlWWDNwSzRYRmt2WmZNUC1KUms2WmdkcC13bm9KX2VsU25aUmxJYkNNMkFFUUlFYXQ4Q3Z0QXpkdnkyMlhTUkE?oc=5",
-      "publishedAt": "2026-03-10T15:00:00.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 75,
-      "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 내용이 일치하며, 정보가 명확합니다. / 근거부족",
+      "qualityReason": "제목과 텍스트가 일치하며, 핵심 내용을 잘 반영하고 있다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-03-11_7",
       "date": "2026-03-11",
-      "category": "경제",
-      "title": "오라클 주가, 클라우드 매출 44% 증가에 힘입어 7% 급등",
+      "category": "기술",
+      "title": "AI 개발 단계에서 보안 위험 사전 차단...코드 취약점 분석·DevSecOps 통합 플랫폼",
       "summary": [
-        "오라클 주가가 예상을 뛰어넘는 실적과 향상된 가이던스에 힘입어 7% 상승했다.",
-        "클라우드 매출은 44% 증가했다.",
-        "CNBC 보도 내용이다."
+        "지티티코리아는 AI 개발 단계에서 보안 위험을 사전에 차단하는 코드 취약점 분석 및 DevSecOps 통합 플랫폼을 제공합니다."
       ],
-      "whyImportant": "오라클의 클라우드 매출 증가와 주가 상승은 기술 산업 전반에 긍정적인 신호로 해석될 수 있다.",
-      "importanceRationale": "근거: 오라클의 실적은 기술 산업의 건전성을 나타내는 지표 중 하나이며, 특히 클라우드 부문의 성장은 해당 분야의 성장 가능성을 시사한다.",
-      "impactSignals": [
-        {
-          "label": "earnings",
-          "evidence": "Oracle stock jumps 7% on earnings beat"
-        }
-      ],
-      "dedupeKey": "oracle_stock_jump_20240612",
-      "clusterKey": "클라우드/beat",
+      "whyImportant": "AI 개발 보안 강화",
+      "importanceRationale": "근거: AI 개발 초기 단계에서 보안 취약점을 분석하고 DevSecOps 플랫폼을 통합하여 보안 위험을 사전에 차단하는 것은 AI 시스템의 안전성과 신뢰성을 확보하는 데 중요합니다.",
+      "impactSignals": [],
+      "dedupeKey": "AI개발보안_20240130",
+      "clusterKey": "개발",
       "matchedTo": null,
-      "sourceName": "CNBC",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9yWDhkNjJ2NXdTVThjTlcycXNzNmN6SEVqV3JDdnlqT1Q3Q1Rxd3diaDd2NkcybWFhUG9xaWM5UjJ6cGhoMkdJVmZMbk1POGtaQkt5aW43ZFBHZ3kwdTQxZXJVSW5ZbGRZWEVKUDU1aV9fcjdQT0RCR0oyRnfSAYIBQVVfeXFMUEJSX3N1elE0Z1plRDd3MUVrb3F5cERIS0lHMF9ZbDdINXdNRUl3TlROc3p0RE16N2YtalhZaF80dklSR1llbzJteDJUSGhaNDh4U0hrSzdWU2JfNThpcVZjblFuc2Utc25kQUhucFJiQ19xUlVGbkgxc3pSY2xDX0lDZw?oc=5",
-      "publishedAt": "2026-03-10T20:11:29.000Z",
+      "sourceName": "지티티코리아",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9SakN2LXgxcWUyRTBUbEo2VGFRYUdVMWY3TDVnQ0VaSURlMlUzMEV0RWxncFZkRFFwTkVmUUIyRnlKbnVTS3ZHUWNMamNLaFVjekFuY1E3ZDJPb2tXV1B0VGhhT1pOUnpLOUE?oc=5",
+      "publishedAt": "2026-03-10T15:40:00.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 3.5,
-      "importanceRaw": 63,
+      "importance": 2,
+      "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "The article provides a concise and factual report on Oracle's stock performance and revenue growth.",
+      "qualityReason": "기사 내용이 명확하고 간결함 / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-03-11_8",
+      "date": "2026-03-11",
+      "category": "기술",
+      "title": "미국의 수출 통제, 중국의 국내 칩 생산 가속화로 반도체 공급망 재편",
+      "summary": [
+        "미국의 수출 통제로 인해 반도체 공급망이 재편되고 있습니다.",
+        "중국은 국내 칩 생산을 가속화하고 있습니다."
+      ],
+      "whyImportant": "미국의 수출 통제가 중국의 반도체 산업에 미치는 영향과 그에 따른 공급망 변화를 보여줍니다.",
+      "importanceRationale": "근거: 미국의 수출 통제가 중국의 반도체 자립 노력에 미치는 영향은 기술 산업 전반에 걸쳐 중요한 지정학적, 경제적 함의를 가집니다.",
+      "impactSignals": [],
+      "dedupeKey": "USexportcontrolschinachip",
+      "clusterKey": "반도체/accelerates",
+      "matchedTo": null,
+      "sourceName": "Astute Group",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQaFRPQmRXY2JCclBPY0ZFV1I0X1VfTlV6a011ZjI5M2F6TkxDYVE5RjhsV01XT256b1E3bTBEM1pQNVdLV01OaWtzWkZVemlWUG93SFZldTNFQ0lrTWNjc1NFZTkzTDNRVVRubzM3Qm96RVRZeE02al9lM2h3QjZnX19xRkJZQlJjZTBiQUtLZ3ZOQXB5ZXg5MjNaamw1a1hKQmxZeUpxMk1xRDQ4Z2hNNGNTTF9uWktURW5yVURGcXVsTUwwdk1mYW1DYmgydWo1YzJz?oc=5",
+      "publishedAt": "2026-03-10T08:20:39.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 75,
+      "qualityLabel": "ok",
+      "qualityReason": "The article provides a concise overview of the impact of US export controls on semiconductor supply chains and China's response. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-03-11_9",
       "date": "2026-03-11",
       "category": "국제",
       "title": "AI 패권 경쟁 본격화: 한국 규제, 미국 칩 통제, 중국 인프라 확장",
@@ -216,51 +249,19 @@
         "한국은 규제를, 미국은 칩 통제를, 중국은 인프라 확장을 추진하고 있다."
       ],
       "whyImportant": "AI 기술 경쟁 심화에 따른 각국의 전략적 대응을 보여준다.",
-      "importanceRationale": "근거: AI 패권 경쟁의 심화와 관련된 한국, 미국, 중국의 정책적 움직임을 요약적으로 보여주므로 중요도가 높다.",
+      "importanceRationale": "근거: AI 패권 경쟁의 심화와 각국의 규제, 통제, 인프라 확장 전략은 기술 주도권 확보를 위한 중요한 움직임이다.",
       "impactSignals": [
         {
           "label": "policy",
-          "evidence": "한국의 규제, 미국의 칩 통제, 중국의 인프라 확장 정책"
+          "evidence": "한국 규제, 미국 칩 통제, 중국 인프라 확장"
         }
       ],
-      "dedupeKey": "AI 패권 경쟁 본격화…한국 규제·미국 칩 통제·중국 인프라 확장",
+      "dedupeKey": "AI패권경쟁-한국규제-미국칩통제-중국인프라확장",
       "clusterKey": "한미/경쟁",
       "matchedTo": null,
       "sourceName": "한국공공정책신문",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1rb0R6MjhtZXYtSGd0bThnMk45WTQ1SkhqTEVvYmJEcDZWX29NSDcxVFlMSEk1LWR1d2xtak5MeDM4OWs?oc=5",
       "publishedAt": "2026-03-10T05:21:18.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 4,
-      "importanceRaw": 75,
-      "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 핵심 내용을 전달한다.",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-03-11_9",
-      "date": "2026-03-11",
-      "category": "정책",
-      "title": "범용 반도체에는 호재, HBM에는 악재… 미국의 이중 규제에 한국 반도체 '딜레마'",
-      "summary": [
-        "미국의 이중 규제로 인해 한국 반도체 산업이 딜레마에 빠졌습니다.",
-        "범용 반도체에는 호재로 작용하지만, HBM(고대역폭 메모리)에는 악재로 작용할 수 있습니다."
-      ],
-      "whyImportant": "미국의 반도체 규제가 한국 반도체 산업에 미치는 영향 분석",
-      "importanceRationale": "근거: 미국의 이중 규제가 한국 반도체 산업의 특정 분야에 미치는 상반된 영향을 지적하고 있어, 정책 변화가 산업에 미치는 중요성을 강조합니다.",
-      "impactSignals": [
-        {
-          "label": "policy",
-          "evidence": "미국의 이중 규제가 한국 반도체 산업에 미치는 영향"
-        }
-      ],
-      "dedupeKey": "미국반도체규제한국반도체딜레마",
-      "clusterKey": "반도체/hbm은",
-      "matchedTo": null,
-      "sourceName": "쿠키뉴스",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5UYXRiLXNjTDRsWmtoUElkSzFmNmhVOHdka21sX0lPQ1N6S2lZSVVjNWtxWFo1TUoweFJob1VnTEVONmZZZGgyUjVKZmN3VWhlRFpFVUlPRVN4dmttMUktRDljRQ?oc=5",
-      "publishedAt": "2026-03-09T21:00:12.000Z",
       "readTimeSec": 10,
       "status": "kept",
       "importance": 4,
@@ -273,20 +274,42 @@
     {
       "id": "2026-03-11_10",
       "date": "2026-03-11",
+      "category": "국제",
+      "title": "TSMC, 메모리 대란 속 1·2월 매출 30% 증가에 그쳐",
+      "summary": [
+        "TSMC의 1월과 2월 매출이 30% 증가에 그쳤습니다.",
+        "이는 메모리 대란 속에서 나온 결과입니다."
+      ],
+      "whyImportant": "TSMC의 매출 증가는 반도체 산업의 현황을 보여주는 지표입니다.",
+      "importanceRationale": "근거: TSMC는 세계적인 반도체 파운드리 기업이며, 그 매출은 반도체 시장의 수요와 공급 상황을 반영합니다.",
+      "impactSignals": [],
+      "dedupeKey": "TSMC_매출_20240315",
+      "clusterKey": "반도체/2월",
+      "matchedTo": null,
+      "sourceName": "한국경제",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1BZVB4aGN6Q2w0QU5VT1EwQjdfbW9VUXZoTzVSSlJDUURKdnc3TnU1T0RsNkh6eGdYNF94Z2Q1eGdDNE9zdUwtSUdtZHBWNjJYeXlTbnhVXzZhUdIBVEFVX3lxTE5aMU9xX1BETWNHQ0p3R1RHU0w5andCakxuR01uNHJ5MG1kV2JwWTlVeVo1M1NMU2ZWaXY1cDF4T3VOWVR5MzVFSkI1aFUwc0dFNGRySA?oc=5",
+      "publishedAt": "2026-03-10T15:31:11.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 63,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었습니다. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-03-11_11",
+      "date": "2026-03-11",
       "category": "경제",
       "title": "환율, 유가 안정 및 전쟁 종식 기대감에 26원 급락…1,469.3원",
       "summary": [
-        "환율이 유가 안정과 전쟁 종식 기대감으로 26원 급락하여 1,469.3원을 기록했다."
+        "환율이 유가 안정과 전쟁 종식 기대감으로 26원 급락하여 1,469.3원을 기록했습니다."
       ],
-      "whyImportant": "환율 급락은 국내 경제에 긍정적인 영향을 미칠 수 있습니다.",
-      "importanceRationale": "근거: 유가 안정과 전쟁 종식 기대감이 환율 하락을 이끌었으며, 이는 시장의 긍정적인 반응을 반영합니다.",
-      "impactSignals": [
-        {
-          "label": "market-demand",
-          "evidence": "유가 안정 및 전쟁 종식 기대감으로 인한 환율 급락"
-        }
-      ],
-      "dedupeKey": "20240130-환율급락",
+      "whyImportant": "환율 급락의 원인을 분석하고 시장에 미치는 영향을 파악하는 것이 중요합니다.",
+      "importanceRationale": "근거: 유가 안정과 전쟁 종식 기대감이 환율에 미치는 직접적인 영향을 보여주며, 이는 시장 변동성에 대한 중요한 지표가 될 수 있습니다.",
+      "impactSignals": [],
+      "dedupeKey": "20240116_환율급락",
       "clusterKey": "26원",
       "matchedTo": null,
       "sourceName": "연합뉴스 한민족센터",
@@ -294,27 +317,28 @@
       "publishedAt": "2026-03-10T06:48:15.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 3.5,
+      "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었습니다.",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었습니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-03-11_11",
+      "id": "2026-03-11_12",
       "date": "2026-03-11",
       "category": "정책",
       "title": "성분명 처방 법안, 11일 국회 상임위 소위 상정",
       "summary": [
-        "성분명 처방 법안이 오는 11일 국회 상임위 소위에 상정될 예정입니다."
+        "성분명 처방 법안이 오는 11일 국회 상임위 소위에 상정될 예정입니다.",
+        "약사공론에 따르면 해당 법안이 논의될 예정입니다."
       ],
-      "whyImportant": "성분명 처방 법안의 국회 상임위 소위 상정",
-      "importanceRationale": "근거: 성분명 처방 법안이 국회 상임위 소위에 상정되어 정책 변화 가능성이 있습니다.",
+      "whyImportant": "성분명 처방 법안의 국회 상임위 소위 상정은 의약품 처방 방식에 대한 중요한 정책적 변화를 의미합니다.",
+      "importanceRationale": "근거: 법안의 상정 자체가 정책 변화의 가능성을 나타내며, 이는 제약 업계 및 의료 서비스에 영향을 미칠 수 있습니다.",
       "impactSignals": [
         {
           "label": "policy",
-          "evidence": "성분명 처방 법안이 국회 상임위 소위에 상정"
+          "evidence": "성분명 처방 법안의 국회 상임위 소위 상정"
         }
       ],
       "dedupeKey": "성분명 처방 법안, 11일 국회 상임위 소위 상정",
@@ -322,120 +346,30 @@
       "matchedTo": null,
       "sourceName": "약사공론",
       "sourceUrl": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAzXzFlX25FNEQxMVpNYVNiZU1Oc0JDQVctOXBQbEFBRG5SM0pPeTNKS0UxNHlJZzJna3p5UFZkZS1jZGFPclBDMk9hMWxBajBxTjNfaWJIZVp1bXFSd21GUl9KZ0F6a25wdWZZWg?oc=5",
-      "publishedAt": "2026-03-10T14:42:42.000Z",
+      "publishedAt": "2026-03-10T20:42:42.000Z",
       "readTimeSec": 10,
       "status": "kept",
       "importance": 3.5,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었습니다.",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-03-11_12",
-      "date": "2026-03-11",
-      "category": "경제",
-      "title": "미국의 수출 통제, 중국의 국내 칩 생산 가속화로 반도체 공급망 재편",
-      "summary": [
-        "미국의 수출 통제로 인해 반도체 공급망이 재편되고 있습니다.",
-        "중국은 국내 칩 생산을 가속화하고 있습니다."
-      ],
-      "whyImportant": "미국 수출 통제가 중국의 반도체 자립 노력에 미치는 영향을 파악하는 것이 중요합니다.",
-      "importanceRationale": "근거: 미국의 수출 통제가 반도체 공급망에 미치는 영향과 중국의 대응을 보여주므로 중요합니다.",
-      "impactSignals": [
-        {
-          "label": "sanctions",
-          "evidence": "US export controls redraw semiconductor supply chains"
-        }
-      ],
-      "dedupeKey": "USexportcontrolschinachip",
-      "clusterKey": "반도체/accelerates",
-      "matchedTo": null,
-      "sourceName": "Astute Group",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQaFRPQmRXY2JCclBPY0ZFV1I0X1VfTlV6a011ZjI5M2F6TkxDYVE5RjhsV01XT256b1E3bTBEM1pQNVdLV01OaWtzWkZVemlWUG93SFZldTNFQ0lrTWNjc1NFZTkzTDNRVVRubzM3Qm96RVRZeE02al9lM2h3QjZnX19xRkJZQlJjZTBiQUtLZ3ZOQXB5ZXg5MjNaamw1a1hKQmxZeUpxMk1xRDQ4Z2hNNGNTTF9uWktURW5yVURGcXVsTUwwdk1mYW1DYmgydWo1YzJz?oc=5",
-      "publishedAt": "2026-03-10T08:20:39.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 3.5,
-      "importanceRaw": 63,
-      "qualityLabel": "ok",
-      "qualityReason": "The article directly reflects the title and provides a concise overview of the situation.",
+      "qualityReason": "제목과 내용이 일치하며, 핵심 정보를 포함하고 있습니다.",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-03-11_13",
       "date": "2026-03-11",
-      "category": "에너지",
-      "title": "아시아·유럽, 미국산 LNG 확보 경쟁 - 한국무역협회",
-      "summary": [
-        "한국무역협회에 따르면 아시아와 유럽이 미국산 LNG 확보 경쟁을 벌이고 있다."
-      ],
-      "whyImportant": "미국산 LNG 확보 경쟁 심화",
-      "importanceRationale": "근거: 아시아와 유럽이 미국산 LNG 확보를 위해 경쟁하고 있다는 한국무역협회의 발표.",
-      "impactSignals": [],
-      "dedupeKey": "아시아·유럽, 미국산 LNG 확보 경쟁 - 한국무역협회",
-      "clusterKey": "kita",
-      "matchedTo": null,
-      "sourceName": "한국무역협회-KITA.NET",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQY1plbjZtUzZQRWxCTnVYMXJ2bk5zSEVfRVdNUU5WaDBOUTNHd21YV2JScGY0b1p0Z3o4bHJXcExYY0tYS2s2V1RjQi14Yy1KTDV4X0EtUXM2eV9qNVhDUVFzTXFnWTJzOERvT3l5M3RpeE9pbGN4TTJyYjc0cE1heDY3Q01MMTNZNDRGOUhMdWNhT3o0eFkzNmZaaTZrQl9va0JFUFFsTzZ1OWRZS0x2ZGN3R29RbjZMRV9RUFRQUmpOeGVDVHZVV3pzRFhIWmZldG50ZA?oc=5",
-      "publishedAt": "2026-03-10T08:16:05.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 63,
-      "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며 간결하게 요약됨. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-03-11_14",
-      "date": "2026-03-11",
-      "category": "에너지",
-      "title": "KINAC, 체코 두코바니 원전 사업자 대상 '수출통제 설명회' 개최",
-      "summary": [
-        "한국원자력통제기술원(KINAC)은 체코 두코바니 원전 사업자를 대상으로 수출통제 설명회를 개최했다.",
-        "이번 설명회는 원전 사업 관련 수출통제에 대한 이해를 높이기 위해 마련되었다."
-      ],
-      "whyImportant": "체코 원전 사업 관련 수출통제 이해도 제고에 기여.",
-      "importanceRationale": "근거: KINAC이 체코 두코바니 원전 사업자를 대상으로 수출통제 설명회를 개최한 사실은, 해당 사업의 중요성과 수출통제 관련 사항에 대한 관심이 높다는 것을 시사한다.",
-      "impactSignals": [
-        {
-          "label": "sanctions",
-          "evidence": "원전 사업 관련 수출통제 설명회 개최"
-        }
-      ],
-      "dedupeKey": "KINAC_체코_두코바니_원전_수출통제_설명회",
-      "clusterKey": "에너지/kinac",
-      "matchedTo": null,
-      "sourceName": "인사이트N파워",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA0V1JqbGRSdllBaGpDU0VZbm9nYThVV3FTTWFoQmM1cV9WdE9DMlIxTVFKeGNnNUVqZVZ3cTNlVjdGR2g5UmVLZmJUMTE3dzNENHZ1aThId0xrcG1ObEVUbzNjU2RGUQ?oc=5",
-      "publishedAt": "2026-03-10T07:54:52.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 3.5,
-      "importanceRaw": 63,
-      "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 간결하게 핵심 내용을 전달한다.",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-03-11_15",
-      "date": "2026-03-11",
       "category": "정책",
       "title": "원자력통제기술원, '국내 원자력 수출통제 제도' 사업자 이해도 제고 박차",
       "summary": [
-        "원자력통제기술원은 '국내 원자력 수출통제 제도'에 대한 사업자의 이해도를 높이는 데 주력하고 있습니다."
+        "원자력통제기술원이 '국내 원자력 수출통제 제도'에 대한 사업자 이해도 제고에 박차를 가하고 있습니다."
       ],
-      "whyImportant": "원자력 수출통제 제도에 대한 이해도를 높이는 것은 국제 제재 준수 및 안전한 원자력 수출에 중요합니다.",
-      "importanceRationale": "근거: 원자력 수출통제 제도는 국제 제재와 관련된 중요한 사안이며, 사업자의 이해도 제고는 안전하고 책임감 있는 원자력 수출을 위해 필수적입니다.",
+      "whyImportant": "원자력 수출통제 제도 이해도 제고는 국제 제재 준수 및 원자력 안전 관리에 중요합니다.",
+      "importanceRationale": "근거: 원자력 수출통제 제도는 국제 제재와 연관되어 있으며, 사업자의 이해도 제고는 안전한 원자력 수출 및 관리에 필수적입니다.",
       "impactSignals": [
         {
           "label": "sanctions",
-          "evidence": "원자력 수출통제 제도는 국제 제재와 관련되어 있습니다."
+          "evidence": "원자력 수출통제 제도는 국제 제재와 관련될 수 있습니다."
         }
       ],
       "dedupeKey": "원자력통제기술원, ‘국내 원자력 수출통제 제도’ 사업자 이해도 제고 박차",
@@ -449,7 +383,66 @@
       "importance": 3.5,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 정보가 간결하게 제공됨.",
+      "qualityReason": "제목과 내용이 일치하며, 정보가 명확합니다.",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-03-11_14",
+      "date": "2026-03-11",
+      "category": "정책",
+      "title": "범용 반도체에는 호재, HBM에는 악재… 미국의 이중 규제에 한국 반도체 '딜레마'",
+      "summary": [
+        "미국의 이중 규제로 인해 한국 반도체 산업이 딜레마에 빠졌다는 소식입니다.",
+        "범용 반도체에는 호재로 작용할 수 있지만, HBM(고대역폭 메모리)에는 악재로 작용할 수 있다는 분석입니다."
+      ],
+      "whyImportant": "미국의 반도체 규제가 한국 반도체 산업에 미치는 영향에 대한 분석입니다.",
+      "importanceRationale": "근거: 미국의 반도체 규제 방향이 한국 반도체 기업들의 전략에 중요한 변수가 될 수 있기 때문입니다.",
+      "impactSignals": [],
+      "dedupeKey": "범용은 ‘호재’, HBM은 ‘발목’… 美 투트랙 규제에 K-반도체 ‘딜레마’",
+      "clusterKey": "반도체/hbm은",
+      "matchedTo": null,
+      "sourceName": "쿠키뉴스",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5UYXRiLXNjTDRsWmtoUElkSzFmNmhVOHdka21sX0lPQ1N6S2lZSVVjNWtxWFo1TUoweFJob1VnTEVONmZZZGgyUjVKZmN3VWhlRFpFVUlPRVN4dmttMUktRDljRQ?oc=5",
+      "publishedAt": "2026-03-09T21:00:12.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 63,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었습니다. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-03-11_15",
+      "date": "2026-03-11",
+      "category": "국제",
+      "title": "2026년 이란 전쟁과 건설 공급망에 미치는 세계적 영향",
+      "summary": [
+        "2026년 이란 전쟁이 발발할 경우 건설 공급망에 세계적인 영향을 미칠 수 있다는 분석이 나왔다.",
+        "Baker Donelson에서 관련 보고서를 발표했다."
+      ],
+      "whyImportant": "건설 자재 공급망에 대한 잠재적 위험을 강조합니다.",
+      "importanceRationale": "근거: 이란 전쟁 발발 가능성과 그로 인한 건설 공급망의 혼란 가능성을 제기하여 관련 산업에 미치는 잠재적 영향을 시사합니다.",
+      "impactSignals": [
+        {
+          "label": "capex",
+          "evidence": "전쟁으로 인한 건설 자재 공급망의 혼란은 건설 투자에 영향을 줄 수 있습니다."
+        }
+      ],
+      "dedupeKey": "2026iranwarconstruction",
+      "clusterKey": "chains",
+      "matchedTo": null,
+      "sourceName": "Baker Donelson",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUWdKNlhObm9XWmdnQzZvU3IydEdsekdwWkR1T3RyWS1GYlFQUjJEczY0bW9CRFlTTUJyQlRRRWpoTDA2ZU5xRlhBREFaa2poeC1ZX0hpWm1kZjhBZ29URWxwdXVINW9EOGNaaG5PTl9CZkN0X1ZvcHQxQWp5djdjMjRQUnRqZGZrZl9Da1RydU03SUFZNHdwalFtXzlrcHhR?oc=5",
+      "publishedAt": "2026-03-09T20:22:58.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 3.5,
+      "importanceRaw": 63,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었습니다.",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -457,26 +450,26 @@
       "id": "2026-03-11_16",
       "date": "2026-03-11",
       "category": "경제",
-      "title": "오라클 주식, 강력한 AI 수익 전망에 급등",
+      "title": "산업부, 미국과 고위급 협상…관세 합의 준수 및 쿠팡 영향 최소화 목표",
       "summary": [
-        "오라클 주가가 강력한 인공지능(AI) 수익 전망에 힘입어 급등했습니다.",
-        "이는 투자자들의 긍정적인 반응을 반영합니다."
+        "산업통상자원부가 미국과의 고위급 협상을 통해 관세 합의 준수와 쿠팡에 대한 영향 최소화를 추진합니다.",
+        "이번 협상에서 산업부는 미국의 무역 정책 변화에 대한 우려를 전달하고, 한국 기업의 이익을 보호하기 위해 노력할 예정입니다."
       ],
-      "whyImportant": "오라클의 AI 수익 전망은 기술 산업 전반에 걸쳐 중요한 지표가 될 수 있습니다.",
-      "importanceRationale": "근거: 오라클의 AI 수익 증가는 해당 분야의 성장 가능성을 시사하며, 다른 기술 기업들의 투자 및 개발 전략에 영향을 미칠 수 있습니다.",
+      "whyImportant": "이번 협상은 한국의 무역 환경에 중요한 영향을 미칠 수 있습니다.",
+      "importanceRationale": "근거: 미국과의 관세 합의 준수는 한국 수출에 직접적인 영향을 미치며, 쿠팡과 같은 주요 기업에 대한 영향 최소화는 국내 경제 안정에 중요합니다.",
       "impactSignals": [],
-      "dedupeKey": "oracle_ai_revenue_surge",
-      "clusterKey": "axios",
+      "dedupeKey": "관세 합의 및 쿠팡 영향 협상",
+      "clusterKey": "고위급",
       "matchedTo": null,
-      "sourceName": "Axios",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMickFVX3lxTE5ZQXhmWlg2QU1IbGZFSkF0Z2hvSWRHQ0c5WjkyOWowUmVLY2R3RUhBSWlCZ2VVV2gydTlzNjZ5NnJYZU03UjN2bEkxUVJ4ekNOdUNiNWRLcVVYWkpOMVB6WUxpYjFlR2RRdTA2QWxPQVNKdw?oc=5",
-      "publishedAt": "2026-03-10T20:57:17.000Z",
+      "sourceName": "연합인포맥스",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1hSTJqRm5vVGt1dXNhVEo4SVBvWlpfRy1LTlU5VWxEWDNrZTJiQTJUZWlMTGRrVDVBQmZJYnotU09GcF9lVksxZ2U5WlpSOExsTG5EMjdDaVVBVHdIcERjUjhxZVdrUXdpREV3NUc2TXk?oc=5",
+      "publishedAt": "2026-03-07T06:00:31.000Z",
       "readTimeSec": 10,
       "status": "kept",
       "importance": 2,
-      "importanceRaw": 63,
+      "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "기사에 제목과 내용이 일치하며, 핵심 정보가 명확하게 제시되어 있습니다. / 근거부족",
+      "qualityReason": "제목과 기사 내용이 일치하며, 핵심 내용을 잘 요약했습니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -484,26 +477,27 @@
       "id": "2026-03-11_17",
       "date": "2026-03-11",
       "category": "경제",
-      "title": "반스 앤 노블 에듀케이션 (BNED) 2026년 3분기 실적 발표: 매출 증가, EPS, 영업 이익 및 현금 흐름 약화",
+      "title": "현대차그룹, 작년 영업이익 폭스바겐 제치고 2위 등극",
       "summary": [
-        "반스 앤 노블 에듀케이션(BNED)은 2026년 3분기 실적을 발표했다.",
-        "매출은 증가했지만, 주당 순이익(EPS), 영업 이익, 현금 흐름은 약화되었다."
+        "현대차그룹이 지난해 영업이익에서 폭스바겐을 제치고 세계 2위에 올랐다.",
+        "현대차는 20조 5천억 원의 영업이익을 기록했다.",
+        "폭스바겐은 15조 3천억 원의 영업이익을 기록했다."
       ],
-      "whyImportant": "기업의 재무적 건전성을 평가하는 데 중요한 지표를 제공합니다.",
-      "importanceRationale": "근거: 매출 증가에도 불구하고 수익성 지표가 악화된 것은 기업의 효율성 및 재무 관리에 대한 우려를 나타낼 수 있기 때문입니다.",
+      "whyImportant": "현대차그룹의 수익성 개선을 보여주는 지표입니다.",
+      "importanceRationale": "근거: 현대차그룹이 폭스바겐을 제치고 영업이익 2위에 등극했다는 것은 현대차그룹의 수익성이 크게 개선되었음을 의미합니다.",
       "impactSignals": [],
-      "dedupeKey": "BNED_Q3_2026_Earnings",
-      "clusterKey": "barnes",
+      "dedupeKey": "hyundai-2023-profit-2nd",
+      "clusterKey": "2위",
       "matchedTo": null,
-      "sourceName": "Quiver Quantitative",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQZVkxZGVQaVd6WWIydFJwa2xKRzN1Q2x3TVBmRGhGbWJTUHFDcDRwWnFmTGFpdDBUNzlMVmwxTHV4QmwwNzdyTGVuSDJ3Rk82Z0pMZTdGRk0yVE5TUURMeVhjcnR5dFl4ajQwMExEV1pXTkk4bUVBRWZwa0U1YjVibXE3WVlON2pUaUlYNzBnT29Ta0FTQ3BQdmtJaWlLOEprWmZiaElGQW9ob3JRMDFPVGRnUGtmNVdWZjE1UmpsUVpfcFNiQUEyeUctSE5vcU1mb19FT1YxMXYzMHR6RjdtUUlocWROallyRHNOMVVjVlA?oc=5",
-      "publishedAt": "2026-03-10T20:39:00.000Z",
+      "sourceName": "비욘드포스트",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9NT01qYm9WMDBKbUJySERDY1BCTGg4Y2NZZ1RfdEZBYlFJZ0trbzVrSFpXemZjZUdXaXlTNjFVZlpLSnI3d3FJTTFTZHFYWE8tdE14dXNheUFPU2ZCNWFPOVJRVFJKNEt5RlpLbnZaOG5xQ2VNejhLck5pNTc?oc=5",
+      "publishedAt": "2026-03-10T21:26:00.000Z",
       "readTimeSec": 10,
       "status": "kept",
       "importance": 2,
-      "importanceRaw": 63,
+      "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 정보가 명확하게 제시됨. / 근거부족",
+      "qualityReason": "기사에 오류나 과장된 내용이 없습니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     }
