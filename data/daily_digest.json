@@ -3,7 +3,7 @@
   "selectionCriteria": "① 내일도 영향이 남는 이슈 ② 과도한 감정 소모 제외 ③ 어제와 중복되는 뉴스 제외",
   "editorNote": "이 뉴스는 클릭 수가 아니라 오늘 이후에도 남는 정보만 기준으로 편집했습니다.",
   "question": "정보를 덜 보는 것이 오히려 더 똑똑한 소비일까?",
-  "lastUpdatedAt": "2026-03-13T01:58:53.690+09:00",
+  "lastUpdatedAt": "2026-03-13T02:53:34.000+09:00",
   "items": [
     {
       "id": "2026-03-13_1",
@@ -11,11 +11,11 @@
       "category": "정책",
       "title": "AI 전력 비용은 누가 부담하나? 캘리포니아 감시 단체, 새로운 데이터 센터 규정 촉구",
       "summary": [
-        "캘리포니아의 한 감시 단체가 AI 구동에 필요한 전력 소비 증가에 대한 우려를 제기하며 새로운 데이터 센터 규정을 촉구했습니다.",
-        "이 단체는 데이터 센터의 에너지 사용량 증가에 대한 투명성 확보와 책임 소재를 명확히 할 것을 요구하고 있습니다."
+        "캘리포니아의 한 감시 단체가 AI 전력 소비 증가에 따라 새로운 데이터 센터 규정을 촉구했다.",
+        "이는 AI 기술의 전력 사용량 증가에 대한 우려를 반영한다."
       ],
-      "whyImportant": "AI 기술 발전과 데이터 센터 에너지 소비 증가에 대한 정책적 논의를 촉발할 수 있습니다.",
-      "importanceRationale": "근거: 캘리포니아 감시 단체의 데이터 센터 규정 촉구는 AI 기술의 에너지 소비 문제에 대한 정책적 대응의 필요성을 강조합니다. 이는 향후 데이터 센터 투자 및 운영 방식에 영향을 미칠 수 있습니다.",
+      "whyImportant": "AI 기술 확산에 따른 데이터 센터의 에너지 소비 증가 문제에 대한 정책적 논의를 촉발할 수 있다.",
+      "importanceRationale": "근거: AI 기술의 급속한 발전으로 인해 데이터 센터의 전력 소비량이 증가하고 있으며, 이는 환경 문제와 직결될 수 있다. 캘리포니아 감시 단체의 규정 촉구는 이러한 문제에 대한 정책적 대응의 필요성을 강조한다.",
       "impactSignals": [],
       "dedupeKey": "AI_Power_California_Data_Center_Rules",
       "clusterKey": "에너지/california",
@@ -28,22 +28,148 @@
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 내용이 일치하며, 핵심 내용을 요약했습니다. / 근거부족",
+      "qualityReason": "제목과 본문이 일치하며, 내용이 간결하고 명확함. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-03-13_2",
       "date": "2026-03-13",
-      "category": "경제",
-      "title": "오라클, 실적 호조와 900억 달러 매출 전망에 주가 급등",
+      "category": "에너지",
+      "title": "데이터 센터 급증으로 천연 가스 수요가 예상보다 급증할 수 있다고 EIA가 밝혀",
       "summary": [
-        "오라클 주가가 실적 발표 후 급등했습니다.",
-        "매출액은 900억 달러에 달할 것으로 예상됩니다."
+        "미국 에너지정보청(EIA)은 데이터 센터의 급증으로 인해 천연 가스 수요가 예상치를 넘어설 수 있다고 발표했습니다.",
+        "데이터 센터의 에너지 소비 증가는 전체적인 천연 가스 시장에 상당한 영향을 미칠 수 있습니다.",
+        "EIA는 이러한 추세가 에너지 시장에 미치는 영향을 지속적으로 모니터링할 예정입니다."
       ],
-      "whyImportant": "오라클의 실적 호조는 기술 산업 전반에 긍정적인 신호로 해석될 수 있습니다.",
-      "importanceRationale": "근거: 오라클의 매출 전망은 기술 산업의 성장 가능성을 시사하며, 이는 투자 및 정책 결정에 영향을 미칠 수 있습니다.",
+      "whyImportant": "데이터 센터의 에너지 수요 급증은 에너지 시장에 큰 영향을 미칠 수 있기 때문입니다.",
+      "importanceRationale": "근거: 데이터 센터의 급증은 천연 가스 수요를 예측보다 높게 만들 수 있으며, 이는 에너지 시장의 변동성을 증가시키고 관련 산업의 투자 결정에 영향을 미칠 수 있습니다.",
+      "impactSignals": [
+        {
+          "label": "capex",
+          "evidence": "데이터 센터 건설 및 확장에 따른 자본 지출 증가"
+        }
+      ],
+      "dedupeKey": "data_center_natural_gas_demand_eia",
+      "clusterKey": "center",
+      "matchedTo": null,
+      "sourceName": "Natural Gas Intelligence",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNYk1jVmd4SEh6OFZZWHRsN01fbnV0QTRPZ3NzYmk4dkFLS0MzU1l6bkVhVWZtYlFmNE9tYjhZWHE2ME1TWW1YTEd3YW9SbW9SWHJMbmZVQ2xWS2hCVXE3dGVhWDFYblc3QUhoU190cjJKVk9UYjBfM3A5RDR4Yks1MjhWZzdDMmY1TUJqMS1uTW1CdUl1NWVyR3hLZFhNNEVzQ0p5Wl9ITlZBdnVhdTlpYg?oc=5",
+      "publishedAt": "2026-03-12T17:11:43.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 4,
+      "importanceRaw": 75,
+      "qualityLabel": "ok",
+      "qualityReason": "기사 내용이 명확하고 정보 제공이 적절함",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-03-13_3",
+      "date": "2026-03-13",
+      "category": "기술",
+      "title": "Guardian Pharmacy 실적: 마진 확대 및 상향된 가이던스는 운영 강점을 나타냅니다.",
+      "summary": [
+        "Guardian Pharmacy의 실적 발표에서 마진 확대가 나타났습니다.",
+        "회사는 또한 가이던스를 상향 조정했습니다.",
+        "이는 회사의 운영 강점을 시사합니다."
+      ],
+      "whyImportant": "Guardian Pharmacy의 재무적 건전성과 미래 전망을 보여줍니다.",
+      "importanceRationale": "근거: 마진 확대와 가이던스 상향은 기업의 수익성과 성장 잠재력에 대한 긍정적인 신호입니다.",
       "impactSignals": [],
+      "dedupeKey": "guardian_pharmacy_earnings_margin_expansion",
+      "clusterKey": "expansion",
+      "matchedTo": null,
+      "sourceName": "Trefis",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOTTMxOTRUOF9YUlRpVjJSNk9aMEozeFVHcE5jdXlvUGFTdmhHTTBSTHZhSDdUWU9wbTFYZ1RIeXFQVTdGNWY1NWVJTDBkWWd5S09FNWpEdWhlbnZIRU9CYXVQYlJFeGxrbVd6NTVzYmRpRUs4VlNkQTRLVDRyNHlaYTBWVlFEMERqWlR1RjN2WUtDWUhlQ25SbjM4Uk1BbDZKZng4djFZRXBNVzFhUkppdi1tMUc4YkhleHhxQi1sdjVXek94bkhtTEV1TFlQTENmb2NoUHRXSEFoSnBiLURJLW41YWl4a2xXNU1GM3Z0SXRpZUk?oc=5",
+      "publishedAt": "2026-03-12T17:48:45.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 63,
+      "qualityLabel": "ok",
+      "qualityReason": "The article provides factual information about the company's earnings and guidance. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-03-13_4",
+      "date": "2026-03-13",
+      "category": "경제",
+      "title": "BMW 실적: 가이던스 부합, 2026년 추가 마진 압박 예상",
+      "summary": [
+        "BMW의 실적이 가이던스에 부합했다.",
+        "2026년에는 추가적인 마진 압박이 예상된다."
+      ],
+      "whyImportant": "BMW의 실적 발표와 향후 전망은 자동차 산업 전반에 대한 투자 및 전략 결정에 중요한 영향을 미친다.",
+      "importanceRationale": "근거: BMW는 글로벌 자동차 시장의 주요 기업 중 하나이며, 그 실적은 시장 동향을 파악하는 데 중요한 지표가 된다. 특히 마진 압박에 대한 전망은 투자자들에게 중요한 정보이다.",
+      "impactSignals": [],
+      "dedupeKey": "BMW_Earnings_2026_Margin_Pressure",
+      "clusterKey": "bmw",
+      "matchedTo": null,
+      "sourceName": "Morningstar Canada",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcFZvbWIwNDhaSGQ3OFNQbkg4czV2cEhYMjZEM3lEWmx5R0sxUFNPZkx3MEZtY1FOcUZJVEZmNUFOc2ZPSElOb2FKQVVQckg4X295ZzJWa1BLRjdSa1JNNC1OWXJ0eWJtWXdjcEVkTUFBWDBlT1p4ejRpaUhONnN0OV9Na09jTURmWEZZRm5paFpWb19ZWWllV1p1aWljanJyUU5sc1FtTVUxQnJtSWtwRFFhSmVWcVNaOFNVSU9B?oc=5",
+      "publishedAt": "2026-03-12T17:25:31.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 63,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 본문이 일치하며, 정보가 간결하게 제공됨. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-03-13_5",
+      "date": "2026-03-13",
+      "category": "국제",
+      "title": "릴리, 중국 내 공급망 강화를 위해 30억 달러 투자",
+      "summary": [
+        "릴리가 중국 내 공급망 강화를 위해 30억 달러를 투자할 예정이다.",
+        "이번 투자는 중국 시장에서의 입지를 강화하기 위한 전략의 일환으로 보인다."
+      ],
+      "whyImportant": "릴리의 중국 내 공급망 강화 투자 결정",
+      "importanceRationale": "근거: 릴리가 중국 내 공급망 강화를 위해 대규모 투자를 결정한 것은 해당 시장의 중요성을 시사하며, 제약 산업의 글로벌 공급망 전략 변화를 보여주는 중요한 사례이다.",
+      "impactSignals": [
+        {
+          "label": "policy",
+          "evidence": "릴리의 중국 내 공급망 강화 투자는 중국 정부의 정책적 지원 및 규제 환경 변화에 영향을 받을 수 있다."
+        }
+      ],
+      "dedupeKey": "Lilly_China_SupplyChain_3Billion",
+      "clusterKey": "billion",
+      "matchedTo": null,
+      "sourceName": "The Pharma Letter",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQ3hSenhyV1pxdVBjWnNOTXBFUzZYM1pXRlpOZ0NlZDJkcXpYS1B3U0tQd2JTdHN5Xzlpd3Zhc0V6UVN2MmpwQ01yeENERHdfX1JCbjBqRHhiWUpuZTVxeWlvaVZkNXFubUt4cm1NY0VaOGZ2dU1uSW1QWVY5Z21aSWk4RzlTcFRkUldUaE1aODRqN1VXZ0hhdmwzOWlPUi13dmhJYUNZTWNUcVFUOHNWSkRVenlGdk0?oc=5",
+      "publishedAt": "2026-03-12T17:12:11.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 4,
+      "importanceRaw": 75,
+      "qualityLabel": "ok",
+      "qualityReason": "The article provides a clear and concise summary of Lilly's investment plans in China.",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-03-13_6",
+      "date": "2026-03-13",
+      "category": "경제",
+      "title": "오라클, 어닝 서프라이즈 및 900억 달러 매출 전망에 주가 급등",
+      "summary": [
+        "오라클 주가가 어닝 서프라이즈와 900억 달러 매출 전망에 힘입어 급등했다.",
+        "이번 실적 발표는 투자자들에게 긍정적인 신호로 작용했다.",
+        "오라클의 향후 성장 가능성에 대한 기대감이 높아지고 있다."
+      ],
+      "whyImportant": "오라클의 실적 개선은 IT 산업 전반에 대한 투자 심리에 영향을 미칠 수 있기 때문에 중요합니다.",
+      "importanceRationale": "근거: 오라클의 매출 전망 증가는 IT 투자 증가를 의미하며, 이는 관련 기업들의 실적 개선으로 이어질 수 있습니다.",
+      "impactSignals": [
+        {
+          "label": "earnings",
+          "evidence": "어닝 서프라이즈 및 900억 달러 매출 전망"
+        }
+      ],
       "dedupeKey": "oracle-earnings-soar-2024",
       "clusterKey": "beat",
       "matchedTo": null,
@@ -52,113 +178,81 @@
       "publishedAt": "2026-03-12T15:17:43.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 2,
+      "importance": 3.5,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 간결하게 요약되었습니다. / 근거부족",
+      "qualityReason": "기사 제목과 내용이 일치하며, 핵심 정보를 간결하게 전달합니다.",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-03-13_3",
+      "id": "2026-03-13_7",
       "date": "2026-03-13",
       "category": "국제",
-      "title": "BMW, 관세 및 중국 시장 부진에 대비",
+      "title": "이탈리아 검찰, 아마존과 임원 4명에 대해 14억 달러 규모의 탈세 혐의로 재판 요청",
       "summary": [
-        "BMW는 관세와 중국 시장의 어려움에 직면하여 또 다른 해를 준비하고 있습니다.",
-        "로이터 통신에 따르면 BMW는 이러한 어려움에 대비하고 있습니다."
+        "이탈리아 검찰이 아마존과 임원 4명을 14억 달러 규모의 탈세 혐의로 기소하기 위해 재판을 요청했다.",
+        "이번 소송은 아마존의 세금 회피에 대한 이탈리아 당국의 조사에서 비롯되었다.",
+        "로이터 통신이 단독으로 보도했다."
       ],
-      "whyImportant": "BMW가 관세 및 중국 시장의 어려움에 직면하고 있다는 것은 글로벌 자동차 산업에 영향을 미칠 수 있습니다.",
-      "importanceRationale": "근거: BMW는 주요 자동차 제조업체 중 하나이며, 그들의 실적은 전체 산업의 건전성을 나타내는 지표가 될 수 있습니다. 관세 및 중국 시장의 어려움은 BMW의 수익성에 영향을 미치고, 이는 다른 자동차 제조업체에도 파급될 수 있습니다.",
+      "whyImportant": "이번 소송은 아마존의 유럽 내 세금 정책에 대한 규제 압력을 증가시킬 수 있습니다.",
+      "importanceRationale": "근거: 이탈리아 검찰이 아마존의 탈세 혐의에 대해 재판을 요청한 것은 아마존의 재무적 부담을 가중시키고, 다른 국가에서도 유사한 조사가 진행될 가능성을 높입니다.",
       "impactSignals": [],
-      "dedupeKey": "BMW_tariff_china_struggles_2024",
-      "clusterKey": "another",
+      "dedupeKey": "amazon_italy_tax_evasion_trial_request",
+      "clusterKey": "amazon",
       "matchedTo": null,
       "sourceName": "Reuters",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbDBVTVV0a28xSjNuMGZfNzRDYUZMOEhfZjNsQmFzSndfYldoRUxaLVNoYVhueGdfTXdmbmNHWFcycDdhZ2d4ZjJYVENPWXpyR1RRRTRnSVhraWF5aTR1RW9aODVmZVlhdXZrdmFpRWU4UUJNS01MSlNqV0E2VGlhbEpTY0UyQjl1UkswaGFISl9UTm5HSzZ0c1p4dHVDZw?oc=5",
-      "publishedAt": "2026-03-12T06:31:00.000Z",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPY21wN1FQMEtSZW9fU3hyeUotZi14MDlrNk5GLUJvYjdhYWc0eHFZX2M1WkdLei1TYUl3cl9xLW5zd3NUMW9NdnlNVF9hbHZDLWdMRml4QnpBWGZXUi05QjA4OGs2TkhnQ3JZc3p5ZWEzRWdLall2OEJXdGttX3dqRzR6c2JlVFE2VlpGMWFsVS1lYjhZdlBBT0xsOTdtU1lVS0ZtVHBVX0paemxxaFFNc1p5ZUlNTjBxM1VPTmJHcw?oc=5",
+      "publishedAt": "2026-03-12T14:27:52.000Z",
       "readTimeSec": 10,
       "status": "kept",
       "importance": 2,
-      "importanceRaw": 63,
+      "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "The article provides a concise overview of BMW's challenges. / 근거부족",
+      "qualityReason": "뉴스 기사의 내용이 명확하고 간결하며, 핵심 정보를 잘 전달하고 있습니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-03-13_4",
+      "id": "2026-03-13_8",
       "date": "2026-03-13",
-      "category": "국제",
-      "title": "미디어텍 칩에서 취약점 발견: 가상자산 지갑 시드 45초 만에 탈취 가능",
+      "category": "경제",
+      "title": "아이다호州, 2월까지의 세수, 예상보다 6,300만 달러 증가",
       "summary": [
-        "미디어텍 칩에서 취약점이 발견되어 가상자산 지갑의 시드를 45초 만에 탈취할 수 있는 것으로 나타났습니다.",
-        "이번 취약점은 보안에 심각한 위협을 제기합니다."
+        "아이다호주의 2월까지의 세수가 예상치를 6,300만 달러 초과했습니다.",
+        "자세한 내용은 아직 공개되지 않았습니다."
       ],
-      "whyImportant": "미디어텍 칩의 취약점을 통해 가상자산 지갑이 위험에 노출될 수 있습니다.",
-      "importanceRationale": "근거: 미디어텍 칩의 취약점을 이용해 가상자산 지갑 시드를 빠르게 탈취할 수 있다는 점은 사용자 자산 보안에 직접적인 위협이 됩니다.",
+      "whyImportant": "아이다호주의 재정 상황을 파악하는 데 중요합니다.",
+      "importanceRationale": "근거: 아이다호주의 세수 증가는 경제 상황 및 정책 변화에 대한 중요한 지표가 될 수 있습니다.",
       "impactSignals": [],
-      "dedupeKey": "mediatek_chip_vulnerability_crypto_wallet_seed_theft",
-      "clusterKey": "45초",
+      "dedupeKey": "idaho_revenues_feb_2024",
+      "clusterKey": "63m",
       "matchedTo": null,
-      "sourceName": "블루밍비트",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB0ZEFuUUxYelhIRWc4Ull6V2ZVTjV3enBLdnlYSF9nX2ZjSU1uMEVTenpzME0zai04Ri1UaTVLNDJsUGxhNUd6LTBsbVRXVXNO?oc=5",
-      "publishedAt": "2026-03-12T04:38:20.000Z",
+      "sourceName": "Law360",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNaDB4QW5TRzB6bzdkaklnM2FqeUNrUURXeUF4Yk5tcGhtckFYLW9CN0tfcUpLNnVIMWItV3JQTGZxWmdyLXlwZmF2SzBiQkE0NUtFVDFlbzJzM215a3BtRW0xNlR2WHY5eTMzXzhsZ1NQYmk0WDRFWVBEekVKY2stZHVTQlFYOUJNSUVrX2hGYmzSAWhBVV95cUxQb2xiSFdOVjlwcW9aVm1lUDA2ZHBCR1BCcTczUnptWnJUY1V6NTl2TmNVMGJMbkdXcnoyVnR1YlF6V0U0LVR6WWlWUWJTaUs5YWVid2h4aFZCTTliemt2VTJrZGE3czN2SQ?oc=5",
+      "publishedAt": "2026-03-12T17:27:00.000Z",
       "readTimeSec": 10,
       "status": "kept",
       "importance": 2,
-      "importanceRaw": 88,
+      "importanceRaw": 50,
       "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 내용이 일치하며, 정보가 명확합니다. / 근거부족",
+      "qualityReason": "기사 제목과 짧은 텍스트 기반으로 정보가 제한적이지만, 사실적인 요약 제공. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-03-13_5",
-      "date": "2026-03-13",
-      "category": "기술",
-      "title": "AI, 파일 구조 분석으로 제로데이 공격 예측... 기업 파일 보안 위협 사전 탐지 기술",
-      "summary": [
-        "AI가 파일 구조를 분석하여 제로데이 공격을 예측하는 기술이 개발되었습니다.",
-        "이 기술은 기업의 파일 보안 위협을 사전에 탐지하는 데 사용됩니다.",
-        "지티티코리아에서 개발했습니다."
-      ],
-      "whyImportant": "기업의 파일 보안 위협을 사전에 탐지하여 제로데이 공격으로 인한 피해를 줄일 수 있습니다.",
-      "importanceRationale": "근거: AI 기반의 파일 구조 분석을 통해 알려지지 않은 공격(제로데이 공격)을 예측하고 기업의 보안 위협을 사전에 탐지하는 기술은 기업의 데이터 및 시스템 보호에 중요한 역할을 합니다.",
-      "impactSignals": [
-        {
-          "label": "security",
-          "evidence": "AI를 이용한 제로데이 공격 예측 및 파일 보안 위협 사전 탐지 기술"
-        }
-      ],
-      "dedupeKey": "AI가 파일 구조 분석해 제로데이 공격 예측",
-      "clusterKey": "ai가",
-      "matchedTo": null,
-      "sourceName": "지티티코리아",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5laFpKYmxITWdVcmo3WDFXTnY5ODZJZ3NGbnBCR1FfaGNYVXlubDBIZEp0ZlhFbHlIOW1nNTlXS3p5RmxoSTVXYXdVbThjTjRJWGpoS044a05rTWlZWkVmZzdpRTNIcjVUdFE?oc=5",
-      "publishedAt": "2026-03-11T20:30:00.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 4.5,
-      "importanceRaw": 88,
-      "qualityLabel": "ok",
-      "qualityReason": "기사 내용이 명확하고, AI 기술의 보안 분야 적용에 대한 정보를 제공합니다.",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-03-13_6",
+      "id": "2026-03-13_9",
       "date": "2026-03-13",
       "category": "국제",
-      "title": "미국 무역법 301조, 특정 국가 지목 협상…슈퍼 301조와 차이",
+      "title": "미국 무역법 301조, 특정 국가 지목 협상 방식은 슈퍼 301조와 차이",
       "summary": [
         "미국 무역법 301조는 특정 국가를 지목하여 협상하는 방식으로, 슈퍼 301조와는 차이가 있다.",
         "해당 법안은 미국의 무역 관련 분쟁 해결에 활용된다."
       ],
-      "whyImportant": "미국 무역 정책의 방향성을 이해하는 데 중요한 지표가 될 수 있다.",
-      "importanceRationale": "근거: 미국의 무역법 301조는 특정 국가와의 무역 협상에 영향을 미치며, 이는 국제 무역 관계에 중요한 변화를 가져올 수 있기 때문이다.",
+      "whyImportant": "미국 무역법 301조의 특징과 슈퍼 301조와의 차이점을 이해하는 것이 중요합니다.",
+      "importanceRationale": "근거: 미국 무역법 301조가 국제 무역 관계에 미치는 영향과 정책적 중요성을 고려할 때, 해당 법안의 특징을 파악하는 것은 필수적입니다.",
       "impactSignals": [],
-      "dedupeKey": "미국무역법301조",
+      "dedupeKey": "미국무역법301조와슈퍼301조의차이",
       "clusterKey": "301조",
       "matchedTo": null,
       "sourceName": "한겨레",
@@ -169,21 +263,21 @@
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "기사 내용이 간결하고 명확하게 핵심을 전달함 / 근거부족",
+      "qualityReason": "기사 제목과 내용이 일치하며, 핵심 내용을 요약하는 데 적절합니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-03-13_7",
+      "id": "2026-03-13_10",
       "date": "2026-03-13",
       "category": "정책",
       "title": "'한미전략적특별법' 국회 통과…3500억 달러 대미 투자 근거 마련",
       "summary": [
         "'한미전략적특별법'이 국회를 통과했습니다.",
-        "이 법안은 3500억 달러 규모의 대미 투자에 대한 근거를 마련합니다."
+        "이번 법안 통과로 3500억 달러 규모의 대미 투자 근거가 마련되었습니다."
       ],
-      "whyImportant": "한미 경제 협력 강화 및 대규모 투자 활성화.",
-      "importanceRationale": "근거: '한미전략적특별법'의 국회 통과는 한미 간의 경제 관계를 강화하고, 대규모 투자를 촉진하는 중요한 정책적 기반을 제공합니다.",
+      "whyImportant": "한미 경제 협력 강화 및 대규모 투자 활성화의 기반을 마련했습니다.",
+      "importanceRationale": "근거: '한미전략적특별법'의 국회 통과로 대규모 대미 투자에 대한 정책적 지원이 가능해졌기 때문입니다.",
       "impactSignals": [],
       "dedupeKey": "hanmi-strategic-law-passed",
       "clusterKey": "3500억",
@@ -196,12 +290,12 @@
       "importance": 2,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하고 명확하게 핵심 내용을 전달합니다. / 근거부족",
+      "qualityReason": "제목과 내용이 일치하며, 핵심 내용을 잘 요약했습니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-03-13_8",
+      "id": "2026-03-13_11",
       "date": "2026-03-13",
       "category": "정책",
       "title": "응급의료 거주지역 편차 해소 법안 국회 본회의 통과",
@@ -210,7 +304,7 @@
         "이 법안은 응급의료 접근성 향상을 목표로 합니다."
       ],
       "whyImportant": "응급의료 서비스의 지역적 불균형 해소에 기여할 수 있습니다.",
-      "importanceRationale": "근거: 법안 통과는 응급의료 정책에 직접적인 영향을 미치며, 지역 간 의료 서비스 격차를 줄이는 데 중요한 단계입니다.",
+      "importanceRationale": "근거: 응급의료 서비스 접근성은 국민 건강과 직결되는 중요한 문제이며, 지역 간 편차 해소는 의료 형평성을 높이는 데 필수적입니다.",
       "impactSignals": [
         {
           "label": "policy",
@@ -228,28 +322,28 @@
       "importance": 4,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 핵심 내용을 전달합니다.",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었습니다.",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-03-13_9",
+      "id": "2026-03-13_12",
       "date": "2026-03-13",
       "category": "정책",
-      "title": "국회 산자위, '변리사·의뢰인의 비밀유지권' 및 '변리사 감정업무 절차' 규정 통과",
+      "title": "국회 산자위, '변리사·의뢰인 비밀유지권' 및 '변리사 감정업무 절차' 규정 통과",
       "summary": [
         "국회 산업통상자원중소벤처기업위원회에서 '변리사·의뢰인의 비밀유지권'과 '변리사 감정업무 절차' 관련 규정이 통과되었습니다.",
-        "이번 규정은 지식재산 기반의 혁신 성장에 기여할 것으로 기대됩니다."
+        "이번 규정은 지식재산 기반 혁신 성장에 기여할 것으로 기대됩니다."
       ],
-      "whyImportant": "변리사와 의뢰인 간의 비밀유지 강화 및 감정 업무 절차 명확화.",
-      "importanceRationale": "근거: 변리사-의뢰인 간 비밀유지권 및 변리사 감정업무 절차 규정은 지식재산 기반 혁신 성장에 중요한 정책적 영향을 미칠 수 있습니다.",
+      "whyImportant": "변리사와 의뢰인 간의 비밀유지권 보장 및 감정 업무 절차 명확화는 지식재산 분야의 신뢰성을 높이고 혁신 성장을 촉진할 수 있습니다.",
+      "importanceRationale": "근거: 변리사-의뢰인 간 비밀유지 및 감정 절차 규정은 지식재산 법률 서비스의 핵심적인 부분이며, 이는 산업 혁신과 직결되는 중요한 정책적 변화입니다.",
       "impactSignals": [
         {
           "label": "policy",
-          "evidence": "국회 산자위 통과로 법적 효력 발생 및 정책적 변화 예상"
+          "evidence": "국회 산자위에서 변리사 및 의뢰인 관련 법안 통과"
         }
       ],
-      "dedupeKey": "변리사·의뢰인의 비밀유지권, 변리사 감정업무 절차 국회 산자위 통과",
+      "dedupeKey": "변리사 비밀유지권 및 감정업무 절차 국회 통과",
       "clusterKey": "감정업무",
       "matchedTo": null,
       "sourceName": "IPDaily",
@@ -260,23 +354,119 @@
       "importance": 4,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 핵심 내용을 잘 반영하고 있습니다.",
+      "qualityReason": "제목과 본문이 일치하며, 내용이 간결하고 명확합니다.",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-03-13_10",
+      "id": "2026-03-13_13",
+      "date": "2026-03-13",
+      "category": "국제",
+      "title": "미디어텍 칩에서 취약점 발견: 가상자산 지갑 시드가 45초 만에 탈취될 수 있음",
+      "summary": [
+        "미디어텍 칩에서 취약점이 발견되었습니다.",
+        "이 취약점을 이용하면 가상자산 지갑의 시드를 45초 만에 탈취할 수 있습니다."
+      ],
+      "whyImportant": "미디어텍 칩의 취약점을 통해 가상자산 지갑이 위험에 노출될 수 있습니다.",
+      "importanceRationale": "근거: 미디어텍 칩의 취약점을 이용해 가상자산 지갑 시드를 빠르게 탈취할 수 있다는 정보가 제공됨.",
+      "impactSignals": [],
+      "dedupeKey": "mediatek_chip_vulnerability_crypto_wallet_seed_theft",
+      "clusterKey": "45초",
+      "matchedTo": null,
+      "sourceName": "블루밍비트",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB0ZEFuUUxYelhIRWc4Ull6V2ZVTjV3enBLdnlYSF9nX2ZjSU1uMEVTenpzME0zai04Ri1UaTVLNDJsUGxhNUd6LTBsbVRXVXNO?oc=5",
+      "publishedAt": "2026-03-12T04:38:20.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 75,
+      "qualityLabel": "ok",
+      "qualityReason": "기사에 언급된 내용이 명확하고 간결함. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-03-13_14",
+      "date": "2026-03-13",
+      "category": "기술",
+      "title": "AI, 새로운 '내부자 위협'으로 부상…한국 74%, 최대 데이터 보안 위험으로 간주",
+      "summary": [
+        "AI가 새로운 '내부자 위협'으로 부상하고 있다.",
+        "한국에서는 74%가 AI를 최대 데이터 보안 위험으로 간주한다."
+      ],
+      "whyImportant": "AI 기술의 발전과 함께 데이터 보안에 대한 새로운 위협이 부각되고 있음을 보여준다.",
+      "importanceRationale": "근거: 한국에서 AI를 데이터 보안의 가장 큰 위협으로 인식하는 비율이 74%에 달하며, 이는 AI가 기업 내부 정보 유출의 새로운 경로가 될 수 있음을 시사한다.",
+      "impactSignals": [
+        {
+          "label": "security",
+          "evidence": "AI가 데이터 보안에 새로운 위협으로 부상"
+        }
+      ],
+      "dedupeKey": "AIinsiderthreatkorea74",
+      "clusterKey": "내부자",
+      "matchedTo": null,
+      "sourceName": "테크월드뉴스",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5NNkFjZTdKcXhvVTNNVEdNMjJOU1k5RTA4d1ZYQTZTTFR1YXZ4ZFdkOFgtWnlQWlljZWNnTHZuRFJSa05lVEJ6eVhxZmlRTEVFcEpNUnZNVHlHbE5oS2VxQTQ4UE0tRGp4?oc=5",
+      "publishedAt": "2026-03-12T00:00:00.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 4,
+      "importanceRaw": 75,
+      "qualityLabel": "ok",
+      "qualityReason": "기사 제목과 내용이 일치하며, 핵심 내용을 잘 요약했습니다.",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-03-13_15",
+      "date": "2026-03-13",
+      "category": "기술",
+      "title": "AI, 파일 구조 분석으로 제로데이 공격 예측... 기업 파일 보안 위협 사전 탐지 기술",
+      "summary": [
+        "AI가 파일 구조를 분석하여 제로데이 공격을 예측하는 기술이 개발되었습니다.",
+        "이 기술은 기업의 파일 보안 위협을 사전에 탐지하는 데 사용됩니다.",
+        "지티티코리아에서 개발했습니다."
+      ],
+      "whyImportant": "기업의 파일 보안을 강화하고 제로데이 공격으로 인한 피해를 줄일 수 있습니다.",
+      "importanceRationale": "근거: AI 기반의 파일 구조 분석을 통해 알려지지 않은 공격(제로데이 공격)을 예측하고 기업의 보안 위협을 사전에 탐지하는 기술은 기업의 데이터 및 시스템 보호에 중요한 역할을 합니다.",
+      "impactSignals": [
+        {
+          "label": "security",
+          "evidence": "AI를 이용한 제로데이 공격 예측 및 사전 탐지 기술"
+        }
+      ],
+      "dedupeKey": "AI, 파일 구조 분석으로 제로데이 공격 예측",
+      "clusterKey": "ai가",
+      "matchedTo": null,
+      "sourceName": "지티티코리아",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5laFpKYmxITWdVcmo3WDFXTnY5ODZJZ3NGbnBCR1FfaGNYVXlubDBIZEp0ZlhFbHlIOW1nNTlXS3p5RmxoSTVXYXdVbThjTjRJWGpoS044a05rTWlZWkVmZzdpRTNIcjVUdFE?oc=5",
+      "publishedAt": "2026-03-11T20:30:00.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 4,
+      "importanceRaw": 75,
+      "qualityLabel": "ok",
+      "qualityReason": "기사 내용이 명확하고 기술의 중요성을 잘 설명하고 있습니다.",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-03-13_16",
       "date": "2026-03-13",
       "category": "경제",
-      "title": "메디톡스, 작년 매출 2473억원 기록…3년 연속 사상 최대",
+      "title": "메디톡스, 작년 매출 2473억원…3년 연속 사상 최대",
       "summary": [
-        "메디톡스는 작년 매출이 2473억원으로 집계됐다고 발표했다.",
-        "이는 3년 연속 사상 최대 매출액을 경신한 것이다."
+        "메디톡스는 작년 매출이 2473억원으로 3년 연속 사상 최대를 기록했다고 발표했다."
       ],
-      "whyImportant": "메디톡스의 매출 증가는 기업 성장을 보여주는 지표입니다.",
-      "importanceRationale": "근거: 메디톡스의 매출액이 3년 연속 사상 최대치를 기록했다는 것은 회사의 성장세를 나타내는 중요한 지표로 해석될 수 있다.",
-      "impactSignals": [],
-      "dedupeKey": "meditox-sales-2023",
+      "whyImportant": "메디톡스의 매출 증가는 기업 성장을 나타내는 중요한 지표입니다.",
+      "importanceRationale": "근거: 메디톡스의 매출이 3년 연속 사상 최대를 기록했다는 것은 회사의 성장세가 지속되고 있음을 의미합니다.",
+      "impactSignals": [
+        {
+          "label": "earnings",
+          "evidence": "작년 매출 2473억원으로 3년 연속 사상 최대 기록"
+        }
+      ],
+      "dedupeKey": "meditox-sales-2024",
       "clusterKey": "2천473억원",
       "matchedTo": null,
       "sourceName": "연합뉴스 한민족센터",
@@ -284,15 +474,15 @@
       "publishedAt": "2026-03-12T06:55:40.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 2,
+      "importance": 3.5,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "The article provides a concise and factual report on Meditox's sales figures. / 근거부족",
+      "qualityReason": "The article provides a concise and factual report on Meditox's sales.",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-03-13_11",
+      "id": "2026-03-13_17",
       "date": "2026-03-13",
       "category": "경제",
       "title": "[생생한 주식쇼 생쇼] 스페이스X 상장 임박, 우주항공 관련주 랠리 전망",
@@ -300,7 +490,7 @@
         "스페이스X의 상장이 임박했으며, 이로 인해 우주항공 관련 주식의 랠리가 예상됩니다."
       ],
       "whyImportant": "스페이스X 상장 가능성이 우주항공 관련 주식 시장에 미치는 영향",
-      "importanceRationale": "근거: 스페이스X의 상장 임박 소식은 투자자들의 관심을 끌며 관련 주식 시장에 긍정적인 영향을 줄 수 있습니다.",
+      "importanceRationale": "근거: 스페이스X의 상장 임박 소식이 우주항공 관련 주식의 상승을 전망하게 하는 주요 요인입니다.",
       "impactSignals": [],
       "dedupeKey": "spacex-ipo-rally",
       "clusterKey": "관련주",
@@ -313,67 +503,39 @@
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "The article directly reflects the title and provides a concise summary. / 근거부족",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 핵심 내용을 전달합니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-03-13_12",
+      "id": "2026-03-13_18",
       "date": "2026-03-13",
-      "category": "경제",
-      "title": "Google의 Wiz 320억 달러 인수, 막대한 수익을 올리는 투자자들",
+      "category": "에너지",
+      "title": "Pure DC, 아일랜드 더블린 데이터 센터 캠퍼스에 천연 가스 마이크로그리드 계획",
       "summary": [
-        "Wiz가 Google에 320억 달러에 매각되면서 투자자들이 막대한 수익을 올리고 있습니다.",
-        "이번 인수는 클라우드 보안 시장에서 Google의 입지를 강화할 것으로 예상됩니다."
+        "Pure DC는 아일랜드 더블린 데이터 센터 캠퍼스에 천연 가스 마이크로그리드를 구축할 계획이다.",
+        "이는 데이터 센터의 에너지 공급 안정성을 높이고 비용을 절감하기 위한 것으로 보인다."
       ],
-      "whyImportant": "Google의 Wiz 인수는 클라우드 보안 시장에 큰 영향을 미칠 수 있습니다.",
-      "importanceRationale": "근거: Wiz의 인수 금액이 320억 달러에 달하며, 이는 클라우드 보안 시장의 경쟁 심화를 의미합니다.",
+      "whyImportant": "데이터 센터의 에너지 공급 방식 변화를 보여주는 사례",
+      "importanceRationale": "근거: 데이터 센터의 에너지 공급 안정성은 운영에 매우 중요하며, 마이크로그리드 구축은 에너지 효율성을 높이는 데 기여할 수 있다.",
       "impactSignals": [],
-      "dedupeKey": "Wiz_Google_acquisition_investors_billions",
-      "clusterKey": "billion",
+      "dedupeKey": "pure-dc-dublin-microgrid",
+      "clusterKey": "center",
       "matchedTo": null,
-      "sourceName": "CTech",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9xQ2l3MS1BNE9CM2dKNm9wSmxzTG9BZW80ZHpsQkM2eGRWaDF0UzFoR29ZYVY3dWUwOVJIeXFqVF9QdjQyQjd6Z1lPWnRzOC1Ka1k0R0xEZ2xwN3JWb2lXU1RFREI3RDA?oc=5",
-      "publishedAt": "2026-03-11T12:49:00.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 75,
-      "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 정보가 간결하게 요약되어 있습니다. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-03-13_13",
-      "date": "2026-03-13",
-      "category": "기술",
-      "title": "플로리다 데이터 센터, 자체 발전으로 운영될 정도로 큰 규모",
-      "summary": [
-        "플로리다에 건설될 데이터 센터는 자체적으로 전기를 생산할 정도로 큰 규모가 될 예정이다.",
-        "이는 데이터 센터의 에너지 소비량이 매우 높다는 것을 시사한다.",
-        "자체 발전 시스템 구축은 초기 투자 비용이 높지만, 장기적으로는 운영 비용을 절감할 수 있다."
-      ],
-      "whyImportant": "대규모 데이터 센터 건설은 지역 경제에 긍정적인 영향을 미칠 수 있지만, 환경적인 영향도 고려해야 한다.",
-      "importanceRationale": "근거: 데이터 센터의 규모가 자체 발전 시스템을 필요로 할 정도로 크다는 점은 상당한 투자 규모와 기술적 중요성을 의미한다.",
-      "impactSignals": [],
-      "dedupeKey": "florida_data_center_own_electricity",
-      "clusterKey": "big",
-      "matchedTo": null,
-      "sourceName": "Treasure Coast News",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQbDk5MEthX1laTzVNckhQN2wtTDRpV3RJN0pBMlJFV3pUYmtrRzY5bzROUEZ3RmRjeldnV3FwZkhLOVZVNXBMaURSMWZacDJQYng3SEFTdkdNVHBxV3IyVElDQ2I5Rkk4Q2FrX2N5TTdVQUxxbkNONzI1MHQ2Um9tSFVhMHU4Z3lIYVVKU0IzYVJoeHJ4N1QtYkFrOXZyUzRTZXJJcTRnYjdTVnZiWWdDeTJUSFdJOFU1QVVhb3ZiVVdvVzVZVkhTVE1zZk4xaVp4aUVxU1NDOEJRQWljdkU3TA?oc=5",
-      "publishedAt": "2026-03-12T14:25:00.000Z",
+      "sourceName": "Data Center Dynamics",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPck5lWUgxUGd4alZUUE9IZEtEbXZGVXk4aE9GQndrdXdhUzU1TDg1N0oyclJGUjJKbUh2VDh3STFiWGJfMmtqNzNoSVIyUGo1Q2RVclNtLUo1Q2JxVWtCMTlBNjZWNXh0eDF3XzZqQ0NXV0JIa3Rwa2xWYmgxaDNsQ3ZmWUhtLXAtakhaSDRJbmpGRE82QVludFRyZ0pZS1hXdzJFLXZMN2k4VG1fMS1Jd1FhNnBuMzQ?oc=5",
+      "publishedAt": "2026-03-12T17:03:45.000Z",
       "readTimeSec": 10,
       "status": "kept",
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 내용이 일치하며, 정보가 명확하다. / 근거부족",
+      "qualityReason": "제목과 본문이 일치하며, 정보가 명확함 / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-03-13_14",
+      "id": "2026-03-13_19",
       "date": "2026-03-13",
       "category": "국제",
       "title": "미국, '무역법 301조' 조사 개시…정부 \"관세 15%로 복원 수순\"",
@@ -396,150 +558,6 @@
       "importanceRaw": 63,
       "qualityLabel": "ok",
       "qualityReason": "제목과 본문이 일치하며, 간결하게 요약됨. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-03-13_15",
-      "date": "2026-03-13",
-      "category": "국제",
-      "title": "트럼프, 새로운 글로벌 무역 조사로 관세 위협 재개",
-      "summary": [
-        "트럼프 전 대통령이 새로운 글로벌 무역 조사를 통해 관세 부과 가능성을 다시 제기했습니다.",
-        "이는 무역 정책에 대한 불확실성을 증가시킬 수 있습니다."
-      ],
-      "whyImportant": "트럼프 전 대통령의 관세 부과 위협은 국제 무역 관계에 상당한 영향을 미칠 수 있습니다.",
-      "importanceRationale": "근거: 트럼프 전 대통령의 정책은 과거 무역 분쟁을 야기했으며, 그의 재집권 시 유사한 상황이 발생할 수 있다는 우려가 있습니다.",
-      "impactSignals": [],
-      "dedupeKey": "trump-tariff-threat-trade-probes",
-      "clusterKey": "global",
-      "matchedTo": null,
-      "sourceName": "Modern Diplomacy",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWG9xR2tTZmNJXzdzN1Q3aWhLSWx3WkNkazE3cUtyN2RNampRbGNpcGVISU9aTjJqVmtmWlZCdTQzRWtUbWtvcF9DdTVrVHdlcEt2S2haS3R1SGF0VkhhRUZEVF80VjA4ODcydFhfRXhWSlNxVVNLanFkNjg5SFUzRVZINEtXdkwwcmxzY3psMmhLQTBER0VteTZFYw?oc=5",
-      "publishedAt": "2026-03-12T08:55:34.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 63,
-      "qualityLabel": "ok",
-      "qualityReason": "기사의 내용이 명확하고 간결합니다. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-03-13_16",
-      "date": "2026-03-13",
-      "category": "기술",
-      "title": "아마존, AI 도입 후 잇단 서비스 장애 발생…“운영 모델 재설계 필요” 지적",
-      "summary": [
-        "아마존이 인공지능(AI) 도입 이후 잇따른 서비스 장애를 겪고 있다는 지적이 나왔다.",
-        "전문가들은 아마존의 운영 모델 재설계 필요성을 강조했다."
-      ],
-      "whyImportant": "아마존의 서비스 안정성 문제와 AI 도입 전략에 대한 우려를 제기합니다.",
-      "importanceRationale": "근거: 아마존의 서비스 장애는 사용자 경험에 직접적인 영향을 미치며, AI 도입 전략의 재검토 필요성을 시사합니다.",
-      "impactSignals": [
-        {
-          "label": "infra",
-          "evidence": "아마존의 AI 도입 후 서비스 장애 발생"
-        }
-      ],
-      "dedupeKey": "amazon_ai_service_disruptions",
-      "clusterKey": "ai/도입",
-      "matchedTo": null,
-      "sourceName": "cio.com",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMixAJBVV95cUxPbVRRRWdwZlkwS3ZYY25lampXa1FtWndoaTFDanV3aW1uYzA5bS1MX3Z4bFg2ZHNrTTFEbjJLa3lLa3R3ZDlzb3ZRNnlkOUNla1YxYVItb0czeEQ5VlIzNmVCVzF2bGdFLUNNcW80bC0zX2o2UkczMTdtRG9DLXl6bVJ0V0R0aTRyNFVvMUYwZEJDdDY2bWcxaDV6WVNHaW03VTlBeHZ6d3c2ZktXOXhTRTc5N2ZEXzVNelA4WjQyM25tajF4WUliMzZ0RHFhQUdnY3hBTkNEelotVkNuQUstQmRFWE81SHRxZkh1R3hHNFFjY0dwd3FjalNIc092U0phM25teDdmbDRRd0ZrRXJvV0xXZ2JVOEtCZzdXbXBlOVJmaW5NRW95MTNDSlAzNkVkLW9OU2VhM3FCM09QRmp2VzJGX1k?oc=5",
-      "publishedAt": "2026-03-12T08:18:47.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 3.5,
-      "importanceRaw": 63,
-      "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 핵심 내용을 요약했습니다.",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-03-13_17",
-      "date": "2026-03-13",
-      "category": "에너지",
-      "title": "현대건설, 북유럽·네덜란드와 글로벌 원전 생태계 협력",
-      "summary": [
-        "현대건설이 북유럽 및 네덜란드와 글로벌 원전 생태계 협력을 추진합니다.",
-        "이번 협력은 현대건설의 원전 사업 확장에 기여할 것으로 예상됩니다."
-      ],
-      "whyImportant": "현대건설의 글로벌 원전 시장 진출 가능성을 보여주는 협력 건입니다.",
-      "importanceRationale": "근거: 현대건설이 북유럽 및 네덜란드와 원전 생태계 협력을 통해 해외 시장에서의 경쟁력을 강화할 수 있기 때문입니다.",
-      "impactSignals": [
-        {
-          "label": "capex",
-          "evidence": "원전 생태계 협력은 관련 투자 확대로 이어질 수 있습니다."
-        }
-      ],
-      "dedupeKey": "현대건설, 북유럽·네덜란드 원전 협력",
-      "clusterKey": "에너지/글로벌",
-      "matchedTo": null,
-      "sourceName": "서울파이낸스",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5PeFFDY3BNVU5JLWpvVjBCZF8yRW9rNmFRbnJlbXlSTHNVNVRKalQ5TFNrT2JiWFBLTXZvbG1haTlHSHF6dy1Nc1poZDEydVNyWHlEZjZfLXVHTHVfbkVVOVE5ZnJvd3R2SVE?oc=5",
-      "publishedAt": "2026-03-12T07:10:09.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 3.5,
-      "importanceRaw": 63,
-      "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 핵심 내용을 잘 반영하고 있습니다.",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-03-13_18",
-      "date": "2026-03-13",
-      "category": "에너지",
-      "title": "현대건설·웨스팅하우스, 북유럽 에너지 전환 시장 공략…핀란드·스웨덴 원전 협력",
-      "summary": [
-        "현대건설과 웨스팅하우스가 북유럽 에너지 전환 시장 공략에 나섰습니다.",
-        "핀란드와 스웨덴 원전 협력을 통해 시장을 확대할 계획입니다."
-      ],
-      "whyImportant": "현대건설과 웨스팅하우스의 북유럽 에너지 시장 진출은 국내 기업의 해외 시장 확대를 의미합니다.",
-      "importanceRationale": "근거: 현대건설과 웨스팅하우스의 협력은 북유럽 원전 시장에서 새로운 사업 기회를 창출할 수 있으며, 이는 국내 기업의 국제 경쟁력 강화에 기여할 수 있습니다.",
-      "impactSignals": [],
-      "dedupeKey": "현대건설·웨스팅하우스, 북유럽 에너지 전환 시장 공략…핀란드·스웨덴 원전 협력",
-      "clusterKey": "에너지/공략",
-      "matchedTo": null,
-      "sourceName": "백세시대",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4tcmVsWDczT3ZpQUJ1NlZPUlpXcHRieHhrSFRObXhObnJrT2J2YzQ4ZmFaa09faFJCYnM2WmFPUUpMOTJJdVpOUy1LTTZwQlZuenlOZHNBMktYSmlCdTFITFFMa1F2bFh3NkFZ?oc=5",
-      "publishedAt": "2026-03-12T05:32:40.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 63,
-      "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 간결하게 핵심 내용을 전달합니다. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-03-13_19",
-      "date": "2026-03-13",
-      "category": "경제",
-      "title": "RBA 금리 인상 예상: 2026년 5월 정책 신호",
-      "summary": [
-        "호주 중앙은행(RBA)의 금리 인상 예상에 대한 정책 신호가 2026년 5월에 나타날 것으로 보입니다."
-      ],
-      "whyImportant": "RBA의 정책 방향을 예측하는 데 중요한 지표가 될 수 있습니다.",
-      "importanceRationale": "근거: 2026년 5월의 정책 신호가 RBA의 금리 인상 시기를 예측하는 데 중요한 정보가 될 수 있기 때문입니다.",
-      "impactSignals": [],
-      "dedupeKey": "RBA_Rate_Hike_Anticipation_May_2026",
-      "clusterKey": "anticipation",
-      "matchedTo": null,
-      "sourceName": "Discovery Alert",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQl84Z1NXZHp6LUtfdDhrVVJCWld1YXhKREJUQm9HZmxBWnpFZ2RkdEl3YmpCaXhFZENxX3dEbTc1a3NTNFBod1JaWi1YSFBuT2swQlVUZkNiU1RCTjRoenVkY0hXOUY0UWZDRUdPMVJsSGM5OVJtamhESGo2UTdxY29TbnFzRGFGcXVrRg?oc=5",
-      "publishedAt": "2026-03-11T12:55:27.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 63,
-      "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 정보가 간결하게 제공됨. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     }
