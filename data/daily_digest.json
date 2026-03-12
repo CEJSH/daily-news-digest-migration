@@ -3,7 +3,7 @@
   "selectionCriteria": "① 내일도 영향이 남는 이슈 ② 과도한 감정 소모 제외 ③ 어제와 중복되는 뉴스 제외",
   "editorNote": "이 뉴스는 클릭 수가 아니라 오늘 이후에도 남는 정보만 기준으로 편집했습니다.",
   "question": "정보를 덜 보는 것이 오히려 더 똑똑한 소비일까?",
-  "lastUpdatedAt": "2026-03-13T06:30:20.478+09:00",
+  "lastUpdatedAt": "2026-03-13T07:23:08.232+09:00",
   "items": [
     {
       "id": "2026-03-13_1",
@@ -14,9 +14,14 @@
         "미국 에너지정보청(EIA)은 데이터 센터의 전력 수요 급증으로 인해 화석 연료 발전량이 증가할 수 있다고 밝혔습니다.",
         "데이터 센터의 전력 수요 증가는 전체적인 에너지 시장에 영향을 미칠 수 있습니다."
       ],
-      "whyImportant": "데이터 센터의 전력 수요 증가는 에너지 시장의 중요한 변화를 의미합니다.",
-      "importanceRationale": "근거: 데이터 센터의 전력 소비 증가는 발전 연료의 구성에 영향을 미치며, 이는 환경 및 에너지 정책에 중요한 영향을 미칠 수 있습니다.",
-      "impactSignals": [],
+      "whyImportant": "데이터 센터 전력 수요 급증이 화석 연료 발전량 증가로 이어질 수 있다는 점은 에너지 정책 및 환경에 중요한 영향을 미칩니다.",
+      "importanceRationale": "근거: 데이터 센터의 전력 수요 증가는 에너지 시장의 변화를 야기하며, 이는 화석 연료 발전량 증가로 이어져 환경 문제에 영향을 줄 수 있습니다.",
+      "impactSignals": [
+        {
+          "label": "market-demand",
+          "evidence": "데이터 센터의 전력 수요 증가는 전체 에너지 시장 수요 증가로 이어집니다."
+        }
+      ],
       "dedupeKey": "US_power_demand_data_centers_EIA",
       "clusterKey": "에너지/centers",
       "matchedTo": null,
@@ -25,10 +30,10 @@
       "publishedAt": "2026-03-12T20:43:11.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 2,
-      "importanceRaw": 63,
+      "importance": 4,
+      "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "기사 내용이 명확하고 간결하며, 정보의 출처가 분명합니다. / 근거부족",
+      "qualityReason": "기사 제목과 내용이 일치하며, 정보가 명확합니다.",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -39,10 +44,10 @@
       "title": "AI 전력 비용은 누가 부담하나? 캘리포니아 감시 단체, 새로운 데이터 센터 규정 촉구",
       "summary": [
         "캘리포니아의 한 감시 단체가 AI 전력 소비 증가에 대한 우려를 제기하며 새로운 데이터 센터 규정을 촉구했습니다.",
-        "이는 AI 기술 확산에 따른 전력 사용량 증가 문제에 대한 논의를 촉발할 것으로 예상됩니다."
+        "이는 AI 기술 확산에 따른 전력 수요 증가와 관련된 잠재적 비용 부담 문제에 대한 논의를 촉발할 것으로 예상됩니다."
       ],
-      "whyImportant": "AI 기술 확산에 따른 데이터 센터 전력 소비 증가에 대한 규제 논의 시작을 알리는 신호탄입니다.",
-      "importanceRationale": "근거: 캘리포니아 감시 단체의 데이터 센터 규정 촉구는 향후 AI 관련 산업의 정책 및 투자 결정에 영향을 미칠 수 있습니다.",
+      "whyImportant": "AI 기술 발전과 데이터 센터 운영에 대한 정책적 논의 필요성을 강조합니다.",
+      "importanceRationale": "근거: 캘리포니아 감시 단체의 데이터 센터 규정 촉구는 AI 전력 소비 문제에 대한 정책적 대응의 필요성을 보여줍니다. 이는 향후 AI 기술 발전과 데이터 센터 운영 방식에 영향을 미칠 수 있습니다.",
       "impactSignals": [],
       "dedupeKey": "AI_Power_California_Data_Center_Rules",
       "clusterKey": "에너지/california",
@@ -55,7 +60,7 @@
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었습니다. / 근거부족",
+      "qualityReason": "기사 제목과 내용이 일치하며, 핵심 내용을 잘 반영하고 있습니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -63,15 +68,53 @@
       "id": "2026-03-13_3",
       "date": "2026-03-13",
       "category": "경제",
+      "title": "금융지주, '생산적 금융' 실적 압박에 저금리 시설 투자 확대",
+      "summary": [
+        "금융지주들이 '생산적 금융' 실적 압박으로 인해 저금리 시설 투자를 늘리고 있다.",
+        "이는 수익성 악화로 이어질 수 있다는 우려가 제기된다.",
+        "투자 확대 배경에는 정부의 정책적 지원과 금융지주 간 경쟁 심화가 작용한 것으로 보인다."
+      ],
+      "whyImportant": "금융지주들의 투자 전략 변화와 그 배경을 파악하는 것이 중요합니다.",
+      "importanceRationale": "근거: 금융지주들의 저금리 시설 투자 확대는 금융 시장에 미치는 영향이 크며, 관련 기업들의 투자 결정에도 영향을 줄 수 있기 때문입니다.",
+      "impactSignals": [
+        {
+          "label": "capex",
+          "evidence": "저금리 시설 투자 확대를 통해 자본 지출이 증가할 수 있음"
+        }
+      ],
+      "dedupeKey": "financial_groups_increase_low_interest_facility_investment",
+      "clusterKey": "금융지주",
+      "matchedTo": null,
+      "sourceName": "인베스트조선",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbVJxSDR1TW01OHpHTVF0YUJxSE80dkl2eV84SU5wcDZYbUVCUktuWDNPbGxUb095aUFyZExqQzBKMG5Pd3A0a3hLbl9sMFp4YTdaWmk5azRmU0VNRUtxUWswOFlOUi1CR0lhWnl3eXlBcjhQZGtZRE50Z3FLem5ITlhLcw?oc=5",
+      "publishedAt": "2026-03-12T22:02:27.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 3.5,
+      "importanceRaw": 63,
+      "qualityLabel": "ok",
+      "qualityReason": "기사 제목과 내용이 일치하며, 핵심 내용을 잘 요약했습니다.",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-03-13_4",
+      "date": "2026-03-13",
+      "category": "경제",
       "title": "Guardian Pharmacy 실적: 마진 확대 및 상향된 가이던스는 운영 강점을 나타냅니다.",
       "summary": [
-        "Guardian Pharmacy의 실적 발표에서 마진 확대가 나타났습니다.",
-        "회사는 또한 가이던스를 상향 조정했습니다.",
-        "이는 회사의 운영 강점을 시사합니다."
+        "Guardian Pharmacy의 실적 발표에서 마진 확대와 가이던스 상향이 있었습니다.",
+        "이는 회사의 운영 효율성이 개선되었음을 시사합니다.",
+        "자세한 내용은 Trefis 보고서를 통해 확인할 수 있습니다."
       ],
-      "whyImportant": "Guardian Pharmacy의 재무적 건전성과 미래 전망을 보여줍니다.",
-      "importanceRationale": "근거: 마진 확대와 가이던스 상향은 기업의 수익성과 성장 가능성에 대한 긍정적인 신호입니다.",
-      "impactSignals": [],
+      "whyImportant": "Guardian Pharmacy의 실적 개선은 관련 업계에 긍정적인 신호로 해석될 수 있습니다.",
+      "importanceRationale": "근거: 마진 확대와 가이던스 상향은 기업의 수익성 개선과 미래 성장 전망을 나타내는 중요한 지표입니다.",
+      "impactSignals": [
+        {
+          "label": "capex",
+          "evidence": "마진 확대 및 가이던스 상향은 투자 확대로 이어질 수 있습니다."
+        }
+      ],
       "dedupeKey": "guardian_pharmacy_earnings_margin_expansion",
       "clusterKey": "expansion",
       "matchedTo": null,
@@ -80,15 +123,15 @@
       "publishedAt": "2026-03-12T17:48:45.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 2,
+      "importance": 3.5,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "The article provides a concise summary of the earnings report. / 근거부족",
+      "qualityReason": "제목과 본문이 일치하며, 정보가 명확합니다.",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-03-13_4",
+      "id": "2026-03-13_5",
       "date": "2026-03-13",
       "category": "경제",
       "title": "BMW 실적: 예상치 부합, 2026년 추가 마진 압박 예상",
@@ -96,10 +139,10 @@
         "BMW의 실적이 예상치에 부합했다.",
         "그러나 2026년에는 추가적인 마진 압박이 예상된다."
       ],
-      "whyImportant": "BMW의 실적 발표와 향후 전망은 자동차 산업 전반에 대한 투자 및 전략 결정에 중요한 영향을 미칠 수 있다.",
-      "importanceRationale": "근거: BMW는 글로벌 자동차 시장에서 중요한 위치를 차지하며, 그들의 실적과 전망은 시장의 흐름을 파악하는 데 중요한 지표가 된다.",
+      "whyImportant": "BMW의 실적 발표와 향후 전망은 자동차 산업 전반에 대한 투자 및 전략 결정에 영향을 미칠 수 있다.",
+      "importanceRationale": "근거: BMW는 주요 자동차 제조업체 중 하나이며, 그들의 실적과 전망은 시장의 투자 심리와 경쟁 환경에 중요한 지표가 된다.",
       "impactSignals": [],
-      "dedupeKey": "BMW_Earnings_2024",
+      "dedupeKey": "BMW_Earnings_2026_Margin_Pressure",
       "clusterKey": "bmw",
       "matchedTo": null,
       "sourceName": "Morningstar",
@@ -110,39 +153,7 @@
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 정보가 명확하게 제시되어 있다. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-03-13_5",
-      "date": "2026-03-13",
-      "category": "경제",
-      "title": "오라클, 실적 호조와 900억 달러 매출 전망에 주가 급등",
-      "summary": [
-        "오라클 주가가 실적 발표 후 급등했다.",
-        "매출 전망은 900억 달러에 달한다."
-      ],
-      "whyImportant": "오라클의 실적 호조는 기술 산업 전반에 걸쳐 긍정적인 신호로 해석될 수 있습니다.",
-      "importanceRationale": "근거: 오라클의 매출 전망 증가는 IT 투자 증가와 클라우드 서비스 수요 증가를 반영하며, 이는 관련 기업들의 실적에도 영향을 미칠 수 있습니다.",
-      "impactSignals": [
-        {
-          "label": "earnings",
-          "evidence": "오라클의 실적 호조는 주가 급등으로 이어졌습니다."
-        }
-      ],
-      "dedupeKey": "oracle-earnings-soar-2024",
-      "clusterKey": "beat",
-      "matchedTo": null,
-      "sourceName": "qz.com",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE45Zlc1MkNwLW9kSEZfTVZkbVc5LVdOVHlPdHVvSWtubHhVS3dYZWFvUnAwTHhrUFhRMmJHREFCWnlHQWt2S0xUeDR2dndENGNoeWVfVl93?oc=5",
-      "publishedAt": "2026-03-12T14:48:08.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 3.5,
-      "importanceRaw": 63,
-      "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 내용이 일치하며, 핵심 정보를 간결하게 전달합니다.",
+      "qualityReason": "The article provides a concise overview of BMW's earnings and future expectations. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -154,10 +165,10 @@
       "summary": [
         "이탈리아 검찰이 아마존과 임원 4명을 14억 달러 규모의 탈세 혐의로 기소하기 위해 재판을 요청했다.",
         "이번 소송은 아마존의 세금 회피에 대한 이탈리아 당국의 조사에서 비롯되었다.",
-        "아마존은 아직 공식적인 입장을 밝히지 않았다."
+        "로이터 통신이 단독으로 보도했다."
       ],
-      "whyImportant": "이번 소송은 아마존의 유럽 내 세금 정책에 대한 규제 압력을 증가시킬 수 있다.",
-      "importanceRationale": "근거: 이탈리아 검찰이 아마존의 탈세 혐의에 대해 재판을 요청한 것은 아마존의 재정적 위험뿐만 아니라 유럽 내에서의 사업 운영 방식에 대한 잠재적인 정책 변화를 야기할 수 있기 때문이다.",
+      "whyImportant": "이번 소송은 아마존의 세금 정책에 대한 국제적인 감시를 강화할 수 있다.",
+      "importanceRationale": "근거: 이탈리아 검찰이 아마존의 탈세 혐의에 대한 재판을 요청한 것은 아마존의 재무 운영에 대한 잠재적인 정책적 영향을 시사한다.",
       "impactSignals": [],
       "dedupeKey": "amazon_italy_tax_evasion_trial_request",
       "clusterKey": "amazon",
@@ -170,7 +181,7 @@
       "importance": 2,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "The article provides a clear and concise summary of the news event. / 근거부족",
+      "qualityReason": "The article is a concise report from Reuters. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -178,45 +189,13 @@
       "id": "2026-03-13_7",
       "date": "2026-03-13",
       "category": "국제",
-      "title": "구글, AI로 도시 돌발 홍수 24시간 전 예측…규제 이유로 한국은 제외",
+      "title": "미디어텍 칩에서 취약점 발견: 가상자산 지갑 시드 45초 만에 탈취 가능",
       "summary": [
-        "구글이 인공지능을 활용해 도시 돌발 홍수를 24시간 전에 예측하는 기술을 개발했다.",
-        "그러나 규제상의 이유로 한국은 해당 서비스 제공 대상에서 제외되었다."
+        "미디어텍 칩에서 취약점이 발견되어 가상자산 지갑의 시드가 45초 만에 탈취될 수 있다는 보고가 나왔습니다.",
+        "이는 사용자 보안에 심각한 위협이 될 수 있습니다."
       ],
-      "whyImportant": "구글의 AI 기반 홍수 예측 기술은 도시의 안전을 크게 향상시킬 수 있지만, 한국은 규제 때문에 서비스 대상에서 제외되어 아쉽다.",
-      "importanceRationale": "근거: 구글의 AI 홍수 예측 기술의 잠재적 가치와 한국의 규제 환경을 고려함.",
-      "impactSignals": [
-        {
-          "label": "policy",
-          "evidence": "규제 사유로 한국이 서비스 대상에서 제외됨"
-        }
-      ],
-      "dedupeKey": "google-ai-flood-prediction-korea-exclusion",
-      "clusterKey": "24시간전",
-      "matchedTo": null,
-      "sourceName": "연합뉴스 한민족센터",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9CYkpydk5ncWtGd3ZYQV9IMW41TE16cnVfUTkxUFhWU1RDZzVoSjR5TGV0enJjdUVKMjBLZWVLajhmS2tTZlotYlotSEI2YkxoRDdRT0hpQnFhQ1h2M0l2dmlKMWNpWWN2YXpkVnd2aXdrYWx2?oc=5",
-      "publishedAt": "2026-03-12T18:47:14.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 3.5,
-      "importanceRaw": 63,
-      "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 정보가 간결하게 요약되어 있음.",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-03-13_8",
-      "date": "2026-03-13",
-      "category": "국제",
-      "title": "미디어텍 칩에서 취약점 발견: 가상자산 지갑 시드가 45초 만에 탈취될 수 있음",
-      "summary": [
-        "미디어텍 칩에서 취약점이 발견되었습니다.",
-        "이 취약점을 통해 가상자산 지갑의 시드가 45초 만에 탈취될 수 있습니다."
-      ],
-      "whyImportant": "미디어텍 칩을 사용하는 기기의 보안에 심각한 위협이 될 수 있습니다.",
-      "importanceRationale": "근거: 미디어텍 칩의 취약점을 이용해 가상자산 지갑 시드를 빠르게 탈취할 수 있다는 점은 사용자 자산 보호에 직접적인 위험을 초래합니다.",
+      "whyImportant": "미디어텍 칩의 취약점은 가상자산 지갑 보안에 심각한 위협을 초래할 수 있습니다.",
+      "importanceRationale": "근거: 미디어텍 칩의 취약점을 통해 가상자산 지갑 시드가 단시간 내에 탈취될 수 있다는 정보는 사용자 자산 보호에 대한 직접적인 위협을 나타냅니다.",
       "impactSignals": [],
       "dedupeKey": "mediatek_chip_vulnerability_crypto_wallet_seed_theft",
       "clusterKey": "45초",
@@ -229,7 +208,34 @@
       "importance": 2,
       "importanceRaw": 88,
       "qualityLabel": "ok",
-      "qualityReason": "기사의 내용이 명확하고 구체적인 취약점 정보를 제공합니다. / 근거부족",
+      "qualityReason": "기사에 언급된 내용이 명확하고 간결하게 설명되어 있습니다. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-03-13_8",
+      "date": "2026-03-13",
+      "category": "정책",
+      "title": "군의관·공보의 인력난 해법 모색…국회서 제도개선 정책토론회",
+      "summary": [
+        "국회에서 군의관 및 공보의 인력난 해법을 모색하기 위한 제도개선 정책토론회가 열렸다.",
+        "토론회에서는 인력 부족 문제 해결 방안이 논의될 예정이다."
+      ],
+      "whyImportant": "군의관 및 공보의 인력 부족은 의료 서비스 제공에 차질을 초래할 수 있는 중요한 문제이다.",
+      "importanceRationale": "근거: 국회에서 정책토론회가 개최될 정도로 시급한 문제이며, 의료 서비스의 질과 접근성에 직접적인 영향을 미치기 때문이다.",
+      "impactSignals": [],
+      "dedupeKey": "군의관_공보의_인력난_해법_모색_국회",
+      "clusterKey": "공보의",
+      "matchedTo": null,
+      "sourceName": "약사공론",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5LSW1jM2ZhWjRrUWc2ODJzdmx4dFI0UUNWNnI5c2JRS1g1NGxKRDd6NmJTd3JKamdmOFhyeEdRSkVHd1l2ZUNqNGRaeWlQS0psRzY2SUlaWnU2WXdZQkpuV1FWa29EdE9vdmpZTQ?oc=5",
+      "publishedAt": "2026-03-12T12:07:47.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 75,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 본문이 일치하며, 간결하게 요약되어 있음. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -237,16 +243,15 @@
       "id": "2026-03-13_9",
       "date": "2026-03-13",
       "category": "국제",
-      "title": "미국 무역법 301조: 특정 국가 지목 협상, 슈퍼 301조와 차이",
+      "title": "미국 무역법 301조, 특정 국가 지목 협상 방식",
       "summary": [
-        "미국 무역법 301조는 특정 국가를 지목하여 협상하는 방식으로, 슈퍼 301조와는 차이가 있다.",
-        "해당 법안은 미국의 무역 관련 정책 도구로 활용된다.",
-        "자세한 내용은 한겨레 신문 기사를 통해 확인할 수 있다."
+        "미국 무역법 301조는 특정 국가를 지목하여 협상하는 방식으로 진행됩니다.",
+        "이는 슈퍼 301조와는 차이가 있습니다."
       ],
-      "whyImportant": "미국 무역법 301조의 특징과 슈퍼 301조와의 차이점을 이해하는 것이 중요합니다.",
-      "importanceRationale": "근거: 미국 무역법 301조는 미국의 대외 무역 정책에 중요한 영향을 미치며, 특정 국가와의 무역 협상에 활용될 수 있기 때문입니다.",
+      "whyImportant": "미국 무역법 301조의 특징을 이해하는 것이 중요합니다.",
+      "importanceRationale": "근거: 미국이 특정 국가를 대상으로 무역 협상을 진행하는 방식에 대한 이해는 국제 무역 관계에 있어 중요한 요소입니다.",
       "impactSignals": [],
-      "dedupeKey": "미국무역법301조",
+      "dedupeKey": "US_Trade_Act_Section_301",
       "clusterKey": "301조",
       "matchedTo": null,
       "sourceName": "한겨레",
@@ -264,16 +269,43 @@
     {
       "id": "2026-03-13_10",
       "date": "2026-03-13",
+      "category": "국제",
+      "title": "미국, '무역법 301조' 조사 개시…정부 \"관세 15%로 복원 수순\"",
+      "summary": [
+        "미국이 '무역법 301조'에 따른 조사를 개시했다.",
+        "정부는 이에 대해 관세 15%로의 복원 수순으로 보고 있다."
+      ],
+      "whyImportant": "미국의 무역법 301조 조사는 한국 경제에 부정적인 영향을 미칠 수 있다.",
+      "importanceRationale": "근거: 미국의 무역법 301조 조사는 수입 규제 및 관세 인상으로 이어질 수 있으며, 이는 한국의 대미 수출 감소를 초래할 수 있기 때문이다.",
+      "impactSignals": [],
+      "dedupeKey": "trade_law_301_investigation",
+      "clusterKey": "301조",
+      "matchedTo": null,
+      "sourceName": "마켓인",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBSQlVQZ0NINXNVNlNsdHVxUzdybW5yMmF5MkFxUjNMU2VETmZRVHkwY1ZVeVFncnpVV09LbUE3LTJLSElob094Yk5jcVppNlpyYnc4eWw2SGljOVFqUko3NU9OWm52WXlfWFNZbzhRMWUyWlU?oc=5",
+      "publishedAt": "2026-03-12T10:02:28.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 75,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 본문이 일치하며, 내용이 간결하고 명확함. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-03-13_11",
+      "date": "2026-03-13",
       "category": "정책",
       "title": "'한미전략적특별법' 국회 통과…3500억 달러 대미 투자 근거 마련",
       "summary": [
         "'한미전략적특별법'이 국회를 통과했습니다.",
-        "이번 법안 통과로 3500억 달러 규모의 대미 투자 근거가 마련되었습니다."
+        "이 법안은 3500억 달러 규모의 대미 투자에 대한 법적 근거를 마련합니다."
       ],
       "whyImportant": "한미 경제 협력 강화 및 대규모 투자 활성화의 기반을 마련했습니다.",
-      "importanceRationale": "근거: '한미전략적특별법'의 국회 통과로 대규모 대미 투자에 대한 법적 근거가 확보되었기 때문입니다.",
+      "importanceRationale": "근거: '한미전략적특별법'의 국회 통과는 한국의 대미 투자에 대한 명확한 법적 토대를 제공하며, 이는 양국 간 경제 관계를 더욱 공고히 할 수 있습니다.",
       "impactSignals": [],
-      "dedupeKey": "한미전략적특별법_국회_통과_3500억달러_대미_투자_근거_마련",
+      "dedupeKey": "hanmi-strategic-act-passed",
       "clusterKey": "3500억",
       "matchedTo": null,
       "sourceName": "한국방송뉴스",
@@ -289,17 +321,22 @@
       "isBreaking": false
     },
     {
-      "id": "2026-03-13_11",
+      "id": "2026-03-13_12",
       "date": "2026-03-13",
       "category": "정책",
       "title": "응급의료 거주지역 편차 해소 법안 국회 본회의 통과",
       "summary": [
         "응급의료 서비스의 지역적 불균형을 해소하기 위한 법안이 국회 본회의를 통과했습니다.",
-        "이 법안은 응급 의료 접근성을 높이는 데 기여할 것으로 예상됩니다."
+        "이 법안은 응급의료 접근성 향상을 목표로 합니다."
       ],
-      "whyImportant": "응급 의료 서비스의 지역적 불균형 해소에 기여할 수 있습니다.",
-      "importanceRationale": "근거: 법안이 국회를 통과하여 정책적 변화를 가져올 수 있기 때문입니다.",
-      "impactSignals": [],
+      "whyImportant": "응급의료 서비스의 지역적 불균형 해소에 기여할 수 있습니다.",
+      "importanceRationale": "근거: 응급의료 접근성은 국민 건강과 직결되는 중요한 문제이며, 지역 간 편차 해소는 의료 서비스의 형평성을 높이는 데 필수적입니다.",
+      "impactSignals": [
+        {
+          "label": "policy",
+          "evidence": "응급의료 거주지역 편차 해소 법안 국회 본회의 통과"
+        }
+      ],
       "dedupeKey": "응급의료 거주지역 편차 해소 법안 국회 본회의 통과",
       "clusterKey": "거주지역",
       "matchedTo": null,
@@ -308,101 +345,42 @@
       "publishedAt": "2026-03-12T09:22:16.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 2,
+      "importance": 4,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었습니다. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-03-13_12",
-      "date": "2026-03-13",
-      "category": "정책",
-      "title": "정부, ‘정년 65세 연장’ 인권위 권고 수용…단계적 입법 추진",
-      "summary": [
-        "정부가 국가인권위원회의 ‘정년 65세 연장’ 권고를 수용했다.",
-        "정부는 이를 단계적으로 입법 추진할 계획이다."
-      ],
-      "whyImportant": "정년 연장은 고령화 사회에서 노동 시장에 큰 영향을 미칠 수 있는 정책 변화이다.",
-      "importanceRationale": "근거: 정부가 인권위의 권고를 수용하여 정년 연장을 추진하므로, 향후 관련 법규 개정 및 노동 시장에 미치는 영향이 클 것으로 예상된다.",
-      "impactSignals": [],
-      "dedupeKey": "정부, ‘정년 65세 연장’ 인권위 권고 수용…단계적 입법 추진",
-      "clusterKey": "65세",
-      "matchedTo": null,
-      "sourceName": "서울STV뉴스",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE52LVZ3RlhzaDdrZzl2X190X1pHVGdnSGw0SVhtV0RTTHlEbjk1T1dseXAtQW5vWUZGb0J5VTR2M1hFWUVkNkxKVjgyei11N0trS1hUMjlFaGZGcXdlWlNMZFd0S0ZfZjg?oc=5",
-      "publishedAt": "2026-03-12T01:42:39.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 75,
-      "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 핵심 내용을 잘 요약했습니다. / 근거부족",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었습니다.",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-03-13_13",
       "date": "2026-03-13",
-      "category": "기술",
-      "title": "AI, 새로운 '내부자 위협'으로 부상…한국 74%, 최대 데이터 보안 위험으로 간주",
+      "category": "경제",
+      "title": "어도비, 'SW 종말론' 속 역대 최고 매출 기록…CEO는 2선 퇴진 예고",
       "summary": [
-        "AI가 새로운 '내부자 위협'으로 부상하고 있다.",
-        "한국에서는 74%가 AI를 최대 데이터 보안 위험으로 간주한다."
+        "어도비가 소프트웨어 종말론 속에서도 역대 최고 매출을 달성했다.",
+        "CEO는 2선 퇴진을 예고했다."
       ],
-      "whyImportant": "AI를 이용한 내부자 위협이 증가함에 따라 데이터 보안에 대한 우려가 커지고 있다.",
-      "importanceRationale": "근거: 한국에서 AI가 데이터 보안에 미치는 위험에 대한 인식이 높다는 점을 강조하고 있다.",
+      "whyImportant": "어도비의 최고 매출 달성은 소프트웨어 산업의 건재함을 보여주는 지표가 될 수 있다.",
+      "importanceRationale": "근거: 어도비의 매출 증가는 소프트웨어 시장의 수요가 여전히 높다는 것을 시사하며, CEO의 퇴진은 경영 전략 변화 가능성을 내포한다.",
       "impactSignals": [],
-      "dedupeKey": "AI_insider_threat_korea_security",
-      "clusterKey": "내부자",
+      "dedupeKey": "adobe-record-revenue-ceo-resignation",
+      "clusterKey": "2선",
       "matchedTo": null,
-      "sourceName": "테크월드뉴스",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5NNkFjZTdKcXhvVTNNVEdNMjJOU1k5RTA4d1ZYQTZTTFR1YXZ4ZFdkOFgtWnlQWlljZWNnTHZuRFJSa05lVEJ6eVhxZmlRTEVFcEpNUnZNVHlHbE5oS2VxQTQ4UE0tRGp4?oc=5",
-      "publishedAt": "2026-03-12T00:00:00.000Z",
+      "sourceName": "연합뉴스 한민족센터",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA3X3F5VlRmT0dMTDNudzh6NGdSNU9pSEJ5cWlwRmQtYjJqUmY4V1l6UmVIY2xMNXJ2M0dJVGxpV0puOHNyZzg0NTVpczZRSW5LaTd6d0RKUmNtczRjNTVsaWloUF9HZ1lmaFE2MUVhUmJQcTlS?oc=5",
+      "publishedAt": "2026-03-12T21:30:24.000Z",
       "readTimeSec": 10,
       "status": "kept",
       "importance": 2,
-      "importanceRaw": 75,
+      "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 핵심 내용을 잘 요약했습니다. / 근거부족",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약됨. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-03-13_14",
-      "date": "2026-03-13",
-      "category": "경제",
-      "title": "오일-드리 실적: 기록적인 매출, 폭풍우에도 끄떡없지만 마진 압박이 다가옴",
-      "summary": [
-        "오일-드리는 기록적인 매출을 달성했음.",
-        "그러나 마진 압박이 커지고 있음."
-      ],
-      "whyImportant": "매출 호조에도 불구하고 수익성 문제가 발생할 수 있음을 시사합니다.",
-      "importanceRationale": "근거: 기사 제목에서 매출 호조와 마진 압박을 동시에 언급하고 있기 때문입니다.",
-      "impactSignals": [
-        {
-          "label": "market-demand",
-          "evidence": "기록적인 매출은 시장 수요가 높다는 것을 의미"
-        }
-      ],
-      "dedupeKey": "oil-dri-earnings-record-sales-defy-storms-but-margin-pressure-looms",
-      "clusterKey": "but",
-      "matchedTo": null,
-      "sourceName": "Trefis",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPbnhPSThSRExWOXk0clZST2Z4QXdPME5RYjRRRzNOeDQ1R0wzbm9LcEhrWVEtVHk4RWpneWh0Z2JwV3NjTF9Eakg3Y3RlVDJlQnBpYmNSeElKUVQ1SVU2N05uNGRjNDFFbDFhUnJOcWRpUEdvSzhvcTZZWXI4QlJiRFdaVjVPejZ1Mm9seFVNR2J3OG54dWFpSDZoUjRUcmhSbS1DeGNuY0gyby1nakZETTBRVnhnRjM3MW9UTXJkR0N2Nm1SbFZoVEZianBlMXZwX0E?oc=5",
-      "publishedAt": "2026-03-12T17:48:45.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 3,
-      "importanceRaw": 50,
-      "qualityLabel": "ok",
-      "qualityReason": "제목과 텍스트가 일치하며, 간결하게 요약되어 있습니다.",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-03-13_15",
       "date": "2026-03-13",
       "category": "기술",
       "title": "AI, 파일 구조 분석으로 제로데이 공격 예측... 기업 파일 보안 위협 사전 탐지 기술",
@@ -412,14 +390,14 @@
         "지티티코리아에서 개발했습니다."
       ],
       "whyImportant": "기업의 파일 보안 위협을 사전에 탐지하여 제로데이 공격으로 인한 피해를 줄일 수 있습니다.",
-      "importanceRationale": "근거: AI 기반의 파일 구조 분석을 통해 알려지지 않은 공격(제로데이 공격)을 예측하고 기업의 보안 위협을 사전에 탐지할 수 있다는 내용에 기반함.",
+      "importanceRationale": "근거: 제로데이 공격은 보안 패치가 나오기 전에 발생하는 공격으로, 사전 탐지가 매우 중요합니다. AI를 이용한 파일 구조 분석은 새로운 유형의 공격을 탐지하는 데 효과적일 수 있습니다.",
       "impactSignals": [
         {
           "label": "security",
-          "evidence": "AI를 이용한 파일 구조 분석으로 제로데이 공격 예측 및 기업 보안 위협 사전 탐지"
+          "evidence": "AI를 이용한 파일 구조 분석으로 제로데이 공격 예측 및 기업 파일 보안 위협 사전 탐지"
         }
       ],
-      "dedupeKey": "AI가 파일 구조 분석해 제로데이 공격 예측...기업 파일 보안 위협 사전 탐지 기술",
+      "dedupeKey": "AI가 파일 구조 분석해 제로데이 공격 예측",
       "clusterKey": "ai가",
       "matchedTo": null,
       "sourceName": "지티티코리아",
@@ -430,52 +408,50 @@
       "importance": 4,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "기사 내용이 명확하고 간결하며, 기술의 핵심 내용을 잘 요약했습니다.",
+      "qualityReason": "기사 내용이 명확하고, 기술의 중요성을 잘 설명하고 있습니다.",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-03-13_15",
+      "date": "2026-03-13",
+      "category": "경제",
+      "title": "[생생한 주식쇼 생쇼] 스페이스X 상장 임박, 우주항공 관련주 랠리 전망",
+      "summary": [
+        "스페이스X의 상장이 임박했으며, 이로 인해 우주항공 관련 주식의 랠리가 예상됩니다."
+      ],
+      "whyImportant": "스페이스X 상장 가능성이 우주항공 관련 주식 시장에 미치는 영향",
+      "importanceRationale": "근거: 스페이스X의 상장 임박 소식이 우주항공 관련 주식의 상승을 이끌 수 있다는 전망이 제시됨.",
+      "impactSignals": [],
+      "dedupeKey": "spacex-ipo-rally",
+      "clusterKey": "관련주",
+      "matchedTo": null,
+      "sourceName": "매일경제TV",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9MVnIxdElTb2owbjlBZUN5Q2JJanJPcXo3Y3o4cHp4Wk9YX1JiSVJVNXk5eFpJLUl3dkxURE9sYXhLNXlja2gxUXUtaXZCTDlnbzc1bEZ1QTV0MDZpaXpvUmFFRVdENVVQ?oc=5",
+      "publishedAt": "2026-03-12T05:00:00.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 63,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약됨. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-03-13_16",
       "date": "2026-03-13",
-      "category": "경제",
-      "title": "Google의 Wiz 320억 달러 인수, 막대한 수익을 올리는 투자자들",
-      "summary": [
-        "Wiz가 Google에 320억 달러에 매각되면서 막대한 수익을 올리는 투자자들이 등장했다.",
-        "이번 인수는 사이버 보안 분야에서 큰 파장을 일으키고 있다.",
-        "투자자들은 이번 거래를 통해 상당한 이익을 얻을 것으로 예상된다."
-      ],
-      "whyImportant": "Google의 Wiz 인수는 사이버 보안 시장에 큰 영향을 미치며, 투자자들에게 막대한 수익을 가져다주기 때문에 중요합니다.",
-      "importanceRationale": "근거: Wiz의 320억 달러 규모의 Google 매각은 사이버 보안 산업의 주요 사건이며, 관련 투자자들에게 상당한 재정적 이익을 제공합니다.",
-      "impactSignals": [],
-      "dedupeKey": "WizGoogleAcquisitionInvestors",
-      "clusterKey": "billion",
-      "matchedTo": null,
-      "sourceName": "CTech",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9xQ2l3MS1BNE9CM2dKNm9wSmxzTG9BZW80ZHpsQkM2eGRWaDF0UzFoR29ZYVY3dWUwOVJIeXFqVF9QdjQyQjd6Z1lPWnRzOC1Ka1k0R0xEZ2xwN3JWb2lXU1RFREI3RDA?oc=5",
-      "publishedAt": "2026-03-11T12:49:00.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 75,
-      "qualityLabel": "ok",
-      "qualityReason": "The article provides a clear and concise overview of the financial implications of the acquisition. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-03-13_17",
-      "date": "2026-03-13",
       "category": "국제",
       "title": "정부의 '와트' 표기 권고에도 중국 로봇청소기, 신제품에 '파스칼' 표기",
       "summary": [
-        "정부의 와트(W) 표기 권고에도 불구하고 중국 로봇청소기 업체들이 신제품에 파스칼(Pa) 단위를 사용하고 있다.",
+        "정부의 와트(W) 표기 권고에도 불구하고 중국 로봇청소기 업체들이 신제품에 파스칼(Pa) 표기를 사용하고 있다.",
         "이는 소비자들이 흡입력을 오인하도록 만들 수 있다는 지적이 나온다.",
-        "소비자들은 와트와 파스칼의 차이를 정확히 인지하기 어려워 혼란을 겪을 수 있다."
+        "현재 로봇청소기의 흡입력은 와트(W), 파스칼(Pa), AW(Air Watt) 등 다양한 단위로 표기되고 있다."
       ],
-      "whyImportant": "소비자 혼란을 야기할 수 있는 제품 표기 문제에 대한 정부의 정책적 노력이 미흡함을 보여준다.",
-      "importanceRationale": "근거: 정부의 권고가 제대로 이행되지 않아 소비자들이 제품 성능을 오인할 가능성이 있다. 이는 시장의 투명성을 저해하고 소비자 피해를 야기할 수 있다.",
+      "whyImportant": "소비자 혼란을 야기할 수 있는 로봇청소기 흡입력 표기 문제에 대한 정부의 정책적 노력이 필요하다.",
+      "importanceRationale": "근거: 정부의 와트 표기 권고에도 불구하고 중국 업체들이 파스칼 표기를 고수하는 것은 소비자 오인을 유발할 수 있으며, 이는 시장의 투명성을 저해한다. 따라서 정부의 정책적 개입 필요성이 제기된다.",
       "impactSignals": [],
-      "dedupeKey": "watt-pascal-robot-vacuum",
+      "dedupeKey": "watt_pascal_robot_vacuum",
       "clusterKey": "권고했지만",
       "matchedTo": null,
       "sourceName": "소비자가 만드는 신문",
@@ -486,21 +462,21 @@
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "기사 내용이 명확하고 간결하며, 핵심 내용을 잘 요약했다. / 근거부족",
+      "qualityReason": "기사의 내용이 명확하고 간결하며, 핵심 정보를 잘 전달하고 있다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-03-13_18",
+      "id": "2026-03-13_17",
       "date": "2026-03-13",
       "category": "에너지",
       "title": "Pure DC, 아일랜드 더블린 데이터 센터 캠퍼스에 천연 가스 마이크로그리드 구축 계획",
       "summary": [
-        "Pure DC는 아일랜드 더블린 데이터 센터 캠퍼스에 천연 가스 마이크로그리드를 구축할 계획이다.",
-        "이는 데이터 센터의 전력 공급 안정성을 높이고 비용을 절감하기 위한 조치로 보인다."
+        "Pure DC가 아일랜드 더블린 데이터 센터 캠퍼스에 천연 가스 마이크로그리드를 구축할 계획이다.",
+        "이는 데이터 센터의 전력 공급 안정성을 높이고 비용을 절감하기 위한 것으로 보인다."
       ],
       "whyImportant": "데이터 센터의 에너지 공급 방식 변화를 보여주는 사례",
-      "importanceRationale": "근거: 데이터 센터의 에너지 공급 안정성은 매우 중요하며, 마이크로그리드 구축은 이러한 안정성을 확보하는 데 기여할 수 있다.",
+      "importanceRationale": "근거: 데이터 센터의 에너지 효율성과 안정성은 중요한 고려 사항이며, 마이크로그리드 구축은 이러한 요구를 충족시키는 데 기여할 수 있다.",
       "impactSignals": [],
       "dedupeKey": "pure-dc-dublin-microgrid",
       "clusterKey": "center",
@@ -513,7 +489,39 @@
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 정보가 명확하다. / 근거부족",
+      "qualityReason": "제목과 본문이 일치하며, 정보가 명확함 / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-03-13_18",
+      "date": "2026-03-13",
+      "category": "기술",
+      "title": "플로리다 데이터 센터, 자체 발전으로 운영될 정도로 큰 규모",
+      "summary": [
+        "플로리다에 건설될 데이터 센터는 자체적으로 전기를 생산하여 운영될 정도로 큰 규모가 될 예정이다.",
+        "이 데이터 센터는 상당한 자본 지출(CAPEX)을 필요로 할 것으로 예상된다."
+      ],
+      "whyImportant": "대규모 데이터 센터 건설은 지역 경제에 미치는 영향이 크다.",
+      "importanceRationale": "근거: 데이터 센터 건설에는 상당한 자본 투자가 필요하며, 이는 지역 경제 활성화에 기여할 수 있다. 또한 자체 발전 시스템 구축은 에너지 인프라에 대한 투자로 이어진다.",
+      "impactSignals": [
+        {
+          "label": "capex",
+          "evidence": "대규모 데이터 센터 건설 및 자체 발전 시스템 구축"
+        }
+      ],
+      "dedupeKey": "florida-datacenter-self-electricity",
+      "clusterKey": "big",
+      "matchedTo": null,
+      "sourceName": "Treasure Coast News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQbDk5MEthX1laTzVNckhQN2wtTDRpV3RJN0pBMlJFV3pUYmtrRzY5bzROUEZ3RmRjeldnV3FwZkhLOVZVNXBMaURSMWZacDJQYng3SEFTdkdNVHBxV3IyVElDQ2I5Rkk4Q2FrX2N5TTdVQUxxbkNONzI1MHQ2Um9tSFVhMHU4Z3lIYVVKU0IzYVJoeHJ4N1QtYkFrOXZyUzRTZXJJcTRnYjdTVnZiWWdDeTJUSFdJOFU1QVVhb3ZiVVdvVzVZVkhTVE1zZk4xaVp4aUVxU1NDOEJRQWljdkU3TA?oc=5",
+      "publishedAt": "2026-03-12T14:25:00.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 3.5,
+      "importanceRaw": 63,
+      "qualityLabel": "ok",
+      "qualityReason": "The article provides a clear and concise overview of the data center project.",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -521,26 +529,31 @@
       "id": "2026-03-13_19",
       "date": "2026-03-13",
       "category": "정책",
-      "title": "군의관·공보의 인력난 해법 모색…국회서 제도개선 정책토론회",
+      "title": "국회 산자위, '변리사·의뢰인의 비밀유지권' 및 '변리사 감정업무 절차' 규정 통과",
       "summary": [
-        "국회에서 군의관과 공보의 인력난 해법을 모색하기 위한 제도개선 정책토론회가 열렸다.",
-        "토론회에서는 인력 부족 문제 해결 방안이 논의될 예정이다."
+        "국회 산업통상자원중소벤처기업위원회에서 '변리사·의뢰인의 비밀유지권'과 '변리사 감정업무 절차' 관련 규정이 통과되었습니다.",
+        "이번 규정은 지식재산 기반 혁신 성장에 기여할 것으로 기대됩니다."
       ],
-      "whyImportant": "군의관 및 공보의 인력 부족은 의료 서비스 제공에 차질을 초래할 수 있는 중요한 문제이다.",
-      "importanceRationale": "근거: 군의관과 공보의 인력난은 공공 의료 시스템 유지에 필수적인 요소이며, 이들의 부족은 국민 건강에 직접적인 영향을 미칠 수 있다.",
-      "impactSignals": [],
-      "dedupeKey": "군의관·공보의 인력난 해법 모색…국회서 제도개선 정책토론회",
-      "clusterKey": "공보의",
+      "whyImportant": "변리사와 의뢰인 간의 비밀유지권 보장 및 감정 업무 절차 명확화는 지식재산 분야의 신뢰성을 높이고 혁신 성장을 촉진할 수 있습니다.",
+      "importanceRationale": "근거: 변리사-의뢰인 간 비밀유지 및 감정 절차 규정은 지식재산 기반 혁신 성장에 기여할 것으로 예상됩니다.",
+      "impactSignals": [
+        {
+          "label": "policy",
+          "evidence": "국회 산자위 통과로 정책적 변화가 예상됨"
+        }
+      ],
+      "dedupeKey": "변리사·의뢰인의 비밀유지권, 변리사 감정업무 절차 국회 산자위 통과",
+      "clusterKey": "감정업무",
       "matchedTo": null,
-      "sourceName": "약사공론",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5LSW1jM2ZhWjRrUWc2ODJzdmx4dFI0UUNWNnI5c2JRS1g1NGxKRDd6NmJTd3JKamdmOFhyeEdRSkVHd1l2ZUNqNGRaeWlQS0psRzY2SUlaWnU2WXdZQkpuV1FWa29EdE9vdmpZTQ?oc=5",
-      "publishedAt": "2026-03-12T12:07:47.000Z",
+      "sourceName": "IPDaily",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxPU1l5eG5BX0hQV1RDTEpPWWZXOHdySlR0Nko0YjRMY0FESE9KWFhyZmh1RWtwYlR2RUEtWE1BejBJRTliT1NGb0FXNjFxazk5TzN3REVOdWw4UExRcDkta3p1UV9sM2pVajlIYlMzVV9sb0JaaFBrc0E3NFdwNWNJdkVUYWpXU3dZU3g0a0RlcHlFSTRXS0RibDRXOWpDSFdPQzBjM1dlOGdhUW1GcWgzY2VHWkNxeU4zU1JvUzE4X0t2TmhTVUdzbXJfOUdFZ1p0dHo2UEtLQmFld1RXMHNlUi1TZzRmVU5sVklEZ3o3NGNBRnBiaTVBRHhDbEZfNE9DQmk2bk9XS1E0WUhaR1RGN1p5a05SWkVIVi13Q091dTRpeks1TUw4OG9SVTgtR3lmVVZjRTBHaVI4NnFEaGRkSENTQ3JFQS1w?oc=5",
+      "publishedAt": "2026-03-12T08:47:53.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 2,
+      "importance": 3.5,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "기사 내용이 명확하고 간결하며, 핵심 내용을 잘 전달하고 있다. / 근거부족",
+      "qualityReason": "제목과 본문이 일치하며, 간결하게 요약되었습니다.",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -550,15 +563,15 @@
       "category": "기술",
       "title": "아마존, AI 도입 후 잇단 서비스 장애 발생…“운영 모델 재설계 필요” 지적",
       "summary": [
-        "아마존이 인공지능(AI) 도입 이후 잇따른 서비스 장애를 겪고 있다는 지적이 나왔다.",
+        "아마존이 인공지능(AI) 도입 후 잇따른 서비스 장애를 겪고 있다는 지적이 나왔다.",
         "전문가들은 아마존의 운영 모델 재설계 필요성을 강조했다."
       ],
-      "whyImportant": "아마존의 서비스 안정성 문제가 부각되고 있으며, 이는 기업 운영 모델에 대한 근본적인 재검토를 요구하는 상황이다.",
-      "importanceRationale": "근거: 아마존은 클라우드 서비스의 주요 제공업체로서, 서비스 장애는 광범위한 사용자에게 영향을 미칠 수 있다. AI 도입 후 발생한 잇따른 장애는 시스템의 안정성에 대한 우려를 증폭시킨다.",
+      "whyImportant": "아마존의 서비스 안정성 문제와 AI 도입 전략에 대한 우려를 제기합니다.",
+      "importanceRationale": "근거: 아마존의 서비스 장애는 사용자 경험에 직접적인 영향을 미치며, AI 도입 전략의 재검토 필요성을 시사합니다.",
       "impactSignals": [
         {
           "label": "infra",
-          "evidence": "AI 도입 후 서비스 장애 발생은 인프라 운영 모델 재설계 필요성을 시사한다."
+          "evidence": "아마존의 AI 도입 후 서비스 장애 발생"
         }
       ],
       "dedupeKey": "amazon_ai_service_disruptions",
@@ -572,7 +585,7 @@
       "importance": 3.5,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 핵심 내용을 잘 반영하고 있다.",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었습니다.",
       "isBriefing": false,
       "isBreaking": false
     }
