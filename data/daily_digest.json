@@ -3,7 +3,7 @@
   "selectionCriteria": "① 내일도 영향이 남는 이슈 ② 과도한 감정 소모 제외 ③ 어제와 중복되는 뉴스 제외",
   "editorNote": "이 뉴스는 클릭 수가 아니라 오늘 이후에도 남는 정보만 기준으로 편집했습니다.",
   "question": "정보를 덜 보는 것이 오히려 더 똑똑한 소비일까?",
-  "lastUpdatedAt": "2026-03-12T13:11:54.795+09:00",
+  "lastUpdatedAt": "2026-03-12T14:49:28.472+09:00",
   "items": [
     {
       "id": "2026-03-12_1",
@@ -12,10 +12,10 @@
       "title": "엔비디아, 오픈 웨이트 AI 모델 구축에 260억 달러 투자",
       "summary": [
         "엔비디아가 오픈 웨이트 AI 모델 구축에 260억 달러를 투자할 계획이다.",
-        "이는 엔비디아의 투자 관련 서류에 명시된 내용이다."
+        "이는 엔비디아의 AI 기술 경쟁력 강화 전략의 일환으로 보인다."
       ],
-      "whyImportant": "AI 모델 개발 경쟁 심화 및 엔비디아의 AI 시장 영향력 확대",
-      "importanceRationale": "근거: 엔비디아가 대규모 투자를 통해 오픈 웨이트 AI 모델 개발에 참여함으로써, AI 기술 발전과 시장 경쟁에 중요한 영향을 미칠 수 있다.",
+      "whyImportant": "AI 모델 개발 경쟁 심화",
+      "importanceRationale": "근거: 엔비디아의 대규모 투자 발표는 AI 모델 개발 경쟁이 더욱 치열해질 것임을 시사한다.",
       "impactSignals": [
         {
           "label": "capex",
@@ -41,50 +41,17 @@
       "id": "2026-03-12_2",
       "date": "2026-03-12",
       "category": "정책",
-      "title": "3월 아파트 입주 전망 하락: 주택 시장 규제 강화 우려 반영",
-      "summary": [
-        "3월 아파트 입주 전망이 하락했다.",
-        "이는 주택 시장 규제 강화에 대한 우려가 반영된 결과이다."
-      ],
-      "whyImportant": "아파트 입주 전망은 주택 시장의 건전성을 나타내는 지표 중 하나이다.",
-      "importanceRationale": "근거: 규제 강화 우려가 입주 전망에 직접적인 영향을 미치고 있으며, 이는 시장 심리에 중요한 변화가 있음을 시사한다.",
-      "impactSignals": [
-        {
-          "label": "policy",
-          "evidence": "주택 시장 규제 강화 우려가 입주 전망 하락의 원인으로 지목됨"
-        }
-      ],
-      "dedupeKey": "20240503_아파트입주전망하락",
-      "clusterKey": "3월",
-      "matchedTo": null,
-      "sourceName": "연합뉴스 한민족센터",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBHTnYzY3RqcG13Y0hINmlDWmhwQnBYRnpQYWtqZGpEZktGSjJYWFBoX1ZfODJJcjJFaHBFSXFvNjZqd2N4bjlYMWFPQzIzYVJhRjFPS1U0SjNjeVo0eGtJUXZQVFhjcEpLRkJNV21YaEFnYU9U?oc=5",
-      "publishedAt": "2026-03-12T02:00:03.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 3.5,
-      "importanceRaw": 63,
-      "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 핵심 내용을 잘 반영하고 있다.",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-03-12_3",
-      "date": "2026-03-12",
-      "category": "정책",
       "title": "루이빌 도시 연맹, 데이터 센터 에너지 비용 지불 법안 지지",
       "summary": [
-        "루이빌 도시 연맹이 데이터 센터의 에너지 비용 지불을 의무화하는 법안을 지지하고 있다.",
-        "이 법안은 데이터 센터가 사용하는 에너지에 대한 비용을 지불하도록 요구한다.",
-        "이는 데이터 센터의 에너지 사용에 대한 공정한 부담을 목표로 한다."
+        "루이빌 도시 연맹이 데이터 센터에 에너지 비용을 지불하도록 하는 법안을 지지합니다.",
+        "이 법안은 데이터 센터의 에너지 사용에 대한 책임을 강화하는 것을 목표로 합니다."
       ],
       "whyImportant": "데이터 센터 에너지 비용 관련 정책 변화 가능성",
-      "importanceRationale": "근거: 루이빌 도시 연맹의 지지는 해당 법안의 통과 가능성을 높이고, 데이터 센터의 에너지 비용 부담에 대한 정책 변화를 촉발할 수 있다.",
+      "importanceRationale": "근거: 루이빌 도시 연맹이 데이터 센터 에너지 비용 지불 법안을 지지함으로써, 관련 정책 변화가 예상됩니다.",
       "impactSignals": [
         {
           "label": "policy",
-          "evidence": "데이터 센터 에너지 비용 지불 의무화 법안 추진"
+          "evidence": "데이터 센터 에너지 비용 지불 법안에 대한 지지"
         }
       ],
       "dedupeKey": "louisville_urban_league_data_center_energy_bill",
@@ -95,25 +62,25 @@
       "publishedAt": "2026-03-11T23:56:00.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 3.5,
-      "importanceRaw": 63,
+      "importance": 3,
+      "importanceRaw": 50,
       "qualityLabel": "ok",
-      "qualityReason": "기사 내용이 명확하고 간결하며, 핵심 정보를 잘 전달하고 있다.",
+      "qualityReason": "기사 내용이 명확하고 간결함",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-03-12_4",
+      "id": "2026-03-12_3",
       "date": "2026-03-12",
-      "category": "에너지",
-      "title": "데이터 센터가 전기 과잉을 초래하는 이유",
+      "category": "기술",
+      "title": "데이터 센터가 전기 풍요를 창출하는 이유",
       "summary": [
-        "캘리포니아 정책 센터에 따르면 데이터 센터가 전기 과잉을 초래할 것이라고 합니다."
+        "캘리포니아 정책 센터에 따르면 데이터 센터가 전기 풍요를 창출할 것이라고 합니다."
       ],
-      "whyImportant": "데이터 센터의 에너지 소비 증가 추세에 대한 논의를 촉발합니다.",
-      "importanceRationale": "근거: 데이터 센터의 전력 사용량 증가가 에너지 정책 및 관련 투자를 필요로 함을 시사합니다.",
+      "whyImportant": "데이터 센터의 에너지 사용량 증가에 대한 논의를 촉발합니다.",
+      "importanceRationale": "근거: 데이터 센터가 미래에 전기 공급에 미치는 영향에 대한 논의를 제기하므로 중요합니다.",
       "impactSignals": [],
-      "dedupeKey": "data_centers_electricity_abundance",
+      "dedupeKey": "data-centers-electricity-abundance",
       "clusterKey": "abundance",
       "matchedTo": null,
       "sourceName": "California Policy Center",
@@ -124,21 +91,21 @@
       "importance": 2,
       "importanceRaw": 50,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며 간결하게 요약되었습니다. / 근거부족",
+      "qualityReason": "제목과 내용이 일치하며, 정보가 명확합니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-03-12_5",
+      "id": "2026-03-12_4",
       "date": "2026-03-12",
-      "category": "기술",
+      "category": "경제",
       "title": "라인플러스, '실행형 AI'로 기업 매출 성장 지원… B2B 플랫폼 '액트엔진 AI' 공개",
       "summary": [
         "라인플러스가 '실행형 AI'를 통해 기업 매출 성장을 지원한다.",
         "B2B 플랫폼 '액트엔진 AI'를 공개했다."
       ],
       "whyImportant": "라인플러스의 새로운 B2B 플랫폼은 기업의 AI 활용 및 매출 성장에 기여할 수 있다.",
-      "importanceRationale": "근거: 라인플러스가 기업 매출 성장을 지원하는 B2B 플랫폼 '액트엔진 AI'를 공개했다는 사실은 기업의 AI 투자 및 활용에 대한 새로운 가능성을 제시한다.",
+      "importanceRationale": "근거: 라인플러스가 기업 매출 성장을 지원하는 B2B 플랫폼 '액트엔진 AI'를 공개했다는 사실은 기업의 AI 기술 도입과 활용에 대한 새로운 가능성을 제시하며, 이는 관련 시장에 중요한 영향을 미칠 수 있다.",
       "impactSignals": [],
       "dedupeKey": "라인플러스, '실행형 AI'로 기업 매출 성장 지원… B2B 플랫폼 '액트엔진 AI' 공개",
       "clusterKey": "b2b",
@@ -151,21 +118,22 @@
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되어 있습니다. / 근거부족",
+      "qualityReason": "The article provides a clear and concise overview of Line Plus's new B2B platform. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-03-12_6",
+      "id": "2026-03-12_5",
       "date": "2026-03-12",
       "category": "경제",
-      "title": "데이터 센터 수요 증가, 에너지 비용 상승을 통해 인플레이션 가중할 수도",
+      "title": "데이터 센터 수요 증가, 에너지 비용 상승을 통해 인플레이션 심화 가능성",
       "summary": [
-        "데이터 센터 수요 증가는 에너지 비용 상승을 유발할 수 있습니다.",
-        "이는 결과적으로 인플레이션을 가중시키는 요인으로 작용할 수 있습니다."
+        "데이터 센터 수요 증가로 인해 에너지 비용이 상승하고 인플레이션이 심화될 수 있다는 분석이 나왔다.",
+        "데이터 센터의 에너지 소비 증가는 경제 전반의 물가 상승 압력으로 이어질 수 있다.",
+        "특히 데이터 센터 투자가 활발한 지역에서는 에너지 비용 상승이 더욱 두드러질 수 있다."
       ],
-      "whyImportant": "데이터 센터의 에너지 소비 증가는 경제 전반에 걸쳐 파급 효과를 가져올 수 있기 때문입니다.",
-      "importanceRationale": "근거: 데이터 센터 수요 증가는 에너지 비용 상승을 통해 인플레이션에 영향을 미칠 수 있다는 점을 지적합니다.",
+      "whyImportant": "데이터 센터 수요 증가가 에너지 비용 상승을 통해 인플레이션에 미치는 잠재적 영향에 대한 분석이므로 중요합니다.",
+      "importanceRationale": "근거: 데이터 센터 수요 증가는 에너지 소비 증가로 이어져 에너지 비용 상승을 유발하고, 이는 다시 인플레이션 압력으로 작용할 수 있다는 점을 지적합니다.",
       "impactSignals": [],
       "dedupeKey": "rising_data_center_demand_inflation",
       "clusterKey": "에너지/add",
@@ -178,20 +146,20 @@
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 정보가 명확합니다. / 근거부족",
+      "qualityReason": "제목과 내용이 일치하며, 주장을 뒷받침하는 정보가 포함되어 있습니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-03-12_7",
+      "id": "2026-03-12_6",
       "date": "2026-03-12",
       "category": "국제",
       "title": "LS, 북미·유럽 전력 인프라 수주 확대...전력망·AI 수요에 실적 성장",
       "summary": [
-        "LS가 북미와 유럽의 전력 인프라 수주를 확대하고 있다.",
+        "LS가 북미와 유럽에서 전력 인프라 수주를 확대하고 있다.",
         "전력망과 AI 수요 증가에 힘입어 실적 성장이 기대된다."
       ],
-      "whyImportant": "LS의 북미 및 유럽 전력 인프라 수주 확대는 회사의 성장 동력 확보에 중요한 의미를 가진다.",
+      "whyImportant": "LS의 북미·유럽 전력 인프라 수주 확대는 회사의 성장 동력 확보에 중요한 의미를 가진다.",
       "importanceRationale": "근거: 전력망 및 AI 수요 증가에 따른 LS의 실적 성장 가능성을 시사한다.",
       "impactSignals": [],
       "dedupeKey": "LS_북미_유럽_전력_인프라_수주_확대",
@@ -205,12 +173,12 @@
       "importance": 2,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 내용이 일치하며, 간결하게 요약되어 있음. / 근거부족",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되어 있음. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-03-12_8",
+      "id": "2026-03-12_7",
       "date": "2026-03-12",
       "category": "정책",
       "title": "한은, 통화신용정책 수시 국회 보고 요구에 '난색'",
@@ -231,28 +199,27 @@
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었습니다. / 근거부족",
+      "qualityReason": "기사 내용이 간결하고 명확합니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-03-12_9",
+      "id": "2026-03-12_8",
       "date": "2026-03-12",
       "category": "경제",
       "title": "오하이오주의 데이터 센터 수요에 대한 '간보기' 접근 방식",
       "summary": [
-        "오하이오주가 데이터 센터 수요에 대해 신중한 접근 방식을 취하고 있다는 내용입니다.",
-        "Politico에 보도되었습니다."
+        "오하이오주가 데이터 센터 수요에 대해 신중한 접근 방식을 취하고 있다는 내용입니다."
       ],
-      "whyImportant": "오하이오주의 데이터 센터 투자 전략에 대한 통찰력을 제공합니다.",
-      "importanceRationale": "근거: 데이터 센터 투자는 지역 경제에 상당한 영향을 미치므로, 오하이오주의 신중한 접근 방식은 투자 결정 과정에 대한 중요한 정보를 제공합니다.",
+      "whyImportant": "오하이오주의 데이터 센터 투자 전략을 파악하는 데 중요합니다.",
+      "importanceRationale": "근거: 오하이오주의 데이터 센터 수요에 대한 접근 방식은 향후 투자 및 시장 수요에 영향을 미칠 수 있습니다.",
       "impactSignals": [
         {
           "label": "market-demand",
-          "evidence": "데이터 센터 수요에 대한 오하이오주의 접근 방식은 시장 수요에 대한 전략적 고려를 반영합니다."
+          "evidence": "오하이오주의 신중한 접근 방식은 데이터 센터 시장 수요에 영향을 줄 수 있습니다."
         }
       ],
-      "dedupeKey": "OhioDataCenterDemandPolitico",
+      "dedupeKey": "ohio_data_center_demand_tire_kicker",
       "clusterKey": "approach",
       "matchedTo": null,
       "sourceName": "Politico",
@@ -263,39 +230,39 @@
       "importance": 3,
       "importanceRaw": 50,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 텍스트가 일치하며, 내용이 간결하고 명확합니다.",
+      "qualityReason": "기사 제목과 내용이 일치하며, 정보가 명확합니다.",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-03-12_9",
+      "date": "2026-03-12",
+      "category": "국제",
+      "title": "미디어텍 칩 취약점 발견: 가상자산 지갑 시드 45초 만에 탈취 가능",
+      "summary": [
+        "미디어텍 칩에서 취약점이 발견되었습니다.",
+        "이 취약점을 이용하면 가상자산 지갑의 시드를 45초 만에 탈취할 수 있습니다."
+      ],
+      "whyImportant": "미디어텍 칩을 사용하는 기기의 보안에 심각한 위협이 될 수 있습니다.",
+      "importanceRationale": "근거: 미디어텍 칩의 취약점을 통해 가상자산 지갑 시드가 빠르게 탈취될 수 있다는 점은 사용자 자산 보안에 직접적인 위험을 초래합니다.",
+      "impactSignals": [],
+      "dedupeKey": "mediatek_chip_vulnerability_crypto_wallet_seed_theft",
+      "clusterKey": "45초",
+      "matchedTo": null,
+      "sourceName": "블루밍비트",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB0ZEFuUUxYelhIRWc4Ull6V2ZVTjV3enBLdnlYSF9nX2ZjSU1uMEVTenpzME0zai04Ri1UaTVLNDJsUGxhNUd6LTBsbVRXVXNO?oc=5",
+      "publishedAt": "2026-03-12T04:38:20.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 88,
+      "qualityLabel": "ok",
+      "qualityReason": "기사 제목과 내용이 일치하며, 정보가 명확합니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-03-12_10",
-      "date": "2026-03-12",
-      "category": "기술",
-      "title": "공급망 매핑이 공급망 무결성을 강화하는 방법",
-      "summary": [
-        "공급망 매핑은 공급망 무결성을 강화합니다.",
-        "이는 국가 법률 검토에 따른 것입니다."
-      ],
-      "whyImportant": "공급망의 투명성을 높여 잠재적 위험을 식별하고 관리하는 데 중요합니다.",
-      "importanceRationale": "근거: 공급망 매핑은 기업이 공급망 내의 취약점을 파악하고 개선하는 데 필수적인 도구입니다. 정책 변화에 대한 대응력을 높일 수 있습니다.",
-      "impactSignals": [],
-      "dedupeKey": "supply_chain_mapping_integrity",
-      "clusterKey": "chain",
-      "matchedTo": null,
-      "sourceName": "The National Law Review",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQXdGakFtT085cmNBN3V4S3V0M0oyRzQ0TnI0eEFfS0lfTUFzNE1fTjRLLVVFYTl5SGtVa01IY2xHQWpvaTBvNjhSVlQwamhFcmUzVHlxUl9SRGphVnNyT1JreUs4NV9EcnN1Q01KOVliNlhuaU5oOVZLZFQ2Q1JLcUxoeHBpaFJFUnFVRUlHMlk5dXlyaVBJ0gGcAUFVX3lxTE9EVW8wS0ZGWEQtZEpvV011cGVGdjNpcU9Qa3Rra0h5Q2VhaFlSUlA4dzlKVlhHYTNiQjhJM1VRM0RvT01sRUxVOTlKejlYOEdldHhoaWUwZHFWcTFTNkdDYmdRRmdtVXFjbU9SaTJtbk0yRy1iRHZPWDZkZkYtVjFWMmdIdU5WN0JSaFZsQlE4X0NyVngxYjF6QWFVdA?oc=5",
-      "publishedAt": "2026-03-11T18:09:53.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 63,
-      "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 내용이 일치하며, 정보가 명확하게 전달됩니다. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-03-12_11",
       "date": "2026-03-12",
       "category": "기술",
       "title": "AI, 파일 구조 분석으로 제로데이 공격 예측... 기업 파일 보안 위협 사전 탐지 기술",
@@ -304,15 +271,15 @@
         "이 기술은 기업의 파일 보안 위협을 사전에 탐지하는 데 사용됩니다.",
         "지티티코리아에서 개발했습니다."
       ],
-      "whyImportant": "기업의 파일 보안을 강화하고 제로데이 공격으로 인한 피해를 줄일 수 있습니다.",
+      "whyImportant": "기업의 파일 보안 위협을 사전에 탐지하여 제로데이 공격으로 인한 피해를 줄일 수 있습니다.",
       "importanceRationale": "근거: AI 기반의 파일 구조 분석을 통해 알려지지 않은 공격(제로데이 공격)을 예측하고 기업의 보안 위협을 사전에 탐지하는 기술은 기업의 데이터 및 시스템 보호에 중요한 역할을 합니다.",
       "impactSignals": [
         {
           "label": "security",
-          "evidence": "AI를 이용한 제로데이 공격 예측 및 사전 탐지 기술은 기업의 파일 보안을 강화합니다."
+          "evidence": "AI를 이용한 파일 구조 분석으로 제로데이 공격 예측 및 기업 보안 위협 사전 탐지"
         }
       ],
-      "dedupeKey": "AI가 파일 구조 분석해 제로데이 공격 예측...기업 파일 보안 위협 사전 탐지 기술",
+      "dedupeKey": "AI가 파일 구조 분석해 제로데이 공격 예측",
       "clusterKey": "ai가",
       "matchedTo": null,
       "sourceName": "지티티코리아",
@@ -323,29 +290,23 @@
       "importance": 4.5,
       "importanceRaw": 88,
       "qualityLabel": "ok",
-      "qualityReason": "기사 내용이 명확하고 기술의 중요성을 잘 설명하고 있습니다.",
+      "qualityReason": "기사 내용이 명확하고 간결하게 요약되어 있으며, 기술의 중요성을 잘 설명하고 있습니다.",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-03-12_12",
+      "id": "2026-03-12_11",
       "date": "2026-03-12",
       "category": "경제",
       "title": "AeroVironment 실적: 수요 신호는 긍정적이나 가이던스 하향 및 실적 부진",
       "summary": [
         "AeroVironment의 실적이 발표되었으며, 수요 신호는 긍정적이지만 가이던스가 하향 조정되었습니다.",
-        "또한, 실적이 예상치를 크게 하회했습니다.",
-        "이러한 요인들이 복합적으로 작용하여 전반적인 실적에 부정적인 영향을 미쳤습니다."
+        "실적 또한 기대에 미치지 못했습니다."
       ],
-      "whyImportant": "AeroVironment의 실적 부진은 드론 및 관련 기술 시장의 변동성을 시사합니다.",
-      "importanceRationale": "근거: AeroVironment는 드론 기술 분야의 주요 기업 중 하나이며, 실적은 시장 전반의 수요와 투자 심리를 반영합니다. 가이던스 하향 조정과 실적 부진은 투자자들에게 중요한 신호로 작용할 수 있습니다.",
-      "impactSignals": [
-        {
-          "label": "market-demand",
-          "evidence": "수요 신호는 긍정적이지만, 실적에 부정적인 영향을 미침"
-        }
-      ],
-      "dedupeKey": "AeroVironment_Earnings_Guidance_Cut_And_Big_Miss",
+      "whyImportant": "AeroVironment의 실적 발표는 회사의 재무 건전성과 미래 전망에 대한 중요한 정보를 제공합니다.",
+      "importanceRationale": "근거: 가이던스 하향 조정 및 실적 부진은 투자 심리에 부정적인 영향을 미칠 수 있으며, 수요 신호는 긍정적이지만 전반적인 시장 상황을 파악하는 데 중요합니다.",
+      "impactSignals": [],
+      "dedupeKey": "AeroVironment_Earnings_Guidance_Cut_And_Big_Miss_Overshadow_Demand_Signals",
       "clusterKey": "aerovironment",
       "matchedTo": null,
       "sourceName": "Trefis",
@@ -353,63 +314,59 @@
       "publishedAt": "2026-03-11T21:53:30.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 3.5,
+      "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "기사의 내용이 간결하고 명확하며, 핵심 정보를 잘 요약하고 있습니다.",
+      "qualityReason": "The article provides factual information about the company's earnings and guidance. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-03-12_12",
+      "date": "2026-03-12",
+      "category": "기술",
+      "title": "공급망 매핑이 공급망 무결성을 강화하는 방법",
+      "summary": [
+        "공급망 매핑은 공급망 무결성을 강화합니다.",
+        "이는 국가 법률 검토에 따른 것입니다."
+      ],
+      "whyImportant": "공급망의 투명성을 높여 잠재적 위험을 식별하고 관리하는 데 도움이 됩니다.",
+      "importanceRationale": "근거: 공급망 매핑의 중요성을 강조하며, 이는 기업이 공급망의 무결성을 유지하는 데 필수적인 요소입니다.",
+      "impactSignals": [],
+      "dedupeKey": "supply-chain-mapping-integrity",
+      "clusterKey": "chain",
+      "matchedTo": null,
+      "sourceName": "The National Law Review",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQXdGakFtT085cmNBN3V4S3V0M0oyRzQ0TnI0eEFfS0lfTUFzNE1fTjRLLVVFYTl5SGtVa01IY2xHQWpvaTBvNjhSVlQwamhFcmUzVHlxUl9SRGphVnNyT1JreUs4NV9EcnN1Q01KOVliNlhuaU5oOVZLZFQ2Q1JLcUxoeHBpaFJFUnFVRUlHMlk5dXlyaVBJ0gGcAUFVX3lxTE9EVW8wS0ZGWEQtZEpvV011cGVGdjNpcU9Qa3Rra0h5Q2VhaFlSUlA4dzlKVlhHYTNiQjhJM1VRM0RvT01sRUxVOTlKejlYOEdldHhoaWUwZHFWcTFTNkdDYmdRRmdtVXFjbU9SaTJtbk0yRy1iRHZPWDZkZkYtVjFWMmdIdU5WN0JSaFZsQlE4X0NyVngxYjF6QWFVdA?oc=5",
+      "publishedAt": "2026-03-11T18:09:53.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 50,
+      "qualityLabel": "ok",
+      "qualityReason": "The article provides a clear and concise overview of the topic. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-03-12_13",
       "date": "2026-03-12",
-      "category": "정책",
-      "title": "‘변리사 비밀유지권’ 도입 개정안 국회 산자위 통과",
-      "summary": [
-        "변리사 비밀유지권 도입 개정안이 국회 산업통상자원중소벤처기업위원회를 통과했습니다.",
-        "이 개정안은 변리사가 업무상 알게 된 비밀을 유지할 권리를 보장합니다."
-      ],
-      "whyImportant": "변리사의 비밀유지권 도입은 특허 및 기술 보호에 중요한 영향을 미칩니다.",
-      "importanceRationale": "근거: 변리사의 비밀유지권 도입은 기업의 기술 정보 보호를 강화하고, 변리사가 보다 적극적으로 업무를 수행할 수 있도록 장려합니다.",
-      "impactSignals": [
-        {
-          "label": "policy",
-          "evidence": "변리사 비밀유지권 도입 개정안이 국회 산자위를 통과했습니다."
-        }
-      ],
-      "dedupeKey": "변리사 비밀유지권 도입 개정안 국회 산자위 통과",
-      "clusterKey": "개정안",
-      "matchedTo": null,
-      "sourceName": "법률저널",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBVQjR3WUhJbzh2MFhqQkp1dm5fdHVnckI2Rjl1Qzg2ZW1MMUwyMzY1OFBsQVFZZE5rWmtjM0FJQ3VlOXc1TFZscmY1MGpsems2b3U0YVZUREhWUXRHN0FCaDB3N09rdw?oc=5",
-      "publishedAt": "2026-03-12T03:01:14.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 4,
-      "importanceRaw": 75,
-      "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 핵심 내용을 전달합니다.",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-03-12_14",
-      "date": "2026-03-12",
       "category": "경제",
-      "title": "오라클 주식, 클라우드 매출 44% 증가에 힘입어 10% 급등",
+      "title": "오라클 주식, 클라우드 매출 44% 증가에 힘입어 실적 호조 및 가이던스 상향으로 10% 급등",
       "summary": [
-        "오라클 주가가 실적 호조와 향상된 가이던스에 힘입어 10% 상승했습니다.",
-        "클라우드 매출은 44% 증가했습니다."
+        "오라클 주가가 실적 발표 후 10% 급등했다.",
+        "클라우드 매출이 44% 증가하며 실적 호조를 이끌었다.",
+        "향후 가이던스 또한 상향 조정되었다."
       ],
-      "whyImportant": "오라클의 실적 개선은 기술 산업 전반에 긍정적인 신호로 해석될 수 있습니다.",
-      "importanceRationale": "근거: 오라클의 주가 급등은 투자자들의 신뢰를 반영하며, 클라우드 매출 증가는 회사의 성장 동력 강화로 이어질 수 있습니다.",
+      "whyImportant": "오라클의 실적 개선은 클라우드 시장에서의 경쟁력 강화와 성장 가능성을 시사한다.",
+      "importanceRationale": "근거: 클라우드 매출의 높은 성장률과 주가 급등은 투자자들의 긍정적인 반응을 반영한다.",
       "impactSignals": [
         {
           "label": "earnings",
           "evidence": "클라우드 매출 44% 증가 및 실적 호조"
         }
       ],
-      "dedupeKey": "oracle_earnings_jump_2024",
+      "dedupeKey": "oracle_earnings_2024",
       "clusterKey": "클라우드/beat",
       "matchedTo": null,
       "sourceName": "CNBC",
@@ -420,7 +377,35 @@
       "importance": 4,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "기사에 명확한 정보가 포함되어 있습니다.",
+      "qualityReason": "제목과 본문이 일치하며, 정보가 명확함.",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-03-12_14",
+      "date": "2026-03-12",
+      "category": "기술",
+      "title": "교원단체, 개인정보 유출 아이스크림미디어의 AI 디지털교과서 사업 제한 촉구",
+      "summary": [
+        "교원단체는 개인정보 유출을 일으킨 아이스크림미디어에 대해 AI 디지털교과서 사업 참여 제한을 요구했다.",
+        "아이스크림미디어는 과거 개인정보 유출 사고를 일으킨 바 있다.",
+        "교원단체는 이러한 회사가 디지털교과서 사업에 참여하는 것에 우려를 표명했다."
+      ],
+      "whyImportant": "개인정보 유출 기업의 교육 사업 참여 제한 요구는 교육 현장의 보안 및 학생 데이터 보호에 대한 중요한 문제 제기입니다.",
+      "importanceRationale": "근거: 개인정보 유출 전력이 있는 기업이 AI 디지털교과서 사업에 참여하는 것은 학생들의 민감한 정보에 대한 잠재적 위험을 증가시킬 수 있으며, 이는 교육기관의 신뢰도 하락으로 이어질 수 있습니다.",
+      "impactSignals": [],
+      "dedupeKey": "교원단체,아이스크림미디어,개인정보유출,디지털교과서",
+      "clusterKey": "개인정보",
+      "matchedTo": null,
+      "sourceName": "뉴스1",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Wa2VQVXBfMkMyYlpKUmtwTlUtX0xQS21uMzk2dlY1cHd0Zjc3ZXRRcE5SWjJxRWlHLVBpZEdqYnlTbnQ4QXY5WDk4SWNkOXBHU21feGFRbTRHUQ?oc=5",
+      "publishedAt": "2026-03-12T00:07:44.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 75,
+      "qualityLabel": "ok",
+      "qualityReason": "기사 내용이 명확하고 간결하며, 핵심 주장을 잘 요약했습니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -428,15 +413,15 @@
       "id": "2026-03-12_15",
       "date": "2026-03-12",
       "category": "국제",
-      "title": "Bumble, 턴어라운드 노력으로 분기별 매출 급증에 주가 급등",
+      "title": "Bumble, 턴어라운드 노력으로 분기별 수익 급증에 주가 급등",
       "summary": [
-        "Bumble의 주가가 턴어라운드 노력에 힘입어 분기별 매출이 긍정적으로 나오면서 급등했다.",
-        "이번 매출 증가는 Bumble의 전략적 변화가 효과를 보고 있음을 시사한다."
+        "Bumble의 주가가 턴어라운드 노력에 힘입어 긍정적인 분기별 수익을 내면서 급등했다.",
+        "이번 수익 증가는 Bumble의 전략적 변화와 시장 수요 증가가 결합된 결과로 분석된다."
       ],
-      "whyImportant": "Bumble의 매출 증가는 데이팅 앱 시장에서의 경쟁 심화 속에서 중요한 지표가 된다.",
-      "importanceRationale": "근거: Bumble의 매출 증가는 투자자와 시장 분석가들에게 회사의 성장 가능성을 보여주는 중요한 신호이다.",
+      "whyImportant": "Bumble의 수익 증가는 회사의 성장 가능성을 보여주는 중요한 지표이다.",
+      "importanceRationale": "근거: Bumble의 주가 급등은 투자자들의 신뢰를 반영하며, 향후 사업 확장 및 경쟁력 강화에 긍정적인 영향을 미칠 수 있다.",
       "impactSignals": [],
-      "dedupeKey": "Bumble_revenue_surge",
+      "dedupeKey": "Bumble_shares_soar_as_turnaround_efforts_power_upbeat_quarterly_revenue",
       "clusterKey": "에너지/bumble",
       "matchedTo": null,
       "sourceName": "Reuters",
@@ -447,35 +432,34 @@
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "The article provides a concise and factual report on Bumble's revenue increase. / 근거부족",
+      "qualityReason": "The article provides a clear and concise overview of Bumble's recent financial performance. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-03-12_16",
       "date": "2026-03-12",
-      "category": "국제",
-      "title": "오라클, 강력한 매출 전망으로 대규모 AI 투자에 대한 우려 완화",
+      "category": "정책",
+      "title": "국회, '윤석열 정부의 조작 기소' 의혹에 대한 국정조사 요구서 보고",
       "summary": [
-        "오라클은 강력한 매출 전망을 발표했다.",
-        "이는 대규모 인공지능 투자에 대한 우려를 다소 해소했다.",
-        "오라클 주가가 상승했다."
+        "국회 본회의에서 '윤석열 정부의 조작 기소' 의혹에 대한 국정조사 요구서가 보고되었다.",
+        "이번 국정조사는 윤석열 정부의 기소 과정에 대한 의혹을 조사하기 위해 추진된다."
       ],
-      "whyImportant": "오라클의 매출 전망이 투자자들의 우려를 완화시켰기 때문",
-      "importanceRationale": "근거: 오라클의 매출 전망이 긍정적으로 발표되어 투자 심리에 영향을 미침.",
+      "whyImportant": "국회의 국정조사 요구는 정부 운영에 대한 견제와 감시를 강화하는 중요한 절차이다.",
+      "importanceRationale": "근거: 국정조사 요구서가 국회 본회의에 보고됨으로써, 해당 의혹에 대한 공식적인 조사 가능성이 열렸으며, 이는 정부 정책 결정 과정에 대한 투명성을 높이는 데 기여할 수 있다.",
       "impactSignals": [],
-      "dedupeKey": "oracle-revenue-forecast-ai-bets",
-      "clusterKey": "concerns",
+      "dedupeKey": "yoon-gov-investigation-report",
+      "clusterKey": "국정조사",
       "matchedTo": null,
-      "sourceName": "Reuters",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQnJZakszUHJaanJhdEc3bjhvTDhGdG41Qnh6THNfcFBsU2o0QlBRQlhwaGF6c296emljWl9QVU9jMXppUG5MNThDVDNIWmt4T3hNNXBKcUozbVR3YjQwS2xoMmRjR2ZoYnlHT05wcXdLaHA2MEg5aDZrQk1kV2VnckFQZU41M2p0ZDZCNGVRb1kzc241YTQ2STFKWjl6NXI2cmZwbHQtdnBjVE9mbHpaMGxLenNqNkhPS3Y0?oc=5",
-      "publishedAt": "2026-03-11T10:08:51.000Z",
+      "sourceName": "연합인포맥스",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5URnhHYVpWcW1udDZVZU5xNUhLa1ZZMFJBSktiMUp5eVJpTWJTMnBtak52aDhtTlBhSlRSVFpMQ3AzMldCT0ZDVDNFNW9jLVo1ZlRfXzJNMlBQX3pJMW5XY2R0dDVsVXZiM0Y3WkYyNkE?oc=5",
+      "publishedAt": "2026-03-12T05:34:07.000Z",
       "readTimeSec": 10,
       "status": "kept",
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약됨. / 근거부족",
+      "qualityReason": "기사 제목과 본문이 일치하며, 간결하게 핵심 내용을 전달한다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -488,7 +472,7 @@
         "블록체인 핀테크 기업 ‘수호아이오’가 리눅스 재단 서밋에서 ‘스마트컨트랙트 취약점 공유 플랫폼’을 발표했다."
       ],
       "whyImportant": "스마트 컨트랙트 보안 강화에 기여할 수 있는 플랫폼 발표",
-      "importanceRationale": "근거: 스마트 컨트랙트 취약점 공유 플랫폼은 블록체인 생태계의 보안성을 높이는 데 중요한 역할을 할 수 있다.",
+      "importanceRationale": "근거: 수호아이오가 리눅스 재단 서밋에서 스마트 컨트랙트 취약점 공유 플랫폼을 발표한 것은 블록체인 생태계의 보안성을 높이는 데 중요한 역할을 할 수 있기 때문이다.",
       "impactSignals": [],
       "dedupeKey": "blockchain_fintech_soohio_linux_foundation_summit_smart_contract_vulnerability_sharing_platform_announcement",
       "clusterKey": "기업",
@@ -501,33 +485,34 @@
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되어 있습니다. / 근거부족",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약됨. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-03-12_18",
       "date": "2026-03-12",
-      "category": "경제",
-      "title": "Oracle 분기별 실적, '겉으로 보이는 것보다 훨씬 낫다'고 D.A. Davidson의 Gil Luria가 말함",
+      "category": "정책",
+      "title": "쩐 탄 만 국회의장, 2026년 총선 준비 상황 점검 회의 주재",
       "summary": [
-        "Oracle의 분기별 실적이 겉으로 보이는 것보다 훨씬 좋다고 D.A. Davidson의 Gil Luria가 CNBC에서 밝혔습니다."
+        "쩐 탄 만 국회의장이 2026년 3월 15일로 예정된 총선 준비 상황을 점검하는 회의를 주재했습니다.",
+        "이번 회의는 총선 준비의 진행 상황을 점검하고 필요한 조치를 논의하기 위해 마련되었습니다."
       ],
-      "whyImportant": "Oracle의 실적에 대한 긍정적인 평가는 투자자와 시장에 중요한 신호입니다.",
-      "importanceRationale": "근거: Oracle의 실적 개선은 회사의 성장 잠재력을 시사하며, 이는 주가에 긍정적인 영향을 미칠 수 있습니다.",
+      "whyImportant": "총선 준비 상황을 점검하는 것은 정치적 안정과 민주주의 발전에 중요한 영향을 미칩니다.",
+      "importanceRationale": "근거: 총선은 국가의 미래를 결정하는 중요한 과정이며, 준비 상황 점검은 선거의 공정성과 효율성을 보장하는 데 필수적입니다.",
       "impactSignals": [],
-      "dedupeKey": "Oracle_quarterly_results_better_than_it_looks",
-      "clusterKey": "better",
+      "dedupeKey": "쩐 탄 만 국회의장, 2026년 총선 준비 상황 점검 회의 주재",
+      "clusterKey": "15일",
       "matchedTo": null,
-      "sourceName": "CNBC",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPbDZwampZRnUzMkZVTV80UEpIMzJ3VVpsZ0ZUemJsckFSWmx1VXpOc1V1YWdNS085M254ZlFlYlZYWGY0LWwtUWp2Qm11LVpUOGNKc19xMEdUVXZvYnhnV2pCcU40NU1UZlZEZ0lyNUdCWHVNalM5dEl4OGNvVzl3Xzl1UkVjUXZJX1M1UkhZSFNTZ2lBOVBQSmhzSzlpeDB1bzVaaFR2UzBiOGIyRGkwWW92Vm1TU2ZLTmh0dGhLSXpaS2tHbjhHMlJndEZpRGdTQXc?oc=5",
-      "publishedAt": "2026-03-10T21:31:00.000Z",
+      "sourceName": "Vietnam.vn",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMizAFBVV95cUxONDJEc2M0UTItU29NSThpLTRNdUN3R1dXR0k2ajFmbXJxNG4zMC13VzVEeVZrV0tKaXBINi1uT1ZFWHN6LTZaQnBLc1hUWmZNWGwzNHdxX2VCUGFHaEdfaHFmRWpoWDB4amZ1LUNSVjZuWUFCRHZMb1JuajVfbTlMZ2VHYzJyWG5SbTFsZDl5VTdoQ0dOTGEzVWlaU0FXckpnR0lqMy1WaElMdVEwS3N3WUtnZm1BSHFmbjk1MjBKdlFrdGFBMkRnZ2d3TnE?oc=5",
+      "publishedAt": "2026-03-12T03:59:07.000Z",
       "readTimeSec": 10,
       "status": "kept",
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "The article directly references a financial analyst's assessment of Oracle's earnings. / 근거부족",
+      "qualityReason": "기사 내용이 명확하고 간결하며, 핵심 정보를 잘 전달하고 있습니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -545,7 +530,7 @@
       "impactSignals": [
         {
           "label": "market-demand",
-          "evidence": "전략비축유 방출은 시장의 공급량을 증가시켜 가격 안정에 기여할 수 있습니다."
+          "evidence": "전략비축유 방출은 시장의 공급 증가를 의미하며, 수요-공급 균형에 영향을 줍니다."
         }
       ],
       "dedupeKey": "IEA_strategic_oil_reserve_release_recommendation_400M",
@@ -559,7 +544,7 @@
       "importance": 4,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "기사 내용이 간결하고 사실 전달에 충실합니다.",
+      "qualityReason": "기사 제목과 내용이 일치하며, 사실에 기반한 정보를 제공합니다.",
       "isBriefing": false,
       "isBreaking": true
     }
