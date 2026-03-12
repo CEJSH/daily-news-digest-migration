@@ -3,21 +3,49 @@
   "selectionCriteria": "① 내일도 영향이 남는 이슈 ② 과도한 감정 소모 제외 ③ 어제와 중복되는 뉴스 제외",
   "editorNote": "이 뉴스는 클릭 수가 아니라 오늘 이후에도 남는 정보만 기준으로 편집했습니다.",
   "question": "정보를 덜 보는 것이 오히려 더 똑똑한 소비일까?",
-  "lastUpdatedAt": "2026-03-12T15:51:26.221+09:00",
+  "lastUpdatedAt": "2026-03-12T16:44:01.595+09:00",
   "items": [
     {
       "id": "2026-03-12_1",
       "date": "2026-03-12",
       "category": "국제",
+      "title": "케터링 헬스 랜섬웨어 공격에 대한 대응으로 수십 건의 소송 제기",
+      "summary": [
+        "케터링 헬스 랜섬웨어 공격에 대한 대응으로 수십 건의 소송이 제기되었습니다.",
+        "이번 소송은 환자 정보 유출로 인한 피해 보상을 요구하고 있습니다.",
+        "랜섬웨어 공격은 의료 기관의 보안 취약성을 드러내는 사례로 지적됩니다."
+      ],
+      "whyImportant": "이번 소송은 랜섬웨어 공격으로 인한 개인 정보 유출 문제에 대한 경각심을 높이고, 의료 기관의 보안 강화 필요성을 강조합니다.",
+      "importanceRationale": "근거: 랜섬웨어 공격으로 인해 발생한 개인 정보 유출에 대한 법적 책임 문제가 제기되었으며, 이는 유사한 사고에 대한 예방 및 대응책 마련에 중요한 영향을 미칠 수 있습니다.",
+      "impactSignals": [],
+      "dedupeKey": "kettering_ransomware_lawsuits",
+      "clusterKey": "attack",
+      "matchedTo": null,
+      "sourceName": "The HIPAA Journal",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMickFVX3lxTE96YUxlZzNDWURueG1OcEN5QW9DSGlyel9KeDdfblNxNkg1akQ5OTRvd3Y4OGFYd1lLbG94Y3FjZ1pta21mQzJUV1dYUHVDYzkwR1dTTDZHYVk3ZkxtU0YtdGc0MDNDMmREdS1yRTJUZERldw?oc=5",
+      "publishedAt": "2026-03-11T20:06:36.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 75,
+      "qualityLabel": "ok",
+      "qualityReason": "The article provides a clear and concise summary of the lawsuits filed in response to the ransomware attack. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-03-12_2",
+      "date": "2026-03-12",
+      "category": "국제",
       "title": "BMW, 관세로 인해 2026년 수익 감소 예상",
       "summary": [
         "BMW는 관세로 인해 2026년 수익이 감소할 것으로 예상했다.",
-        "이번 수익 감소는 관세 영향에 따른 것이다."
+        "이번 수익 감소는 관세의 영향으로 분석된다."
       ],
       "whyImportant": "BMW의 수익 감소는 자동차 산업 전반에 영향을 미칠 수 있다.",
-      "importanceRationale": "근거: BMW는 주요 자동차 제조업체 중 하나이며, 그들의 수익 감소는 무역 정책 변화가 기업 수익성에 미치는 영향을 보여주는 중요한 사례이다.",
+      "importanceRationale": "근거: BMW는 세계적인 자동차 제조업체이며, 그들의 수익 감소는 무역 정책 변화와 관련된 산업 전반의 어려움을 시사한다.",
       "impactSignals": [],
-      "dedupeKey": "BMW_2026_earnings_decline_tariffs",
+      "dedupeKey": "BMW_2026_EARNINGS_DECLINE_TARIFFS",
       "clusterKey": "bite",
       "matchedTo": null,
       "sourceName": "Reuters",
@@ -33,20 +61,20 @@
       "isBreaking": false
     },
     {
-      "id": "2026-03-12_2",
+      "id": "2026-03-12_3",
       "date": "2026-03-12",
       "category": "기술",
       "title": "엔비디아, 오픈 웨이트 AI 모델 구축에 260억 달러 투자",
       "summary": [
-        "엔비디아가 오픈 웨이트 AI 모델 구축에 260억 달러를 투자할 계획이다.",
+        "엔비디아가 오픈 웨이트 AI 모델 구축에 260억 달러를 투자할 예정이다.",
         "이는 엔비디아의 투자 관련 서류에 명시된 내용이다."
       ],
-      "whyImportant": "AI 모델 개발 경쟁 심화 및 기술 주도권 확보 노력의 일환으로 해석될 수 있음",
-      "importanceRationale": "근거: 엔비디아의 대규모 투자는 AI 기술 개발 경쟁 심화를 보여주며, 오픈 웨이트 AI 모델 구축을 통해 기술 주도권을 확보하려는 의도로 해석될 수 있다.",
+      "whyImportant": "AI 모델 개발 경쟁 심화 및 엔비디아의 AI 시장 영향력 확대",
+      "importanceRationale": "근거: 엔비디아가 대규모 투자를 통해 오픈 웨이트 AI 모델 구축에 나서는 것은 AI 기술 개발 경쟁을 심화시키고, 엔비디아의 AI 시장에서의 영향력을 더욱 확대할 수 있음을 시사한다.",
       "impactSignals": [
         {
           "label": "capex",
-          "evidence": "엔비디아의 260억 달러 투자는 상당한 자본 지출을 의미함"
+          "evidence": "260억 달러 규모의 투자는 엔비디아의 자본 지출에 큰 영향을 미침"
         }
       ],
       "dedupeKey": "nvidia_26b_ai_models",
@@ -60,25 +88,25 @@
       "importance": 4,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 본문이 일치하며, 정보가 간결하게 요약되어 있음",
+      "qualityReason": "기사 제목과 본문이 일치하며, 내용이 간결하고 명확함.",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-03-12_3",
+      "id": "2026-03-12_4",
       "date": "2026-03-12",
       "category": "정책",
       "title": "루이빌 도시 연맹, 데이터 센터 에너지 비용 지불 법안 지지",
       "summary": [
-        "루이빌 도시 연맹이 데이터 센터의 에너지 비용 지불을 의무화하는 법안을 지지하고 있습니다.",
-        "이 법안은 데이터 센터가 소비하는 에너지 비용을 데이터 센터가 직접 부담하도록 하는 내용을 담고 있습니다."
+        "루이빌 도시 연맹이 데이터 센터에 에너지 비용을 지불하도록 하는 법안을 지지합니다.",
+        "이 법안은 데이터 센터의 에너지 사용에 대한 재정적 책임을 강화하는 것을 목표로 합니다."
       ],
-      "whyImportant": "데이터 센터 에너지 비용 관련 정책 변화 가능성",
-      "importanceRationale": "근거: 루이빌 도시 연맹이 데이터 센터의 에너지 비용 지불 법안을 지지함에 따라, 관련 정책 변화가 예상됩니다.",
+      "whyImportant": "데이터 센터 에너지 비용 지불 법안에 대한 루이빌 도시 연맹의 지지는 데이터 센터 산업과 지역 사회 간의 에너지 비용 분담에 대한 논의를 촉발할 수 있습니다.",
+      "importanceRationale": "근거: 루이빌 도시 연맹의 지지는 정책 결정에 영향을 미칠 수 있으며, 데이터 센터의 에너지 비용 부담에 대한 사회적 관심을 높일 수 있습니다.",
       "impactSignals": [
         {
           "label": "policy",
-          "evidence": "데이터 센터 에너지 비용 지불 의무화 법안 추진"
+          "evidence": "데이터 센터 에너지 비용 지불 법안에 대한 지지"
         }
       ],
       "dedupeKey": "louisville_urban_league_data_center_energy_bill",
@@ -89,30 +117,25 @@
       "publishedAt": "2026-03-11T23:56:00.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 3,
-      "importanceRaw": 50,
+      "importance": 3.5,
+      "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "기사 내용이 명확하고 간결함",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었습니다.",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-03-12_4",
+      "id": "2026-03-12_5",
       "date": "2026-03-12",
-      "category": "기술",
+      "category": "에너지",
       "title": "데이터 센터가 전기 과잉을 초래하는 이유",
       "summary": [
         "캘리포니아 정책 센터에 따르면 데이터 센터가 전기 과잉을 초래할 것이라고 합니다."
       ],
-      "whyImportant": "데이터 센터의 증가가 전력 시장에 미치는 영향",
-      "importanceRationale": "근거: 데이터 센터의 증가가 전력 수요에 미치는 잠재적 영향에 대한 논의가 필요합니다.",
-      "impactSignals": [
-        {
-          "label": "capex",
-          "evidence": "데이터 센터 건설 및 운영 관련 투자"
-        }
-      ],
-      "dedupeKey": "data-centers-electricity-abundance",
+      "whyImportant": "데이터 센터의 에너지 소비 증가 추세에 대한 논의를 촉발합니다.",
+      "importanceRationale": "근거: 데이터 센터의 전력 소비가 증가함에 따라 에너지 정책 및 인프라 투자에 대한 논의가 필요하며, 이는 관련 산업 및 정책 결정에 영향을 미칠 수 있습니다.",
+      "impactSignals": [],
+      "dedupeKey": "data_centers_electricity_abundance",
       "clusterKey": "abundance",
       "matchedTo": null,
       "sourceName": "California Policy Center",
@@ -120,42 +143,10 @@
       "publishedAt": "2026-03-11T19:30:03.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 3,
+      "importance": 2,
       "importanceRaw": 50,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 텍스트이 일치합니다.",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-03-12_5",
-      "date": "2026-03-12",
-      "category": "경제",
-      "title": "오하이오주의 데이터 센터 수요에 대한 '간보기' 접근 방식",
-      "summary": [
-        "오하이오주가 데이터 센터 수요에 대해 신중한 접근 방식을 취하고 있다는 내용입니다.",
-        "기사 제목은 이러한 접근 방식을 '간보기'에 비유하고 있습니다."
-      ],
-      "whyImportant": "데이터 센터 투자는 지역 경제에 큰 영향을 미칠 수 있기 때문입니다.",
-      "importanceRationale": "근거: 데이터 센터 투자는 막대한 자본 지출(capex)을 유발하고, 이는 지역 경제 활성화와 일자리 창출에 기여할 수 있습니다. 또한 데이터 센터 수요는 IT 인프라 및 관련 시장 수요와 직결되므로, 오하이오주의 신중한 접근 방식은 향후 데이터 센터 투자 유치 전략에 중요한 시사점을 제공합니다.",
-      "impactSignals": [
-        {
-          "label": "market-demand",
-          "evidence": "데이터 센터 수요는 IT 인프라 및 관련 시장 수요와 직결됩니다."
-        }
-      ],
-      "dedupeKey": "ohio_data_center_tire_kicker",
-      "clusterKey": "approach",
-      "matchedTo": null,
-      "sourceName": "Politico",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNENNM0tDUzJBd1MwbGJtcVUzT2N4ZDFyRXlZQjRucHNPSHYtTVZscXZWMGJfWFJNdFF2OVBndGY4OHVoNFJ1STUtY1FRMFIxVHZ4dUxNcjJ4azNvdkk4Zkhfd2REY1otYWZIUmEyazZRN0ZGMXc5eW01cHNVdnQ3blo5ejVkbkNJcWx1R0c1eHVvYlIxSkZuRXVDaVBTdkVMZnluXzB2aTY2MXBBMkk2ZzlFRVZ3alBlNWc?oc=5",
-      "publishedAt": "2026-03-11T22:26:20.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 3.5,
-      "importanceRaw": 63,
-      "qualityLabel": "ok",
-      "qualityReason": "제목과 텍스트가 일치하며, 정보가 명확합니다.",
+      "qualityReason": "제목과 텍스트가 일치하며, 요약이 명확합니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -163,24 +154,15 @@
       "id": "2026-03-12_6",
       "date": "2026-03-12",
       "category": "경제",
-      "title": "데이터 센터 수요 증가, 에너지 비용 상승을 통해 인플레이션 가중",
+      "title": "데이터 센터 수요 증가, 에너지 비용 상승을 통해 인플레이션 심화 가능성",
       "summary": [
-        "데이터 센터 수요 증가가 에너지 비용 상승을 통해 인플레이션을 가중할 수 있다는 분석이 나왔다.",
-        "데이터 센터의 에너지 소비 증가는 전반적인 물가 상승 압력으로 이어질 수 있다.",
-        "특히 포트워스 지역에서 이러한 현상이 두드러질 수 있다는 전망이 제기되었다."
+        "데이터 센터 수요 증가로 인해 에너지 비용이 상승하고 인플레이션이 심화될 수 있다는 분석이 나왔다.",
+        "데이터 센터의 에너지 소비 증가는 경제 전반의 물가 상승 압력으로 이어질 수 있다.",
+        "특히 데이터 센터 투자가 활발한 지역에서는 에너지 비용 상승이 더욱 두드러질 수 있다."
       ],
-      "whyImportant": "데이터 센터 수요 증가가 에너지 비용 상승을 통해 인플레이션에 미치는 영향을 파악하는 것이 중요합니다.",
-      "importanceRationale": "근거: 데이터 센터의 에너지 소비 증가는 경제 전반의 물가 상승에 영향을 줄 수 있으며, 이는 소비자 및 기업에 직접적인 영향을 미치기 때문입니다.",
-      "impactSignals": [
-        {
-          "label": "capex",
-          "evidence": "데이터 센터 건설 및 운영에 필요한 자본 지출 증가가 예상됨"
-        },
-        {
-          "label": "market-demand",
-          "evidence": "데이터 센터에 대한 시장 수요 증가가 에너지 소비 증가로 이어짐"
-        }
-      ],
+      "whyImportant": "데이터 센터 수요 증가가 에너지 비용 상승을 통해 인플레이션에 미치는 잠재적 영향에 대한 분석.",
+      "importanceRationale": "근거: 데이터 센터 수요 증가는 에너지 소비 증가로 이어져 에너지 비용 상승을 유발하고, 이는 다시 인플레이션 압력으로 작용할 수 있다. 특히 데이터 센터 투자와 관련된 자본 지출(capex)과 시장 수요(market-demand)는 에너지 비용 상승을 더욱 부추길 수 있다.",
+      "impactSignals": [],
       "dedupeKey": "rising_data_center_demand_inflation",
       "clusterKey": "에너지/add",
       "matchedTo": null,
@@ -189,26 +171,52 @@
       "publishedAt": "2026-03-11T21:29:38.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 3.5,
+      "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "기사 내용이 간결하고 명확하며, 데이터 센터 수요와 에너지 비용 간의 관계를 설명합니다.",
+      "qualityReason": "기사 제목과 내용이 일치하며, 핵심 내용을 요약적으로 잘 전달하고 있다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-03-12_7",
       "date": "2026-03-12",
-      "category": "에너지",
+      "category": "정책",
+      "title": "속보: 대미투자특별법 국회 본회의 통과",
+      "summary": [
+        "대미투자특별법이 국회 본회의를 통과했습니다."
+      ],
+      "whyImportant": "미국 투자에 대한 정책적 지원이 강화될 수 있습니다.",
+      "importanceRationale": "근거: 대미투자특별법의 국회 본회의 통과는 미국 투자에 대한 정부의 정책적 의지를 보여주는 중요한 지표입니다.",
+      "impactSignals": [],
+      "dedupeKey": "daemitoojateukbyeolbeop-gukhoe-bonhoeui-tonggwa",
+      "clusterKey": "국회",
+      "matchedTo": null,
+      "sourceName": "한겨레",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBWTzQ5VldDOEx6MkVSVzNMVEtaN1ZoeThjVHI2cGFJWW5kdnN2Zjg3OW13QXFrSS1vNVNESTFlVHZrVms1dUotbWxDODh6cndzWUZrdnp3b3VleFRGWUZfaW5WVEdIZE1Nb3kxbzRUemZLczFx?oc=5",
+      "publishedAt": "2026-03-12T06:42:00.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 75,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 핵심 내용을 전달합니다. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": true
+    },
+    {
+      "id": "2026-03-12_8",
+      "date": "2026-03-12",
+      "category": "국제",
       "title": "현대건설, 북유럽에서 원전 사업 기반 확대…협력 다각화",
       "summary": [
         "현대건설이 북유럽에서 원전 사업 기반을 확대하고 있다.",
-        "이는 협력 다각화의 일환으로 추진된다."
+        "협력 다각화를 통해 사업 확장에 주력할 것으로 보인다."
       ],
-      "whyImportant": "현대건설의 북유럽 원전 사업 확장은 해외 시장에서의 경쟁력 강화에 기여할 수 있다.",
-      "importanceRationale": "근거: 현대건설이 북유럽 원전 시장에 진출하여 사업 기반을 넓히고 협력을 다각화하는 것은, 향후 추가적인 해외 원전 사업 수주 가능성을 높이고 기업의 성장 동력을 확보하는 데 중요한 역할을 할 수 있기 때문이다.",
+      "whyImportant": "현대건설의 북유럽 원전 사업 확장은 해외 시장에서의 경쟁력 강화에 중요한 지표가 될 수 있다.",
+      "importanceRationale": "근거: 현대건설이 북유럽 원전 시장에서 사업 기반을 넓히는 것은 향후 추가적인 수주 가능성을 높이고, 글로벌 원전 시장에서의 입지를 강화하는 데 기여할 수 있기 때문이다.",
       "impactSignals": [],
-      "dedupeKey": "현대건설, 북유럽 원전 사업 확장",
+      "dedupeKey": "hyundai-nuclear-nordic",
       "clusterKey": "에너지/다각화",
       "matchedTo": null,
       "sourceName": "연합뉴스 한민족센터",
@@ -219,23 +227,23 @@
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 핵심 내용을 잘 요약했습니다. / 근거부족",
+      "qualityReason": "The article provides a concise overview of Hyundai Engineering & Construction's expansion in the Nordic nuclear power market. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-03-12_8",
+      "id": "2026-03-12_9",
       "date": "2026-03-12",
       "category": "정책",
-      "title": "KAMA, '대미투자법 국회 통과 환영…안정적 경영 및 투자 확대 기대'",
+      "title": "KAMA, '대미 투자법' 국회 통과 환영…안정적 경영 및 투자 확대 기대",
       "summary": [
-        "KAMA(대한민국 자동차산업협회)는 대미투자법의 국회 통과를 환영한다고 밝혔습니다.",
-        "이번 법안 통과로 안정적인 경영 환경이 조성되고 투자가 확대될 것으로 기대하고 있습니다."
+        "KAMA(대한민국 자동차산업협회)는 '대미 투자법'의 국회 통과를 환영한다고 밝혔습니다.",
+        "이번 법안 통과로 인해 안정적인 경영 환경이 조성되고 투자가 확대될 것으로 기대하고 있습니다."
       ],
-      "whyImportant": "대미투자법 통과는 국내 기업의 미국 투자에 중요한 영향을 미칩니다.",
-      "importanceRationale": "근거: KAMA의 성명은 법안 통과에 대한 기대감을 나타내며, 이는 기업의 투자 결정에 영향을 줄 수 있습니다.",
+      "whyImportant": "대미 투자 관련 법안 통과는 국내 기업의 해외 투자 및 경영 활동에 중요한 영향을 미칩니다.",
+      "importanceRationale": "근거: KAMA의 성명은 해당 법안이 국내 기업의 대미 투자에 긍정적인 영향을 미칠 것으로 예상하며, 이는 기업의 경영 전략 및 투자 결정에 중요한 고려 사항이 될 수 있습니다.",
       "impactSignals": [],
-      "dedupeKey": "KAMA_대미투자법_국회_통과_환영",
+      "dedupeKey": "KAMA_대미투자법_국회통과_환영",
       "clusterKey": "kama",
       "matchedTo": null,
       "sourceName": "연합뉴스 한민족센터",
@@ -246,34 +254,7 @@
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 핵심 내용을 요약했습니다. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-03-12_9",
-      "date": "2026-03-12",
-      "category": "국제",
-      "title": "인증 없는 관리자 권한 탈취… 포티매니저 취약점 공개, 온프레미스 기업 ‘비상’",
-      "summary": [
-        "포티매니저의 취약점이 발견되어 온프레미스 기업에 비상이 걸렸습니다.",
-        "인증 없이 관리자 권한을 강탈할 수 있는 취약점이 공개되었습니다."
-      ],
-      "whyImportant": "포티매니저의 심각한 보안 취약점은 기업의 시스템 보안에 직접적인 위협이 됩니다.",
-      "importanceRationale": "근거: 인증 없이 관리자 권한을 탈취할 수 있다는 점은 시스템의 완전한 통제를 잃을 수 있음을 의미하며, 이는 데이터 유출, 시스템 마비 등 심각한 결과를 초래할 수 있습니다.",
-      "impactSignals": [],
-      "dedupeKey": "fortimanager_vuln_20240129",
-      "clusterKey": "강탈",
-      "matchedTo": null,
-      "sourceName": "보안뉴스",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9wMlNGbjluLWktOFk3ZkhpZjFfdHFycGpMRmZFSm5rQ0NHSXJ2QjVmNXlKZ2JSVjV1MGFEYjB2elRneWZocDY2OGl5bjNyNW9FMDY2VzU4RkdQdWFyeHdFQzlMUmZZd2Ju?oc=5",
-      "publishedAt": "2026-03-12T06:44:00.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 88,
-      "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 정보가 명확합니다. / 근거부족",
+      "qualityReason": "제목과 본문이 일치하며, 내용이 간결하고 명확합니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -281,13 +262,72 @@
       "id": "2026-03-12_10",
       "date": "2026-03-12",
       "category": "국제",
-      "title": "미디어텍 칩 취약점 발견: 가상자산 지갑 시드 45초 만에 탈취 가능",
+      "title": "인증 없는 관리자 권한 탈취… 포티매니저 취약점 공개, 온프레미스 기업 ‘비상’",
+      "summary": [
+        "포티매니저의 취약점이 발견되어 온프레미스 기업에 비상이 걸렸습니다.",
+        "인증 없이 관리자 권한을 강탈할 수 있는 취약점이 공개되었습니다."
+      ],
+      "whyImportant": "포티매니저의 심각한 보안 취약점은 기업의 시스템 보안에 직접적인 위협이 될 수 있습니다.",
+      "importanceRationale": "근거: 인증 없이 관리자 권한을 탈취할 수 있는 취약점이 발견되었으며, 이는 기업의 온프레미스 환경에 심각한 보안 위험을 초래할 수 있기 때문입니다.",
+      "impactSignals": [],
+      "dedupeKey": "fortimanager_vuln_20240129",
+      "clusterKey": "강탈",
+      "matchedTo": null,
+      "sourceName": "보안뉴스",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5WNVFEb2lwaWdEbVpPQkd5TzloQUJTdGNiTUtlMS1uNVppZU43MU9WSVBrQXhYTFlNQWtRbXVrUUxKZFhSeVFTelBuaDNzQktURTlJVHluYXhzak5Fd0E?oc=5",
+      "publishedAt": "2026-03-12T06:44:00.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 88,
+      "qualityLabel": "ok",
+      "qualityReason": "기사에 언급된 내용이 명확하고 간결합니다. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-03-12_11",
+      "date": "2026-03-12",
+      "category": "경제",
+      "title": "오하이오주의 데이터 센터 수요에 대한 '간보기' 접근 방식",
+      "summary": [
+        "오하이오주가 데이터 센터 수요에 신중한 접근 방식을 취하고 있다는 내용입니다.",
+        "Politico에서 보도했습니다."
+      ],
+      "whyImportant": "오하이오주의 데이터 센터 정책 방향을 파악할 수 있습니다.",
+      "importanceRationale": "근거: 데이터 센터 투자는 지역 경제에 큰 영향을 미치므로, 오하이오주의 신중한 접근 방식은 향후 투자 유치 전략 및 관련 정책 결정에 중요한 시사점을 제공합니다.",
+      "impactSignals": [
+        {
+          "label": "market-demand",
+          "evidence": "데이터 센터 수요에 대한 오하이오주의 접근 방식"
+        }
+      ],
+      "dedupeKey": "ohio_data_center_tire_kicker",
+      "clusterKey": "approach",
+      "matchedTo": null,
+      "sourceName": "Politico",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNENNM0tDUzJBd1MwbGJtcVUzT2N4ZDFyRXlZQjRucHNPSHYtTVZscXZWMGJfWFJNdFF2OVBndGY4OHVoNFJ1STUtY1FRMFIxVHZ4dUxNcjJ4azNvdkk4Zkhfd2REY1otYWZIUmEyazZRN0ZGMXc5eW01cHNVdnQ3blo5ejVkbkNJcWx1R0c1eHVvYlIxSkZuRXVDaVBTdkVMZnluXzB2aTY2MXBBMkk2ZzlFRVZ3alBlNWc?oc=5",
+      "publishedAt": "2026-03-11T22:26:20.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 3,
+      "importanceRaw": 50,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 본문이 일치하며, 정보가 간결하게 제공됨.",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-03-12_12",
+      "date": "2026-03-12",
+      "category": "국제",
+      "title": "미디어텍 칩에서 취약점 발견: 가상자산 지갑 시드가 45초 만에 탈취될 수 있음",
       "summary": [
         "미디어텍 칩에서 취약점이 발견되었습니다.",
-        "이 취약점을 이용하면 가상자산 지갑의 시드를 45초 만에 탈취할 수 있습니다."
+        "이 취약점을 통해 가상자산 지갑의 시드가 45초 만에 탈취될 수 있습니다."
       ],
       "whyImportant": "미디어텍 칩을 사용하는 기기의 보안에 심각한 위협이 될 수 있습니다.",
-      "importanceRationale": "근거: 미디어텍 칩의 취약점을 통해 가상자산 지갑 시드가 빠르게 탈취될 수 있다는 점은 사용자 자산에 대한 직접적인 위험을 의미합니다.",
+      "importanceRationale": "근거: 미디어텍 칩의 취약점을 이용해 가상자산 지갑 시드를 빠르게 탈취할 수 있다는 점은 사용자 자산 보안에 직접적인 위험을 초래합니다.",
       "impactSignals": [],
       "dedupeKey": "mediatek_chip_vulnerability_crypto_wallet_seed_theft",
       "clusterKey": "45초",
@@ -300,12 +340,12 @@
       "importance": 2,
       "importanceRaw": 88,
       "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 내용이 일치하며, 정보가 명확합니다. / 근거부족",
+      "qualityReason": "기사 제목과 내용이 일치하며, 핵심 내용을 잘 요약했습니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-03-12_11",
+      "id": "2026-03-12_13",
       "date": "2026-03-12",
       "category": "기술",
       "title": "AI, 파일 구조 분석으로 제로데이 공격 예측... 기업 파일 보안 위협 사전 탐지 기술",
@@ -314,15 +354,15 @@
         "이 기술은 기업의 파일 보안 위협을 사전에 탐지하는 데 사용됩니다.",
         "지티티코리아에서 개발했습니다."
       ],
-      "whyImportant": "기업의 파일 보안을 강화하고 제로데이 공격으로 인한 피해를 줄일 수 있습니다.",
-      "importanceRationale": "근거: AI 기반의 파일 구조 분석을 통해 알려지지 않은 공격(제로데이 공격)을 예측하고 기업의 보안 위협을 사전에 탐지하는 기술은 기업의 데이터 보호 및 시스템 안정성에 중요한 역할을 합니다.",
+      "whyImportant": "기업의 파일 보안 위협을 사전에 탐지하여 제로데이 공격으로 인한 피해를 줄일 수 있습니다.",
+      "importanceRationale": "근거: AI 기반의 파일 구조 분석을 통해 알려지지 않은 공격(제로데이 공격)을 예측하고 기업의 보안 위협을 사전에 탐지하는 기술은 기업의 데이터 및 시스템 보호에 중요한 역할을 합니다.",
       "impactSignals": [
         {
           "label": "security",
-          "evidence": "AI를 이용한 제로데이 공격 예측 및 사전 탐지 기술"
+          "evidence": "AI를 이용한 파일 구조 분석으로 제로데이 공격 예측 및 기업 보안 위협 사전 탐지"
         }
       ],
-      "dedupeKey": "AI가 파일 구조 분석해 제로데이 공격 예측...기업 파일 보안 위협 사전 탐지 기술",
+      "dedupeKey": "AI가 파일 구조 분석해 제로데이 공격 예측",
       "clusterKey": "ai가",
       "matchedTo": null,
       "sourceName": "지티티코리아",
@@ -333,12 +373,92 @@
       "importance": 4.5,
       "importanceRaw": 88,
       "qualityLabel": "ok",
-      "qualityReason": "기사 내용이 명확하고 기술의 중요성을 잘 설명하고 있습니다.",
+      "qualityReason": "기사 내용이 명확하고 간결하게 요약되어 있으며, 기술의 중요성을 잘 설명하고 있습니다.",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-03-12_12",
+      "id": "2026-03-12_14",
+      "date": "2026-03-12",
+      "category": "경제",
+      "title": "LS그룹, 작년 사상 최대 실적 기록…영업이익 1.5조원 달성",
+      "summary": [
+        "LS그룹이 작년에 사상 최대 실적을 기록했다.",
+        "영업이익은 1.5조원에 달한다."
+      ],
+      "whyImportant": "LS그룹의 사상 최대 실적은 그룹의 성장세를 보여주는 중요한 지표입니다.",
+      "importanceRationale": "근거: LS그룹의 영업이익이 1.5조원을 기록하며 사상 최대 실적을 달성했다는 점은 기업의 재무적 성과를 나타내는 중요한 정보이다.",
+      "impactSignals": [],
+      "dedupeKey": "LS그룹, 작년 최대 실적",
+      "clusterKey": "5조원",
+      "matchedTo": null,
+      "sourceName": "한국경제",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1wTzBmRzRXNTlGR2dfbERPTUVNLWZ0a05DT1FqOHA4S2dfUmRHd1ZzcHdvOVJDYTR5LTBuNm5DTnhSN3NOVk9BdWtValZ3S2RsWTY1YUdYaXdjd9IBVEFVX3lxTE9lYTB3eFhkaU5sU0NjSm9RUG05SmJvdGhudEw3ckpNRWZzRGg4anJ4U2hrcE4wbnJ6ZG9JSTR2TTM5VnFSWDZma1JrOEhhYTFQSDk4SQ?oc=5",
+      "publishedAt": "2026-03-12T06:44:25.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 75,
+      "qualityLabel": "ok",
+      "qualityReason": "기사 제목과 내용이 일치하며, 핵심 정보를 간결하게 제공합니다. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-03-12_15",
+      "date": "2026-03-12",
+      "category": "경제",
+      "title": "블루캡캔, 시리즈A 투자 유치...각형 배터리 부품 양산 설비 구축",
+      "summary": [
+        "블루캡캔이 시리즈A 투자 유치에 성공했다.",
+        "이번 투자를 통해 각형 배터리 부품 양산 설비 구축에 나설 예정이다."
+      ],
+      "whyImportant": "블루캡캔의 투자 유치 및 설비 구축은 배터리 부품 산업 성장에 기여할 수 있다.",
+      "importanceRationale": "근거: 블루캡캔이 시리즈A 투자를 유치하여 각형 배터리 부품 양산 설비 구축을 진행하는 것은 해당 기업의 성장뿐만 아니라 배터리 부품 산업 전반에 긍정적인 영향을 미칠 수 있기 때문이다.",
+      "impactSignals": [],
+      "dedupeKey": "bluecapcan_series_a_investment",
+      "clusterKey": "각형",
+      "matchedTo": null,
+      "sourceName": "디일렉",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBQa3NCRk1HQjJWMDRPMWJUampBTVYzT3BuOWQtTGpfbkctZmxIRjE4YjRQb2c0YVluZzVnZHB5U0V1R0Z5WXJCYUF0eFN3RjY5c1JtZ0JWWlFGQ3BTYVNzcXZYU3h5UQ?oc=5",
+      "publishedAt": "2026-03-12T06:59:35.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 63,
+      "qualityLabel": "ok",
+      "qualityReason": "기사 내용이 간결하고 명확하며, 투자 유치 및 설비 구축이라는 핵심 내용을 잘 전달하고 있다. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-03-12_16",
+      "date": "2026-03-12",
+      "category": "정책",
+      "title": "대미투자특별법 국회 통과… 3,500억 달러 대미 투자 근거 마련",
+      "summary": [
+        "대미투자특별법이 국회를 통과하여 3,500억 달러 규모의 대미 투자 근거가 마련되었습니다."
+      ],
+      "whyImportant": "미국 투자 활성화 정책의 기반이 마련되었습니다.",
+      "importanceRationale": "근거: 대미투자특별법의 국회 통과는 대규모 대미 투자를 위한 법적 토대를 구축했다는 점에서 중요합니다.",
+      "impactSignals": [],
+      "dedupeKey": "daemituja teukbyeolbeop gukhoe tonggwa",
+      "clusterKey": "3천500억달러",
+      "matchedTo": null,
+      "sourceName": "스트레이트뉴스",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9CN2otbzk2VmpnS3ZSdjk5dTZYMjNzck1SOTdXd29aUWtOZlJENVVrQmgtc0ZmVXNPV3UzNTF2ZjdlZ3JpOG8zTHVyYlFSSWtrNVYyVE5GaTNsMThEdjl5V2dvbm9DaFBIdTBscU5weTJjNFHSAXdBVV95cUxOM05rRzBnU2VsU3FIZGN4dENKMkN3eEgxZjJGR1loWEhQenFONjBBQ2phcHo1OHI5Z3NTYi1tRU9VUnBhOFdSNmMyYmpVeW05b3lhRGFKYWpIdHFNTjBYS3hoVzlabVRocHlGelFMOEhGX091dUFjaw?oc=5",
+      "publishedAt": "2026-03-12T06:45:25.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 75,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었습니다. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-03-12_17",
       "date": "2026-03-12",
       "category": "기술",
       "title": "공급망 매핑이 공급망 무결성을 강화하는 방법",
@@ -347,7 +467,7 @@
         "National Law Review에서 해당 내용을 다루었습니다."
       ],
       "whyImportant": "공급망의 투명성을 높여 잠재적 위험을 식별하고 관리하는 데 도움이 됩니다.",
-      "importanceRationale": "근거: 공급망 매핑은 기업이 공급망 내의 취약점을 파악하고 개선하는 데 필수적인 도구입니다. 정책적 중요성을 가집니다.",
+      "importanceRationale": "근거: 공급망 매핑은 기업이 공급망 내의 취약점을 파악하고 개선하여 전반적인 공급망 무결성을 강화하는 데 중요한 역할을 합니다.",
       "impactSignals": [],
       "dedupeKey": "supply_chain_mapping_integrity",
       "clusterKey": "chain",
@@ -360,28 +480,23 @@
       "importance": 2,
       "importanceRaw": 50,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 정보가 명확합니다. / 근거부족",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었습니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-03-12_13",
+      "id": "2026-03-12_18",
       "date": "2026-03-12",
       "category": "경제",
-      "title": "오라클 주식, 클라우드 매출 44% 증가에 힘입어 실적 호조 및 가이던스 상향으로 10% 급등",
+      "title": "오라클 주식, 클라우드 매출 44% 증가에 힘입어 실적 호조 및 전망치 상향으로 10% 급등",
       "summary": [
-        "오라클 주가가 실적 발표 후 10% 상승했다.",
-        "클라우드 매출이 44% 증가하며 실적 개선을 이끌었다.",
-        "향후 전망에 대한 가이던스 또한 상향 조정되었다."
+        "오라클 주가가 실적 발표 후 10% 급등했다.",
+        "클라우드 매출이 44% 증가하며 실적 호조를 이끌었다.",
+        "향후 전망치 또한 상향 조정되었다."
       ],
       "whyImportant": "오라클의 실적 개선은 클라우드 시장에서의 경쟁력 강화와 성장 가능성을 시사한다.",
       "importanceRationale": "근거: 클라우드 매출의 높은 성장률과 주가 급등은 투자자들의 긍정적인 반응을 반영한다.",
-      "impactSignals": [
-        {
-          "label": "earnings",
-          "evidence": "클라우드 매출 44% 증가 및 실적 호조"
-        }
-      ],
+      "impactSignals": [],
       "dedupeKey": "oracle_earnings_jump_2024",
       "clusterKey": "클라우드/beat",
       "matchedTo": null,
@@ -390,179 +505,44 @@
       "publishedAt": "2026-03-10T20:11:29.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 4,
-      "importanceRaw": 75,
-      "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 정보가 명확함.",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-03-12_14",
-      "date": "2026-03-12",
-      "category": "경제",
-      "title": "[생생한 주식쇼 생쇼] 스페이스X 상장 임박, 우주항공 관련주 랠리 전망",
-      "summary": [
-        "스페이스X의 상장이 임박했으며, 이로 인해 우주항공 관련 주식의 랠리가 예상됩니다."
-      ],
-      "whyImportant": "스페이스X 상장 가능성이 우주항공 관련 주식 시장에 미치는 영향",
-      "importanceRationale": "근거: 스페이스X의 상장 임박 소식이 우주항공 관련 주식의 상승을 이끌 수 있다는 전망이 제시됨.",
-      "impactSignals": [],
-      "dedupeKey": "spacex-ipo-rally",
-      "clusterKey": "관련주",
-      "matchedTo": null,
-      "sourceName": "매일경제TV",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9MVnIxdElTb2owbjlBZUN5Q2JJanJPcXo3Y3o4cHp4Wk9YX1JiSVJVNXk5eFpJLUl3dkxURE9sYXhLNXlja2gxUXUtaXZCTDlnbzc1bEZ1QTV0MDZpaXpvUmFFRVdENVVQ?oc=5",
-      "publishedAt": "2026-03-12T05:00:00.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 63,
-      "qualityLabel": "ok",
-      "qualityReason": "The article directly states the anticipated stock market movement. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-03-12_15",
-      "date": "2026-03-12",
-      "category": "경제",
-      "title": "Google의 Wiz 320억 달러 인수, 막대한 수익을 올리는 투자자들",
-      "summary": [
-        "Wiz가 Google에 320억 달러에 매각되면서 막대한 수익을 올리는 투자자들이 등장했다.",
-        "이번 인수는 클라우드 보안 시장에서의 경쟁 심화를 예고한다.",
-        "투자자들은 이번 매각을 통해 상당한 투자 수익을 거둘 것으로 예상된다."
-      ],
-      "whyImportant": "Google의 Wiz 인수는 클라우드 보안 시장의 경쟁 구도에 큰 영향을 미칠 수 있으며, 관련 투자자들에게 상당한 재정적 이익을 가져다줄 수 있기 때문에 중요합니다.",
-      "importanceRationale": "근거: Google의 대규모 인수 합병은 시장에 미치는 영향이 크며, 특히 Wiz 투자자들의 수익 규모는 시장의 관심을 끌 만합니다.",
-      "impactSignals": [],
-      "dedupeKey": "Wiz_Google_acquisition_investors",
-      "clusterKey": "billion",
-      "matchedTo": null,
-      "sourceName": "CTech",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9xQ2l3MS1BNE9CM2dKNm9wSmxzTG9BZW80ZHpsQkM2eGRWaDF0UzFoR29ZYVY3dWUwOVJIeXFqVF9QdjQyQjd6Z1lPWnRzOC1Ka1k0R0xEZ2xwN3JWb2lXU1RFREI3RDA?oc=5",
-      "publishedAt": "2026-03-11T12:49:00.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
       "importance": 2,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "The article provides a clear and concise overview of the investors benefiting from the acquisition. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-03-12_16",
-      "date": "2026-03-12",
-      "category": "국제",
-      "title": "Bumble, 턴어라운드 노력으로 분기별 매출 급증에 주가 급등",
-      "summary": [
-        "Bumble의 주가가 턴어라운드 노력에 힘입어 분기별 매출이 급증하면서 급등했다.",
-        "이번 매출 증가는 Bumble의 전략적 변화와 시장 수요 증가가 결합된 결과로 분석된다."
-      ],
-      "whyImportant": "Bumble의 매출 증가는 데이팅 앱 시장에서의 경쟁 심화 속에서 중요한 성과 지표로 작용한다.",
-      "importanceRationale": "근거: Bumble의 매출 증가는 기업의 성장 가능성을 보여주며, 투자자와 시장에 긍정적인 신호로 작용한다.",
-      "impactSignals": [],
-      "dedupeKey": "Bumble_revenue_surge",
-      "clusterKey": "에너지/bumble",
-      "matchedTo": null,
-      "sourceName": "Reuters",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMDVhLUJDQ2NDOTlVd1NNcDJXdjZ1cUFqamFUZFlGREVpRURJUFdGN0NzZm5ZTV9BUjVmMmVwOURrZklGbG5sWlJXakxfR1NZX0VlWERsM3BOeUlZdW1RTXlRakR2WF9kdHd6aTBJdGowcWhjQ1ZlWEhwcTRuSXRZLXZFXzZzVWhjV1ByZlYzYWd5M1dvUWc?oc=5",
-      "publishedAt": "2026-03-11T20:11:40.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 63,
-      "qualityLabel": "ok",
-      "qualityReason": "The article provides a clear and concise overview of Bumble's recent financial performance. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-03-12_17",
-      "date": "2026-03-12",
-      "category": "정책",
-      "title": "「M포토」 대미투자특별법, 국회 통과",
-      "summary": [
-        "대미투자특별법이 국회에서 통과되었습니다.",
-        "자세한 내용은 M이코노미뉴스를 통해 확인할 수 있습니다."
-      ],
-      "whyImportant": "대미 투자 관련 정책 변화를 나타냅니다.",
-      "importanceRationale": "근거: 국회 통과는 법률 제정의 중요한 단계이며, 대미 투자에 대한 특별법은 해당 분야에 상당한 영향을 미칠 수 있습니다.",
-      "impactSignals": [],
-      "dedupeKey": "daemi-teukbyeolbeop-gukhoe-tonggwa",
-      "clusterKey": "m이코노미뉴스",
-      "matchedTo": null,
-      "sourceName": "M이코노미뉴스",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5NTFU5TGM0WGlYR29kVHVtbG1MUS1pR1BacDRfblZ2dWlrcGJTWmFSUjRXOTUtTUxUOVdtSk9WSlFrV0tVWjlrMnZPbHZtTUtxNS1BSXVGXzlXMlNGdkdIbUtBbDBXMFU?oc=5",
-      "publishedAt": "2026-03-12T06:31:58.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 63,
-      "qualityLabel": "ok",
-      "qualityReason": "제목과 기사 내용이 일치하며, 간결하게 핵심 내용을 전달합니다. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-03-12_18",
-      "date": "2026-03-12",
-      "category": "정책",
-      "title": "국회, '윤석열 정부의 조작 기소' 의혹에 대한 국정조사 요구서 보고",
-      "summary": [
-        "국회 본회의에서 '윤석열 정부의 조작 기소' 의혹에 대한 국정조사 요구서가 보고되었다.",
-        "이번 국정조사는 윤석열 정부의 기소 과정에 대한 의혹을 조사하기 위해 추진된다."
-      ],
-      "whyImportant": "국회의 국정조사 요구는 정부 운영에 대한 견제와 감시를 강화하는 중요한 절차이다.",
-      "importanceRationale": "근거: 국정조사 요구서가 국회 본회의에 보고됨으로써, 관련 의혹에 대한 조사가 본격적으로 시작될 가능성이 높아졌다.",
-      "impactSignals": [],
-      "dedupeKey": "yoon-gov-investigation-report",
-      "clusterKey": "국정조사",
-      "matchedTo": null,
-      "sourceName": "연합인포맥스",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5URnhHYVpWcW1udDZVZU5xNUhLa1ZZMFJBSktiMUp5eVJpTWJTMnBtak52aDhtTlBhSlRSVFpMQ3AzMldCT0ZDVDNFNW9jLVo1ZlRfXzJNMlBQX3pJMW5XY2R0dDVsVXZiM0Y3WkYyNkE?oc=5",
-      "publishedAt": "2026-03-12T05:34:07.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 63,
-      "qualityLabel": "ok",
-      "qualityReason": "기사 내용이 간결하고 명확하게 전달됨. / 근거부족",
+      "qualityReason": "제목과 본문이 일치하며, 정보가 명확하다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-03-12_19",
       "date": "2026-03-12",
-      "category": "에너지",
-      "title": "속보: IEA, 전략비축유 4억 배럴 공동 방출 권고",
+      "category": "기술",
+      "title": "AI 도입 속도에 뒤쳐지는 데이터 보안…기업 인프라의 '내부자 위협' 확대",
       "summary": [
-        "국제에너지기구(IEA)가 전략비축유 4억 배럴의 공동 방출을 권고했습니다.",
-        "이번 권고는 에너지 시장의 안정을 위한 조치로 풀이됩니다."
+        "AI 도입 속도가 데이터 보안을 따라가지 못하고 있다는 지적이 나왔다.",
+        "기업 인프라에 대한 '내부자 위협'이 확대되고 있다는 분석이다."
       ],
-      "whyImportant": "IEA의 전략비축유 방출 권고는 국제 에너지 시장에 큰 영향을 미칠 수 있습니다.",
-      "importanceRationale": "근거: IEA의 권고는 주요 에너지 정책 결정에 영향을 미치며, 시장의 변동성을 야기할 수 있기 때문입니다.",
+      "whyImportant": "AI 도입에 따른 데이터 보안 문제 심각성 부각",
+      "importanceRationale": "근거: AI 도입 속도가 데이터 보안 수준을 따라가지 못해 기업 내부자 위협이 증가하고 있다는 점을 강조하고 있다.",
       "impactSignals": [
         {
-          "label": "market-demand",
-          "evidence": "전략비축유 방출은 시장의 공급 증가를 의미하며, 수요-공급 균형에 영향을 줍니다."
+          "label": "security",
+          "evidence": "AI 도입에 따른 기업 내부자 위협 증가"
         }
       ],
-      "dedupeKey": "IEA_400M_barrel_release",
-      "clusterKey": "4억",
+      "dedupeKey": "AI_data_security_internal_threat",
+      "clusterKey": "기업",
       "matchedTo": null,
-      "sourceName": "연합뉴스 한민족센터",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1BajZTc240TmJKbFAzYl9xNmxIcG11RnVkMUZBYVBkVHl3cTF5RHg2LWliMzBGd0xscDhXZ3hVUjFGSmhHMDV5TjJFVWh3NVpDRjdCRldMSUdNT21HQVlZY1pMVm5vRkJwM0xTbnoybGloRWNE?oc=5",
-      "publishedAt": "2026-03-11T14:07:03.000Z",
+      "sourceName": "지티티코리아",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE13TExFMW1ZaWxwOWdqYmxwMENvZmo3cXpqaFlFQ1ZWR0RPSUtQNkJaQTRJRXJHdlNsYl80YU4zVmRya2prSGZJZ1hsN1p1WVZtNlc4czhsT3llUkRBYkw4QjJuTURCb0poTkE?oc=5",
+      "publishedAt": "2026-03-11T23:30:00.000Z",
       "readTimeSec": 10,
       "status": "kept",
       "importance": 4,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "기사 내용이 간결하고 명확하며, IEA의 권고라는 중요한 정보를 전달합니다.",
+      "qualityReason": "제목과 내용이 일치하며, 핵심 내용을 잘 요약했습니다.",
       "isBriefing": false,
-      "isBreaking": true
+      "isBreaking": false
     }
   ]
 }
