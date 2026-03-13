@@ -3,7 +3,7 @@
   "selectionCriteria": "① 내일도 영향이 남는 이슈 ② 과도한 감정 소모 제외 ③ 어제와 중복되는 뉴스 제외",
   "editorNote": "이 뉴스는 클릭 수가 아니라 오늘 이후에도 남는 정보만 기준으로 편집했습니다.",
   "question": "정보를 덜 보는 것이 오히려 더 똑똑한 소비일까?",
-  "lastUpdatedAt": "2026-03-14T02:32:23.822+09:00",
+  "lastUpdatedAt": "2026-03-14T03:40:56.967+09:00",
   "items": [
     {
       "id": "2026-03-14_1",
@@ -17,7 +17,12 @@
       ],
       "whyImportant": "사이버 보안 업계의 신뢰성 문제 제기",
       "importanceRationale": "근거: 랜섬웨어 사고 대응자가 범죄자에게 정보를 제공했다는 법무부의 주장은 사이버 보안 업계의 윤리적 기준과 신뢰성에 대한 심각한 우려를 나타냅니다.",
-      "impactSignals": [],
+      "impactSignals": [
+        {
+          "label": "security",
+          "evidence": "사이버 범죄자와의 협상 과정에서 정보 유출은 심각한 보안 위협을 야기합니다."
+        }
+      ],
       "dedupeKey": "ransomware_incident_responder_blackcat_doj",
       "clusterKey": "blackcat",
       "matchedTo": null,
@@ -26,53 +31,132 @@
       "publishedAt": "2026-03-13T15:49:57.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 2,
+      "importance": 4,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "The article is a factual report from a reputable source. / 근거부족",
+      "qualityReason": "기사 제목과 내용이 일치하며, 요약이 정확하고 간결합니다.",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-03-14_2",
       "date": "2026-03-14",
-      "category": "경제",
-      "title": "레나 실적 부진, 주택 건설업체 주식에 대한 나쁜 징조",
+      "category": "국제",
+      "title": "셀트리온, 바이오시밀러 글로벌 규제 완화로 최대 수혜 전망",
       "summary": [
-        "레나의 실적 부진은 주택 건설업체 주식에 대한 나쁜 징조이다.",
-        "오늘 상승세에도 불구하고 이러한 우려가 제기되고 있다."
+        "셀트리온이 바이오시밀러의 글로벌 규제 완화로 최대 수혜를 입을 것으로 전망됩니다."
       ],
-      "whyImportant": "주택 건설 경기 침체 가능성을 시사한다.",
-      "importanceRationale": "근거: 레나의 실적 부진은 주택 건설 업계 전반의 투자 및 수익성에 대한 우려를 야기하며, 이는 관련 주식 시장에 부정적인 영향을 미칠 수 있다.",
+      "whyImportant": "셀트리온이 바이오시밀러 시장에서 경쟁력을 강화할 수 있습니다.",
+      "importanceRationale": "근거: 글로벌 규제 완화는 셀트리온의 바이오시밀러 제품의 시장 접근성을 높이고, 수익성 개선에 기여할 수 있기 때문입니다.",
       "impactSignals": [],
-      "dedupeKey": "lennar_earnings_miss_2024",
-      "clusterKey": "bad",
+      "dedupeKey": "셀트리온, 바이오시밀러 글로벌 규제 완화로 최대 수혜 전망",
+      "clusterKey": "규제",
       "matchedTo": null,
-      "sourceName": "Barron's",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMioANBVV95cUxOQjFDNEZGa180SExtWU9SdFRoZDZFbkFyWlNpbVV6MUJKdVRJTm1RcGFmM01zTlJYZ0pmX25iOTZZbEJsS0lKM1JmS2ttOVViTTBjTVc0RkoyQmlVSXVDdWlqODNtZzBMZWh4NmNDM1pReHIxR2VVTjJMWWRPVWw4Ty0xN21WMVVoeGtBQlpzMzdKNnFpcmZKNUFDZXJMbUxvT2x5QTZxREZRX29lX1NmdVdKZk85MGt1VUlORnFBUTgwU25uVGFEaFo4STV3RXZTM1lKMEM1N1VtT0xkSUJvY3FmZWQzSHFZMHFOM0xRQXRJdEpWLWdqQTd3alZ4SHgtMFdOWkZvUVBGU3lpUDNiQ1RxX1M3SkdTVUhQZWtFckVTcW54ME5BRm9ERUhweUdrdzdLWnBUQlpTQndEQkg2TXlkck9CdmZ2dlVYelBtS01IS01oa1A0SnhlRlgzSk5yR1J0cmtxV3BRdTd0RFJzVXdUXzN1RUxhV2xpNmZ0Y0tqdTRBOGVTbTFNTVFJMFRfa1RvQVJlUEZaQkZPQVlpYg?oc=5",
-      "publishedAt": "2026-03-13T15:03:00.000Z",
+      "sourceName": "약사공론",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBLTUkyOVVqOWx0cFYtakJiVU9GNVJpSXNvakxpX2ppamZEZFN5dDFrVjBnSTFHNUxjTXVvemdOMnA1b3NFMHRNVHc4OGtDLXhLbG43SkZnT2Y0ZzVpLVJ3aWRnX1RZWklGazlBTw?oc=5",
+      "publishedAt": "2026-03-13T00:47:11.000Z",
       "readTimeSec": 10,
       "status": "kept",
       "importance": 2,
-      "importanceRaw": 63,
+      "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 핵심 내용을 잘 반영하고 있다. / 근거부족",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었습니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-03-14_3",
       "date": "2026-03-14",
+      "category": "경제",
+      "title": "레나 실적 부진, 주택 건설업체 주식에 대한 나쁜 징조",
+      "summary": [
+        "레나의 실적 부진은 주택 건설업체 주식에 대한 나쁜 징조이다.",
+        "오늘 상승세에도 불구하고 부정적인 신호로 해석된다."
+      ],
+      "whyImportant": "주택 건설 경기 침체 가능성을 시사한다.",
+      "importanceRationale": "근거: 레나의 실적 부진은 주택 건설 업계 전반에 대한 투자 심리 위축으로 이어질 수 있으며, 이는 관련 주식의 하락으로 이어질 수 있다.",
+      "impactSignals": [],
+      "dedupeKey": "LENNAR_EARNINGS_MISS_HOME_BUILDER_STOCKS",
+      "clusterKey": "bad",
+      "matchedTo": null,
+      "sourceName": "Barron's",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMioANBVV95cUxQTlZYenVnOVNXTlVmbXYtZTJZVVkwdzhaR2tVQk5hQVBpRmFwSzhpOVFoamYza25XR2phVGU5czBmNUVQRXhZdFdFLUhwdnRmNlVGTUpVeDhGTEhvMnR4ekRvcDU2bHlGcVNFa1BUanZ1QjRVbGcxTlZCZUxTbnFoNDllcFk2bzN2UTlnSDlRdk1xaWNENkFGQ3hZRExjNVl2cXRTdGV0b0x1Wmw1RkJWbGdOOE1XTEZhM1pHczRQZVZPS3ZkRzFxWm9mM3pSODYycS1xOWNtbFEzZTFRRVEwQVl5WEw1MHI4R0ZCRUlzNTd6Zm5qZG1TZzJaaVBkOGR6X3NITTlBSm9SZFVLeEVETGJVTXN3c1FscnVXbm5oNEdnWS15YWZMRUlQT2QtQlM0UDdSTms3ZmpvVHIteHQxemtHYzZJZlV0aWFBZG9zOWpyRXJ0aXRZTk4xQms1cTNmaDN3djZHN3pTMURjR0hISDBUd1lpdlp6bFh3T2VZeXpyZ2lIMVRBaG1jVlFWb1lRaUFUN25GaVhvTjJ6aUp1cg?oc=5",
+      "publishedAt": "2026-03-13T15:03:00.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 63,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약됨. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-03-14_4",
+      "date": "2026-03-14",
       "category": "정책",
-      "title": "추가경정예산안, 이달 국회 제출…물류업 및 소상공인 지원에 사용",
+      "title": "'공공의료기관 15년 복무' 국립의전원법, 국회 복지위 통과",
+      "summary": [
+        "국립의전원법이 국회 보건복지위원회를 통과했습니다.",
+        "이 법안은 공공의료기관에서 15년간 복무하는 것을 조건으로 합니다."
+      ],
+      "whyImportant": "국립의전원 설립 및 공공의료 인력 확보에 중요한 정책적 변화입니다.",
+      "importanceRationale": "근거: 국립의전원법이 국회 복지위를 통과하여 공공의료기관 복무 의무를 부과하는 정책 변화를 의미합니다.",
+      "impactSignals": [],
+      "dedupeKey": "국립의전원법_국회_복지위_통과",
+      "clusterKey": "15년",
+      "matchedTo": null,
+      "sourceName": "연합뉴스 한민족센터",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9YNGo5dVozTWlXYl9DdjRVdXZlMzRlYnpRQlVsTnIyS1VmWFp5T0x3V1NxX0NMaFBZMDFMUUltOFpHZkpxVXlBbG1MN0ZMb1NUbkxzZ0JEYTJwdThDTVEzdFpSemN3THNvc0dqbjdBV3BxMXB1?oc=5",
+      "publishedAt": "2026-03-13T09:20:57.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 75,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 핵심 내용을 전달합니다. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-03-14_5",
+      "date": "2026-03-14",
+      "category": "경제",
+      "title": "Build-A-Bear Workshop (NYSE:BBW), 실적 발표",
+      "summary": [
+        "Build-A-Bear Workshop(NYSE:BBW)에서 실적을 발표했습니다."
+      ],
+      "whyImportant": "Build-A-Bear Workshop의 실적 발표는 회사의 재무 상태와 성장 전망을 파악하는 데 중요한 지표입니다.",
+      "importanceRationale": "근거: 실적 발표는 투자자와 시장 참여자에게 기업의 현재 성과와 미래 기대치를 제공합니다.",
+      "impactSignals": [],
+      "dedupeKey": "BBW_earnings_announcement",
+      "clusterKey": "bbw",
+      "matchedTo": null,
+      "sourceName": "MarketBeat",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTUtLZmZzZktDeS1UamkzTGMwdUZRUDhENHJnX05oanpnY21PQUd0SXhYY0ZXUU1NWGFkUTBTWWRRTDg4VkxjWFdISXA3SlpzV3hmeF9RbS1MQWJ4WG0tYVN2Z0xPTmlmUUtXc0VjcEtfVkFuWVFIOThMbnA1aXZMTDNoWjExVlFLTzlhZFhlbU41REJBNG5aTzJnNEJNc0VDTlNKTkZGckdSdw?oc=5",
+      "publishedAt": "2026-03-13T17:12:59.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 50,
+      "qualityLabel": "ok",
+      "qualityReason": "The article directly states a factual event. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-03-14_6",
+      "date": "2026-03-14",
+      "category": "정책",
+      "title": "추경안, 이달 국회 제출…물류업·소상공인 지원",
       "summary": [
         "추가경정예산안이 이달 국회에 제출될 예정입니다.",
-        "예산은 물류업과 소상공인 지원에 사용될 것입니다."
+        "이번 추경은 물류업과 소상공인 지원에 사용될 계획입니다."
       ],
-      "whyImportant": "이번 추경안은 물류업과 소상공인 지원에 초점을 맞추고 있어 관련 업계에 직접적인 영향을 미칠 수 있습니다.",
-      "importanceRationale": "근거: 추경안이 물류업과 소상공인 지원에 사용될 예정이라는 직접적인 내용이 제시되었기 때문입니다.",
+      "whyImportant": "이번 추경안은 물류업과 소상공인 지원에 초점을 맞추고 있어 경제적 영향을 미칠 수 있습니다.",
+      "importanceRationale": "근거: 추경안이 물류업과 소상공인 지원에 사용될 예정이라는 직접적인 언급은 해당 분야에 대한 정부의 정책적 의지를 보여주며, 이는 관련 시장과 산업에 중요한 영향을 줄 수 있습니다.",
       "impactSignals": [],
-      "dedupeKey": "추경안 이달 국회제출 ‘속도전’…물류업·소상공인 지원에 쓰기로",
+      "dedupeKey": "추경안_국회제출_물류업_소상공인_지원",
       "clusterKey": "국회제출",
       "matchedTo": null,
       "sourceName": "매일경제 마켓",
@@ -83,12 +167,12 @@
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "기사 내용이 명확하고 간결하며, 핵심 정보를 잘 전달하고 있습니다. / 근거부족",
+      "qualityReason": "기사의 내용이 간결하고 명확하며, 핵심 정보를 잘 전달하고 있습니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-03-14_4",
+      "id": "2026-03-14_7",
       "date": "2026-03-14",
       "category": "국제",
       "title": "CVE-2026-3910: 크롬 V8 제로데이 취약점, 실제 공격에 활용",
@@ -98,14 +182,14 @@
         "SOC Prime에서 해당 내용을 발표했습니다."
       ],
       "whyImportant": "크롬 사용자는 보안 업데이트를 통해 취약점을 해결해야 합니다.",
-      "importanceRationale": "근거: 크롬 V8 엔진의 제로데이 취약점은 공격자에게 시스템 접근 권한을 부여할 수 있으며, 실제 공격에 사용되고 있다는 점에서 심각한 보안 위협입니다.",
+      "importanceRationale": "근거: 크롬 V8 엔진의 제로데이 취약점은 공격에 악용될 수 있으며, 사용자 보안에 심각한 위협을 초래합니다.",
       "impactSignals": [
         {
           "label": "security",
-          "evidence": "크롬 V8 제로데이 취약점이 야생 공격에 사용됨"
+          "evidence": "크롬 V8 제로데이 취약점이 실제 공격에 사용됨"
         }
       ],
-      "dedupeKey": "CVE-2026-3910_chrome_v8_zero_day",
+      "dedupeKey": "CVE-2026-3910_chrome_v8_zero_day_in_the_wild",
       "clusterKey": "cve",
       "matchedTo": null,
       "sourceName": "SOC Prime",
@@ -116,20 +200,22 @@
       "importance": 4.5,
       "importanceRaw": 88,
       "qualityLabel": "ok",
-      "qualityReason": "The article provides a clear and concise summary of a security vulnerability.",
+      "qualityReason": "기사에 제로데이 취약점 정보가 명확히 제시되어 있음",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-03-14_5",
+      "id": "2026-03-14_8",
       "date": "2026-03-14",
       "category": "기술",
       "title": "AI 기반 지속형 침투 테스트로 코드 취약점 즉시 수정",
       "summary": [
-        "지티티코리아는 AI가 발견하고 검증한 취약점을 코드에서 즉시 수정하는 지속형 침투 테스트를 제공합니다."
+        "지티티코리아는 AI가 발견하고 검증한 취약점을 코드에서 즉시 수정하는 지속형 침투 테스트를 제공합니다.",
+        "이 테스트는 AI를 활용하여 코드의 취약점을 찾아내고 검증합니다.",
+        "이를 통해 개발자는 발견된 취약점을 즉시 수정하여 보안성을 강화할 수 있습니다."
       ],
       "whyImportant": "AI 기반의 지속적인 침투 테스트는 소프트웨어 개발 과정에서 보안 취약점을 신속하게 식별하고 해결하여 전반적인 시스템 보안을 강화합니다.",
-      "importanceRationale": "근거: AI를 활용한 자동화된 침투 테스트는 기존의 수동 방식보다 더 빠르고 정확하게 취약점을 찾아내고, 개발자가 즉시 수정할 수 있도록 지원하여 보안 사고 발생 가능성을 줄입니다.",
+      "importanceRationale": "근거: AI를 활용한 자동화된 취약점 분석 및 검증은 기존의 수동적인 방식보다 효율적이며, 지속적인 테스트를 통해 새로운 취약점에 대한 대응력을 높일 수 있습니다.",
       "impactSignals": [],
       "dedupeKey": "AI기반지속형침투테스트",
       "clusterKey": "ai가",
@@ -142,28 +228,54 @@
       "importance": 2,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "The article provides a clear and concise description of a security-related technology. / 근거부족",
+      "qualityReason": "기사 제목과 내용이 일치하며, 핵심 내용을 잘 요약했습니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-03-14_6",
+      "id": "2026-03-14_9",
       "date": "2026-03-14",
       "category": "정책",
-      "title": "네트워크 약국 및 AI 의약사 광고 금지 법안, 국회 상임위 통과",
+      "title": "공공의대법, 국회 상임위 통과",
       "summary": [
-        "네트워크 약국을 금지하고 인공지능(AI)을 이용한 의약사 광고를 금지하는 법안이 국회 상임위원회를 통과했습니다.",
-        "이번 법안은 약사 사회의 건전성을 확보하고, AI를 이용한 과장 광고로부터 국민 건강을 보호하기 위한 조치로 풀이됩니다."
+        "공공의대법이 국회 상임위를 통과했습니다."
       ],
-      "whyImportant": "이번 법안 통과는 약사 사회와 의약품 광고 시장에 중요한 변화를 가져올 수 있습니다.",
-      "importanceRationale": "근거: 네트워크 약국 금지는 약사 사회의 구조적 변화를 제한하고, AI 의약사 광고 금지는 광고 시장의 자율성을 일부 제한할 수 있기 때문입니다.",
+      "whyImportant": "공공의대 설립에 관한 법적 근거가 마련되었습니다.",
+      "importanceRationale": "근거: 공공의대법이 국회 상임위를 통과했다는 사실은 관련 정책 추진에 중요한 진전입니다.",
+      "impactSignals": [],
+      "dedupeKey": "공공의대법, 국회 상임위 통과",
+      "clusterKey": "공공의대법",
+      "matchedTo": null,
+      "sourceName": "후생신보",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiREFVX3lxTE44M2xtcWcyakpzazh1Y283VGo1UzRFbTBLNW9EOHlwZlBZZVhwV1dKYXhYQUYzTkJUWElPdXptSHNnOFV1?oc=5",
+      "publishedAt": "2026-03-13T04:47:00.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 75,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었습니다. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-03-14_10",
+      "date": "2026-03-14",
+      "category": "정책",
+      "title": "네트워크 약국 금지 및 AI 의약사 광고 금지 법안, 국회 상임위 통과",
+      "summary": [
+        "네트워크 약국을 금지하고 AI를 이용한 의약사 광고를 금지하는 법안이 국회 상임위를 통과했습니다.",
+        "이번 법안은 약사 사회의 주요 현안을 다루고 있습니다."
+      ],
+      "whyImportant": "약사 사회 및 관련 산업에 중요한 변화를 가져올 수 있는 법안입니다.",
+      "importanceRationale": "근거: 네트워크 약국 금지와 AI 의약사 광고 금지는 약사 사회의 구조와 광고 방식에 직접적인 영향을 미치기 때문입니다.",
       "impactSignals": [
         {
           "label": "policy",
           "evidence": "네트워크 약국 금지 및 AI 의약사 광고 금지 법안이 국회 상임위를 통과함."
         }
       ],
-      "dedupeKey": "network-pharmacy-ai-ad-ban-bill-passes-committee",
+      "dedupeKey": "network_pharmacy_ai_ad_ban_bill_passes_committee",
       "clusterKey": "광고",
       "matchedTo": null,
       "sourceName": "약사공론",
@@ -179,23 +291,23 @@
       "isBreaking": false
     },
     {
-      "id": "2026-03-14_7",
+      "id": "2026-03-14_11",
       "date": "2026-03-14",
       "category": "에너지",
       "title": "지중해에서 드론 공격을 받은 러시아 LNG선 '아틱 메타가즈' 표류… 몰타 해역 항행 경보",
       "summary": [
-        "지중해에서 드론 공격을 받은 러시아 LNG선 '아틱 메타가즈'가 표류 중이다.",
-        "현재 몰타 해역에는 항행 경보가 발령되었다."
+        "러시아 LNG선 '아틱 메타가즈'가 지중해에서 드론 공격을 받아 표류 중이다.",
+        "현재 몰타 해역에서 항행 경보가 발령되었다."
       ],
-      "whyImportant": "러시아 LNG 운반선에 대한 공격은 에너지 시장과 해상 운송에 영향을 미칠 수 있습니다.",
-      "importanceRationale": "근거: 러시아 LNG 운반선이 드론 공격을 받았다는 사실은 해상 보안의 취약성을 드러내며, 에너지 공급망에 대한 잠재적 위협을 시사한다.",
+      "whyImportant": "러시아 LNG 운반선에 대한 공격은 에너지 시장에 잠재적인 영향을 미칠 수 있다.",
+      "importanceRationale": "근거: 러시아 LNG 운반선이 드론 공격을 받았다는 사실은 해상 운송의 보안 취약성을 드러내며, 에너지 공급망에 대한 잠재적 위협을 시사한다.",
       "impactSignals": [
         {
           "label": "security",
-          "evidence": "러시아 LNG선이 드론 공격을 받아 몰타 해역에서 표류 중인 상황은 해상 보안에 대한 직접적인 위협을 나타낸다."
+          "evidence": "러시아 LNG선이 드론 공격을 받아 몰타 해역에서 항행 경보가 발령됨"
         }
       ],
-      "dedupeKey": "20240617_지중해_드론_공격_러시아_LNG선",
+      "dedupeKey": "20240516_지중해드론공격러시아LNG선",
       "clusterKey": "lng선",
       "matchedTo": null,
       "sourceName": "해사신문",
@@ -211,52 +323,78 @@
       "isBreaking": false
     },
     {
-      "id": "2026-03-14_8",
+      "id": "2026-03-14_12",
       "date": "2026-03-14",
-      "category": "국제",
-      "title": "DigitalMint 협상가가 랜섬웨어 공격을 실행하고 7500만 달러 갈취를 도왔다고 연방 당국 발표",
+      "category": "에너지",
+      "title": "현대건설, 북유럽 원전 시장 공략 본격화: 대형원전, SMR, MSR 협력",
       "summary": [
-        "연방 당국은 DigitalMint 협상가가 랜섬웨어 공격을 실행했다고 밝혔습니다.",
-        "이 협상가는 7500만 달러 갈취를 도운 혐의를 받고 있습니다."
+        "현대건설이 북유럽 원전 시장 공략을 위해 대형원전, SMR(소형모듈원전), MSR(용융염원자로) 분야에서 협력을 본격화한다.",
+        "이번 협력은 북유럽 원전 시장에서의 경쟁력을 강화하고 새로운 성장 동력을 확보하기 위한 전략으로 풀이된다."
       ],
-      "whyImportant": "이번 사건은 암호화폐 거래와 관련된 사이버 범죄의 심각성을 보여줍니다.",
-      "importanceRationale": "근거: DigitalMint 협상가가 랜섬웨어 공격에 연루되어 막대한 금액을 갈취한 혐의는 암호화폐 산업의 보안 취약성을 드러내고, 사이버 범죄의 심각한 영향을 강조합니다.",
+      "whyImportant": "북유럽 원전 시장 진출을 위한 현대건설의 전략적 움직임을 보여주는 중요한 사례이다.",
+      "importanceRationale": "근거: 현대건설이 북유럽 원전 시장 공략을 위해 대형원전, SMR, MSR 분야에서 협력을 본격화한다는 것은, 해당 시장에 대한 현대건설의 투자 및 사업 확장을 의미하며, 이는 에너지 산업 전반에 걸쳐 중요한 영향을 미칠 수 있다.",
       "impactSignals": [
         {
-          "label": "security",
-          "evidence": "DigitalMint negotiator ran ransomware attacks and helped extort $75 million"
+          "label": "capex",
+          "evidence": "현대건설의 북유럽 원전 시장 공략을 위한 대형원전, SMR, MSR 협력은 상당한 자본 투자를 수반한다."
         }
       ],
-      "dedupeKey": "digitalmint_ransomware_75m",
-      "clusterKey": "another",
+      "dedupeKey": "현대건설_북유럽원전공략_2024",
+      "clusterKey": "에너지/msr",
       "matchedTo": null,
-      "sourceName": "CyberScoop",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSTRsUUNQc2JRZnNZRHA0ZnNZamUwQThOdlA3MzVnRWNEQTB3eG9WOXA3WG96OW40QkxRaUpCVTJ5Wi0zeVpwTFdVWVlUR1ZFVlhsRVdkZ0p6bFVvelkxNFBlR05qQkdLcUpQZ0JCV3lsbjBZR3RVb3ZSamRUMHVMNkZwck9vNGh3NVgtRHBhTDRYNzg?oc=5",
-      "publishedAt": "2026-03-12T13:31:56.000Z",
+      "sourceName": "프라임경제",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1JdWo1QWtDSGgteEN6YXhJR09tNXJzOTBLamxlTkZKNVNOT1FsczFOQTZOT0pkSGs0djhxX1FxTlN0QjFtcmNzSjFfX25MZ3NpZk9BRmYxX2Q3cXFkYmFyTWp3TlNKaVdzSGlyOA?oc=5",
+      "publishedAt": "2026-03-13T02:46:53.000Z",
       "readTimeSec": 10,
       "status": "kept",
       "importance": 4,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "The article provides a clear and concise account of the allegations.",
+      "qualityReason": "기사 제목과 본문이 일치하며, 핵심 내용을 잘 요약했다.",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-03-14_9",
+      "id": "2026-03-14_13",
+      "date": "2026-03-14",
+      "category": "경제",
+      "title": "Adobe 주가, 분기별 실적 부진 및 CEO Shantanu Narayen 사임 발표로 급락",
+      "summary": [
+        "Adobe 주가가 분기별 실적 발표 후 급락했습니다.",
+        "CEO인 Shantanu Narayen이 사임할 예정입니다."
+      ],
+      "whyImportant": "Adobe의 주가 하락과 CEO 교체는 회사에 중요한 변화를 의미합니다.",
+      "importanceRationale": "근거: 실적 부진과 CEO 사임은 투자 심리에 부정적인 영향을 미칠 수 있으며, 회사 전략 및 운영에 변화를 가져올 수 있습니다.",
+      "impactSignals": [],
+      "dedupeKey": "adobe_shares_fall_ceo_steps_down",
+      "clusterKey": "adobe",
+      "matchedTo": null,
+      "sourceName": "CNBC",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNaWVDNjh2ai1xeGNtNVE0OFdGM3JjOEI5dFJBRXZndWllWHVfVGR1ZlBjSV93T2lnUXFmcGhmcWh1cElGR1Rrc0xnQUxGZVlXSG9Da2huV2xDampGUGd0Vl9BeF9TY0tSZ09xRXBQNi1FM25WdkVZQW1NY3VfSS1sU2R3YVJPX1p0TGdmV2hEMTU2dTFzTHFzS0FSdTY2X21ra2lSSTFyWmtfV2t0QzJ2QXJJSlk0UmNpMnZYelR1cEc?oc=5",
+      "publishedAt": "2026-03-12T20:28:00.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 63,
+      "qualityLabel": "ok",
+      "qualityReason": "The article provides factual information about Adobe's stock performance and CEO's departure. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-03-14_14",
       "date": "2026-03-14",
       "category": "기술",
       "title": "스트라이커 코퍼레이션 데이터 침해: 조사 진행 중",
       "summary": [
-        "스트라이커 코퍼레이션에서 데이터 침해가 발생하여 현재 조사가 진행 중입니다.",
-        "Claim Depot도 관련되어 있습니다."
+        "스트라이커 코퍼레이션에서 데이터 침해가 발생하여 현재 조사가 진행 중입니다."
       ],
       "whyImportant": "데이터 침해는 기업의 평판과 고객 신뢰도에 심각한 영향을 미칠 수 있습니다.",
-      "importanceRationale": "근거: 데이터 침해는 개인 정보 유출 및 재정적 손실을 초래할 수 있으며, 기업의 운영에도 지장을 줄 수 있습니다.",
+      "importanceRationale": "근거: 데이터 침해는 기업의 보안 시스템에 대한 신뢰를 떨어뜨리고, 법적 책임으로 이어질 수 있습니다.",
       "impactSignals": [
         {
           "label": "security",
-          "evidence": "Stryker Corporation의 데이터 침해 발생 및 조사 진행"
+          "evidence": "Stryker Corporation data breach investigation ongoing."
         }
       ],
       "dedupeKey": "stryker_data_breach_investigation_ongoing",
@@ -275,7 +413,7 @@
       "isBreaking": false
     },
     {
-      "id": "2026-03-14_10",
+      "id": "2026-03-14_15",
       "date": "2026-03-14",
       "category": "정책",
       "title": "플로리다, AI 경쟁에서 앞서 나가기 위해 데이터 센터 규제 프레임워크 승인",
@@ -283,9 +421,14 @@
         "플로리다 주 의회는 인공지능 경쟁에서 우위를 점하기 위해 데이터 센터에 대한 규제 프레임워크를 승인했습니다.",
         "이번 결정은 플로리다가 데이터 센터 산업을 육성하고 AI 기술 발전을 지원하기 위한 노력의 일환입니다."
       ],
-      "whyImportant": "플로리다 주가 AI 경쟁에서 우위를 확보하기 위한 중요한 단계입니다.",
-      "importanceRationale": "근거: 데이터 센터 규제 프레임워크 승인은 플로리다 주가 AI 기술 발전을 위한 투자를 유치하고 관련 산업을 육성하려는 의지를 보여줍니다.",
-      "impactSignals": [],
+      "whyImportant": "데이터 센터 규제 프레임워크는 플로리다의 AI 경쟁력 강화에 중요한 역할을 합니다.",
+      "importanceRationale": "근거: 데이터 센터는 AI 기술 개발 및 운영에 필수적인 인프라를 제공하며, 규제 프레임워크는 데이터 센터 투자를 촉진하고 관련 산업 성장을 지원합니다.",
+      "impactSignals": [
+        {
+          "label": "capex",
+          "evidence": "데이터 센터 규제 프레임워크 승인은 플로리다 내 데이터 센터 투자 확대를 유도할 것으로 예상됩니다."
+        }
+      ],
       "dedupeKey": "legislature-approves-data-centers-florida-ai",
       "clusterKey": "approves",
       "matchedTo": null,
@@ -294,15 +437,15 @@
       "publishedAt": "2026-03-13T15:29:43.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 2,
+      "importance": 3.5,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 내용이 일치하며, 핵심 정보를 잘 요약했습니다. / 근거부족",
+      "qualityReason": "기사 제목과 내용이 일치하며, 핵심 정보를 잘 요약했습니다.",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-03-14_11",
+      "id": "2026-03-14_16",
       "date": "2026-03-14",
       "category": "기술",
       "title": "[궁금해잇(it)] AI 저작권 침해 문제…합·불법 가르는 기준은?",
@@ -311,11 +454,11 @@
         "합법과 불법을 가르는 기준에 대해 다룹니다."
       ],
       "whyImportant": "AI 저작권 침해 문제에 대한 기준을 제시합니다.",
-      "importanceRationale": "근거: AI 저작권 침해는 기술 발전과 함께 중요한 법적 문제로 부상하고 있으며, 이에 대한 기준을 명확히 하는 것은 창작자와 AI 개발자 모두에게 중요합니다.",
+      "importanceRationale": "근거: AI 저작권 침해 문제는 기술 발전과 함께 중요성이 더욱 커지고 있으며, 이에 대한 명확한 기준은 관련 산업의 발전 방향을 설정하는 데 필수적입니다.",
       "impactSignals": [
         {
           "label": "security",
-          "evidence": "AI 저작권 침해 문제는 데이터 보안 및 지적 재산권 보호와 관련됩니다."
+          "evidence": "AI 저작권 침해 문제는 데이터 보안과 관련된 중요한 문제입니다."
         }
       ],
       "dedupeKey": "[궁금해잇(it)] AI 저작권 침해 문제…합·불법 가르는 기준은?",
@@ -329,65 +472,12 @@
       "importance": 3.5,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "기사가 AI 저작권 침해 문제에 대한 정보를 제공하고 있습니다.",
+      "qualityReason": "제목과 내용이 일치하며, 요약이 적절합니다.",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-03-14_12",
-      "date": "2026-03-14",
-      "category": "정책",
-      "title": "국회 복지위, 전반기와 동일하게 의사 1명, 약사 2명, 간호사 1명으로 구성",
-      "summary": [
-        "국회 복지위원회는 전반기와 마찬가지로 의사 1명, 약사 2명, 간호사 1명으로 구성될 예정이다."
-      ],
-      "whyImportant": "보건복지위원회 구성은 관련 정책 결정에 영향을 미치므로 중요합니다.",
-      "importanceRationale": "근거: 국회 복지위 구성은 보건의료 정책 방향에 직접적인 영향을 미치기 때문입니다.",
-      "impactSignals": [],
-      "dedupeKey": "국회 복지위 구성_의사1_약사2_간호사1",
-      "clusterKey": "1명",
-      "matchedTo": null,
-      "sourceName": "데일리팜",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE40dGZCYzNwM2Y5Y2RjRmN3Ulp1ODJjNV9WNUhBZzR5WjF3OURLMXhFdVp0dS1wQ2MzOUVSelQ0WmMxMEd6clBJWmVMSXJzYjA?oc=5",
-      "publishedAt": "2026-03-13T12:05:26.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 63,
-      "qualityLabel": "ok",
-      "qualityReason": "기사 내용이 간결하고 명확함 / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-03-14_13",
-      "date": "2026-03-14",
-      "category": "에너지",
-      "title": "현대건설, 북유럽 원전 시장 공략 본격화: 대형원전, SMR, MSR 협력",
-      "summary": [
-        "현대건설이 북유럽 원전 시장 공략을 위해 대형원전, SMR(소형모듈원전), MSR(용융염원자로) 분야에서 협력을 본격화한다.",
-        "이번 협력은 북유럽 원전 시장에서의 경쟁력을 강화하고 새로운 성장 동력을 확보하기 위한 전략으로 풀이된다."
-      ],
-      "whyImportant": "현대건설의 북유럽 원전 시장 진출은 국내 건설사의 해외 원전 시장 다변화에 기여할 수 있다.",
-      "importanceRationale": "근거: 현대건설이 북유럽 원전 시장 공략을 위해 대형원전, SMR, MSR 분야에서 협력을 본격화한다는 것은, 해당 시장에 대한 투자 및 사업 확장을 의미하며, 이는 기업의 성장 전략과 관련되어 중요하다고 판단됨.",
-      "impactSignals": [],
-      "dedupeKey": "20240116-현대건설-북유럽-원전-공략",
-      "clusterKey": "에너지/msr",
-      "matchedTo": null,
-      "sourceName": "프라임경제",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1JdWo1QWtDSGgteEN6YXhJR09tNXJzOTBLamxlTkZKNVNOT1FsczFOQTZOT0pkSGs0djhxX1FxTlN0QjFtcmNzSjFfX25MZ3NpZk9BRmYxX2Q3cXFkYmFyTWp3TlNKaVdzSGlyOA?oc=5",
-      "publishedAt": "2026-03-13T02:46:53.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 63,
-      "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 핵심 내용을 잘 요약했습니다. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-03-14_14",
+      "id": "2026-03-14_17",
       "date": "2026-03-14",
       "category": "경제",
       "title": "RBA 금리 인상 예상: 2026년 5월 정책 신호",
@@ -413,7 +503,7 @@
       "isBreaking": false
     },
     {
-      "id": "2026-03-14_15",
+      "id": "2026-03-14_18",
       "date": "2026-03-14",
       "category": "경제",
       "title": "Gambling.com 그룹 (NASDAQ:GAMB), 분기별 실적 발표, 주당 순이익 예상치 0.10달러 상회",
@@ -421,8 +511,8 @@
         "Gambling.com 그룹(NASDAQ:GAMB)이 분기별 실적을 발표했습니다.",
         "주당 순이익이 예상치를 0.10달러 상회했습니다."
       ],
-      "whyImportant": "실적 발표는 투자자와 시장 참여자에게 중요한 정보입니다.",
-      "importanceRationale": "근거: Gambling.com 그룹의 실적 발표는 회사의 재무 건전성과 성장 잠재력을 평가하는 데 중요한 지표가 됩니다. 특히 예상치를 상회하는 실적은 긍정적인 신호로 해석될 수 있습니다.",
+      "whyImportant": "실적 발표는 투자자와 시장에 중요한 정보입니다.",
+      "importanceRationale": "근거: Gambling.com 그룹의 실적 발표는 회사의 재무 건전성과 성장 잠재력을 평가하는 데 중요한 지표가 됩니다. 특히 예상치를 상회하는 실적은 투자 심리에 긍정적인 영향을 미칠 수 있습니다.",
       "impactSignals": [],
       "dedupeKey": "GAMB_earnings_2024",
       "clusterKey": "com",
@@ -435,34 +525,7 @@
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 정보가 명확합니다. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-03-14_16",
-      "date": "2026-03-14",
-      "category": "경제",
-      "title": "미국 1월 구인 건수 695만 건, 예상치 상회",
-      "summary": [
-        "미국 1월 구인 건수가 695만 건으로 전망치를 상회했다.",
-        "고용과 해고가 낮은 수준을 유지하고 있다."
-      ],
-      "whyImportant": "미국 노동 시장의 건전성을 보여주는 지표이다.",
-      "importanceRationale": "근거: 구인 건수 증가는 기업들이 노동 수요가 높다고 판단하고 있음을 시사하며, 이는 경제 활동의 활발함을 나타낸다.",
-      "impactSignals": [],
-      "dedupeKey": "US_Job_Openings_Jan_2024",
-      "clusterKey": "1월",
-      "matchedTo": null,
-      "sourceName": "연합인포맥스",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5GWUkzRklHcWRHbVBqd0YzbnhhNU1Wc21USEFiTHNKMzhXMERrUjUxYnZCYmhlUE4xc0xaVW1idTV2SkRpcFJvS2ZuR1d0MURwMEJZUEh5dWhLdzNGTElDWkZtVWl1MkJnbHZ5UkhadGQ?oc=5",
-      "publishedAt": "2026-03-13T16:24:59.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 63,
-      "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 간결하게 요약되어 있음. / 근거부족",
+      "qualityReason": "제목과 본문이 일치하며, 간결하게 핵심 정보를 전달합니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     }
