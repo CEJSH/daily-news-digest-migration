@@ -3,19 +3,20 @@
   "selectionCriteria": "① 내일도 영향이 남는 이슈 ② 과도한 감정 소모 제외 ③ 어제와 중복되는 뉴스 제외",
   "editorNote": "이 뉴스는 클릭 수가 아니라 오늘 이후에도 남는 정보만 기준으로 편집했습니다.",
   "question": "정보를 덜 보는 것이 오히려 더 똑똑한 소비일까?",
-  "lastUpdatedAt": "2026-03-14T06:30:08.987+09:00",
+  "lastUpdatedAt": "2026-03-14T07:25:11.644+09:00",
   "items": [
     {
       "id": "2026-03-14_1",
       "date": "2026-03-14",
       "category": "국제",
-      "title": "랜섬웨어 사고 대응자가 협상 중 BlackCat 사이버 범죄자에게 정보를 제공했다고 법무부가 주장",
+      "title": "랜섬웨어 사고 대응자가 협상 중 BlackCat 사이버 범죄자에게 정보를 제공, 법무부 주장",
       "summary": [
-        "법무부는 랜섬웨어 사고 대응자가 협상 중에 BlackCat 사이버 범죄자에게 정보를 제공했다고 주장했습니다.",
-        "이 사건은 Recorded Future News의 The Record에서 보도되었습니다."
+        "미국 법무부는 랜섬웨어 사고 대응자가 협상 중에 BlackCat 사이버 범죄자에게 정보를 제공했다고 주장했습니다.",
+        "이 사건은 사이버 보안 업계의 신뢰성에 대한 중요한 문제를 제기합니다.",
+        "자세한 내용은 Recorded Future News의 The Record에서 확인할 수 있습니다."
       ],
-      "whyImportant": "사이버 보안 및 법 집행에 미치는 영향",
-      "importanceRationale": "근거: 랜섬웨어 공격에 대한 대응 과정에서 내부 정보 유출이 발생했다는 법무부의 주장은 사이버 보안 업계의 신뢰성에 심각한 영향을 미칠 수 있으며, 법 집행 기관의 수사에도 중요한 단서가 될 수 있습니다.",
+      "whyImportant": "사이버 보안 업계의 신뢰성 문제 제기",
+      "importanceRationale": "근거: 랜섬웨어 사고 대응자가 범죄자에게 정보를 제공했다는 법무부의 주장은 사이버 보안 업계의 윤리적 기준과 신뢰성에 대한 심각한 우려를 나타냅니다.",
       "impactSignals": [],
       "dedupeKey": "ransomware_incident_responder_blackcat_doj",
       "clusterKey": "blackcat",
@@ -26,9 +27,9 @@
       "readTimeSec": 10,
       "status": "kept",
       "importance": 2,
-      "importanceRaw": 63,
+      "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 내용이 일치하며, 정보가 명확하게 전달됩니다. / 근거부족",
+      "qualityReason": "The article is a factual report from a reputable source. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -38,10 +39,10 @@
       "category": "국제",
       "title": "셀트리온, 바이오시밀러 글로벌 규제 완화로 최대 수혜 전망",
       "summary": [
-        "셀트리온이 바이오시밀러의 글로벌 규제 완화로 최대 수혜를 볼 것으로 전망됩니다."
+        "셀트리온이 바이오시밀러의 글로벌 규제 완화로 인해 최대 수혜를 입을 것으로 전망됩니다."
       ],
-      "whyImportant": "셀트리온의 수익성 개선 기대.",
-      "importanceRationale": "근거: 바이오시밀러 규제 완화는 셀트리온의 해외 시장 확대 및 수익 증대에 긍정적인 영향을 미칠 수 있습니다.",
+      "whyImportant": "셀트리온의 수익성 개선 기대",
+      "importanceRationale": "근거: 바이오시밀러 규제 완화는 셀트리온의 해외 시장 진출 및 점유율 확대에 긍정적인 영향을 미쳐 수익성 개선으로 이어질 수 있습니다.",
       "impactSignals": [],
       "dedupeKey": "셀트리온, 바이오시밀러 글로벌 규제 완화 최대 수혜",
       "clusterKey": "규제",
@@ -54,7 +55,7 @@
       "importance": 2,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 핵심 정보를 포함하고 있습니다. / 근거부족",
+      "qualityReason": "제목과 내용이 일치하며, 핵심 내용을 잘 요약했습니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -74,7 +75,7 @@
           "evidence": "북미 시장 공략을 위한 투자 확대 가능성"
         }
       ],
-      "dedupeKey": "cosmetic-odm-n-america-online-sales-ranking",
+      "dedupeKey": "cosmetic-odm-n-america-online-sales",
       "clusterKey": "odm",
       "matchedTo": null,
       "sourceName": "히트뉴스",
@@ -85,7 +86,7 @@
       "importance": 3.5,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 간결하게 핵심 내용을 전달합니다.",
+      "qualityReason": "제목과 본문이 일치하며, 핵심 내용을 잘 반영하고 있습니다.",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -97,12 +98,12 @@
       "summary": [
         "엔비디아가 곧 새로운 AI 칩을 공개할 예정이다.",
         "이번 칩 개발에는 200억 달러가 투자되었다.",
-        "자세한 내용은 CNBC에서 확인할 수 있다."
+        "CNBC에서 관련 내용을 보도했다."
       ],
-      "whyImportant": "엔비디아의 새로운 AI 칩은 AI 기술 발전과 시장 경쟁에 중요한 영향을 미칠 수 있다.",
-      "importanceRationale": "근거: 엔비디아는 AI 칩 시장의 선두 주자이며, 새로운 칩 개발은 기술 혁신과 시장 경쟁력 강화에 필수적이다.",
+      "whyImportant": "엔비디아의 새로운 AI 칩 공개는 AI 기술 발전과 시장 경쟁에 중요한 영향을 미칠 수 있다.",
+      "importanceRationale": "근거: 엔비디아는 AI 칩 시장의 선두 주자이며, 막대한 투자를 통해 개발된 새로운 칩은 기술적 우위를 더욱 강화할 수 있다. 이는 관련 산업 전반에 걸쳐 파급 효과를 가져올 수 있다.",
       "impactSignals": [],
-      "dedupeKey": "nvidia_new_ai_chip_20billion_bet",
+      "dedupeKey": "nvidia_new_ai_chip_20billion_20240229",
       "clusterKey": "반도체/brand",
       "matchedTo": null,
       "sourceName": "CNBC",
@@ -113,7 +114,7 @@
       "importance": 2,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 내용이 일치하며, 정보가 명확하게 전달됨. / 근거부족",
+      "qualityReason": "기사 제목과 내용을 충실히 반영하고 있으며, 정보의 오류나 과장된 표현이 없습니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -124,23 +125,28 @@
       "title": "레나 실적 부진, 주택 건설업체 주식에 대한 나쁜 징조",
       "summary": [
         "레나의 실적 부진은 주택 건설업체 주식에 대한 나쁜 징조이다.",
-        "오늘 상승세에도 불구하고 그렇다."
+        "오늘 상승세에도 불구하고 이는 부정적인 신호로 해석된다."
       ],
-      "whyImportant": "레나의 실적 부진은 주택 건설업체 주식에 영향을 미칠 수 있다.",
-      "importanceRationale": "근거: 레나의 실적은 주택 건설 시장의 전반적인 건전성을 나타내는 지표로 간주될 수 있기 때문이다.",
-      "impactSignals": [],
-      "dedupeKey": "LENNAR_EARNINGS_MISS_HOME_BUILDER_STOCKS",
+      "whyImportant": "주택 건설업체의 실적에 대한 투자 심리에 영향을 미칠 수 있다.",
+      "importanceRationale": "근거: 레나의 실적 부진은 주택 건설 경기 둔화에 대한 우려를 불러일으키며, 이는 관련 주식의 투자 심리에 부정적인 영향을 줄 수 있기 때문이다.",
+      "impactSignals": [
+        {
+          "label": "capex",
+          "evidence": "주택 건설업체의 투자 지출 감소 가능성 시사"
+        }
+      ],
+      "dedupeKey": "lennar_earnings_miss_2024",
       "clusterKey": "bad",
       "matchedTo": null,
       "sourceName": "Barron's",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMioANBVV95cUxObUM4WGt1ZExtdWFqRjAwNzcxR1l0Wm5qQ2NQdV9XTFJTUWo4UTVzemJWQW1kZXFyR0JpVmxpMXV2RUdDcVRBNUdJR196NGR5dDl3VGd6S29nQm9nQWtBZDRyUld3c29MRnRlbFZ4ckpoZkNsUkNMb0ZGMzRYZXozOTFRUVhmd0tzX29wb2dFcHlGcHNBdlQtWkJQdDVDQ3JvZjhzbDMxQjd1T0UxNU5wQjVESDRFckhMYmNSWktnM3RvY2Vtck5RdERBQTNtMURmOWdmTE5YcS1WRGNvUHVVZjdXTnVDbXNJY3UtOUlJb1BWV2xnRnV0cnk2S3VzUGlmbUFQOVpNZ3ZYYmV1X2s3dlpPQ3Bqdmp0QnF4LUY0Q2NzMGp6eTZ0dU9IOTdDQjBVVTRCLWM4M283TXNKR095dlB3Wk1ZX3laTm8wNk92SXVQaUhGLXhrQ1RKWENuU2NSZE0wSjAxaG1LR1RoTVM4UmU3bTdCbFB3bGNBdzlqUUV1VEt5UFlITnBxZjZXUGxYRVZEY3ZGZXRQeURTZHhVTQ?oc=5",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMioANBVV95cUxON19ZazNyU1lZV0M1ZmgyWUh4Qi1ybDVkaFA3SG1BMGN1dC1LRWI5XzdTaFVTOFo3cTVaVjhIOXdrY2hYMWVBd3pZZFpoMUxPOGtaVWw1QU5WZWRxQUhLMmRnM2o2WGpXaFVvYVU0M3RmTFZYZVo4ajZjYV82QjFFalJDZ0NCYnZ5Z181TFRRNlpBUkxFUGdPdldRcWJwTDVUUDNJNDNsclpfeUxzejlzWFM4eTc0VS1mVDhfWHdJemtSMGNpaXYyVGt4cmpVMlpIaFozbHRFRDdHMXNZM0FLM1dRTGo3bkE4aXFIaHRzZGNBOXNOR2JFQndrY2RJS2hTX0VLZEt2cnRuVExGQlNaOVpTLXk3NTA3TWVtSnhTSnBHRUZxSmUxODdmd08wVmIzVVdBU05KZld3SGF2TjJPNlZIUTIwbG4za0ZUdlo0aExVYzExSm5zNXl4di1SMXdOSHZKMXIwRmxKei1FckdsY3dQRkN0Y0ZYSTkydElQLVhaVGFBTjdtSmdvaWRkYkZWVUxvb1l1LTQtZE8zVGZlUw?oc=5",
       "publishedAt": "2026-03-13T15:03:00.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 2,
+      "importance": 3.5,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 정보가 명확하다. / 근거부족",
+      "qualityReason": "제목과 본문이 일치하며, 핵심 내용을 잘 반영하고 있다.",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -151,16 +157,11 @@
       "title": "'공공의료기관 15년 복무' 국립의전원법, 국회 복지위 통과",
       "summary": [
         "국립의전원법이 국회 보건복지위원회를 통과했습니다.",
-        "이 법안은 공공의료기관에서 15년간 복무하는 것을 의무화합니다."
+        "이 법안은 공공의료기관에서 15년간 복무하는 것을 조건으로 합니다."
       ],
-      "whyImportant": "공공의료 서비스 강화에 기여할 수 있는 법안입니다.",
-      "importanceRationale": "근거: 국립의전원법 통과는 공공의료 인력 확보 및 서비스 개선에 중요한 정책적 변화를 의미합니다.",
-      "impactSignals": [
-        {
-          "label": "policy",
-          "evidence": "국립의전원법이 국회 복지위를 통과하여 정책 변화가 예상됨"
-        }
-      ],
+      "whyImportant": "국립의전원 설립 및 공공의료 인력 확보에 중요한 정책적 변화입니다.",
+      "importanceRationale": "근거: 국립의전원법이 국회 복지위를 통과하여 공공의료기관 복무 의무를 부과함으로써 공공의료 체계에 직접적인 영향을 미치기 때문입니다.",
+      "impactSignals": [],
       "dedupeKey": "국립의전원법_국회_복지위_통과",
       "clusterKey": "15년",
       "matchedTo": null,
@@ -169,10 +170,10 @@
       "publishedAt": "2026-03-13T09:20:57.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 4,
+      "importance": 2,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 핵심 내용을 전달합니다.",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 핵심 내용을 전달합니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -180,45 +181,13 @@
       "id": "2026-03-14_7",
       "date": "2026-03-14",
       "category": "국제",
-      "title": "CVE-2026-3910: 크롬 V8 제로데이 취약점, 실제 공격에 활용",
-      "summary": [
-        "크롬 V8 엔진의 제로데이 취약점 CVE-2026-3910이 실제 공격에 사용되고 있습니다.",
-        "SOC Prime에서 해당 내용을 발표했습니다."
-      ],
-      "whyImportant": "크롬 사용자의 보안에 즉각적인 영향을 미치는 제로데이 취약점입니다.",
-      "importanceRationale": "근거: 크롬 V8 엔진의 제로데이 취약점이 실제 공격에 사용되고 있다는 정보는 사용자 보안에 대한 직접적인 위협을 의미하며, 즉각적인 대응이 필요합니다.",
-      "impactSignals": [
-        {
-          "label": "security",
-          "evidence": "크롬 V8 제로데이 취약점이 실제 공격에 사용됨"
-        }
-      ],
-      "dedupeKey": "CVE-2026-3910_chrome_v8_zero_day_in_the_wild",
-      "clusterKey": "cve",
-      "matchedTo": null,
-      "sourceName": "SOC Prime",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1CdzdiRzVkQXAybDJSRUczR21vNVQ2Z19EcUdGYkN5SGU3R1gybmo0TGVZcmRubDVjdUtvTFV0Nmx6OFNkVDROYXV2UXJPUTVMS2xvcmhrSU5MZ19OSWVMcEx3OUlNUmNiRGtuc3A5dnBNT2pSWlhPUXBMZw?oc=5",
-      "publishedAt": "2026-03-12T07:00:00.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 4.5,
-      "importanceRaw": 88,
-      "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 정보가 명확합니다.",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-03-14_8",
-      "date": "2026-03-14",
-      "category": "국제",
-      "title": "미디어텍 칩에서 취약점 발견: 가상자산 지갑 시드가 45초 만에 탈취될 수 있음",
+      "title": "미디어텍 칩 취약점 발견: 가상자산 지갑 시드 45초 만에 탈취 가능",
       "summary": [
         "미디어텍 칩에서 취약점이 발견되었습니다.",
         "이 취약점을 이용하면 가상자산 지갑의 시드를 45초 만에 탈취할 수 있습니다."
       ],
-      "whyImportant": "미디어텍 칩의 취약점을 통해 가상자산 지갑이 위험에 노출될 수 있습니다.",
-      "importanceRationale": "근거: 미디어텍 칩의 취약점을 이용해 가상자산 지갑 시드를 빠르게 탈취할 수 있다는 정보는 사용자 보안에 직접적인 위협을 의미합니다.",
+      "whyImportant": "미디어텍 칩을 사용하는 기기의 보안에 심각한 위협이 될 수 있습니다.",
+      "importanceRationale": "근거: 미디어텍 칩의 취약점을 통해 가상자산 지갑 시드가 빠르게 탈취될 수 있다는 점은 사용자 자산에 대한 직접적인 위험을 의미합니다.",
       "impactSignals": [],
       "dedupeKey": "mediatek_chip_vulnerability_crypto_wallet_seed_theft",
       "clusterKey": "45초",
@@ -231,20 +200,22 @@
       "importance": 2,
       "importanceRaw": 88,
       "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 내용이 일치하며, 간결하게 핵심 정보를 전달합니다. / 근거부족",
+      "qualityReason": "기사의 내용이 명확하고 간결하며, 핵심 정보를 잘 전달하고 있습니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-03-14_9",
+      "id": "2026-03-14_8",
       "date": "2026-03-14",
       "category": "기술",
       "title": "AI 기반 지속형 침투 테스트로 코드 취약점 즉시 수정",
       "summary": [
-        "지티티코리아는 AI가 발견하고 검증한 취약점을 코드에서 즉시 수정하는 지속형 침투 테스트를 제공합니다."
+        "지티티코리아는 AI가 발견하고 검증한 취약점을 코드에서 즉시 수정하는 지속형 침투 테스트를 제공합니다.",
+        "이 테스트는 AI를 활용하여 코드의 취약점을 찾아내고 검증합니다.",
+        "이를 통해 개발자는 발견된 취약점을 즉시 수정하여 보안성을 강화할 수 있습니다."
       ],
-      "whyImportant": "AI 기반의 지속적인 침투 테스트는 소프트웨어 개발 과정에서 보안 취약점을 신속하게 식별하고 해결하여 전반적인 시스템 보안을 강화합니다.",
-      "importanceRationale": "근거: AI를 활용한 자동화된 침투 테스트는 기존의 수동 방식보다 더 빠르고 정확하게 취약점을 찾아내고, 개발자가 즉시 수정할 수 있도록 지원하여 보안 사고 발생 가능성을 줄입니다.",
+      "whyImportant": "AI 기반의 지속적인 침투 테스트는 코드 취약점을 신속하게 식별하고 해결하여 보안을 강화합니다.",
+      "importanceRationale": "근거: AI가 코드 취약점을 찾아 즉시 수정하는 지속형 침투 테스트는 보안 강화에 직접적인 영향을 미치므로 중요합니다.",
       "impactSignals": [],
       "dedupeKey": "AI기반지속형침투테스트",
       "clusterKey": "ai가",
@@ -257,7 +228,39 @@
       "importance": 2,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "기사 내용이 명확하고 간결하며, 핵심 내용을 잘 전달하고 있습니다. / 근거부족",
+      "qualityReason": "기사 제목과 내용이 일치하며, 핵심 내용을 잘 요약했습니다. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-03-14_9",
+      "date": "2026-03-14",
+      "category": "기술",
+      "title": "아마존, AI 부정확한 조언으로 인한 서비스 장애 발생…인간 개입 확대?",
+      "summary": [
+        "아마존은 AI의 부정확한 조언이 서비스 장애의 원인이 되었다고 밝혔습니다.",
+        "이에 따라 아마존은 서비스 운영에 대한 인간의 개입을 다시 늘릴 것으로 예상됩니다."
+      ],
+      "whyImportant": "AI 시스템의 한계와 인간 감독의 중요성을 보여주는 사례입니다.",
+      "importanceRationale": "근거: 아마존의 서비스 안정성에 직접적인 영향을 미치는 AI 시스템의 문제점을 지적하고 있으며, 이는 다른 기업들의 AI 도입 전략에도 영향을 줄 수 있습니다.",
+      "impactSignals": [
+        {
+          "label": "infra",
+          "evidence": "아마존 서비스 장애의 원인이 AI의 부정확한 조언 때문이라는 직접적인 언급이 있습니다."
+        }
+      ],
+      "dedupeKey": "amazon-ai-failure-human-intervention",
+      "clusterKey": "개입",
+      "matchedTo": null,
+      "sourceName": "포춘코리아",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMickFVX3lxTE1wSlg4VkdxcW5SdE5GemFVNlZTeHNtTnQtQ29uMlFMNm9NM244Zkh6LWM2OGQ3TVAzcXZLNVdYTWxmbDVrRjl5eUZzZGZnYmNTLXlXelAydE42WWxfZ1FpbjNEVEptTk8yUDhUUDd0dUlwUdIBdkFVX3lxTFBFeWl6OXRmV2xUZi1ZT1d1ZVRXYmNjOVRrdE5vaUt0dHpvbS02TkpINUl2aUVzSndqR1lGelBXZGJEbmNwc1pDQ0ZscUJ6c19HcGFBdVN0dmlha3R3MmtrX2hIQ25nN3NoQWx3dG40QlRjX3VHdWc?oc=5",
+      "publishedAt": "2026-03-13T07:26:46.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 4,
+      "importanceRaw": 75,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 본문이 일치하며, 정보가 간결하고 명확합니다.",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -265,20 +268,47 @@
       "id": "2026-03-14_10",
       "date": "2026-03-14",
       "category": "정책",
+      "title": "공공의대법, 국회 상임위 통과",
+      "summary": [
+        "공공의대법이 국회 상임위를 통과했습니다.",
+        "이 법안은 공공 의료 인력 양성을 목표로 합니다."
+      ],
+      "whyImportant": "공공의대 설립을 위한 법적 기반 마련",
+      "importanceRationale": "근거: 공공의대법의 국회 상임위 통과는 공공 의료 서비스 강화에 중요한 정책적 변화를 의미합니다.",
+      "impactSignals": [],
+      "dedupeKey": "공공의대법, 국회 상임위 통과",
+      "clusterKey": "공공의대법",
+      "matchedTo": null,
+      "sourceName": "후생신보",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiREFVX3lxTE44M2xtcWcyakpzazh1Y283VGo1UzRFbTBLNW9EOHlwZlBZZVhwV1dKYXhYQUYzTkJUWElPdXptSHNnOFV1?oc=5",
+      "publishedAt": "2026-03-13T04:47:00.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 75,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 핵심 내용을 전달합니다. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-03-14_11",
+      "date": "2026-03-14",
+      "category": "정책",
       "title": "네트워크 약국 및 AI 의약사 광고 금지 법안, 국회 상임위 통과",
       "summary": [
-        "네트워크 약국을 금지하고 AI를 이용한 의약사 광고를 제한하는 법안이 국회 상임위를 통과했습니다.",
-        "이는 약사 사회의 주요 현안에 대한 입법적 진전으로 평가됩니다."
+        "네트워크 약국을 금지하고 인공지능(AI)을 이용한 의약사 광고를 금지하는 법안이 국회 상임위원회를 통과했습니다.",
+        "이번 법안은 약사 사회의 건전성을 확보하고, 소비자에게 정확한 의약 정보를 제공하기 위한 조치로 풀이됩니다."
       ],
-      "whyImportant": "약사 사회의 주요 이슈에 대한 정책적 변화를 의미합니다.",
-      "importanceRationale": "근거: 네트워크 약국 금지와 AI 의약사 광고 금지는 약사 사회의 오랜 숙원이었으며, 이번 법안 통과로 인해 약사들의 영업 환경 및 광고 방식에 큰 변화가 예상됩니다.",
+      "whyImportant": "이번 법안 통과는 약사 사회와 의약품 광고 시장에 중요한 변화를 가져올 수 있습니다.",
+      "importanceRationale": "근거: 네트워크 약국 금지와 AI 의약사 광고 금지는 의약 서비스의 질 관리 및 소비자 보호에 직접적인 영향을 미치기 때문입니다.",
       "impactSignals": [
         {
           "label": "policy",
           "evidence": "네트워크 약국 금지 및 AI 의약사 광고 금지 법안의 국회 상임위 통과"
         }
       ],
-      "dedupeKey": "network_pharmacy_ai_doctor_ad_ban_bill_passes_committee",
+      "dedupeKey": "network_pharmacy_ai_ad_ban_bill_passes_committee",
       "clusterKey": "광고",
       "matchedTo": null,
       "sourceName": "약사공론",
@@ -289,23 +319,23 @@
       "importance": 4,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 내용이 일치하며, 핵심 내용을 잘 요약했습니다.",
+      "qualityReason": "제목과 내용이 일치하며, 핵심 내용을 잘 요약했습니다.",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-03-14_11",
+      "id": "2026-03-14_12",
       "date": "2026-03-14",
       "category": "에너지",
       "title": "지중해에서 드론 공격을 받은 러시아 LNG선 '아틱 메타가즈' 표류… 몰타 해역 항행 경보",
       "summary": [
-        "러시아 LNG선 '아틱 메타가즈'가 지중해에서 드론 공격을 받아 표류 중이다.",
-        "현재 몰타 해역에서 항행 경보가 발령되었다."
+        "지중해에서 드론 공격을 받은 러시아 LNG선 '아틱 메타가즈'가 표류 중이다.",
+        "현재 몰타 해역에는 항행 경보가 발령되었다."
       ],
-      "whyImportant": "러시아 LNG 운송에 차질이 발생할 수 있으며, 해상 안전에 대한 우려가 커지고 있다.",
-      "importanceRationale": "근거: 러시아 LNG선이 드론 공격을 받았다는 사실은 에너지 공급망에 대한 잠재적 위협을 시사하며, 몰타 해역 항행 경보는 해상 안전 문제의 심각성을 나타낸다.",
+      "whyImportant": "러시아 LNG 운송에 차질이 발생할 수 있으며, 해상 안전에 대한 우려가 제기됩니다.",
+      "importanceRationale": "근거: 러시아 LNG선이 드론 공격을 받았다는 사실은 에너지 공급망에 대한 잠재적 위협을 시사하며, 몰타 해역 항행 경보는 해당 해역의 안전 문제가 발생했음을 의미합니다.",
       "impactSignals": [],
-      "dedupeKey": "20240516_지중해드론공격러시아LNG선",
+      "dedupeKey": "arctic-metagaz-drone-attack-mediterranean",
       "clusterKey": "lng선",
       "matchedTo": null,
       "sourceName": "해사신문",
@@ -316,21 +346,54 @@
       "importance": 2,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 사실적인 정보를 제공한다. / 근거부족",
+      "qualityReason": "제목과 본문이 일치하며, 사건의 핵심 내용을 담고 있습니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-03-14_12",
+      "id": "2026-03-14_13",
+      "date": "2026-03-14",
+      "category": "국제",
+      "title": "DigitalMint 협상가가 랜섬웨어 공격을 실행하고 7500만 달러 갈취를 도왔다고 연방 당국이 밝혀",
+      "summary": [
+        "미국 연방 당국은 DigitalMint의 협상가가 랜섬웨어 공격을 실행하고 7500만 달러를 갈취하는 데 관여했다고 발표했습니다.",
+        "DigitalMint는 암호화폐 ATM 네트워크를 운영하는 회사입니다.",
+        "이번 사건은 암호화폐 업계의 보안 취약성에 대한 우려를 다시 불러일으키고 있습니다."
+      ],
+      "whyImportant": "이번 사건은 암호화폐 업계의 보안 취약성을 강조하며, 관련 기업들의 보안 강화 필요성을 제기합니다.",
+      "importanceRationale": "근거: DigitalMint 협상가의 랜섬웨어 공격 연루는 암호화폐 업계의 보안 문제에 대한 심각한 우려를 나타내며, 이는 관련 기업들의 보안 강화 필요성을 시사합니다.",
+      "impactSignals": [
+        {
+          "label": "security",
+          "evidence": "DigitalMint negotiator ran ransomware attacks and helped extort $75 million"
+        }
+      ],
+      "dedupeKey": "digitalmint_ransomware_75m",
+      "clusterKey": "another",
+      "matchedTo": null,
+      "sourceName": "CyberScoop",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSTRsUUNQc2JRZnNZRHA0ZnNZamUwQThOdlA3MzVnRWNEQTB3eG9WOXA3WG96OW40QkxRaUpCVTJ5Wi0zeVpwTFdVWVlUR1ZFVlhsRVdkZ0p6bFVvelkxNFBlR05qQkdLcUpQZ0JCV3lsbjBZR3RVb3ZSamRUMHVMNkZwck9vNGh3NVgtRHBhTDRYNzg?oc=5",
+      "publishedAt": "2026-03-12T13:31:56.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 4,
+      "importanceRaw": 75,
+      "qualityLabel": "ok",
+      "qualityReason": "The article provides a clear and concise account of the allegations.",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-03-14_14",
       "date": "2026-03-14",
       "category": "경제",
       "title": "Adobe 주가, 분기별 실적 부진 및 CEO Shantanu Narayen 사임으로 급락",
       "summary": [
         "Adobe 주가가 분기별 실적 발표 후 급락했습니다.",
-        "CEO인 Shantanu Narayen이 사임할 예정입니다."
+        "CEO Shantanu Narayen이 사임할 예정입니다."
       ],
       "whyImportant": "Adobe의 주가 하락과 CEO 교체는 회사에 중요한 변화를 의미합니다.",
-      "importanceRationale": "근거: 실적 부진과 CEO 사임은 투자 심리에 부정적인 영향을 미칠 수 있으며, 이는 회사의 미래 전략에 대한 불확실성을 야기할 수 있습니다.",
+      "importanceRationale": "근거: 실적 부진은 투자 심리에 부정적인 영향을 미치며, CEO 교체는 경영 전략의 변화를 예고할 수 있습니다.",
       "impactSignals": [],
       "dedupeKey": "adobe_shares_fall_ceo_steps_down",
       "clusterKey": "adobe",
@@ -343,21 +406,21 @@
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "The article provides factual information about Adobe's stock performance and CEO resignation. / 근거부족",
+      "qualityReason": "The article provides a concise summary of the key events. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-03-14_13",
+      "id": "2026-03-14_15",
       "date": "2026-03-14",
       "category": "기술",
       "title": "ARA, 트럼프 대통령에게 비료 공급망 혼란에 대한 우려를 표명하는 서한 주도",
       "summary": [
-        "농업 소매업자 협회(ARA)는 트럼프 대통령에게 비료 공급망 혼란에 대한 우려를 표명하는 서한을 보냈습니다.",
-        "이 서한은 오클라호마 농장 보고서에 의해 보도되었습니다."
+        "농업 소매업체 협회(ARA)는 트럼프 대통령에게 비료 공급망 혼란에 대한 우려를 표명하는 서한을 보냈습니다.",
+        "이번 서한은 비료 공급망의 잠재적 취약성에 대한 ARA의 우려를 강조합니다."
       ],
-      "whyImportant": "비료 공급망의 혼란은 농업 생산에 직접적인 영향을 미치므로 중요합니다.",
-      "importanceRationale": "근거: 비료는 농작물 생산에 필수적인 요소이며, 공급망 문제는 식량 안보와 농가 소득에 영향을 미칠 수 있습니다.",
+      "whyImportant": "비료 공급망의 안정성은 농업 생산에 필수적입니다.",
+      "importanceRationale": "근거: 비료 공급망의 혼란은 농작물 생산에 직접적인 영향을 미쳐 식량 안보와 경제에 광범위한 영향을 미칠 수 있습니다.",
       "impactSignals": [],
       "dedupeKey": "ARA_Trump_Fertilizer_Supply_Chain_Disruptions",
       "clusterKey": "ara",
@@ -370,70 +433,7 @@
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 내용이 명확합니다. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-03-14_14",
-      "date": "2026-03-14",
-      "category": "기술",
-      "title": "스트라이커 코퍼레이션 데이터 침해: 조사 진행 중",
-      "summary": [
-        "스트라이커 코퍼레이션에서 데이터 침해가 발생하여 현재 조사가 진행 중입니다."
-      ],
-      "whyImportant": "데이터 침해는 기업의 평판과 고객 신뢰도에 심각한 영향을 미칠 수 있습니다.",
-      "importanceRationale": "근거: 데이터 침해는 기업의 보안 시스템에 대한 신뢰를 떨어뜨리고, 법적 책임으로 이어질 수 있습니다.",
-      "impactSignals": [
-        {
-          "label": "security",
-          "evidence": "Stryker Corporation data breach investigation ongoing."
-        }
-      ],
-      "dedupeKey": "stryker_data_breach_investigation_ongoing",
-      "clusterKey": "breach",
-      "matchedTo": null,
-      "sourceName": "Claim Depot",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1mT0psNXA5clVjbHVpVnoxRFQ2RXk1OG10OHBXbDVWLVRrTS16Z1EtU0p3VzRZNzJ3aTNaXzRJdHBYMWxBOWNVTFI5WldabExUbl95Nm9zUnRWc2dEUXlrbQ?oc=5",
-      "publishedAt": "2026-03-13T17:13:51.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 3.5,
-      "importanceRaw": 63,
-      "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 내용이 일치하며, 간결하게 요약되었습니다.",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-03-14_15",
-      "date": "2026-03-14",
-      "category": "정책",
-      "title": "플로리다, AI 경쟁에서 앞서 나가기 위해 데이터 센터 규제 프레임워크 승인",
-      "summary": [
-        "플로리다 주 의회는 인공지능 경쟁에서 우위를 점하기 위해 데이터 센터에 대한 규제 프레임워크를 승인했습니다.",
-        "이번 결정은 플로리다가 데이터 센터 산업을 육성하고 AI 기술 발전을 지원하기 위한 노력의 일환입니다."
-      ],
-      "whyImportant": "데이터 센터 규제 프레임워크는 플로리다의 AI 산업 경쟁력 강화에 중요한 역할을 합니다.",
-      "importanceRationale": "근거: 데이터 센터는 AI 기술 개발 및 운영에 필수적인 인프라를 제공하며, 규제 프레임워크는 데이터 센터 투자를 촉진하고 안정적인 운영 환경을 조성하여 AI 산업 발전에 기여할 수 있습니다.",
-      "impactSignals": [
-        {
-          "label": "capex",
-          "evidence": "데이터 센터 규제 프레임워크 승인은 데이터 센터 투자 확대로 이어질 수 있습니다."
-        }
-      ],
-      "dedupeKey": "legislature_approves_data_centers_florida_ai",
-      "clusterKey": "approves",
-      "matchedTo": null,
-      "sourceName": "Florida Politics",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQRXJzdzJHUkFxbjNqVnFXbUEyX1hyeDhfbEJySjZEUFAyT0tRNVAzVldUWFpXcWRqSDFoa19FX0FRamdkYmlVbzc0aW9NY1A2dW5lRlNNd011MlFaMk5jN2Y5Mm9FNDBRWTFyVnV3MF9iejBYNkJyek9lRmk1dDdieFA2OU5mN0tfMW5Pb1ZGcnozRXRhRlJoWW5BZUw4RnR2OXRYdkpHZkxFTWM1dHFYcUZ3dW5ZMzkzNUdoUGdzTERxZ1BwY21zQ2pteVM0cGtpSE1EY0FqckJiUzc0aEE?oc=5",
-      "publishedAt": "2026-03-13T15:29:43.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 3.5,
-      "importanceRaw": 63,
-      "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 내용이 일치하며, 핵심 내용을 잘 요약했습니다.",
+      "qualityReason": "제목과 내용이 일치하며, 정보가 명확합니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -441,51 +441,53 @@
       "id": "2026-03-14_16",
       "date": "2026-03-14",
       "category": "정책",
-      "title": "국회, 업계, 학계, K-프랜차이즈 글로벌 경쟁력 강화 논의",
+      "title": "플로리다, AI 경쟁에서 앞서나가기 위해 데이터 센터 규제 프레임워크 승인",
       "summary": [
-        "국회, 업계, 학계가 한자리에 모여 K-프랜차이즈의 글로벌 경쟁력 강화 방안을 논의했다."
+        "플로리다 주 의회는 인공지능 경쟁에서 우위를 점하기 위해 데이터 센터에 대한 규제 프레임워크를 승인했습니다.",
+        "이번 결정은 플로리다가 데이터 센터 투자를 유치하고 AI 기술 발전을 촉진하려는 노력의 일환입니다."
       ],
-      "whyImportant": "K-프랜차이즈 산업의 발전 방향을 제시합니다.",
-      "importanceRationale": "근거: 국회, 업계, 학계가 공동으로 K-프랜차이즈의 글로벌 경쟁력 강화를 모색하는 정책 논의는 산업 발전의 중요한 지표가 될 수 있습니다.",
+      "whyImportant": "플로리다가 AI 경쟁에서 우위를 확보하기 위한 중요한 단계입니다.",
+      "importanceRationale": "근거: 데이터 센터 규제 프레임워크 승인은 플로리다의 AI 기술 개발 및 데이터 센터 투자 유치에 직접적인 영향을 미칩니다.",
       "impactSignals": [],
-      "dedupeKey": "K-프랜차이즈 글로벌 경쟁력 강화 논의",
-      "clusterKey": "강화",
+      "dedupeKey": "legislature-approves-data-centers-florida-ai",
+      "clusterKey": "approves",
       "matchedTo": null,
-      "sourceName": "매일일보",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1tLU5ZNU1SZkIwZTZxV0IwV05ITUFwNDNtcEFHc1NPcFRZSWlWa0ptS0ZVdXBWUlU5ZDdCc3Q3V1dvUkFJQWh6ekFfM1pGcEhlLUFZM0lFQVRPRVhwdzBpcDRtZWQ?oc=5",
-      "publishedAt": "2026-03-13T07:48:00.000Z",
+      "sourceName": "Florida Politics",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQRXJzdzJHUkFxbjNqVnFXbUEyX1hyeDhfbEJySjZEUFAyT0tRNVAzVldUWFpXcWRqSDFoa19FX0FRamdkYmlVbzc0aW9NY1A2dW5lRlNNd011MlFaMk5jN2Y5Mm9FNDBRWTFyVnV3MF9iejBYNkJyek9lRmk1dDdieFA2OU5mN0tfMW5Pb1ZGcnozRXRhRlJoWW5BZUw4RnR2OXRYdkpHZkxFTWM1dHFYcUZ3dW5ZMzkzNUdoUGdzTERxZ1BwY21zQ2pteVM0cGtpSE1EY0FqckJiUzc0aEE?oc=5",
+      "publishedAt": "2026-03-13T15:29:43.000Z",
       "readTimeSec": 10,
       "status": "kept",
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었습니다. / 근거부족",
+      "qualityReason": "기사 제목과 내용이 일치하며, 핵심 정보를 잘 요약했습니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-03-14_17",
       "date": "2026-03-14",
-      "category": "정책",
-      "title": "공공의대법, 국회 상임위 통과",
+      "category": "경제",
+      "title": "버지니아 리치먼드 외곽에 제안된 계량기 후면 데이터 센터",
       "summary": [
-        "공공의대법이 국회 상임위를 통과했습니다."
+        "버지니아 리치먼드 외곽에 데이터 센터가 제안되었습니다.",
+        "이 데이터 센터는 계량기 후면에 위치할 예정입니다."
       ],
-      "whyImportant": "공공의료 강화에 기여할 수 있는 법안입니다.",
-      "importanceRationale": "근거: 공공의대 설립을 위한 법적 기반 마련.",
+      "whyImportant": "데이터 센터 건설 제안은 지역 경제에 영향을 미칠 수 있습니다.",
+      "importanceRationale": "근거: 데이터 센터 건설은 상당한 자본 지출을 수반하며, 이는 지역 경제 활성화에 기여할 수 있습니다.",
       "impactSignals": [],
-      "dedupeKey": "공공의대법, 국회 상임위 통과",
-      "clusterKey": "공공의대법",
+      "dedupeKey": "behind-the-meter-data-center-virginia",
+      "clusterKey": "behind",
       "matchedTo": null,
-      "sourceName": "후생신보",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiREFVX3lxTE44M2xtcWcyakpzazh1Y283VGo1UzRFbTBLNW9EOHlwZlBZZVhwV1dKYXhYQUYzTkJUWElPdXptSHNnOFV1?oc=5",
-      "publishedAt": "2026-03-13T04:47:00.000Z",
+      "sourceName": "Data Center Dynamics",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTzlBTGw4cHdPTnlPY2lBMUJDODlOUF9Md0dBVFV6QlpKcjh5N2tsOThwS2NPZHc3VEhkU0UwVE5NODI0OHJMRmNfczUzLWZ6SHdJS3JIYkttV1gtb0RCQWFTMnJhOVRfWXZwbkJWQjk1SllMVTZfMUUyRHNteWhza2wxTWtBdVJXdWhsaWVFeXN2Qms3LWpybTJBZ3ZHUTloMU9LRDhrbC1DOHM?oc=5",
+      "publishedAt": "2026-03-13T19:53:56.000Z",
       "readTimeSec": 10,
       "status": "kept",
       "importance": 2,
-      "importanceRaw": 63,
+      "importanceRaw": 50,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치함 / 근거부족",
+      "qualityReason": "The article provides a concise and factual summary of the data center proposal. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -493,39 +495,12 @@
       "id": "2026-03-14_18",
       "date": "2026-03-14",
       "category": "경제",
-      "title": "수정된 수입 예측: 이란 전쟁으로 인해 회계 연도 잔여 기간 동안 배럴당 91달러, 주에 5억 4,500만 달러 추가",
-      "summary": [
-        "수정된 수입 예측에 따르면 이란 전쟁으로 인해 회계 연도 잔여 기간 동안 배럴당 91달러, 주에 5억 4,500만 달러의 추가 수입이 발생할 것으로 예상됩니다.",
-        "이번 수입 증가는 이란 전쟁으로 인한 유가 상승에 기인합니다."
-      ],
-      "whyImportant": "이번 수입 증가는 주의 재정에 상당한 영향을 미칠 수 있습니다.",
-      "importanceRationale": "근거: 이란 전쟁으로 인한 유가 상승으로 주의 수입이 5억 4,500만 달러 증가할 것으로 예상됨.",
-      "impactSignals": [],
-      "dedupeKey": "iran_war_revenue_forecast_545M",
-      "clusterKey": "545m",
-      "matchedTo": null,
-      "sourceName": "Juneau Independent",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQTVZpdDRsYnNEeHpsdnJ6dVc0Uy03eEtIYk9VdTFWWWNqQ2JaUkNuUDBoTVpsMi04VFdNQTEtXzlyNmg4QWJ5UU54S2pCMVRicmxLN0x1ZU5jYmZKdEpzNmU5bl81OTFjQzJSb2xMM2NLel9IdVd1VVNqYnB0N2F4dTJTYkpCUXZfN21lSGRoeWNZV3NnMTU3emgya0JINmhwUE5mTzg1RVJHWG9xUkxBaE5lQml6eEY1LVFTcmNQUngyOWdFQWlxQ3ZINzhuT3c?oc=5",
-      "publishedAt": "2026-03-13T20:43:08.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 75,
-      "qualityLabel": "ok",
-      "qualityReason": "The article provides a clear and concise summary of the revised revenue forecast. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-03-14_19",
-      "date": "2026-03-14",
-      "category": "경제",
       "title": "RBA 금리 인상 예상: 2026년 5월 정책 신호",
       "summary": [
         "호주 중앙은행(RBA)의 금리 인상 예상에 대한 정책 신호가 2026년 5월에 나타날 것으로 보입니다."
       ],
-      "whyImportant": "금리 인상 시기는 경제에 중요한 영향을 미칩니다.",
-      "importanceRationale": "근거: RBA의 정책 결정은 시장과 투자에 직접적인 영향을 미치므로, 금리 인상 시기에 대한 정보는 경제 주체들에게 중요합니다.",
+      "whyImportant": "RBA의 통화 정책 방향을 예측하는 데 중요한 지표가 될 수 있습니다.",
+      "importanceRationale": "근거: 2026년 5월의 정책 신호는 향후 금리 인상 가능성을 시사하며, 이는 금융 시장 및 경제 전반에 영향을 미칠 수 있습니다.",
       "impactSignals": [],
       "dedupeKey": "RBA_Rate_Hike_Anticipation_May_2026",
       "clusterKey": "anticipation",
