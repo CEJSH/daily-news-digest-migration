@@ -3,19 +3,19 @@
   "selectionCriteria": "① 내일도 영향이 남는 이슈 ② 과도한 감정 소모 제외 ③ 어제와 중복되는 뉴스 제외",
   "editorNote": "이 뉴스는 클릭 수가 아니라 오늘 이후에도 남는 정보만 기준으로 편집했습니다.",
   "question": "정보를 덜 보는 것이 오히려 더 똑똑한 소비일까?",
-  "lastUpdatedAt": "2026-03-13T22:58:56.359+09:00",
+  "lastUpdatedAt": "2026-03-13T23:51:00.326+09:00",
   "items": [
     {
       "id": "2026-03-13_1",
       "date": "2026-03-13",
-      "category": "경제",
+      "category": "기술",
       "title": "AI 에너지 비용은 누가 부담하는가? 데이터 센터 전기 요금 논쟁",
       "summary": [
         "CNBC는 인공지능(AI) 에너지 비용 부담에 대한 논쟁을 보도했다.",
         "데이터 센터 전기 요금에 대한 논의가 진행 중이다."
       ],
       "whyImportant": "AI 기술 발전과 데이터 센터 운영에 따른 에너지 소비 및 비용 문제를 다루고 있어 중요합니다.",
-      "importanceRationale": "근거: AI 기술 발전으로 인한 데이터 센터의 에너지 소비 증가와 그에 따른 비용 부담 문제가 정책 및 투자 결정에 영향을 미칠 수 있기 때문입니다.",
+      "importanceRationale": "근거: AI 기술 확산에 따라 데이터 센터의 에너지 소비가 증가하고 있으며, 이는 관련 정책 및 투자 결정에 영향을 미칠 수 있기 때문입니다.",
       "impactSignals": [],
       "dedupeKey": "AI_energy_bill_data_center_electricity_costs",
       "clusterKey": "에너지/about",
@@ -28,12 +28,39 @@
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 내용을 충실히 반영한 요약 및 중요도 분석을 제공합니다. / 근거부족",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었습니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-03-13_2",
+      "date": "2026-03-13",
+      "category": "에너지",
+      "title": "미국 데이터 센터의 전력 수요 급증으로 화석 연료 발전량 증가할 수 있다고 EIA 발표",
+      "summary": [
+        "미국 에너지정보청(EIA)은 데이터 센터의 전력 수요 급증으로 인해 화석 연료 발전량이 증가할 수 있다고 밝혔습니다.",
+        "데이터 센터의 전력 수요 증가는 전체적인 전력 소비 증가로 이어질 수 있습니다."
+      ],
+      "whyImportant": "데이터 센터 전력 수요 급증이 화석 연료 발전량 증가로 이어질 수 있다는 점은 에너지 정책 및 환경에 중요한 영향을 미칩니다.",
+      "importanceRationale": "근거: 데이터 센터의 전력 소비 증가는 에너지 믹스에 변화를 가져올 수 있으며, 이는 탄소 배출량 증가와 같은 환경 문제로 이어질 수 있습니다.",
+      "impactSignals": [],
+      "dedupeKey": "US_power_demand_surge_from_data_centers_could_lift_fossil_fuel_generation_EIA_says",
+      "clusterKey": "에너지/centers",
+      "matchedTo": null,
+      "sourceName": "Reuters",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTFotMDdDX2FacngtaHZQWEg1Uzc4UXZwVGtSbWtldHIzdFpEX3Z5Y1hSVTVDYy1idHZobE05RVlOTFdHWlhPX1B4ZUx2T1prQ2o1ejZrdGxLMnpiOHhpaldYWElZdXRMcTdIeHc1SndmVGNNVGNscEJwcFNoNklfcW5mSTJKdzFnejNzM2dteE11TXNhVnE2ajRtaFFzc2FWNlNWSTd2Y0pkdjNRMDNpUFhUWURSdWtiY1pjMVNOQzEzeGdqTXR5TA?oc=5",
+      "publishedAt": "2026-03-12T20:43:11.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 63,
+      "qualityLabel": "ok",
+      "qualityReason": "기사 내용이 명확하고 간결함 / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-03-13_3",
       "date": "2026-03-13",
       "category": "기술",
       "title": "AI 에이전트, 스스로 해킹해 비밀번호 유출",
@@ -42,7 +69,7 @@
         "이는 AI의 잠재적 보안 위협을 보여줍니다."
       ],
       "whyImportant": "AI 에이전트의 보안 취약점은 심각한 위험을 초래할 수 있습니다.",
-      "importanceRationale": "근거: AI 에이전트가 스스로 해킹을 수행하여 비밀번호를 유출했다는 사실은 AI 시스템의 보안 허점을 명확히 보여주며, 이는 사용자 정보 및 시스템 전반에 대한 심각한 위협으로 이어질 수 있습니다.",
+      "importanceRationale": "근거: AI 에이전트가 스스로 해킹을 수행하여 비밀번호를 유출했다는 사실은 AI 시스템의 보안 취약점이 실제 위협으로 이어질 수 있음을 시사합니다.",
       "impactSignals": [],
       "dedupeKey": "AI_hacking_password_leak",
       "clusterKey": "매일경제",
@@ -53,41 +80,9 @@
       "readTimeSec": 10,
       "status": "kept",
       "importance": 2,
-      "importanceRaw": 88,
-      "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 내용이 일치하며, 핵심 내용을 잘 요약했습니다. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-03-13_3",
-      "date": "2026-03-13",
-      "category": "경제",
-      "title": "브렌트유 100달러 돌파…전쟁 장기화 전망에 선물 가격 급등",
-      "summary": [
-        "브렌트유 가격이 100달러를 넘어섰다.",
-        "이는 전쟁 장기화에 대한 전망으로 선물 가격이 급등한 결과이다."
-      ],
-      "whyImportant": "브렌트유 가격 급등은 에너지 시장에 큰 영향을 미치며, 관련 기업들의 수익과 시장 수요에 변동을 가져올 수 있다.",
-      "importanceRationale": "근거: 브렌트유 가격이 100달러를 넘었다는 사실은 에너지 시장의 중요한 변화를 의미하며, 전쟁 장기화 전망은 이러한 가격 상승을 더욱 부채질할 수 있다.",
-      "impactSignals": [
-        {
-          "label": "market-demand",
-          "evidence": "브렌트유 가격 변동은 시장 수요에 직접적인 영향을 줄 수 있음"
-        }
-      ],
-      "dedupeKey": "brent_oil_100_war_prolonged",
-      "clusterKey": "100달러",
-      "matchedTo": null,
-      "sourceName": "한겨레",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMickFVX3lxTFBOUmIxd1RRUllVbjJNYXJ5X1hJa1Rhc19mQURpU0JWMnA0VU8yY1M1bVdNdUIwaE5NcmlhaHBMTFp3OC14aVhMak5odjY0bTdCSXhJbWZQaWNBRmZ1TFJMUkhoNDV4aVQ0ZDBQT2t0SFNOdw?oc=5",
-      "publishedAt": "2026-03-13T00:48:00.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 4,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 핵심 내용을 잘 요약했습니다.",
+      "qualityReason": "기사 제목과 내용이 일치하며, 핵심 내용을 잘 요약했습니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -101,7 +96,7 @@
         "데이터 센터의 비윤리적인 문제점을 지적합니다."
       ],
       "whyImportant": "AI 데이터 센터의 환경 및 윤리적 문제에 대한 인식을 높입니다.",
-      "importanceRationale": "근거: AI 데이터 센터의 열악한 환경과 비윤리적인 문제점을 지적함으로써 사회적 인식을 높이고 개선을 촉구합니다.",
+      "importanceRationale": "근거: AI 데이터 센터의 열악한 환경과 비윤리적인 문제점을 지적함으로써 사회적 인식을 제고하고 개선을 촉구합니다.",
       "impactSignals": [],
       "dedupeKey": "dirty_ai_data_centers",
       "clusterKey": "atlantic",
@@ -114,7 +109,7 @@
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "기사의 내용이 명확하고 간결하게 요약되었습니다. / 근거부족",
+      "qualityReason": "기사의 내용이 명확하고 간결하게 요약되었으며, 중요도와 근거가 적절하게 제시되었습니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -127,10 +122,10 @@
         "송상교 진실화해위원장이 국회의장 및 야당 원내대표와 면담했다.",
         "이번 면담은 연합뉴스 한민족센터에서 진행되었다."
       ],
-      "whyImportant": "송상교 진실화해위원장의 국회 의장 및 야당 원내대표 면담은 향후 진실화해위원회의 정책 방향에 영향을 미칠 수 있다.",
-      "importanceRationale": "근거: 진실화해위원장이 국회 의장 및 야당 원내대표와 면담을 진행한 것은, 위원회의 활동에 대한 국회의 협조를 구하고 주요 정책에 대한 의견을 교환하기 위한 것으로 해석될 수 있다.",
+      "whyImportant": "송상교 진실화해위원장의 국회 의장 및 야당 원내대표 면담은 진실화해위원회의 활동에 대한 국회 차원의 관심과 협력을 보여주는 중요한 지점이다.",
+      "importanceRationale": "근거: 진실화해위원장의 국회 주요 인사 면담은 위원회의 정책 추진 및 협력 관계 구축에 영향을 미칠 수 있다.",
       "impactSignals": [],
-      "dedupeKey": "song-sang-gyo-meeting-2024",
+      "dedupeKey": "song-sang-gyo-meeting-0924",
       "clusterKey": "국회의장",
       "matchedTo": null,
       "sourceName": "연합뉴스 한민족센터",
@@ -141,7 +136,7 @@
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "기사 내용이 간결하고 사실 전달에 충실함. / 근거부족",
+      "qualityReason": "기사 내용이 간결하고 사실 전달에 충실하다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -153,17 +148,17 @@
       "summary": [
         "테슬라의 중국 판매량이 2026년 첫 두 달 동안 증가했습니다.",
         "반면, BYD의 판매량은 감소했습니다.",
-        "CNBC 보도에 따르면 이와 같은 판매량 변동이 있었습니다."
+        "CNBC 보도 내용입니다."
       ],
       "whyImportant": "테슬라와 BYD는 중국 전기차 시장의 주요 경쟁자이므로, 판매량 변화는 시장 경쟁 구도에 중요한 영향을 미칩니다.",
-      "importanceRationale": "근거: 테슬라와 BYD는 중국 전기차 시장의 주요 기업이며, 판매량 증감은 시장 점유율 및 경쟁 환경 변화를 나타내는 중요한 지표입니다.",
+      "importanceRationale": "근거: 테슬라와 BYD는 중국 전기차 시장의 선두 주자이며, 이들의 판매 실적은 시장 동향을 파악하는 데 중요한 지표가 됩니다.",
       "impactSignals": [
         {
           "label": "market-demand",
-          "evidence": "Tesla's China sales climb while BYD numbers drop"
+          "evidence": "테슬라의 중국 판매량 증가 및 BYD 판매량 감소"
         }
       ],
-      "dedupeKey": "tesla_byd_china_sales_202602",
+      "dedupeKey": "tesla_byd_china_sales_2026",
       "clusterKey": "china",
       "matchedTo": null,
       "sourceName": "CNBC",
@@ -174,40 +169,33 @@
       "importance": 4,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 정보가 명확합니다.",
+      "qualityReason": "제목과 본문이 일치하며, 정보가 간결하고 명확합니다.",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-03-13_7",
       "date": "2026-03-13",
-      "category": "기술",
-      "title": "AI, 파일 구조 분석으로 제로데이 공격 예측... 기업 파일 보안 위협 사전 탐지 기술",
+      "category": "경제",
+      "title": "고려아연, 아연·은 가격 급등에 사상 최대 실적 기대",
       "summary": [
-        "AI가 파일 구조를 분석하여 제로데이 공격을 예측하는 기술이 개발되었습니다.",
-        "이 기술은 기업의 파일 보안 위협을 사전에 탐지하는 데 사용됩니다.",
-        "지티티코리아에서 개발했습니다."
+        "고려아연이 아연과 은 가격 급등에 힘입어 사상 최대 실적을 기대하고 있다."
       ],
-      "whyImportant": "기업의 파일 보안 위협을 사전에 탐지하여 제로데이 공격으로 인한 피해를 줄일 수 있습니다.",
-      "importanceRationale": "근거: AI 기반의 파일 구조 분석을 통해 알려지지 않은 공격(제로데이 공격)을 예측하고 기업의 보안 위협을 사전에 탐지하는 기술은 기업의 데이터 및 시스템 보호에 중요한 역할을 합니다.",
-      "impactSignals": [
-        {
-          "label": "security",
-          "evidence": "AI를 이용한 파일 구조 분석으로 제로데이 공격 예측 및 기업 보안 위협 사전 탐지"
-        }
-      ],
-      "dedupeKey": "AI가 파일 구조 분석해 제로데이 공격 예측",
-      "clusterKey": "ai가",
+      "whyImportant": "고려아연의 실적은 아연 및 은 가격 변동에 민감하게 반응하므로 투자자와 관련 산업 종사자에게 중요합니다.",
+      "importanceRationale": "근거: 아연 및 은 가격 급등이 고려아연의 실적에 직접적인 영향을 미치기 때문입니다.",
+      "impactSignals": [],
+      "dedupeKey": "고려아연, 아연·은 가격 급등에 사상 최대 실적 기대",
+      "clusterKey": "가격",
       "matchedTo": null,
-      "sourceName": "지티티코리아",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5laFpKYmxITWdVcmo3WDFXTnY5ODZJZ3NGbnBCR1FfaGNYVXlubDBIZEp0ZlhFbHlIOW1nNTlXS3p5RmxoSTVXYXdVbThjTjRJWGpoS044a05rTWlZWkVmZzdpRTNIcjVUdFE?oc=5",
-      "publishedAt": "2026-03-11T20:30:00.000Z",
+      "sourceName": "프라임경제",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA1NXRPZGlVRXRRU2VRSGE3NDh3WnZUM1FkSG9uM2l3a1djQVcxQWluOHc3OXA0Z1RfTHVCMDVVWDZNb29SeDFmZS1mWHlLN3gzbUUxaXBlY0NJN1pEMnI0TA?oc=5",
+      "publishedAt": "2026-03-12T23:54:22.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 4.5,
-      "importanceRaw": 88,
+      "importance": 2,
+      "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "기사 내용이 명확하고 간결하게 요약되어 있으며, 기술의 중요성을 잘 설명하고 있습니다.",
+      "qualityReason": "제목과 내용이 일치하며 간결하게 요약되어 있습니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -222,9 +210,9 @@
         "밤 시간대에는 1kWh당 5.1원 인상됩니다."
       ],
       "whyImportant": "산업계의 전기 사용 패턴에 큰 영향을 미칠 수 있습니다.",
-      "importanceRationale": "근거: 산업용 전기 요금은 기업의 생산 비용에 직접적인 영향을 미치며, 시간대별 요금 조정은 에너지 소비 행태 변화를 유도할 수 있기 때문입니다.",
+      "importanceRationale": "근거: 산업용 전기 요금은 기업의 생산 비용에 직접적인 영향을 미치므로, 이번 개편은 기업의 경쟁력 및 에너지 소비 행태에 중요한 변화를 가져올 수 있습니다.",
       "impactSignals": [],
-      "dedupeKey": "정부 산업용 전기요금 개편, 1kWh당 낮에는16.9원 인하 밤에는 5.1원 인상",
+      "dedupeKey": "industrial_electricity_price_reform_2024",
       "clusterKey": "1kwh당",
       "matchedTo": null,
       "sourceName": "비즈니스포스트",
@@ -235,44 +223,12 @@
       "importance": 2,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 본문이 일치하며, 정보가 명확합니다. / 근거부족",
+      "qualityReason": "기사 내용이 명확하고 사실에 기반하고 있습니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-03-13_9",
-      "date": "2026-03-13",
-      "category": "기술",
-      "title": "아마존, AI 부정확한 조언으로 인한 서비스 장애 발생…인간 개입 확대?",
-      "summary": [
-        "아마존은 AI의 부정확한 조언이 서비스 장애의 원인이 되었다고 밝혔습니다.",
-        "이에 따라 아마존은 서비스 운영에 대한 인간의 개입을 다시 늘릴 것으로 예상됩니다."
-      ],
-      "whyImportant": "AI 시스템의 한계와 인간 감독의 중요성을 보여주는 사례입니다.",
-      "importanceRationale": "근거: 아마존의 서비스 장애 원인이 AI의 부정확한 조언 때문이며, 이는 AI 시스템의 완전성에 대한 의문을 제기합니다. 또한, 인간 개입의 필요성을 강조합니다.",
-      "impactSignals": [
-        {
-          "label": "infra",
-          "evidence": "아마존 서비스 장애의 원인이 AI의 부정확한 조언 때문이라는 점은 인프라 운영에 대한 중요한 시사점을 제공합니다."
-        }
-      ],
-      "dedupeKey": "amazon-ai-failure-human-intervention",
-      "clusterKey": "개입",
-      "matchedTo": null,
-      "sourceName": "포춘코리아",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMickFVX3lxTE1wSlg4VkdxcW5SdE5GemFVNlZTeHNtTnQtQ29uMlFMNm9NM244Zkh6LWM2OGQ3TVAzcXZLNVdYTWxmbDVrRjl5eUZzZGZnYmNTLXlXelAydE42WWxfZ1FpbjNEVEptTk8yUDhUUDd0dUlwUdIBdkFVX3lxTFBFeWl6OXRmV2xUZi1ZT1d1ZVRXYmNjOVRrdE5vaUt0dHpvbS02TkpINUl2aUVzSndqR1lGelBXZGJEbmNwc1pDQ0ZscUJ6c19HcGFBdVN0dmlha3R3MmtrX2hIQ25nN3NoQWx3dG40QlRjX3VHdWc?oc=5",
-      "publishedAt": "2026-03-13T07:26:46.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 4,
-      "importanceRaw": 75,
-      "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 정보가 간결하고 명확합니다.",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-03-13_10",
       "date": "2026-03-13",
       "category": "국제",
       "title": "중국 바이트댄스, 엔비디아 '블랙웰' AI 반도체 사용으로 미국 규제 우회",
@@ -281,14 +237,14 @@
         "이는 바이트댄스가 AI 기술 개발을 지속하려는 움직임으로 해석됩니다."
       ],
       "whyImportant": "바이트댄스의 엔비디아 블랙웰 AI 반도체 사용은 미국의 대중국 기술 규제에 대한 중요한 사례입니다.",
-      "importanceRationale": "근거: 바이트댄스가 미국의 규제를 우회하여 AI 반도체를 확보함으로써 기술 경쟁력을 유지하려는 시도를 보여주며, 이는 향후 미중 기술 관계에 영향을 미칠 수 있습니다.",
+      "importanceRationale": "근거: 바이트댄스가 미국의 규제를 우회하여 AI 반도체를 확보함으로써, 미국의 기술 제재 효과에 대한 의문을 제기하고, 다른 중국 기업들에게도 유사한 전략을 모색하도록 장려할 수 있습니다.",
       "impactSignals": [
         {
           "label": "policy",
-          "evidence": "바이트댄스의 엔비디아 블랙웰 AI 반도체 사용은 미국의 대중국 기술 규제에 대한 우회 사례임"
+          "evidence": "바이트댄스의 엔비디아 블랙웰 AI 반도체 사용은 미국의 대중국 기술 규제에 대한 우회 사례임."
         }
       ],
-      "dedupeKey": "중국 바이트댄스 엔비디아 '블랙웰' AI 반도체 쓴다, 미국의 규제 우회",
+      "dedupeKey": "bytedance-nvidia-blackwell-06142024",
       "clusterKey": "반도체/규제",
       "matchedTo": null,
       "sourceName": "비즈니스포스트",
@@ -299,12 +255,12 @@
       "importance": 4,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 내용이 일치하며, 요약이 정확하게 정보를 전달합니다.",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었습니다.",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-03-13_11",
+      "id": "2026-03-13_10",
       "date": "2026-03-13",
       "category": "정책",
       "title": "국회 복지위, 국립의전원 설립 및 필수 의료 형 감면 도입 법안 의결",
@@ -312,9 +268,14 @@
         "국회 보건복지위원회는 국립의학전문대학원 설립과 필수 의료 분야 형 감면 도입 법안을 의결했습니다.",
         "이번 의결은 의료 인력 양성 및 필수 의료 지원 강화를 목표로 합니다."
       ],
-      "whyImportant": "국립의전원 설립과 필수 의료 형 감면 도입은 의료 시스템 개선에 중요한 영향을 미칩니다.",
-      "importanceRationale": "근거: 국립의전원 설립은 의료 인력 부족 문제 해결에 기여하고, 필수 의료 형 감면은 해당 분야 종사자들의 부담을 줄여 의료 서비스 접근성을 높일 수 있습니다.",
-      "impactSignals": [],
+      "whyImportant": "이번 법안 의결은 국립의전원 설립을 통해 의료 인력 양성을 확대하고, 필수 의료 분야에 대한 법적 지원을 강화하는 데 중요한 의미를 가집니다.",
+      "importanceRationale": "근거: 국회 복지위에서 국립의전원 설립 및 필수 의료 형 감면 도입 법안을 의결한 사실은 정책 변화를 나타내며, 의료 시스템에 상당한 영향을 미칠 수 있습니다.",
+      "impactSignals": [
+        {
+          "label": "policy",
+          "evidence": "국회 복지위에서 국립의전원 설립 및 필수 의료 형 감면 도입 법안 의결"
+        }
+      ],
       "dedupeKey": "국회 복지위, 국립의전원 설립·필수의료 형 감면 도입 법안 의결",
       "clusterKey": "감면",
       "matchedTo": null,
@@ -323,24 +284,24 @@
       "publishedAt": "2026-03-13T05:39:05.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 2,
+      "importance": 4,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 내용을 충실히 반영함 / 근거부족",
+      "qualityReason": "기사 내용이 명확하고 간결하며, 핵심 정보를 잘 전달하고 있습니다.",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-03-13_12",
+      "id": "2026-03-13_11",
       "date": "2026-03-13",
       "category": "정책",
       "title": "대미투자특별법 국회 통과, 미국 관세 인상 철회 기대",
       "summary": [
         "대미투자특별법이 국회를 통과했습니다.",
-        "한국무역협회는 이 법안 통과로 미국의 관세 인상이 철회될 것으로 기대하고 있습니다."
+        "한국무역협회는 이 법안 통과로 미국의 관세 인상 가능성이 낮아질 것으로 전망했습니다."
       ],
-      "whyImportant": "미국의 대한국 관세 정책에 중요한 영향을 미칠 수 있습니다.",
-      "importanceRationale": "근거: 대미투자특별법의 통과가 미국의 관세 인상 철회 기대로 이어지고 있기 때문입니다.",
+      "whyImportant": "미국의 대한국 관세 정책에 긍정적 영향을 미칠 수 있는 법안입니다.",
+      "importanceRationale": "근거: 대미투자특별법 통과가 미국의 대한국 관세 인상 가능성을 낮출 수 있다는 한국무역협회의 분석에 기반합니다.",
       "impactSignals": [],
       "dedupeKey": "daemituja teukbyeolbeop gukhoe tonggwa",
       "clusterKey": "kita",
@@ -353,12 +314,12 @@
       "importance": 2,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 핵심 내용을 잘 요약했습니다. / 근거부족",
+      "qualityReason": "제목과 본문이 일치하며, 핵심 내용을 요약했습니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-03-13_13",
+      "id": "2026-03-13_12",
       "date": "2026-03-13",
       "category": "정책",
       "title": "'대미투자특별법' 국회 통과···한미전략투자공사 설립",
@@ -366,8 +327,8 @@
         "‘대미투자특별법’이 국회를 통과했습니다.",
         "이로써 한미전략투자공사 설립이 가능해졌습니다."
       ],
-      "whyImportant": "한미 간의 전략적 투자 협력이 강화될 것으로 예상됩니다.",
-      "importanceRationale": "근거: '대미투자특별법'의 국회 통과는 한미 양국 간의 투자 및 경제 협력 관계를 제도적으로 뒷받침하는 중요한 진전입니다.",
+      "whyImportant": "한미 간의 전략적 투자 협력 강화의 기반이 마련되었습니다.",
+      "importanceRationale": "근거: '대미투자특별법'의 국회 통과는 한미 전략투자공사 설립을 가능하게 하여 양국 간 투자 협력을 제도적으로 뒷받침합니다.",
       "impactSignals": [],
       "dedupeKey": "daemitoojateukbyeolbeop-gukhoe-tonggwa",
       "clusterKey": "culture",
@@ -385,15 +346,69 @@
       "isBreaking": false
     },
     {
+      "id": "2026-03-13_13",
+      "date": "2026-03-13",
+      "category": "국제",
+      "title": "미국 CISA, 윈도우 RDS 취약점 경고... 다크웹에서 3억원에 거래",
+      "summary": [
+        "미국 CISA(사이버 보안 및 인프라 보안국)가 윈도우 RDS(원격 데스크톱 서비스)의 취약점을 경고했습니다.",
+        "해당 취약점은 다크웹에서 약 3억원에 거래되고 있는 것으로 알려졌습니다."
+      ],
+      "whyImportant": "윈도우 RDS의 보안 취약점은 시스템 침해 및 데이터 유출로 이어질 수 있어 중요합니다.",
+      "importanceRationale": "근거: 미국 CISA의 경고 및 다크웹에서의 고가 거래는 해당 취약점이 심각한 보안 위협임을 시사합니다.",
+      "impactSignals": [],
+      "dedupeKey": "CISA_윈도우_RDS_취약점_경고",
+      "clusterKey": "3억원에",
+      "matchedTo": null,
+      "sourceName": "보안뉴스",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE55UVhPWDU5cjlrZUthS1BwemwyNUhFaVRCdzVYZ0NCTEFhREVidnBNMk8wNGF4NDloR3hmX2ZUdVZhRGNzT1pVczdSU052ZFJfQXB1LU1EWVAydW12SHBn?oc=5",
+      "publishedAt": "2026-03-10T04:37:00.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 88,
+      "qualityLabel": "ok",
+      "qualityReason": "기사 내용이 명확하고 간결하며, 중요한 정보를 포함하고 있습니다. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
       "id": "2026-03-13_14",
+      "date": "2026-03-13",
+      "category": "국제",
+      "title": "미국, '무역법 301조' 조사 개시…정부 \"관세 15%로 복원 수순\"",
+      "summary": [
+        "미국이 '무역법 301조'에 따른 조사를 개시했다.",
+        "한국 정부는 미국의 이번 조치가 관세 15% 복원 수순으로 보고 있다."
+      ],
+      "whyImportant": "미국의 무역법 301조 조사는 한국 경제에 부정적인 영향을 미칠 수 있다.",
+      "importanceRationale": "근거: 미국의 무역법 301조 조사는 수입 관세 부과로 이어질 수 있으며, 이는 한국의 대미 수출 감소와 경제적 불확실성 증가로 이어질 수 있다.",
+      "impactSignals": [],
+      "dedupeKey": "trade_law_301_investigation",
+      "clusterKey": "301조",
+      "matchedTo": null,
+      "sourceName": "마켓인",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBSQlVQZ0NINXNVNlNsdHVxUzdybW5yMmF5MkFxUjNMU2VETmZRVHkwY1ZVeVFncnpVV09LbUE3LTJLSElob094Yk5jcVppNlpyYnc4eWw2SGljOVFqUko3NU9OWm52WXlfWFNZbzhRMWUyWlU?oc=5",
+      "publishedAt": "2026-03-12T10:02:28.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 75,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 본문이 일치하며, 내용이 간결하고 명확함. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-03-13_15",
       "date": "2026-03-13",
       "category": "경제",
       "title": "헥토이노베이션, 16년째 최대 실적 경신",
       "summary": [
         "헥토이노베이션이 16년째 최대 실적을 경신했다."
       ],
-      "whyImportant": "헥토이노베이션의 지속적인 실적 성장은 기업의 성장세를 보여주는 중요한 지표입니다.",
-      "importanceRationale": "근거: 헥토이노베이션이 16년 연속 최대 실적을 경신했다는 것은 회사의 꾸준한 성장과 수익성을 입증하는 자료입니다.",
+      "whyImportant": "헥토이노베이션의 지속적인 실적 성장은 기업의 성장세를 나타내는 중요한 지표입니다.",
+      "importanceRationale": "근거: 헥토이노베이션이 16년 연속 최대 실적을 경신했다는 사실은 기업의 꾸준한 성장과 수익성을 입증합니다.",
       "impactSignals": [],
       "dedupeKey": "헥토이노베이션, 16년째 최대 실적 경신",
       "clusterKey": "16년째",
@@ -411,16 +426,16 @@
       "isBreaking": false
     },
     {
-      "id": "2026-03-13_15",
+      "id": "2026-03-13_16",
       "date": "2026-03-13",
       "category": "경제",
       "title": "LS그룹, 작년 사상 최대 실적 기록…영업이익 1.5조 원",
       "summary": [
-        "LS그룹이 지난해 사상 최대 실적을 기록했다.",
+        "LS그룹이 작년에 사상 최대 실적을 기록했다.",
         "영업이익은 1조 5천억 원에 달한다."
       ],
-      "whyImportant": "LS그룹의 사상 최대 실적은 그룹의 성장과 투자에 중요한 지표가 된다.",
-      "importanceRationale": "근거: LS그룹의 영업이익이 1조 5천억 원으로 사상 최대 실적을 기록했다는 것은 기업의 수익성이 크게 개선되었음을 의미한다.",
+      "whyImportant": "LS그룹의 사상 최대 실적은 그룹의 성장과 재무 건전성을 보여주는 중요한 지표입니다.",
+      "importanceRationale": "근거: LS그룹의 영업이익이 1조 5천억 원에 달하는 사상 최대 실적을 기록했다는 점은 기업의 수익성과 성장 가능성을 시사한다.",
       "impactSignals": [],
       "dedupeKey": "LS그룹, 작년 최대 실적",
       "clusterKey": "5조",
@@ -433,23 +448,23 @@
       "importance": 2,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "The article provides a concise and factual report of LS Group's record earnings. / 근거부족",
+      "qualityReason": "제목과 본문이 일치하며, 간결하게 핵심 정보를 전달합니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-03-13_16",
+      "id": "2026-03-13_17",
       "date": "2026-03-13",
       "category": "경제",
-      "title": "Google의 Wiz 320억 달러 인수, 막대한 수익을 올리는 투자자들",
+      "title": "Google의 Wiz 320억 달러 인수, 수십억 달러 수익을 올리는 투자자들",
       "summary": [
-        "Wiz가 Google에 320억 달러에 매각되면서 투자자들이 막대한 수익을 올리고 있습니다.",
-        "이번 인수는 클라우드 보안 시장에서 Google의 입지를 강화할 것으로 예상됩니다."
+        "Wiz가 Google에 320억 달러에 매각되면서 막대한 수익을 올리는 투자자들이 주목받고 있습니다.",
+        "이번 인수는 클라우드 보안 시장에서의 경쟁 심화를 예고합니다."
       ],
-      "whyImportant": "Google의 Wiz 인수는 클라우드 보안 시장에 큰 영향을 미칠 수 있습니다.",
-      "importanceRationale": "근거: Wiz의 대규모 인수 금액과 Google의 시장 영향력을 고려할 때, 이번 거래는 업계 판도를 바꿀 수 있는 중요한 사건입니다.",
+      "whyImportant": "Google의 Wiz 인수는 클라우드 보안 시장에 큰 영향을 미치며, 관련 투자자들에게 상당한 이익을 가져다주기 때문입니다.",
+      "importanceRationale": "근거: Wiz의 대규모 매각은 클라우드 보안 시장의 성장 가능성과 투자 가치를 보여주는 중요한 사례입니다.",
       "impactSignals": [],
-      "dedupeKey": "Wiz-Google-acquisition-investors-billions",
+      "dedupeKey": "wiz-google-acquisition-investors",
       "clusterKey": "billion",
       "matchedTo": null,
       "sourceName": "CTech",
@@ -460,39 +475,44 @@
       "importance": 2,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "The article provides a clear and concise overview of the acquisition and its potential impact. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-03-13_17",
-      "date": "2026-03-13",
-      "category": "국제",
-      "title": "미국, '무역법 301조' 조사 개시…정부 \"관세 15%로 복원 수순\"",
-      "summary": [
-        "미국이 '무역법 301조'에 따른 조사를 개시했다.",
-        "정부는 이에 대해 관세 15%로의 복원 수순으로 보고 있다."
-      ],
-      "whyImportant": "미국의 무역법 301조 조사는 한국 경제에 잠재적인 영향을 미칠 수 있다.",
-      "importanceRationale": "근거: 미국의 무역 정책 변화는 한국의 수출 및 경제 관계에 직접적인 영향을 줄 수 있기 때문이다.",
-      "impactSignals": [],
-      "dedupeKey": "trade_law_301_investigation",
-      "clusterKey": "301조",
-      "matchedTo": null,
-      "sourceName": "마켓인",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBSQlVQZ0NINXNVNlNsdHVxUzdybW5yMmF5MkFxUjNMU2VETmZRVHkwY1ZVeVFncnpVV09LbUE3LTJLSElob094Yk5jcVppNlpyYnc4eWw2SGljOVFqUko3NU9OWm52WXlfWFNZbzhRMWUyWlU?oc=5",
-      "publishedAt": "2026-03-12T10:02:28.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 63,
-      "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 간결하게 요약됨. / 근거부족",
+      "qualityReason": "기사 제목과 내용이 일치하며, 핵심 정보를 간결하게 전달합니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-03-13_18",
+      "date": "2026-03-13",
+      "category": "경제",
+      "title": "환율 26원 급락, 1,469.2원 기록…유가 안정 및 전쟁 종식 기대감 반영",
+      "summary": [
+        "환율이 유가 안정과 전쟁 종식 기대감으로 26원 급락하여 1,469.2원을 기록했다.",
+        "이번 환율 급락은 시장의 긍정적인 전망을 반영한 결과로 분석된다."
+      ],
+      "whyImportant": "환율 변동은 수입 물가와 기업 경쟁력에 영향을 미치므로 경제 전반에 중요한 지표이다.",
+      "importanceRationale": "근거: 환율 급락은 시장의 기대 심리를 나타내며, 이는 경제 상황 변화에 대한 중요한 신호로 해석될 수 있다.",
+      "impactSignals": [
+        {
+          "label": "market-demand",
+          "evidence": "유가 안정 및 전쟁 종식 기대감이 환율 하락에 영향을 미침"
+        }
+      ],
+      "dedupeKey": "20240130-환율급락",
+      "clusterKey": "26원",
+      "matchedTo": null,
+      "sourceName": "연합뉴스 한민족센터",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBiOHVrOFlIZG80UEdtYUZZMjdtRWREaWFEVkpvNHF3OHRuMkNDa3AzZTNFRmV3blJIWWl5aTU4b1dtMXRBMnVpUzRzVUt3MFVRN05uTUFyNTIzQjMxd1RhSVZMang4WTgzaFlEa1A1VVhQOGhi?oc=5",
+      "publishedAt": "2026-03-10T06:48:15.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 3.5,
+      "importanceRaw": 63,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 핵심 정보를 전달한다.",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-03-13_19",
       "date": "2026-03-13",
       "category": "국제",
       "title": "Anthropic 공급망 위험 지정 발효 — 정부 계약자를 위한 최신 개발 및 다음 단계",
@@ -504,7 +524,7 @@
       "whyImportant": "정부 계약자는 Anthropic 공급망 위험 지정의 영향을 이해해야 합니다.",
       "importanceRationale": "근거: 정부 계약에 참여하는 기업은 Anthropic 공급망 위험 지정이 계약에 미치는 영향을 파악하고 적절한 조치를 취해야 하므로 중요합니다.",
       "impactSignals": [],
-      "dedupeKey": "anthropic_supply_chain_risk_mayerbrowm",
+      "dedupeKey": "Anthropic_Supply_Chain_Risk_Designation_Takes_Effect",
       "clusterKey": "anthropic",
       "matchedTo": null,
       "sourceName": "Mayer Brown",
@@ -515,64 +535,7 @@
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 텍스트가 일치하며, 정보가 명확하게 전달됩니다. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-03-13_19",
-      "date": "2026-03-13",
-      "category": "국제",
-      "title": "트럼프, 사이버 전략 강화 발표…AI 및 규제 완화 강조",
-      "summary": [
-        "트럼프 대통령이 인공지능과 규제 완화를 전면에 내세운 강화된 사이버 전략을 공개했습니다."
-      ],
-      "whyImportant": "미국의 사이버 보안 정책 방향을 제시합니다.",
-      "importanceRationale": "근거: 트럼프 행정부의 사이버 전략은 미국의 기술 경쟁력 강화와 사이버 보안 강화에 중요한 영향을 미칩니다.",
-      "impactSignals": [
-        {
-          "label": "policy",
-          "evidence": "새로운 사이버 전략은 AI와 규제 완화를 포함한 정책적 변화를 시사합니다."
-        }
-      ],
-      "dedupeKey": "trump-cyber-strategy-ai-deregulation",
-      "clusterKey": "강화한",
-      "matchedTo": null,
-      "sourceName": "cio.com",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiygJBVV95cUxPZFdNZ1JWdl9aZVA5RTM3UWNKTVZNLS13a2xnNDlpTi1ORFQ5V1pXRFAtZ0YzZXV0dzhaMnVyWnRrc0FjZHFqYms3dUJMcXNYRjVTSWJadkp5ZUtGV0h5NnY0Ymt3OFNoYllUc05mSG1kS3ZFeWtRR2pNN1pDNGNUUE1ORng4bmZ3S0xneXVTdVFIOEZHWGVWVkt5UkhIRFJPdFZ0RnZDQTlUUmltcUczUTRUVDBpRE83ZGV5V2ZpVFIyX0lUbWJQdmt6dU9OdWJPUHRUYkJPM2ZIX3ZWRmlJZnprM2EySHRVbG5Dd1JJbGw3c1NLQWdYZXQxcE5mUkZZUGFBZGo5aG85Um9lMjNCN0RPMjNkZzlXTWstTVZ6Q0Y5TkxDaWlURUt5MjhLMlpmdmlDU1dzN3c1dERUZzdOb0hZRWplWEVXdlE?oc=5",
-      "publishedAt": "2026-03-09T02:42:26.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 3.5,
-      "importanceRaw": 63,
-      "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 내용이 일치하며, 간결하게 요약되었습니다.",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-03-13_20",
-      "date": "2026-03-13",
-      "category": "국제",
-      "title": "혼란은 새로운 공급망의 표준 - 전미소매협회",
-      "summary": [
-        "전미소매협회(NRF)에 따르면 혼란이 새로운 공급망의 표준이 되고 있습니다."
-      ],
-      "whyImportant": "공급망의 변화를 이해하는 데 중요합니다.",
-      "importanceRationale": "근거: 공급망 혼란이 일상화됨에 따라 기업은 이에 적응해야 하며, 이는 비즈니스 전략 및 운영에 영향을 미칩니다.",
-      "impactSignals": [],
-      "dedupeKey": "disruption-supply-chain-nrf",
-      "clusterKey": "chain",
-      "matchedTo": null,
-      "sourceName": "National Retail Federation | NRF",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8teDgwYzFvaVRSTzVsbnMzZm9QSGdiZnVZeEVjSWtOSWQza1EzRE80Mk96c2lyOHp4UXRjT1dSamRJUW1xUmRnQzItWXNTemdxc3BFV0VTX2NVTWZHOG9yeXd1MFpfamZCNzB3a0ZlUQ?oc=5",
-      "publishedAt": "2026-03-11T16:15:26.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 50,
-      "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었습니다. / 근거부족",
+      "qualityReason": "기사 제목과 내용이 일치하며, 정보가 명확하게 전달됩니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     }
