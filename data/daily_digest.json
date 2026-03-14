@@ -3,7 +3,7 @@
   "selectionCriteria": "① 내일도 영향이 남는 이슈 ② 과도한 감정 소모 제외 ③ 어제와 중복되는 뉴스 제외",
   "editorNote": "이 뉴스는 클릭 수가 아니라 오늘 이후에도 남는 정보만 기준으로 편집했습니다.",
   "question": "정보를 덜 보는 것이 오히려 더 똑똑한 소비일까?",
-  "lastUpdatedAt": "2026-03-15T04:24:27.234+09:00",
+  "lastUpdatedAt": "2026-03-15T05:24:54.331+09:00",
   "items": [
     {
       "id": "2026-03-15_1",
@@ -15,9 +15,14 @@
         "현재 공격이 진행 중입니다."
       ],
       "whyImportant": "크롬 사용자들은 즉시 보안 업데이트를 해야 합니다.",
-      "importanceRationale": "근거: 제로데이 공격은 즉각적인 보안 위협을 의미하며, 35억 명의 사용자가 잠재적 피해 대상이 될 수 있기 때문입니다.",
-      "impactSignals": [],
-      "dedupeKey": "google-chrome-zero-day-attack-underway",
+      "importanceRationale": "근거: 제로데이 공격은 즉각적인 보안 위협을 의미하며, 35억 명의 사용자가 잠재적 피해 대상이 될 수 있습니다.",
+      "impactSignals": [
+        {
+          "label": "security",
+          "evidence": "현재 크롬 사용자 대상 공격 진행 중"
+        }
+      ],
+      "dedupeKey": "google_chrome_zero_day_attack_underway",
       "clusterKey": "alert",
       "matchedTo": null,
       "sourceName": "Forbes",
@@ -25,10 +30,10 @@
       "publishedAt": "2026-03-14T12:43:00.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 2,
+      "importance": 4.5,
       "importanceRaw": 88,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 구체적인 정보를 제공합니다. / 근거부족",
+      "qualityReason": "제목과 본문이 일치하며, 구체적인 정보를 제공합니다.",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -38,17 +43,12 @@
       "category": "경제",
       "title": "북미·온라인 시장을 공략하여 매출 순위권에 안착한 화장품 ODM",
       "summary": [
-        "북미와 온라인 시장의 틈새를 공략한 화장품 ODM 업체가 매출 순위권에 진입했습니다."
+        "북미와 온라인 시장의 틈새를 공략한 화장품 ODM 기업이 매출 순위권에 진입했습니다."
       ],
-      "whyImportant": "이러한 성공은 특정 시장 전략이 화장품 ODM 업체의 성장에 미치는 영향을 보여줍니다.",
-      "importanceRationale": "근거: 북미 및 온라인 시장이라는 특정 틈새 시장을 공략하여 매출 순위권에 진입했다는 사실은, 시장 전략이 기업 성장에 중요한 역할을 한다는 것을 시사합니다.",
-      "impactSignals": [
-        {
-          "label": "capex",
-          "evidence": "북미 시장 공략을 위한 투자 확대 가능성"
-        }
-      ],
-      "dedupeKey": "cosmetic-odm-n-america-online",
+      "whyImportant": "화장품 ODM 업계의 새로운 성공 사례를 보여줍니다.",
+      "importanceRationale": "근거: 북미 및 온라인 시장이라는 특정 틈새 시장을 공략하여 매출을 성공적으로 증가시킨 화장품 ODM 기업의 사례는 업계의 다른 기업들에게도 시사하는 바가 큽니다.",
+      "impactSignals": [],
+      "dedupeKey": "cosmetic_odm_niche_market_success",
       "clusterKey": "odm",
       "matchedTo": null,
       "sourceName": "히트뉴스",
@@ -56,10 +56,10 @@
       "publishedAt": "2026-03-12T07:00:00.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 3.5,
+      "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 텍스트가 일치하며, 정보가 명확합니다.",
+      "qualityReason": "제목과 본문이 일치하며, 핵심 내용을 잘 반영하고 있습니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -67,14 +67,15 @@
       "id": "2026-03-15_3",
       "date": "2026-03-15",
       "category": "경제",
-      "title": "전쟁으로 인한 유가 전망에 대한 심의로 알래스카 하원에서 추가 예산안 보류",
+      "title": "알래스카 하원, 전쟁으로 인한 유가 전망 고심하며 추가 예산안 지연",
       "summary": [
-        "알래스카 하원은 전쟁으로 인한 유가 전망을 심의하면서 추가 예산안이 보류되었습니다."
+        "알래스카 하원에서 전쟁으로 인한 유가 전망을 고려하면서 추가 예산안이 지연되고 있습니다.",
+        "이는 예산 책정에 신중을 기하려는 움직임으로 해석됩니다."
       ],
       "whyImportant": "알래스카 주의 예산 결정에 영향을 미치는 요인을 보여줍니다.",
-      "importanceRationale": "근거: 알래스카 주의 추가 예산안이 유가 전망에 따라 보류될 수 있다는 것은, 유가 변동이 주의 재정에 직접적인 영향을 미친다는 것을 시사합니다.",
+      "importanceRationale": "근거: 알래스카 하원에서 유가 전망을 고려하여 추가 예산안이 지연되고 있다는 사실은, 유가 변동성이 주의 재정에 미치는 잠재적 영향을 시사합니다.",
       "impactSignals": [],
-      "dedupeKey": "alaska-budget-oil-price-forecast",
+      "dedupeKey": "alaska-budget-stall-oil-price",
       "clusterKey": "alaska",
       "matchedTo": null,
       "sourceName": "Alaska Public Media",
@@ -100,14 +101,14 @@
         "한국무역협회에서 발표했습니다."
       ],
       "whyImportant": "환율 변동은 수입 물가 및 기업 경쟁력에 영향을 미치므로 중요합니다.",
-      "importanceRationale": "근거: 환율 하락은 수입 물가 안정에 기여할 수 있지만, 수출 기업의 채산성에는 부정적인 영향을 줄 수 있습니다. 따라서 경제 전반에 걸쳐 미치는 영향을 고려해야 합니다.",
+      "importanceRationale": "근거: 환율 하락은 수입 물가 안정에 기여할 수 있지만, 수출 기업의 채산성에는 부정적인 영향을 줄 수 있습니다.",
       "impactSignals": [
         {
           "label": "market-demand",
-          "evidence": "환율 변동은 수입 및 수출 시장의 수요에 영향을 미칩니다."
+          "evidence": "환율 변동에 따른 시장 수요 변화 가능성"
         }
       ],
-      "dedupeKey": "20240118-환율하락",
+      "dedupeKey": "20240118_환율하락",
       "clusterKey": "달러",
       "matchedTo": null,
       "sourceName": "한국무역협회-KITA.NET",
@@ -126,15 +127,15 @@
       "id": "2026-03-15_5",
       "date": "2026-03-15",
       "category": "기술",
-      "title": "AI를 활용한 데이터 유출 탐지 자동화로 기업 데이터 보안 운영 효율성 향상",
+      "title": "AI를 이용한 데이터 유출 탐지 자동화로 기업 데이터 보안 운영 효율성 향상",
       "summary": [
-        "지티티코리아는 AI를 활용하여 데이터 유출 탐지를 자동화한다.",
-        "이를 통해 기업의 데이터 보안 운영 효율성을 높일 수 있다."
+        "AI를 활용하여 데이터 유출 탐지를 자동화함으로써 기업의 데이터 보안 운영 효율성을 높일 수 있습니다.",
+        "지티티코리아는 AI 기반 데이터 유출 탐지 솔루션을 제공합니다."
       ],
-      "whyImportant": "AI 기반 데이터 유출 탐지 자동화는 기업의 보안 역량을 강화하고 운영 효율성을 개선합니다.",
-      "importanceRationale": "근거: AI를 이용한 데이터 유출 탐지 자동화는 기업의 데이터 보안 운영 효율을 직접적으로 향상시키기 때문입니다.",
+      "whyImportant": "AI 기반 데이터 유출 탐지 자동화는 기업의 보안 운영 효율성을 향상시키고 데이터 유출 위험을 줄이는 데 중요한 역할을 합니다.",
+      "importanceRationale": "근거: AI를 이용한 데이터 유출 탐지 자동화가 기업 데이터 보안 운영 효율을 높인다는 내용이 기사에 명시되어 있습니다.",
       "impactSignals": [],
-      "dedupeKey": "AI데이터유출탐지자동화",
+      "dedupeKey": "AI를 이용한 데이터 유출 탐지 자동화로 기업 데이터 보안 운영 효율성 향상",
       "clusterKey": "ai로",
       "matchedTo": null,
       "sourceName": "지티티코리아",
@@ -145,7 +146,7 @@
       "importance": 2,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 내용이 일치하며, 정보가 명확합니다. / 근거부족",
+      "qualityReason": "기사의 내용이 명확하고 간결하며, AI 기반 데이터 유출 탐지 자동화의 중요성을 잘 설명하고 있습니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -153,32 +154,25 @@
       "id": "2026-03-15_6",
       "date": "2026-03-15",
       "category": "국제",
-      "title": "CVE-2026-3910: 크롬 V8 제로데이 취약점, 실제 공격에 활용",
+      "title": "트럼프, \"이란은 협상 원하지만 받아들이지 않을 것\"",
       "summary": [
-        "크롬 V8 엔진에서 제로데이 취약점 CVE-2026-3910이 발견되었습니다.",
-        "이 취약점은 실제 공격에 사용되고 있습니다.",
-        "SOC Prime에서 해당 내용을 발표했습니다."
+        "도널드 트럼프 대통령은 이란이 미국과의 협상을 원하고 있지만 받아들이지 않을 것이라고 언급했습니다."
       ],
-      "whyImportant": "크롬 사용자는 보안 업데이트를 통해 취약점을 해결해야 합니다.",
-      "importanceRationale": "근거: 크롬 V8 엔진의 제로데이 취약점은 공격자가 시스템을 제어할 수 있게 하므로 즉각적인 보안 조치가 필요합니다.",
-      "impactSignals": [
-        {
-          "label": "security",
-          "evidence": "크롬 V8 제로데이 취약점이 실제 공격에 사용됨"
-        }
-      ],
-      "dedupeKey": "CVE-2026-3910_chrome_v8_zero_day",
-      "clusterKey": "cve",
+      "whyImportant": "미국 대통령의 발언은 미국과 이란 관계의 긴장 상태를 반영하며, 향후 정책 방향을 가늠하는 데 중요합니다.",
+      "importanceRationale": "근거: 트럼프 대통령의 직접적인 발언은 외교 정책 결정에 큰 영향을 미치며, 국제 관계에 즉각적인 파급 효과를 가져올 수 있습니다.",
+      "impactSignals": [],
+      "dedupeKey": "trump-iran-negotiation-001",
+      "clusterKey": "받아들이지",
       "matchedTo": null,
-      "sourceName": "SOC Prime",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1CdzdiRzVkQXAybDJSRUczR21vNVQ2Z19EcUdGYkN5SGU3R1gybmo0TGVZcmRubDVjdUtvTFV0Nmx6OFNkVDROYXV2UXJPUTVMS2xvcmhrSU5MZ19OSWVMcEx3OUlNUmNiRGtuc3A5dnBNT2pSWlhPUXBMZw?oc=5",
-      "publishedAt": "2026-03-12T07:00:00.000Z",
+      "sourceName": "연합인포맥스",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9DNGo3YmFibDFodGdmRFJGYnFJWEZad1k3WXc4V0E1aW1VZVVyOVRzMTRFQ3VIVFZyOVd1ZDBqbFM5WUt5OXZtNVZBNy0wamlUbmdJNGZYZFU3blVlbDhfMERnX0xRei1RaTVLOVUzUWTSAXRBVV95cUxPME50Tk1DbHZaUVFyMnNzRng3NndWSWhDVTRCWVdhOGRBVzdoMVNrNzliR3ZiT01hbThTS3E0bG1MQlBUTER6LTRuak5jRU9rbzlNY19Jalk1OW94a09kV1AwOGFlalNpNzdSZng5bE9haHYxcw?oc=5",
+      "publishedAt": "2026-03-14T06:28:11.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 4.5,
-      "importanceRaw": 88,
+      "importance": 2,
+      "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 내용이 일치하며, 정보가 명확합니다.",
+      "qualityReason": "제목과 내용이 일치하며, 사실에 기반한 정보를 제공합니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -196,7 +190,7 @@
       "dedupeKey": "china_semiconductor_round2",
       "clusterKey": "반도체/3만",
       "matchedTo": null,
-      "sourceName": "초이스스탁US",
+      "sourceName": "초이스스탁",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBIUzBRaXJPdjlwMTBlN1B3dEc1Q1Rvd1hmeTNnZDQtUjZGVFRzS0lJQUdhNkQ2RENDelgzc2Q3b1NfTHRwNXRqSG1hdDA2MUpuOTc5dndqeHZ2X0swVDMteDQwQzVJbDA?oc=5",
       "publishedAt": "2026-03-13T22:11:00.000Z",
       "readTimeSec": 10,
@@ -204,45 +198,12 @@
       "importance": 2,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 간결하게 핵심 내용을 전달한다. / 근거부족",
+      "qualityReason": "제목과 내용이 일치하며, 핵심 정보를 간결하게 요약했다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-03-15_8",
-      "date": "2026-03-15",
-      "category": "경제",
-      "title": "Google, 네브래스카 데이터 센터 제안, 링컨시 전체보다 더 많은 전력 필요",
-      "summary": [
-        "Google이 네브래스카에 데이터 센터를 건설할 것을 제안했습니다.",
-        "이 데이터 센터는 링컨시 전체가 사용하는 것보다 더 많은 전력을 필요로 합니다.",
-        "데이터 센터 건설에는 상당한 자본 지출이 예상됩니다."
-      ],
-      "whyImportant": "Google의 데이터 센터 건설 제안은 지역 경제에 큰 영향을 미칠 수 있습니다.",
-      "importanceRationale": "근거: 데이터 센터는 상당한 자본 지출을 수반하며, 이는 지역 경제 활성화에 기여할 수 있습니다. 또한, 링컨시 전체보다 더 많은 전력을 필요로 한다는 점은 데이터 센터의 규모와 중요성을 시사합니다.",
-      "impactSignals": [
-        {
-          "label": "capex",
-          "evidence": "데이터 센터 건설에는 상당한 자본 지출이 예상됨"
-        }
-      ],
-      "dedupeKey": "google_nebraska_datacenter_20240229",
-      "clusterKey": "에너지/center",
-      "matchedTo": null,
-      "sourceName": "KOLN | Nebraska Local News, Weather, Sports | Lincoln, NE",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMlY4V1ZOaTBsaEd6YVd6dzJCU0FaSWVCeXV6azI4TWRtTDMtVmVKdGI0dlRWWnlNRE9RYlg3ZzlqZXJkdVotcFktQWpsalZlRnpuNkR0NVZZV1BCUkkzblB0RzhLcXhENmZ5WHlUMkUzOEFLdXNYYmVwRk9zTEVxcFV4dTQ3LWZJT3lZWmJrWHlkZ2VlMndWNmV3MFMwUW9JV0U4aDdxZkE3RFRUWVlZ0gHDAUFVX3lxTE96Mi12Qms3RnZVVVowZG5BNjRXZDBySUNZaTFVUWdQdXcxal9EclF3b0FCTTlPdFZ1aW96bWtJSzdhWWJXZ0VQTC1UVVd6SW9WS3N6dkJyV0pBNWt3Ql9Ddk5SN3ZUNGhPVFNsMUhMbHdCSDU0dlhWNkxqRHJlR1k5LVVOUXZCYlI5YjdtVWVPSk1fR1JUa19oVWROTDVLM2RJZDhOemVLaGdJVHNMQ2ItS1RiNDBZczF3V19hazM4VnhNcw?oc=5",
-      "publishedAt": "2026-03-13T20:47:00.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 4,
-      "importanceRaw": 75,
-      "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 정보가 명확합니다.",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-03-15_9",
       "date": "2026-03-15",
       "category": "정책",
       "title": "‘대미투자특별법’ 국회 법사위 통과…12일 본회의 처리",
@@ -250,8 +211,8 @@
         "‘대미투자특별법’이 국회 법제사법위원회를 통과했습니다.",
         "12일 본회의에서 처리될 예정입니다."
       ],
-      "whyImportant": "해당 법안은 대미 투자에 중요한 영향을 미칠 수 있습니다.",
-      "importanceRationale": "근거: 법안 통과는 정책 변화를 의미하며, 이는 투자 결정에 직접적인 영향을 줄 수 있기 때문입니다.",
+      "whyImportant": "해당 법안의 통과는 대미 투자에 중요한 정책적 변화를 의미합니다.",
+      "importanceRationale": "근거: ‘대미투자특별법’의 국회 법사위 통과 및 본회의 처리는 대미 투자 환경에 대한 정부의 정책적 의지를 보여주는 중요한 지표입니다.",
       "impactSignals": [],
       "dedupeKey": "daemi-teukbyeolbeop-gukhoe-beopsawi-tonggwa-12il-bonhoeui-cheori",
       "clusterKey": "12일",
@@ -269,23 +230,23 @@
       "isBreaking": false
     },
     {
-      "id": "2026-03-15_10",
+      "id": "2026-03-15_9",
       "date": "2026-03-15",
       "category": "에너지",
       "title": "한·일, '공급망 핫라인' 개통...LNG부터 협력",
       "summary": [
-        "한국과 일본이 공급망 관련 핫라인을 개통했습니다.",
-        "우선 액화천연가스(LNG) 분야부터 협력을 시작합니다."
+        "한국과 일본이 '공급망 핫라인'을 개통했다.",
+        "LNG(액화천연가스)를 시작으로 공급망 협력을 강화할 예정이다."
       ],
-      "whyImportant": "공급망 위기에 대한 양국 간 협력 강화의 시작점입니다.",
-      "importanceRationale": "근거: 한국과 일본이 공급망 핫라인을 개통하고 LNG 분야부터 협력을 시작함으로써, 공급망 위기에 대한 공동 대응 체계를 구축하기 시작했다는 점에서 중요합니다.",
+      "whyImportant": "한일 양국 간의 공급망 협력 강화는 에너지 안보 및 경제적 안정에 기여할 수 있다.",
+      "importanceRationale": "근거: LNG를 시작으로 한 공급망 협력은 양국 간의 에너지 자원 확보 및 가격 안정에 긍정적인 영향을 미칠 수 있으며, 이는 관련 산업 투자 및 경제 성장에 기여할 수 있다.",
       "impactSignals": [
         {
           "label": "capex",
-          "evidence": "LNG 분야 협력은 관련 설비 투자 확대로 이어질 수 있습니다."
+          "evidence": "LNG 공급망 협력 강화는 관련 설비 투자 확대로 이어질 수 있다."
         }
       ],
-      "dedupeKey": "kor-jpn-supply-chain-hotline-lng",
+      "dedupeKey": "20240103-한일공급망핫라인개통",
       "clusterKey": "공급망/lng부터",
       "matchedTo": null,
       "sourceName": "뉴스후플러스",
@@ -296,12 +257,12 @@
       "importance": 3.5,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었습니다.",
+      "qualityReason": "기사 내용이 간결하고 명확하며, 핵심 내용을 잘 전달하고 있다.",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-03-15_11",
+      "id": "2026-03-15_10",
       "date": "2026-03-15",
       "category": "국제",
       "title": "Intuitive Surgical, 사이버 보안 침해 공개",
@@ -309,10 +270,10 @@
         "Intuitive Surgical이 사이버 보안 침해 사실을 공개했습니다.",
         "자세한 내용은 아직 알려지지 않았습니다."
       ],
-      "whyImportant": "Intuitive Surgical의 사이버 보안 침해는 의료 기기 보안에 대한 우려를 불러일으킬 수 있습니다.",
-      "importanceRationale": "근거: Intuitive Surgical은 중요한 의료 기기 제조업체이며, 보안 침해는 환자 데이터 및 운영에 영향을 미칠 수 있습니다.",
+      "whyImportant": "Intuitive Surgical의 사이버 보안 침해는 의료 기술 산업 전반에 대한 보안 우려를 야기합니다.",
+      "importanceRationale": "근거: Intuitive Surgical은 수술 로봇 분야의 선두 기업이며, 보안 침해는 기업의 신뢰도와 환자 데이터 보안에 직접적인 영향을 미칠 수 있습니다.",
       "impactSignals": [],
-      "dedupeKey": "intuitivesurgical_cyberbreach_20240229",
+      "dedupeKey": "intuitive_surgical_cybersecurity_breach",
       "clusterKey": "breach",
       "matchedTo": null,
       "sourceName": "MassDevice",
@@ -328,28 +289,56 @@
       "isBreaking": false
     },
     {
-      "id": "2026-03-15_12",
+      "id": "2026-03-15_11",
       "date": "2026-03-15",
-      "category": "국제",
-      "title": "트럼프, \"이란은 협상 원하지만 받아들이지 않을 것\" 발언",
+      "category": "정책",
+      "title": "우원식 국회의장, '한-가나 기후변화협력 협정'의 실질적 성과 기대",
       "summary": [
-        "도널드 트럼프 대통령은 이란이 협상을 원하지만 받아들이지 않을 것이라고 언급했습니다."
+        "우원식 국회의장은 '한-가나 기후변화협력 협정'이 실질적인 성과로 이어지기를 바란다고 밝혔습니다.",
+        "이번 협정은 양국 간의 기후변화 대응 협력을 강화하는 데 목적이 있습니다."
       ],
-      "whyImportant": "트럼프 대통령의 발언은 미국과 이란 간의 긴장된 관계를 보여줍니다.",
-      "importanceRationale": "근거: 트럼프 대통령의 직접적인 발언은 외교 정책에 대한 중요한 신호이며, 이는 국제 관계에 영향을 미칠 수 있습니다.",
+      "whyImportant": "한국과 가나 간의 기후변화 협력 강화.",
+      "importanceRationale": "근거: 우원식 국회의장이 직접 협정의 중요성을 강조하며 실질적인 성과를 기대하고 있기 때문입니다.",
       "impactSignals": [],
-      "dedupeKey": "trump-iran-negotiation-09242024",
-      "clusterKey": "받아들이지",
+      "dedupeKey": "우원식, 한-가나 기후변화협력 협정",
+      "clusterKey": "가나",
       "matchedTo": null,
-      "sourceName": "연합인포맥스",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9DNGo3YmFibDFodGdmRFJGYnFJWEZad1k3WXc4V0E1aW1VZVVyOVRzMTRFQ3VIVFZyOVd1ZDBqbFM5WUt5OXZtNVZBNy0wamlUbmdJNGZYZFU3blVlbDhfMERnX0xRei1RaTVLOVUzUWTSAXRBVV95cUxPME50Tk1DbHZaUVFyMnNzRng3NndWSWhDVTRCWVdhOGRBVzdoMVNrNzliR3ZiT01hbThTS3E0bG1MQlBUTER6LTRuak5jRU9rbzlNY19Jalk1OW94a09kV1AwOGFlalNpNzdSZng5bE9haHYxcw?oc=5",
-      "publishedAt": "2026-03-14T06:28:11.000Z",
+      "sourceName": "everynews.co.kr",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBua1J2cXY4YjM1NnJKTGlBaVlidFBfekNGVEJlUzA3TXIxVmlweXpyTmZEWUhkSnlmdEhOSkVCVzhiRVM2LUVmMUJpeU5seTNHSTNTcm5xYVl6Tkx0YmxzMUZYbkdwaExHc1AtTA?oc=5",
+      "publishedAt": "2026-03-14T02:48:06.000Z",
       "readTimeSec": 10,
       "status": "kept",
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "기사의 내용이 간결하고 명확하며, 핵심 정보를 잘 전달하고 있습니다. / 근거부족",
+      "qualityReason": "기사 내용이 명확하고 간결하며, 핵심 내용을 잘 전달하고 있습니다. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-03-15_12",
+      "date": "2026-03-15",
+      "category": "경제",
+      "title": "Google, 네브래스카 데이터 센터 제안, 링컨시 전체보다 더 많은 전력 필요",
+      "summary": [
+        "Google이 네브래스카에 데이터 센터를 건설할 것을 제안했습니다.",
+        "이 데이터 센터는 링컨시 전체가 사용하는 것보다 더 많은 전력을 필요로 합니다."
+      ],
+      "whyImportant": "Google의 데이터 센터 건설은 지역 경제에 큰 영향을 미칠 수 있습니다.",
+      "importanceRationale": "근거: 데이터 센터는 상당한 자본 지출을 수반하며, 이는 지역 경제 활성화에 기여할 수 있습니다.",
+      "impactSignals": [],
+      "dedupeKey": "google_nebraska_datacenter_20240229",
+      "clusterKey": "에너지/center",
+      "matchedTo": null,
+      "sourceName": "KOLN | Nebraska Local News, Weather, Sports | Lincoln, NE",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMlY4V1ZOaTBsaEd6YVd6dzJCU0FaSWVCeXV6azI4TWRtTDMtVmVKdGI0dlRWWnlNRE9RYlg3ZzlqZXJkdVotcFktQWpsalZlRnpuNkR0NVZZV1BCUkkzblB0RzhLcXhENmZ5WHlUMkUzOEFLdXNYYmVwRk9zTEVxcFV4dTQ3LWZJT3lZWmJrWHlkZ2VlMndWNmV3MFMwUW9JV0U4aDdxZkE3RFRUWVlZ0gHDAUFVX3lxTE96Mi12Qms3RnZVVVowZG5BNjRXZDBySUNZaTFVUWdQdXcxal9EclF3b0FCTTlPdFZ1aW96bWtJSzdhWWJXZ0VQTC1UVVd6SW9WS3N6dkJyV0pBNWt3Ql9Ddk5SN3ZUNGhPVFNsMUhMbHdCSDU0dlhWNkxqRHJlR1k5LVVOUXZCYlI5YjdtVWVPSk1fR1JUa19oVWROTDVLM2RJZDhOemVLaGdJVHNMQ2ItS1RiNDBZczF3V19hazM4VnhNcw?oc=5",
+      "publishedAt": "2026-03-13T20:47:00.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 63,
+      "qualityLabel": "ok",
+      "qualityReason": "The article provides a clear and concise summary of the news. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -360,12 +349,12 @@
       "title": "삼성전자, 영업이익 240조 전망...주가 전망도 ‘장밋빛’",
       "summary": [
         "삼성전자의 영업이익이 240조에 달할 것이라는 전망이 나왔습니다.",
-        "주가 전망 또한 긍정적으로 평가되고 있습니다."
+        "주가 전망 또한 긍정적입니다."
       ],
-      "whyImportant": "삼성전자의 실적 개선 기대감은 국내 경제 전반에 긍정적인 영향을 미칠 수 있습니다.",
-      "importanceRationale": "근거: 삼성전자의 영업이익 전망치 상승과 주가에 대한 장밋빛 전망은 투자 심리를 개선하고 관련 산업에 대한 관심을 높일 수 있습니다.",
+      "whyImportant": "삼성전자의 실적 전망과 주가에 대한 긍정적 예측은 투자자와 시장에 중요한 영향을 미칩니다.",
+      "importanceRationale": "근거: 삼성전자의 영업이익 전망치 증가는 기업의 성장 가능성을 시사하며, 이는 투자 결정에 중요한 지표가 됩니다. 또한 주가 전망은 시장의 전반적인 분위기를 반영합니다.",
       "impactSignals": [],
-      "dedupeKey": "samsung_electronics_profit_outlook_240t",
+      "dedupeKey": "samsung_electronics_profit_forecast_240t",
       "clusterKey": "240조",
       "matchedTo": null,
       "sourceName": "매거진한경",
@@ -384,15 +373,15 @@
       "id": "2026-03-15_14",
       "date": "2026-03-15",
       "category": "정책",
-      "title": "자신의 전력 가져오기: 위스콘신 주 의원들의 해결책 등장",
+      "title": "자신의 전력 가져오기: 위스콘신 주 의원들의 해결책 부상",
       "summary": [
         "위스콘신 주 의원들이 자체 전력 솔루션을 모색하고 있습니다.",
-        "자체 전력 생산 및 사용에 대한 법적, 제도적 개선이 논의될 것으로 예상됩니다."
+        "DrydenWire.com에서 관련 내용을 보도했습니다."
       ],
-      "whyImportant": "위스콘신 주의 에너지 정책 변화 가능성을 보여줍니다.",
-      "importanceRationale": "근거: 위스콘신 주 의원들이 자체 전력 솔루션에 대한 논의를 진행하고 있다는 점은, 향후 에너지 정책 변화를 예고하는 중요한 신호입니다.",
+      "whyImportant": "위스콘신 주의 에너지 정책 변화 가능성",
+      "importanceRationale": "근거: 위스콘신 주 의원들이 자체 전력 솔루션을 모색하고 있다는 점은 주의 에너지 정책에 중요한 변화가 있을 수 있음을 시사합니다.",
       "impactSignals": [],
-      "dedupeKey": "bring-your-own-power-wisconsin",
+      "dedupeKey": "Bring Your Own Power: Solutions Emerge from Wisconsin Lawmakers",
       "clusterKey": "에너지/bring",
       "matchedTo": null,
       "sourceName": "DrydenWire.com",
@@ -403,7 +392,7 @@
       "importance": 2,
       "importanceRaw": 50,
       "qualityLabel": "ok",
-      "qualityReason": "기사 내용이 명확하고 간결합니다. / 근거부족",
+      "qualityReason": "기사 제목과 짧은 텍스트 기반으로 정보를 제공함 / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -411,15 +400,15 @@
       "id": "2026-03-15_15",
       "date": "2026-03-15",
       "category": "정책",
-      "title": "군의관·공보의 인력난 해법 모색…국회 제도개선 정책토론회",
+      "title": "군의관·공보의 인력난 해법 모색…국회서 제도개선 정책토론회",
       "summary": [
-        "국회에서 군의관 및 공중보건의 인력난 해법 모색을 위한 제도개선 정책토론회가 열렸다.",
+        "국회에서 군의관과 공보의 인력난 해법을 모색하기 위한 제도개선 정책토론회가 열렸다.",
         "토론회에서는 인력 부족 문제 해결 방안이 논의될 예정이다."
       ],
-      "whyImportant": "군의관 및 공보의 인력 부족은 의료 서비스 제공에 차질을 초래할 수 있으므로, 해결책 모색이 중요하다.",
-      "importanceRationale": "근거: 군의관 및 공보의 인력난 해소를 위한 정책 토론회가 국회에서 개최되었으며, 이는 정부 차원에서도 문제 해결의 필요성을 인지하고 있음을 시사한다.",
+      "whyImportant": "군의관 및 공보의 인력 부족 문제 해결을 위한 정책 논의가 시작되었음을 알립니다.",
+      "importanceRationale": "근거: 국회에서 정책토론회가 개최되어 제도 개선 방안을 모색하고 있다.",
       "impactSignals": [],
-      "dedupeKey": "군의관_공보의_인력난_해법_모색_국회_제도개선_정책토론회",
+      "dedupeKey": "군의관·공보의 인력난 해법 모색…국회서 제도개선 정책토론회",
       "clusterKey": "공보의",
       "matchedTo": null,
       "sourceName": "약사공론",
@@ -430,34 +419,40 @@
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되어 있음. / 근거부족",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약됨. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-03-15_16",
       "date": "2026-03-15",
-      "category": "정책",
-      "title": "‘대미투자특별법’ 국회 통과…충남·대전, 경북·대구 통합 법안 처리 불발",
+      "category": "국제",
+      "title": "AI 패권 경쟁 본격화: 한국 규제, 미국 칩 통제, 중국 인프라 확장",
       "summary": [
-        "‘대미투자특별법’이 국회를 통과했습니다.",
-        "충남·대전, 경북·대구 통합 법안 처리는 불발되었습니다."
+        "AI 패권 경쟁이 본격화되고 있다.",
+        "한국은 규제를 강화하고, 미국은 칩 통제를 시행하고 있다.",
+        "중국은 AI 인프라 확장에 주력하고 있다."
       ],
-      "whyImportant": "‘대미투자특별법’의 국회 통과와 지역 통합 법안 처리 불발에 대한 내용입니다.",
-      "importanceRationale": "근거: ‘대미투자특별법’의 국회 통과 및 지역 통합 법안 처리 불발은 정책 변화와 지역 경제에 영향을 미칠 수 있기 때문입니다.",
-      "impactSignals": [],
-      "dedupeKey": "‘대미투자특별법’ 국회 통과…충남·대전, 경북·대구 통합 법안 처리 불발",
-      "clusterKey": "경북",
+      "whyImportant": "AI 기술 경쟁 심화에 따른 각국의 정책적 대응을 보여준다.",
+      "importanceRationale": "근거: AI 패권 경쟁의 심화와 관련된 한국의 규제, 미국의 칩 통제, 중국의 인프라 확장이라는 세 가지 주요 동향을 요약했다.",
+      "impactSignals": [
+        {
+          "label": "policy",
+          "evidence": "한국 규제, 미국 칩 통제, 중국 인프라 확장"
+        }
+      ],
+      "dedupeKey": "AI패권경쟁,한국규제,미국칩통제,중국인프라확장",
+      "clusterKey": "한미/경쟁",
       "matchedTo": null,
-      "sourceName": "농민신문",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA3T0xLc0tGN0lHZjdrTEcybVo4M3lzUXhRV08xR1E2Wi1NcUdPaW1OUVhleWxoUUVEdGNwZGktZkU4ODlzRTRZUGdUUE04OU04V2k5bjBkQXUyZw?oc=5",
-      "publishedAt": "2026-03-12T08:01:00.000Z",
+      "sourceName": "브랜드경제신문",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE41Z3B0OEU5aXBiY2g1M0RqV3pNV1M0RzVORzlzTlV4WWQtQ2p6eXFHUDdheGpSenBDS1ZMREZiUjJ6YjhGT2Y0aDhRb2c?oc=5",
+      "publishedAt": "2026-03-10T05:21:18.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 2,
+      "importance": 3.5,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 간결하게 요약되어 있습니다. / 근거부족",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약됨.",
       "isBriefing": false,
       "isBreaking": false
     }
