@@ -5,37 +5,37 @@
   "totalOut": 20,
   "dropped": 265,
   "dropReasons": {
-    "outdated": 115,
-    "carry_over_duplicate": 38,
-    "hard_excluded_keyword": 9,
-    "duplicate_title": 2,
+    "outdated": 114,
+    "carry_over_duplicate": 36,
+    "hard_excluded_keyword": 10,
+    "duplicate_title": 3,
     "duplicate_dedupe_key": 1,
     "excluded_keyword": 2,
-    "not_selected": 98
+    "not_selected": 99
   },
   "impactLabels": {
-    "market-demand": 2,
+    "security": 2,
+    "market-demand": 1,
     "policy": 3,
-    "earnings": 1,
-    "capex": 1
+    "earnings": 1
   },
   "sources": {
+    "보안뉴스": 1,
     "한국무역협회-KITA.NET": 2,
-    "연합인포맥스": 2,
+    "연합인포맥스": 1,
+    "simplywall.st": 2,
     "연합뉴스 한민족센터": 2,
     "Alaska Beacon": 1,
-    "한겨레": 1,
     "Chosunbiz": 1,
+    "투데이e코노믹": 1,
     "디지털데일리": 1,
-    "knpp.co.kr": 1,
-    "지티티코리아": 1,
+    "한겨레": 1,
+    "한국공공정책신문": 1,
     "데일리팜": 1,
     "SOC Prime": 1,
     "비즈월드": 1,
-    "simplywall.st": 1,
     "KBS 뉴스": 1,
-    "KOLN | Nebraska Local News, Weather, Sports | Lincoln, NE": 1,
-    "영남일보": 1,
+    "지티티코리아": 1,
     "초이스스탁": 1
   },
   "topicStats": {
@@ -51,18 +51,18 @@
     },
     "글로벌_정세": {
       "in": 24,
-      "out": 3,
-      "dropped": 21
+      "out": 2,
+      "dropped": 22
     },
     "글로벌_빅테크": {
       "in": 18,
-      "out": 0,
-      "dropped": 18
+      "out": 1,
+      "dropped": 17
     },
     "실적_가이던스": {
       "in": 24,
-      "out": 3,
-      "dropped": 21
+      "out": 4,
+      "dropped": 20
     },
     "반도체_공급망": {
       "in": 24,
@@ -71,18 +71,18 @@
     },
     "전력_인프라": {
       "in": 24,
-      "out": 3,
-      "dropped": 21
+      "out": 2,
+      "dropped": 22
     },
     "AI_저작권_데이터권리": {
       "in": 20,
-      "out": 3,
-      "dropped": 17
+      "out": 2,
+      "dropped": 18
     },
     "보안_취약점_패치": {
       "in": 20,
-      "out": 2,
-      "dropped": 18
+      "out": 3,
+      "dropped": 17
     },
     "투자_MA_IPO": {
       "in": 20,
@@ -213,7 +213,7 @@
     "바이오타임즈": {
       "outdated": 1
     },
-    "약업신문": {
+    "Yakup.com": {
       "outdated": 1
     },
     "WWF EU": {
@@ -232,7 +232,7 @@
     "MSCI": {
       "outdated": 1
     },
-    "ASEAN Centre for Energy (ACE)": {
+    "ASEAN Centre for Energy": {
       "outdated": 1
     },
     "Bank of Canada": {
@@ -262,7 +262,7 @@
       "not_selected": 2
     },
     "연합뉴스 한민족센터": {
-      "carry_over_duplicate": 3,
+      "carry_over_duplicate": 2,
       "hard_excluded_keyword": 1,
       "outdated": 1,
       "not_selected": 4
@@ -274,10 +274,10 @@
       "outdated": 3,
       "carry_over_duplicate": 1
     },
-    "KPMG": {
+    "세상을 바꾸는 시민언론 민들레": {
       "outdated": 1
     },
-    "세상을 바꾸는 시민언론 민들레": {
+    "KPMG": {
       "outdated": 1
     },
     "Mayer Brown": {
@@ -301,14 +301,11 @@
     "The Verge": {
       "hard_excluded_keyword": 1
     },
-    "Engadget": {
+    "NBC Bay Area": {
       "hard_excluded_keyword": 1
     },
-    "Investor's Business Daily": {
-      "carry_over_duplicate": 1
-    },
-    "한국경제": {
-      "outdated": 6
+    "Engadget": {
+      "hard_excluded_keyword": 1
     },
     "IndexBox": {
       "carry_over_duplicate": 1,
@@ -316,6 +313,9 @@
     },
     "Morningstar": {
       "carry_over_duplicate": 1
+    },
+    "한국경제": {
+      "outdated": 5
     },
     "Chosunbiz": {
       "outdated": 2,
@@ -342,7 +342,7 @@
     },
     "simplywall.st": {
       "outdated": 1,
-      "not_selected": 3
+      "not_selected": 2
     },
     "Center for a New American Security": {
       "outdated": 1
@@ -404,13 +404,13 @@
     "University of California": {
       "outdated": 1
     },
-    "보안뉴스": {
-      "carry_over_duplicate": 1
-    },
     "복지TV부울경방송": {
       "carry_over_duplicate": 1
     },
     "지티티코리아": {
+      "carry_over_duplicate": 1
+    },
+    "보안뉴스": {
       "carry_over_duplicate": 1
     },
     "케이벤치": {
@@ -420,7 +420,7 @@
       "outdated": 5,
       "carry_over_duplicate": 1,
       "duplicate_title": 1,
-      "not_selected": 3
+      "not_selected": 4
     },
     "The HIPAA Journal": {
       "carry_over_duplicate": 1
@@ -442,6 +442,9 @@
     },
     "Palo Alto Networks": {
       "hard_excluded_keyword": 1
+    },
+    "인더스트리뉴스": {
+      "duplicate_title": 1
     },
     "CTech": {
       "carry_over_duplicate": 1
@@ -534,6 +537,9 @@
     "아시아경제": {
       "not_selected": 3
     },
+    "에너지경제신문": {
+      "not_selected": 2
+    },
     "뉴스토마토": {
       "not_selected": 2
     },
@@ -550,9 +556,6 @@
       "not_selected": 1
     },
     "Canary Media": {
-      "not_selected": 1
-    },
-    "Google Cloud": {
       "not_selected": 1
     },
     "Crowell & Moring LLP": {
@@ -575,16 +578,17 @@
     "selectedShare": 0.05
   },
   "categories": {
+    "기술": 2,
     "에너지": 3,
-    "정책": 5,
     "경제": 5,
-    "국제": 4,
-    "기술": 3
+    "정책": 5,
+    "국제": 5
   },
   "importanceDistribution": {
-    "2": 13,
+    "2": 14,
     "4": 4,
-    "3.5": 3
+    "3.5": 1,
+    "4.5": 1
   },
   "topDiversity": {
     "uniqueSources": 17,
