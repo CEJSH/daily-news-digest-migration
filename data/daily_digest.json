@@ -3,7 +3,7 @@
   "selectionCriteria": "① 내일도 영향이 남는 이슈 ② 과도한 감정 소모 제외 ③ 어제와 중복되는 뉴스 제외",
   "editorNote": "이 뉴스는 클릭 수가 아니라 오늘 이후에도 남는 정보만 기준으로 편집했습니다.",
   "question": "정보를 덜 보는 것이 오히려 더 똑똑한 소비일까?",
-  "lastUpdatedAt": "2026-03-16T05:26:07.546+09:00",
+  "lastUpdatedAt": "2026-03-16T06:25:39.495+09:00",
   "items": [
     {
       "id": "2026-03-16_1",
@@ -35,18 +35,45 @@
     {
       "id": "2026-03-16_2",
       "date": "2026-03-16",
+      "category": "에너지",
+      "title": "카타르 LNG 시설 가동 중단으로 아시아·유럽 천연가스 가격 폭등",
+      "summary": [
+        "카타르의 LNG 시설 가동 중단으로 아시아와 유럽의 천연가스 가격이 폭등했다.",
+        "한국무역협회에 따르면 이번 사태로 인해 에너지 시장에 큰 변동이 예상된다."
+      ],
+      "whyImportant": "카타르 LNG 시설의 가동 중단은 국제 천연가스 시장에 상당한 영향을 미치므로 중요합니다.",
+      "importanceRationale": "근거: 카타르 LNG 시설 중단은 아시아 및 유럽 천연가스 가격 폭등을 야기하며, 이는 에너지 수급 및 가격 안정성에 중요한 영향을 미치기 때문입니다.",
+      "impactSignals": [],
+      "dedupeKey": "카타르LNG시설가동중단에아시아·유럽천연가스가격폭등",
+      "clusterKey": "에너지/lng시설",
+      "matchedTo": null,
+      "sourceName": "한국무역협회-KITA.NET",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQY19QSDZVQjFaenBZN3pWMXFhT2FzZTRrUWJiNEE5YmFvNmNtRkNZT19KSFJuYUlBWFZUR1BfUXhjZzlIVFM5SHdkbnNUcWk0ZWpSX3lScGNlaGFtVW5hT1hCN0s4WTZMRWM2emQ1SmRRU1Q1VHVEZTNMM244TkdzWmhMN3c2VWdLcHBCLTdYX1V0OXA4enV2NE45S05uUVRHTW9vT3VVNmg3d3BfSHhTNE1HUzkzdUZYLU5sV2JtMHk4NXUxemdOMHlzckZkNEd6MHZFMw?oc=5",
+      "publishedAt": "2026-03-15T07:54:26.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 75,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 본문이 일치하며, 간결하게 요약되었습니다. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-03-16_3",
+      "date": "2026-03-16",
       "category": "경제",
       "title": "고공 행진하는 유가에 원유·원자력 ETF 상승",
       "summary": [
-        "유가 상승으로 원유 및 원자력 ETF가 상승세를 보이고 있다.",
-        "이는 유가 급등에 따른 투자자들의 관심이 반영된 결과로 풀이된다."
+        "유가 상승으로 원유 및 원자력 ETF가 상승세를 보이고 있습니다.",
+        "이는 유가 상승에 따른 투자자들의 관심이 반영된 결과로 풀이됩니다."
       ],
-      "whyImportant": "원유 및 원자력 ETF의 상승은 에너지 시장의 변동성과 투자 트렌드를 보여주는 지표가 될 수 있다.",
-      "importanceRationale": "근거: 유가 상승에 따른 투자자들의 반응을 직접적으로 보여주며, 에너지 관련 시장의 투자 심리를 파악하는 데 중요한 정보이다.",
+      "whyImportant": "유가 상승에 따른 투자 동향 변화를 보여주는 지표입니다.",
+      "importanceRationale": "근거: 유가 상승이라는 경제적 요인이 특정 ETF 상품의 성과에 직접적인 영향을 미치고 있으며, 이는 투자자들의 투자 전략 변화를 시사합니다.",
       "impactSignals": [
         {
           "label": "market-demand",
-          "evidence": "유가 상승은 원유 및 관련 상품에 대한 시장 수요 증가를 의미한다."
+          "evidence": "유가 상승은 원유 및 원자력 ETF에 대한 시장 수요를 증가시킵니다."
         }
       ],
       "dedupeKey": "oil_nuclear_etf_surge",
@@ -60,24 +87,23 @@
       "importance": 3.5,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 내용이 일치하며, 간결하게 요약되어 있다.",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었습니다.",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-03-16_3",
+      "id": "2026-03-16_4",
       "date": "2026-03-16",
       "category": "기술",
-      "title": "보이지 않는 코드를 사용한 공급망 공격, GitHub 및 기타 저장소 공격",
+      "title": "보이지 않는 코드를 사용한 공급망 공격, GitHub 및 기타 저장소 강타",
       "summary": [
         "보이지 않는 코드를 사용한 공급망 공격이 GitHub 및 기타 저장소를 강타했습니다.",
-        "이번 공격은 소프트웨어 개발 프로세스 전반에 걸쳐 악성 코드를 삽입하는 것을 목표로 합니다.",
-        "공격의 구체적인 방법과 범위는 아직 조사 중입니다."
+        "이번 공격은 공급망의 취약점을 악용한 것으로 보입니다."
       ],
-      "whyImportant": "공급망 공격은 소프트웨어 보안에 심각한 위협이 됩니다.",
-      "importanceRationale": "근거: 공급망 공격은 광범위한 시스템에 영향을 미칠 수 있으며, 탐지하기 어려울 수 있습니다. 이번 공격은 GitHub와 같은 주요 저장소를 대상으로 했다는 점에서 중요성이 높습니다.",
+      "whyImportant": "공급망 공격은 소프트웨어 개발 및 배포 프로세스를 표적으로 삼아 광범위한 피해를 초래할 수 있기 때문에 중요합니다.",
+      "importanceRationale": "근거: 공급망 공격은 소프트웨어 개발 및 배포 프로세스를 표적으로 삼아 광범위한 피해를 초래할 수 있습니다. 이번 공격은 GitHub와 같은 주요 저장소를 대상으로 했기 때문에 더욱 심각합니다.",
       "impactSignals": [],
-      "dedupeKey": "supply_chain_attack_github_2024",
+      "dedupeKey": "supply_chain_attack_github_repositories",
       "clusterKey": "attack",
       "matchedTo": null,
       "sourceName": "Ars Technica",
@@ -93,34 +119,6 @@
       "isBreaking": false
     },
     {
-      "id": "2026-03-16_4",
-      "date": "2026-03-16",
-      "category": "경제",
-      "title": "오라클 주식 2026년 전망: 18% 하락 후 회복, 기록적인 수익 및 분석가 전망 상향",
-      "summary": [
-        "오라클 주식이 18% 하락 후 회복세를 보이고 있으며, 기록적인 수익을 달성했습니다.",
-        "분석가들은 오라클 주식에 대한 전망을 상향 조정했습니다.",
-        "IndexBox의 시장 정보 플랫폼에 따르면, 오라클은 2026년까지 회복세를 이어갈 것으로 예상됩니다."
-      ],
-      "whyImportant": "오라클의 주가 변동 및 실적은 기술 산업 전반의 투자 심리에 영향을 미칠 수 있습니다.",
-      "importanceRationale": "근거: 오라클은 주요 기술 기업 중 하나이며, 실적 개선과 분석가들의 긍정적인 전망은 시장에 긍정적인 신호로 작용할 수 있습니다.",
-      "impactSignals": [],
-      "dedupeKey": "oracle_stock_2026_recovery",
-      "clusterKey": "after",
-      "matchedTo": null,
-      "sourceName": "IndexBox - Market Intelligence Platform",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOa0hnelpzTzVwc1doUnVzbF9Lb21nc2dzTFEwQklCOUdWQ1Myd3NjX29UNzBZb25CcjdJT3d2Z2RObHU0Ym9UX1JJd01FbE5jdXJ4Q0t1RUNBZXJOZ1JvM2hHcmxnT2tSTVhTRVZOUVVzSzJxRlpEb2UtME9Sc2pXMm5neVJTa2pkMnBoN2g2TkFPY0hPUVU4eHRrckU?oc=5",
-      "publishedAt": "2026-03-15T18:05:00.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 63,
-      "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 정보가 명확하게 제시되어 있습니다. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
       "id": "2026-03-16_5",
       "date": "2026-03-16",
       "category": "에너지",
@@ -129,9 +127,9 @@
         "미국 에너지 정보청(EIA)에 따르면 데이터 센터 전력 수요의 예상보다 빠른 증가로 화석 연료 발전이 증가할 수 있습니다."
       ],
       "whyImportant": "데이터 센터의 전력 수요 증가가 화석 연료 발전에 미치는 영향을 파악하는 것이 중요합니다.",
-      "importanceRationale": "근거: 데이터 센터의 전력 수요 증가는 에너지 시장과 환경에 중요한 영향을 미칠 수 있기 때문입니다.",
+      "importanceRationale": "근거: 데이터 센터의 전력 소비 증가는 에너지 시장과 환경에 중요한 영향을 미칠 수 있기 때문입니다.",
       "impactSignals": [],
-      "dedupeKey": "fossil-generation-data-center-demand-20240229",
+      "dedupeKey": "fossil_generation_data_center_demand",
       "clusterKey": "에너지/could",
       "matchedTo": null,
       "sourceName": "U.S. Energy Information Administration (EIA) (.gov)",
@@ -142,7 +140,7 @@
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "정보 출처가 명확하고 내용이 간결함 / 근거부족",
+      "qualityReason": "기사 제목과 내용이 일치하며, 정보가 명확합니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -150,13 +148,13 @@
       "id": "2026-03-16_6",
       "date": "2026-03-16",
       "category": "국제",
-      "title": "미국-중국, 파리에서 무역 협상 진행… 트럼프-시진핑 정상회담 준비 착수",
+      "title": "미국-중국, 파리에서 무역 협상 진행... 트럼프-시진핑 정상회담 준비 착수",
       "summary": [
         "미국과 중국이 파리에서 무역 협상을 진행했다.",
         "이번 협상은 트럼프-시진핑 정상회담을 준비하기 위한 것이다."
       ],
-      "whyImportant": "미국과 중국의 무역 협상 및 정상회담 준비는 세계 경제에 중요한 영향을 미칠 수 있습니다.",
-      "importanceRationale": "근거: 미중 무역 관계는 세계 경제의 안정과 성장에 큰 영향을 미치며, 양국 정상회담 결과에 따라 글로벌 무역 질서가 재편될 수 있기 때문입니다.",
+      "whyImportant": "미국과 중국의 무역 협상 및 정상회담 준비는 세계 경제에 중요한 영향을 미칠 수 있다.",
+      "importanceRationale": "근거: 미중 무역 관계는 글로벌 경제의 안정성과 성장에 핵심적인 요소이며, 양국 간의 합의 또는 갈등은 국제 무역 질서와 시장에 즉각적인 영향을 줄 수 있다.",
       "impactSignals": [],
       "dedupeKey": "미중무역협상_파리_2024",
       "clusterKey": "마켓인",
@@ -169,34 +167,34 @@
       "importance": 2,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 핵심 내용을 전달합니다. / 근거부족",
+      "qualityReason": "제목과 기사 내용이 일치하며, 핵심 내용을 잘 요약했습니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-03-16_7",
       "date": "2026-03-16",
-      "category": "에너지",
-      "title": "한화에어로스페이스, 미국 LNG 구매 계약 체결…한미 에너지 안보 강화",
+      "category": "정책",
+      "title": "CCUS 인프라 구축 및 제도적 지원 관련 국회 정책 토론회 16일 개최",
       "summary": [
-        "한화에어로스페이스가 미국 LNG 구매 계약을 체결했다.",
-        "이번 계약은 한미 에너지 안보를 강화하는 데 기여할 것으로 기대된다."
+        "CCUS(탄소 포집, 활용 및 저장) 인프라 구축 및 제도적 지원을 위한 국회 정책 토론회가 16일에 개최됩니다.",
+        "이번 토론회는 CCUS 기술의 중요성을 강조하고 관련 정책을 논의하기 위해 마련되었습니다."
       ],
-      "whyImportant": "한화에어로스페이스의 미국 LNG 구매 계약은 한미 에너지 안보 협력 강화에 중요한 의미를 가진다.",
-      "importanceRationale": "근거: 한화에어로스페이스의 미국 LNG 구매 계약은 단순히 기업의 이익을 넘어 국가 에너지 안보에 기여하며, 한미 관계의 전략적 중요성을 부각한다.",
+      "whyImportant": "CCUS 기술은 탄소 배출량 감축에 중요한 역할을 하며, 관련 인프라 구축 및 제도적 지원은 기후 변화 대응에 필수적입니다.",
+      "importanceRationale": "근거: CCUS 인프라 구축 및 제도적 지원에 대한 논의는 관련 산업 발전과 탄소 중립 목표 달성에 중요한 영향을 미치므로 중요합니다.",
       "impactSignals": [],
-      "dedupeKey": "hanwha-aerospace-lng-purchase-agreement-us",
-      "clusterKey": "에너지/lng",
+      "dedupeKey": "CCUS_인프라_국회_토론회_16일",
+      "clusterKey": "16일",
       "matchedTo": null,
-      "sourceName": "디지털데일리",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBaeTVaOWExUXNVcEVnTkNQMW9sZDhtUnpzMkRFSWw3QTBKVDlPVzdkM3BqRERLVldUa04tRW01MWtELXJ0ckgxU3hrdmNtbTZZMzVMYUpFWlZKdVE5M21sdThqZDU?oc=5",
-      "publishedAt": "2026-03-15T09:26:34.000Z",
+      "sourceName": "이투뉴스",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9vamVjeUZuUGp3WWU0MzlGLUdjRnJIQWpNMXk4a2pjVnp1ZTB5Tl91NDE0UjVnU0lvdnhoWG8zWGZJcnpfWkx3eGtsNmMxQWwwUzhkTTdFcUlYNi1kWnpPcXdPV3IyOFHSAWtBVV95cUxOMER1cGhpcWZwLXpyVnNnTUdxUjVUU3ZWMnprVlhRa1JsNlJuZU4zS1NiTENEOHI5ZkZqYWQtTk9NRlNqdjRPTDU2QVBLdkdWRWJEYlBJaFNCc3NEU0xaUFJ4a3ZrUkU0LU9ySQ?oc=5",
+      "publishedAt": "2026-03-15T10:28:37.000Z",
       "readTimeSec": 10,
       "status": "kept",
       "importance": 2,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 간결하게 요약되어 있음. / 근거부족",
+      "qualityReason": "기사 내용이 명확하고 간결하며, 핵심 정보를 잘 전달하고 있습니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -210,11 +208,11 @@
         "새로운 규제안이 나올 가능성이 제기되고 있습니다."
       ],
       "whyImportant": "미국의 AI 칩 수출 규제는 기술 경쟁과 공급망에 큰 영향을 미칠 수 있습니다.",
-      "importanceRationale": "근거: AI 칩 수출 규제는 정책 변화를 의미하며, 이는 관련 산업 전반에 걸쳐 파급 효과를 가져올 수 있기 때문입니다.",
+      "importanceRationale": "근거: AI 칩 수출 규제는 기술 주도권 경쟁과 관련 산업에 미치는 파급력이 크기 때문입니다.",
       "impactSignals": [
         {
           "label": "policy",
-          "evidence": "AI 칩 수출 규정 초안 철회 및 새로운 규제안 가능성"
+          "evidence": "AI 칩 수출 규정 초안 철회 및 새로운 규제 가능성"
         }
       ],
       "dedupeKey": "AI 칩 수출 규정 초안 철회",
@@ -228,56 +226,29 @@
       "importance": 4,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 내용이 간결하고 명확합니다.",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었습니다.",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-03-16_9",
       "date": "2026-03-16",
-      "category": "경제",
-      "title": "G마켓 협력 브랜드 매출 증가…\"한 달 매출을 하루 만에\"",
-      "summary": [
-        "G마켓 협력 브랜드의 매출이 증가했다.",
-        "일부 브랜드는 한 달 치 매출을 하루 만에 달성했다."
-      ],
-      "whyImportant": "G마켓 협력 브랜드의 매출 증가를 보여주는 지표입니다.",
-      "importanceRationale": "근거: G마켓 협력 브랜드의 매출 증가와 특정 브랜드의 단기간 매출 급증은 플랫폼의 영향력과 협력 효과를 시사합니다.",
-      "impactSignals": [],
-      "dedupeKey": "gmarket_sales_increase",
-      "clusterKey": "g마켓",
-      "matchedTo": null,
-      "sourceName": "연합뉴스 한민족센터",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9QUTgtQXI4bE1MN1FJUTFTUVN1TUhrNWE2dFJEYVBEZFRsbzNCSmx6dmlKRklISHVvYUJqRmVOZ05iUjhCc1BiLUdUb2lFd3RIbjQxajk5UXMtOEJ1WkpHYzNXOHl6MHJSd25wUThYa1pxSE9F?oc=5",
-      "publishedAt": "2026-03-15T13:25:26.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 63,
-      "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되어 있습니다. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-03-16_10",
-      "date": "2026-03-16",
       "category": "국제",
       "title": "CVE-2026-3910: 크롬 V8 제로데이 취약점, 실제 공격에 활용",
       "summary": [
-        "크롬 V8 엔진에서 제로데이 취약점 CVE-2026-3910이 발견되었습니다.",
+        "크롬 V8 엔진에서 제로데이 취약점(CVE-2026-3910)이 발견되었습니다.",
         "이 취약점은 실제 공격에 사용되고 있습니다.",
         "SOC Prime에서 해당 내용을 발표했습니다."
       ],
       "whyImportant": "크롬 사용자는 보안 업데이트를 통해 취약점을 해결해야 합니다.",
-      "importanceRationale": "근거: 크롬 V8 엔진의 제로데이 취약점이 실제 공격에 사용되고 있다는 것은 사용자 데이터 및 시스템 보안에 심각한 위협이 될 수 있기 때문입니다.",
+      "importanceRationale": "근거: 크롬 V8 엔진의 제로데이 취약점이 실제 공격에 사용되고 있다는 것은 사용자 데이터 및 시스템 보안에 심각한 위협을 초래할 수 있음을 의미합니다.",
       "impactSignals": [
         {
           "label": "security",
           "evidence": "크롬 V8 제로데이 취약점이 야생 공격에 사용됨"
         }
       ],
-      "dedupeKey": "CVE-2026-3910_chrome_v8_zero_day",
+      "dedupeKey": "CVE-2026-3910_chrome_v8_zero_day_in_the_wild",
       "clusterKey": "cve",
       "matchedTo": null,
       "sourceName": "SOC Prime",
@@ -288,7 +259,38 @@
       "importance": 4.5,
       "importanceRaw": 88,
       "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 내용이 일치하며, 정보가 명확합니다.",
+      "qualityReason": "The article provides a clear and concise report of a security vulnerability.",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-03-16_10",
+      "date": "2026-03-16",
+      "category": "경제",
+      "title": "대형 제약사, 2026년 성장세 둔화 예상… 약가 규제 및 특허 만료 영향",
+      "summary": [
+        "대형 제약사들의 2026년 성장세가 약가 규제와 특허 만료로 인해 둔화될 것으로 예상됨."
+      ],
+      "whyImportant": "제약 산업의 미래 성장 전망에 대한 중요한 지표를 제공합니다.",
+      "importanceRationale": "근거: 약가 규제와 특허 만료는 제약 회사의 수익성에 직접적인 영향을 미치므로, 투자 및 사업 전략에 중요한 고려 사항입니다.",
+      "impactSignals": [
+        {
+          "label": "policy",
+          "evidence": "약가 규제가 제약 회사 성장에 부정적 영향을 미칠 수 있음"
+        }
+      ],
+      "dedupeKey": "bigpharma_2026_growth_slowdown",
+      "clusterKey": "2026년",
+      "matchedTo": null,
+      "sourceName": "히트뉴스",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5xVEV1WktxNElqcFdvNl9PU2pHWllzbllqMGtnanBVWnhQVUxiZmpsck80WGZfRlFsOWw3MUlpc3VobDc0b0JwblRnTFJLZ0lodWtjVUI0UmxHSkdlQnJDbXh0QS1JZXR1Wi1N?oc=5",
+      "publishedAt": "2026-03-15T21:03:00.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 3.5,
+      "importanceRaw": 63,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 내용이 일치하며 간결하게 요약됨.",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -301,14 +303,9 @@
         "참여연대와 민변이 고위공직자범죄수사처(공수처) 및 중대범죄수사청(중수처) 관련 법안 입법을 청원했다.",
         "이들은 정부안이 검찰 개혁의 취지에 미달한다고 주장했다."
       ],
-      "whyImportant": "검찰 개혁 관련 법안에 대한 시민단체의 입법 청원은 정책 방향에 영향을 줄 수 있다.",
-      "importanceRationale": "근거: 참여연대와 민변은 검찰 개혁을 목표로 공수처 및 중수처 관련 법안의 입법을 청원하며 정부안에 대한 비판적인 입장을 표명했다.",
-      "impactSignals": [
-        {
-          "label": "policy",
-          "evidence": "공수처 및 중수처 관련 법안 입법 청원"
-        }
-      ],
+      "whyImportant": "검찰 개혁 관련 법안에 대한 시민단체의 입법 청원은 정책 방향에 영향을 줄 수 있습니다.",
+      "importanceRationale": "근거: 참여연대와 민변과 같은 주요 시민단체의 입법 청원은 사회적 논의를 촉발하고 정책 결정에 영향을 미칠 수 있기 때문입니다.",
+      "impactSignals": [],
       "dedupeKey": "20240118-참여연대·민변, 공수처·중수처법 입법 청원",
       "clusterKey": "검찰",
       "matchedTo": null,
@@ -317,10 +314,10 @@
       "publishedAt": "2026-03-15T16:58:31.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 3.5,
+      "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 본문이 일치하며, 내용이 간결하고 명확함.",
+      "qualityReason": "제목과 기사 내용이 일치하며, 간결하게 요약되었습니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -333,9 +330,9 @@
         "베트남 전국 유권자의 99.67%가 국회 및 각급 인민의회 의원 선거에 투표했습니다."
       ],
       "whyImportant": "높은 투표율은 정부 정책에 대한 지지를 나타냅니다.",
-      "importanceRationale": "근거: 전국 유권자의 거의 전부가 투표에 참여했다는 사실은 정부 정책에 대한 강력한 지지를 시사합니다.",
+      "importanceRationale": "근거: 전국 유권자의 거의 전부가 투표에 참여했다는 사실은 정부 정책에 대한 광범위한 지지를 시사합니다.",
       "impactSignals": [],
-      "dedupeKey": "20240126-전국 유권자의 99.67%가 국회 및 각급 인민의회 의원 선거에 투표",
+      "dedupeKey": "20240130-전국-유권자-투표",
       "clusterKey": "각급",
       "matchedTo": null,
       "sourceName": "Vietnam.vn",
@@ -356,15 +353,16 @@
       "category": "경제",
       "title": "상장사 10곳 중 6곳, 4분기 실적 기대치 하회",
       "summary": [
-        "KBS 뉴스에 따르면 상장사 10곳 중 6곳이 4분기 실적이 기대치를 밑돌았습니다.",
-        "이는 기업들의 수익성이 악화되었음을 시사합니다."
+        "KBS 뉴스에 따르면 상장사 10곳 중 6곳이 4분기 실적이 기대치에 미치지 못했다.",
+        "이는 기업들의 수익성이 악화되었음을 시사한다.",
+        "투자자들은 실적 발표에 주의를 기울여야 할 것으로 보인다."
       ],
-      "whyImportant": "상장 기업의 실적 부진은 투자 심리 위축과 시장 변동성을 초래할 수 있습니다.",
-      "importanceRationale": "근거: 상장사 실적은 경제 건전성을 나타내는 지표이며, 투자 및 시장에 미치는 영향이 큽니다.",
+      "whyImportant": "상장 기업의 실적 부진은 투자 심리에 부정적인 영향을 미치고, 주식 시장의 변동성을 키울 수 있다.",
+      "importanceRationale": "근거: 상장사 실적은 경제 건전성을 나타내는 지표이며, 투자 결정에 중요한 영향을 미친다. 4분기 실적 부진은 기업 수익성 악화를 의미하며, 이는 투자 심리 위축으로 이어질 수 있다.",
       "impactSignals": [
         {
           "label": "earnings",
-          "evidence": "상장사 10곳 중 6곳이 4분기 실적 기대치 미달"
+          "evidence": "상장사 10곳 중 6곳 4분기 실적 기대치 밑돌아"
         }
       ],
       "dedupeKey": "상장사_실적_부진_2024",
@@ -378,7 +376,7 @@
       "importance": 4,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었습니다.",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되어 있음.",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -391,8 +389,8 @@
         "농협 인도네시아 법인이 제재를 받았습니다.",
         "이번 제재는 IPO 자금 유출 사건과 관련이 있습니다."
       ],
-      "whyImportant": "농협 인도네시아 법인의 제재는 금융 보안 및 신뢰도에 영향을 미칩니다.",
-      "importanceRationale": "근거: 농협 인도네시아 법인의 제재는 IPO 자금 유출 사건과 직접적으로 연결되어 있으며, 이는 금융 기관의 보안 문제와 관련됩니다.",
+      "whyImportant": "농협 인도네시아 법인의 제재는 금융 보안 및 신뢰도에 영향을 미칠 수 있습니다.",
+      "importanceRationale": "근거: 농협 인도네시아 법인의 제재는 IPO 자금 유출 사건과 직접적으로 연결되어 있으며, 이는 금융 기관의 보안 문제와 관련이 있습니다.",
       "impactSignals": [],
       "dedupeKey": "농협 인도네시아 법인 제재_IPO 자금 유출 사건 파장",
       "clusterKey": "농협",
@@ -405,7 +403,7 @@
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 내용이 일치하며, 핵심 정보를 요약했습니다. / 근거부족",
+      "qualityReason": "기사 제목과 내용이 일치하며, 핵심 정보를 간결하게 전달합니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -413,63 +411,90 @@
       "id": "2026-03-16_15",
       "date": "2026-03-16",
       "category": "정책",
-      "title": "정부, 추가경정예산안 신속 추진…역대 사례를 통해 국회 제출 시점 분석",
+      "title": "지역사회 통합돌봄에서 약사 배제…국회·정부에 투트랙 대응",
       "summary": [
-        "정부가 추가경정예산안의 신속한 처리를 위해 속도를 내고 있다.",
-        "역대 사례를 분석하여 국회 제출 시점을 예측하고 있다."
+        "지역사회 통합돌봄에서 약사가 배제됨.",
+        "이에 대해 국회와 정부에 투트랙으로 대응할 예정임."
       ],
-      "whyImportant": "정부의 추가경정예산안 추진은 경제 정책 방향을 가늠하는 중요한 지표가 될 수 있다.",
-      "importanceRationale": "근거: 정부가 추가경정예산안을 신속하게 처리하려는 움직임을 보이고 있으며, 이는 정책 변화의 신호일 수 있다.",
+      "whyImportant": "지역사회 통합돌봄 정책에서 약사 배제에 대한 대응 방향을 제시합니다.",
+      "importanceRationale": "근거: 지역사회 통합돌봄 정책은 국민 건강에 중요한 영향을 미치며, 약사 배제는 정책의 효과성에 영향을 줄 수 있기 때문입니다.",
       "impactSignals": [],
-      "dedupeKey": "추경 속도전 돌입",
+      "dedupeKey": "지역사회 통합돌봄 약사 배제…국회·정부에 투트랙 대응",
       "clusterKey": "국회",
       "matchedTo": null,
-      "sourceName": "연합인포맥스",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMicEFVX3lxTFByRV9uOC1NUk1wRUlyeUVZbHJkb21sbEhsWnV3V1QtdFo4eDI5QVdiclhvWG85WFNaNjhHbHlxZUdiemd0MkFaS3ozNW1LRURYU0EyTXh2UTJkdzI2UnRMUE91TTNqNmFKMThQeXJOX2Q?oc=5",
-      "publishedAt": "2026-03-14T23:40:18.000Z",
+      "sourceName": "데일리팜",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBnYmNEaGJNY2lRUFZrSjNTelFYdFNGMGJuQ01hbTZ3SkJnYjlfUl94a0tQSWFUR196TWxXQ0NVVXF6eXFLS1hsakFDcWJrWDA?oc=5",
+      "publishedAt": "2026-03-15T01:44:26.000Z",
       "readTimeSec": 10,
       "status": "kept",
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 기사 내용이 일치하며, 정보가 명확하게 전달됨. / 근거부족",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되어 있습니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-03-16_16",
       "date": "2026-03-16",
-      "category": "국제",
-      "title": "인도의 전자 산업 야망, 조립이 아닌 생태계에 초점",
+      "category": "경제",
+      "title": "G마켓 협력 브랜드 매출 증가…\"한 달 매출을 하루 만에\"",
       "summary": [
-        "인도의 전자 산업 육성 목표는 단순 조립이 아닌 생태계 조성에 있다.",
-        "이는 공급 및 수요망의 발전을 의미한다."
+        "G마켓 협력 브랜드의 매출이 증가했다.",
+        "한 달 치 매출을 하루 만에 달성하기도 했다."
       ],
-      "whyImportant": "인도의 전자 산업 발전 전략의 핵심을 파악할 수 있다.",
-      "importanceRationale": "근거: 인도의 전자 산업 육성 목표가 단순 조립을 넘어 생태계 조성에 있음을 명시적으로 밝히고 있다.",
-      "impactSignals": [
-        {
-          "label": "market-demand",
-          "evidence": "인도의 전자 산업 육성이 공급 및 수요망 발전을 목표로 함"
-        }
-      ],
-      "dedupeKey": "india_electronics_ecosystem",
-      "clusterKey": "about",
+      "whyImportant": "G마켓 협력 브랜드의 매출 증가를 보여주는 지표이다.",
+      "importanceRationale": "근거: G마켓 협력 브랜드의 매출 증가를 직접적으로 언급하고 있다.",
+      "impactSignals": [],
+      "dedupeKey": "gmarket_sales_increase",
+      "clusterKey": "g마켓",
       "matchedTo": null,
-      "sourceName": "Supply & Demand Chain Executive",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNaXVyU3dUVXg0eFg3VDlMZnJIcHRVOWVlUUJEUDBObTd4d3NDWVFOMTBvUTJiWGVzLWxvaVdMaHhPRU5tM3VTem5sTHZHLXBXYzhOUlZ6M0dqZ3hDY25WeVR4VGd1R2NERk1yVjBMUmk2SU5zcnR2cnFJYlB5UWtpdmR5dzlkN2NjTmtrYzF5NlhGcXg5dzR0djZGZkt2YnlYUFhpVEhndzlrUmdvRnhIQkRwbUhrUzBKcEZ5UVFweGpSZVo2YTFjQWduc3RpQTdHbXFPWGtaRGJZMmtNbFlHWnNPVQ?oc=5",
-      "publishedAt": "2026-03-15T12:58:58.000Z",
+      "sourceName": "연합뉴스 한민족센터",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9QUTgtQXI4bE1MN1FJUTFTUVN1TUhrNWE2dFJEYVBEZFRsbzNCSmx6dmlKRklISHVvYUJqRmVOZ05iUjhCc1BiLUdUb2lFd3RIbjQxajk5UXMtOEJ1WkpHYzNXOHl6MHJSd25wUThYa1pxSE9F?oc=5",
+      "publishedAt": "2026-03-15T13:25:26.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 3.5,
-      "importanceRaw": 63,
+      "importance": 2,
+      "importanceRaw": 50,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 핵심 내용을 잘 요약했습니다.",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되어 있음. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-03-16_17",
+      "date": "2026-03-16",
+      "category": "국제",
+      "title": "트럼프, 사이버 전략 강화 발표: AI 및 규제 완화 강조",
+      "summary": [
+        "트럼프 대통령이 인공지능(AI)과 규제 완화를 전면에 내세운 강화된 사이버 전략을 공개했습니다.",
+        "이번 전략은 사이버 공간에서의 공세적 입장을 강화하는 데 초점을 맞추고 있습니다."
+      ],
+      "whyImportant": "새로운 사이버 전략은 미국의 사이버 보안 정책 방향을 제시합니다.",
+      "importanceRationale": "근거: 트럼프 행정부의 사이버 전략은 AI 기술 활용과 규제 완화를 통해 사이버 공간에서의 주도권을 확보하려는 의지를 보여주며, 이는 관련 산업과 정책 결정에 중요한 영향을 미칠 수 있습니다.",
+      "impactSignals": [
+        {
+          "label": "policy",
+          "evidence": "사이버 전략 강화 및 AI, 규제 완화 정책 포함"
+        }
+      ],
+      "dedupeKey": "trump-cyber-strategy-ai-deregulation",
+      "clusterKey": "강화한",
+      "matchedTo": null,
+      "sourceName": "cio.com",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiygJBVV95cUxPZFdNZ1JWdl9aZVA5RTM3UWNKTVZNLS13a2xnNDlpTi1ORFQ5V1pXRFAtZ0YzZXV0dzhaMnVyWnRrc0FjZHFqYms3dUJMcXNYRjVTSWJadkp5ZUtGV0h5NnY0Ymt3OFNoYllUc05mSG1kS3ZFeWtRR2pNN1pDNGNUUE1ORng4bmZ3S0xneXVTdVFIOEZHWGVWVkt5UkhIRFJPdFZ0RnZDQTlUUmltcUczUTRUVDBpRE83ZGV5V2ZpVFIyX0lUbWJQdmt6dU9OdWJPUHRUYkJPM2ZIX3ZWRmlJZnprM2EySHRVbG5Dd1JJbGw3c1NLQWdYZXQxcE5mUkZZUGFBZGo5aG85Um9lMjNCN0RPMjNkZzlXTWstTVZ6Q0Y5TkxDaWlURUt5MjhLMlpmdmlDU1dzN3c1dERUZzdOb0hZRWplWEVXdlE?oc=5",
+      "publishedAt": "2026-03-09T02:42:26.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 4,
+      "importanceRaw": 75,
+      "qualityLabel": "ok",
+      "qualityReason": "기사 제목과 내용이 일치하며, 핵심 내용을 잘 요약했습니다.",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-03-16_18",
       "date": "2026-03-16",
       "category": "국제",
       "title": "이주성, 중동에서 기회 포착…세아제강지주, UAE 매출 6배 성장",
@@ -478,7 +503,7 @@
         "이는 세아제강지주가 중동 시장에서 새로운 기회를 찾았음을 의미한다."
       ],
       "whyImportant": "세아제강지주의 UAE 매출 급증은 중동 시장에서의 성장 가능성을 보여주는 중요한 지표이다.",
-      "importanceRationale": "근거: 세아제강지주의 UAE 매출이 6배 성장했다는 것은 중동 시장에서의 사업 확장 가능성을 시사하며, 이는 기업의 수익성 개선에 긍정적인 영향을 미칠 수 있다.",
+      "importanceRationale": "근거: 세아제강지주의 UAE 매출이 6배 성장했다는 것은 중동 시장에서의 사업 확장이 성공적임을 시사하며, 이는 기업의 수익성 개선에 크게 기여할 수 있다.",
       "impactSignals": [],
       "dedupeKey": "seah-uae-6x-growth",
       "clusterKey": "6배",
@@ -489,36 +514,36 @@
       "readTimeSec": 10,
       "status": "kept",
       "importance": 2,
-      "importanceRaw": 63,
+      "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "The article provides a clear and concise statement about a company's financial performance. / 근거부족",
+      "qualityReason": "The article provides a clear and concise report of SeAH's revenue growth in the UAE. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-03-16_18",
+      "id": "2026-03-16_19",
       "date": "2026-03-16",
       "category": "국제",
-      "title": "미국 증시 전망, 저가 매수 시점은 언제인가?",
+      "title": "하나증권, \"중동 분쟁 속 유연탄·미국산 LNG 원가 우위…한국전력 3분기 SMP 상승 전망\"",
       "summary": [
-        "미국 증시의 저가 매수 시점에 대한 전망 분석 기사입니다.",
-        "네이버 프리미엄 콘텐츠에서 제공되었습니다."
+        "하나증권은 중동 분쟁 상황에서 유연탄과 미국산 LNG의 원가 우위를 분석했습니다.",
+        "한국전력의 3분기 SMP(계통한계가격) 상승을 전망했습니다."
       ],
-      "whyImportant": "미국 증시의 투자 전략 수립에 참고할 수 있습니다.",
-      "importanceRationale": "근거: 투자자들이 관심 있어하는 미국 증시의 저가 매수 시점에 대한 분석을 제공하므로 투자 전략 결정에 영향을 줄 수 있습니다.",
+      "whyImportant": "한국전력의 수익성에 영향을 미칠 수 있는 SMP 상승 전망에 대한 분석입니다.",
+      "importanceRationale": "근거: 하나증권의 분석을 바탕으로 한국전력의 수익성에 영향을 줄 수 있는 SMP 상승 가능성을 제시합니다.",
       "impactSignals": [],
-      "dedupeKey": "미국증시전망,언제저가매수에들어가야할까?",
-      "clusterKey": "네이버",
+      "dedupeKey": "hanah证券-중동분쟁-유연탄-LNG-한국전력-SMP상승",
+      "clusterKey": "lng",
       "matchedTo": null,
-      "sourceName": "네이버 프리미엄콘텐츠",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNaHRhQ2NKcEc5UDd2eUlRUk9QdkVtV0hKaEVYOHdRMFZtNWRXZ2ZEZUlQdmxzZVBsU2otdFpyMVE3a3N0b0ZrR3ozVG8tUTY4R3QtSHQyc3oteDg4eVMycTBZWVNQbUZyX3lDR2pUcWVWanl2QktrQTBabGxWb2wyOVVyVQ?oc=5",
-      "publishedAt": "2026-03-14T03:13:00.000Z",
+      "sourceName": "데이터투자",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE93UFFRR1Z4RlIyREVoMDhPU2ozQmpMU2xUM2VQZU1DSUViajNwMjNhUWFROUMzVlRqWi1DcmRGTEhFZ3dGWGNRQjhnbVFJb2ZldjlCTTFhbTBHSVk4d0MtbEJyX3JLdjlqMk1mZTJORTJXbDQ?oc=5",
+      "publishedAt": "2026-03-15T21:10:00.000Z",
       "readTimeSec": 10,
       "status": "kept",
       "importance": 2,
-      "importanceRaw": 50,
+      "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "정보가 간결하고 명확합니다. / 근거부족",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었습니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     }
