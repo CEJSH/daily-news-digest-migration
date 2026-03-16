@@ -3,21 +3,143 @@
   "selectionCriteria": "① 내일도 영향이 남는 이슈 ② 과도한 감정 소모 제외 ③ 어제와 중복되는 뉴스 제외",
   "editorNote": "이 뉴스는 클릭 수가 아니라 오늘 이후에도 남는 정보만 기준으로 편집했습니다.",
   "question": "정보를 덜 보는 것이 오히려 더 똑똑한 소비일까?",
-  "lastUpdatedAt": "2026-03-16T16:12:43.335+09:00",
+  "lastUpdatedAt": "2026-03-16T17:53:13.733+09:00",
   "items": [
     {
       "id": "2026-03-16_1",
       "date": "2026-03-16",
-      "category": "경제",
-      "title": "에버스핀, 영업이익 841% 성장…SaaS 지표 ‘Rule of 40’서 91 기록",
+      "category": "정책",
+      "title": "정부, 중소기업 보안 사각지대 해소…취약점 무상 점검",
       "summary": [
-        "에버스핀의 영업이익이 841% 성장했다.",
-        "SaaS 지표인 'Rule of 40'에서 91을 기록했다."
+        "정부가 중소기업의 보안 사각지대를 없애기 위해 취약점을 무상으로 점검한다."
       ],
-      "whyImportant": "에버스핀의 높은 영업이익 성장률과 SaaS 지표는 회사의 성장세를 나타낸다.",
-      "importanceRationale": "근거: 영업이익의 급증과 SaaS 지표 'Rule of 40'에서의 높은 점수는 에버스핀의 사업 성과가 매우 긍정적임을 시사한다.",
+      "whyImportant": "중소기업의 보안 강화에 기여하고 사이버 공격 위험을 줄일 수 있다.",
+      "importanceRationale": "근거: 정부가 직접 중소기업의 보안 취약점을 점검함으로써 보안 수준을 향상시키고, 이는 기업의 안정적인 운영과 데이터 보호에 중요한 영향을 미친다.",
+      "impactSignals": [
+        {
+          "label": "policy",
+          "evidence": "정부의 중소기업 보안 강화 정책 시행"
+        }
+      ],
+      "dedupeKey": "정부, 중소기업 보안 사각지대 없앤다…취약점 무상 점검",
+      "clusterKey": "무상",
+      "matchedTo": null,
+      "sourceName": "디지털데일리",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA3aTJ3dEhkbHBDVXBGLTNrODlDUGlwQzB0QWc1em83aWhxd0ZUZ0FnSktXZ3JGR0xtLTczSlZWa3FZX0R3RzZLUnU4ODNmSDFOVkd5U0NKQkpiUHd5S0M4Y3poUng?oc=5",
+      "publishedAt": "2026-03-16T08:03:16.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 4,
+      "importanceRaw": 75,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 내용이 일치하며, 정보가 간결하고 명확하다.",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-03-16_2",
+      "date": "2026-03-16",
+      "category": "국제",
+      "title": "케터링 헬스 랜섬웨어 공격에 대한 대응으로 수십 건의 소송 제기",
+      "summary": [
+        "케터링 헬스 랜섬웨어 공격에 대한 대응으로 수십 건의 소송이 제기되었습니다.",
+        "이번 소송은 환자 정보 유출에 대한 책임을 묻기 위한 것으로 보입니다."
+      ],
+      "whyImportant": "이번 소송은 유사한 사이버 공격을 겪은 다른 의료 기관에 대한 선례가 될 수 있습니다.",
+      "importanceRationale": "근거: 랜섬웨어 공격으로 인한 개인 정보 유출은 심각한 사회적 문제이며, 이에 대한 법적 책임 소재를 명확히 하는 것은 중요합니다.",
+      "impactSignals": [
+        {
+          "label": "security",
+          "evidence": "이번 공격은 의료 기관의 사이버 보안 강화 필요성을 강조합니다."
+        }
+      ],
+      "dedupeKey": "kettering_ransomware_lawsuits",
+      "clusterKey": "attack",
+      "matchedTo": null,
+      "sourceName": "The HIPAA Journal",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMickFVX3lxTE96YUxlZzNDWURueG1OcEN5QW9DSGlyel9KeDdfblNxNkg1akQ5OTRvd3Y4OGFYd1lLbG94Y3FjZ1pta21mQzJUV1dYUHVDYzkwR1dTTDZHYVk3ZkxtU0YtdGc0MDNDMmREdS1yRTJUZERldw?oc=5",
+      "publishedAt": "2026-03-11T07:00:00.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 3.5,
+      "importanceRaw": 63,
+      "qualityLabel": "ok",
+      "qualityReason": "기사 제목과 내용이 일치하며, 핵심 내용을 잘 요약했습니다.",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-03-16_3",
+      "date": "2026-03-16",
+      "category": "기술",
+      "title": "대전교육청, 생성형 AI 학교 활용 가이드라인 배포… “환각·개인정보 유출 예방”",
+      "summary": [
+        "대전교육청이 생성형 AI의 학교 활용 가이드라인을 배포했다.",
+        "이번 가이드라인은 AI의 환각 현상과 개인정보 유출을 예방하는 데 중점을 둔다."
+      ],
+      "whyImportant": "대전교육청이 학교에서 생성형 AI를 안전하게 사용할 수 있도록 가이드라인을 제시했다는 점에서 중요하다.",
+      "importanceRationale": "근거: 교육 현장에서 AI 활용이 증가하는 추세에 맞춰, 발생 가능한 문제점을 예방하고 안전한 사용 환경을 조성하기 위한 선제적 조치이기 때문이다.",
       "impactSignals": [],
-      "dedupeKey": "everspin_841_percent_growth",
+      "dedupeKey": "대전교육청, 생성형 AI 학교 활용 가이드라인 배포",
+      "clusterKey": "가이드라인",
+      "matchedTo": null,
+      "sourceName": "스트레이트뉴스",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE81al8yRTJBUk1PMV9jQ3c3amRHUmhtU0ViVGxBVm9NRk1DR2ZTWHBXRHZaSFBUVjF0WUJJUVpPYVZVb1hONlpoUnRIelMwVUFOY1dQQ19vZFp3TGNYUW1tSm5qeG1jX2hvY3ZydVN2S3k2elXSAXdBVV95cUxNR2V1UW5VSEVzX3drVkgtUk4zVEhVMkVMU2I3U0ZsYTI5OGRTM2UzTVNpdU8xaUZkeHVKVkNGT3AzT1puZmNHQXZla19VZWRzWHRHQzF1YTgxb1U0aDE1NjNhck1kYkhTeU1LQU9iM3lCQ0JwaDVpNA?oc=5",
+      "publishedAt": "2026-03-16T08:02:37.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 63,
+      "qualityLabel": "ok",
+      "qualityReason": "기사 내용이 명확하고, 정보 전달이 효과적이다. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-03-16_4",
+      "date": "2026-03-16",
+      "category": "경제",
+      "title": "마이크론, 대만 PSMC 공장 인수 완료…AI 수요 대응 차세대 DRAM·HBM 생산 확대",
+      "summary": [
+        "마이크론이 대만 PSMC 공장 인수를 완료했습니다.",
+        "AI 수요에 대응하기 위해 차세대 DRAM 및 HBM 생산을 확대할 계획입니다."
+      ],
+      "whyImportant": "마이크론의 대만 PSMC 공장 인수는 AI 시장의 수요 증가에 발맞춰 차세대 메모리 생산 능력을 강화하는 중요한 단계입니다.",
+      "importanceRationale": "근거: 마이크론이 PSMC 공장을 인수하여 AI 수요에 대응하기 위한 차세대 DRAM 및 HBM 생산 확대를 추진하므로 중요합니다.",
+      "impactSignals": [
+        {
+          "label": "market-demand",
+          "evidence": "AI 수요 대응 위한 차세대 DRAM·HBM 생산 확대"
+        }
+      ],
+      "dedupeKey": "micron-psmc-acquisition-taiwan-2024",
+      "clusterKey": "반도체/psmc",
+      "matchedTo": null,
+      "sourceName": "인공지능신문",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5DQkdicnEtTHhJbkxvMVpob19rZFpuS0x4NWUybEpqWXh0UHI4aHBFQmNjUzFUSDB6c1UxQXladm1WZGc3azJlRVZSc0ZiSXFQOUwwVHJCaWhwSEhUMW5IYUdDajlmSzQ?oc=5",
+      "publishedAt": "2026-03-16T08:43:30.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 4,
+      "importanceRaw": 75,
+      "qualityLabel": "ok",
+      "qualityReason": "The article provides a concise and factual summary of the acquisition and its purpose.",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-03-16_5",
+      "date": "2026-03-16",
+      "category": "경제",
+      "title": "에버스핀, 영업이익 841% 성장…SaaS 지표 ‘Rule of 40’에서 91 기록",
+      "summary": [
+        "에버스핀이 영업이익 841% 성장을 기록했다.",
+        "SaaS 지표인 ‘Rule of 40’에서 91을 기록했다."
+      ],
+      "whyImportant": "에버스핀의 높은 영업이익 성장률과 SaaS 지표는 회사의 성장세를 보여주는 중요한 지표입니다.",
+      "importanceRationale": "근거: 영업이익의 급증은 기업의 수익성 개선을 나타내며, Rule of 40 지표는 SaaS 기업의 건전한 성장률을 평가하는 데 사용됩니다.",
+      "impactSignals": [],
+      "dedupeKey": "everspin_earnings_20240126",
       "clusterKey": "rule",
       "matchedTo": null,
       "sourceName": "플래텀(Platum)",
@@ -28,29 +150,29 @@
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 간결하게 핵심 내용을 전달한다. / 근거부족",
+      "qualityReason": "제목과 본문이 일치하며, 간결하게 핵심 정보를 제공합니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-03-16_2",
+      "id": "2026-03-16_6",
       "date": "2026-03-16",
       "category": "기술",
-      "title": "보이지 않는 코드를 사용한 공급망 공격, GitHub 및 기타 저장소 공격",
+      "title": "보이지 않는 코드를 이용한 공급망 공격, GitHub 및 기타 저장소 공격",
       "summary": [
-        "보이지 않는 코드를 사용한 공급망 공격이 GitHub 및 기타 저장소를 강타했습니다.",
+        "보이지 않는 코드를 이용한 공급망 공격이 GitHub 및 기타 저장소를 강타했습니다.",
         "이번 공격은 소프트웨어 개발 프로세스 전반에 걸쳐 악성 코드를 삽입하는 것을 목표로 합니다.",
-        "공격의 구체적인 방법과 영향을 받은 저장소에 대한 자세한 내용은 아직 조사 중입니다."
+        "공격의 구체적인 기술적 세부 사항은 아직 조사 중입니다."
       ],
-      "whyImportant": "공급망 공격은 소프트웨어 보안에 심각한 위협이 되며, 개발자와 사용자 모두에게 영향을 미칠 수 있습니다.",
-      "importanceRationale": "근거: 공급망 공격은 광범위한 시스템에 침투할 수 있으며, 탐지하기 어려울 수 있습니다. 이번 공격은 GitHub와 같은 주요 플랫폼을 대상으로 했다는 점에서 중요성이 높습니다.",
+      "whyImportant": "공급망 공격은 소프트웨어 개발 및 배포 프로세스를 통해 광범위한 시스템에 영향을 미칠 수 있으므로 중요합니다.",
+      "importanceRationale": "근거: 공급망 공격은 광범위한 시스템에 영향을 줄 수 있으며, 이번 공격은 GitHub와 같은 주요 저장소를 대상으로 한다는 점에서 보안상의 심각한 위협을 제기합니다.",
       "impactSignals": [
         {
           "label": "security",
-          "evidence": "공급망 공격은 소프트웨어 저장소의 보안을 위협합니다."
+          "evidence": "공급망 공격이 GitHub 저장소를 포함한 여러 저장소를 대상으로 함"
         }
       ],
-      "dedupeKey": "supply_chain_attack_github_20240229",
+      "dedupeKey": "supply-chain-attack-github-repositories",
       "clusterKey": "attack",
       "matchedTo": null,
       "sourceName": "Ars Technica",
@@ -61,28 +183,28 @@
       "importance": 4.5,
       "importanceRaw": 88,
       "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 내용이 일치하며, 제공된 정보가 명확합니다.",
+      "qualityReason": "기사 제목과 내용이 일치하며, 핵심 내용을 잘 요약했습니다.",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-03-16_3",
+      "id": "2026-03-16_7",
       "date": "2026-03-16",
       "category": "기술",
-      "title": "GlassWorm, 개발자 대상 공격 위해 72개 Open VSX 확장 프로그램 악용",
+      "title": "GlassWorm, 개발자 대상 72개 Open VSX 확장 프로그램 악용한 공급망 공격",
       "summary": [
-        "GlassWorm 공급망 공격이 개발자를 표적으로 삼기 위해 72개의 Open VSX 확장 프로그램을 악용했습니다.",
-        "해커 뉴스가 해당 내용을 보도했습니다."
+        "GlassWorm 공격 그룹이 개발자를 대상으로 Open VSX 확장 프로그램을 악용한 공급망 공격을 수행했습니다.",
+        "공격자들은 72개의 확장 프로그램을 악용하여 개발자들을 표적으로 삼았습니다."
       ],
-      "whyImportant": "개발자 보안에 대한 위협을 강조합니다.",
-      "importanceRationale": "근거: GlassWorm 공격은 Open VSX 확장 프로그램을 통해 개발자들을 표적으로 삼는 공급망 공격으로, 개발 환경의 보안 취약점을 드러냅니다.",
+      "whyImportant": "소프트웨어 개발 공급망에 대한 보안 위협이 증가하고 있으며, 개발자들이 사용하는 도구와 확장 프로그램에 대한 보안 점검이 필요합니다.",
+      "importanceRationale": "근거: 개발자들을 대상으로 하는 공급망 공격은 소프트웨어 개발 프로세스 전반에 걸쳐 심각한 영향을 미칠 수 있으며, GlassWorm 공격은 이러한 위협의 실제 사례를 보여줍니다.",
       "impactSignals": [
         {
           "label": "security",
-          "evidence": "GlassWorm 공격이 개발자들을 대상으로 Open VSX 확장 프로그램을 악용한 공급망 공격이라는 점에서 보안에 미치는 영향이 큽니다."
+          "evidence": "GlassWorm 공격 그룹이 Open VSX 확장 프로그램을 악용하여 개발자들을 공격 대상으로 삼음."
         }
       ],
-      "dedupeKey": "GlassWorm_OpenVSX_Attack",
+      "dedupeKey": "glassworm_supply_chain_attack_openvsx",
       "clusterKey": "abuses",
       "matchedTo": null,
       "sourceName": "The Hacker News",
@@ -93,48 +215,21 @@
       "importance": 4,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 정보가 명확합니다.",
+      "qualityReason": "The article provides a clear and concise summary of a security threat.",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-03-16_4",
-      "date": "2026-03-16",
-      "category": "정책",
-      "title": "당정, 3개월간 비축유 단계적 방출 및 3월말 추가경정예산안 국회 제출",
-      "summary": [
-        "당정이 3개월간 비축유를 단계적으로 방출하기로 결정했습니다.",
-        "또한 3월 말에 추가경정예산안을 국회에 제출할 예정입니다."
-      ],
-      "whyImportant": "정부의 정책 결정에 따른 시장 영향.",
-      "importanceRationale": "근거: 정부와 여당이 비축유 방출 및 추경안 제출을 결정함에 따라 에너지 시장과 경제 전반에 영향을 미칠 수 있습니다.",
-      "impactSignals": [],
-      "dedupeKey": "20240229-비축유방출추경안",
-      "clusterKey": "3개월간",
-      "matchedTo": null,
-      "sourceName": "한국경제",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9fRF95dUxZQjAtT1ZDLVBLQ2JDSjVzTFFPYkRpdXhwTkM0M2xCUnlTdFAwTVpDUjZVc0FhM2tIQjJjZ183ek9TekU2U3hXcDgtckxRd05Ra3ozQdIBVEFVX3lxTFBlZ04tV2RSeXFDRVJ6bjZ5RkdJbllsbGhySkp6R1pyaW40a1RuTHliSGhTVjdpbkVZeEV4ek9GMm5UOC1SMUR5YzduOGlNS1EzLS1hTA?oc=5",
-      "publishedAt": "2026-03-16T03:20:04.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 63,
-      "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었습니다. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-03-16_5",
+      "id": "2026-03-16_8",
       "date": "2026-03-16",
       "category": "국제",
       "title": "트럼프 의도와 달리… 이란과 '비밀 협상' 진행",
       "summary": [
-        "이란이 트럼프 행정부의 의도와는 달리 '비밀 협상'을 진행하고 있다고 한국경제가 보도했다.",
-        "협상의 구체적인 내용은 아직 알려지지 않았다."
+        "이란이 트럼프 정부의 의도와는 달리 '비밀 협상'을 진행하고 있다는 보도가 나왔다.",
+        "협상의 구체적인 내용은 알려지지 않았다."
       ],
       "whyImportant": "이란의 비밀 협상은 국제 관계에 영향을 미칠 수 있습니다.",
-      "importanceRationale": "근거: 이란의 외교적 움직임은 중동 지역의 안정과 국제 사회의 정책 결정에 중요한 변수가 될 수 있기 때문입니다.",
+      "importanceRationale": "근거: 이란의 외교적 움직임은 중동 지역의 안정과 국제 정치에 중요한 변수가 될 수 있기 때문입니다.",
       "impactSignals": [],
       "dedupeKey": "trump-iran-secret-negotiation",
       "clusterKey": "비밀협상",
@@ -147,12 +242,12 @@
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 기사 내용이 일치하며, 간결하게 요약되었습니다. / 근거부족",
+      "qualityReason": "The article is concise and factual. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-03-16_6",
+      "id": "2026-03-16_9",
       "date": "2026-03-16",
       "category": "에너지",
       "title": "데이터 센터 전력 수요의 예상보다 빠른 증가로 화석 연료 발전 증가 가능성",
@@ -160,9 +255,9 @@
         "미국 에너지 정보청(EIA)에 따르면 데이터 센터 전력 수요의 예상보다 빠른 증가로 화석 연료 발전이 증가할 수 있습니다."
       ],
       "whyImportant": "데이터 센터의 전력 수요 증가는 에너지 시장과 환경에 중요한 영향을 미칠 수 있습니다.",
-      "importanceRationale": "근거: 데이터 센터 전력 수요 증가가 화석 연료 발전 증가로 이어질 수 있다는 점은 에너지 정책 및 환경 규제에 대한 고려를 필요로 합니다.",
+      "importanceRationale": "근거: 데이터 센터 전력 수요 증가는 화석 연료 발전 증가로 이어져 환경 문제와 에너지 정책에 영향을 줄 수 있기 때문입니다.",
       "impactSignals": [],
-      "dedupeKey": "fossil_generation_data_center_demand_rise",
+      "dedupeKey": "fossil-generation-data-center-demand-rise",
       "clusterKey": "에너지/could",
       "matchedTo": null,
       "sourceName": "U.S. Energy Information Administration (EIA) (.gov)",
@@ -173,66 +268,12 @@
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "기사 내용이 명확하고 간결함 / 근거부족",
+      "qualityReason": "기사 제목과 내용이 일치하며, 간결하게 요약되었습니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-03-16_7",
-      "date": "2026-03-16",
-      "category": "경제",
-      "title": "김영록, \"전남 동부권에 HBM·HBF 반도체 공장 유치\"",
-      "summary": [
-        "김영록 전라남도지사가 전남 동부권에 HBM·HBF 반도체 공장 유치를 추진한다.",
-        "이는 전라남도 동부권의 경제 활성화에 기여할 것으로 기대된다."
-      ],
-      "whyImportant": "전라남도의 반도체 산업 경쟁력 강화 및 지역 경제 활성화에 중요한 계기가 될 수 있다.",
-      "importanceRationale": "근거: 김영록 전라남도지사가 직접 HBM·HBF 반도체 공장 유치를 언급하며, 이는 전남 동부권의 경제 발전에 직접적인 영향을 미칠 수 있는 투자 유치 노력으로 해석될 수 있다.",
-      "impactSignals": [],
-      "dedupeKey": "김영록_전남_반도체공장_유치",
-      "clusterKey": "반도체/hbf",
-      "matchedTo": null,
-      "sourceName": "헤럴드경제",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE54U2h0MG9UZU5xUnc5RC1wS29uRVhLX0RZWXdzTmtVYzB2M2FFR09GdF9WajZybGpBUTFqRE1Dc29Ub3VobTVTbFZ3TUoxSWVrTWUtYTR3?oc=5",
-      "publishedAt": "2026-03-16T05:59:40.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 75,
-      "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 내용이 간결하고 명확하다. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-03-16_8",
-      "date": "2026-03-16",
-      "category": "정책",
-      "title": "과기정통부, 추가경정예산으로 2242개 기업 보안 점검 실시…취약점 9만 건 조치",
-      "summary": [
-        "과학기술정보통신부가 추가경정예산을 통해 2242개 기업의 보안을 점검했다.",
-        "점검 결과, 9만 건의 취약점이 발견되어 조치되었다."
-      ],
-      "whyImportant": "이번 보안 점검은 국내 기업들의 사이버 보안 강화에 기여할 수 있습니다.",
-      "importanceRationale": "근거: 과기정통부가 주도하여 대규모 기업 보안 점검을 실시하고, 상당한 수의 취약점을 해결함으로써 기업 보안 수준을 향상시켰다는 점에서 중요합니다.",
-      "impactSignals": [],
-      "dedupeKey": "과기정통부, 추경 예산으로 2242개사 보안 점검... 취약점 9만건 조치",
-      "clusterKey": "2242개사",
-      "matchedTo": null,
-      "sourceName": "보안뉴스",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9HdC10MEpWenkzNDVHS1QtQ0x6ZUJMUzNCOXQ0MmZzUU5SOGZsUEp6enl6MEc1cDNvVUpMRTZILUdIX2MxT3Z3aGwyUTM1UTJoN3paQmZvYlVKSUs0b3c?oc=5",
-      "publishedAt": "2026-03-16T03:00:00.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 75,
-      "qualityLabel": "ok",
-      "qualityReason": "기사 내용이 명확하고 정보가 구체적입니다. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-03-16_9",
+      "id": "2026-03-16_10",
       "date": "2026-03-16",
       "category": "국제",
       "title": "정부, 원전 이용률 80% 상향 추진…중동 사태 대비 정비 6기 조기 복귀",
@@ -241,8 +282,8 @@
         "이는 중동 사태에 대비하기 위한 조치이다.",
         "정비 중인 6기의 원전을 조기 복귀시킬 예정이다."
       ],
-      "whyImportant": "원전 이용률 상향 정책은 에너지 수급 안정화에 기여할 수 있다.",
-      "importanceRationale": "근거: 정부가 중동 사태에 대비하여 원전 이용률을 높이고 정비 중인 원전의 조기 복귀를 추진하고 있기 때문이다.",
+      "whyImportant": "원전 이용률 상향 정책은 에너지 안보 및 전력 공급 안정성에 중요한 영향을 미친다.",
+      "importanceRationale": "근거: 정부의 원전 이용률 상향 추진은 에너지 정책의 중요한 변화를 의미하며, 중동 사태에 대한 대비책으로 해석될 수 있다.",
       "impactSignals": [],
       "dedupeKey": "원전이용률80%상향",
       "clusterKey": "에너지/대비",
@@ -255,23 +296,50 @@
       "importance": 2,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약됨. / 근거부족",
+      "qualityReason": "제목과 본문이 일치하며, 간결하게 핵심 내용을 전달한다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-03-16_10",
+      "id": "2026-03-16_11",
       "date": "2026-03-16",
       "category": "국제",
-      "title": "미국-중국, 파리에서 무역 협상 진행... 트럼프-시진핑 정상회담 준비 착수",
+      "title": "한미, 관세 협상 합의…상호 관세 15%·현금 투자 年 상한 200억불",
+      "summary": [
+        "한국무역협회에 따르면 한미 양국이 관세 협상에 합의했다.",
+        "합의 내용은 상호 관세 15% 부과 및 현금 투자 연간 상한 200억불이다."
+      ],
+      "whyImportant": "이번 합의는 양국 무역 관계에 중요한 영향을 미칠 수 있다.",
+      "importanceRationale": "근거: 상호 관세율 및 투자 상한선 설정은 무역 흐름과 투자 결정에 직접적인 영향을 줄 수 있기 때문이다.",
+      "impactSignals": [],
+      "dedupeKey": "hanmi-gwansye-hyupsang-hahui-sangho-gwansye-15-hyeongeum-tuja-nyeon-sanghan-200eokbul",
+      "clusterKey": "200억불",
+      "matchedTo": null,
+      "sourceName": "한국무역협회-KITA.NET",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4xdWhfZ2dJX2VwLWNjejFwUnljSDFLUUs0RERlSUNUeEFGTXRmNzlXSjdqRDBBaHB4UW1IOTh4ZDZ6d0YyX1VaM1JxU3hXeFVuS0tKeVJOMEU3OHlVME1QMWlwRGJ6ODJNVENRNGJnRjNnOWhw?oc=5",
+      "publishedAt": "2026-03-16T01:48:05.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 75,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 핵심 내용을 전달한다. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-03-16_12",
+      "date": "2026-03-16",
+      "category": "국제",
+      "title": "미국-중국, 파리에서 무역 협상 진행…트럼프-시진핑 정상회담 준비 시작",
       "summary": [
         "미국과 중국이 파리에서 무역 협상을 진행했다.",
         "이번 협상은 트럼프-시진핑 정상회담을 준비하기 위한 것이다."
       ],
       "whyImportant": "미국과 중국의 무역 협상 및 정상회담 준비는 세계 경제에 중요한 영향을 미칠 수 있다.",
-      "importanceRationale": "근거: 미중 무역 관계는 세계 경제의 안정과 성장에 중요한 요소이며, 양국 정상의 회담 결과에 따라 글로벌 무역 질서가 크게 변화할 수 있기 때문이다.",
+      "importanceRationale": "근거: 미중 무역 관계는 글로벌 경제의 안정성과 성장에 중요한 요소이며, 양국 정상의 만남은 무역 분쟁 해결의 실마리를 제공할 수 있기 때문이다.",
       "impactSignals": [],
-      "dedupeKey": "미중무역협상_파리_트럼프시진핑",
+      "dedupeKey": "미중무역협상_파리_2024",
       "clusterKey": "마켓인",
       "matchedTo": null,
       "sourceName": "마켓인",
@@ -282,29 +350,28 @@
       "importance": 2,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되어 있음. / 근거부족",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 핵심 내용을 전달한다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-03-16_11",
+      "id": "2026-03-16_13",
       "date": "2026-03-16",
-      "category": "기술",
-      "title": "대만, 인공지능 거버넌스 구축: 기본법에서 데이터 및 저작권 관련 어려운 문제로",
+      "category": "정책",
+      "title": "대만, 인공지능 거버넌스 구축: 기본법에서 데이터 및 저작권 관련 어려운 문제까지",
       "summary": [
         "대만이 인공지능 거버넌스 구축을 추진하고 있습니다.",
-        "기본법을 바탕으로 데이터 및 저작권 관련 문제들을 다루고 있습니다.",
-        "NBR(National Bureau of Asian Research)에서 관련 내용을 발표했습니다."
+        "기본법을 토대로 데이터 및 저작권 관련 문제들을 다루고 있습니다."
       ],
-      "whyImportant": "대만의 인공지능 거버넌스 구축 동향을 파악할 수 있습니다.",
-      "importanceRationale": "근거: 대만이 인공지능 기술 발전에 발맞춰 거버넌스 구축을 통해 관련 산업 투자를 확대하고 있으며, 이는 기술 경쟁력 강화에 중요한 영향을 미칩니다.",
+      "whyImportant": "대만의 AI 거버넌스 구축 노력은 아시아 지역의 AI 규제 모델을 제시할 수 있습니다.",
+      "importanceRationale": "근거: 대만의 AI 거버넌스 구축은 기술 발전과 사회적 영향을 고려한 균형 잡힌 접근 방식을 모색하는 데 중요한 역할을 할 수 있기 때문입니다.",
       "impactSignals": [
         {
           "label": "capex",
-          "evidence": "대만의 인공지능 거버넌스 구축은 관련 산업 투자를 확대할 가능성이 높습니다."
+          "evidence": "AI 거버넌스 구축은 관련 기술 및 인프라 투자 확대로 이어질 수 있습니다."
         }
       ],
-      "dedupeKey": "taiwan_ai_governance_20240129",
+      "dedupeKey": "taiwan_ai_governance_2024",
       "clusterKey": "act",
       "matchedTo": null,
       "sourceName": "The National Bureau of Asian Research (NBR)",
@@ -315,12 +382,38 @@
       "importance": 3.5,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 내용이 일치하며, 간결하게 요약되었습니다.",
+      "qualityReason": "기사 제목과 내용이 일치하며, 요약이 정확합니다.",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-03-16_12",
+      "id": "2026-03-16_14",
+      "date": "2026-03-16",
+      "category": "경제",
+      "title": "상장사, 올해 영업이익 600조 '퀀텀 점프'",
+      "summary": [
+        "한국경제에 따르면 상장사들의 올해 영업이익이 600조 원으로 크게 증가할 것으로 예상됩니다."
+      ],
+      "whyImportant": "상장 기업의 수익성 증가는 투자 및 경제 성장에 중요한 지표입니다.",
+      "importanceRationale": "근거: 상장사 영업이익 증가는 기업의 전반적인 건전성을 나타내며, 투자 심리 개선 및 경제 활성화에 기여할 수 있습니다.",
+      "impactSignals": [],
+      "dedupeKey": "상장사영업이익600조퀀텀점프",
+      "clusterKey": "600조",
+      "matchedTo": null,
+      "sourceName": "한국경제",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE85dGtzQTZqREIzZlFQWlNqQUNtbzV5eUR0Q1hNY1hhUnQwQ2NMV0FBamdLVGVuZnVCNzJMcmx6ejY0N3NFM1BEU1FjY0xnamZxQ2x4VVZudEh1Z9IBVEFVX3lxTE40dHlQUTV1Y0oydkV6eVNzMEs5TWVxTHBqX09iVm0zSEptYlNzdFVJWGdSSDlNRG1zZG00ZUU3ODVFd3k2NlZBWVBxRlVNNWZEYXItUw?oc=5",
+      "publishedAt": "2026-03-16T08:26:56.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 63,
+      "qualityLabel": "ok",
+      "qualityReason": "기사 제목과 내용이 일치하며, 간결하게 요약되었습니다. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-03-16_15",
       "date": "2026-03-16",
       "category": "경제",
       "title": "중소벤처기업부, 소상공인 정책의 초점을 '혁신 성장 및 재도약'에 맞추고 '매출 확대' 목표",
@@ -328,7 +421,7 @@
         "중소벤처기업부가 소상공인 정책의 방향을 '혁신 성장'과 '재도약'에 두고, 매출 확대를 목표로 한다고 발표했습니다."
       ],
       "whyImportant": "소상공인 지원 정책 방향을 제시합니다.",
-      "importanceRationale": "근거: 중소벤처기업부의 정책 방향이 소상공인 지원에 미치는 영향이 크기 때문입니다.",
+      "importanceRationale": "근거: 중소벤처기업부의 정책 방향이 소상공인들의 혁신 성장과 재도약에 초점을 맞추고 있으며, 이는 매출 확대로 이어진다는 목표를 제시하고 있기 때문입니다.",
       "impactSignals": [],
       "dedupeKey": "중기부, 소상공인 정책 '혁신성장·재도약'에 방점…'매출 확대'",
       "clusterKey": "매출",
@@ -341,28 +434,28 @@
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며 간결하게 요약되어 있습니다. / 근거부족",
+      "qualityReason": "제목과 내용이 일치하며, 핵심 내용을 잘 반영하고 있습니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-03-16_13",
+      "id": "2026-03-16_16",
       "date": "2026-03-16",
       "category": "정책",
-      "title": "미국, 'AI 칩 수출 규정 초안' 갑작스레 철회… 새로운 규제안 발표될까",
+      "title": "미국, 'AI 칩 수출 규정 초안' 갑작스런 철회… 새로운 규제안 발표될까",
       "summary": [
         "미국이 인공지능(AI) 칩 수출 규정 초안을 갑작스럽게 철회했습니다.",
         "새로운 규제안이 나올 가능성이 제기되고 있습니다."
       ],
-      "whyImportant": "미국의 AI 칩 수출 규제는 기술 산업에 큰 영향을 미칠 수 있습니다.",
-      "importanceRationale": "근거: AI 칩 수출 규제는 기술 경쟁, 국가 안보, 산업 발전에 중요한 영향을 미치기 때문입니다.",
+      "whyImportant": "미국의 AI 칩 수출 규제는 기술 경쟁과 공급망에 큰 영향을 미칠 수 있습니다.",
+      "importanceRationale": "근거: AI 칩 수출 규제는 정책 변화에 민감하며, 이는 관련 산업 전반에 걸쳐 파급 효과를 가져올 수 있기 때문입니다.",
       "impactSignals": [
         {
           "label": "policy",
-          "evidence": "미국의 AI 칩 수출 규정 초안 철회 및 새로운 규제 가능성"
+          "evidence": "AI 칩 수출 규정 초안 철회 및 새로운 규제 가능성"
         }
       ],
-      "dedupeKey": "AI_CHIP_EXPORT_REGULATIONS_DRAFT_WITHDRAWAL",
+      "dedupeKey": "AI 칩 수출 규정 초안 철회",
       "clusterKey": "it조선",
       "matchedTo": null,
       "sourceName": "IT조선",
@@ -378,174 +471,109 @@
       "isBreaking": false
     },
     {
-      "id": "2026-03-16_14",
-      "date": "2026-03-16",
-      "category": "국제",
-      "title": "CVE-2026-3910: 크롬 V8 제로데이 취약점, 실제 공격에 활용",
-      "summary": [
-        "크롬 V8 엔진의 제로데이 취약점 CVE-2026-3910이 실제 공격에 사용되고 있습니다.",
-        "SOC Prime에서 해당 내용을 발표했습니다."
-      ],
-      "whyImportant": "크롬 사용자의 보안에 직접적인 영향을 미치는 제로데이 취약점 정보입니다.",
-      "importanceRationale": "근거: 크롬 V8 엔진의 제로데이 취약점이 실제 공격에 사용되고 있다는 정보는 사용자 보안에 심각한 위협을 가하며, 즉각적인 대응이 필요합니다.",
-      "impactSignals": [
-        {
-          "label": "security",
-          "evidence": "크롬 V8 제로데이 취약점이 실제 공격에 사용됨"
-        }
-      ],
-      "dedupeKey": "CVE-2026-3910_chrome_v8_zero_day_in_the_wild",
-      "clusterKey": "cve",
-      "matchedTo": null,
-      "sourceName": "SOC Prime",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1CdzdiRzVkQXAybDJSRUczR21vNVQ2Z19EcUdGYkN5SGU3R1gybmo0TGVZcmRubDVjdUtvTFV0Nmx6OFNkVDROYXV2UXJPUTVMS2xvcmhrSU5MZ19OSWVMcEx3OUlNUmNiRGtuc3A5dnBNT2pSWlhPUXBMZw?oc=5",
-      "publishedAt": "2026-03-12T07:00:00.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 4.5,
-      "importanceRaw": 88,
-      "qualityLabel": "ok",
-      "qualityReason": "The information is factual and directly relevant to cybersecurity.",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-03-16_15",
-      "date": "2026-03-16",
-      "category": "국제",
-      "title": "타이어 공기압 모니터링 시스템(TPMS)의 보안 취약점, 원격 차량 추적 가능",
-      "summary": [
-        "타이어 공기압 모니터링 시스템(TPMS)의 보안 취약점으로 인해 원격 차량 추적이 가능하다는 보고가 나왔다.",
-        "이는 차량 보안에 심각한 위협이 될 수 있다."
-      ],
-      "whyImportant": "TPMS 보안 취약점을 악용한 차량 추적 가능성은 차량 보안에 대한 중요한 위협을 제기합니다.",
-      "importanceRationale": "근거: TPMS의 보안 취약점을 통해 원격으로 차량 추적이 가능하다는 점은 개인 정보 침해 및 차량 탈취 등의 심각한 문제로 이어질 수 있기 때문입니다.",
-      "impactSignals": [],
-      "dedupeKey": "TPMS_security_vulnerability_remote_tracking",
-      "clusterKey": "tpms",
-      "matchedTo": null,
-      "sourceName": "Vietnam.vn",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRXZsTFRibDFZb1UxTGIzUmRjTWJqano0aFZrWWNpeVl5OW9rTDZsd3E3dkFhUWJocFpLcnVJVjlYZXNFVm81NXdWcnQtcVpFeUNHem9XYjdIYkJhdVFBMEZpWnFXaklNcF9hWUlpbEdHVjRjT19XdUJITHU1OERYMlZNSVJFRk9TWkVXN0hDZDdRVE52aU94LVVZX1IwUEdJRmlYNjdrTFg?oc=5",
-      "publishedAt": "2026-03-15T02:22:56.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 75,
-      "qualityLabel": "ok",
-      "qualityReason": "The article directly states a security vulnerability. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-03-16_16",
-      "date": "2026-03-16",
-      "category": "정책",
-      "title": "'친환경인가, 또 다른 플라스틱인가'...바이오플라스틱 정책 쟁점 국회서 논의",
-      "summary": [
-        "국회에서 바이오플라스틱 정책 쟁점에 대한 논의가 진행될 예정이다.",
-        "바이오플라스틱의 친환경성 여부가 쟁점이 될 것으로 보인다."
-      ],
-      "whyImportant": "바이오플라스틱 정책 방향 설정에 중요한 영향을 미칠 수 있는 국회 논의이기 때문",
-      "importanceRationale": "근거: 바이오플라스틱의 친환경성 논쟁은 정책 결정에 중요한 영향을 미치며, 국회 논의 결과에 따라 관련 산업 및 환경 정책 방향이 결정될 수 있다.",
-      "impactSignals": [],
-      "dedupeKey": "친환경인가, 또 다른 플라스틱인가'...바이오플라스틱 정책 쟁점 국회서 논의",
-      "clusterKey": "국회서",
-      "matchedTo": null,
-      "sourceName": "이로운넷",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE53WmN0LTh6SHFQcHpuM1FZQUdRMG9PLTd5Z0l1Tkd5X3J4OVVNV1dmQS0wZVNJeWlmenRFT3JSRzhGT295d1JDNW5UaE80ODJPMm1vcUl6TXBMMDlLcDgxN3VBVGxJUQ?oc=5",
-      "publishedAt": "2026-03-16T05:28:45.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 63,
-      "qualityLabel": "ok",
-      "qualityReason": "제목과 기사 내용이 일치하며, 간결하게 요약됨 / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
       "id": "2026-03-16_17",
       "date": "2026-03-16",
       "category": "경제",
-      "title": "금융위·금감원, 자본시장특별사법경찰 집무규칙 개정안 예고…특사경 수사 개시 범위 확대",
+      "title": "정부의 산업용 전기요금 체계 개편에 대한 지역 산업계의 냉랭한 반응",
       "summary": [
-        "금융위원회와 금융감독원이 자본시장특별사법경찰의 집무규칙 개정안을 예고했습니다.",
-        "이번 개정안은 특사경의 수사 개시 범위를 확대하는 내용을 담고 있습니다."
+        "정부가 산업용 전기요금 체계 개편을 추진하고 있습니다.",
+        "이에 대해 지역 산업계는 냉랭한 반응을 보이고 있습니다."
       ],
-      "whyImportant": "자본시장 불공정거래 행위 근절에 기여할 수 있습니다.",
-      "importanceRationale": "근거: 자본시장특별사법경찰의 수사 범위 확대로 불공정거래 행위에 대한 감시 및 처벌이 강화될 것으로 예상됩니다.",
+      "whyImportant": "산업용 전기요금 체계 개편에 대한 지역 산업계의 반발은 정책의 실효성에 영향을 미칠 수 있습니다.",
+      "importanceRationale": "근거: 산업용 전기요금은 기업의 생산 비용에 큰 영향을 미치므로, 요금 체계 변경은 지역 경제에 중요한 영향을 미칠 수 있습니다.",
       "impactSignals": [],
-      "dedupeKey": "finance-20240118",
-      "clusterKey": "개정안",
+      "dedupeKey": "20240118-정부, 산업용 전기요금 체계 개편에 지역산업계 ‘냉랭’",
+      "clusterKey": "개편에",
       "matchedTo": null,
-      "sourceName": "서울STV뉴스",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBQX09LVndrUkhaaEdZYkJ2VEJRSVl1OW9PYlQ4QWFmTzdfU2hTdW4zam80cExocVlBX0tyb3NkMnFrbHpIeHNUUGg4QzU3TF94VzB1OGkweXM4Q2dhZW5kWkc3dTRvaTQ?oc=5",
-      "publishedAt": "2026-03-16T04:49:40.000Z",
+      "sourceName": "남해안신문",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5mVkZNd0xJa1RWSDVTSEZzOVk1ckNFZnJZOS1hZmdRb3M1TGdFSFU1ekd6TXFpdFExaGRzU19hMEwyTEVxRWRuV3JySXM1bFloVlJ2VkpkT2JxX3QwNEVZb29lNjNrR1BG?oc=5",
+      "publishedAt": "2026-03-16T08:25:28.000Z",
       "readTimeSec": 10,
       "status": "kept",
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 핵심 내용을 잘 요약했습니다. / 근거부족",
+      "qualityReason": "기사 제목과 내용이 일치하며, 핵심 내용을 요약했습니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-03-16_18",
       "date": "2026-03-16",
-      "category": "경제",
-      "title": "미국의 수출 통제, 중국의 국내 칩 생산 가속화로 반도체 공급망 재편",
+      "category": "정책",
+      "title": "국회입법조사처, '공공누리 0유형' 도입에 대한 법적 및 정책적 검토 필요성 제기",
       "summary": [
-        "미국의 수출 통제로 인해 반도체 공급망이 재편되고 있습니다.",
-        "중국은 국내 칩 생산을 가속화하고 있습니다."
+        "국회입법조사처는 '공공누리 0유형' 도입에 대해 법적 정합성과 정책적 비례성을 검토해야 한다고 밝혔습니다.",
+        "이는 공공저작물 자유이용 허락표시제도에 대한 심층적인 검토가 필요함을 시사합니다."
       ],
-      "whyImportant": "미국의 수출 통제가 글로벌 반도체 산업에 미치는 영향과 중국의 대응을 보여줍니다.",
-      "importanceRationale": "근거: 미국의 수출 통제는 중국의 반도체 산업 발전에 제약 요인이 될 수 있지만, 동시에 중국의 자립 노력을 가속화시키는 요인이 될 수 있습니다.",
-      "impactSignals": [
-        {
-          "label": "sanctions",
-          "evidence": "US export controls redraw semiconductor supply chains"
-        }
-      ],
-      "dedupeKey": "USexportcontrolschinachip",
-      "clusterKey": "반도체/accelerates",
+      "whyImportant": "공공누리 '0유형' 도입에 대한 정책적 방향 설정에 영향을 미칠 수 있습니다.",
+      "importanceRationale": "근거: 국회입법조사처가 공공누리 '0유형' 도입에 대한 법적, 정책적 검토 필요성을 제기했기 때문입니다.",
+      "impactSignals": [],
+      "dedupeKey": "국회입법조사처, 공공누리 0유형 도입 검토",
+      "clusterKey": "0유형",
       "matchedTo": null,
-      "sourceName": "Astute Group",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQaFRPQmRXY2JCclBPY0ZFV1I0X1VfTlV6a011ZjI5M2F6TkxDYVE5RjhsV01XT256b1E3bTBEM1pQNVdLV01OaWtzWkZVemlWUG93SFZldTNFQ0lrTWNjc1NFZTkzTDNRVVRubzM3Qm96RVRZeE02al9lM2h3QjZnX19xRkJZQlJjZTBiQUtLZ3ZOQXB5ZXg5MjNaamw1a1hKQmxZeUpxMk1xRDQ4Z2hNNGNTTF9uWktURW5yVURGcXVsTUwwdk1mYW1DYmgydWo1YzJz?oc=5",
-      "publishedAt": "2026-03-10T08:20:39.000Z",
+      "sourceName": "everynews.co.kr",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMibEFVX3lxTE55X1dfMGlwN1RIMXFraEN3d0VuZzRRTjdabm9JeU9IblNGU0tJc0NUMUJEdmtJdmtzSnQ1T2JnYzBSNC12aHFtdG03WlR5T2VtUG13enktWnpJdE9TdU9zTmtmZWJaRVdXTTBMLQ?oc=5",
+      "publishedAt": "2026-03-16T08:15:55.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 3.5,
+      "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "The article is concise and directly reflects the title.",
+      "qualityReason": "기사 내용이 명확하고 간결하게 전달됨 / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-03-16_19",
       "date": "2026-03-16",
-      "category": "경제",
-      "title": "당정, 국고채 바이백 준비 및 회사채 6천억 긴급 매입",
+      "category": "정책",
+      "title": "주호영 국회부의장, 대구시장 후보 중진 컷오프설에 정면 반발",
       "summary": [
-        "당정이 국고채 바이백을 준비 중이다.",
-        "회사채 6천억 원을 긴급 매입할 예정이다."
+        "주호영 국회부의장이 대구시장 후보 중진 컷오프설에 대해 정면으로 반발했습니다.",
+        "주 부의장은 해당 설에 대해 강하게 부인하며 자신의 입장을 밝혔습니다."
       ],
-      "whyImportant": "국고채 시장 안정화 및 회사채 시장 유동성 공급에 기여할 수 있다.",
-      "importanceRationale": "근거: 당정의 국고채 바이백 준비 및 회사채 긴급 매입 결정은 시장 안정화에 대한 정부의 의지를 보여주는 직접적인 조치이다.",
+      "whyImportant": "주요 정치인의 반발은 지역 정치 상황에 영향을 미칠 수 있습니다.",
+      "importanceRationale": "근거: 주호영 국회부의장의 반발은 다가오는 대구시장 선거에 대한 정치적 긴장감을 고조시키고, 향후 선거 판도에 영향을 줄 수 있기 때문입니다.",
       "impactSignals": [],
-      "dedupeKey": "당정, 국고채 바이백 준비 및 회사채 6천억 긴급 매입",
-      "clusterKey": "6천억",
+      "dedupeKey": "juhoyoung-daegu-mayor-cutoff-rebuttal",
+      "clusterKey": "국회부의장",
       "matchedTo": null,
-      "sourceName": "연합인포맥스",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9VTksxbjBKOFdiWjJIRmNCbzBXbHN0czF2Qk5JNzYtak41NTJTaV9nV3U1MFRuYTRaVU1BUWJ2MGk1T0Y5YTRzcjNobFFvSDZIakFMZUs5bTFXbF8tQm9VX1lCZE9MZkR2TEk4LUk4eEtvMU1K?oc=5",
-      "publishedAt": "2026-03-16T01:12:22.000Z",
+      "sourceName": "데일리대구경북뉴스",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA4R19WTFRxRmpxV0h0WElZVFRoelhGcmJ2NnBqdUpFbTR3emZReWptWFJNbXYxa0xobm9sY0ZfTFlUM1RlcnVITFRDVDlDdm1fajhIRDBXNGg3clZ2Nk0zZFd0OXVHdw?oc=5",
+      "publishedAt": "2026-03-16T07:57:57.000Z",
       "readTimeSec": 10,
       "status": "kept",
       "importance": 2,
-      "importanceRaw": 75,
+      "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되어 있음. / 근거부족",
+      "qualityReason": "기사 제목과 내용이 일치하며, 간결하게 요약되었습니다. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-03-16_20",
+      "date": "2026-03-16",
+      "category": "기술",
+      "title": "속보 - OpenAI의 AGI 추구는 까다로운 개념 및 계약",
+      "summary": [
+        "로이터 속보에 따르면 OpenAI의 AGI(범용인공지능) 추구는 개념적으로나 계약적으로 까다로운 문제이다."
+      ],
+      "whyImportant": "OpenAI의 AGI 추구에 대한 어려움을 강조합니다.",
+      "importanceRationale": "근거: OpenAI의 AGI 추구가 개념 및 계약상 복잡하다는 로이터 속보에 기반함.",
+      "impactSignals": [],
+      "dedupeKey": "OpenAI_AGI_chase_tricky",
+      "clusterKey": "agi",
+      "matchedTo": null,
+      "sourceName": "Reuters",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNOVJXdi1tRm5Gd1lhQ1k1MVVVWXBxV0Z0TkF2RGExY1BRWjB0bFBWazJpTXJNLXRfaF9tbjl4U1dsR1Q0eWxjM3lVajNHWEEzVy1UUEY5dlVUSUEtR1U4UkpPbkJZLWlyRGR2S3oyakxVZTdUVDNFeW42WXdGZV9FUU8zTVhyS2FVWHp3b052SXNTWUotcGVCcHRhM0xsWndsN0hpaXN0WXk?oc=5",
+      "publishedAt": "2026-03-16T05:01:01.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 50,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었습니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": true
     }
