@@ -3,7 +3,7 @@
   "selectionCriteria": "① 내일도 영향이 남는 이슈 ② 과도한 감정 소모 제외 ③ 어제와 중복되는 뉴스 제외",
   "editorNote": "이 뉴스는 클릭 수가 아니라 오늘 이후에도 남는 정보만 기준으로 편집했습니다.",
   "question": "정보를 덜 보는 것이 오히려 더 똑똑한 소비일까?",
-  "lastUpdatedAt": "2026-03-16T11:07:04.131+09:00",
+  "lastUpdatedAt": "2026-03-16T14:12:27.086+09:00",
   "items": [
     {
       "id": "2026-03-16_1",
@@ -11,15 +11,15 @@
       "category": "기술",
       "title": "35억 크롬 사용자 대상 구글 제로데이 경고 - 공격 진행 중",
       "summary": [
-        "구글이 35억 명의 크롬 사용자에게 제로데이 공격에 대한 경고를 발표했습니다.",
-        "현재 공격이 진행 중입니다."
+        "구글이 35억 명의 크롬 사용자에게 제로데이 공격이 진행 중임을 경고했습니다.",
+        "이는 즉각적인 보안 업데이트가 필요함을 의미합니다."
       ],
       "whyImportant": "크롬 사용자들은 즉시 보안 업데이트를 해야 합니다.",
-      "importanceRationale": "근거: 제로데이 공격은 즉각적인 보안 위협을 의미하며, 35억 명의 사용자가 잠재적 피해 대상입니다.",
+      "importanceRationale": "근거: 제로데이 공격은 이미 진행 중이며, 이는 사용자 데이터와 시스템에 심각한 위협을 가할 수 있습니다.",
       "impactSignals": [
         {
           "label": "security",
-          "evidence": "현재 크롬 사용자 대상 공격 진행 중"
+          "evidence": "공격 진행 중인 제로데이 취약점은 심각한 보안 문제입니다."
         }
       ],
       "dedupeKey": "google-chrome-zero-day-attack-underway",
@@ -33,49 +33,27 @@
       "importance": 4.5,
       "importanceRaw": 88,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 내용이 명확합니다.",
+      "qualityReason": "제목과 본문이 일치하며, 정보가 명확합니다.",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-03-16_2",
       "date": "2026-03-16",
-      "category": "기술",
-      "title": "중동 분쟁, 컨테이너 운송 전망 재조정 및 과잉 공급 우려 완화",
-      "summary": [
-        "중동 분쟁으로 인해 컨테이너 운송 시장의 전망이 재조정되고 있습니다.",
-        "이번 분쟁은 과잉 공급에 대한 우려를 완화시키는 요인으로 작용하고 있습니다."
-      ],
-      "whyImportant": "중동 지역의 불안정이 세계 컨테이너 운송 시장에 미치는 영향이 크기 때문입니다.",
-      "importanceRationale": "근거: 중동 분쟁은 운송 경로 변경 및 비용 증가를 초래하여 시장 역학에 상당한 변화를 가져올 수 있습니다.",
-      "impactSignals": [],
-      "dedupeKey": "MiddleEastConflictContainerShipping",
-      "clusterKey": "conflict",
-      "matchedTo": null,
-      "sourceName": "Global Trade Magazine",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOY1c5V3N2SDk0Z3I2c2FORWJZZEZVbU5zQ1FDWElBUEFmdDd6UHZ4ZEt6N19WMGJtZDROaWE3SkRsUGhuTlhONXVoMGdZeUJhVWFGejNKMGoweEQyeEgyRjl6by1KSTZLRGpqZTZNTVMxTnNsSHBsdTJSTHE3aENDYlV3cGhoZ1dTam43QTVOZWtlNi1JTEZiVTl2bTFTZGd6TFIwVHpZa2JDRDc5ckptd3hUQVc?oc=5",
-      "publishedAt": "2026-03-15T18:22:35.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 63,
-      "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 핵심 내용을 잘 반영하고 있습니다. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-03-16_3",
-      "date": "2026-03-16",
       "category": "정책",
-      "title": "제16대 국회, 대통령 선출 및 인준 예정",
+      "title": "제16대 국회 제1회기, 대통령 선출 및 인준 예정",
       "summary": [
-        "제16대 국회 제1회기에서 대통령을 선출하고 인준할 예정입니다."
+        "베트남 제16대 국회 제1회기에서 대통령을 선출하고 인준할 예정입니다."
       ],
-      "whyImportant": "국가 원수 선출에 대한 정책적 결정.",
-      "importanceRationale": "근거: 대통령 선출 및 인준은 국가의 중요한 정책 결정 사항이며, 정치적 안정과 방향성에 큰 영향을 미칩니다.",
-      "impactSignals": [],
-      "dedupeKey": "president-election-vietnam-16th-assembly",
+      "whyImportant": "베트남의 차기 대통령 선출은 국가 정책 방향에 중요한 영향을 미칩니다.",
+      "importanceRationale": "근거: 대통령 선출은 국가의 최고 지도자를 결정하는 과정이며, 이는 정책 결정 및 국가 운영에 직접적인 영향을 미치기 때문입니다.",
+      "impactSignals": [
+        {
+          "label": "market-demand",
+          "evidence": "새로운 대통령의 정책 방향에 따라 시장 수요가 변동될 수 있습니다."
+        }
+      ],
+      "dedupeKey": "베트남 대통령 선출 및 인준",
       "clusterKey": "vietnam",
       "matchedTo": null,
       "sourceName": "Vietnam.vn",
@@ -83,79 +61,169 @@
       "publishedAt": "2026-03-15T23:34:08.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 2,
+      "importance": 4,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "기사 내용이 간결하고 명확함. / 근거부족",
+      "qualityReason": "기사에 명확한 정보가 포함되어 있습니다.",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-03-16_3",
+      "date": "2026-03-16",
+      "category": "경제",
+      "title": "에버스핀, 영업이익 841% 성장…SaaS 지표 ‘Rule of 40’에서 91 기록",
+      "summary": [
+        "에버스핀이 영업이익 841% 성장을 기록했다.",
+        "SaaS 지표인 ‘Rule of 40’에서 91을 기록했다."
+      ],
+      "whyImportant": "에버스핀의 높은 영업이익 성장률과 SaaS 지표 ‘Rule of 40’에서의 높은 점수는 회사의 성장세를 나타냅니다.",
+      "importanceRationale": "근거: 에버스핀의 영업이익이 841% 성장했으며, SaaS 지표인 Rule of 40에서 91을 기록한 것은 회사의 재무적 성과와 SaaS 사업의 효율성을 입증합니다.",
+      "impactSignals": [],
+      "dedupeKey": "everspin_earnings_2024",
+      "clusterKey": "rule",
+      "matchedTo": null,
+      "sourceName": "플래텀(Platum)",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9ZQm1KZHRTNHBZSHhxWVl3THRxYVBjUVRJeHk1ZkNFRUlzX1JhQWxZWDA5eTBEZG5DallUN3BuYnhNTUNEMzVITg?oc=5",
+      "publishedAt": "2026-03-16T04:40:42.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 63,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 본문이 일치하며, 간결하게 핵심 내용을 전달합니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-03-16_4",
       "date": "2026-03-16",
-      "category": "경제",
-      "title": "KT, 'AI 데이터센터 투자' 확대…AI 매출 한 자릿수, 비용 부담 증가",
+      "category": "기술",
+      "title": "보이지 않는 코드를 사용한 공급망 공격, GitHub 및 기타 저장소 공격",
       "summary": [
-        "KT는 AI 데이터센터 투자를 확대하고 있다.",
-        "AI 매출은 한 자릿수에 머무르고 있다.",
-        "비용 부담이 증가하고 있는 상황이다."
+        "보이지 않는 코드를 사용한 공급망 공격이 GitHub 및 기타 저장소를 강타했습니다.",
+        "이번 공격은 소프트웨어 개발 프로세스 전반에 걸쳐 악성 코드를 삽입하는 것을 목표로 합니다.",
+        "공격의 구체적인 기술적 세부 사항은 아직 조사 중입니다."
       ],
-      "whyImportant": "KT의 AI 데이터센터 투자 확대와 그에 따른 매출 및 비용 변화를 보여준다.",
-      "importanceRationale": "근거: KT의 AI 데이터센터 투자 확대가 AI 매출 부진과 비용 증가로 이어지고 있다는 점은 기업의 투자 전략과 수익성에 대한 중요한 시사점을 제공한다.",
-      "impactSignals": [],
-      "dedupeKey": "KT_AI_datacenter_investment_increase",
-      "clusterKey": "클라우드/뉴스후플러스",
+      "whyImportant": "공급망 공격은 소프트웨어 보안에 심각한 위협이 되며, 개발자와 사용자는 이러한 공격에 대해 경계해야 합니다.",
+      "importanceRationale": "근거: 공급망 공격은 광범위한 시스템에 영향을 미칠 수 있으며, 탐지하기 어려울 수 있습니다. 이번 공격은 GitHub와 같은 주요 플랫폼을 대상으로 했다는 점에서 중요성이 높습니다.",
+      "impactSignals": [
+        {
+          "label": "security",
+          "evidence": "공급망 공격은 소프트웨어 보안에 직접적인 위협을 가합니다."
+        }
+      ],
+      "dedupeKey": "supply_chain_attack_github_2024",
+      "clusterKey": "attack",
       "matchedTo": null,
-      "sourceName": "뉴스후플러스",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBwQkFvLVZoVF9VRmdvRjRhcXdUVHpJMmozZG1qb3RFWHNKWi1pZnpOQVVKVlZPaHBWNEZWTWlfbnFOZFpUSEYwVENCSXctSlZlQUJ4RVhHNnpUeXVSU2VqT3NGWjdFVWVKRWd5bWV3?oc=5",
-      "publishedAt": "2026-03-15T20:00:00.000Z",
+      "sourceName": "Ars Technica",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNM1I1b2dybkRJd0F0S2RoV0FmVzB1WHg1T0NybG50ZHRWLVJVRGd1dlNDWHdkc1M1NWtaSzh6SGQ3TDNpS0lPZkpOblg0ZkM4OVEzNi1YbV9DUzloWGZjWENUc1oydjZ3LW5acGZKT3NBZjFvOVB2ZURLNnctdFRVQkxyblBoM1JuV2dzSlNqZU4zRWFabkRmNWxxV19HUkt3RGxvb25FY3ltSWFsNFNRZ2MyWFRSRm1p?oc=5",
+      "publishedAt": "2026-03-13T20:18:08.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 2,
-      "importanceRaw": 63,
+      "importance": 4.5,
+      "importanceRaw": 88,
       "qualityLabel": "ok",
-      "qualityReason": "The article provides a concise overview of KT's AI investment and its financial implications. / 근거부족",
+      "qualityReason": "기사 제목과 내용이 일치하며, 제공된 정보를 바탕으로 요약 및 중요성을 평가했습니다.",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-03-16_5",
       "date": "2026-03-16",
-      "category": "경제",
-      "title": "SK하이닉스, 메모리 가격 급등에 실적 상향...\"적극 매수\"-대신",
+      "category": "기술",
+      "title": "GlassWorm, 개발자 대상 72개 Open VSX 확장 프로그램 악용한 공급망 공격",
       "summary": [
-        "SK하이닉스가 메모리 가격 급등으로 실적 전망이 상향 조정되었다.",
-        "대신증권은 SK하이닉스에 대해 '적극 매수' 의견을 제시했다."
+        "GlassWorm 공격 그룹이 개발자를 표적으로 72개의 Open VSX 확장 프로그램을 악용했습니다.",
+        "이는 공급망 공격의 일환으로 추정됩니다."
       ],
-      "whyImportant": "메모리 가격 상승이 SK하이닉스의 실적에 긍정적인 영향을 미치고 있다는 분석이다.",
-      "importanceRationale": "근거: 메모리 가격 급등으로 인한 SK하이닉스의 실적 상향 전망 및 대신증권의 '적극 매수' 의견 제시.",
-      "impactSignals": [],
-      "dedupeKey": "SK하이닉스, 메모리 가격 급등, 실적 상향",
-      "clusterKey": "sk하이닉스",
+      "whyImportant": "개발자 생태계 보안에 대한 위협을 보여주는 사례입니다.",
+      "importanceRationale": "근거: 개발자들이 사용하는 확장 프로그램을 통해 공급망 공격이 발생했다는 점에서 개발 환경의 보안 취약성을 드러냅니다.",
+      "impactSignals": [
+        {
+          "label": "security",
+          "evidence": "Open VSX 확장 프로그램을 악용한 공급망 공격"
+        }
+      ],
+      "dedupeKey": "GlassWorm_OpenVSX_SupplyChain_Attack",
+      "clusterKey": "abuses",
       "matchedTo": null,
-      "sourceName": "마켓인",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5jakt6RWxhLVZhbzEzVXd6SndZWHFyRjZIZ0Zid094T0FVUVdERmdUbnhPWVZ1YTB1VEtqcjRKdjc1a0doXzlUTEl5TktFNkNiT1llTjVSWE8wOHhfNFk1S0hteEtYX1hzRU1faC1MUzlTY3M?oc=5",
-      "publishedAt": "2026-03-15T22:35:11.000Z",
+      "sourceName": "The Hacker News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWjFyR3ZoQnZZaUJQN29la2lqZmsyTlVCWnQzbzhEQjJGRktkNkkwOEFvV00tQ0NXVl9oQVlUd2RsYnZfUHRCVW9oSjg3dzNwZi1OeE5DdHdyMXdoOEVEN01xMS1peGVnWUlWS3ppYzVRVGZuel9Ha2Zhcm1MSjNrOTFpX2Y?oc=5",
+      "publishedAt": "2026-03-14T12:55:00.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 2,
+      "importance": 4,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "Title and text are consistent and provide a clear, concise message. / 근거부족",
+      "qualityReason": "제목과 본문이 내용과 일치하며, 정보가 명확합니다.",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-03-16_6",
       "date": "2026-03-16",
+      "category": "정책",
+      "title": "당정, 3개월간 비축유 단계적 방출 및 3월말 추가경정예산안 국회 제출",
+      "summary": [
+        "당정이 3개월간 비축유를 단계적으로 방출하기로 결정했습니다.",
+        "또한 3월 말에 추가경정예산안을 국회에 제출할 예정입니다."
+      ],
+      "whyImportant": "정부의 정책 결정에 따른 시장 영향.",
+      "importanceRationale": "근거: 정부와 여당이 비축유 방출 및 추경안 제출을 결정함에 따라 에너지 시장 및 경제 전반에 영향을 미칠 수 있습니다.",
+      "impactSignals": [],
+      "dedupeKey": "20240229-비축유방출추경안",
+      "clusterKey": "3개월간",
+      "matchedTo": null,
+      "sourceName": "한국경제",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9fRF95dUxZQjAtT1ZDLVBLQ2JDSjVzTFFPYkRpdXhwTkM0M2xCUnlTdFAwTVpDUjZVc0FhM2tIQjJjZ183ek9TekU2U3hXcDgtckxRd05Ra3ozQdIBVEFVX3lxTFBlZ04tV2RSeXFDRVJ6bjZ5RkdJbllsbGhySkp6R1pyaW40a1RuTHliSGhTVjdpbkVZeEV4ek9GMm5UOC1SMUR5YzduOGlNS1EzLS1hTA?oc=5",
+      "publishedAt": "2026-03-16T03:20:04.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 63,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었습니다. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-03-16_7",
+      "date": "2026-03-16",
+      "category": "국제",
+      "title": "중소기업 보안 사각지대 축소…취약점 9만 건 무상 점검",
+      "summary": [
+        "중소기업의 보안 취약점을 줄이기 위해 9만 건의 무상 점검을 실시합니다."
+      ],
+      "whyImportant": "중소기업의 보안 강화에 기여할 수 있습니다.",
+      "importanceRationale": "근거: 중소기업의 보안 취약점을 무상으로 점검하여 보안 사각지대를 줄이는 데 직접적인 영향을 미치기 때문입니다.",
+      "impactSignals": [],
+      "dedupeKey": "중소기업 보안 사각지대 줄인다…취약점 9만건 무상 점검",
+      "clusterKey": "9만건",
+      "matchedTo": null,
+      "sourceName": "연합뉴스 한민족센터",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1iTkxBVmQ1UFJ2R3plT1FmZ2FnX2JVVGQ2STc0dDJtWXQ5ZUZSUFVlZU1UdWwwVWgtamdYMVpicEF3bW1SWkJwT2NKaXdCc3h5MmVrQ25mOVVCS0ZPNjJjcGZob1JxdEVEdEVTdDE4X2szREl5?oc=5",
+      "publishedAt": "2026-03-16T03:00:09.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 63,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었습니다. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-03-16_8",
+      "date": "2026-03-16",
       "category": "경제",
       "title": "한화에어로, 미국 LNG 장기 계약 체결… \"에너지 안보 강화\"",
       "summary": [
-        "한화에어로스페이스가 미국 LNG와 장기 계약을 체결했다.",
+        "한화에어로가 미국 LNG와 장기 계약을 체결했다.",
         "이번 계약은 에너지 안보를 강화하기 위한 것이다."
       ],
-      "whyImportant": "한화에어로스페이스의 미국 LNG 장기 계약은 에너지 안보 강화에 기여한다.",
-      "importanceRationale": "근거: 한화에어로스페이스가 미국 LNG와 장기 계약을 체결함으로써 에너지 공급망을 안정화하고 에너지 안보를 강화할 수 있다.",
+      "whyImportant": "한화에어로가 미국의 LNG와 장기 계약을 체결하여 에너지 안보를 강화합니다.",
+      "importanceRationale": "근거: 한화에어로가 미국 LNG와 장기 계약을 체결했다는 직접적인 사실에 기반함.",
       "impactSignals": [],
       "dedupeKey": "hanwha-aero-lng-contract",
       "clusterKey": "에너지/lng",
@@ -168,38 +236,39 @@
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 내용이 일치하며, 간결하게 요약되어 있음. / 근거부족",
+      "qualityReason": "기사에 명확한 정보가 포함되어 있음. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-03-16_7",
+      "id": "2026-03-16_9",
       "date": "2026-03-16",
-      "category": "정책",
-      "title": "송언석: 호르무즈 해협 군함 파견은 파병 문제…국회 동의 필수",
+      "category": "국제",
+      "title": "트럼프 의도와 달리… 이란과 '비밀 협상' 진행",
       "summary": [
-        "송언석 의원은 호르무즈 해협 군함 파견은 파병 문제이므로 국회 동의가 필수적이라고 주장했습니다."
+        "이란이 트럼프 행정부의 의도와는 다른 방향으로 '비밀 협상'을 진행하고 있다는 보도가 나왔다.",
+        "협상의 구체적인 내용은 아직 알려지지 않았다."
       ],
-      "whyImportant": "호르무즈 해협 군함 파견에 대한 국회 동의 필요성 제기",
-      "importanceRationale": "근거: 송언석 의원이 호르무즈 해협 군함 파견 문제를 파병으로 간주하고 국회 동의가 필수적이라고 밝혔기 때문입니다.",
+      "whyImportant": "이란의 비밀 협상은 국제 관계에 영향을 미칠 수 있습니다.",
+      "importanceRationale": "근거: 이란의 외교적 움직임은 중동 지역의 안정과 국제 정치에 중요한 변수가 될 수 있기 때문입니다.",
       "impactSignals": [],
-      "dedupeKey": "송언석_호르무즈_군함파견_국회동의",
-      "clusterKey": "국회",
+      "dedupeKey": "trump-iran-secret-negotiation",
+      "clusterKey": "비밀협상",
       "matchedTo": null,
-      "sourceName": "연합뉴스 한민족센터",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5TVHZPa1JMdnZDYVBpVGg3NDJLd0NMcGItNi1IdkYtcU00TUlkdWpVOXM0S2dJYUVqV3paVDctT2ltdFE2c01vbE91akl5eEVYRVBnOVNfS0staDU4bjI5SE9PNGxETklQT0Z1UlJ4ZGtvanBa?oc=5",
-      "publishedAt": "2026-03-16T00:35:32.000Z",
+      "sourceName": "한국경제",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1QeDU0SmxoNkdKSUJ2MUExM3JHWnRNaEhYNzhOYllIc1N0Ry0wcG9FMy1EZ3dleFpwN2pRYUxMYkZSRTJzalAyRmFUcUl2dmVSNmhfbmZ3bDBhUdIBVEFVX3lxTFBzZUR6aWh3QnhpaVlNZk5HSlJhNkVlOGdJX3BBekdRM08zTER3dTB0MjN3X1Y4ck1QR21XTFI5d24yX3lTV0FmdlNwMGpPVkpDaGYybw?oc=5",
+      "publishedAt": "2026-03-16T00:00:37.000Z",
       "readTimeSec": 10,
       "status": "kept",
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "기사 내용이 명확하고 간결하게 요약되어 있습니다. / 근거부족",
+      "qualityReason": "기사의 내용이 명확하고 간결하게 전달됨 / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-03-16_8",
+      "id": "2026-03-16_10",
       "date": "2026-03-16",
       "category": "에너지",
       "title": "데이터 센터 전력 수요의 예상보다 빠른 증가로 화석 연료 발전 증가 가능성",
@@ -209,7 +278,7 @@
       "whyImportant": "데이터 센터 전력 수요 증가가 화석 연료 발전에 미치는 영향.",
       "importanceRationale": "근거: 데이터 센터 전력 수요 증가가 화석 연료 발전 증가로 이어질 수 있다는 점을 지적합니다.",
       "impactSignals": [],
-      "dedupeKey": "fossil-generation-data-center-demand",
+      "dedupeKey": "fossil-fuel-data-center-demand",
       "clusterKey": "에너지/could",
       "matchedTo": null,
       "sourceName": "U.S. Energy Information Administration (EIA) (.gov)",
@@ -220,54 +289,114 @@
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "정부 기관의 보고서에 기반함. / 근거부족",
+      "qualityReason": "정확하고 간결한 정보 제공 / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-03-16_9",
+      "id": "2026-03-16_11",
       "date": "2026-03-16",
       "category": "국제",
-      "title": "이란 외무상, \"미국과 협상할 이유 없어...제3국에는 안전 통행 제공\"",
+      "title": "FortiGate 장치, 네트워크 침해 및 서비스 계정 자격 증명 탈취에 악용",
       "summary": [
-        "이란 외무상은 미국과 협상할 이유가 없다고 밝혔습니다.",
-        "제3국에는 안전한 통행을 제공할 것이라고 덧붙였습니다."
+        "FortiGate 장치가 네트워크 침해 및 서비스 계정 자격 증명 탈취에 악용되었습니다.",
+        "해커 뉴스가 해당 내용을 보도했습니다."
       ],
-      "whyImportant": "이란의 외교적 입장을 보여주는 발언입니다.",
-      "importanceRationale": "근거: 이란 외무상의 직접적인 발언이며, 미국의 제재와 관련된 이란의 입장을 시사합니다.",
-      "impactSignals": [],
-      "dedupeKey": "iran-no-reason-to-negotiate-with-us",
-      "clusterKey": "안전한",
+      "whyImportant": "FortiGate 장치 보안 취약점 악용 사례는 기업 및 기관의 네트워크 보안에 심각한 위협이 될 수 있습니다.",
+      "importanceRationale": "근거: FortiGate 장치는 널리 사용되는 네트워크 보안 장비이므로, 해당 장치의 취약점 악용은 광범위한 피해를 초래할 수 있습니다.",
+      "impactSignals": [
+        {
+          "label": "security",
+          "evidence": "FortiGate 장치 악용을 통한 네트워크 침해 및 자격 증명 탈취 발생"
+        }
+      ],
+      "dedupeKey": "FortiGate_breach_credentials_steal",
+      "clusterKey": "account",
       "matchedTo": null,
-      "sourceName": "연합뉴스 한민족센터",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9hRjJSTlFVcjI4T2trVWo0cjlTeWplOHA5eHU4VnhPbE1VMEtsUHpRV2FUZ2VZR2dFbkRST3RIOXFGYWRiX1pJNHFWSWEzcnBzY0ZTUEZ3QTh3bEJ2OVlhdXlxMGxldER1SGNJX2Z1ekFsRFlF?oc=5",
-      "publishedAt": "2026-03-16T00:56:06.000Z",
+      "sourceName": "The Hacker News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNelN2dDhWTGhndlpUeDVneThkNzU5S2xXd01KVzQ3S2dEeXhyVkFzd2w2QXhxdG8wTnRBWjdIWWxzNXVPSFRKTklCSVlUOWhoMXlzLVNCWEItSklicWh3LUtpR29FR1lRRHFhNHdhbm5QLUhaRHptdUVGQ2NaV1phdDh3?oc=5",
+      "publishedAt": "2026-03-10T16:21:00.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 4,
+      "importanceRaw": 75,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 본문이 내용상 일치하며, 정보가 간결하게 제공됨.",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-03-16_12",
+      "date": "2026-03-16",
+      "category": "정책",
+      "title": "과기정통부, 추가경정예산으로 2242개 기업 보안 점검 실시…취약점 9만 건 조치",
+      "summary": [
+        "과학기술정보통신부는 추가경정예산을 통해 2242개 기업의 보안을 점검했다.",
+        "점검 결과, 9만 건의 취약점을 발견하여 조치를 완료했다."
+      ],
+      "whyImportant": "이번 보안 점검은 국내 기업들의 사이버 보안 강화에 기여할 수 있습니다.",
+      "importanceRationale": "근거: 과기정통부가 추경 예산을 투입하여 대규모 보안 점검을 실시하고, 상당수의 취약점을 해결함으로써 기업들의 보안 수준을 향상시켰기 때문입니다.",
+      "impactSignals": [],
+      "dedupeKey": "20240614-과기정통부, 추경 예산으로 2242개사 보안 점검... 취약점 9만건 조치",
+      "clusterKey": "2242개사",
+      "matchedTo": null,
+      "sourceName": "보안뉴스",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9HdC10MEpWenkzNDVHS1QtQ0x6ZUJMUzNCOXQ0MmZzUU5SOGZsUEp6enl6MEc1cDNvVUpMRTZILUdIX2MxT3Z3aGwyUTM1UTJoN3paQmZvYlVKSUs0b3c?oc=5",
+      "publishedAt": "2026-03-16T03:00:00.000Z",
       "readTimeSec": 10,
       "status": "kept",
       "importance": 2,
-      "importanceRaw": 50,
+      "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "기사의 내용이 간결하고 명확하며, 출처가 분명합니다. / 근거부족",
+      "qualityReason": "기사 내용이 명확하고 구체적인 수치를 포함하고 있습니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-03-16_10",
+      "id": "2026-03-16_13",
+      "date": "2026-03-16",
+      "category": "국제",
+      "title": "정부, 원전 이용률 80% 상향 추진…중동 사태 대비 정비 6기 조기 복귀",
+      "summary": [
+        "정부가 원자력 발전소 이용률을 80%까지 상향 추진한다.",
+        "이는 중동 사태에 대비하기 위한 조치이다.",
+        "정비 중인 6기의 원전을 조기 복귀시킬 예정이다."
+      ],
+      "whyImportant": "원전 이용률 상향 정책은 에너지 안보 및 전력 공급 안정성에 중요한 영향을 미친다.",
+      "importanceRationale": "근거: 정부가 중동 사태에 대비하여 원전 이용률을 높이고 정비 중인 원전을 조기 복귀시키기로 결정했기 때문이다.",
+      "impactSignals": [],
+      "dedupeKey": "gov-nuclear-power-utilization-80-percent",
+      "clusterKey": "에너지/대비",
+      "matchedTo": null,
+      "sourceName": "중소기업신문",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBLcHRUZFZFdVhwMHVDY20tOS1aalhCYU9BZWFJcnFCV3pFRTdVcXhHSFRqTEJzNHowZzh4S3dJOElQdzAycXRlLXFpdjdaQl84Rk1oTlJqcnhjRXpvYXZHSnZVc1A5bkVEeUtmcg?oc=5",
+      "publishedAt": "2026-03-16T02:47:22.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 75,
+      "qualityLabel": "ok",
+      "qualityReason": "기사 내용이 명확하고 간결하게 요약되어 있음. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-03-16_14",
       "date": "2026-03-16",
       "category": "정책",
       "title": "AI 경쟁력은 데이터에 있는데…규제는 여러 부처, 기업은 ‘장벽’",
       "summary": [
-        "AI 경쟁력의 핵심은 데이터 확보에 있지만, 관련 규제가 여러 부처에 걸쳐 있어 기업들이 어려움을 겪고 있다는 내용입니다."
+        "AI 경쟁력의 핵심은 데이터 확보에 있지만, 여러 부처의 규제로 인해 기업들이 어려움을 겪고 있다는 내용입니다."
       ],
       "whyImportant": "AI 기술 경쟁력 확보를 위한 데이터 활용의 중요성과 규제 개선 필요성을 강조합니다.",
-      "importanceRationale": "근거: AI 경쟁력의 핵심 요소인 데이터 활용에 대한 규제가 기업 활동의 장벽이 되고 있다는 점을 지적하고 있습니다.",
+      "importanceRationale": "근거: AI 경쟁력의 핵심 요소인 데이터 활용에 대한 규제가 기업의 성장을 저해하고 있다는 점을 지적하고 있습니다.",
       "impactSignals": [
         {
           "label": "policy",
-          "evidence": "AI 경쟁력 강화를 위한 데이터 활용 관련 규제가 여러 부처에 걸쳐 있어 기업의 어려움을 야기함."
+          "evidence": "여러 부처의 규제가 AI 데이터 활용에 장벽으로 작용"
         }
       ],
-      "dedupeKey": "AI 경쟁력 데이터 규제 장벽",
+      "dedupeKey": "AI 경쟁력 데이터 규제",
       "clusterKey": "경쟁력은",
       "matchedTo": null,
       "sourceName": "매일일보",
@@ -283,43 +412,16 @@
       "isBreaking": false
     },
     {
-      "id": "2026-03-16_11",
-      "date": "2026-03-16",
-      "category": "정책",
-      "title": "당정, 원전 이용률 60% 후반에서 80%로 상향 목표",
-      "summary": [
-        "정부와 여당은 원자력 발전소 이용률을 60% 후반에서 80%로 상향 조정하기로 결정했다.",
-        "추가경정예산안은 3월 말 국회에 제출될 예정이다."
-      ],
-      "whyImportant": "원전 정책 방향 전환 및 예산 계획을 보여주는 지표입니다.",
-      "importanceRationale": "근거: 원전 이용률 목표 상향은 에너지 정책의 중요한 변화를 의미하며, 추경안 제출은 정부의 재정 계획을 나타냅니다.",
-      "impactSignals": [],
-      "dedupeKey": "20240229-원전이용률상향",
-      "clusterKey": "에너지/3월",
-      "matchedTo": null,
-      "sourceName": "한국일보",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1RYXZRV3UwRkFkTWpsa3FneWRGVDVQRGNkSEhkUm5WaUxlRFp1d1pCMG5qZVRuV21TM3hmaEJ0OEdNZGxUd1ZSWS1HcVdEbG00QWIyU0NaT3BsVDQ1Wkg4X0ozM2ZRaVhGVHdxeFBsS3MyUlHSAXNBVV95cUxNUWF2UVd1MEZBZE1qbGtxZ3lkRlQ1UERjZEhIZFJuVmlMZURadXdaQjBuamVUbldtUzN4ZmhCdDhHTWRsVHdWUlktR3FXRGxtNEFiMlNDWk9wbFQ0NVpIOF9KMzNmUWlYRlR3cXhQbEtzMlJR?oc=5",
-      "publishedAt": "2026-03-16T00:43:00.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 75,
-      "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었습니다. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-03-16_12",
+      "id": "2026-03-16_15",
       "date": "2026-03-16",
       "category": "국제",
-      "title": "미국-중국, 파리에서 무역 협상 진행... 트럼프-시진핑 정상회담 준비 시작",
+      "title": "미국-중국, 파리에서 무역 협상 진행... 트럼프-시진핑 정상회담 준비 착수",
       "summary": [
         "미국과 중국이 파리에서 무역 협상을 진행했다.",
         "이번 협상은 트럼프-시진핑 정상회담을 준비하기 위한 것이다."
       ],
       "whyImportant": "미국과 중국의 무역 협상 및 정상회담 준비는 세계 경제에 중요한 영향을 미칠 수 있다.",
-      "importanceRationale": "근거: 미중 무역 관계는 글로벌 경제의 안정성과 성장에 중요한 요소이며, 양국 정상의 회담 결과에 따라 국제 무역 질서가 크게 변화할 수 있기 때문이다.",
+      "importanceRationale": "근거: 미중 무역 관계는 글로벌 경제의 안정성과 성장에 중요한 요소이며, 양국 정상의 만남은 무역 분쟁 해결의 실마리를 제공할 수 있기 때문이다.",
       "impactSignals": [],
       "dedupeKey": "미중무역협상_파리_2024",
       "clusterKey": "마켓인",
@@ -337,125 +439,28 @@
       "isBreaking": false
     },
     {
-      "id": "2026-03-16_13",
+      "id": "2026-03-16_16",
       "date": "2026-03-16",
-      "category": "국제",
-      "title": "타이어 공기압 모니터링 시스템(TPMS)의 보안 취약점으로 원격 차량 추적 가능",
+      "category": "경제",
+      "title": "중소벤처기업부, 소상공인 정책의 초점을 '혁신 성장 및 재도약'에 맞추고 '매출 확대' 목표",
       "summary": [
-        "타이어 공기압 모니터링 시스템(TPMS)의 보안 취약점을 이용하여 원격으로 차량 추적이 가능하다는 보고가 나왔습니다.",
-        "이러한 취약점은 차량 보안에 심각한 위협이 될 수 있습니다."
+        "중소벤처기업부가 소상공인 정책의 방향을 '혁신 성장'과 '재도약'에 두고, 매출 확대를 목표로 한다고 발표했습니다."
       ],
-      "whyImportant": "차량 보안 시스템의 취약점은 개인 정보 유출 및 차량 탈취로 이어질 수 있어 중요합니다.",
-      "importanceRationale": "근거: TPMS 보안 취약점을 이용한 원격 차량 추적 가능성은 차량 소유주의 사생활 침해 및 재산 피해를 야기할 수 있는 심각한 문제입니다.",
+      "whyImportant": "소상공인 지원 정책 방향을 제시합니다.",
+      "importanceRationale": "근거: 중소벤처기업부의 정책 방향이 소상공인들의 혁신 성장과 재도약에 초점을 맞추고 있으며, 이는 매출 확대로 이어질 수 있다는 점을 강조합니다.",
       "impactSignals": [],
-      "dedupeKey": "TPMS_security_vulnerability_remote_tracking",
-      "clusterKey": "tpms",
+      "dedupeKey": "중기부, 소상공인 정책 '혁신성장·재도약'에 방점…'매출 확대'",
+      "clusterKey": "매출",
       "matchedTo": null,
-      "sourceName": "Vietnam.vn",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRXZsTFRibDFZb1UxTGIzUmRjTWJqano0aFZrWWNpeVl5OW9rTDZsd3E3dkFhUWJocFpLcnVJVjlYZXNFVm81NXdWcnQtcVpFeUNHem9XYjdIYkJhdVFBMEZpWnFXaklNcF9hWUlpbEdHVjRjT19XdUJITHU1OERYMlZNSVJFRk9TWkVXN0hDZDdRVE52aU94LVVZX1IwUEdJRmlYNjdrTFg?oc=5",
-      "publishedAt": "2026-03-15T02:22:56.000Z",
+      "sourceName": "연합뉴스 한민족센터",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMidEFVX3lxTE82MXVOYUNGd2I1S1F4bjQ5X3FtX0NTQUZmUGgtcU5tenpzN2ZNbUFCRXU0d0RYbXZoTHVDRkllZU9TQU8zbTlScjRaejZ3TGEydVdncTVLdERpeFFwcmtXNVQtdDdvRi1kU2pVNmdzQkNDU1VL?oc=5",
+      "publishedAt": "2026-03-16T04:30:01.000Z",
       "readTimeSec": 10,
       "status": "kept",
       "importance": 2,
-      "importanceRaw": 75,
-      "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 내용이 일치하며, 간결하게 요약되었습니다. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-03-16_14",
-      "date": "2026-03-16",
-      "category": "국제",
-      "title": "CVE-2026-3910: 크롬 V8 제로데이 취약점, 실제 공격에 활용",
-      "summary": [
-        "크롬 V8 엔진에서 제로데이 취약점(CVE-2026-3910)이 발견되었습니다.",
-        "이 취약점은 실제 공격에 사용되고 있습니다.",
-        "SOC Prime에서 해당 내용을 발표했습니다."
-      ],
-      "whyImportant": "크롬 사용자는 보안 업데이트를 통해 취약점을 해결해야 합니다.",
-      "importanceRationale": "근거: 크롬 V8 엔진의 제로데이 취약점이 실제 공격에 사용되고 있다는 것은 사용자 데이터 및 시스템 보안에 심각한 위협을 초래할 수 있기 때문입니다.",
-      "impactSignals": [
-        {
-          "label": "security",
-          "evidence": "크롬 V8 제로데이 취약점이 실제 공격에 사용됨"
-        }
-      ],
-      "dedupeKey": "CVE-2026-3910_chrome_v8_zero_day_in_the_wild",
-      "clusterKey": "cve",
-      "matchedTo": null,
-      "sourceName": "SOC Prime",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1CdzdiRzVkQXAybDJSRUczR21vNVQ2Z19EcUdGYkN5SGU3R1gybmo0TGVZcmRubDVjdUtvTFV0Nmx6OFNkVDROYXV2UXJPUTVMS2xvcmhrSU5MZ19OSWVMcEx3OUlNUmNiRGtuc3A5dnBNT2pSWlhPUXBMZw?oc=5",
-      "publishedAt": "2026-03-12T07:00:00.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 4.5,
-      "importanceRaw": 88,
-      "qualityLabel": "ok",
-      "qualityReason": "기사에 제로데이 취약점 정보가 명확하게 제시되어 있습니다.",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-03-16_15",
-      "date": "2026-03-16",
-      "category": "기술",
-      "title": "AI 서버 ASIC용 HBM 수요, 2028년까지 35배 급증 전망...삼성·SK하이닉스 수혜",
-      "summary": [
-        "AI 서버 ASIC에 사용되는 HBM(고대역폭 메모리) 수요가 2028년까지 35배 급증할 것으로 예상됩니다.",
-        "이는 삼성전자와 SK하이닉스에게 큰 수혜로 이어질 전망입니다."
-      ],
-      "whyImportant": "AI 서버 시장의 성장과 함께 HBM 수요가 폭발적으로 증가하면서, 관련 기술을 보유한 기업들의 중요성이 더욱 부각될 것입니다.",
-      "importanceRationale": "근거: AI 서버 ASIC용 HBM 수요가 2028년까지 35배 급증할 것이라는 전망은 시장의 성장 가능성을 시사하며, 삼성전자와 SK하이닉스에게 직접적인 수혜를 가져다줄 수 있기 때문입니다.",
-      "impactSignals": [
-        {
-          "label": "market-demand",
-          "evidence": "AI 서버 ASIC용 HBM 수요가 2028년까지 35배 급증"
-        }
-      ],
-      "dedupeKey": "AI_SERVER_HBM_DEMAND_2028",
-      "clusterKey": "반도체/2028년까지",
-      "matchedTo": null,
-      "sourceName": "PRESS9",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9BN2c1dm91NWR5dDJPcEQ1VkxhNVh5c3pOSUxIaktvY3ZBYVFXNHlubi00Y3hfWlg5U0lEckFhaHduRm9QSnBDbEhKOHMyOUtQdHhmdEdfRFp5Nlg4em5ESGNPT1Y?oc=5",
-      "publishedAt": "2026-03-16T01:30:18.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 4.5,
-      "importanceRaw": 88,
-      "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 핵심 내용을 잘 요약했습니다.",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-03-16_16",
-      "date": "2026-03-16",
-      "category": "국제",
-      "title": "구글, 노스캐롤라이나 데이터센터에 10억 달러 추가 투자",
-      "summary": [
-        "구글이 노스캐롤라이나 데이터센터에 10억 달러를 추가 투자한다."
-      ],
-      "whyImportant": "구글의 데이터센터 투자는 지역 경제 활성화에 기여할 수 있다.",
-      "importanceRationale": "근거: 구글이 노스캐롤라이나 데이터센터에 대규모 투자를 결정했다는 사실은 해당 지역의 경제적 중요성을 부각하며, 관련 산업에 긍정적인 영향을 미칠 수 있다.",
-      "impactSignals": [
-        {
-          "label": "capex",
-          "evidence": "구글이 노스캐롤라이나 데이터센터에 10억 달러를 추가 투자한다."
-        }
-      ],
-      "dedupeKey": "google-north-carolina-datacenter-1b-investment",
-      "clusterKey": "10억",
-      "matchedTo": null,
-      "sourceName": "연합인포맥스",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5rNUlrdUZFU193Zkc2U015UGJfcEdUWGVHSnlsOGdEeFZHYVJYRHMtRTdIdHhTZWxJaHh0aW9Ec1puYlBJTVN2TmtGN3N6Z2dlaUQybl8yQUJjdm5KSnNqeUxkLWJndzE0eWZZRUxzTUfSAXRBVV95cUxNMHAwRThOQjhfMmlzOXNNOG5hU2FNVGZqdmtLOU5iMEZDWjVnYVVYanFydUVwYWRkUXo5dTBpb0k2OEl0Wk9ZZnBfOExsV0hIR2IzTGtRVGwydUtIN3pqb1Q0c2hJNEdLdnRwLVBYZEw0M3pDTw?oc=5",
-      "publishedAt": "2026-03-16T01:42:36.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 3.5,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되어 있음.",
+      "qualityReason": "제목과 내용이 일치하며 간결하게 요약했습니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -463,30 +468,58 @@
       "id": "2026-03-16_17",
       "date": "2026-03-16",
       "category": "경제",
-      "title": "외국인 자금 유출 속 원/달러 안정성 비밀",
+      "title": "대미 투자 본격화 단계 진입…1호 프로젝트는 에너지·원전 분야 유력",
       "summary": [
-        "외국인 자금 유출에도 불구하고 원/달러 환율이 안정세를 유지하고 있다는 내용입니다."
+        "한국무역협회에 따르면 대미 투자가 본격화 단계에 접어들었다.",
+        "1호 프로젝트로는 에너지 및 원전 분야가 유력하게 검토되고 있다."
       ],
-      "whyImportant": "외국인 자금 유출에도 원/달러 환율이 안정적인 이유를 분석합니다.",
-      "importanceRationale": "근거: 외국인 자금 유출과 원/달러 환율 안정성의 관계는 경제 안정 및 시장 상황을 파악하는 데 중요한 지표가 됩니다.",
+      "whyImportant": "미국 투자 활성화 및 에너지·원전 분야 협력 강화 가능성",
+      "importanceRationale": "근거: 한국무역협회의 발표를 통해 대미 투자 본격화 단계 진입과 에너지·원전 분야가 1호 프로젝트로 유력하게 거론됨.",
       "impactSignals": [],
-      "dedupeKey": "외국인 자금 유출 속 원/달러 안정성 비밀",
-      "clusterKey": "knpp",
+      "dedupeKey": "daemi-tuja-bongeukhwa-danche-jinip-1ho-project-energy-wonjeon-yuryeok",
+      "clusterKey": "에너지/1호",
       "matchedTo": null,
-      "sourceName": "knpp.co.kr",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1aU3lDQXZ1cUtBNnhIZlJweG95QnYxWDd5a3FPWjFhYnpIOTZ6bzdvVjB6aTdsQTZfZXNtQXRkamNWbTQ?oc=5",
-      "publishedAt": "2026-03-15T22:05:05.000Z",
+      "sourceName": "한국무역협회-KITA.NET",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQTHhFODA1T3NpVm03WFV0TjNRZmdxbThyUVFxRGV4N01FZHRPbUZ0NnZpRVBEcUQwOTEwWEZnU19Nay1iSW1DTlFMUWRqOEZIbEw0T2RoUnpjSEJWNXFkSzVpZVNxUXBHV0tOdTA3WTdhSWdhcmczRC1iaG1iUFpOemJ2VlNVZ0haNEQybFZCZlZpX1ZrRFoxbklSTThJVWhZN2xvWnpad3NRdUJyY2s2M3FHMlJwTEZnU2pfdGNFQ2xzblBYci1zT2RabmlDM09KbVBjeg?oc=5",
+      "publishedAt": "2026-03-16T00:37:11.000Z",
       "readTimeSec": 10,
       "status": "kept",
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었습니다. / 근거부족",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되어 있음. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-03-16_18",
+      "date": "2026-03-16",
+      "category": "경제",
+      "title": "SEI Investments (SEIC)의 해자 주도 모멘텀 속 수익 및 매출 가속화에 대한 투자자 반응",
+      "summary": [
+        "SEI Investments의 수익과 매출이 증가하고 있습니다.",
+        "이는 해자 주도 모멘텀에 따른 결과입니다."
+      ],
+      "whyImportant": "투자자들이 SEI Investments의 실적 가속화에 어떻게 반응할지 보여줍니다.",
+      "importanceRationale": "근거: SEI Investments의 수익 및 매출 증가가 투자자들에게 미치는 잠재적 영향을 분석합니다.",
+      "impactSignals": [],
+      "dedupeKey": "SEI_Investments_earnings_momentum",
+      "clusterKey": "accelerating",
+      "matchedTo": null,
+      "sourceName": "simplywall.st",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNVkI3VFZWejdqUU5kWTROSkdleHhuSkp3OE5RUXdNYmNiUU8tMTBvdHUxd0FmWkI4Q243WmxVaU5EbW5uNzZ6MU55Y0ExbTlUaGwzQUxYWldZTGt4aEJOMTF2SjY3QmF4Tm56bjA5UHExNVg3TGxJNVZ3WXdBeXVaQkNVenBxcTgyZ2dWZVVtc0R1cHEtemZKYlpEREk0dy1CWEpIZnlNNDNWQ1hobDFUZGlIc0NqWTlEdnRhNFFyQndDb1FfdkpTc0FJNDZPaDdsclM3VS0xYlpYeGNiQ3F6cDVR0gHnAUFVX3lxTE43UDNkVWhZUHpiTnROTlBqM0FmQUJoVU95emozODVtS2hvZzk0ZjkxQ0JCd09QUzQ1SkJucWhKYVBZR3dDc2RzdkVWRXMtdERkZG9CU2I5MmwzMWwzOThJcFgzemFsNjE3QURyQ1Z4S21xSWlsT3lPSG5ETnRkTnA2N3JWbVVPcW5kNHY5ZzZEZ1ZvcGpFZHNFUFRXVHBmMWFEdVNoRHdadlg2YmctZ18yT0ZsUVZ3bEdwbUxMbXU2Uzk4R2J6dDNJQjczQzdIOXRic1FrOVpYTTgydlJVbXFBdzBCRkJ3SQ?oc=5",
+      "publishedAt": "2026-03-16T04:51:14.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 63,
+      "qualityLabel": "ok",
+      "qualityReason": "The article provides a clear and concise overview of SEI Investments' financial performance. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-03-16_19",
       "date": "2026-03-16",
       "category": "경제",
       "title": "당정, 국고채 바이백 준비 및 회사채 6천억 긴급 매입",
@@ -495,25 +528,20 @@
         "회사채 6천억 원을 긴급 매입할 예정이다."
       ],
       "whyImportant": "국고채 시장 안정화 및 회사채 시장 유동성 공급에 기여할 수 있다.",
-      "importanceRationale": "근거: 국고채 바이백 준비와 회사채 긴급 매입은 시장 안정화에 직접적인 영향을 미치는 정책 결정이다.",
-      "impactSignals": [
-        {
-          "label": "market-demand",
-          "evidence": "국고채 바이백 및 회사채 매입은 시장 수요에 직접적인 영향을 미침"
-        }
-      ],
+      "importanceRationale": "근거: 당정의 국고채 바이백 준비 및 회사채 긴급 매입 결정은 시장 안정화에 대한 정부의 의지를 보여주는 직접적인 조치이다.",
+      "impactSignals": [],
       "dedupeKey": "당정, 국고채 바이백 준비 및 회사채 6천억 긴급 매입",
       "clusterKey": "6천억",
       "matchedTo": null,
       "sourceName": "연합인포맥스",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBUVmFNN2R2UTJJSzdFcUJXUGxVSUJGNTZZRFhjX0pRaHd2TVdCdnBOOE5QQjRzZWIyNTNmY3RVd0t4NU9pcGc4WTlSTXJLcm1DaktrdFN0TzduT2F4MUNoakd6cGdfdXhvYjJHbmNObjY?oc=5",
-      "publishedAt": "2026-03-16T01:08:55.000Z",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9VTksxbjBKOFdiWjJIRmNCbzBXbHN0czF2Qk5JNzYtak41NTJTaV9nV3U1MFRuYTRaVU1BUWJ2MGk1T0Y5YTRzcjNobFFvSDZIakFMZUs5bTFXbF8tQm9VX1lCZE9MZkR2TEk4LUk4eEtvMU1K?oc=5",
+      "publishedAt": "2026-03-16T01:12:22.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 3.5,
-      "importanceRaw": 63,
+      "importance": 2,
+      "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약됨.",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되어 있음. / 근거부족",
       "isBriefing": false,
       "isBreaking": true
     }
