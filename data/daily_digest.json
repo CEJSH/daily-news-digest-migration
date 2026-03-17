@@ -3,7 +3,7 @@
   "selectionCriteria": "① 내일도 영향이 남는 이슈 ② 과도한 감정 소모 제외 ③ 어제와 중복되는 뉴스 제외",
   "editorNote": "이 뉴스는 클릭 수가 아니라 오늘 이후에도 남는 정보만 기준으로 편집했습니다.",
   "question": "정보를 덜 보는 것이 오히려 더 똑똑한 소비일까?",
-  "lastUpdatedAt": "2026-03-18T06:34:55.679+09:00",
+  "lastUpdatedAt": "2026-03-18T07:30:00.376+09:00",
   "items": [
     {
       "id": "2026-03-18_1",
@@ -14,7 +14,7 @@
         "바이트댄스가 미국의 규제를 피해 말레이시아에 AI 데이터센터를 건설한다."
       ],
       "whyImportant": "바이트댄스의 데이터센터 투자는 동남아시아 지역의 디지털 경제 성장에 기여할 수 있다.",
-      "importanceRationale": "근거: 바이트댄스가 미국의 규제를 우회하여 말레이시아에 AI 데이터센터를 건설하는 것은, 해당 지역에 대한 투자 및 기술적 중요성을 시사한다.",
+      "importanceRationale": "근거: 바이트댄스가 미국의 규제를 우회하여 말레이시아에 AI 데이터센터를 건설하는 것은, 해당 지역에 대한 투자 확대 및 디지털 인프라 구축에 중요한 영향을 미칠 수 있다.",
       "impactSignals": [
         {
           "label": "policy",
@@ -32,7 +32,7 @@
       "importance": 3.5,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약됨.",
+      "qualityReason": "제목과 본문이 일치하며, 핵심 내용을 잘 요약했습니다.",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -40,51 +40,105 @@
       "id": "2026-03-18_2",
       "date": "2026-03-18",
       "category": "국제",
-      "title": "랜섬웨어 사고 대응자가 협상 중 BlackCat 사이버 범죄자에게 정보를 제공했다고 DOJ가 주장",
+      "title": "정책 업데이트: 주요 JBS 공장 파업, 소 공급 부족 속 쇠고기 공급망 시험",
       "summary": [
-        "미국 법무부는 랜섬웨어 사고 대응자가 협상 중에 BlackCat 사이버 범죄자에게 정보를 제공했다고 주장했습니다.",
-        "이 사건은 Recorded Future News의 The Record에서 보도되었습니다."
+        "주요 JBS 공장의 파업으로 쇠고기 공급망에 차질이 예상됩니다.",
+        "소 공급이 부족한 상황에서 파업이 발생했습니다."
       ],
-      "whyImportant": "사이버 보안 및 법 집행에 미치는 영향",
-      "importanceRationale": "근거: 랜섬웨어 공격에 대한 대응 과정에서 내부 정보 유출이 발생했다는 주장은 사이버 보안의 취약성을 드러내고, 법 집행 기관의 조사 필요성을 강조합니다.",
-      "impactSignals": [
-        {
-          "label": "security",
-          "evidence": "랜섬웨어 공격 및 내부자 위협에 대한 보안 강화 요구"
-        }
-      ],
-      "dedupeKey": "ransomware_incident_responder_blackcat_doj",
-      "clusterKey": "blackcat",
+      "whyImportant": "쇠고기 공급망에 잠재적인 차질을 야기할 수 있습니다.",
+      "importanceRationale": "근거: JBS 공장 파업은 쇠고기 공급에 직접적인 영향을 미치며, 소 공급 부족과 맞물려 시장에 더 큰 변동성을 초래할 수 있습니다.",
+      "impactSignals": [],
+      "dedupeKey": "JBS_strike_beef_supply",
+      "clusterKey": "beef",
       "matchedTo": null,
-      "sourceName": "The Record from Recorded Future News",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5vdUhNSkVEdXhBTzhWdmltX3R0YWVOQ3NLVGtIQmlrYmthQXdHWEVFSW1TWDN1WTFjamV3c1E4ZkpvVjg3NlRqb3dmUTFYUFFkd0d0TVI5ZzRvZ3lueUpTUkpFdEw5VG53VTRqOXJvR3dwbVN2?oc=5",
-      "publishedAt": "2026-03-13T15:49:57.000Z",
+      "sourceName": "Pro Farmer",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQN3V6ZHlhTHFnR2J3OXY0RXFPV1Y3dTNzZExpX19Qb21PaDRxWmY5WDliMjMzaUVhN1ZlWlVlelJYRU40c2k0UW9uRjNUX2VvWFVwdW9tNVkxTkR6VjdmY2ZkV2l4dWtxNW5maHl3T0E1aDVFejJiSFlNUDFhNVBDZ05NYUVvcTFYc0xIY0JsbHpFMVoybFFRbElHb0Z0RGszdjF4bXNiQXNRRkQySzdHQVo0Vm5idUptUmF6TXQ5X2xlSk94UW10ejhDcFY1Zw?oc=5",
+      "publishedAt": "2026-03-17T22:18:04.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 3.5,
+      "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 내용이 일치하며, 사건의 핵심 내용을 요약적으로 전달합니다.",
+      "qualityReason": "기사 제목과 내용이 일치하며, 핵심 정보를 간결하게 전달합니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-03-18_3",
       "date": "2026-03-18",
+      "category": "정책",
+      "title": "국회, 'K-전략상선대' 공청회 개최…해운 안보 정책 논의 본격화",
+      "summary": [
+        "국회에서 오늘 'K-전략상선대' 공청회가 개최되었다.",
+        "이번 공청회는 해운 안보 정책에 대한 논의를 본격화하기 위해 마련되었다."
+      ],
+      "whyImportant": "해운 안보 정책 논의의 시작을 알리는 중요한 행사이다.",
+      "importanceRationale": "근거: 국회에서 'K-전략상선대' 공청회가 개최되어 해운 안보 정책 논의가 본격화되었음을 나타낸다.",
+      "impactSignals": [],
+      "dedupeKey": "국회, 'K-전략상선대' 공청회 개최…해운 안보 정책 논의 본격화",
+      "clusterKey": "개최",
+      "matchedTo": null,
+      "sourceName": "해사신문",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTE01NlRKenNLMGRVV2g0cjBIekV2R0MwYzNXVFpVZlJhaTlPNmV0b183a2FqUUc0cC1Cd1FCRTBzLXRDWjZvQ1dFVFdacVc3YWJRNGFzcHVZSGMtdXBjX2VUWEtna1VISXlVX2FF?oc=5",
+      "publishedAt": "2026-03-17T22:15:00.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 63,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되어 있음. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-03-18_4",
+      "date": "2026-03-18",
+      "category": "에너지",
+      "title": "하남, 감일 변환소 증설 놓고 정부·주민 충돌",
+      "summary": [
+        "하남시 감일동 변환소 증설을 놓고 정부와 주민 간의 충돌이 발생했다."
+      ],
+      "whyImportant": "정부 정책과 지역 주민 간의 갈등 심화 가능성을 보여주는 사례이다.",
+      "importanceRationale": "근거: 변환소 증설은 에너지 정책의 일환이지만, 지역 주민들의 반발을 야기하여 정책 추진에 어려움을 초래할 수 있다.",
+      "impactSignals": [
+        {
+          "label": "capex",
+          "evidence": "변환소 증설은 자본 지출을 수반하는 사업임."
+        }
+      ],
+      "dedupeKey": "하남, 감일 변환소 증설 놓고 정부·주민 충돌",
+      "clusterKey": "감일",
+      "matchedTo": null,
+      "sourceName": "하남일보",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5XRlNIUFdOa2lCcXpHTmZyZURUMENqdGxsRWY4SHNrMzNKeUtZSFpBV3V5T0tkd1VlRFRaWHM2YzUwaURnck9vemdWLWJTZUZIUU9ncGpETVNBU3UtcHlsaU5lQUZBbkNqVWc?oc=5",
+      "publishedAt": "2026-03-17T15:58:57.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 3,
+      "importanceRaw": 50,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되어 있음.",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-03-18_5",
+      "date": "2026-03-18",
       "category": "국제",
       "title": "엔비디아, 중국향 H200 공급 재개…미·중 규제 완화되나",
       "summary": [
-        "엔비디아가 중국 시장에 H200 공급을 재개한다."
+        "엔비디아가 중국 시장에 H200 공급을 재개한다.",
+        "이는 미국과 중국 간의 규제 완화 가능성을 시사한다."
       ],
-      "whyImportant": "엔비디아의 중국 시장 공급 재개는 미중 기술 규제 완화의 신호탄으로 해석될 수 있다.",
-      "importanceRationale": "근거: 엔비디아의 중국향 H200 공급 재개는 단순히 기업의 사업 확장을 넘어, 미중 관계의 변화를 시사할 수 있는 중요한 사건이다.",
+      "whyImportant": "엔비디아의 중국 시장 공급 재개는 미중 관계 및 기술 수출 규제에 중요한 영향을 미칠 수 있다.",
+      "importanceRationale": "근거: 엔비디아의 중국 시장 공급 재개는 단순히 기업의 이익을 넘어, 미중 관계의 변화와 기술 수출 규제 완화 가능성을 보여주는 중요한 지표가 될 수 있기 때문이다.",
       "impactSignals": [
         {
           "label": "policy",
-          "evidence": "엔비디아의 중국향 H200 공급 재개는 미중 규제 완화 가능성을 시사한다."
+          "evidence": "미국과 중국 간의 규제 완화 가능성 시사"
         }
       ],
-      "dedupeKey": "nvidia-h200-china-06142024",
+      "dedupeKey": "nvidia-h200-china-supply-resumption",
       "clusterKey": "h200",
       "matchedTo": null,
       "sourceName": "매일경제",
@@ -92,31 +146,58 @@
       "publishedAt": "2026-03-17T20:09:02.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 3.5,
-      "importanceRaw": 63,
+      "importance": 4,
+      "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 정보가 간결하게 요약되어 있다.",
+      "qualityReason": "제목과 내용이 일치하며, 핵심 내용을 잘 요약했습니다.",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-03-18_4",
+      "id": "2026-03-18_6",
       "date": "2026-03-18",
       "category": "경제",
-      "title": "PlayStudios (NASDAQ:MYPS), 2025년 4분기 실적 발표에서 분석가 예상치를 밑도는 매출 기록",
+      "title": "마이크론, 실적 발표 앞두고 목표 주가 또 상향… RBC, HBM 가격 인상 지속 반영",
       "summary": [
-        "PlayStudios (NASDAQ:MYPS)는 2025년 4분기 실적 발표에서 매출이 분석가들의 예상치를 하회했다고 발표했습니다.",
-        "해당 내용은 야후 파이낸스를 통해 보도되었습니다."
+        "RBC 캐피털 마켓은 마이크론의 목표 주가를 또다시 상향 조정했다.",
+        "이는 HBM(고대역폭 메모리) 가격 인상이 지속적으로 반영된 결과이다."
       ],
-      "whyImportant": "PlayStudios의 매출 부진은 투자자와 시장에 중요한 신호입니다.",
-      "importanceRationale": "근거: 매출이 예상치를 밑돌았다는 것은 회사의 성장세 둔화 또는 시장 경쟁 심화를 의미할 수 있으며, 이는 주가에 부정적인 영향을 미칠 수 있습니다.",
+      "whyImportant": "마이크론의 목표 주가 상향은 HBM 시장의 성장과 마이크론의 수익성에 대한 긍정적 전망을 시사한다.",
+      "importanceRationale": "근거: RBC 캐피털 마켓의 목표 주가 상향 조정은 HBM 가격 인상 지속을 반영한 것으로, 이는 마이크론의 수익성에 직접적인 영향을 미친다.",
+      "impactSignals": [],
+      "dedupeKey": "micron-stock-upgrade-20240619",
+      "clusterKey": "반도체/hbm",
+      "matchedTo": null,
+      "sourceName": "마켓인",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9FTVhvcE1sNTd4a1pmZmtPUkMtdlNJa05NQ1paRDVPSFNzcll4LTRJYnJmelZOS3ZkU0FLZ2NPRlJ2WnNJU1JSV2cwNEpWaExzODJvZGpuanJYVWRtSE9TUFo2M2xLcE1uNlNYZkdwalVKT1U?oc=5",
+      "publishedAt": "2026-03-16T10:51:16.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 75,
+      "qualityLabel": "ok",
+      "qualityReason": "The article provides a concise summary of the RBC's price target increase for Micron. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-03-18_7",
+      "date": "2026-03-18",
+      "category": "경제",
+      "title": "PlayStudios (NASDAQ:MYPS), 2025년 4분기 실적 발표에서 분석가 예상치를 밑도는 매출 보고",
+      "summary": [
+        "PlayStudios (NASDAQ:MYPS)는 2025년 4분기 실적 발표에서 매출이 분석가 예상치에 미치지 못했다고 발표했습니다.",
+        "해당 내용은 Yahoo Finance를 통해 보도되었습니다."
+      ],
+      "whyImportant": "PlayStudios의 실적 부진은 주가에 영향을 미칠 수 있습니다.",
+      "importanceRationale": "근거: 매출이 분석가 예상치를 하회했다는 것은 투자 심리에 부정적인 영향을 줄 수 있으며, 이는 주가 하락으로 이어질 수 있습니다.",
       "impactSignals": [
         {
           "label": "market-demand",
-          "evidence": "매출 부진은 시장 수요 감소를 암시할 수 있음"
+          "evidence": "매출 부진은 시장 수요에 대한 우려를 야기할 수 있음"
         }
       ],
-      "dedupeKey": "PlayStudios_Q4_2025_Earnings_Below_Estimates",
+      "dedupeKey": "PlayStudios_Q4_2025_Earnings_Miss",
       "clusterKey": "analyst",
       "matchedTo": null,
       "sourceName": "Yahoo Finance",
@@ -127,49 +208,27 @@
       "importance": 3.5,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 핵심 정보를 포함하고 있습니다.",
+      "qualityReason": "The article provides a clear and factual report of PlayStudios' earnings.",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-03-18_5",
-      "date": "2026-03-18",
-      "category": "경제",
-      "title": "항공주 실적 전망 상향에 여행 예약 주도 강세",
-      "summary": [
-        "항공주 실적 전망이 상향되면서 여행 예약 관련 주식도 강세를 보이고 있습니다."
-      ],
-      "whyImportant": "항공 산업과 여행 산업의 연관성을 보여주는 지표입니다.",
-      "importanceRationale": "근거: 항공주 실적 전망 개선이 여행 예약 증가에 대한 기대감을 높여 관련 주식의 상승을 이끌고 있기 때문입니다.",
-      "impactSignals": [],
-      "dedupeKey": "항공주 실적 전망 상향에 여행 예약 주도 강세",
-      "clusterKey": "강세",
-      "matchedTo": null,
-      "sourceName": "마켓인",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBleHNzVHRpbDZhb2ZZMFBmREhhT05NVFJQSU1ZQjJpLUZFYXJ0dnR3ODdFNTV1Nk5ZX0VnT3NyTE5objM1Skoydl9RVmFEN1VFMmo3M1phWHBmZ3VHRVh3MWJGSEwya0pUcjRwTEtpT05obWM?oc=5",
-      "publishedAt": "2026-03-17T16:17:23.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 63,
-      "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며 간결하게 요약되었습니다. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-03-18_6",
+      "id": "2026-03-18_8",
       "date": "2026-03-18",
       "category": "에너지",
-      "title": "오하이오주 리킹 카운티, 뉴올버니 데이터 센터에 천연 가스 파이프라인 건설 제안",
+      "title": "뉴올버니 데이터 센터를 위한 리킹 카운티 천연 가스 파이프라인 제안",
       "summary": [
-        "오하이오주 리킹 카운티에 뉴올버니 데이터 센터를 위한 천연 가스 파이프라인 건설이 제안되었습니다.",
-        "이 파이프라인은 데이터 센터 운영에 필요한 에너지 공급을 목표로 합니다."
+        "뉴어크 어드보케이트에 따르면 리킹 카운티에 천연 가스 파이프라인이 뉴올버니 데이터 센터를 위해 제안되었다."
       ],
-      "whyImportant": "데이터 센터 에너지 공급 안정성 강화",
-      "importanceRationale": "근거: 데이터 센터는 막대한 에너지를 소비하며, 안정적인 에너지 공급은 데이터 센터 운영의 핵심입니다. 새로운 파이프라인 건설은 데이터 센터의 에너지 공급 안정성을 높이는 데 기여합니다.",
-      "impactSignals": [],
-      "dedupeKey": "LickingCountyNaturalGasPipeline",
+      "whyImportant": "데이터 센터에 에너지원을 공급하는 새로운 인프라 프로젝트입니다.",
+      "importanceRationale": "근거: 데이터 센터 운영에 필요한 에너지 공급을 위한 새로운 파이프라인 건설 제안은 관련 인프라 투자와 에너지 시장에 영향을 미칠 수 있습니다.",
+      "impactSignals": [
+        {
+          "label": "capex",
+          "evidence": "천연 가스 파이프라인 건설은 상당한 자본 지출을 수반합니다."
+        }
+      ],
+      "dedupeKey": "LickingCountyNaturalGasPipelineNewAlbanyDataCenter",
       "clusterKey": "albany",
       "matchedTo": null,
       "sourceName": "The Newark Advocate",
@@ -177,136 +236,104 @@
       "publishedAt": "2026-03-17T11:02:00.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 2,
+      "importance": 3,
       "importanceRaw": 50,
       "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 내용이 일치하며, 간결하게 요약되었습니다. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-03-18_7",
-      "date": "2026-03-18",
-      "category": "경제",
-      "title": "마이크론, 실적 발표 앞두고 목표 주가 또 상향…RBC, HBM 가격 인상 지속 반영",
-      "summary": [
-        "마이크론이 실적 발표를 앞두고 목표 주가가 또다시 상향 조정되었다.",
-        "RBC는 HBM(고대역폭 메모리) 가격 인상이 지속적으로 반영될 것으로 예상했다."
-      ],
-      "whyImportant": "마이크론의 목표 주가 상향 조정은 HBM 시장의 성장 가능성을 시사한다.",
-      "importanceRationale": "근거: RBC의 목표 주가 상향은 HBM 가격 인상 지속을 반영한 결과이며, 이는 해당 시장의 긍정적인 전망을 뒷받침한다.",
-      "impactSignals": [
-        {
-          "label": "earnings",
-          "evidence": "목표 주가 상향 조정은 실적 발표를 앞두고 이루어짐"
-        }
-      ],
-      "dedupeKey": "micron-stock-upgrade-20240229",
-      "clusterKey": "반도체/hbm",
-      "matchedTo": null,
-      "sourceName": "마켓인",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9FTVhvcE1sNTd4a1pmZmtPUkMtdlNJa05NQ1paRDVPSFNzcll4LTRJYnJmelZOS3ZkU0FLZ2NPRlJ2WnNJU1JSV2cwNEpWaExzODJvZGpuanJYVWRtSE9TUFo2M2xLcE1uNlNYZkdwalVKT1U?oc=5",
-      "publishedAt": "2026-03-16T10:51:16.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 3.5,
-      "importanceRaw": 63,
-      "qualityLabel": "ok",
-      "qualityReason": "The article is concise and factual.",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-03-18_8",
-      "date": "2026-03-18",
-      "category": "경제",
-      "title": "RBA 금리 인상: 세계적 변화 속 호주의 정책 방향",
-      "summary": [
-        "호주 중앙은행(RBA)이 금리를 인상했습니다.",
-        "이는 세계적인 변화 속에서 호주의 정책 방향을 보여줍니다."
-      ],
-      "whyImportant": "호주 중앙은행의 금리 인상은 호주 경제 및 정책 방향에 중요한 영향을 미칩니다.",
-      "importanceRationale": "근거: 호주 중앙은행의 금리 결정은 경제 성장, 인플레이션, 고용 등 다양한 경제 지표에 영향을 미치며, 이는 호주 경제 전반에 걸쳐 파급 효과를 가져올 수 있습니다.",
-      "impactSignals": [],
-      "dedupeKey": "RBA_Rate_Hike_Australia_Policy_Path_Amid_Global_Shift",
-      "clusterKey": "amid",
-      "matchedTo": null,
-      "sourceName": "Discovery Alert",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPOWdGc08xaGI1QWxnQ0ZBbTRNUEtCSHkteU1JUkh3dmFpZGdCREYyVGpGNUJEZjY0NEExdUlQd0RWOGF6MWFvTFFjTkNkTVNiRGw3WlktVy01Z1RHVUpIQk8xVURkTEcxYTh5TzVRT1o5RTBnelV5eFBaM2RITjZ4TGdwVjVnTDR3UnFPQw?oc=5",
-      "publishedAt": "2026-03-16T22:35:43.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 75,
-      "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 내용이 일치하며, 간결하게 요약되었습니다. / 근거부족",
+      "qualityReason": "제목과 텍스트가 일치하며, 내용이 간결하고 명확합니다.",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-03-18_9",
       "date": "2026-03-18",
-      "category": "국제",
-      "title": "트럭 운송 및 공급망 그룹, Dalilah 법 지지 표명",
+      "category": "경제",
+      "title": "벤처 캐피탈, AI로 기울고 비AI 스타트업은 자금 압박에 직면",
       "summary": [
-        "트럭 운송 및 공급망 그룹들이 Dalilah 법에 대한 지지를 표명했습니다.",
-        "이 법안은 트럭 운송 산업과 공급망에 중요한 영향을 미칠 것으로 예상됩니다."
+        "벤처 캐피탈이 인공지능(AI) 분야로 투자를 집중하고 있습니다.",
+        "AI 외 스타트업들은 자금 확보에 어려움을 겪고 있습니다."
       ],
-      "whyImportant": "Dalilah 법안은 트럭 운송 산업과 공급망에 중요한 변화를 가져올 수 있습니다.",
-      "importanceRationale": "근거: 트럭 운송 및 공급망 그룹들이 해당 법안에 대한 지지를 표명한 것은 정책적으로 중요한 변화를 의미합니다.",
+      "whyImportant": "AI 기술 경쟁 심화 및 관련 스타트업 투자 증가 가능성",
+      "importanceRationale": "근거: 벤처 캐피탈의 투자 동향 변화는 기술 산업의 발전 방향과 스타트업 생태계에 중요한 영향을 미칩니다.",
       "impactSignals": [],
-      "dedupeKey": "trucking_dalilah_law_support",
-      "clusterKey": "chain",
+      "dedupeKey": "venture_capital_ai_funding_squeeze",
+      "clusterKey": "금융/capital",
       "matchedTo": null,
-      "sourceName": "House.gov",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOOF8xMXh2N09DbzcwcmNCLU1aZG9Ga1N1TDlQTTA1aHowZk90ZngtMUlNdXlEUy03dmV4d1A4R29iV3oyTkpCS3AtVjFlNzBsbmF1ZEpMbV9SdW1Sb3hWVFNDaHlpZFdoLU1Ua2ZmZ01kcWdCVHI3SzJ1VW5XbEo4Vg?oc=5",
-      "publishedAt": "2026-03-17T21:29:54.000Z",
+      "sourceName": "HackerNoon",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeUEycEZVMGVZQnBGWkdPVENhZWVMQk9XdVRiMkJieTdXZ25teEk2S1Z4RUthdEdjXzZZeUVkek0yNG80eWVRak82Uk91WWN4ODFIQWp1YnNLWFJuSTVpNk1sNHdKYXRDYkpLY1pUd0ZzOTVwYXlsV2dPNGk4cDF5cWRDUXM3SlJuMXc4QUlNU3dfSTdqQ0ZVVUdB?oc=5",
+      "publishedAt": "2026-03-17T17:04:37.000Z",
       "readTimeSec": 10,
       "status": "kept",
       "importance": 2,
-      "importanceRaw": 63,
+      "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 내용이 일치하며, 정보가 명확합니다. / 근거부족",
+      "qualityReason": "제목과 내용이 일치하며, 핵심 내용을 잘 요약했습니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-03-18_10",
       "date": "2026-03-18",
-      "category": "국제",
-      "title": "한미, 관세 협상 합의…상호 관세 15%·현금 투자 年 상한 200억불",
+      "category": "경제",
+      "title": "'IPO 과정 중 내홍' 공동 창업자 축출… 법원 \"해임은 가능하나 배상해야\"",
       "summary": [
-        "한국무역협회에 따르면 한미 양국이 관세 협상에 합의했다.",
-        "합의 내용은 상호 관세 15%와 현금 투자 연간 상한 200억불이다."
+        "IPO 과정에서 불거진 갈등으로 공동 창업자를 해임한 사건에 대해 법원이 해임은 가능하지만 배상 책임이 있다고 판결했습니다.",
+        "이번 판결은 기업의 IPO 과정에서 발생할 수 있는 공동 창업자 간의 갈등과 법적 책임에 대한 중요한 시사점을 제공합니다."
       ],
-      "whyImportant": "이번 합의는 양국 무역 관계에 중요한 영향을 미칠 수 있다.",
-      "importanceRationale": "근거: 상호 관세율 조정 및 현금 투자 상한 설정은 기업의 투자 결정 및 무역 전략에 직접적인 영향을 줄 수 있기 때문이다.",
+      "whyImportant": "공동 창업자 해임 및 배상 책임에 대한 법원 판결은 기업 지배 구조 및 창업자 간 관계에 중요한 영향을 미칩니다.",
+      "importanceRationale": "근거: IPO 과정에서 발생한 공동 창업자 해임 사건에 대한 법원의 판단은 유사 사례에 대한 선례가 될 수 있으며, 기업의 의사 결정 과정에 대한 법적 기준을 제시합니다.",
       "impactSignals": [],
-      "dedupeKey": "hanmi-gwansye-hyupsang-hahui-sangho-gwansye-15-hyeongeum-tuja-nyeon-sanghan-200eokbul",
-      "clusterKey": "200억불",
+      "dedupeKey": "ipo-cofounder-lawsuit",
+      "clusterKey": "가능하지만",
       "matchedTo": null,
-      "sourceName": "한국무역협회-KITA.NET",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4xdWhfZ2dJX2VwLWNjejFwUnljSDFLUUs0RERlSUNUeEFGTXRmNzlXSjdqRDBBaHB4UW1IOTh4ZDZ6d0YyX1VaM1JxU3hXeFVuS0tKeVJOMEU3OHlVME1QMWlwRGJ6ODJNVENRNGJnRjNnOWhw?oc=5",
-      "publishedAt": "2026-03-16T01:48:05.000Z",
+      "sourceName": "아시아경제",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1EcTZNUVpOM1p0azV1bDF5bWkzdmxNN0VmUUtwVnEtbmFYVWZZSWZod3FNTnltMVFfam4xN0RtaldGWURfZHNFdG9oT2M2WW5kbnl0ajFJWXFfNHE5eHhMODdn?oc=5",
+      "publishedAt": "2026-03-17T22:14:00.000Z",
       "readTimeSec": 10,
       "status": "kept",
       "importance": 2,
-      "importanceRaw": 75,
+      "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며 간결하게 요약되어 있음 / 근거부족",
+      "qualityReason": "기사 제목과 본문이 일치하며, 핵심 내용을 요약하여 전달합니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-03-18_11",
       "date": "2026-03-18",
+      "category": "국제",
+      "title": "지역·중소기업 보안 실태 점검 결과, 2242개 기업에서 9만 건의 취약점 발견",
+      "summary": [
+        "지역 및 중소기업의 보안 실태 점검 결과, 2242개 기업에서 9만 건의 취약점이 발견되었습니다.",
+        "이번 점검은 보안 취약점을 파악하고 개선하기 위해 실시되었습니다."
+      ],
+      "whyImportant": "이번 보안 실태 점검 결과는 지역 및 중소기업의 보안 수준을 파악하고 개선하는 데 중요한 지표가 됩니다.",
+      "importanceRationale": "근거: 2242개 기업에서 9만 건의 취약점이 발견된 것은 심각한 보안 위협을 시사하며, 이는 기업의 정보 자산 보호 및 사이버 공격 예방을 위한 시급한 대응이 필요함을 의미합니다.",
+      "impactSignals": [],
+      "dedupeKey": "security_check_small_biz_2024",
+      "clusterKey": "2242개",
+      "matchedTo": null,
+      "sourceName": "뉴시스",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5NamdwNEp2anNpamd6QXVJbzE2ejkxcWFaWnkyZ2hoS0FvRDNoZTRoWTVkZnFaRDhLdkxTbVFuV3k2UC1tcnNjT2VnV0J1bXJ0alNKcXdmc1k4MGdvdGRid05Sb2JvVm1KWmpURmxBcTA0Y0NQMzlKRtIBeEFVX3lxTE5NamdwNEp2anNpamd6QXVJbzE2ejkxcWFaWnkyZ2hoS0FvRDNoZTRoWTVkZnFaRDhLdkxTbVFuV3k2UC1tcnNjT2VnV0J1bXJ0alNKcXdmc1k4MGdvdGRid05Sb2JvVm1KWmpURmxBcTA0Y0NQMzlKRg?oc=5",
+      "publishedAt": "2026-03-16T03:00:00.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 75,
+      "qualityLabel": "ok",
+      "qualityReason": "기사 제목과 내용이 일치하며, 정보의 신뢰성이 높음. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-03-18_12",
+      "date": "2026-03-18",
       "category": "정책",
       "title": "강특법 3차 개정안 국회 첫 관문 '통과'",
       "summary": [
         "강특법 3차 개정안이 국회 첫 관문을 통과했습니다."
       ],
-      "whyImportant": "강원특별자치도법 개정안의 통과는 지역 발전에 중요한 정책적 변화를 의미합니다.",
-      "importanceRationale": "근거: 강특법 개정안 통과는 지역 경제 활성화 및 규제 완화에 영향을 미칠 수 있는 정책 변화의 시작을 의미합니다.",
+      "whyImportant": "강원특별자치도법 개정안의 통과 의미",
+      "importanceRationale": "근거: 강원특별자치도법 개정안이 국회에서 중요한 첫 번째 단계를 통과했기 때문입니다.",
       "impactSignals": [],
       "dedupeKey": "강특법 3차 개정안 국회 첫 관문 '통과'",
       "clusterKey": "3차",
@@ -324,34 +351,34 @@
       "isBreaking": false
     },
     {
-      "id": "2026-03-18_12",
+      "id": "2026-03-18_13",
       "date": "2026-03-18",
       "category": "정책",
-      "title": "국내 시장 복귀 계좌 과세 특례 1년 한시 도입… 조세특례제한법 국회 기획재정위원회 통과",
+      "title": "국회의장과 대통령, '단계적 개헌' 제안…국회 특위는 '무산'",
       "summary": [
-        "국내 시장 복귀 계좌에 대한 과세 특례가 1년 동안 한시적으로 도입됩니다.",
-        "조세특례제한법 개정안이 국회 기획재정위원회를 통과했습니다."
+        "국회의장에 이어 대통령도 '단계적 개헌'을 제안했다.",
+        "그러나 국회 특별위원회는 무산되었다."
       ],
-      "whyImportant": "국내 시장 복귀를 장려하고 투자 활성화를 유도합니다.",
-      "importanceRationale": "근거: 국내 시장 복귀 계좌에 대한 세제 혜택은 투자자들의 국내 투자 유인을 제공하여 시장 활성화에 기여할 수 있습니다. 정책 변경 사항이므로 중요합니다.",
+      "whyImportant": "대통령과 국회의장의 개헌 논의 방향 제시",
+      "importanceRationale": "근거: 대통령과 국회의장이 개헌에 대한 의견을 제시함. 이는 향후 정치적 논의에 영향을 미칠 수 있다.",
       "impactSignals": [],
-      "dedupeKey": "domestic_market_return_tax_exemption_2024",
-      "clusterKey": "1년",
+      "dedupeKey": "president-speaker-constitutional-amendment",
+      "clusterKey": "개헌",
       "matchedTo": null,
-      "sourceName": "한국세정신문",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1qaW96akJPc29aVDUwNGFwd3ZBSUM3dGo4U1ZtVzVQaU9mR1lITE11Rk1SdFRFa3h4cmdOMlZsVk80enpHTGx3YWNmN0pHdXNGb19WQlZjbjlaZXF0V1owc2xvQVQ?oc=5",
-      "publishedAt": "2026-03-17T10:10:38.000Z",
+      "sourceName": "뉴스토마토",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE90b0NuNWdMU1VDS25QMjF6cFkxRUVnTjNiWllYUE9QdlprdzdlNXRJMkhNUUFzUnlRelN2X3djWjJCeDR3ZlNmMXlvcnNiSE8wbkhxZFNUdUtad2lSREJBYg?oc=5",
+      "publishedAt": "2026-03-17T09:00:43.000Z",
       "readTimeSec": 10,
       "status": "kept",
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 간결하게 핵심 내용을 전달합니다. / 근거부족",
+      "qualityReason": "제목과 내용이 일치하며 간결하게 요약됨 / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-03-18_13",
+      "id": "2026-03-18_14",
       "date": "2026-03-18",
       "category": "에너지",
       "title": "전남도, 해상풍력 특별법 시행령 통과…예비지구 발굴 속도",
@@ -359,7 +386,7 @@
         "전라남도는 해상풍력 특별법 시행령 통과에 따라 예비지구 발굴에 속도를 낼 예정이다."
       ],
       "whyImportant": "해상풍력 발전 사업 촉진.",
-      "importanceRationale": "근거: 전라남도가 해상풍력 특별법 시행령 통과 후 예비지구 발굴을 가속화할 계획이므로, 해상풍력 발전 사업에 긍정적인 영향을 미칠 수 있다.",
+      "importanceRationale": "근거: 전라남도가 해상풍력 특별법 시행령 통과 후 예비지구 발굴을 가속화할 계획이므로.",
       "impactSignals": [],
       "dedupeKey": "전남도, 해상풍력 특별법 시행령 통과…예비지구 발굴 속도",
       "clusterKey": "발굴",
@@ -377,59 +404,33 @@
       "isBreaking": false
     },
     {
-      "id": "2026-03-18_14",
+      "id": "2026-03-18_15",
       "date": "2026-03-18",
       "category": "정책",
-      "title": "\"원전 종사자가 잠재적 범죄자인가\"... 10년 규제 족쇄에 K-원전 르네상스 '발목'",
+      "title": "[성명] 탄소중립법 개정 국회 공론화위원회의 위헌적 감축경로 설정 논의 중단하라",
       "summary": [
-        "원전 종사자를 잠재적 범죄자로 취급하는 10년간의 규제가 K-원전 르네상스의 발목을 잡고 있다는 비판이 제기됨."
+        "민주노총은 탄소중립법 개정 국회 공론화위원회의 위헌적 감축경로 설정 논의를 중단할 것을 요구하는 성명을 발표했다."
       ],
-      "whyImportant": "원자력 발전소 규제 완화의 필요성",
-      "importanceRationale": "근거: 원전 규제가 강화되어 K-원전 르네상스에 부정적인 영향을 미치고 있다는 내용에 기반함.",
+      "whyImportant": "탄소중립법 개정 논의의 방향성에 대한 비판적 시각을 제시합니다.",
+      "importanceRationale": "근거: 민주노총의 성명은 탄소중립 정책 결정 과정에 대한 중요한 의견을 반영하며, 정책 방향에 영향을 미칠 수 있습니다.",
       "impactSignals": [
         {
           "label": "policy",
-          "evidence": "원전 규제가 K-원전 르네상스에 미치는 영향"
+          "evidence": "탄소중립법 개정 논의에 대한 민주노총의 입장 표명"
         }
       ],
-      "dedupeKey": "원전규제_20240118",
-      "clusterKey": "에너지/10년",
+      "dedupeKey": "탄소중립법 개정 국회 공론화위원회 위헌적 감축경로 설정 논의 중단",
+      "clusterKey": "감축경로",
       "matchedTo": null,
-      "sourceName": "에너지코리아뉴스",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5VNUtJMnUwdnRrUnBfdWNDaWF2ZmVTZ0xXM2RqbEMyQnZ3UjQxQno2RjMyb0tkcDlrYW1GN0lMMHpEUVZCemFhdDFKd3JCT2tOanVGRWtmd0h1RE5OZHF6TkVRdTB2MUR3alo1WDNVRng?oc=5",
-      "publishedAt": "2026-03-17T06:18:17.000Z",
+      "sourceName": "민주노총",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBZcWxsSFhZc1NqX1hsWlJlTW9SbnM2MzhHZ0J2S2dwdEZfWllIZkhacXBkemxJRHZKaWRzamstT3UtcDZGWHlxb19CNl8?oc=5",
+      "publishedAt": "2026-03-17T04:41:11.000Z",
       "readTimeSec": 10,
       "status": "kept",
       "importance": 3.5,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약됨.",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-03-18_15",
-      "date": "2026-03-18",
-      "category": "에너지",
-      "title": "에너지 안보 해법으로 떠오른 ‘K-원전’",
-      "summary": [
-        "에너지 안보 해법으로 'K-원전'이 부상하고 있다."
-      ],
-      "whyImportant": "에너지 안보 강화에 대한 논의를 촉발하고, 원자력 발전의 역할에 대한 관심을 환기시킨다.",
-      "importanceRationale": "근거: 에너지 안보 문제 해결 방안으로 K-원전이 제시되었으며, 이는 에너지 정책 및 관련 산업에 영향을 미칠 수 있다.",
-      "impactSignals": [],
-      "dedupeKey": "K-원전_에너지안보",
-      "clusterKey": "에너지/기획",
-      "matchedTo": null,
-      "sourceName": "매일일보",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBIQ3hfSkp1cGtMTVFyX0U0aVE0YkNVNTZBdVBZV2RidTBRaUQ1aVU1RnpIamtlelFYRENMMkdOb0ZOY2NuY2Zqa3FadlNGdkhXdktJS1Z0UWxzM3dRNXkyWG1rQTQ?oc=5",
-      "publishedAt": "2026-03-17T06:16:36.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 63,
-      "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 정보가 명확하게 전달됨. / 근거부족",
+      "qualityReason": "제목과 내용이 일치하며, 핵심 내용을 요약했습니다.",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -443,9 +444,14 @@
         "새로운 규제안이 나올 가능성이 제기되고 있습니다."
       ],
       "whyImportant": "미국의 AI 칩 수출 규제는 기술 산업에 큰 영향을 미칠 수 있습니다.",
-      "importanceRationale": "근거: AI 칩 수출 규제는 기술 경쟁과 산업 발전에 중요한 변수이기 때문입니다.",
-      "impactSignals": [],
-      "dedupeKey": "AI_chip_export_regulation_draft_withdrawal",
+      "importanceRationale": "근거: AI 칩 수출 규제는 기술 경쟁, 국가 안보, 산업 발전에 중요한 정책적 영향을 미치기 때문입니다.",
+      "impactSignals": [
+        {
+          "label": "policy",
+          "evidence": "AI 칩 수출 규정 초안 철회 및 새로운 규제 가능성"
+        }
+      ],
+      "dedupeKey": "AI 칩 수출 규정 초안 철회",
       "clusterKey": "it조선",
       "matchedTo": null,
       "sourceName": "IT조선",
@@ -453,41 +459,10 @@
       "publishedAt": "2026-03-15T07:59:29.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 2,
+      "importance": 4,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 간결하게 요약되었습니다. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-03-18_17",
-      "date": "2026-03-18",
-      "category": "정책",
-      "title": "AI 경쟁력은 데이터에 있는데…규제는 여러 부처, 기업은 ‘장벽’",
-      "summary": [
-        "AI 경쟁력의 핵심은 데이터 확보에 있지만, 여러 부처의 규제로 인해 기업들이 어려움을 겪고 있다는 내용입니다."
-      ],
-      "whyImportant": "AI 기술 경쟁력 확보를 위한 데이터 활용 규제 개선 필요성을 제기합니다.",
-      "importanceRationale": "근거: AI 경쟁력의 핵심 요소인 데이터 활용에 대한 규제가 기업의 성장을 저해하고 있다는 점을 지적하고 있습니다.",
-      "impactSignals": [
-        {
-          "label": "policy",
-          "evidence": "여러 부처의 규제가 AI 데이터 활용에 장벽으로 작용"
-        }
-      ],
-      "dedupeKey": "AI경쟁력_데이터규제_장벽",
-      "clusterKey": "경쟁력은",
-      "matchedTo": null,
-      "sourceName": "매일일보",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0zSTBkR0kxZXJiUW1FZWhVWjI1dDdKcmhuTlIzZ3NleFU4Y3NVUDFfQVMxOEg1MEZHczdCX3dydlFZLVVFUmh0YjFfQ2hvREVaRERDaHNXUHB0S2FoemdvWWgxa2s?oc=5",
-      "publishedAt": "2026-03-16T01:57:04.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 3.5,
-      "importanceRaw": 63,
-      "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 핵심 내용을 잘 요약했습니다.",
+      "qualityReason": "기사 제목과 내용을 충실히 반영함",
       "isBriefing": false,
       "isBreaking": false
     }
