@@ -3,120 +3,20 @@
   "selectionCriteria": "① 내일도 영향이 남는 이슈 ② 과도한 감정 소모 제외 ③ 어제와 중복되는 뉴스 제외",
   "editorNote": "이 뉴스는 클릭 수가 아니라 오늘 이후에도 남는 정보만 기준으로 편집했습니다.",
   "question": "정보를 덜 보는 것이 오히려 더 똑똑한 소비일까?",
-  "lastUpdatedAt": "2026-03-19T02:58:52.802+09:00",
+  "lastUpdatedAt": "2026-03-19T04:12:18.527+09:00",
   "items": [
     {
       "id": "2026-03-19_1",
       "date": "2026-03-19",
-      "category": "기술",
-      "title": "POWER 법안이 위원회에 계류 중인 가운데 데이터 센터 규제에 대한 정치적 의지 증가",
-      "summary": [
-        "POWER 법안이 위원회에 계류 중인 가운데 데이터 센터 규제에 대한 정치적 의지가 커지고 있습니다.",
-        "Capitol City Now에서 보도했습니다."
-      ],
-      "whyImportant": "데이터 센터 규제에 대한 정치적 의지의 증가는 관련 산업에 대한 정책 및 자본 지출에 영향을 미칠 수 있습니다.",
-      "importanceRationale": "근거: 데이터 센터 규제에 대한 정치적 의지가 증가하고 있다는 것은 향후 관련 정책 변화와 그에 따른 자본 지출에 영향을 줄 수 있음을 시사합니다.",
-      "impactSignals": [
-        {
-          "label": "policy",
-          "evidence": "데이터 센터 규제에 대한 정치적 의지 증가"
-        }
-      ],
-      "dedupeKey": "political_will_data_center_regulations_power_act",
-      "clusterKey": "에너지/act",
-      "matchedTo": null,
-      "sourceName": "Capitol City Now",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQ20tMThGbmpqb01UeTdMLVFNQmpMQ0liZ2N5bVExckF2Q1ZHVzRpNzZsQzd5d3lhamV6cUxhQmphMVYyVHZlY0dNQ0liQVU3OTFVcnNXVUFyMG1abE1ObEVVVktxdEJQOEQ1MjRqd2tzTUVPb0h5Q1M5bTV3WDN3cmFkVmFjdmNHVFB6TE1rWXJGX2VtZ2h0SDdfaFFpNVJ1R1VhNjM2ekVFOXFSS1o1NEd3SG1IUFZDVk1IbDNhaw?oc=5",
-      "publishedAt": "2026-03-18T17:07:44.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 3.5,
-      "importanceRaw": 63,
-      "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 내용이 일치하며, 정보가 명확합니다.",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-03-19_2",
-      "date": "2026-03-19",
-      "category": "경제",
-      "title": "EIA, 데이터 센터 수요로 인해 ERCOT 전력 가격이 79% 상승할 수 있다고 경고",
-      "summary": [
-        "미국 에너지정보청(EIA)은 데이터 센터 수요 증가로 인해 텍사스 전력 신뢰성 위원회(ERCOT)의 전력 가격이 최대 79%까지 상승할 수 있다고 경고했습니다.",
-        "데이터 센터의 전력 소비 증가는 전력망에 상당한 부담을 줄 수 있습니다.",
-        "이는 관련 산업의 투자 및 시장 수요에 큰 영향을 미칠 수 있습니다."
-      ],
-      "whyImportant": "데이터 센터 전력 수요 급증이 전력 가격에 미치는 잠재적 영향에 대한 경고이므로 중요합니다.",
-      "importanceRationale": "근거: 데이터 센터의 전력 소비 증가는 전력망에 부담을 가중시키고, 이는 전력 가격 상승으로 이어질 수 있습니다. 특히 텍사스 전력 신뢰성 위원회(ERCOT) 지역은 데이터 센터 수요 증가에 따른 전력 가격 변동에 민감할 수 있습니다.",
-      "impactSignals": [
-        {
-          "label": "capex",
-          "evidence": "데이터 센터 건설 및 운영 관련 투자 증가 예상"
-        },
-        {
-          "label": "market-demand",
-          "evidence": "데이터 센터 전력 수요 증가로 인한 시장 변화"
-        }
-      ],
-      "dedupeKey": "EIA_Data_Center_ERCOT_Power_Prices",
-      "clusterKey": "에너지/center",
-      "matchedTo": null,
-      "sourceName": "Construction Owners Club",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNN0h6Z0JpOHI0ajlNWkNlNi1mTTE1alNnZXBTLW9jTGJpWmo2NVAzb2Z0WUtzc01LX0hMbUlubEh1THdLYXdta0ZGSVVLZXRPamd6R0NlT0VCREhQR1F4cXdrd254UENtVnNMTHI2eFhsb0xmWUtZYTk5TktzSjN2TjhWa1c5OEtV?oc=5",
-      "publishedAt": "2026-03-18T12:20:47.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 4,
-      "importanceRaw": 75,
-      "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 정보가 명확하게 제시됨.",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-03-19_3",
-      "date": "2026-03-19",
-      "category": "국제",
-      "title": "관세로 인해 업계 선두 기업의 86%가 공급망 혼란을 겪고 있습니다.",
-      "summary": [
-        "업계 선두 기업의 86%가 관세로 인해 공급망 혼란을 겪고 있습니다."
-      ],
-      "whyImportant": "공급망에 미치는 관세의 영향은 상당합니다.",
-      "importanceRationale": "근거: 업계 리더의 대다수가 관세로 인한 공급망 차질을 경험하고 있다는 사실은 관세가 비즈니스 운영에 미치는 광범위한 영향을 시사합니다.",
-      "impactSignals": [],
-      "dedupeKey": "tariff_supply_chain_disruption_86_percent",
-      "clusterKey": "abasto",
-      "matchedTo": null,
-      "sourceName": "abasto.com",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUGp0dG4zUWt4dzl2bnk2LVh2RXl2YzhHM3VaMlFzMFRHXy14VVFkSVIybVZJYkYxaUJ1X0dtNmUxUWVEel9uejlsNTYtM2lBdWJPczVLdWhwcENrUlktRUFfTTZadXhLUlRlYWFxNlR5a1lESEl0UW5NNGktaUhDQXJhdW41SEJkeW5SNlZGaHBiQ2FLQ2xZ?oc=5",
-      "publishedAt": "2026-03-18T14:51:13.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 50,
-      "qualityLabel": "ok",
-      "qualityReason": "The article provides a clear and direct statement about the impact of tariffs. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-03-19_4",
-      "date": "2026-03-19",
       "category": "경제",
       "title": "전문가들, 데이터 센터 성장세는 투기적",
       "summary": [
-        "전문가들은 데이터 센터의 성장세가 투기적이라고 말합니다.",
-        "Southern Environmental Law Center에서 밝힘."
+        "전문가들은 데이터 센터의 성장이 투기적이라고 말합니다.",
+        "Southern Environmental Law Center에서 발표했습니다."
       ],
-      "whyImportant": "데이터 센터 성장세에 대한 전문가의 회의적인 시각",
-      "importanceRationale": "근거: 데이터 센터 성장에 대한 전문가의 의견을 직접적으로 제시하고 있습니다.",
-      "impactSignals": [
-        {
-          "label": "policy",
-          "evidence": "데이터 센터 성장에 대한 규제 또는 정책 변화 가능성 시사"
-        }
-      ],
+      "whyImportant": "데이터 센터 성장세에 대한 전문가의 의견은 투자 및 환경 정책에 영향을 미칠 수 있습니다.",
+      "importanceRationale": "근거: 데이터 센터 성장에 대한 전문가의 평가는 향후 투자 결정과 관련 정책 방향에 중요한 지침을 제공할 수 있기 때문입니다.",
+      "impactSignals": [],
       "dedupeKey": "data_center_growth_speculative",
       "clusterKey": "center",
       "matchedTo": null,
@@ -125,10 +25,95 @@
       "publishedAt": "2026-03-18T13:57:51.000Z",
       "readTimeSec": 10,
       "status": "kept",
+      "importance": 2,
+      "importanceRaw": 63,
+      "qualityLabel": "ok",
+      "qualityReason": "기사 제목과 내용이 일치하며, 정보가 간결하게 제공됨. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-03-19_2",
+      "date": "2026-03-19",
+      "category": "에너지",
+      "title": "EIA, 데이터 센터 수요로 인해 ERCOT 전력 가격이 79% 상승할 수 있다고 경고",
+      "summary": [
+        "미국 에너지정보청(EIA)은 데이터 센터 수요 증가로 인해 텍사스 전력 신뢰성 위원회(ERCOT)의 전력 가격이 최대 79%까지 상승할 수 있다고 경고했습니다.",
+        "데이터 센터 건설 붐이 전력 수요를 증가시키고 있습니다."
+      ],
+      "whyImportant": "데이터 센터의 전력 수요 증가가 에너지 시장에 미치는 영향을 보여줍니다.",
+      "importanceRationale": "근거: 데이터 센터 수요 증가가 전력 가격 상승으로 이어질 수 있다는 EIA의 경고는 에너지 시장의 중요한 변화를 시사합니다.",
+      "impactSignals": [],
+      "dedupeKey": "EIA_ERCOT_Power_Prices_Data_Center_Demand",
+      "clusterKey": "에너지/center",
+      "matchedTo": null,
+      "sourceName": "Construction Owners Club",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNN0h6Z0JpOHI0ajlNWkNlNi1mTTE1alNnZXBTLW9jTGJpWmo2NVAzb2Z0WUtzc01LX0hMbUlubEh1THdLYXdta0ZGSVVLZXRPamd6R0NlT0VCREhQR1F4cXdrd254UENtVnNMTHI2eFhsb0xmWUtZYTk5TktzSjN2TjhWa1c5OEtV?oc=5",
+      "publishedAt": "2026-03-18T12:20:47.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 75,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 내용이 일치하며, 정보가 명확합니다. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-03-19_3",
+      "date": "2026-03-19",
+      "category": "정책",
+      "title": "POWER 법안이 위원회에 계류 중인 가운데 일리노이 데이터 센터 규제에 대한 정치적 의지 증가",
+      "summary": [
+        "일리노이 주에서 데이터 센터 규제에 대한 정치적 의지가 커지고 있습니다.",
+        "POWER 법안은 현재 위원회에 계류 중입니다."
+      ],
+      "whyImportant": "일리노이 데이터 센터 규제에 대한 정책 변화 가능성.",
+      "importanceRationale": "근거: 데이터 센터 규제에 대한 정치적 의지가 증가하고 있으며, 이는 관련 정책 및 투자에 영향을 미칠 수 있습니다.",
+      "impactSignals": [
+        {
+          "label": "policy",
+          "evidence": "데이터 센터 규제에 대한 정치적 의지 증가"
+        }
+      ],
+      "dedupeKey": "illinois_datacenter_regulation_20240110",
+      "clusterKey": "에너지/center",
+      "matchedTo": null,
+      "sourceName": "WTTW News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWVFrSFBPZV9uSG00VG1KaUxDZGw5M1hyZDRYNzl4U0ZYVmZ4WUZJeDFKUFhfRG42T2VqT0hfdjlsem9FSXZnVExrblJweXkwa2k2akZ6VnFfczlfNVFleTFjRGRISXlsWUk4R2h6YWpreXFGcmtQVlZoWVNlQ2J2UERKbHVfdzYweXdDb01ZSUdsWFoyMEx0SUZvcXRHbVUzdmdlYV9mclRyRHVpM24yRHVKdUI?oc=5",
+      "publishedAt": "2026-03-18T18:56:50.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
       "importance": 3,
       "importanceRaw": 50,
       "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 내용이 일치하며, 간결하게 요약되었습니다.",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었습니다.",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-03-19_4",
+      "date": "2026-03-19",
+      "category": "기술",
+      "title": "5년 전망: AI, 인력 없이 공급망 차질의 60% 해결",
+      "summary": [
+        "향후 5년 안에 AI가 인력 없이 공급망 차질의 60%를 해결할 것으로 예측됨."
+      ],
+      "whyImportant": "AI가 공급망 관리에 미치는 영향력 증가",
+      "importanceRationale": "근거: AI가 공급망 차질 해결에 중요한 역할을 할 것이라는 예측은 기업의 수익과 인프라 투자에 영향을 미칠 수 있음.",
+      "impactSignals": [],
+      "dedupeKey": "AI resolves supply chain disruptions",
+      "clusterKey": "chain",
+      "matchedTo": null,
+      "sourceName": "DC Velocity",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQQlBIcWlqYnpDeHUxUERMaUpycTUwaTRveUVPMnBYWWlRbWxiajlQTTV4WjZVT013Rnc4ZW9WOUVvVzNyeVdiWnAybzhXeDl2aGUyT2l6d24tODVPbU1zQWkxaDZoTDFYS2xMcmZ4M2hwNHcxR1FYOFQwb3pNN0U3SEtHaU9MdVVRNFJialVySEhHUU9rVE1lZkVGbVNzd1NzZkNEQk96OXFOZVpqQVUwY3pzOVVhUmtaMVRsUDVJc1oyR2VjT19xamN0V2JTLW1MTDQxNUU5dXVKUQ?oc=5",
+      "publishedAt": "2026-03-18T18:52:51.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 63,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 내용이 일치하며, 정보가 간결하게 제공됨. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -136,31 +121,144 @@
       "id": "2026-03-19_5",
       "date": "2026-03-19",
       "category": "경제",
-      "title": "제너럴 밀스 3분기 실적, 예상치 하회, 매출 8% 감소",
+      "title": "LULU 4분기 심층 분석: 관세, 미국 트래픽, 마진 압박이 전망을 형성",
       "summary": [
-        "제너럴 밀스의 3분기 실적이 예상치를 하회했습니다.",
-        "매출은 전년 대비 8% 감소했습니다."
+        "LULU의 4분기 실적은 관세, 미국 트래픽, 마진 압박의 영향을 받았습니다.",
+        "이러한 요소들이 LULU의 전망을 형성하는 데 중요한 역할을 했습니다."
       ],
-      "whyImportant": "제너럴 밀스의 실적 부진은 식품 산업 전반에 대한 투자 및 시장 수요에 영향을 미칠 수 있습니다.",
-      "importanceRationale": "근거: 매출 감소는 소비자 수요 변화를 반영하며, 이는 제너럴 밀스의 자본 지출 계획 및 투자 전략에 영향을 줄 수 있습니다. 또한, 실적 부진은 주가 하락으로 이어져 투자 심리에 부정적인 영향을 미칠 수 있습니다.",
+      "whyImportant": "LULU의 실적에 영향을 미치는 요인을 파악하는 것이 중요합니다.",
+      "importanceRationale": "근거: LULU의 4분기 실적에 영향을 준 관세, 미국 트래픽, 마진 압박은 향후 실적에도 지속적으로 영향을 미칠 수 있기 때문입니다.",
       "impactSignals": [],
-      "dedupeKey": "general_mills_q3_earnings_miss",
-      "clusterKey": "decline",
+      "dedupeKey": "LULU_Q4_Tariffs_Traffic_Margins",
+      "clusterKey": "deep",
       "matchedTo": null,
-      "sourceName": "TradingView",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSzdJQi05MVRueHlhT2k2dXd2dHlneWNXWXpYUzBTTHhlcUhyWVRGbVNYZW9lUFZzenlKZDR2ZFJSS2k3X2lKNldKU2xTOHdmT1ZCbGM1X19XaTk2YzV3ZmRrUEJaMjdSUGtCVmhqNjRxVWVzLU1sNlp5SXp6d196TFZIYVpzOEpNa1FvaXFSRF9vOHJrWXBLb0o0dGp0R1pRcVNoaWd5SlBLNmdFbmo0ai1FZkMtdVk?oc=5",
-      "publishedAt": "2026-03-18T16:10:00.000Z",
+      "sourceName": "StockStory",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPV0VfVWFONXl6b3VBLW5QMHNySEdfcmNiaDMzdnlveVgtV0ItMG5wUWw0RmlhTlhtQ0k3QmtnVDVCMTlVOC0yNzdPME01YmJBeExhb2psR3piX1gyUnU0RnpKVG05SEx0T2ktWDBUeDhyM1FBbjJoRnAwWFBId3ZZeDFNR25xd3V6eV9yZEtiaGJxcFpwZ1FHY0JkTXhZMkdfT21BeUMybTVseFJpSW1fMXg1STBZTjNPQU5IUmk5bnBJcU1QN09RYmxjam4xVDQw?oc=5",
+      "publishedAt": "2026-03-18T18:17:34.000Z",
       "readTimeSec": 10,
       "status": "kept",
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "The article provides factual information about General Mills' earnings and sales. / 근거부족",
+      "qualityReason": "The article provides a concise overview of the factors influencing LULU's Q4 performance. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-03-19_6",
+      "date": "2026-03-19",
+      "category": "경제",
+      "title": "Fed, 기준금리 동결 속 ‘물가 상향’…올해 인플레이션 2.7% 전망",
+      "summary": [
+        "미국 연방준비제도(Fed)가 기준금리를 동결했다.",
+        "올해 인플레이션 전망치를 2.7%로 상향 조정했다."
+      ],
+      "whyImportant": "미국 연준의 금리 결정 및 인플레이션 전망은 세계 경제에 중요한 영향을 미친다.",
+      "importanceRationale": "근거: 연준의 정책 변화는 글로벌 금융 시장의 변동성을 야기할 수 있으며, 특히 인플레이션 전망은 투자 및 소비 심리에 직접적인 영향을 줄 수 있다.",
+      "impactSignals": [],
+      "dedupeKey": "Fed_rate_freeze_inflation_outlook_2024",
+      "clusterKey": "fed",
+      "matchedTo": null,
+      "sourceName": "한국경제",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBIWnpYNUctR2VTOUlab2ZwZnUyODA2RzNvMjYwVkRvNWxEMGYwalR4WUNveVhfVGdqWlQtTFd5X0NMNVpWSmlVUHNCeE1HVmptUU1CSnRBdVhyQdIBVEFVX3lxTE83NmJFUkcwVWhJcExsa1YxNnpIdWhtMFJ5OEZTNWl4RDlCWmpJM0tsRmNHZVJzOEhQNVFCdDAzYU8tS1hhV2Z3MGcxakZMNVAxZF90Tg?oc=5",
+      "publishedAt": "2026-03-18T18:13:44.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 75,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 본문이 일치하며, 간결하게 핵심 내용을 전달한다. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-03-19_7",
+      "date": "2026-03-19",
+      "category": "기술",
+      "title": "Apple macOS 26.3.1 백그라운드 보안 개선: Safari 고위험 취약점 보호",
+      "summary": [
+        "Apple macOS 26.3.1이 Safari 브라우저의 고위험 취약점을 보호하기 위한 백그라운드 보안 개선 사항을 포함합니다.",
+        "이번 업데이트는 사용자들에게 더 안전한 브라우징 환경을 제공하는 데 목적이 있습니다."
+      ],
+      "whyImportant": "macOS 사용자는 Safari 브라우저의 보안을 강화하기 위해 업데이트해야 합니다.",
+      "importanceRationale": "근거: macOS 26.3.1 업데이트는 Safari 브라우저의 고위험 취약점을 직접적으로 해결하여 사용자 보안을 강화합니다.",
+      "impactSignals": [],
+      "dedupeKey": "macos_26.3.1_safari_security",
+      "clusterKey": "apple",
+      "matchedTo": null,
+      "sourceName": "zeera wireless",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMimANBVV95cUxPYmYxaFBtNDNaWnRUQ1dHNFUtWkwzbkpuX2xJM3VRUWgxS2dSeUZfaDBreGtfVlVwUWZLWldDREJLSXlkQmMxTFR3ckJqUE56VjJidzdpeG5jSkxES21RTXB5OURyVjZYWDFFbjJHeV9xN2dJcTk2ZF9KdnRqTHo5OFlmU2tzZW1iRHpscTliVDRhTGtwV0xyRmpEQV91S3ZKTVZmRGswU0VqMENXd3h3UFVfNnRyamRaVEhtLXBpenFBQ3lRdWFaclVBZEpaNzBxSjRWbExIRFJtZE5IbF9JVDJUODBUTmt2YjVxZ19DMXdSSmZ5NWhEWHVRbnBYT2RDUjd5bDJqNWxpV0hDQ0hJVXNkdm5yT1NiblgxdU9KdzJVeDR5MldpMnMwRXNfekhvNUV6MnZ4MDRjRThhMW9iNVlndjZTam9FQ3lvSFlqeTRJaUxTWk9UaWRXQlFESDhoa2NNM0dTSTFoRm1pSTV0cTIteFJKelRUOGd3ZlZaaDVIZFFDWDFvU2NweUV4UTQ2R0VVQ2NfTTQ?oc=5",
+      "publishedAt": "2026-03-18T17:37:39.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 75,
+      "qualityLabel": "ok",
+      "qualityReason": "기사 제목과 내용이 일치하며, 정보가 명확합니다. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-03-19_8",
+      "date": "2026-03-19",
+      "category": "에너지",
+      "title": "신규 원전 차질 없이 건설 및 원자력 수소 생산 기반 마련",
+      "summary": [
+        "신규 원전 건설을 차질 없이 진행하고 원자력 수소 생산 기반을 마련할 계획입니다."
+      ],
+      "whyImportant": "원자력 발전과 수소 에너지 생산의 연계를 통해 에너지 안보를 강화하고 탄소 중립 목표 달성에 기여할 수 있습니다.",
+      "importanceRationale": "근거: 신규 원전 건설과 원자력 수소 생산 기반 마련은 에너지 정책의 중요한 방향을 제시하며, 관련 산업에 대한 투자와 기술 개발을 촉진할 수 있습니다.",
+      "impactSignals": [
+        {
+          "label": "capex",
+          "evidence": "신규 원전 건설 및 원자력 수소 생산 기반 마련"
+        }
+      ],
+      "dedupeKey": "new-nuclear-hydrogen-production",
+      "clusterKey": "건설하고",
+      "matchedTo": null,
+      "sourceName": "이투뉴스",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9vd3hzQm1QZ0QxUWRQS04xb3M1R2M2dGc1QU9nZDNISkEzTHVUSU5YYm40X0tfMUZmTU5tc29kM0l0TVYxQ004WE81N1RQN0I3ekZLZi1QNTZDRXpmODVHZFFoZFBONUE?oc=5",
+      "publishedAt": "2026-03-18T08:45:05.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 4,
+      "importanceRaw": 75,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 내용이 일치하며, 핵심 내용을 간결하게 요약했습니다.",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-03-19_9",
+      "date": "2026-03-19",
+      "category": "기술",
+      "title": "\"전력이 없으면 AI도 없다\"...데이터센터 전쟁, 기업보다 느린 정치권 대응",
+      "summary": [
+        "데이터센터 구축 경쟁이 심화되는 가운데, 전력 공급 부족 문제가 부각되고 있다.",
+        "기업들의 데이터센터 투자가 활발하지만, 정치권의 대응은 미흡하다는 지적이 나온다.",
+        "AI 기술 발전을 위해서는 안정적인 전력 공급이 필수적이다."
+      ],
+      "whyImportant": "데이터센터 구축 경쟁 심화와 전력 공급 부족 문제",
+      "importanceRationale": "근거: 데이터센터는 AI 기술 발전에 필수적인 인프라로, 전력 공급 부족은 AI 산업 성장에 직접적인 영향을 미칠 수 있다. 기업들의 투자와 정치권의 대응 간의 불균형은 문제 해결을 더욱 어렵게 만든다.",
+      "impactSignals": [],
+      "dedupeKey": "power-ai-datacenter-war",
+      "clusterKey": "에너지/ai도",
+      "matchedTo": null,
+      "sourceName": "여성경제신문",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBtY295akFqR2pUU0ZrQmVRTW9RckU3b2tNYURxVVJiNG9BOFRYQmJrU1hRckRLTXNaNFNaMTBkWHhaRzY0WTEzVVoxdjBtTzRSTGMxOVdsdjNlU3Q3TFVCLWUteDRqUGJSQU9NLVJESF91NFlUaHZJ?oc=5",
+      "publishedAt": "2026-03-18T08:25:22.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 75,
+      "qualityLabel": "ok",
+      "qualityReason": "기사 제목과 내용이 일치하며, 핵심 내용을 잘 요약하고 있다. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-03-19_10",
       "date": "2026-03-19",
       "category": "정책",
       "title": "보건복지부, 상반기 내 '임신중단 대체 입법' 정부안 마련 예정",
@@ -182,53 +280,21 @@
       "importance": 2,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "기사의 내용이 명확하고 사실에 기반하고 있다. / 근거부족",
+      "qualityReason": "기사의 내용이 명확하고 간결하며, 핵심 정보를 잘 전달하고 있다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-03-19_7",
+      "id": "2026-03-19_11",
       "date": "2026-03-19",
       "category": "경제",
-      "title": "금융위, 재고 부풀린 볼빅에 과징금 17.7억 부과",
+      "title": "CJ올리브영, 작년 매출 5조8335억원 기록…전년 대비 22% 증가",
       "summary": [
-        "금융위원회가 재고를 부풀린 볼빅에 대해 17.7억 원의 과징금을 부과했습니다.",
-        "전 대표 등에게는 2.9억 원의 과징금이 부과되었습니다."
-      ],
-      "whyImportant": "재고 부풀리기는 시장 질서를 해치는 행위이므로 금융위의 제재는 중요합니다.",
-      "importanceRationale": "근거: 금융위원회가 재고를 부풀린 행위에 대해 과징금을 부과한 것은 시장의 투명성과 공정성을 확보하기 위한 중요한 조치입니다.",
-      "impactSignals": [
-        {
-          "label": "market-demand",
-          "evidence": "재고 부풀리기는 시장 수요를 왜곡할 수 있습니다."
-        }
-      ],
-      "dedupeKey": "볼빅_과징금_17.7억",
-      "clusterKey": "7억",
-      "matchedTo": null,
-      "sourceName": "매일경제 마켓",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9lMGFwZmdhRXQ0VVR2VnRZbllPeHZSZ2Utc2EwMjRQS1dOaG9qZnVDemxaU2RrMG9SbVh1YVJFdmdJbGZwVVZtM1lENkZTRERDdFE?oc=5",
-      "publishedAt": "2026-03-18T13:33:14.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 3.5,
-      "importanceRaw": 63,
-      "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었습니다.",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-03-19_8",
-      "date": "2026-03-19",
-      "category": "경제",
-      "title": "CJ올리브영, 작년 매출 5조8335억원…전년 대비 22% 증가",
-      "summary": [
-        "CJ올리브영은 작년 매출이 5조 8335억원으로 집계되었다.",
+        "CJ올리브영은 작년 매출이 5조8335억원으로 집계됐다고 발표했다.",
         "이는 전년 대비 22% 증가한 수치이다."
       ],
-      "whyImportant": "CJ올리브영의 매출 증가는 국내 뷰티 및 헬스 시장의 성장세를 보여주는 지표이다.",
-      "importanceRationale": "근거: CJ올리브영의 매출 증가는 기업의 성장뿐만 아니라 관련 시장의 활성화 정도를 나타내는 중요한 지표로 해석될 수 있다.",
+      "whyImportant": "CJ올리브영의 매출 증가는 국내 뷰티 및 헬스 시장의 성장세를 반영합니다.",
+      "importanceRationale": "근거: CJ올리브영의 매출 증가는 관련 시장의 성장과 소비자 트렌드를 파악하는 데 중요한 지표가 됩니다.",
       "impactSignals": [
         {
           "label": "earnings",
@@ -246,102 +312,66 @@
       "importance": 3.5,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "기사 내용이 간결하고 명확하게 사실을 전달하고 있다.",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-03-19_9",
-      "date": "2026-03-19",
-      "category": "에너지",
-      "title": "에너지 관리 스타트업 GridBeyond, 1200만 달러 자금 조달",
-      "summary": [
-        "에너지 관리 스타트업 GridBeyond가 1200만 달러의 자금을 조달했습니다.",
-        "이번 자금 조달은 데이터 센터 역량 강화에 사용될 예정입니다."
-      ],
-      "whyImportant": "GridBeyond의 자금 조달은 에너지 관리 분야의 투자 증가를 의미합니다.",
-      "importanceRationale": "근거: GridBeyond가 1200만 달러의 자금을 유치했으며, 이는 에너지 관리 솔루션에 대한 투자자들의 관심을 보여줍니다.",
-      "impactSignals": [
-        {
-          "label": "capex",
-          "evidence": "GridBeyond가 1200만 달러의 자금을 조달하여 데이터 센터 역량 강화에 투자할 계획입니다."
-        }
-      ],
-      "dedupeKey": "gridbeyond_12m_funding",
-      "clusterKey": "에너지/12m",
-      "matchedTo": null,
-      "sourceName": "Data Center Dynamics",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbjQ0M0p0TEttNmVhQ0hmM3NaNk9Jdko2ZGl1Z0hkcUduOVlGSDNqdUVYWkprOWZQalB5S0dfeXZnT1J0WXhWLWM0UUp1SG9vaktSVGFqeXF5OVcyMTJ2MmhINk4tNWg0TU1fRjE0S1FBX1E3dVdqZURGdDVJU2ZkV0RyOTFmUS1neHBrYk1ZalVKRlRXaEZXUEFkczYtd3EwRVhURDZSS1A?oc=5",
-      "publishedAt": "2026-03-18T11:52:47.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 3.5,
-      "importanceRaw": 63,
-      "qualityLabel": "ok",
-      "qualityReason": "기사 내용이 명확하고 간결합니다.",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-03-19_10",
-      "date": "2026-03-19",
-      "category": "에너지",
-      "title": "신규 원전 차질 없는 건설 및 원자력 수소 생산 기반 마련",
-      "summary": [
-        "신규 원전 건설을 차질 없이 진행하고 원자력 수소 생산 기반을 마련한다."
-      ],
-      "whyImportant": "원자력 에너지 산업의 발전 방향을 제시하는 정책 목표를 담고 있습니다.",
-      "importanceRationale": "근거: 신규 원전 건설과 원자력 수소 생산 기반 마련은 에너지 안보 및 미래 에너지 기술 확보에 중요한 영향을 미치기 때문입니다.",
-      "impactSignals": [
-        {
-          "label": "capex",
-          "evidence": "신규 원전 건설 및 원자력 수소 생산 기반 마련은 상당한 자본 지출을 필요로 합니다."
-        }
-      ],
-      "dedupeKey": "신규원전차질없이건설하고원자력수소생산기반마련",
-      "clusterKey": "건설하고",
-      "matchedTo": null,
-      "sourceName": "이투뉴스",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9vd3hzQm1QZ0QxUWRQS04xb3M1R2M2dGc1QU9nZDNISkEzTHVUSU5YYm40X0tfMUZmTU5tc29kM0l0TVYxQ004WE81N1RQN0I3ekZLZi1QNTZDRXpmODVHZFFoZFBONUE?oc=5",
-      "publishedAt": "2026-03-18T08:45:05.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 3.5,
-      "importanceRaw": 63,
-      "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되어 있습니다.",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-03-19_11",
-      "date": "2026-03-19",
-      "category": "정책",
-      "title": "국회입법조사처 설립 19주년 기념식 개최, 인력 및 예산 확충 필요성 강조",
-      "summary": [
-        "국회입법조사처가 설립 19주년 기념식을 개최했다.",
-        "기념식에서는 조사처의 인력과 예산 확충 필요성이 강조되었다."
-      ],
-      "whyImportant": "국회입법조사처의 역량 강화는 입법 활동 지원에 중요한 영향을 미친다.",
-      "importanceRationale": "근거: 국회입법조사처의 인력 및 예산 확충 필요성 강조는 정책 결정 과정에 대한 지원 강화 의지를 나타낸다.",
-      "impactSignals": [],
-      "dedupeKey": "국회입법조사처 설립 19주년 기념식",
-      "clusterKey": "19주년",
-      "matchedTo": null,
-      "sourceName": "everynews.co.kr",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5DTHVBaHBibU55RHdpcFJlVVpHdzVDRW1rUDRvb3o1LVZsYTBWSVRGdTFPbEhDR2xNNXF1enRZYUZOMjY3UkJJOHNUeVhXSGNlM0N1SW5JNnU1LTM1VDVsNHNfZ0NLb3dNc0stYw?oc=5",
-      "publishedAt": "2026-03-18T08:33:23.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 63,
-      "qualityLabel": "ok",
-      "qualityReason": "기사 내용이 간결하고 명확함. / 근거부족",
+      "qualityReason": "정확한 수치와 간결한 정보 제공",
       "isBriefing": false,
       "isBreaking": false
     },
     {
       "id": "2026-03-19_12",
+      "date": "2026-03-19",
+      "category": "경제",
+      "title": "벤처 캐피탈, AI로 기울고 비AI 스타트업은 자금 압박에 직면",
+      "summary": [
+        "벤처 캐피탈이 인공지능(AI) 분야로 투자를 집중하고 있습니다.",
+        "AI 외 스타트업들은 자금 확보에 어려움을 겪고 있습니다."
+      ],
+      "whyImportant": "AI 기술 경쟁 심화 및 관련 스타트업 투자 증가 추세.",
+      "importanceRationale": "근거: 벤처 캐피탈의 투자 동향 변화는 AI 기술의 중요성 증가와 시장 경쟁 심화를 반영하며, 이는 관련 산업 전반에 영향을 미칠 수 있습니다.",
+      "impactSignals": [],
+      "dedupeKey": "venture-capital-ai-funding-squeeze",
+      "clusterKey": "금융/capital",
+      "matchedTo": null,
+      "sourceName": "HackerNoon",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeUEycEZVMGVZQnBGWkdPVENhZWVMQk9XdVRiMkJieTdXZ25teEk2S1Z4RUthdEdjXzZZeUVkek0yNG80eWVRak82Uk91WWN4ODFIQWp1YnNLWFJuSTVpNk1sNHdKYXRDYkpLY1pUd0ZzOTVwYXlsV2dPNGk4cDF5cWRDUXM3SlJuMXc4QUlNU3dfSTdqQ0ZVVUdB?oc=5",
+      "publishedAt": "2026-03-17T17:04:37.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 75,
+      "qualityLabel": "ok",
+      "qualityReason": "The article provides a clear and concise overview of a significant trend in venture capital investment. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-03-19_13",
+      "date": "2026-03-19",
+      "category": "국제",
+      "title": "Anthropic PBC 대 전쟁부 소송에 대한 법정 조언자 의견서",
+      "summary": [
+        "Anthropic PBC와 전쟁부 간의 소송에서 법정 조언자 의견서가 제출되었습니다.",
+        "이 의견서는 법치주의 사회와 관련이 있습니다."
+      ],
+      "whyImportant": "이 소송은 법치주의와 관련된 중요한 정책적 함의를 가질 수 있습니다.",
+      "importanceRationale": "근거: 법정 조언자 의견서는 법적 논쟁에 대한 다양한 관점을 제공하며, 특히 법치주의 사회와 관련된 경우 정책 결정에 영향을 미칠 수 있습니다.",
+      "impactSignals": [],
+      "dedupeKey": "amicus-briefs-anthropic-pbc-vs-department-of-war",
+      "clusterKey": "amicus",
+      "matchedTo": null,
+      "sourceName": "Society for the Rule of Law",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBzVFlUbF9wXzBSMkJ2NnkzS1psLTUxNEJnN3Q5alhkYk5LNjl3cktGY2owS0NKUzRPd2NCYmJlRGdtTXh1YnpFNG1MOTY4bHNjMlM2a3lZRXBySmpOcXNnMkNJSkdpYV9HUzR6RGZfMA?oc=5",
+      "publishedAt": "2026-03-18T15:17:36.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 63,
+      "qualityLabel": "ok",
+      "qualityReason": "기사 제목과 텍스트가 일치하며, 정보가 명확하게 전달됩니다. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-03-19_14",
       "date": "2026-03-19",
       "category": "정책",
       "title": "정부, 중복 상장 원칙 금지 발표… 기업 및 투자 업계 우려",
@@ -363,20 +393,20 @@
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 정책 변화에 대한 정보를 제공함. / 근거부족",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약됨. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-03-19_13",
+      "id": "2026-03-19_15",
       "date": "2026-03-19",
       "category": "국제",
       "title": "코딧, 글로벌 규제 비교·대응 지원 정책 AI ‘챗코딧’ 출시",
       "summary": [
         "코딧이 글로벌 규제 비교 및 대응을 지원하는 정책 AI '챗코딧'을 출시했다."
       ],
-      "whyImportant": "정책 AI '챗코딧' 출시로 기업의 글로벌 규제 대응 능력이 향상될 수 있다.",
-      "importanceRationale": "근거: 코딧이 출시한 '챗코딧'은 글로벌 규제 비교 및 대응을 지원하는 AI로, 기업의 정책 준수 및 전략 수립에 중요한 역할을 할 수 있다.",
+      "whyImportant": "정책 AI '챗코딧' 출시로 기업의 글로벌 규제 대응이 용이해질 수 있다.",
+      "importanceRationale": "근거: 코딧이 출시한 '챗코딧'은 글로벌 규제 비교 및 대응을 지원하는 AI 정책 도구이다.",
       "impactSignals": [],
       "dedupeKey": "코딧, 글로벌 규제 비교·대응 지원 정책 AI ‘챗코딧’ 출시",
       "clusterKey": "규제",
@@ -389,60 +419,7 @@
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "기사 내용이 간결하고 명확하며, 핵심 정보를 잘 전달하고 있다. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-03-19_14",
-      "date": "2026-03-19",
-      "category": "국제",
-      "title": "인젝티브 버그바운티 논란: 치명적 취약점 신고에 대한 헐값 보상",
-      "summary": [
-        "인젝티브에서 버그바운티 프로그램에 대한 논란이 발생했습니다.",
-        "치명적인 취약점을 신고했음에도 불구하고 낮은 보상금이 지급되었다는 주장이 제기되었습니다."
-      ],
-      "whyImportant": "보안 취약점 보고에 대한 적절한 보상 체계의 중요성을 강조합니다.",
-      "importanceRationale": "근거: 버그바운티 프로그램은 프로젝트의 보안을 강화하는 데 중요한 역할을 하며, 적절한 보상은 보안 연구자들의 참여를 유도합니다.",
-      "impactSignals": [],
-      "dedupeKey": "injective_bug_bounty_low_reward",
-      "clusterKey": "논란",
-      "matchedTo": null,
-      "sourceName": "디지털애셋",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMickFVX3lxTE5wdHBVbTJ3dUlBV0RueVlKYXdSUzRBMDlyWWRfM3hEc29lNGJrTWF1UERhdEdaeVg1N1ZHM3Z4TkJCbXdJOGNFbWszOGQxM0NSVWRyZ1JTZjNla3llRF9MaUFWYmR3WDhrb19JejNwcngxQQ?oc=5",
-      "publishedAt": "2026-03-18T07:10:00.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 63,
-      "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 핵심 내용을 요약했습니다. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-03-19_15",
-      "date": "2026-03-19",
-      "category": "에너지",
-      "title": "에너지 안보와 탄소 중립 동시 달성: 원자력 발전 역할 재확인",
-      "summary": [
-        "에너지 안보와 탄소 중립 목표를 동시에 달성하기 위해 원자력 발전의 역할이 재확인되었습니다."
-      ],
-      "whyImportant": "에너지 안보와 탄소 중립이라는 두 가지 중요한 목표를 동시에 추구하는 데 원자력 발전이 기여할 수 있음을 시사합니다.",
-      "importanceRationale": "근거: 원자력 발전이 에너지 안보와 탄소 중립에 동시에 기여할 수 있다는 점을 강조하고 있습니다.",
-      "impactSignals": [],
-      "dedupeKey": "energy_security_carbon_neutrality_nuclear_reaffirmation",
-      "clusterKey": "에너지/달성",
-      "matchedTo": null,
-      "sourceName": "인사이트N파워",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBYQmRtdWNxVkZBUll1di1lQy1GaVhIWldMMExDR0QwS19fblBYcHFua2ZfZmt2Vm9aNll0Z1lBTGxQYTBtWmJITmNvdkMyZlpXemM0dTZiVHFUakRzSVZBdUNxc05rUQ?oc=5",
-      "publishedAt": "2026-03-18T06:29:28.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 63,
-      "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 정보가 간결하고 명확합니다. / 근거부족",
+      "qualityReason": "기사 내용이 간결하고 명확함 / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -455,10 +432,10 @@
         "국내 제약사의 약가 인하와 다국적 제약사의 신약 병용 급여에 대한 어필이 있었다.",
         "국회가 이 문제에 대한 해결을 할 것으로 기대된다."
       ],
-      "whyImportant": "국내 제약 산업 및 다국적 제약사의 신약 접근성에 영향을 미칠 수 있는 약가 인하 및 급여 관련 정책 방향을 시사한다.",
-      "importanceRationale": "근거: 약가 인하 및 신약 급여는 제약사의 수익성과 환자의 치료 접근성에 직접적인 영향을 미치는 중요한 정책적 결정 사항이다.",
+      "whyImportant": "국내 제약 산업 및 다국적 제약사의 신약 접근성에 영향을 미칠 수 있는 약가 인하 및 급여 관련 정책에 대한 논의가 진행 중이다.",
+      "importanceRationale": "근거: 약가 인하 및 신약 급여는 제약사의 수익성과 환자의 치료 접근성에 직접적인 영향을 미치는 중요한 정책적 결정이다.",
       "impactSignals": [],
-      "dedupeKey": "국회를 믿는다_국내제약 약가인하, 다국적사 신약 병용급여 어필",
+      "dedupeKey": "약가인하_신약급여_국회",
       "clusterKey": "국내제약",
       "matchedTo": null,
       "sourceName": "히트뉴스",
@@ -479,10 +456,10 @@
       "category": "정책",
       "title": "정부, 취약지 달빛어린이병원 협력약국 운영비 지원 검토",
       "summary": [
-        "정부가 취약 지역 달빛어린이병원과 협력하는 약국에 운영비 지원을 검토 중이다."
+        "정부가 취약 지역 달빛어린이병원과 협력하는 약국에 운영비 지원을 검토하고 있다."
       ],
       "whyImportant": "취약 지역의 야간 및 휴일 의약품 접근성 향상에 기여할 수 있다.",
-      "importanceRationale": "근거: 정부가 취약지 달빛어린이병원 협력약국 운영비 지원을 검토하고 있다는 정보에 기반함.",
+      "importanceRationale": "근거: 정부가 취약지 달빛어린이병원 협력약국 운영비 지원을 검토하고 있다는 직접적인 발표.",
       "impactSignals": [],
       "dedupeKey": "정부, 취약지 달빛어린이병원 협력약국 운영비 지원 검토",
       "clusterKey": "달빛어린이병원",
@@ -495,7 +472,7 @@
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약됨. / 근거부족",
+      "qualityReason": "기사 내용이 간결하고 명확하며, 정책 발표에 대한 직접적인 정보를 제공한다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -506,12 +483,12 @@
       "title": "한미, 관세 협상 합의…상호 관세 15%·현금 투자 年 상한 200억불",
       "summary": [
         "한국무역협회에 따르면 한미 양국이 관세 협상에 합의했다.",
-        "합의 내용은 상호 관세 15% 적용 및 현금 투자 연간 상한 200억불이다."
+        "합의 내용은 상호 관세 15%와 현금 투자 연간 상한 200억불이다."
       ],
       "whyImportant": "이번 합의는 양국 무역 관계에 중요한 영향을 미칠 수 있다.",
-      "importanceRationale": "근거: 상호 관세율 조정 및 투자 상한 설정은 무역 흐름과 투자 결정에 직접적인 영향을 줄 수 있기 때문이다.",
+      "importanceRationale": "근거: 상호 관세율 조정 및 현금 투자 상한 설정은 기업의 투자 결정 및 무역 전략에 직접적인 영향을 줄 수 있기 때문이다.",
       "impactSignals": [],
-      "dedupeKey": "hanmi-gwansye-hyeopsang-habui-20240126",
+      "dedupeKey": "hanmi-gwansye-hyeopsang-haguei-20240126",
       "clusterKey": "200억불",
       "matchedTo": null,
       "sourceName": "한국무역협회-KITA.NET",
@@ -522,7 +499,7 @@
       "importance": 2,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 간결하게 핵심 내용을 전달한다. / 근거부족",
+      "qualityReason": "기사 제목과 내용이 일치하며, 간결하게 핵심 내용을 전달한다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -535,10 +512,10 @@
         "미국과 중국이 파리에서 무역 협상을 진행했다.",
         "이번 협상은 트럼프-시진핑 정상회담을 준비하기 위한 것이다."
       ],
-      "whyImportant": "미국과 중국의 무역 협상 재개 및 정상회담 준비는 세계 경제에 중요한 영향을 미칠 수 있다.",
-      "importanceRationale": "근거: 미중 무역 관계는 글로벌 경제의 안정성과 성장에 핵심적인 요소이며, 양국 간의 합의는 시장에 긍정적인 신호로 작용할 수 있다.",
+      "whyImportant": "미국과 중국의 무역 협상 및 정상회담 준비는 세계 경제에 중요한 영향을 미칠 수 있다.",
+      "importanceRationale": "근거: 미중 무역 관계는 세계 경제의 안정과 성장에 중요한 요소이며, 양국 정상의 회담 결과에 따라 글로벌 무역 질서가 크게 변화할 수 있기 때문이다.",
       "impactSignals": [],
-      "dedupeKey": "미중무역협상_파리_정상회담준비",
+      "dedupeKey": "미중무역협상_파리_2024",
       "clusterKey": "마켓인",
       "matchedTo": null,
       "sourceName": "마켓인",
@@ -550,6 +527,32 @@
       "importanceRaw": 75,
       "qualityLabel": "ok",
       "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되어 있음. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-03-19_20",
+      "date": "2026-03-19",
+      "category": "국제",
+      "title": "앤디 재시 아마존 CEO, 10년 뒤 AWS 매출 6000억 달러 전망",
+      "summary": [
+        "앤디 재시 아마존 CEO가 10년 뒤 AWS 매출이 6000억 달러에 달할 것으로 전망했다."
+      ],
+      "whyImportant": "아마존의 미래 성장 동력에 대한 CEO의 자신감을 보여주는 발언이다.",
+      "importanceRationale": "근거: 아마존 CEO가 직접 AWS의 장기적인 성장 가능성을 언급하며 구체적인 매출 목표를 제시했다.",
+      "impactSignals": [],
+      "dedupeKey": "andy-jassy-amazon-aws-600b",
+      "clusterKey": "클라우드/10년",
+      "matchedTo": null,
+      "sourceName": "디일렉",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9KcGl1VTZDcS1VckNidTllRzhIU3lpY3dqNHhfQUM2MlRFVDQ4ZnY1QXpER2tMVU92UGJiVXBCUzZzcTRWNGx3NnNNMlQ1ZUQzcGJ1V1p3cnZRNWZ5NVFwMWdmdGJnZw?oc=5",
+      "publishedAt": "2026-03-18T07:23:59.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 63,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 본문이 일치하며, 간결하게 핵심 내용을 전달한다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     }
