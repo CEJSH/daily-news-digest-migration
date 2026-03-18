@@ -3,26 +3,80 @@
   "selectionCriteria": "① 내일도 영향이 남는 이슈 ② 과도한 감정 소모 제외 ③ 어제와 중복되는 뉴스 제외",
   "editorNote": "이 뉴스는 클릭 수가 아니라 오늘 이후에도 남는 정보만 기준으로 편집했습니다.",
   "question": "정보를 덜 보는 것이 오히려 더 똑똑한 소비일까?",
-  "lastUpdatedAt": "2026-03-19T05:32:43.921+09:00",
+  "lastUpdatedAt": "2026-03-19T06:35:12.996+09:00",
   "items": [
     {
       "id": "2026-03-19_1",
       "date": "2026-03-19",
+      "category": "에너지",
+      "title": "유가 다시 110달러 이상으로 상승…이란, 카타르 LNG 시설 공격 등의 영향",
+      "summary": [
+        "유가가 다시 110달러 이상으로 상승했습니다.",
+        "이란과 카타르 LNG 시설 공격 등이 유가 상승에 영향을 미쳤습니다."
+      ],
+      "whyImportant": "이란과 카타르의 LNG 시설 공격으로 인해 에너지 시장의 불안정성이 커지고 있습니다.",
+      "importanceRationale": "근거: LNG 시설 공격은 에너지 공급에 직접적인 영향을 미치며, 이는 유가 상승으로 이어질 수 있습니다.",
+      "impactSignals": [],
+      "dedupeKey": "oil-price-spike-iran-qatar-lng-attack",
+      "clusterKey": "110달러",
+      "matchedTo": null,
+      "sourceName": "마켓인",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9TSFhYQWRSSG9QN2hueV9NcVg0cGtWdUkwY0FyNHp0djdyTTR2X3puckoyaUZWdzIwSlk3LWs4QnozRmF0NTZTZlFzbFZycHlaa0xkLTZOTTdVcjM3QWtzbFBJUGVfZkpsVG9lR2hENW80YjA?oc=5",
+      "publishedAt": "2026-03-18T21:01:33.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 75,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 본문이 일치하며, 간결하게 핵심 내용을 전달합니다. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-03-19_2",
+      "date": "2026-03-19",
+      "category": "국제",
+      "title": "마이크론, AI 붐으로 인한 수요 급증으로 매출액 추정치 상회",
+      "summary": [
+        "메모리 칩 제조업체인 마이크론의 매출액이 AI 붐으로 인한 수요 급증으로 추정치를 상회했습니다.",
+        "이는 AI 기술 발전이 메모리 칩 시장에 긍정적인 영향을 미치고 있음을 시사합니다."
+      ],
+      "whyImportant": "AI 기술 발전으로 인한 메모리 칩 수요 증가를 보여주는 중요한 지표입니다.",
+      "importanceRationale": "근거: 마이크론의 매출액이 AI 붐으로 인해 추정치를 상회했다는 사실은 AI 기술 발전이 메모리 칩 시장에 미치는 직접적인 영향을 보여줍니다.",
+      "impactSignals": [],
+      "dedupeKey": "micron-ai-revenue-beat",
+      "clusterKey": "beats",
+      "matchedTo": null,
+      "sourceName": "Reuters",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMzNUOFJSSUtqMEVvcmJOaWFwWDdmMTAtZERCdkN3TnY5OGcyOGFGLVZVeDV3RWd6QTlIWnNoNDlNc0k2QTMyUWJqTy1jd04tNmFVLTZTTkI4ZGJlbmpKM0FhVGhLdGFCclNjU1NGenk2SE5pSTJCdnJMdm9PYTNUQ0xGbU5qZnlaMUpuMWR0dnNSZw?oc=5",
+      "publishedAt": "2026-03-18T20:05:55.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 75,
+      "qualityLabel": "ok",
+      "qualityReason": "The article provides a clear and concise report on Micron's revenue performance. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-03-19_3",
+      "date": "2026-03-19",
       "category": "기술",
-      "title": "POWER 법안이 상임위에 계류되면서 데이터 센터 규제에 대한 정치적 의지 증가",
+      "title": "POWER 법안이 상임위에 계류 중인 가운데 데이터 센터 규제에 대한 정치적 의지 증가",
       "summary": [
         "POWER 법안이 상임위에 계류 중인 가운데 데이터 센터 규제에 대한 정치적 의지가 커지고 있습니다.",
-        "Capitol News Illinois에 따르면 관련 논의가 활발하게 진행 중입니다."
+        "Capitol News Illinois에 따르면 관련 논의가 진행 중입니다."
       ],
-      "whyImportant": "데이터 센터 규제에 대한 정치적 의지 변화를 보여줍니다.",
-      "importanceRationale": "근거: 데이터 센터 규제 관련 법안의 진행 상황과 정치적 의지의 변화는 관련 산업 및 정책에 중요한 영향을 미칠 수 있습니다.",
+      "whyImportant": "데이터 센터 규제에 대한 정치적 의지 증가는 관련 산업에 중요한 영향을 미칠 수 있습니다.",
+      "importanceRationale": "근거: 데이터 센터 규제에 대한 정치적 의지가 증가함에 따라 관련 법안 및 정책 변화 가능성이 높아지고 있으며, 이는 데이터 센터 산업의 투자 및 운영 방식에 영향을 줄 수 있습니다.",
       "impactSignals": [
         {
           "label": "policy",
-          "evidence": "데이터 센터 규제 관련 법안 논의 진행 중"
+          "evidence": "데이터 센터 규제에 대한 정치적 의지 증가"
         }
       ],
-      "dedupeKey": "data_center_regulation_political_will_power_act",
+      "dedupeKey": "political_will_data_center_regulations_07232024",
       "clusterKey": "에너지/act",
       "matchedTo": null,
       "sourceName": "Capitol News Illinois",
@@ -33,55 +87,66 @@
       "importance": 3.5,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 정보가 명확합니다.",
+      "qualityReason": "기사 제목과 본문이 일치하며, 정보가 명확합니다.",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-03-19_2",
+      "id": "2026-03-19_4",
       "date": "2026-03-19",
-      "category": "국제",
-      "title": "관세로 인해 업계 선두 기업의 86%가 공급망 혼란을 겪고 있습니다.",
+      "category": "에너지",
+      "title": "EIA, 데이터 센터 수요로 인해 ERCOT 전력 가격이 79% 상승할 수 있다고 경고",
       "summary": [
-        "업계 선두 기업의 86%가 관세로 인해 공급망 혼란을 겪고 있습니다."
+        "미국 에너지정보청(EIA)은 데이터 센터 수요 증가로 인해 텍사스 전력 신뢰성 위원회(ERCOT)의 전력 가격이 최대 79%까지 상승할 수 있다고 경고했습니다.",
+        "데이터 센터의 전력 소비 증가는 전력망에 상당한 부담을 줄 수 있습니다.",
+        "이는 관련 산업의 투자 및 시장 수요에 영향을 미칠 수 있습니다."
       ],
-      "whyImportant": "공급망에 미치는 관세의 영향.",
-      "importanceRationale": "근거: 많은 업계 선두 기업들이 관세로 인해 공급망에 차질을 겪고 있다는 사실은 관세 정책이 비즈니스 운영에 미치는 중요한 영향을 시사합니다.",
-      "impactSignals": [],
-      "dedupeKey": "tariff_supply_chain_disruption_86_percent",
-      "clusterKey": "abasto",
-      "matchedTo": null,
-      "sourceName": "abasto.com",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUGp0dG4zUWt4dzl2bnk2LVh2RXl2YzhHM3VaMlFzMFRHXy14VVFkSVIybVZJYkYxaUJ1X0dtNmUxUWVEel9uejlsNTYtM2lBdWJPczVLdWhwcENrUlktRUFfTTZadXhLUlRlYWFxNlR5a1lESEl0UW5NNGktaUhDQXJhdW41SEJkeW5SNlZGaHBiQ2FLQ2xZ?oc=5",
-      "publishedAt": "2026-03-18T14:51:13.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 50,
-      "qualityLabel": "ok",
-      "qualityReason": "The information is presented factually. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-03-19_3",
-      "date": "2026-03-19",
-      "category": "경제",
-      "title": "마이크론, 예상치를 웃도는 2분기 실적과 3분기 전망 발표, 주가는 하락",
-      "summary": [
-        "마이크론이 예상보다 좋은 2분기 실적을 발표했다.",
-        "3분기 전망치도 상향 제시했다.",
-        "그럼에도 불구하고 주가는 하락했다."
-      ],
-      "whyImportant": "마이크론의 실적 발표는 반도체 산업의 현재 상황과 미래 전망을 엿볼 수 있는 중요한 지표이다.",
-      "importanceRationale": "근거: 마이크론은 주요 반도체 제조업체로서, 실적은 전체 산업의 건전성을 반영하며, 향후 투자 결정에 영향을 미칠 수 있다.",
+      "whyImportant": "데이터 센터의 전력 수요 급증이 에너지 시장에 미치는 잠재적 영향에 대한 경고입니다.",
+      "importanceRationale": "근거: EIA의 경고는 데이터 센터의 전력 소비 증가가 ERCOT 전력 가격에 미치는 상당한 영향을 강조하며, 이는 관련 산업의 투자 및 시장 수요에 중요한 영향을 미칠 수 있음을 시사합니다.",
       "impactSignals": [
         {
           "label": "capex",
-          "evidence": "마이크론의 실적 발표와 전망은 설비 투자 계획에 영향을 줄 수 있다."
+          "evidence": "데이터 센터 건설 및 운영 관련 투자 증가 예상"
+        },
+        {
+          "label": "market-demand",
+          "evidence": "데이터 센터 전력 수요 증가로 인한 시장 변화"
         }
       ],
-      "dedupeKey": "micron-q2-results-q3-guidance",
+      "dedupeKey": "EIA_Data_Center_Demand_ERCOT_Power_Prices",
+      "clusterKey": "에너지/center",
+      "matchedTo": null,
+      "sourceName": "Construction Owners Club",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNN0h6Z0JpOHI0ajlNWkNlNi1mTTE1alNnZXBTLW9jTGJpWmo2NVAzb2Z0WUtzc01LX0hMbUlubEh1THdLYXdta0ZGSVVLZXRPamd6R0NlT0VCREhQR1F4cXdrd254UENtVnNMTHI2eFhsb0xmWUtZYTk5TktzSjN2TjhWa1c5OEtV?oc=5",
+      "publishedAt": "2026-03-18T12:20:47.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 4,
+      "importanceRaw": 75,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 본문이 일치하며, 간결하고 명확하게 요약되었습니다.",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-03-19_5",
+      "date": "2026-03-19",
+      "category": "경제",
+      "title": "마이크론, 예상치를 상회하는 2분기 실적 및 3분기 전망 발표, 주가는 하락",
+      "summary": [
+        "마이크론이 예상보다 좋은 2분기 실적과 3분기 가이던스를 발표했다.",
+        "그럼에도 불구하고 주가는 하락했다.",
+        "자세한 내용은 야후 파이낸스에서 확인할 수 있다."
+      ],
+      "whyImportant": "마이크론의 실적 발표는 반도체 산업 전반의 동향을 파악하는 데 중요한 지표가 된다.",
+      "importanceRationale": "근거: 마이크론은 주요 반도체 제조업체 중 하나이며, 실적은 해당 분기 및 향후 전망에 대한 중요한 정보를 제공한다.",
+      "impactSignals": [
+        {
+          "label": "capex",
+          "evidence": "마이크론의 실적 발표 및 전망에는 투자 지출 계획이 포함될 수 있다."
+        }
+      ],
+      "dedupeKey": "Micron_Q2_Results_Q3_Guidance_Stock_Decline",
       "clusterKey": "better",
       "matchedTo": null,
       "sourceName": "Yahoo Finance",
@@ -92,39 +157,71 @@
       "importance": 3.5,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "The article provides factual information about Micron's earnings and guidance.",
+      "qualityReason": "제목과 본문이 일치하며, 정보가 명확하게 제시되어 있다.",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-03-19_4",
+      "id": "2026-03-19_6",
       "date": "2026-03-19",
       "category": "경제",
-      "title": "EIA, 데이터 센터 수요로 인해 ERCOT 전력 가격이 79% 상승할 수 있다고 경고",
+      "title": "마이크론, AI 칩 수요 폭발로 2분기 '깜짝 실적' 발표",
       "summary": [
-        "미국 에너지정보청(EIA)은 데이터 센터 수요 증가로 인해 ERCOT(텍사스 전력망)의 전력 가격이 최대 79%까지 상승할 수 있다고 경고했습니다.",
-        "데이터 센터 건설 붐이 텍사스 전력 시장에 상당한 영향을 미칠 것으로 예상됩니다."
+        "마이크론이 AI 칩 수요 폭발에 힘입어 2분기에 예상치 못한 실적을 달성했습니다.",
+        "하지만 차익 실현 매물로 인해 시간 외 주가는 하락했습니다."
       ],
-      "whyImportant": "데이터 센터 전력 수요 급증이 텍사스 전력 시장에 미치는 잠재적 영향에 대한 경고입니다.",
-      "importanceRationale": "근거: EIA의 경고는 데이터 센터의 전력 수요가 ERCOT 전력 가격에 상당한 영향을 미칠 수 있음을 시사합니다.",
+      "whyImportant": "마이크론의 실적은 AI 칩 시장의 성장세를 보여주는 지표입니다.",
+      "importanceRationale": "근거: 마이크론의 깜짝 실적은 AI 칩 수요 증가를 반영하며, 이는 관련 시장의 성장 가능성을 시사합니다.",
       "impactSignals": [],
-      "dedupeKey": "EIA_Data_Center_Demand_ERCOT_Power_Prices",
-      "clusterKey": "에너지/center",
+      "dedupeKey": "micron-ai-chip-demand-2q-earnings",
+      "clusterKey": "깜짝",
       "matchedTo": null,
-      "sourceName": "Construction Owners Club",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNN0h6Z0JpOHI0ajlNWkNlNi1mTTE1alNnZXBTLW9jTGJpWmo2NVAzb2Z0WUtzc01LX0hMbUlubEh1THdLYXdta0ZGSVVLZXRPamd6R0NlT0VCREhQR1F4cXdrd254UENtVnNMTHI2eFhsb0xmWUtZYTk5TktzSjN2TjhWa1c5OEtV?oc=5",
-      "publishedAt": "2026-03-18T12:20:47.000Z",
+      "sourceName": "마켓인",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5DZ0xNM2UwNzZEOVNTbzdZRklZbnNiY1JyVjN0XzV3c2hiN2gzamNpaEFsbG93bWtVTXFwandkSkphZmhuX3UwMFpFM3NpR0lORkRDaGNuMTBnY0hkcDdaalJZZzFxNEhSbjlsNUp1bHlUcEU?oc=5",
+      "publishedAt": "2026-03-18T20:38:31.000Z",
       "readTimeSec": 10,
       "status": "kept",
       "importance": 2,
-      "importanceRaw": 63,
+      "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 정보가 명확합니다. / 근거부족",
+      "qualityReason": "제목과 본문이 일치하며, 간결하게 핵심 내용을 전달합니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-03-19_5",
+      "id": "2026-03-19_7",
+      "date": "2026-03-19",
+      "category": "경제",
+      "title": "마이크론, 사상 최대 분기 매출 기록…전년 동기 대비 3배 증가",
+      "summary": [
+        "마이크론이 사상 최대 분기 매출을 기록했습니다.",
+        "이는 전년 동기 대비 3배 증가한 수치입니다."
+      ],
+      "whyImportant": "마이크론의 매출 증가는 반도체 시장의 성장세를 보여주는 지표입니다.",
+      "importanceRationale": "근거: 마이크론의 분기 매출이 전년 동기 대비 3배 증가했다는 것은 해당 기업의 실적 호조를 넘어, 반도체 산업 전반의 수요 증가와 성장 가능성을 시사합니다.",
+      "impactSignals": [
+        {
+          "label": "earnings",
+          "evidence": "마이크론의 분기 매출이 사상 최대치를 기록하며 전년 동기 대비 3배 증가함."
+        }
+      ],
+      "dedupeKey": "micron-record-revenue-q1",
+      "clusterKey": "3배",
+      "matchedTo": null,
+      "sourceName": "연합뉴스 한민족센터",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMidEFVX3lxTE03bDREOE9ZdFNCTDhkcy1MSTI5ZmZxX3NCSGFJR1FwaTN2WUhod0VIQlpSTGl6RlhhYWVDUW5FRGV5SjFyV3JmMWY0UW9rczFnVzVNMmI2NHRyam5GZkV5bkZZZXp6STVTU2pSUnJWbGVHLWd1?oc=5",
+      "publishedAt": "2026-03-18T20:42:54.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 4,
+      "importanceRaw": 75,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 본문이 일치하며, 간결하게 핵심 내용을 전달합니다.",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-03-19_8",
       "date": "2026-03-19",
       "category": "경제",
       "title": "Five Below, 2025년 4분기 매출 예상치 상회",
@@ -133,9 +230,9 @@
         "StockStory에서 관련 내용을 보도했습니다."
       ],
       "whyImportant": "매출이 예상치를 상회했다는 것은 회사의 재무적 성과가 긍정적이라는 신호입니다.",
-      "importanceRationale": "근거: 매출이 예상치를 상회하면 투자자와 시장의 관심이 증가하고 주가에 긍정적인 영향을 미칠 수 있습니다.",
+      "importanceRationale": "근거: 매출이 예상치를 상회하면 투자자와 시장의 신뢰를 얻을 수 있으며, 주가 상승으로 이어질 수 있습니다.",
       "impactSignals": [],
-      "dedupeKey": "FIVE_Q4_2025_Sales_Top_Estimates",
+      "dedupeKey": "FIVE_Q4_2025_SALES_TOP_ESTIMATES",
       "clusterKey": "below",
       "matchedTo": null,
       "sourceName": "StockStory",
@@ -146,21 +243,20 @@
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 간결하게 핵심 내용을 전달합니다. / 근거부족",
+      "qualityReason": "The article provides a clear and concise statement about Five Below's sales performance. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-03-19_6",
+      "id": "2026-03-19_9",
       "date": "2026-03-19",
       "category": "국제",
       "title": "Apple macOS 26.3.1 백그라운드 보안 개선: Safari 고위험 취약점 보호",
       "summary": [
-        "Apple macOS 26.3.1 업데이트는 Safari 브라우저의 보안을 강화합니다.",
-        "이번 업데이트는 고위험 취약점으로부터 사용자를 보호하는 데 중점을 둡니다."
+        "Apple macOS 26.3.1 업데이트가 Safari 브라우저의 고위험 취약점을 보호하기 위해 백그라운드 보안을 개선했습니다."
       ],
-      "whyImportant": "Safari 브라우저를 사용하는 macOS 사용자의 보안을 강화하는 업데이트입니다.",
-      "importanceRationale": "근거: Safari는 많은 macOS 사용자가 사용하는 주요 브라우저이므로, 보안 취약점 해결은 사용자 데이터 보호에 중요합니다.",
+      "whyImportant": "macOS 사용자는 Safari 브라우저의 보안을 강화하기 위해 업데이트해야 합니다.",
+      "importanceRationale": "근거: macOS 26.3.1 업데이트는 Safari 브라우저의 고위험 취약점을 직접적으로 해결하여 사용자 보안을 강화합니다.",
       "impactSignals": [],
       "dedupeKey": "macos_26.3.1_safari_security",
       "clusterKey": "apple",
@@ -173,50 +269,55 @@
       "importance": 2,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 정보가 명확합니다. / 근거부족",
+      "qualityReason": "The article provides a clear and concise description of a security update. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-03-19_7",
+      "id": "2026-03-19_10",
       "date": "2026-03-19",
-      "category": "정책",
-      "title": "\"전력이 없으면 AI도 없다\"...데이터센터 전쟁, 기업보다 느린 정치권 대응",
+      "category": "국제",
+      "title": "미중 파리협상 '로우키' 진행…전문가 \"'작은 성과' 가능성\"",
       "summary": [
-        "데이터센터 구축 경쟁이 심화되는 가운데, 전력 공급 부족 문제가 부각되고 있다.",
-        "기업들의 데이터센터 투자가 활발하지만, 정치권의 대응은 미흡하다는 지적이 제기된다.",
-        "AI 기술 발전을 위해서는 안정적인 전력 공급이 필수적이다."
+        "미중 파리협상이 '로우키'로 진행 중이다.",
+        "전문가들은 '작은 성과'의 가능성을 언급했다."
       ],
-      "whyImportant": "데이터센터 구축 경쟁 심화와 전력 공급 부족 문제에 대한 정치권의 대응이 늦어지는 상황을 보여준다.",
-      "importanceRationale": "근거: 데이터센터는 AI 기술 발전에 필수적인 인프라로, 전력 공급 부족은 AI 산업 성장에 직접적인 영향을 미칠 수 있다. 정치권의 늦은 대응은 기업들의 투자 및 혁신을 저해할 수 있다는 점에서 중요하다.",
+      "whyImportant": "미중 협상의 진행 상황과 잠재적 성과를 파악하는 것이 중요합니다.",
+      "importanceRationale": "근거: 미중 관계는 국제 정치 및 경제에 큰 영향을 미치므로, 양국 간 협상의 진행 상황은 중요한 의미를 가집니다.",
       "impactSignals": [],
-      "dedupeKey": "power-ai-datacenter-war",
-      "clusterKey": "에너지/ai도",
+      "dedupeKey": "미중파리협상진행",
+      "clusterKey": "가능성",
       "matchedTo": null,
-      "sourceName": "여성경제신문",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBtY295akFqR2pUU0ZrQmVRTW9RckU3b2tNYURxVVJiNG9BOFRYQmJrU1hRckRLTXNaNFNaMTBkWHhaRzY0WTEzVVoxdjBtTzRSTGMxOVdsdjNlU3Q3TFVCLWUteDRqUGJSQU9NLVJESF91NFlUaHZJ?oc=5",
-      "publishedAt": "2026-03-18T08:25:22.000Z",
+      "sourceName": "연합뉴스 한민족센터",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBKai1XTEl6aWpuSS1BSjBrbGNFTmVrVVlLLVY4cGd5TVB4enJ0aGhXZWItMWRGcEZ1a183TVJqbWlGeW44SkNsTnBNN3k4UEl2dXV4VG5GTldKTTc0bE1TbXItZVVfTkVqY3dVTTFDMTRvVTJw?oc=5",
+      "publishedAt": "2026-03-16T03:10:07.000Z",
       "readTimeSec": 10,
       "status": "kept",
       "importance": 2,
-      "importanceRaw": 75,
+      "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 내용을 충실히 반영하고 있으며, 핵심 내용을 요약하여 전달한다. / 근거부족",
+      "qualityReason": "제목과 본문이 일치하며, 내용이 간결하고 명확합니다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-03-19_8",
+      "id": "2026-03-19_11",
       "date": "2026-03-19",
       "category": "정책",
-      "title": "정부, 중복 상장 ‘원칙 금지’ 발표… 기업 및 FI 타격 우려",
+      "title": "정부, 중복 상장 원칙 금지 발표… 기업 및 FI 생존 우려 제기",
       "summary": [
         "정부가 중복 상장을 원칙적으로 금지한다고 발표했다.",
-        "이에 따라 기업과 재무적 투자자(FI)에게 타격이 있을 것이라는 우려가 제기되고 있다."
+        "이에 대해 기업과 FI(재무적 투자자)의 생존에 대한 우려가 제기되고 있다.",
+        "인베스트조선에 따르면 이번 정책이 시장에 미칠 영향에 대한 논쟁이 예상된다."
       ],
       "whyImportant": "중복 상장 금지 정책이 기업과 투자 시장에 미치는 잠재적 영향.",
       "importanceRationale": "근거: 정부의 정책 변화는 기업의 자금 조달 방식과 투자 전략에 직접적인 영향을 미치므로 중요도가 높다.",
-      "impactSignals": [],
+      "impactSignals": [
+        {
+          "label": "policy",
+          "evidence": "정부의 중복 상장 원칙 금지 정책 발표"
+        }
+      ],
       "dedupeKey": "중복상장금지정책",
       "clusterKey": "fi도",
       "matchedTo": null,
@@ -225,15 +326,15 @@
       "publishedAt": "2026-03-18T08:06:00.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 2,
+      "importance": 4,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 본문이 일치하며, 정책 변화에 대한 정보를 제공한다. / 근거부족",
+      "qualityReason": "제목과 본문이 일치하며, 내용이 간결하고 명확함.",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-03-19_9",
+      "id": "2026-03-19_12",
       "date": "2026-03-19",
       "category": "정책",
       "title": "복지부, 상반기 내 '임신중지 대체입법' 정부안 마련 예정",
@@ -241,10 +342,10 @@
         "보건복지부가 상반기 내에 '임신중지 대체입법' 정부안을 마련할 계획이다.",
         "이는 7년간의 입법 공백을 메우기 위한 조치이다."
       ],
-      "whyImportant": "정부의 임신중지 관련 정책 방향을 제시하고, 관련 법적 공백을 해소할 수 있다.",
-      "importanceRationale": "근거: 보건복지부가 상반기 내에 임신중지 대체입법 정부안을 마련할 계획임을 발표함.",
+      "whyImportant": "정부의 임신중지 관련 정책 방향을 제시하고 법적 불확실성을 해소할 수 있다.",
+      "importanceRationale": "근거: 복지부가 임신중지 대체입법 정부안 마련을 통해 정책적, 법적 공백을 해소하려 한다.",
       "impactSignals": [],
-      "dedupeKey": "복지부, 상반기 내 '임신중지 대체입법' 정부안 마련",
+      "dedupeKey": "복지부, 상반기 내 임신중지 대체입법 정부안 마련",
       "clusterKey": "공백",
       "matchedTo": null,
       "sourceName": "뉴스토마토",
@@ -255,78 +356,24 @@
       "importance": 2,
       "importanceRaw": 75,
       "qualityLabel": "ok",
-      "qualityReason": "기사 내용이 명확하고 간결함. / 근거부족",
+      "qualityReason": "기사의 내용이 명확하고 간결하게 전달됨 / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-03-19_10",
-      "date": "2026-03-19",
-      "category": "국제",
-      "title": "메모리 칩 제조업체 마이크론, 분기별 매출 추정치 상회",
-      "summary": [
-        "메모리 칩 제조업체인 마이크론의 분기별 매출이 추정치를 상회했습니다.",
-        "이번 실적은 로이터 통신을 통해 발표되었습니다."
-      ],
-      "whyImportant": "마이크론의 매출 증가는 메모리 칩 시장의 수요를 나타냅니다.",
-      "importanceRationale": "근거: 마이크론은 주요 메모리 칩 제조업체이며, 매출 증가는 해당 시장의 긍정적인 신호로 해석될 수 있습니다.",
-      "impactSignals": [],
-      "dedupeKey": "micron-beats-estimates",
-      "clusterKey": "beats",
-      "matchedTo": null,
-      "sourceName": "Reuters",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMzNUOFJSSUtqMEVvcmJOaWFwWDdmMTAtZERCdkN3TnY5OGcyOGFGLVZVeDV3RWd6QTlIWnNoNDlNc0k2QTMyUWJqTy1jd04tNmFVLTZTTkI4ZGJlbmpKM0FhVGhLdGFCclNjU1NGenk2SE5pSTJCdnJMdm9PYTNUQ0xGbU5qZnlaMUpuMWR0dnNSZw?oc=5",
-      "publishedAt": "2026-03-18T20:05:55.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 63,
-      "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었습니다. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-03-19_11",
-      "date": "2026-03-19",
-      "category": "경제",
-      "title": "금통위원, 6회 연속 금리 동결하며 환율 및 부동산 안정 우선 고려",
-      "summary": [
-        "한국무역협회에 따르면, 금통위원들이 6회 연속 금리 동결을 결정했다.",
-        "이번 결정에는 환율과 부동산 시장의 안정을 우선적으로 고려한 결과이다."
-      ],
-      "whyImportant": "금리 동결 결정은 환율 및 부동산 시장에 영향을 미칠 수 있기 때문에 중요합니다.",
-      "importanceRationale": "근거: 금통위의 금리 결정은 금융 시장 전반에 걸쳐 파급 효과를 가져오며, 특히 환율과 부동산 시장의 안정에 중요한 영향을 미칩니다.",
-      "impactSignals": [],
-      "dedupeKey": "6회 연속 금리 동결, 환율 및 부동산 안정 우선 고려",
-      "clusterKey": "6연속",
-      "matchedTo": null,
-      "sourceName": "한국무역협회-KITA.NET",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOYWN0cGR1YUdyTVdWNGRtVl9wWFNqSGgwc1FpeVNQSkotdEE4MGV2aTZTUzBCZUx1SU5iYmtMdlpDOFJrRU5fdWVYVVBQTHdPTG5XSmhHMndMaGU5WllEeXVOYXI3Tmp5VDJxVExaYmZPUS1UY08wbFV2YU1yeUlmZzlnRDRhMnNoNmoyelg5aDVDbVhhYU0tR203TUR1VXlmb1VFQV9MWG9hWmIwdEhvMWlldVNYRzZHdk1GYm9yNEhROUwxdmtQMFlVNzZiMldIVjZjRnhB?oc=5",
-      "publishedAt": "2026-03-17T23:38:44.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 75,
-      "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 내용이 일치하며, 핵심 내용을 잘 요약했습니다. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-03-19_12",
+      "id": "2026-03-19_13",
       "date": "2026-03-19",
       "category": "국제",
       "title": "미국 공급망 혼란에 대한 해결책으로 리쇼어링이 쉽지 않은 이유",
       "summary": [
-        "미국 공급망 혼란에 대한 해결책으로 리쇼어링이 제시되고 있지만, 쉬운 해결책은 아니다.",
-        "리쇼어링은 인프라 문제, 높은 비용, 숙련된 노동력 부족 등 여러 어려움에 직면해 있다.",
-        "따라서 미국 기업들은 리쇼어링 외에 공급망 다변화 등 다양한 해결책을 모색해야 한다."
+        "미국 공급망 혼란에 대한 해결책으로 리쇼어링이 거론되지만, 쉬운 해결책은 아니다.",
+        "리쇼어링은 인프라 문제, 노동력 부족, 높은 비용 등 여러 어려움에 직면해 있다.",
+        "따라서 미국 기업들은 공급망을 재편하는 데 신중한 접근 방식을 취해야 한다."
       ],
-      "whyImportant": "미국 기업들이 공급망 전략을 재고하는 데 중요한 시사점을 제공한다.",
-      "importanceRationale": "근거: 미국 기업들이 공급망 혼란에 대응하기 위해 리쇼어링을 고려하고 있지만, 여러 가지 현실적인 어려움이 존재한다는 점을 지적한다. 이는 기업들이 리쇼어링 외에 다른 대안을 모색해야 함을 시사한다.",
+      "whyImportant": "미국 기업의 공급망 전략 변화에 대한 시사점",
+      "importanceRationale": "근거: 미국 기업들이 공급망 재편을 고려할 때 리쇼어링의 한계를 이해하고 신중하게 접근해야 함을 시사한다.",
       "impactSignals": [],
-      "dedupeKey": "reshoring-us-supply-chain",
+      "dedupeKey": "reshoring_challenges",
       "clusterKey": "baton",
       "matchedTo": null,
       "sourceName": "Baton Rouge Business Report",
@@ -337,27 +384,113 @@
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "The article provides a concise overview of the challenges associated with reshoring. / 근거부족",
+      "qualityReason": "기사 내용이 명확하고 간결하며, 핵심 주장을 뒷받침하는 정보가 포함되어 있음. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-03-19_13",
+      "id": "2026-03-19_14",
+      "date": "2026-03-19",
+      "category": "정책",
+      "title": "\"정원 10년째 그대로\"…국회입법조사처장이 지적한 '국회 인력난'",
+      "summary": [
+        "국회입법조사처장이 '국회 인력난'을 지적하며 정원 문제가 10년째 해결되지 않고 있음을 밝혔습니다.",
+        "인터뷰에서 이 문제는 국회의 효율적인 운영에 걸림돌이 된다고 강조했습니다."
+      ],
+      "whyImportant": "국회 인력 부족 문제는 정책 결정 과정에 영향을 미칠 수 있습니다.",
+      "importanceRationale": "근거: 국회 인력난은 입법 활동의 질과 속도에 직접적인 영향을 줄 수 있으며, 이는 국가 정책 결정의 효율성과 효과성에 중요한 요소입니다.",
+      "impactSignals": [],
+      "dedupeKey": "정원 10년째 그대로…국회 인력난",
+      "clusterKey": "10년째",
+      "matchedTo": null,
+      "sourceName": "더팩트",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9ZNUNzdmVmVjlLQlF4WjQ2ODlabjJPLVdwSkplZjJ2VkZPdi1HRVVnMzE0Yzl6cWNrd1JYSVFFQ1BYVnV3dkNtcWk0akZ0LXg4TFhpNHVrU0_SAVNBVV95cUxNZUtnZF9ScV85UDYwRkZrcU1zZzl3Mzl2emRwM29rYzBsYmRpRE9ZRUtKQVY0QVplSDdxR18xZnM5RFFoTEZZNllxU0k1Rk1FQkJFQQ?oc=5",
+      "publishedAt": "2026-03-18T15:00:04.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 63,
+      "qualityLabel": "ok",
+      "qualityReason": "기사 내용이 명확하고 간결하게 요약되어 있습니다. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-03-19_15",
       "date": "2026-03-19",
       "category": "에너지",
-      "title": "신규 원전 차질 없는 건설 및 원자력 수소 생산 기반 마련",
+      "title": "에너지 관리 스타트업 GridBeyond, 1200만 달러 자금 조달",
       "summary": [
-        "신규 원전 건설을 차질 없이 진행하고 원자력 수소 생산 기반을 마련한다."
+        "에너지 관리 스타트업 GridBeyond가 1200만 달러의 자금을 조달했습니다.",
+        "이번 자금 조달은 데이터 센터 역량 강화에 사용될 예정입니다."
       ],
-      "whyImportant": "원자력 에너지 산업의 발전과 수소 에너지 생산 기반 구축에 중요한 역할을 한다.",
-      "importanceRationale": "근거: 신규 원전 건설과 원자력 수소 생산은 에너지 자립 및 탄소 중립 목표 달성에 기여할 수 있기 때문이다.",
+      "whyImportant": "GridBeyond의 자금 조달은 에너지 관리 분야의 투자 증가를 의미합니다.",
+      "importanceRationale": "근거: GridBeyond가 1200만 달러의 자금을 유치했으며, 이는 데이터 센터 역량 강화에 사용될 예정입니다.",
       "impactSignals": [
         {
           "label": "capex",
-          "evidence": "신규 원전 건설 및 원자력 수소 생산 기반 마련은 상당한 자본 투자를 필요로 한다."
+          "evidence": "GridBeyond가 1200만 달러의 자금을 조달하여 데이터 센터 역량 강화에 투자할 계획입니다."
         }
       ],
-      "dedupeKey": "신규원전차질없이건설하고원자력수소생산기반마련",
+      "dedupeKey": "GridBeyond_12m_funding",
+      "clusterKey": "에너지/12m",
+      "matchedTo": null,
+      "sourceName": "Data Center Dynamics",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbjQ0M0p0TEttNmVhQ0hmM3NaNk9Jdko2ZGl1Z0hkcUduOVlGSDNqdUVYWkprOWZQalB5S0dfeXZnT1J0WXhWLWM0UUp1SG9vaktSVGFqeXF5OVcyMTJ2MmhINk4tNWg0TU1fRjE0S1FBX1E3dVdqZURGdDVJU2ZkV0RyOTFmUS1neHBrYk1ZalVKRlRXaEZXUEFkczYtd3EwRVhURDZSS1A?oc=5",
+      "publishedAt": "2026-03-18T11:52:47.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 3.5,
+      "importanceRaw": 63,
+      "qualityLabel": "ok",
+      "qualityReason": "기사 내용이 간결하고 명확하며, 정보의 출처가 분명합니다.",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-03-19_16",
+      "date": "2026-03-19",
+      "category": "정책",
+      "title": "국회, 'K-전략상선대' 공론화…해운협회, \"해양강국 도약 위한 국가 선복전략 시급\"",
+      "summary": [
+        "국회에서 'K-전략상선대'에 대한 공론화가 진행되었다.",
+        "해운협회는 해양강국으로 도약하기 위한 국가 선복 전략이 시급하다고 강조했다."
+      ],
+      "whyImportant": "해운업계의 발전을 위한 정책 논의의 시작을 알리는 신호탄이다.",
+      "importanceRationale": "근거: 국회에서 K-전략상선대에 대한 공론화가 이루어졌으며, 해운협회가 국가 선복 전략의 중요성을 강조함.",
+      "impactSignals": [],
+      "dedupeKey": "국회, 'K-전략상선대' 공론화",
+      "clusterKey": "공론화",
+      "matchedTo": null,
+      "sourceName": "해사신문",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1wczhRRUY0a3VNNU1oNmUxZzdGbG13RVpSSWRhSVhFamQtdW9Fa0lfVnI0VmxOMVM3NnJOUHJON0dXUXVGR1FxZHhYbXJ0Z3E0REtad29EYjdmem1qRHAwMU1yTGdpYnhhZmNR?oc=5",
+      "publishedAt": "2026-03-18T09:05:11.000Z",
+      "readTimeSec": 10,
+      "status": "kept",
+      "importance": 2,
+      "importanceRaw": 63,
+      "qualityLabel": "ok",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되어 있음. / 근거부족",
+      "isBriefing": false,
+      "isBreaking": false
+    },
+    {
+      "id": "2026-03-19_17",
+      "date": "2026-03-19",
+      "category": "에너지",
+      "title": "신규 원전 차질 없이 건설 및 원자력 수소 생산 기반 마련",
+      "summary": [
+        "신규 원전 건설을 차질 없이 진행하고 원자력 수소 생산 기반을 마련할 계획입니다."
+      ],
+      "whyImportant": "원자력 에너지 산업의 발전 방향을 제시합니다.",
+      "importanceRationale": "근거: 신규 원전 건설과 원자력 수소 생산 기반 마련은 에너지 정책 및 관련 산업에 중요한 영향을 미칩니다.",
+      "impactSignals": [
+        {
+          "label": "capex",
+          "evidence": "신규 원전 건설 및 원자력 수소 생산 기반 마련"
+        }
+      ],
+      "dedupeKey": "new-nuclear-construction-and-hydrogen-production",
       "clusterKey": "건설하고",
       "matchedTo": null,
       "sourceName": "이투뉴스",
@@ -368,26 +501,21 @@
       "importance": 3.5,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되어 있다.",
+      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약되었습니다.",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-03-19_14",
+      "id": "2026-03-19_18",
       "date": "2026-03-19",
       "category": "국제",
       "title": "코딧, 글로벌 규제 비교·대응 지원 정책 AI ‘챗코딧’ 출시",
       "summary": [
-        "코딧이 글로벌 규제 비교 및 대응을 지원하는 정책 AI ‘챗코딧’을 출시했다."
+        "코딧이 글로벌 규제 비교 및 대응을 지원하는 정책 AI '챗코딧'을 출시했다."
       ],
-      "whyImportant": "코딧의 챗코딧 출시로 기업들이 글로벌 규제 변화에 더 효과적으로 대응할 수 있게 되었다.",
-      "importanceRationale": "근거: 챗코딧은 정책 AI로서, 기업들이 다양한 국가의 규제를 비교하고 분석하여 대응 전략을 수립하는 데 도움을 줄 수 있다.",
-      "impactSignals": [
-        {
-          "label": "policy",
-          "evidence": "챗코딧이 글로벌 규제 비교 및 대응을 지원하는 정책 AI라는 점에서 정책적 중요성을 가진다."
-        }
-      ],
+      "whyImportant": "정책 AI '챗코딧' 출시로 기업의 규제 대응 능력 향상이 기대된다.",
+      "importanceRationale": "근거: 코딧이 출시한 '챗코딧'은 글로벌 규제 비교 및 대응을 지원하는 AI로, 기업들이 복잡한 규제 환경에 효과적으로 대처할 수 있도록 돕는다.",
+      "impactSignals": [],
       "dedupeKey": "코딧, 글로벌 규제 비교·대응 지원 정책 AI ‘챗코딧’ 출시",
       "clusterKey": "규제",
       "matchedTo": null,
@@ -396,41 +524,15 @@
       "publishedAt": "2026-03-18T07:10:00.000Z",
       "readTimeSec": 10,
       "status": "kept",
-      "importance": 3.5,
-      "importanceRaw": 63,
-      "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 핵심 내용을 전달한다.",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-03-19_15",
-      "date": "2026-03-19",
-      "category": "에너지",
-      "title": "에너지 안보와 탄소 중립 동시 달성: 원자력 발전의 역할 재확인",
-      "summary": [
-        "에너지 안보와 탄소 중립 목표를 동시에 달성하기 위해 원자력 발전의 중요성이 다시 한번 강조되었습니다."
-      ],
-      "whyImportant": "원자력 발전이 에너지 안보와 탄소 중립 목표 달성에 기여할 수 있음을 시사합니다.",
-      "importanceRationale": "근거: 기사는 에너지 안보와 탄소 중립이라는 두 가지 중요한 목표를 동시에 달성하는 데 원자력 발전이 핵심적인 역할을 할 수 있음을 재확인합니다.",
-      "impactSignals": [],
-      "dedupeKey": "energy_security_carbon_neutrality_nuclear_reaffirmation",
-      "clusterKey": "에너지/달성",
-      "matchedTo": null,
-      "sourceName": "인사이트N파워",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBYQmRtdWNxVkZBUll1di1lQy1GaVhIWldMMExDR0QwS19fblBYcHFua2ZfZmt2Vm9aNll0Z1lBTGxQYTBtWmJITmNvdkMyZlpXemM0dTZiVHFUakRzSVZBdUNxc05rUQ?oc=5",
-      "publishedAt": "2026-03-18T06:29:28.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "기사의 내용이 명확하고 간결합니다. / 근거부족",
+      "qualityReason": "기사 내용이 간결하고 명확하며, 핵심 정보를 잘 전달하고 있다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
     {
-      "id": "2026-03-19_16",
+      "id": "2026-03-19_19",
       "date": "2026-03-19",
       "category": "정책",
       "title": "'국회를 믿는다'... 국내 제약 약가 인하, 다국적사 신약 병용 급여 어필",
@@ -438,8 +540,8 @@
         "국내 제약사의 약가 인하와 다국적 제약사의 신약 병용 급여에 대한 어필이 있었다.",
         "국회가 이 문제에 대한 해결을 할 것으로 기대된다."
       ],
-      "whyImportant": "국내 제약 산업 및 다국적 제약사의 신약 접근성에 영향을 미칠 수 있는 약가 정책 관련 내용이다.",
-      "importanceRationale": "근거: 약가 인하 및 신약 급여는 제약사의 수익성과 환자의 치료 접근성에 직접적인 영향을 미치므로 중요하다.",
+      "whyImportant": "국내 제약 산업 및 다국적 제약사의 신약 접근성에 영향을 미칠 수 있는 약가 인하 및 급여 관련 정책 방향을 시사한다.",
+      "importanceRationale": "근거: 약가 인하 및 신약 급여는 제약사의 수익성과 환자의 치료 접근성에 직접적인 영향을 미치는 중요한 정책적 결정이다.",
       "impactSignals": [],
       "dedupeKey": "국회를 믿는다_국내제약 약가인하, 다국적사 신약 병용급여 어필",
       "clusterKey": "국내제약",
@@ -452,86 +554,7 @@
       "importance": 2,
       "importanceRaw": 63,
       "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약됨. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-03-19_17",
-      "date": "2026-03-19",
-      "category": "정책",
-      "title": "정부, 취약지 달빛어린이병원 협력약국 운영비 지원 검토",
-      "summary": [
-        "정부가 취약 지역 달빛어린이병원과 협력하는 약국에 운영비 지원을 검토 중이다."
-      ],
-      "whyImportant": "취약 지역의 야간 및 휴일 의약품 접근성 향상에 기여할 수 있다.",
-      "importanceRationale": "근거: 정부가 취약지 달빛어린이병원 협력약국 운영비 지원을 검토하고 있다는 정보에 기반함.",
-      "impactSignals": [],
-      "dedupeKey": "정부, 취약지 달빛어린이병원 협력약국 운영비 지원 검토",
-      "clusterKey": "달빛어린이병원",
-      "matchedTo": null,
-      "sourceName": "약사공론",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBsY3h3aWEtM1Fhb0s1TW9hOWRyTmdvWnA5QVdlUWpHdTA0VTlrV2JkaEFVZWx6SVVWQmJweVpvZGtqTkNSZC02LXZaajlTMU9scnhJbDdvVmhzTjJ3blJKQTRUMzJkUGtPNTdWZQ?oc=5",
-      "publishedAt": "2026-03-18T03:00:00.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 63,
-      "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 간결하게 요약됨. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-03-19_18",
-      "date": "2026-03-19",
-      "category": "기술",
-      "title": "AI 코딩 도구를 사용해도 보안 취약점은 그대로, 중요한 것은 개발자 경험",
-      "summary": [
-        "AI 코딩 도구를 사용해도 보안 취약점은 여전히 존재함.",
-        "개발자의 경험이 여전히 중요한 요소임."
-      ],
-      "whyImportant": "AI 코딩 도구 사용 시 보안 취약점 문제점을 지적하고 개발자 경험의 중요성을 강조합니다.",
-      "importanceRationale": "근거: AI 코딩 도구의 한계와 개발자의 숙련도가 보안에 미치는 영향을 강조하므로.",
-      "impactSignals": [],
-      "dedupeKey": "AI코딩보안개발자경험",
-      "clusterKey": "결국",
-      "matchedTo": null,
-      "sourceName": "AI 매터스",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9SR3AxS0NLQ00xWlZwV2cxV29GZDhwS0p3VFdueEtfOEpJMXpRVEZIcVpJZmlzaTEwb0ZHemtsVHBpT1ZzVWxGTHBNM3hHTTVvQkRzcWV3cHUybE5sMHlOdzd3?oc=5",
-      "publishedAt": "2026-03-18T02:21:20.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 63,
-      "qualityLabel": "ok",
-      "qualityReason": "제목과 내용이 일치하며, 핵심 내용을 잘 요약했습니다. / 근거부족",
-      "isBriefing": false,
-      "isBreaking": false
-    },
-    {
-      "id": "2026-03-19_19",
-      "date": "2026-03-19",
-      "category": "에너지",
-      "title": "삼성중공업, 미국 델핀 LNG 프로젝트 참여에 트럼프 행정부 공식화",
-      "summary": [
-        "삼성중공업이 미국의 델핀 LNG 프로젝트에 참여하는 것을 트럼프 행정부가 공식화했습니다."
-      ],
-      "whyImportant": "미국 LNG 프로젝트 참여 공식화로 삼성중공업의 LNG 관련 사업 확장이 기대됩니다.",
-      "importanceRationale": "근거: 트럼프 행정부의 공식화 발표는 삼성중공업의 LNG 프로젝트 참여에 대한 정부 차원의 지지를 의미하며, 이는 향후 사업 확장에 긍정적인 영향을 미칠 수 있습니다.",
-      "impactSignals": [],
-      "dedupeKey": "삼성중공업, 미국 델핀 LNG 프로젝트 참여 트럼프 행정부 공식화",
-      "clusterKey": "lng",
-      "matchedTo": null,
-      "sourceName": "더구루",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1FMmRLM1RDVk15TG9lclE0NFlIcWZNb1NwOXhuLVF1YmVWVi1RVDR3WVBRZXc4TU8xcjBEekpZNWt1UmVaLW5lRVlheXp4TXJzcUJxS3dxaVZFdHl1Uk41LXRn?oc=5",
-      "publishedAt": "2026-03-17T01:27:08.000Z",
-      "readTimeSec": 10,
-      "status": "kept",
-      "importance": 2,
-      "importanceRaw": 63,
-      "qualityLabel": "ok",
-      "qualityReason": "기사 제목과 내용이 일치하며, 핵심 내용을 잘 요약했습니다. / 근거부족",
+      "qualityReason": "제목과 본문이 일치하며, 내용이 간결하고 명확하다. / 근거부족",
       "isBriefing": false,
       "isBreaking": false
     },
@@ -544,12 +567,16 @@
         "네브래스카 소재 기업들이 2025년에 5억 2,790만 달러의 벤처 캐피털 자금을 유치하여 기록을 경신했습니다.",
         "이는 Silicon Prairie News에서 보도한 내용입니다."
       ],
-      "whyImportant": "네브래스카 기업의 벤처 캐피털 자금 유치 증가는 지역 경제 활성화 및 혁신 성장을 의미합니다.",
+      "whyImportant": "네브래스카 기업의 벤처 캐피털 유치 증가는 지역 경제 활성화 및 혁신 성장을 의미합니다.",
       "importanceRationale": "근거: 벤처 캐피털 투자는 스타트업 및 성장 단계 기업의 자금 조달에 중요한 역할을 하며, 이는 고용 창출, 기술 개발 및 경제 성장을 촉진합니다.",
       "impactSignals": [
         {
           "label": "market-demand",
-          "evidence": "벤처 캐피털 투자 증가는 시장 수요 및 성장 가능성을 시사합니다."
+          "evidence": "벤처 캐피털 투자는 시장 수요가 높은 분야의 기업 성장을 지원합니다."
+        },
+        {
+          "label": "capex",
+          "evidence": "벤처 캐피털 유치를 통해 기업은 설비 투자 및 연구 개발을 확대할 수 있습니다."
         }
       ],
       "dedupeKey": "nebraska_venture_capital_2025",
